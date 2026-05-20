@@ -19,7 +19,9 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 import time
+from datetime import datetime
 from typing import Iterable
 
 import requests
@@ -44,28 +46,55 @@ CATEGORY_COLORS = {
 }
 
 
+_HTTP_URL = re.compile(r"^https?://", re.IGNORECASE)
+
+
+def _coerce_iso_timestamp(value: str | None) -> str | None:
+    """Return `value` only if it parses as ISO8601. Else None.
+
+    Discord's embed `timestamp` requires strict ISO8601 (e.g.
+    "2026-05-20T22:55:00Z"). Workday returns user-facing strings like
+    "Posted 5 Days Ago" — those would cause Discord to return 400.
+    """
+    if not value:
+        return None
+    try:
+        # fromisoformat handles "+00:00" and "Z" (3.11+)
+        datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return value
+    except (ValueError, AttributeError):
+        return None
+
+
 def _embed_for_job(job: Job, is_technical: bool) -> dict:
     title = job.title or "(no title)"
     if is_technical:
         title = f"[TECHNICAL] {title}"
 
+    # Discord field values cap at 1024 chars; embed title at 256.
     fields = [
-        {"name": "Company", "value": job.company, "inline": True},
-        {"name": "Category", "value": job.category, "inline": True},
-        {"name": "Location", "value": job.location or "—", "inline": False},
+        {"name": "Company", "value": (job.company or "—")[:1024], "inline": True},
+        {"name": "Category", "value": (job.category or "—")[:1024], "inline": True},
+        {"name": "Location", "value": (job.location or "—")[:1024], "inline": False},
     ]
     if job.department:
-        fields.append({"name": "Department", "value": job.department, "inline": True})
+        fields.append(
+            {"name": "Department", "value": job.department[:1024], "inline": True}
+        )
 
     embed: dict = {
         "title": title[:256],
-        "url": job.url,
         "color": CATEGORY_COLORS.get(job.category, CATEGORY_COLORS["uncategorized"]),
         "fields": fields,
         "footer": {"text": f"ATS: {job.ats}"},
     }
-    if job.posted_at:
-        embed["timestamp"] = job.posted_at
+    # Discord rejects invalid URLs on embed.url; only set when it's http(s).
+    if job.url and _HTTP_URL.match(job.url):
+        embed["url"] = job.url
+    # Discord requires strict ISO8601 for embed.timestamp.
+    iso = _coerce_iso_timestamp(job.posted_at)
+    if iso:
+        embed["timestamp"] = iso
     return embed
 
 
@@ -80,7 +109,15 @@ def _post(payload: dict) -> bool:
             log.warning("Discord 429; sleeping %.1fs", retry_after)
             time.sleep(retry_after + 0.5)
             resp = requests.post(WEBHOOK_URL, json=payload, timeout=15)
-        resp.raise_for_status()
+        if not resp.ok:
+            # Surface the API error body — Discord 400s are normally informative.
+            body_preview = (resp.text or "")[:500]
+            log.error(
+                "Discord webhook %s: %s — payload preview: %s",
+                resp.status_code, body_preview,
+                str(payload.get("embeds", payload))[:300],
+            )
+            return False
         return True
     except requests.RequestException as e:
         log.error("Discord webhook failed: %s", e)
