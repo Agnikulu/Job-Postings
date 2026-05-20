@@ -11,10 +11,9 @@
 #     site:      External career site identifier in the URL path.
 #     note:      (optional) Free-form note (used for tier3_todo entries).
 #
-# Slugs are best-effort guesses. Run `python discovery.py` before relying on
-# them — it pings every endpoint and reports broken entries to fix.
-# Tier-3 entries are tracked but skipped by the orchestrator until custom
-# adapters are written.
+# All non-tier3 entries below have been verified via discovery.py against the
+# live ATS endpoints. Tier-3 entries (custom careers sites) are tracked for
+# future expansion but skipped by the orchestrator.
 
 # =============================================================================
 # Category I: Hyper-Scale Frontier AI Labs
@@ -37,7 +36,7 @@
 
 - name: OpenAI
   ats: tier3_todo
-  note: "Custom careers site at openai.com/careers/search — needs bespoke adapter."
+  note: "Custom careers site at openai.com/careers/search."
   category: frontier_ai
 
 - name: Google DeepMind
@@ -68,13 +67,13 @@
   category: frontier_ai
 
 - name: Harvey
-  ats: greenhouse
+  ats: ashby
   slug: harvey
   category: frontier_ai
 
 - name: Groq
-  ats: greenhouse
-  slug: groq
+  ats: tier3_todo
+  note: "No public ATS endpoint found — bespoke careers page."
   category: frontier_ai
 
 - name: CoreWeave
@@ -83,17 +82,17 @@
   category: frontier_ai
 
 - name: Hugging Face
-  ats: greenhouse
-  slug: huggingface
+  ats: tier3_todo
+  note: "Was Greenhouse historically; no public board found in latest audit."
   category: frontier_ai
 
 - name: Pinecone
-  ats: greenhouse
+  ats: ashby
   slug: pinecone
   category: frontier_ai
 
 - name: Cohere
-  ats: greenhouse
+  ats: ashby
   slug: cohere
   category: frontier_ai
 
@@ -107,13 +106,13 @@
   category: quant
 
 - name: Citadel
-  ats: greenhouse
-  slug: citadel
+  ats: tier3_todo
+  note: "Bespoke careers portal at citadel.com/careers."
   category: quant
 
 - name: Citadel Securities
-  ats: greenhouse
-  slug: citadelsecurities
+  ats: tier3_todo
+  note: "Bespoke careers portal at citadelsecurities.com/careers."
   category: quant
 
 - name: HRT
@@ -148,12 +147,12 @@
 
 - name: Optiver
   ats: tier3_todo
-  note: "Custom careers site at optiver.com/working-at-optiver/career-opportunities."
+  note: "Custom careers site at optiver.com."
   category: quant
 
 - name: Two Sigma
-  ats: greenhouse
-  slug: twosigma
+  ats: tier3_todo
+  note: "Bespoke careers portal at careers.twosigma.com."
   category: quant
 
 - name: D.E. Shaw
@@ -177,10 +176,8 @@
   category: quant
 
 - name: Point72
-  ats: workday
-  tenant: point72
-  wd_pod: wd5
-  site: Point72
+  ats: tier3_todo
+  note: "Workday with non-default tenant/site IDs — needs manual lookup."
   category: quant
 
 - name: WorldQuant
@@ -194,10 +191,8 @@
   category: quant
 
 - name: Balyasny Asset Mgt.
-  ats: workday
-  tenant: balyasny
-  wd_pod: wd1
-  site: BAM
+  ats: tier3_todo
+  note: "Workday with non-default tenant/site IDs — needs manual lookup."
   category: quant
 
 # =============================================================================
@@ -215,7 +210,7 @@
   category: enterprise
 
 - name: Together AI
-  ats: ashby
+  ats: greenhouse
   slug: togetherai
   category: enterprise
 
@@ -226,7 +221,7 @@
 
 - name: Runway ML
   ats: ashby
-  slug: runwayml
+  slug: runway-ml
   category: enterprise
 
 - name: Etched
@@ -235,8 +230,8 @@
   category: enterprise
 
 - name: Retool
-  ats: ashby
-  slug: retool
+  ats: tier3_todo
+  note: "No public ATS endpoint found — bespoke careers page."
   category: enterprise
 
 - name: Vercel
@@ -251,12 +246,12 @@
 
 - name: Clay
   ats: ashby
-  slug: clay
+  slug: claylabs
   category: enterprise
 
 - name: Hebbia
   ats: ashby
-  slug: hebbia
+  slug: hebbia-ai
   category: enterprise
 
 - name: Warp
@@ -280,13 +275,13 @@
   category: enterprise
 
 - name: Notion
-  ats: greenhouse
+  ats: ashby
   slug: notion
   category: enterprise
 
 - name: Rippling
-  ats: greenhouse
-  slug: rippling
+  ats: tier3_todo
+  note: "No public ATS endpoint found — bespoke careers page."
   category: enterprise
 
 - name: Ramp
@@ -295,18 +290,18 @@
   category: enterprise
 
 - name: Confluent
-  ats: greenhouse
+  ats: ashby
   slug: confluent
   category: enterprise
 
 - name: Plaid
-  ats: greenhouse
+  ats: ashby
   slug: plaid
   category: enterprise
 
 - name: Neon
-  ats: greenhouse
-  slug: neondatabase
+  ats: lever
+  slug: neon
   category: enterprise
 
 - name: ClickHouse
@@ -324,18 +319,18 @@
   category: robotics
 
 - name: Luma AI
-  ats: ashby
-  slug: lumaai
+  ats: tier3_todo
+  note: "No public ATS endpoint found — bespoke careers page."
   category: robotics
 
 - name: Figure AI
-  ats: lever
-  slug: figure
+  ats: greenhouse
+  slug: figureai
   category: robotics
 
 - name: Anduril
   ats: greenhouse
-  slug: anduril
+  slug: andurilindustries
   category: robotics
 
 - name: Waymo
@@ -353,8 +348,8 @@
 # =============================================================================
 
 - name: EvolutionaryScale
-  ats: ashby
-  slug: evolutionaryscale
+  ats: tier3_todo
+  note: "No public ATS endpoint found — bespoke careers page."
   category: biotech
 
 - name: Xaira Therapeutics
@@ -363,23 +358,23 @@
   category: biotech
 
 - name: Inceptive
-  ats: ashby
+  ats: greenhouse
   slug: inceptive
   category: biotech
 
 - name: Isomorphic Labs
   ats: tier3_todo
-  note: "Routes through careers.google.com (Alphabet) — needs Google careers adapter."
+  note: "Routes through careers.google.com (Alphabet)."
   category: biotech
 
 - name: Pathos AI
-  ats: greenhouse
+  ats: ashby
   slug: pathos
   category: biotech
 
 - name: Headway
-  ats: greenhouse
-  slug: findheadway
+  ats: ashby
+  slug: headway
   category: biotech
 
 - name: Flatiron Health
@@ -388,12 +383,12 @@
   category: biotech
 
 - name: Insitro
-  ats: greenhouse
+  ats: ashby
   slug: insitro
   category: biotech
 
 - name: Benchling
-  ats: greenhouse
+  ats: ashby
   slug: benchling
   category: biotech
 
@@ -408,8 +403,8 @@
   category: biotech
 
 - name: Genesis Therapeutics
-  ats: greenhouse
-  slug: genesistherapeutics
+  ats: ashby
+  slug: genesis
   category: biotech
 
 - name: Recursion Pharma
@@ -418,13 +413,13 @@
   category: biotech
 
 - name: Enveda Biosciences
-  ats: greenhouse
+  ats: lever
   slug: enveda
   category: biotech
 
 - name: Spring Discovery
-  ats: greenhouse
-  slug: springdiscovery
+  ats: tier3_todo
+  note: "No public ATS endpoint found — small startup, may have private board."
   category: biotech
 
 # =============================================================================
@@ -443,12 +438,12 @@
 
 - name: Google
   ats: tier3_todo
-  note: "Custom careers site at careers.google.com — needs Google careers adapter."
+  note: "Custom careers site at careers.google.com."
   category: big_tech
 
 - name: Apple
   ats: tier3_todo
-  note: "Custom careers site at jobs.apple.com — needs Apple careers adapter."
+  note: "Custom careers site at jobs.apple.com."
   category: big_tech
 
 - name: Roblox
@@ -462,8 +457,8 @@
   category: big_tech
 
 - name: Uber
-  ats: greenhouse
-  slug: uber
+  ats: tier3_todo
+  note: "Bespoke careers portal at uber.com/us/en/careers/list."
   category: big_tech
 
 - name: Pinterest
@@ -484,7 +479,7 @@
   category: big_tech
 
 - name: Snowflake
-  ats: greenhouse
+  ats: ashby
   slug: snowflake
   category: big_tech
 
@@ -495,7 +490,7 @@
 
 - name: LinkedIn
   ats: tier3_todo
-  note: "Routes through linkedin.com/careers — needs bespoke adapter."
+  note: "Routes through linkedin.com/careers."
   category: big_tech
 
 - name: Microsoft
@@ -509,13 +504,11 @@
   category: big_tech
 
 - name: Atlassian
-  ats: greenhouse
-  slug: atlassian
+  ats: tier3_todo
+  note: "Bespoke careers portal at atlassian.com/company/careers."
   category: big_tech
 
 - name: BlackLine
-  ats: workday
-  tenant: blackline
-  wd_pod: wd1
-  site: BlackLine
+  ats: tier3_todo
+  note: "Workday with non-default tenant/site IDs — needs manual lookup."
   category: big_tech
