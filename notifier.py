@@ -117,20 +117,44 @@ def send_batch(new_jobs: Iterable[tuple[Job, bool]]) -> int:
     return sent
 
 
+def _latest_jobs_url() -> str | None:
+    """Construct the GitHub URL of latest_jobs.md for the current repo.
+
+    Uses env vars set automatically by GitHub Actions:
+      GITHUB_SERVER_URL   (e.g. https://github.com)
+      GITHUB_REPOSITORY   (e.g. Agnikulu/Job-Postings)
+      GITHUB_REF_NAME     (e.g. main)
+    Returns None when not running inside Actions (local dry-run).
+    """
+    server = os.environ.get("GITHUB_SERVER_URL", "https://github.com")
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    branch = os.environ.get("GITHUB_REF_NAME", "main")
+    if not repo:
+        return None
+    return f"{server}/{repo}/blob/{branch}/latest_jobs.md"
+
+
 def _send_summary(jobs: list[tuple[Job, bool]]) -> bool:
     by_company: dict[str, int] = {}
     for job, _ in jobs:
         by_company[job.company] = by_company.get(job.company, 0) + 1
     top = sorted(by_company.items(), key=lambda kv: -kv[1])[:15]
     breakdown = "\n".join(f"- **{c}**: {n}" for c, n in top)
+
+    description_parts = ["Too many new postings for individual alerts."]
+    link = _latest_jobs_url()
+    if link:
+        description_parts.append(
+            f"**[View all {len(jobs)} jobs with apply links \u2192]({link})**"
+        )
+    description_parts.append("**Top companies:**\n" + breakdown)
+    description = "\n\n".join(description_parts)
+
     payload = {
         "embeds": [
             {
                 "title": f"{len(jobs)} new early-career roles detected",
-                "description": (
-                    "Too many new postings for individual alerts (likely a "
-                    "first run). Top companies:\n\n" + breakdown
-                ),
+                "description": description,
                 "color": 0xE74C3C,
             }
         ]

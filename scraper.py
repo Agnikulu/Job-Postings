@@ -24,6 +24,8 @@ from __future__ import annotations
 import logging
 import os
 import sys
+from collections import defaultdict
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -38,6 +40,7 @@ from state import State
 REGISTRY_PATH = Path(__file__).parent / "companies.yaml"
 STATE_PATH = Path(__file__).parent / "seen_jobs.json"
 STATS_PATH = Path(__file__).parent / "company_stats.json"
+LATEST_JOBS_PATH = Path(__file__).parent / "latest_jobs.md"
 
 
 def _setup_logging() -> None:
@@ -58,6 +61,51 @@ def load_registry(path: Path = REGISTRY_PATH) -> list[dict[str, Any]]:
 
 def _us_filter_enabled() -> bool:
     return os.environ.get("ATS_SNIPER_ALL_LOCATIONS", "").strip() != "1"
+
+
+def _ascii(s: str | None) -> str:
+    return (s or "").encode("ascii", errors="replace").decode("ascii")
+
+
+def write_latest_jobs_md(
+    new_jobs: list[tuple[Job, bool]],
+    us_only: bool,
+    path: Path = LATEST_JOBS_PATH,
+) -> None:
+    """Write a clickable markdown report of this run's new matches.
+
+    Overwrites the file each run so it always reflects the most recent
+    notification batch. Committed back to the repo by the workflow so it
+    can be linked from the Discord bulk-summary message.
+    """
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines: list[str] = []
+    lines.append("# Latest Job Sniper Run\n")
+    lines.append(f"**Run timestamp:** {now}  ")
+    lines.append(f"**New matches this run:** {len(new_jobs)}  ")
+    lines.append(f"**Location filter:** {'US-only' if us_only else 'ALL LOCATIONS'}\n")
+
+    if not new_jobs:
+        lines.append("\n_No new early-career roles since the last run._\n")
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        return
+
+    by_company: dict[str, list[tuple[Job, bool]]] = defaultdict(list)
+    for j, t in new_jobs:
+        by_company[j.company].append((j, t))
+
+    lines.append(f"\nGrouped by company (sorted by match count):\n")
+
+    ordered = sorted(by_company.items(), key=lambda kv: -len(kv[1]))
+    for company, rows in ordered:
+        tech = sum(1 for _, t in rows if t)
+        lines.append(f"\n## {company} - {len(rows)} new ({tech} technical)\n")
+        for j, t in sorted(rows, key=lambda r: r[0].title.lower()):
+            badge = "**[TECH]** " if t else ""
+            loc = f" - *{_ascii(j.location)}*" if j.location else ""
+            lines.append(f"- {badge}[{_ascii(j.title)}]({j.url}){loc}")
+
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def run() -> int:
@@ -143,6 +191,7 @@ def run() -> int:
         len(new_jobs), total_us_filtered,
     )
 
+    write_latest_jobs_md(new_jobs, us_only=us_only)
     notifier.send_batch(new_jobs)
 
     pruned = state.prune(max_age_days=90)
