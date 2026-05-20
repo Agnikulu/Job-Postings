@@ -1,0 +1,521 @@
+# Serverless ATS Job Sniper — Company Registry
+#
+# Schema:
+#   - name:      Display name shown in Discord notifications.
+#     ats:       One of: greenhouse | lever | ashby | workday | tier3_todo
+#     slug:      Company slug for Greenhouse/Lever/Ashby endpoints.
+#     category:  frontier_ai | quant | enterprise | robotics | biotech | big_tech
+#     # Workday-specific:
+#     tenant:    Workday tenant subdomain.
+#     wd_pod:    Workday pod (wd1, wd3, wd5, etc.) — check the careers URL.
+#     site:      External career site identifier in the URL path.
+#     note:      (optional) Free-form note (used for tier3_todo entries).
+#
+# Slugs are best-effort guesses. Run `python discovery.py` before relying on
+# them — it pings every endpoint and reports broken entries to fix.
+# Tier-3 entries are tracked but skipped by the orchestrator until custom
+# adapters are written.
+
+# =============================================================================
+# Category I: Hyper-Scale Frontier AI Labs
+# =============================================================================
+
+- name: Cursor
+  ats: ashby
+  slug: cursor
+  category: frontier_ai
+
+- name: xAI
+  ats: tier3_todo
+  note: "Custom careers site at x.ai/careers — needs bespoke adapter."
+  category: frontier_ai
+
+- name: Anthropic
+  ats: greenhouse
+  slug: anthropic
+  category: frontier_ai
+
+- name: OpenAI
+  ats: tier3_todo
+  note: "Custom careers site at openai.com/careers/search — needs bespoke adapter."
+  category: frontier_ai
+
+- name: Google DeepMind
+  ats: tier3_todo
+  note: "Routes through careers.google.com — needs Google careers adapter."
+  category: frontier_ai
+
+- name: Scale AI
+  ats: greenhouse
+  slug: scaleai
+  category: frontier_ai
+
+- name: Perplexity AI
+  ats: ashby
+  slug: perplexity
+  category: frontier_ai
+
+- name: Nvidia
+  ats: workday
+  tenant: nvidia
+  wd_pod: wd5
+  site: NVIDIAExternalCareerSite
+  category: frontier_ai
+
+- name: Glean
+  ats: greenhouse
+  slug: gleanwork
+  category: frontier_ai
+
+- name: Harvey
+  ats: greenhouse
+  slug: harvey
+  category: frontier_ai
+
+- name: Groq
+  ats: greenhouse
+  slug: groq
+  category: frontier_ai
+
+- name: CoreWeave
+  ats: greenhouse
+  slug: coreweave
+  category: frontier_ai
+
+- name: Hugging Face
+  ats: greenhouse
+  slug: huggingface
+  category: frontier_ai
+
+- name: Pinecone
+  ats: greenhouse
+  slug: pinecone
+  category: frontier_ai
+
+- name: Cohere
+  ats: greenhouse
+  slug: cohere
+  category: frontier_ai
+
+# =============================================================================
+# Category II: Elite Quantitative Finance & Proprietary Trading
+# =============================================================================
+
+- name: Jane Street
+  ats: tier3_todo
+  note: "Custom careers site at janestreet.com/join-jane-street."
+  category: quant
+
+- name: Citadel
+  ats: greenhouse
+  slug: citadel
+  category: quant
+
+- name: Citadel Securities
+  ats: greenhouse
+  slug: citadelsecurities
+  category: quant
+
+- name: HRT
+  ats: tier3_todo
+  note: "Custom careers site at hudsonrivertrading.com/careers."
+  category: quant
+
+- name: Five Rings
+  ats: tier3_todo
+  note: "Custom careers site at fiverings.com/careers."
+  category: quant
+
+- name: Radix Trading
+  ats: tier3_todo
+  note: "Custom careers site at radixtrading.com."
+  category: quant
+
+- name: PDT Partners
+  ats: tier3_todo
+  note: "Custom careers site at pdtpartners.com."
+  category: quant
+
+- name: Jump Trading
+  ats: tier3_todo
+  note: "Custom careers site at jumptrading.com/careers."
+  category: quant
+
+- name: IMC Trading
+  ats: tier3_todo
+  note: "Custom careers site at imc.com/us/careers."
+  category: quant
+
+- name: Optiver
+  ats: tier3_todo
+  note: "Custom careers site at optiver.com/working-at-optiver/career-opportunities."
+  category: quant
+
+- name: Two Sigma
+  ats: greenhouse
+  slug: twosigma
+  category: quant
+
+- name: D.E. Shaw
+  ats: tier3_todo
+  note: "Custom careers site at deshaw.com/careers."
+  category: quant
+
+- name: DRW
+  ats: greenhouse
+  slug: drweng
+  category: quant
+
+- name: Headlands Technologies
+  ats: tier3_todo
+  note: "Custom careers site at headlandstech.com/careers."
+  category: quant
+
+- name: Millennium
+  ats: tier3_todo
+  note: "Custom careers site at mlp.com/careers."
+  category: quant
+
+- name: Point72
+  ats: workday
+  tenant: point72
+  wd_pod: wd5
+  site: Point72
+  category: quant
+
+- name: WorldQuant
+  ats: tier3_todo
+  note: "Custom careers site at worldquant.com/career-listing."
+  category: quant
+
+- name: Tower Research
+  ats: tier3_todo
+  note: "Custom careers site at tower-research.com/open-positions."
+  category: quant
+
+- name: Balyasny Asset Mgt.
+  ats: workday
+  tenant: balyasny
+  wd_pod: wd1
+  site: BAM
+  category: quant
+
+# =============================================================================
+# Category III: Series B/C Enterprise, Infrastructure & Agentic Unicorns
+# =============================================================================
+
+- name: Cognition AI
+  ats: ashby
+  slug: cognition
+  category: enterprise
+
+- name: Sierra
+  ats: ashby
+  slug: sierra
+  category: enterprise
+
+- name: Together AI
+  ats: ashby
+  slug: togetherai
+  category: enterprise
+
+- name: ElevenLabs
+  ats: ashby
+  slug: elevenlabs
+  category: enterprise
+
+- name: Runway ML
+  ats: ashby
+  slug: runwayml
+  category: enterprise
+
+- name: Etched
+  ats: ashby
+  slug: etched
+  category: enterprise
+
+- name: Retool
+  ats: ashby
+  slug: retool
+  category: enterprise
+
+- name: Vercel
+  ats: greenhouse
+  slug: vercel
+  category: enterprise
+
+- name: Linear
+  ats: ashby
+  slug: linear
+  category: enterprise
+
+- name: Clay
+  ats: ashby
+  slug: clay
+  category: enterprise
+
+- name: Hebbia
+  ats: ashby
+  slug: hebbia
+  category: enterprise
+
+- name: Warp
+  ats: ashby
+  slug: warp
+  category: enterprise
+
+- name: Stripe
+  ats: greenhouse
+  slug: stripe
+  category: enterprise
+
+- name: Databricks
+  ats: greenhouse
+  slug: databricks
+  category: enterprise
+
+- name: Figma
+  ats: greenhouse
+  slug: figma
+  category: enterprise
+
+- name: Notion
+  ats: greenhouse
+  slug: notion
+  category: enterprise
+
+- name: Rippling
+  ats: greenhouse
+  slug: rippling
+  category: enterprise
+
+- name: Ramp
+  ats: ashby
+  slug: ramp
+  category: enterprise
+
+- name: Confluent
+  ats: greenhouse
+  slug: confluent
+  category: enterprise
+
+- name: Plaid
+  ats: greenhouse
+  slug: plaid
+  category: enterprise
+
+- name: Neon
+  ats: greenhouse
+  slug: neondatabase
+  category: enterprise
+
+- name: ClickHouse
+  ats: greenhouse
+  slug: clickhouse
+  category: enterprise
+
+# =============================================================================
+# Category IV: Applied Embodied AI and Cyber-Physical Robotics
+# =============================================================================
+
+- name: Physical Intelligence
+  ats: ashby
+  slug: physicalintelligence
+  category: robotics
+
+- name: Luma AI
+  ats: ashby
+  slug: lumaai
+  category: robotics
+
+- name: Figure AI
+  ats: lever
+  slug: figure
+  category: robotics
+
+- name: Anduril
+  ats: greenhouse
+  slug: anduril
+  category: robotics
+
+- name: Waymo
+  ats: tier3_todo
+  note: "Routes through careers.google.com — needs Google careers adapter."
+  category: robotics
+
+- name: SpaceX
+  ats: tier3_todo
+  note: "Custom careers site at spacex.com/careers."
+  category: robotics
+
+# =============================================================================
+# Category V: Generative AI-Biotech and Computational Biology
+# =============================================================================
+
+- name: EvolutionaryScale
+  ats: ashby
+  slug: evolutionaryscale
+  category: biotech
+
+- name: Xaira Therapeutics
+  ats: greenhouse
+  slug: xairatherapeutics
+  category: biotech
+
+- name: Inceptive
+  ats: ashby
+  slug: inceptive
+  category: biotech
+
+- name: Isomorphic Labs
+  ats: tier3_todo
+  note: "Routes through careers.google.com (Alphabet) — needs Google careers adapter."
+  category: biotech
+
+- name: Pathos AI
+  ats: greenhouse
+  slug: pathos
+  category: biotech
+
+- name: Headway
+  ats: greenhouse
+  slug: findheadway
+  category: biotech
+
+- name: Flatiron Health
+  ats: greenhouse
+  slug: flatironhealth
+  category: biotech
+
+- name: Insitro
+  ats: greenhouse
+  slug: insitro
+  category: biotech
+
+- name: Benchling
+  ats: greenhouse
+  slug: benchling
+  category: biotech
+
+- name: Click Therapeutics
+  ats: greenhouse
+  slug: clicktherapeutics
+  category: biotech
+
+- name: Zocdoc
+  ats: greenhouse
+  slug: zocdoc
+  category: biotech
+
+- name: Genesis Therapeutics
+  ats: greenhouse
+  slug: genesistherapeutics
+  category: biotech
+
+- name: Recursion Pharma
+  ats: greenhouse
+  slug: recursionpharmaceuticals
+  category: biotech
+
+- name: Enveda Biosciences
+  ats: greenhouse
+  slug: enveda
+  category: biotech
+
+- name: Spring Discovery
+  ats: greenhouse
+  slug: springdiscovery
+  category: biotech
+
+# =============================================================================
+# Category VI: Elite Big Tech, Infrastructure & High-WLB Publics
+# =============================================================================
+
+- name: Netflix
+  ats: tier3_todo
+  note: "Custom careers site at explore.jobs.netflix.net — Eightfold-based."
+  category: big_tech
+
+- name: Meta
+  ats: tier3_todo
+  note: "Custom careers site at metacareers.com — GraphQL endpoint."
+  category: big_tech
+
+- name: Google
+  ats: tier3_todo
+  note: "Custom careers site at careers.google.com — needs Google careers adapter."
+  category: big_tech
+
+- name: Apple
+  ats: tier3_todo
+  note: "Custom careers site at jobs.apple.com — needs Apple careers adapter."
+  category: big_tech
+
+- name: Roblox
+  ats: greenhouse
+  slug: roblox
+  category: big_tech
+
+- name: Airbnb
+  ats: greenhouse
+  slug: airbnb
+  category: big_tech
+
+- name: Uber
+  ats: greenhouse
+  slug: uber
+  category: big_tech
+
+- name: Pinterest
+  ats: greenhouse
+  slug: pinterest
+  category: big_tech
+
+- name: Datadog
+  ats: greenhouse
+  slug: datadog
+  category: big_tech
+
+- name: Adobe
+  ats: workday
+  tenant: adobe
+  wd_pod: wd5
+  site: external_experienced
+  category: big_tech
+
+- name: Snowflake
+  ats: greenhouse
+  slug: snowflake
+  category: big_tech
+
+- name: Palantir
+  ats: tier3_todo
+  note: "Custom careers site at palantir.com/careers."
+  category: big_tech
+
+- name: LinkedIn
+  ats: tier3_todo
+  note: "Routes through linkedin.com/careers — needs bespoke adapter."
+  category: big_tech
+
+- name: Microsoft
+  ats: tier3_todo
+  note: "Custom careers site at jobs.careers.microsoft.com."
+  category: big_tech
+
+- name: GitLab
+  ats: greenhouse
+  slug: gitlab
+  category: big_tech
+
+- name: Atlassian
+  ats: greenhouse
+  slug: atlassian
+  category: big_tech
+
+- name: BlackLine
+  ats: workday
+  tenant: blackline
+  wd_pod: wd1
+  site: BlackLine
+  category: big_tech

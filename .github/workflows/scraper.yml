@@ -1,0 +1,53 @@
+name: ATS Sniper
+
+on:
+  schedule:
+    # Hourly. GitHub Actions free-tier crons are best-effort and typically
+    # run with ~5-20 min jitter (sometimes more during platform peaks).
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ats-sniper
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          PYTHONUNBUFFERED: "1"
+        run: python scraper.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "ats-sniper-bot"
+          git config user.email "ats-sniper-bot@users.noreply.github.com"
+          git add seen_jobs.json
+          if git diff --staged --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore: update seen_jobs.json [skip ci]"
+            git push
+          fi
