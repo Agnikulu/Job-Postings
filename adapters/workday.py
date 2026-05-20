@@ -33,7 +33,9 @@ BASE_URL = (
     "https://{tenant}.{wd_pod}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
 )
 PAGE_SIZE = 20
-MAX_PAGES = 50  # 1000 postings max per company — generous safety net
+# 250 pages × 20 = 5000 postings max per company.
+# Real-world ceiling so far: Nvidia ~2000, Adobe ~1200 — both safely under.
+MAX_PAGES = 250
 
 
 @retry(
