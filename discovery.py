@@ -37,6 +37,12 @@ query JobBoardList($boardId: String!) {
 """
 RIP = "https://ats.rippling.com/{slug}/jobs"
 SR = "https://api.smartrecruiters.com/v1/companies/{slug}/postings"
+EF = "https://{host}/api/apply/v2/jobs"
+MS = "https://apply.careers.microsoft.com/api/pcsx/search"
+LI = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+GOOGLE = "https://www.google.com/about/careers/applications/jobs/results/"
+APPLE = "https://jobs.apple.com/en-us/search"
+META_SITEMAP = "https://www.metacareers.com/jobs/sitemap.xml"
 UBER_CAREERS = "https://www.uber.com/us/en/careers/list/"
 UBER_SEARCH = "https://www.uber.com/api/loadSearchJobsResults"
 
@@ -194,6 +200,138 @@ def _check_smartrecruiters(slug: str) -> tuple[int, int]:
         return 0, 0
 
 
+def _check_eightfold(company: dict[str, Any]) -> tuple[int, int]:
+    host = company.get("careers_host") or "explore.jobs.netflix.net"
+    domain = company.get("domain") or company.get("slug") or "netflix.com"
+    try:
+        r = requests.get(
+            EF.format(host=host),
+            params={"domain": domain, "batch": 0, "limit": 10},
+            headers=DEFAULT_HEADERS,
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            try:
+                payload = r.json()
+                count = payload.get("count") or len(payload.get("positions") or [])
+            except ValueError:
+                count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_microsoft(company: dict[str, Any]) -> tuple[int, int]:
+    domain = company.get("domain") or company.get("slug") or "microsoft.com"
+    try:
+        r = requests.get(
+            MS,
+            params={"domain": domain, "query": "", "location": "", "start": 0, "count": 10},
+            headers=DEFAULT_HEADERS,
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            try:
+                payload = r.json()
+                data = payload.get("data")
+                if isinstance(data, dict):
+                    count = data.get("count") or len(data.get("positions") or [])
+                elif isinstance(data, list):
+                    count = len(data)
+            except ValueError:
+                count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_google_careers() -> tuple[int, int]:
+    try:
+        r = requests.get(
+            GOOGLE,
+            params={"page": 1},
+            headers={**DEFAULT_HEADERS, "Accept": "text/html,application/json,*/*"},
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            match = re.search(
+                r"AF_initDataCallback\(\{key:\s*'ds:1',\s*hash:\s*'\d+',\s*data:(.*?),\s*sideChannel:",
+                r.text,
+                re.DOTALL,
+            )
+            if match:
+                try:
+                    data = json.loads(match.group(1))
+                    count = len(data[0]) if data and data[0] else 0
+                except ValueError:
+                    count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_apple() -> tuple[int, int]:
+    try:
+        r = requests.get(
+            APPLE,
+            params={"sort": "newest", "page": 1},
+            headers={
+                **DEFAULT_HEADERS,
+                "Accept": "text/html,application/json,*/*",
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                ),
+            },
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            count = len(set(re.findall(r'href="/en-us/details/(\d+)/', r.text)))
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_meta() -> tuple[int, int]:
+    try:
+        r = requests.get(META_SITEMAP, headers=DEFAULT_HEADERS, timeout=15)
+        count = 0
+        if r.ok:
+            count = r.text.count("<loc>https://www.metacareers.com/profile/job_details/")
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_linkedin(company: dict[str, Any]) -> tuple[int, int]:
+    company_id = company.get("linkedin_company_id") or "1337"
+    location = company.get("search_location") or "United States"
+    try:
+        r = requests.get(
+            LI,
+            params={"f_C": company_id, "location": location, "start": 0},
+            headers={
+                **DEFAULT_HEADERS,
+                "Accept": "text/html,application/json,*/*",
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                ),
+            },
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            count = len(re.findall(r'data-entity-urn="urn:li:jobPosting:(\d+)"', r.text))
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
 def _check_workday(company: dict[str, Any]) -> tuple[int, int]:
     url = WD.format(
         tenant=company["tenant"], wd_pod=company["wd_pod"], site=company["site"]
@@ -254,6 +392,18 @@ def main() -> int:
             status, count = _check_uber()
         elif ats == "smartrecruiters":
             status, count = _check_smartrecruiters(company["slug"])
+        elif ats == "eightfold":
+            status, count = _check_eightfold(company)
+        elif ats == "google_careers":
+            status, count = _check_google_careers()
+        elif ats == "microsoft":
+            status, count = _check_microsoft(company)
+        elif ats == "apple":
+            status, count = _check_apple()
+        elif ats == "meta":
+            status, count = _check_meta()
+        elif ats == "linkedin":
+            status, count = _check_linkedin(company)
         else:
             print(f"{name:35} {ats:12} UNKNOWN")
             bad.append(name)

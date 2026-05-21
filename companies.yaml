@@ -43,8 +43,8 @@
   category: frontier_ai
 
 - name: Google DeepMind
-  ats: tier3_todo
-  note: "Routes through careers.google.com — needs Google careers adapter."
+  ats: google_careers
+  google_company: DeepMind
   category: frontier_ai
 
 - name: Scale AI
@@ -77,6 +77,21 @@
 - name: Groq
   ats: gem
   slug: groq
+  category: frontier_ai
+
+- name: Mistral AI
+  ats: lever
+  slug: mistral
+  category: frontier_ai
+
+- name: LangChain
+  ats: ashby
+  slug: langchain
+  category: frontier_ai
+
+- name: Lambda Labs
+  ats: ashby
+  slug: lambda
   category: frontier_ai
 
 - name: CoreWeave
@@ -181,6 +196,11 @@
 - name: Point72
   ats: greenhouse
   slug: point72
+  category: quant
+
+- name: Bloomberg
+  ats: tier3_todo
+  note: "Custom careers site at careers.bloomberg.com — blocks automated access."
   category: quant
 
 - name: WorldQuant
@@ -337,8 +357,8 @@
   category: robotics
 
 - name: Waymo
-  ats: tier3_todo
-  note: "Routes through careers.google.com — needs Google careers adapter."
+  ats: google_careers
+  google_company: Waymo
   category: robotics
 
 - name: SpaceX
@@ -366,8 +386,8 @@
   category: biotech
 
 - name: Isomorphic Labs
-  ats: tier3_todo
-  note: "Routes through careers.google.com (Alphabet)."
+  ats: google_careers
+  google_company: Isomorphic Labs
   category: biotech
 
 - name: Pathos AI
@@ -425,23 +445,22 @@
 # =============================================================================
 
 - name: Netflix
-  ats: tier3_todo
-  note: "Custom careers site at explore.jobs.netflix.net — Eightfold-based."
+  ats: eightfold
+  careers_host: explore.jobs.netflix.net
+  domain: netflix.com
   category: big_tech
 
 - name: Meta
   ats: tier3_todo
-  note: "Custom careers site at metacareers.com — GraphQL endpoint."
+  note: "Custom careers site at metacareers.com — meta adapter exists but rate-limited on bootstrap."
   category: big_tech
 
 - name: Google
-  ats: tier3_todo
-  note: "Custom careers site at careers.google.com."
+  ats: google_careers
   category: big_tech
 
 - name: Apple
-  ats: tier3_todo
-  note: "Custom careers site at jobs.apple.com."
+  ats: apple
   category: big_tech
 
 - name: Roblox
@@ -482,18 +501,18 @@
   category: big_tech
 
 - name: Palantir
-  ats: tier3_todo
-  note: "Custom careers site at palantir.com/careers."
+  ats: lever
+  slug: palantir
   category: big_tech
 
 - name: LinkedIn
-  ats: tier3_todo
-  note: "Routes through linkedin.com/careers."
+  ats: linkedin
+  linkedin_company_id: "1337"
   category: big_tech
 
 - name: Microsoft
-  ats: tier3_todo
-  note: "Custom careers site at jobs.careers.microsoft.com."
+  ats: microsoft
+  domain: microsoft.com
   category: big_tech
 
 - name: GitLab
@@ -509,4 +528,24 @@
 - name: BlackLine
   ats: jibe
   careers_host: careers.blackline.com
+  category: big_tech
+
+- name: MongoDB
+  ats: greenhouse
+  slug: mongodb
+  category: big_tech
+
+- name: Discord
+  ats: greenhouse
+  slug: discord
+  category: big_tech
+
+- name: Reddit
+  ats: greenhouse
+  slug: reddit
+  category: big_tech
+
+- name: DoorDash
+  ats: greenhouse
+  slug: doordashusa
   category: big_tech

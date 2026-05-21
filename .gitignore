@@ -21,6 +21,7 @@ Thumbs.db
 .env
 .env.local
 *.log
+meta_title_cache.json
 
 review.md
 review.csv
