@@ -1,1 +1,2007 @@
-{}
+{
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690": {
+    "title": "2026 University Graduate - Research Scientist/Engineer",
+    "company": "Adobe",
+    "location": "San Francisco",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:50:27+00:00",
+    "last_seen": "2026-05-21T00:50:27+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453": {
+    "title": "2026 Intern - Data Scientist",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-12",
+    "first_seen": "2026-05-21T00:50:27+00:00",
+    "last_seen": "2026-05-21T00:50:27+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133": {
+    "title": "2026 University Graduate - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "Seattle",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:50:27+00:00",
+    "last_seen": "2026-05-21T00:50:27+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007": {
+    "title": "Early Career Software Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007": {
+    "title": "Early Career Mechanical Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007": {
+    "title": "Early Career Electrical Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007": {
+    "title": "Early Career Software Engineer",
+    "company": "Anduril",
+    "location": "Seattle, Washington, United States",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007": {
+    "title": "Early Career Manufacturing Engineer",
+    "company": "Anduril",
+    "location": "Santa Ana, California, United States",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004": {
+    "title": "Data Scientist, Core Data -  PhD (2026)",
+    "company": "Figma",
+    "location": "New York, NY • United States; San Francisco, CA • New York, NY",
+    "department": null,
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-22",
+    "first_seen": "2026-05-21T00:49:36+00:00",
+    "last_seen": "2026-05-21T00:49:36+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004": {
+    "title": "Inside Sales Representative - Early Career (2026)",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "department": null,
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-21T00:49:36+00:00",
+    "last_seen": "2026-05-21T00:49:36+00:00",
+    "is_closed": false
+  },
+  "https://careers.airbnb.com/positions/7839237?gh_jid=7839237": {
+    "title": "Data Science Intern",
+    "company": "Airbnb",
+    "location": "United States",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-13",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://careers.airbnb.com/positions/7859317?gh_jid=7859317": {
+    "title": "iOS Software Engineer, Airbnb - New Grad",
+    "company": "Airbnb",
+    "location": "San Francisco, CA, Seattle, WA",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-28",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7142298?gh_jid=7142298": {
+    "title": "[2026] Applied Scientist - PhD Intern",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7463634?gh_jid=7463634": {
+    "title": "[2026] Data Scientist, Social - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7557909?gh_jid=7557909": {
+    "title": "[2026] Software Engineer, Game Developer",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7577436?gh_jid=7577436": {
+    "title": "[2026] Data Scientist, Foundation AI - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7779304?gh_jid=7779304": {
+    "title": "[2026] Design & Creative Fellowship",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:46+00:00",
+    "last_seen": "2026-05-21T00:49:46+00:00",
+    "is_closed": false
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002": {
+    "title": "PhD GenAI Research Scientist Intern",
+    "company": "Databricks",
+    "location": "San Francisco, California",
+    "department": null,
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-21T00:49:36+00:00",
+    "last_seen": "2026-05-21T00:49:36+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4397706006": {
+    "title": "Embedded Software Intern [Fall 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4613067006": {
+    "title": "Hardware Reliability Intern [Summer 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4676467006": {
+    "title": "Electrical Engineering Intern [Fall 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-25",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4676468006": {
+    "title": "Electrical Interconnect Engineering Intern [Fall 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": null,
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-25",
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/inceptive/jobs/5103191007": {
+    "title": "Internship",
+    "company": "Inceptive",
+    "location": "Palo Alto, CA",
+    "department": null,
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-05",
+    "first_seen": "2026-05-21T00:49:42+00:00",
+    "last_seen": "2026-05-21T00:49:42+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026": {
+    "title": "Interested in an internship?",
+    "company": "Recursion Pharma",
+    "location": "Remote Opportunity - United States; Salt Lake City, Utah",
+    "department": null,
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-01-20",
+    "first_seen": "2026-05-21T00:49:45+00:00",
+    "last_seen": "2026-05-21T00:49:45+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4605996005": {
+    "title": "Software Engineer - New Grad",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-21T00:44:02+00:00",
+    "last_seen": "2026-05-21T00:44:02+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4611533005": {
+    "title": "Technical Advisor Specialist (Part-Time Internship)",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-21T00:44:02+00:00",
+    "last_seen": "2026-05-21T00:44:02+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4687588005": {
+    "title": "National Security Hackathon 2026 - General Interest",
+    "company": "Scale AI",
+    "location": "San Francisco, CA; New York, NY; Washington, DC",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-21T00:44:02+00:00",
+    "last_seen": "2026-05-21T00:44:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e": {
+    "title": "GTM Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "GTM",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/06398761-0950-4e5c-8590-26f485ba5509": {
+    "title": "Technical Recruiter (Entry Level)",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "People",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/09658f43-69ab-4a98-b4fb-02865a3f9f92": {
+    "title": "PD Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/0e78a385-c450-4749-9803-0970ce2971a5": {
+    "title": "Firmware Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/0f24f73f-7607-466e-bbc0-de039767e9c0": {
+    "title": "Core Ops Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff": {
+    "title": "Thermo-Mech CFD Simulation Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e": {
+    "title": "RTL Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/15fe0696-ce29-469a-b31e-a206e19302d6": {
+    "title": "DFT Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877": {
+    "title": "Infrastructure Intern - Summer 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/1efd9b58-66fe-4798-a877-776857b4e189": {
+    "title": "Firmware Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/20f77518-1699-4184-ac8e-9fa2f614d6fb": {
+    "title": "Supercomputing Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/2369ccf9-2b5b-4355-a0d6-dd6d73317358": {
+    "title": "GTM Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "GTM",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/2425e245-6e16-49ca-be54-fb36941af55a": {
+    "title": "Talent Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8": {
+    "title": "Chip Simulation Software Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e": {
+    "title": "Supercomputing Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/2e4d8727-82f1-4887-9389-df5605783bbd": {
+    "title": "Inference Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/30514004-7db4-479d-8512-972946b146f4": {
+    "title": "Core Ops Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/3ea1610a-3dfd-4b51-aeb8-6317e4d6877f": {
+    "title": "DV Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/3ec2bf6a-5ff3-436c-ad3e-6b77ac02ad97": {
+    "title": "PD Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/431a3988-28bb-423b-b526-036b0cfd1963": {
+    "title": "Talent Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/49009e2e-765a-4c4f-824b-7aea0ade2e8f": {
+    "title": "DV Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/4d12f517-6282-4775-8044-fe2133ad5eff": {
+    "title": "DFT Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d": {
+    "title": "DFT Intern - Summer 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75": {
+    "title": "Talent Intern - Summer 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/65348db2-5658-41d0-a833-af222865d979": {
+    "title": "Infrastructure Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc": {
+    "title": "Firmware Intern - Summer 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/6dca552b-876d-4525-971b-6ee720f267eb": {
+    "title": "DFT Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3": {
+    "title": "Inference Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/73ce9d32-26c9-46c0-adaa-dfbe6660a0e1": {
+    "title": "GTM Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "GTM",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/80926a71-0a62-4bf8-a877-b6d96df279b7": {
+    "title": "Infrastructure Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55": {
+    "title": "Firmware Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/89093845-b572-4f2a-93e5-28e99bcbfa89": {
+    "title": "Talent Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/8c1e7aab-3c6d-49a3-8176-d9158acb181f": {
+    "title": "Electrical Platform Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a": {
+    "title": "Electrical Platform Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/982a8ee4-5e1e-43c7-a918-6dac285cdddd": {
+    "title": "Supercomputing Intern - Summer 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/9b060f41-4607-494b-bdcf-57b1e74754ff": {
+    "title": "Finance Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Finance",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/9e6737f4-394f-43b1-92ef-b9d4a7986f68": {
+    "title": "Electrical Platform Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/a06f95bc-adb5-48a2-b9b5-a77695bbd61b": {
+    "title": "ChipSim Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553": {
+    "title": "Finance Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Finance",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/a63c06e0-ae10-467f-a2d2-f222b7016af1": {
+    "title": "Thermo-Mech CFD Simulation Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/aa17bfa2-2922-4aa7-820d-76064f2551a8": {
+    "title": "Inference Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/b1816ce1-fa42-4855-988b-992556414988": {
+    "title": "Mech / Thermal Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71": {
+    "title": "Supercomputing Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77": {
+    "title": "PD Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/d9f7c735-c20c-4c9f-92e5-ae3d598b1643": {
+    "title": "Thermo-Mech CFD Simulation Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/daa8c6c4-97e3-4df4-b8da-e46fe981da1d": {
+    "title": "ChipSim Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb": {
+    "title": "DV Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468": {
+    "title": "Infrastructure Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/e882eeaf-a34b-4f59-98f3-282cbd444508": {
+    "title": "Finance Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Finance",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/ec962944-f7ed-4a3e-a251-9d929295a740": {
+    "title": "Mech / Thermal Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229": {
+    "title": "Mech / Thermal Intern - Summer 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d": {
+    "title": "Core Ops Intern - Fall 2026",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f33b89ca-ad74-4a4f-8f15-06c64e954f4d": {
+    "title": "RTL Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f66613b6-9942-48ce-a553-c377e44d3118": {
+    "title": "RTL Intern - Summer 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f77c61ff-da01-42ce-9ad6-ab0facbccd5b": {
+    "title": "Mech / Thermal Intern - Spring 2027",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:34+00:00",
+    "last_seen": "2026-05-21T00:49:34+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90": {
+    "title": "Software Engineer Intern (Fall 2026)",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "department": "University",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:38+00:00",
+    "last_seen": "2026-05-21T00:49:38+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9": {
+    "title": "Software Engineer, New Grad (AI)",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "department": "University",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:38+00:00",
+    "last_seen": "2026-05-21T00:49:38+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555": {
+    "title": "Software Engineer, New Grad",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "department": "University",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:38+00:00",
+    "last_seen": "2026-05-21T00:49:38+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a": {
+    "title": "Mechatronics Intern",
+    "company": "Physical Intelligence",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "category": "robotics",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f": {
+    "title": "Hardware Systems Intern",
+    "company": "Physical Intelligence",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "category": "robotics",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:41+00:00",
+    "last_seen": "2026-05-21T00:49:41+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
+    "title": "Software Engineer Internship, Android",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:39+00:00",
+    "last_seen": "2026-05-21T00:49:39+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/sierra/c74d600c-235c-4d42-8546-b178b7adefc2": {
+    "title": "Intern, Agent Development (Fall 2026)",
+    "company": "Sierra",
+    "location": "San Francisco, CA",
+    "department": "Early Career",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:49:31+00:00",
+    "last_seen": "2026-05-21T00:49:31+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7": {
+    "title": "Software Engineer Intern (Security) - Fall 2026",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-21T00:50:32+00:00",
+    "last_seen": "2026-05-21T00:50:32+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244": {
+    "title": "Quantum Research Scientist Intern - Fall 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Remote",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481": {
+    "title": "AI Chip Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487": {
+    "title": "AI Chip Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472": {
+    "title": "AI Software Engineer, Kernel Libraries - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336": {
+    "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-01",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581": {
+    "title": "ASIC Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971": {
+    "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398": {
+    "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631": {
+    "title": "Cell Modeling and Verification Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2014331": {
+    "title": "Circuit Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108": {
+    "title": "Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-15",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2016950": {
+    "title": "Deep Learning Architect, LLM Inference - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Kernel-Software-Performance-Architect---New-College-Grad-2026_JR2011814": {
+    "title": "Deep Learning Kernel Software Performance Architect - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169": {
+    "title": "GPU Power Architect - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-02",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1": {
+    "title": "GPU System and Scheduling Architect - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-11",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940": {
+    "title": "Hardware Applications Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-29",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001": {
+    "title": "Low Power ASIC Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-25",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939": {
+    "title": "Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-06",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1": {
+    "title": "PhD Research Intern, Security and Privacy - Fall 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032": {
+    "title": "Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "PhD",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741": {
+    "title": "Signal and Power Integrity Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-13",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signoff-Methodology-Engineer---New-College-Grad-2026_JR2014110": {
+    "title": "Signoff Methodology Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1": {
+    "title": "SoC ASIC Verification Engineer – New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805": {
+    "title": "Software Engineering Intern, AI Tools - Fall 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745": {
+    "title": "Software Engineering Intern, JAX - Fall 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-25",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Robotics---Fall-2026_JR2009105-1": {
+    "title": "Technical Marketing Engineering Intern, Robotics - Fall 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-19",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593": {
+    "title": "GPU Verification Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, MA, Westford",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083": {
+    "title": "Systems Software Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, OR, Hillsboro",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-12",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787": {
+    "title": "ASIC Hardware Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, TX, Austin",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1": {
+    "title": "Power Methodology and Modeling Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, TX, Austin",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-06",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183": {
+    "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, TX, Austin",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-15",
+    "first_seen": "2026-05-21T00:49:24+00:00",
+    "last_seen": "2026-05-21T00:49:24+00:00",
+    "is_closed": false
+  },
+  "https://stripe.com/jobs/search?gh_jid=7216664": {
+    "title": "PhD Machine Learning Engineer, Intern",
+    "company": "Stripe",
+    "location": "San Francisco, New York City, Seattle",
+    "department": null,
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:36+00:00",
+    "last_seen": "2026-05-21T00:49:36+00:00",
+    "is_closed": false
+  },
+  "https://stripe.com/jobs/search?gh_jid=7874965": {
+    "title": "PhD Data Scientist, Intern",
+    "company": "Stripe",
+    "location": "San Francisco, New York City, Seattle, Chicago",
+    "department": null,
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T00:49:36+00:00",
+    "last_seen": "2026-05-21T00:49:36+00:00",
+    "is_closed": false
+  },
+  "https://www.pinterestcareers.com/jobs/?gh_jid=7253017": {
+    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Masters",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-21T00:49:47+00:00",
+    "last_seen": "2026-05-21T00:49:47+00:00",
+    "is_closed": false
+  },
+  "https://www.pinterestcareers.com/jobs/?gh_jid=7255640": {
+    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "department": null,
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-21T00:49:47+00:00",
+    "last_seen": "2026-05-21T00:49:47+00:00",
+    "is_closed": false
+  }
+}
