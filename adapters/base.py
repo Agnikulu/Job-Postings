@@ -15,10 +15,14 @@ class Job:
     title: str
     location: str
     url: str
-    posted_at: str | None
+    posted_at: str | None         # Raw value as returned by the ATS.
     department: str | None
     ats: str
     category: str
+    # Populated by the orchestrator after fetch:
+    posted_date: str | None = None        # YYYY-MM-DD normalized.
+    education_levels: tuple[str, ...] = ()  # ("PhD", "Intern", ...)
+    is_us: bool = False
 
     def to_dict(self) -> dict[str, Any]:
         return {
@@ -28,9 +32,12 @@ class Job:
             "location": self.location,
             "url": self.url,
             "posted_at": self.posted_at,
+            "posted_date": self.posted_date,
             "department": self.department,
             "ats": self.ats,
             "category": self.category,
+            "education_levels": list(self.education_levels),
+            "is_us": self.is_us,
         }
 
 

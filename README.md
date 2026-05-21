@@ -1,203 +1,48 @@
 # Serverless ATS Job Sniper
 
-A fully automated, zero-cost data pipeline that queries the public JSON APIs
-of modern Applicant Tracking Systems (Greenhouse, Lever, Ashby, Workday) to
-find early-career engineering roles the second they are posted, then pushes
-each new role to a Discord channel via webhook. Runs entirely on a free
-GitHub Actions cron — no servers, no databases.
+An auto-updated list of **early-career engineering roles** scraped hourly
+from the public ATS APIs of top tech companies (Greenhouse, Lever, Ashby,
+Workday). Filtered for entry-level, internship, new-grad, and university
+graduate positions. US-only by default.
 
-## What it does
+Built on a free GitHub Actions cron with zero servers and zero ongoing
+costs. State (`seen_jobs.json`, `jobs_archive.json`, `company_stats.json`)
+is committed back to the repo so the table grows historically.
 
-1. **Fetches** open postings for ~68 named companies across six categories
-   (frontier AI, quant, enterprise, robotics, biotech, big tech).
-2. **Filters** them against a strict regex engine:
-   - **Must match** one of: `intern`, `internship`, `co-op`, `coop`,
-     `new grad`, `university graduate`, `early career`, `entry level`,
-     `campus`, `2026`, `2027`.
-   - **Must NOT match** any of: `senior`, `sr.`, `lead`, `manager`,
-     `principal`, `director`, `head of`, `staff`, `vp`, `president`.
-   - **Technical badge** (informational only) when the title contains
-     `software`, `engineer`, `ml`, `machine learning`, `data`, `quant`,
-     `research`, etc.
-3. **Deduplicates** against `seen_jobs.json`, which is committed back to
-   the repository each run so state survives between cron runs.
-4. **Notifies** Discord with one rich embed per new role (color-coded by
-   category, `[TECHNICAL]` prefix where applicable). Falls back to a
-   single summary message when a run produces > 50 new postings.
+See [README\_TECH.md](README_TECH.md) for the project architecture,
+how to fork, how to add companies, and how filtering works.
 
-## Coverage
+## Stats
 
-| Tier | ATS | # companies | Status |
-|------|-----|-------------|--------|
-| 1 | Greenhouse | 44 | live |
-| 1 | Ashby | 18 | live |
-| 1 | Lever | 1 | live |
-| 2 | Workday | 5 | live |
-| 3 | Custom careers sites | 26 | stubs in `companies.yaml` (skipped) |
+- **Open positions:** 0
+- **All-time tracked:** 0
+- **Active companies:** 53
+- **Last updated:** `2026-05-21 00:41 UTC`
 
-Tier 3 entries (OpenAI, Google, Meta, Apple, Microsoft, LinkedIn,
-Netflix, Palantir, SpaceX, xAI, plus the bespoke quant shops like Jane
-Street and Jump) all use proprietary careers sites and would each need
-their own custom adapter. They're tracked in `companies.yaml` so they
-aren't lost, but the orchestrator skips them. Adding a tier-3 adapter is
-a one-file change — see `adapters/greenhouse.py` for the pattern.
+## Legend
 
-## Setup
+- **Role flag** -> Country (currently US-only, `🇺🇸`).
+- **Education** -> Multi-label tag from `{PhD, Masters, Bachelors, New Grad, Intern}`.
+- **Apply** -> Direct link to the company's job board posting.
+- **Date Posted** -> When the company posted the role (parsed from each ATS).
+   Falls back to when our scraper first observed the URL.
 
-### 1. Fork or push to your own GitHub repo
+## Open positions
 
-```bash
-cd serverless-ats-sniper
-git init
-git add .
-git commit -m "feat: initial commit"
-gh repo create serverless-ats-sniper --private --source=. --push
-# or push to an existing remote of your choice
-```
+_No open positions match the filters right now._
 
-### 2. Create a Discord webhook
+## How it works
 
-In your Discord server: **Server Settings → Integrations → Webhooks → New
-Webhook**. Pick a channel, copy the webhook URL.
+1. Hourly GitHub Action queries each company's public ATS API.
+2. Titles run through a regex filter (must hit one of:
+   `intern, new grad, university graduate, early career, entry level,
+   campus, 2026, 2027`; must NOT hit any of:
+   `senior, lead, manager, principal, director, head of, staff, vp,
+   president`).
+3. Locations are filtered to the US by default.
+4. New postings ping a Discord webhook in real-time.
+5. State is committed back -- this README is regenerated every run.
 
-### 3. Add the webhook as a GitHub Actions secret
+Want a different scope? See [README\_TECH.md](README_TECH.md) -- you can
+toggle the US filter, add tier-3 companies, change the cadence, etc.
 
-In the repo: **Settings → Secrets and variables → Actions → New
-repository secret**. Name it `DISCORD_WEBHOOK`, paste the URL.
-
-### 4. Enable Actions
-
-In **Settings → Actions → General**, make sure Actions are enabled and
-that **Read and write permissions** are granted to `GITHUB_TOKEN` (this
-is required so the workflow can commit `seen_jobs.json` back).
-
-### 5. Verify slugs (recommended)
-
-Run `discovery.py` locally to confirm every slug in `companies.yaml`
-returns a valid response. Slugs marked tentatively (Citadel,
-CoreWeave, etc.) are best guesses and may need updating:
-
-```bash
-pip install -r requirements.txt
-python discovery.py
-```
-
-The script prints `OK` / `BAD` per company and exits non-zero if any
-slug is broken. Fix `companies.yaml` and re-run until clean.
-
-### 6. Trigger your first run
-
-Either wait for the next hourly cron, or trigger manually:
-
-```bash
-gh workflow run "ATS Sniper"
-```
-
-The first run will almost certainly emit more than 50 matches (cold
-start), so you'll see one summary message in Discord instead of dozens
-of individual alerts. Every subsequent run will only post genuinely
-new postings.
-
-## Running locally
-
-```bash
-pip install -r requirements.txt
-# Dry-run (no webhook env var = prints what it WOULD send)
-python scraper.py
-
-# Real run
-export DISCORD_WEBHOOK="https://discord.com/api/webhooks/..."
-python scraper.py
-```
-
-## Running tests
-
-```bash
-pip install -r requirements.txt
-pytest -q
-```
-
-## Project layout
-
-```
-serverless-ats-sniper/
-├── scraper.py              # Orchestrator entry point
-├── adapters/
-│   ├── __init__.py         # ADAPTER_REGISTRY dispatch
-│   ├── base.py             # Job dataclass + AdapterError
-│   ├── greenhouse.py
-│   ├── lever.py
-│   ├── ashby.py
-│   └── workday.py
-├── companies.yaml          # Company registry (single source of truth)
-├── filters.py              # Regex engine
-├── state.py                # seen_jobs.json wrapper
-├── notifier.py             # Discord webhook + rate limiting
-├── discovery.py            # One-time slug verifier
-├── seen_jobs.json          # Committed-back state
-├── requirements.txt
-├── tests/test_filters.py
-└── .github/workflows/scraper.yml
-```
-
-## Reliability notes
-
-- **Latency.** GitHub Actions cron is best-effort. Expect 5-20 min jitter,
-  occasionally up to 30 min during platform peaks. The spec asked for
-  "the second they are posted" — that's only possible with a paid VPS or
-  a Cloudflare Worker on a 5-min cron. Hourly on Actions is the
-  pragmatic free option.
-- **Slug rot.** Companies occasionally rename their ATS slug or migrate
-  between platforms. `discovery.py` exists specifically to catch this
-  drift before it silently breaks coverage.
-- **Per-company error isolation.** A single failing company (e.g., 404,
-  500, slug change, ATS migration) is logged and skipped — it never
-  aborts the run for the other 67.
-- **State growth.** `seen_jobs.json` is auto-pruned at 90 days each run.
-  At ~50 new postings/day across all companies, the file caps out around
-  ~5,000 entries (a few hundred KB). Comfortably within GitHub's file
-  size limits.
-
-## Adding a new company
-
-1. Find the company's careers page.
-2. Open DevTools → Network tab. Filter for `boards-api`, `jobs.lever.co`,
-   `api.ashbyhq.com`, or `myworkdayjobs.com`. The URL gives you the
-   slug.
-3. Add an entry to `companies.yaml`:
-   ```yaml
-   - name: New Company
-     ats: greenhouse
-     slug: newcompany
-     category: enterprise
-   ```
-4. Run `python discovery.py` to confirm the slug works.
-5. Commit and push.
-
-## Adding a new ATS
-
-If you find a company on a new ATS (SmartRecruiters, Eightfold, Phenom,
-JazzHR, etc.):
-
-1. Create `adapters/<ats>.py` following the pattern in `greenhouse.py`.
-2. Export a `fetch(company: dict) -> list[Job]` function.
-3. Register it in `adapters/__init__.py`:
-   ```python
-   ADAPTER_REGISTRY = {
-       ...
-       "smartrecruiters": fetch_smartrecruiters,
-   }
-   ```
-4. Tag companies with `ats: smartrecruiters` in the registry.
-
-## Roadmap (v2)
-
-- Custom adapters for tier-3 sites (OpenAI, Google careers, Meta GraphQL,
-  Apple, Microsoft, Jane Street, Jump, HRT, etc.)
-- Location filter (US-only, remote-eligible, or per-country)
-- Compensation parsing (extract $XXXk from job description)
-- Per-category Discord channels (frontier_ai → #ai, quant → #quant, ...)
-- Slack / Telegram notifier alternatives
-- LLM-based title classification as a secondary signal when regex misses
-- 5-min cadence via Cloudflare Workers cron triggers (paid path to true
-  "instant" alerts)

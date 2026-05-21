@@ -25,6 +25,7 @@ import logging
 import os
 import sys
 from collections import defaultdict
+from dataclasses import replace
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -32,15 +33,21 @@ from typing import Any
 import yaml
 
 import notifier
+import render_readme
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
 from company_stats import CompanyStats
+from date_parser import parse_posted_date
+from education import extract_education_levels
 from filters import classify, is_us_location
+from jobs_archive import JobsArchive
 from state import State
 
 REGISTRY_PATH = Path(__file__).parent / "companies.yaml"
 STATE_PATH = Path(__file__).parent / "seen_jobs.json"
 STATS_PATH = Path(__file__).parent / "company_stats.json"
 LATEST_JOBS_PATH = Path(__file__).parent / "latest_jobs.md"
+ARCHIVE_PATH = Path(__file__).parent / "jobs_archive.json"
+README_PATH = Path(__file__).parent / "README.md"
 
 
 def _setup_logging() -> None:
@@ -112,6 +119,7 @@ def run() -> int:
     log = logging.getLogger("scraper")
     state = State.load(STATE_PATH)
     stats = CompanyStats.load(STATS_PATH)
+    archive = JobsArchive.load(ARCHIVE_PATH)
     companies = load_registry()
     us_only = _us_filter_enabled()
     log.info("Location filter: %s", "US-only" if us_only else "ALL LOCATIONS")
@@ -122,6 +130,7 @@ def run() -> int:
     total_fetched = 0
     total_us_filtered = 0
     new_jobs: list[tuple[Job, bool]] = []
+    observed_companies: set[str] = set()
 
     for company in companies:
         name = company.get("name", "?")
@@ -151,6 +160,7 @@ def run() -> int:
             continue
 
         succeeded += 1
+        observed_companies.add(name)
         total_fetched += len(jobs)
 
         company_new = 0
@@ -163,13 +173,28 @@ def run() -> int:
             if not passes:
                 continue
             company_total_matches += 1
-            if us_only and not is_us_location(job.location):
+
+            # Enrich Job with normalized fields used by the archive + README.
+            enriched = replace(
+                job,
+                posted_date=parse_posted_date(job.posted_at, job.ats),
+                education_levels=tuple(extract_education_levels(job.title)),
+                is_us=is_us_location(job.location),
+            )
+
+            if us_only and not enriched.is_us:
                 company_us_dropped += 1
                 continue
-            if state.is_seen(job.url):
+
+            # Archive update happens for every matched job, regardless of
+            # whether we've notified about it yet. This way the README
+            # captures all currently-open positions, not just new ones.
+            archive.upsert(enriched)
+
+            if state.is_seen(enriched.url):
                 continue
-            new_jobs.append((job, is_tech))
-            state.mark_seen(job.url)
+            new_jobs.append((enriched, is_tech))
+            state.mark_seen(enriched.url)
             company_new += 1
 
         total_us_filtered += company_us_dropped
@@ -184,6 +209,12 @@ def run() -> int:
                 company_us_dropped, len(jobs),
             )
 
+    # Mark archive entries as closed if their company was successfully
+    # scanned this run but the URL no longer appears in the ATS response.
+    closed = archive.close_unseen(observed_companies)
+    if closed:
+        log.info("Archive: marked %d previously-open URLs as closed", closed)
+
     log.info(
         "Scan complete: %d OK, %d failed, %d tier3-skipped, %d postings, "
         "%d new matches (after US filter dropped %d)",
@@ -197,9 +228,13 @@ def run() -> int:
     pruned = state.prune(max_age_days=90)
     state.save()
     stats.save()
+    archive.save()
+
+    # Rebuild the README's open-positions table.
+    README_PATH.write_text(render_readme.render(archive), encoding="utf-8")
     log.info(
-        "State: %d entries (%d pruned), stats: %d companies tracked",
-        len(state), pruned, len(stats),
+        "State: %d entries (%d pruned), stats: %d companies, archive: %d entries",
+        len(state), pruned, len(stats), len(archive),
     )
 
     return 0
