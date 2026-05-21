@@ -78,8 +78,11 @@ class JobsArchive:
                 last_seen=now,
                 is_closed=False,
             )
-            # posted_date should never regress; only fill if missing.
-            if job.posted_date and not existing.get("posted_date"):
+            # Always trust the ATS-provided posted_date when one is available
+            # (it's the canonical source). This is critical for the first
+            # post-deploy run: every URL gets first_seen=today, so without
+            # this overwrite the entire table would say "May 21, 2026".
+            if job.posted_date:
                 existing["posted_date"] = job.posted_date
         else:
             self._data[job.url] = {
