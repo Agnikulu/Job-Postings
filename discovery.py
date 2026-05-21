@@ -36,6 +36,7 @@ query JobBoardList($boardId: String!) {
 }
 """
 RIP = "https://ats.rippling.com/{slug}/jobs"
+SR = "https://api.smartrecruiters.com/v1/companies/{slug}/postings"
 UBER_CAREERS = "https://www.uber.com/us/en/careers/list/"
 UBER_SEARCH = "https://www.uber.com/api/loadSearchJobsResults"
 
@@ -174,6 +175,25 @@ def _check_uber() -> tuple[int, int]:
         return 0, 0
 
 
+def _check_smartrecruiters(slug: str) -> tuple[int, int]:
+    try:
+        r = requests.get(
+            SR.format(slug=slug),
+            params={"offset": 0, "limit": 1},
+            headers=DEFAULT_HEADERS,
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            try:
+                count = r.json().get("totalFound") or 0
+            except ValueError:
+                count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
 def _check_workday(company: dict[str, Any]) -> tuple[int, int]:
     url = WD.format(
         tenant=company["tenant"], wd_pod=company["wd_pod"], site=company["site"]
@@ -232,6 +252,8 @@ def main() -> int:
             status, count = _check_gem(company["slug"])
         elif ats == "uber":
             status, count = _check_uber()
+        elif ats == "smartrecruiters":
+            status, count = _check_smartrecruiters(company["slug"])
         else:
             print(f"{name:35} {ats:12} UNKNOWN")
             bad.append(name)

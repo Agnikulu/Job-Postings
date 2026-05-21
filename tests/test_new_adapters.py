@@ -11,6 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from adapters.gem import fetch as fetch_gem
 from adapters.jibe import fetch as fetch_jibe
 from adapters.rippling import fetch as fetch_rippling
+from adapters.smartrecruiters import fetch as fetch_smartrecruiters
 from adapters.uber import fetch as fetch_uber
 from adapters.workable import fetch as fetch_workable
 
@@ -108,3 +109,25 @@ def test_uber_fetch_maps_fields() -> None:
         jobs = fetch_uber(company)
     assert jobs[0].url == "https://www.uber.com/careers/list/123"
     assert "San Francisco" in jobs[0].location
+
+
+def test_smartrecruiters_fetch_maps_fields() -> None:
+    payload = {
+        "totalFound": 1,
+        "content": [
+            {
+                "id": "744000122509268",
+                "name": "Sr. SW Engineer",
+                "releasedDate": "2026-04-23T16:54:54.835Z",
+                "location": {"fullLocation": "Austin, TX, United States", "remote": False},
+                "department": {"label": "Engineering"},
+                "ref": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000122509268",
+            }
+        ],
+    }
+    company = {"name": "Atlassian", "slug": "Atlassian", "category": "big_tech"}
+    with patch("adapters.smartrecruiters._get_page", return_value=payload):
+        jobs = fetch_smartrecruiters(company)
+    assert jobs[0].title == "Sr. SW Engineer"
+    assert jobs[0].posted_at == "2026-04-23T16:54:54.835Z"
+    assert "744000122509268" in jobs[0].url

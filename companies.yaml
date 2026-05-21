@@ -3,7 +3,7 @@
 # Schema:
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
-#                rippling | gem | uber | tier3_todo
+#                rippling | gem | uber | smartrecruiters | tier3_todo
 #     slug:      Company slug for Greenhouse/Lever/Ashby/Workable/Gem/Rippling.
 #     careers_host: (jibe) Hostname for Jibe-powered career sites.
 #     locale:    (uber) Locale code for the careers search API (default: en).
@@ -179,8 +179,8 @@
   category: quant
 
 - name: Point72
-  ats: tier3_todo
-  note: "Workday with non-default tenant/site IDs — needs manual lookup."
+  ats: greenhouse
+  slug: point72
   category: quant
 
 - name: WorldQuant
@@ -195,7 +195,7 @@
 
 - name: Balyasny Asset Mgt.
   ats: tier3_todo
-  note: "Workday with non-default tenant/site IDs — needs manual lookup."
+  note: "Salesforce Experience Cloud at bambusdev.my.site.com — guest auth token required."
   category: quant
 
 # =============================================================================
@@ -233,8 +233,8 @@
   category: enterprise
 
 - name: Retool
-  ats: tier3_todo
-  note: "No public ATS endpoint found — bespoke careers page."
+  ats: gem
+  slug: retool
   category: enterprise
 
 - name: Vercel
@@ -322,8 +322,8 @@
   category: robotics
 
 - name: Luma AI
-  ats: tier3_todo
-  note: "No public ATS endpoint found — bespoke careers page."
+  ats: gem
+  slug: lumalabs-ai
   category: robotics
 
 - name: Figure AI
@@ -351,8 +351,8 @@
 # =============================================================================
 
 - name: EvolutionaryScale
-  ats: tier3_todo
-  note: "No public ATS endpoint found — bespoke careers page."
+  ats: greenhouse
+  slug: biohub
   category: biotech
 
 - name: Xaira Therapeutics
@@ -418,11 +418,6 @@
 - name: Enveda Biosciences
   ats: lever
   slug: enveda
-  category: biotech
-
-- name: Spring Discovery
-  ats: tier3_todo
-  note: "No public ATS endpoint found — small startup, may have private board."
   category: biotech
 
 # =============================================================================
@@ -507,8 +502,8 @@
   category: big_tech
 
 - name: Atlassian
-  ats: tier3_todo
-  note: "Bespoke careers portal at atlassian.com/company/careers."
+  ats: smartrecruiters
+  slug: Atlassian
   category: big_tech
 
 - name: BlackLine

@@ -11,6 +11,7 @@ from .greenhouse import fetch as fetch_greenhouse
 from .jibe import fetch as fetch_jibe
 from .lever import fetch as fetch_lever
 from .rippling import fetch as fetch_rippling
+from .smartrecruiters import fetch as fetch_smartrecruiters
 from .uber import fetch as fetch_uber
 from .workable import fetch as fetch_workable
 from .workday import fetch as fetch_workday
@@ -25,6 +26,7 @@ ADAPTER_REGISTRY = {
     "rippling": fetch_rippling,
     "gem": fetch_gem,
     "uber": fetch_uber,
+    "smartrecruiters": fetch_smartrecruiters,
 }
 
 __all__ = [
