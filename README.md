@@ -17,7 +17,7 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 251
 - **All-time tracked:** 252
 - **Active companies:** 79
-- **Last updated:** `2026-05-21 15:27 UTC`
+- **Last updated:** `2026-05-21 17:14 UTC`
 
 ## Legend
 
@@ -40,12 +40,12 @@ how to fork, how to add companies, and how filtering works.
 | Palantir | Forward Deployed Software Engineer, Internship - France 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | May 21, 2026 |
 | Palantir | Forward Deployed Software Engineer, Internship - Poland 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | May 21, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 21, 2026 |
+| Uber | Graduate 2026 PhD Software Engineer II (AV Labs), United States 🇺🇸 | San Francisco, California, United States / Sunnyvale, California, United States | PhD | [Apply](https://www.uber.com/careers/list/159120) | May 21, 2026 |
 | Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 21, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Google | Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸 | Atlanta, GA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW16SkRVgStg44aewUebNozwHc6io0qVgTyBzqrFAF6YEjsACxwdTN2Mxoqd0Pxq2Q8FRyVaKVnp1HIFj40lAjKdBMPXtgfN8YFNurTkzAHGTImKv52Qh34rmkIAZw%3D%3D_V2&loc=US&title=Network+Operations+Residency+Program) | May 20, 2026 |
 | Lambda Labs | Field Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Second St) | Intern | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) | May 20, 2026 |
 | Uber | Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations 🇺🇸 | Seattle, Washington, United States | PhD | [Apply](https://www.uber.com/careers/list/158984) | May 20, 2026 |
-| Uber | Graduate 2026 PhD Software Engineer II (AV Labs), United States 🇺🇸 | San Francisco, California, United States / Sunnyvale, California, United States | PhD | [Apply](https://www.uber.com/careers/list/159120) | May 20, 2026 |
 | Roblox | [2026] Applied Scientist - PhD Intern 🇺🇸 | San Mateo, CA, United States | PhD, Intern | [Apply](https://careers.roblox.com/jobs/7142298?gh_jid=7142298) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Social - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) | May 20, 2026 |
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | - | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
