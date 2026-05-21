@@ -2,8 +2,11 @@
 #
 # Schema:
 #   - name:      Display name shown in Discord notifications.
-#     ats:       One of: greenhouse | lever | ashby | workday | tier3_todo
-#     slug:      Company slug for Greenhouse/Lever/Ashby endpoints.
+#     ats:       greenhouse | lever | ashby | workday | workable | jibe |
+#                rippling | gem | uber | tier3_todo
+#     slug:      Company slug for Greenhouse/Lever/Ashby/Workable/Gem/Rippling.
+#     careers_host: (jibe) Hostname for Jibe-powered career sites.
+#     locale:    (uber) Locale code for the careers search API (default: en).
 #     category:  frontier_ai | quant | enterprise | robotics | biotech | big_tech
 #     # Workday-specific:
 #     tenant:    Workday tenant subdomain.
@@ -72,8 +75,8 @@
   category: frontier_ai
 
 - name: Groq
-  ats: tier3_todo
-  note: "No public ATS endpoint found — bespoke careers page."
+  ats: gem
+  slug: groq
   category: frontier_ai
 
 - name: CoreWeave
@@ -82,8 +85,8 @@
   category: frontier_ai
 
 - name: Hugging Face
-  ats: tier3_todo
-  note: "Was Greenhouse historically; no public board found in latest audit."
+  ats: workable
+  slug: huggingface
   category: frontier_ai
 
 - name: Pinecone
@@ -280,8 +283,8 @@
   category: enterprise
 
 - name: Rippling
-  ats: tier3_todo
-  note: "No public ATS endpoint found — bespoke careers page."
+  ats: rippling
+  slug: rippling
   category: enterprise
 
 - name: Ramp
@@ -457,8 +460,8 @@
   category: big_tech
 
 - name: Uber
-  ats: tier3_todo
-  note: "Bespoke careers portal at uber.com/us/en/careers/list."
+  ats: uber
+  locale: en
   category: big_tech
 
 - name: Pinterest
@@ -509,6 +512,6 @@
   category: big_tech
 
 - name: BlackLine
-  ats: tier3_todo
-  note: "Workday with non-default tenant/site IDs — needs manual lookup."
+  ats: jibe
+  careers_host: careers.blackline.com
   category: big_tech
