@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 251
+- **Open positions:** 250
 - **All-time tracked:** 251
 - **Active companies:** 79
-- **Last updated:** `2026-05-21 09:30 UTC`
+- **Last updated:** `2026-05-21 11:24 UTC`
 
 ## Legend
 
@@ -273,7 +273,6 @@ how to fork, how to add companies, and how filtering works.
 | Microsoft | Research Intern - Systems for Reliable and Scalable AI Agents 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621908) | Nov 19, 2025 |
 | Microsoft | Research Intern - Artificial Intelligence 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622017) | Nov 19, 2025 |
 | Microsoft | Research Intern - Azure Research - Systems 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622018) | Nov 19, 2025 |
-| Microsoft | Research Intern - Networking Research Group 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622023) | Nov 19, 2025 |
 | Microsoft | Research Intern - Foundations of Generative AI 🇺🇸 | New York, NY, US / Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621454) | Nov 18, 2025 |
 | Google | Student Researcher, PhD, Winter/Summer 2026 🇺🇸 | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA | PhD | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdDBszOwAboL1irYc5xQuYyKqC3h2okBoNLk3COfTIvnEjsAbDj5iFcTaZqyNkN9jNNd5HHI8cIk1Ag8eQCdAohcear60mczr-Sinm0tegTidLDm40kDJ-TGNZYA1Q%3D%3D_V2&loc=US&title=Student+Researcher) | Sep 29, 2025 |
 | Google | Student Researcher, BS/MS, Winter/Summer 2026 🇺🇸 | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA / Princeton, NJ, USA | Masters | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTl3i0Kg9bm5-cwU_unEJ4immCkcmZEzsgvd7IwvbipLEjsAbDj5iIwSGTQMJEawk9aCtA9M1kBY7mUyJ58Qj5QSMtYgdTolThXSMDFsvF1G1pKNBvg-0csRwwwkTQ%3D%3D_V2&loc=US&title=Student+Researcher) | Sep 29, 2025 |
@@ -282,6 +281,17 @@ how to fork, how to add companies, and how filtering works.
 | Google | Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start 🇺🇸 | Sunnyvale, CA, USA / Atlanta, GA, USA / Kirkland, WA, USA / Madison, WI, USA / Mountain View, CA, USA / New York, NY, USA / Raleigh, NC, USA / Durham, NC, USA / San Bruno, CA, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeYz1B-u5NbhAHYeBKz8za-fw00UT4XUcBVn_yPGzicDEjsASXckS88W464drpXUZRWh39KLsIpEiJTUx6Xu3ayH8bw_QxrWmpyTUGOn7EyCIsdhfuw-KtPc3YAjuQ%3D%3D_V2&loc=US&title=Software+Engineer) | Aug 26, 2025 |
 | Ramp | Software Engineer Internship, Android 🇺🇸 | New York, NY (HQ) | Intern | [Apply](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | Aug 07, 2025 |
 | Google | Software Engineer, Systems Research, PhD, Early Career 🇺🇸 | Sunnyvale, CA, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcfynwY9n55CWFUO9YSo68R9PHMiQAr1nx-Z7xoo3Pf5EjsA7mFcrIEl4LMHm_mldhWYr9hod5CuVWsDE_q6FPfcbNw1_MoNvzI3asvAz1S9FloeLdqksv5vD3ECgw%3D%3D_V2&loc=US&title=Software+Engineer) | Jan 29, 2025 |
+
+
+<details>
+<summary><b>Closed positions (1)</b> &mdash; click to expand</summary>
+
+
+| Company | Role | Location | Education | Apply | Date Posted |
+|---------|------|----------|-----------|-------|-------------|
+| ~~Microsoft~~ | ~~Research Intern - Networking Research Group 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Nov 19, 2025 |
+
+</details>
 
 ## How it works
 
