@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 249
-- **All-time tracked:** 251
+- **Open positions:** 251
+- **All-time tracked:** 252
 - **Active companies:** 79
-- **Last updated:** `2026-05-21 13:32 UTC`
+- **Last updated:** `2026-05-21 15:27 UTC`
 
 ## Legend
 
@@ -31,6 +31,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| Microsoft | Stagiaire en opérations critiques / Critical Environment Ops INTERN 🇺🇸 | Québec City, QC, CA / Montreal, QC, CA | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556866705) | May 21, 2026 |
+| DoorDash | AI Research Fellowship, (Summer and Fall 2026) 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | May 21, 2026 |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government 🇺🇸 | Honolulu, HI | Intern | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | May 21, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 21, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | May 21, 2026 |
@@ -39,7 +41,6 @@ how to fork, how to add companies, and how filtering works.
 | Palantir | Forward Deployed Software Engineer, Internship - Poland 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | May 21, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 21, 2026 |
 | Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 21, 2026 |
-| DoorDash | AI Research Fellowship, (Summer and Fall 2026) 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | May 20, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Google | Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸 | Atlanta, GA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW16SkRVgStg44aewUebNozwHc6io0qVgTyBzqrFAF6YEjsACxwdTN2Mxoqd0Pxq2Q8FRyVaKVnp1HIFj40lAjKdBMPXtgfN8YFNurTkzAHGTImKv52Qh34rmkIAZw%3D%3D_V2&loc=US&title=Network+Operations+Residency+Program) | May 20, 2026 |
 | Lambda Labs | Field Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Second St) | Intern | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) | May 20, 2026 |
@@ -266,6 +267,7 @@ how to fork, how to add companies, and how filtering works.
 | Microsoft | Research Intern - MSR Systems Research Group - Redmond 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621732) | Nov 19, 2025 |
 | Microsoft | Research Intern - Computer Vision and Deep Learning 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621779) | Nov 19, 2025 |
 | Microsoft | Research Intern - Systems For Efficient AI 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621783) | Nov 19, 2025 |
+| Microsoft | Research Intern - Reliability of Cloud and AI Systems 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621789) | Nov 19, 2025 |
 | Microsoft | Research Intern - AI Frontiers - Reasoning & Agentic Models 🇺🇸 | Redmond, WA, US / New York, NY, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621824) | Nov 19, 2025 |
 | Microsoft | Research Intern - Hardware/Software Codesign 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621833) | Nov 19, 2025 |
 | Microsoft | Research Intern - Machine Learning and Statistics 🇺🇸 | Cambridge, MA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621837) | Nov 19, 2025 |
@@ -283,12 +285,11 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (2)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (1)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| ~~Microsoft~~ | ~~Research Intern - Reliability of Cloud and AI Systems 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Nov 19, 2025 |
 | ~~Google~~ | ~~Student Researcher, PhD, Winter/Summer 2026 🇺🇸~~ | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA | PhD | Closed | Sep 29, 2025 |
 
 </details>
