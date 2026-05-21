@@ -17,7 +17,7 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 125
 - **All-time tracked:** 125
 - **Active companies:** 53
-- **Last updated:** `2026-05-21 01:16 UTC`
+- **Last updated:** `2026-05-21 03:26 UTC`
 
 ## Legend
 
