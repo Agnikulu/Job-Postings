@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 250
+- **Open positions:** 249
 - **All-time tracked:** 251
 - **Active companies:** 79
-- **Last updated:** `2026-05-21 11:24 UTC`
+- **Last updated:** `2026-05-21 13:32 UTC`
 
 ## Legend
 
@@ -38,6 +38,7 @@ how to fork, how to add companies, and how filtering works.
 | Palantir | Forward Deployed Software Engineer, Internship - France 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | May 21, 2026 |
 | Palantir | Forward Deployed Software Engineer, Internship - Poland 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | May 21, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 21, 2026 |
+| Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 21, 2026 |
 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | May 20, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Google | Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸 | Atlanta, GA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW16SkRVgStg44aewUebNozwHc6io0qVgTyBzqrFAF6YEjsACxwdTN2Mxoqd0Pxq2Q8FRyVaKVnp1HIFj40lAjKdBMPXtgfN8YFNurTkzAHGTImKv52Qh34rmkIAZw%3D%3D_V2&loc=US&title=Network+Operations+Residency+Program) | May 20, 2026 |
@@ -49,7 +50,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | - | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Foundation AI - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7577436?gh_jid=7577436) | May 20, 2026 |
 | Roblox | [2026] Design & Creative Fellowship 🇺🇸 | San Mateo, CA, United States | - | [Apply](https://careers.roblox.com/jobs/7779304?gh_jid=7779304) | May 20, 2026 |
-| Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 20, 2026 |
 | Stripe | PhD Machine Learning Engineer, Intern 🇺🇸 | San Francisco, New York City, Seattle | PhD, Intern | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) | May 20, 2026 |
 | Stripe | PhD Data Scientist, Intern 🇺🇸 | San Francisco, New York City, Seattle, Chicago | PhD, Intern | [Apply](https://stripe.com/jobs/search?gh_jid=7874965) | May 20, 2026 |
 | Microsoft | Critical Environment Ops INTERN 🇺🇸 | ON,CA | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556866710) | May 19, 2026 |
@@ -266,15 +266,14 @@ how to fork, how to add companies, and how filtering works.
 | Microsoft | Research Intern - MSR Systems Research Group - Redmond 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621732) | Nov 19, 2025 |
 | Microsoft | Research Intern - Computer Vision and Deep Learning 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621779) | Nov 19, 2025 |
 | Microsoft | Research Intern - Systems For Efficient AI 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621783) | Nov 19, 2025 |
-| Microsoft | Research Intern - Reliability of Cloud and AI Systems 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621789) | Nov 19, 2025 |
 | Microsoft | Research Intern - AI Frontiers - Reasoning & Agentic Models 🇺🇸 | Redmond, WA, US / New York, NY, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621824) | Nov 19, 2025 |
 | Microsoft | Research Intern - Hardware/Software Codesign 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621833) | Nov 19, 2025 |
 | Microsoft | Research Intern - Machine Learning and Statistics 🇺🇸 | Cambridge, MA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621837) | Nov 19, 2025 |
 | Microsoft | Research Intern - Systems for Reliable and Scalable AI Agents 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621908) | Nov 19, 2025 |
 | Microsoft | Research Intern - Artificial Intelligence 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622017) | Nov 19, 2025 |
 | Microsoft | Research Intern - Azure Research - Systems 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622018) | Nov 19, 2025 |
+| Microsoft | Research Intern - Networking Research Group 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622023) | Nov 19, 2025 |
 | Microsoft | Research Intern - Foundations of Generative AI 🇺🇸 | New York, NY, US / Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621454) | Nov 18, 2025 |
-| Google | Student Researcher, PhD, Winter/Summer 2026 🇺🇸 | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA | PhD | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdDBszOwAboL1irYc5xQuYyKqC3h2okBoNLk3COfTIvnEjsAbDj5iFcTaZqyNkN9jNNd5HHI8cIk1Ag8eQCdAohcear60mczr-Sinm0tegTidLDm40kDJ-TGNZYA1Q%3D%3D_V2&loc=US&title=Student+Researcher) | Sep 29, 2025 |
 | Google | Student Researcher, BS/MS, Winter/Summer 2026 🇺🇸 | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA / Princeton, NJ, USA | Masters | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTl3i0Kg9bm5-cwU_unEJ4immCkcmZEzsgvd7IwvbipLEjsAbDj5iIwSGTQMJEawk9aCtA9M1kBY7mUyJ58Qj5QSMtYgdTolThXSMDFsvF1G1pKNBvg-0csRwwwkTQ%3D%3D_V2&loc=US&title=Student+Researcher) | Sep 29, 2025 |
 | Google | Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start 🇺🇸 | Sunnyvale, CA, USA / Atlanta, GA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Mountain View, CA, USA / New York, NY, USA / Raleigh, NC, USA / Durham, NC, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQvzerP2JPvVejlhnKXNFmO6FM-Dw0Ro__woxbxSyl41EjsASXckS4TLFL_nNo4UurLUPHnKmiEd8vI4gduX5o5pnvi98j6E16OUhyheSxHmTWyU-qptk6K2EQFIPA%3D%3D_V2&loc=US&title=Software+Engineer) | Aug 26, 2025 |
 | Google | Software Engineer, PhD, Early Career, Infrastructure, 2026 Start 🇺🇸 | Sunnyvale, CA, USA / Atlanta, GA, USA / Austin, TX, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / Mountain View, CA, USA / New York, NY, USA / Raleigh, NC, USA / Durham, NC, USA / San Bruno, CA, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVc-hqc8Mfy8TEjImPUHx0VmQ9kQ9CTDN8PM-_fdBJMnEjsASXckS-JBAexAvjEFm9McCTVJZ-NYL1N-ki1ogeKscLhYagOnaWypLCuEAPMZsM1Xbi9WsHjLrGuCJg%3D%3D_V2&loc=US&title=Software+Engineer) | Aug 26, 2025 |
@@ -284,12 +283,13 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (1)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (2)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| ~~Microsoft~~ | ~~Research Intern - Networking Research Group 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Nov 19, 2025 |
+| ~~Microsoft~~ | ~~Research Intern - Reliability of Cloud and AI Systems 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Nov 19, 2025 |
+| ~~Google~~ | ~~Student Researcher, PhD, Winter/Summer 2026 🇺🇸~~ | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA | PhD | Closed | Sep 29, 2025 |
 
 </details>
 
