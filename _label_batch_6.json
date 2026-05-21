@@ -1,0 +1,452 @@
+[
+  {
+    "url": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995",
+    "company": "Snowflake",
+    "title": "Software Engineer - Database Engineering",
+    "location": "US-CA-Menlo Park",
+    "desc_len": 4123,
+    "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done. We’re hiring talented Software Engineers to join the Snowflake Database Engineering https://snowflake.phenompro.com/us/en/database-engineering team! In this role you will work directly with our team to evolve our elastic, large scale, high-performance data processing system. We need smart engineers who can pick up and understand complex technical areas quickly – and who are enthusiastic about building new technologies! AS A SOFTWARE ENGINEER AT SNOWFLAKE, YOU WILL: - Design, develop, and support a petabyte-scale cloud database that is highly parallel and fault-tolerant. - Build high-quality and highly reliable software to meet the needs of some of the largest companies on the planet. - Analyze and understand performance and scalability bottlenecks in the system and solve them. - Pinpoint problems, instrument relevant components as needed, and ultimately implement solutions. - Design and implement novel query optimization or distributed data processing algorithms which allow Snowflake to provide industry leading data warehousing capabilities. - Design and implement the new service architecture required to enable the Snowflake Data Cloud - Develop tools for improving our customers' insights into their workloads. OUR IDEAL SOFTWARE ENGINEER WILL HAVE: - 2+ years industry experience working on commercial or open-source software. - Fluency in Java or C++. - Familiarity with development in a Linux environment. - Excellent problem solving skills, and strong CS fundamentals including data structures, algorithms, and distributed systems. - Systems programming skills including multi-threading, concurrency, etc. - Experience with implementation testing, debugging and documentation. - Bachelor’s degree or foreign equivalent in Computer Science, Software Engineering or related",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7816135",
+    "company": "MongoDB",
+    "title": "Software Engineer 3 - Query Optimization",
+    "location": "Atlanta; Boston; New York City",
+    "desc_len": 5619,
+    "description": "Join the MongoDB Server Query team, and help us build a world-class distributed open source query engine. Our team plays a crucial role in the experience and performance of data processing. We are responsible for the MongoDB Query Language and the lifecycle of each query, from parsing to optimization to plan selection and finally execution. This also includes our geospatial search and update subsystems. Our global team is growing fast. In North America, we have a presence across the US and Canada including New York, West Coast, Toronto. In Europe, we have a presence in Dublin, Germany, France, Netherlands, UK, Bulgaria, Spain and Italy currently. We support office-based and remote work and align projects with convenient work hours for each time-zone. We have tons of interesting problems to solve with direct impact on users for transactional, time-series and analytical workloads. We need your help to design and build the heart of a distributed, flexible schema, document database. This role can be based out of our New York City, Atlanta, Boston offices or remotely in the East Coast region. Candidate Profile 3+ years of experience in data intensive environments Hands-on experience building industrial-strength software Solid computer science fundamentals, with strong competencies in data structures, algorithms, and software design/architecture Experience with large code bases B.Sc in Computer Science or similar field, or equivalent practical experience Experience in developing database systems is a plus Interest in the theory and practice of database query engines. Hands-on experience or M.Sc./Ph.D in the domain is a plus Position Expectations Understand and improve current functionality of the MongoDB query engine Identify, design, implement, test, and support new features related to query performance and robustness, query language enhancements, diagnostics for query performance problems, and integration with other products and tools Work with other engineers to coordinate seamless changes in a feature-rich, large code base Work with other teams including client drivers, cloud services, enterprise tools, support, consulting, education, and marketing to coordinate changes or contribute to their projects Success Measures In three months you’ll have contributed to the development of a project slated for the next major version, as well as fixed a few bugs in a minor version of our latest stable release series In six months, you’ll have taken on code review respon",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7172630",
+    "company": "MongoDB",
+    "title": "Commercial Growth Account Executive",
+    "location": "Boston; New York City",
+    "desc_len": 5719,
+    "description": "About the role Join us as a Commercial Growth Account Executive! In this role, you'll manage the complete sales process and drive revenue growth in your assigned region of current customers. We're looking for a dedicated and motivated individual with a sales strategy and a go-getter attitude. Hard work, enthusiasm, and initiative are highly valued. MongoDB’s Sales Culture MongoDB is always developing and innovating — not only in our technology but also in our sales go-to-market strategy. Our sales leadership is committed to building the best salesforce in technology. This means, inspiring and enabling success for everyone on the team. We equip you to be successful and close deals, and we want your feedback and input on how we can continue to “ Think Big and Go Far .” As a crucial part of the Sales team at MongoDB, you will have access to a lucrative market and learn how to sell from some of the most successful sales leaders in the software industry. What you will be doing Manage a book of business of several million dollars, responsible for growth and retention of high value accounts Proactively, identify, qualify, and close a sales pipeline Strategically prospect into CTOs, Engineering/IT Leaders, & developers Become a product expert and understand all components of MongoDB Manage your time efficiently Build strong and effective relationships, resulting in growth opportunities Partner with our Solution Architects and work closely with the Professional Services team to achieve customer satisfaction Participate in our sales enablement trainings, including our comprehensive Sales Bootcamp, sophisticated sales training, and leadership and development programs What you bring to the table 1-3 years of field experience in quota-carrying experience in a fast-paced and competitive market. Demonstrated ability to open new accounts and generate qualified pipeline A proven track record of overachievement and hitting sales targets Ability to articulate the business value of complex enterprise technology Skilled in building business champions Fluent in English Must live in territory Driven and competitive. Possess a strong desire to be successful Familiarity with databases, develops and open source technology a plus Things we love Previous sales development experience Passionate about growing your career in the largest market in software (database) Previous Sales Methodology training (e.g. MEDDIC, SPIN, Challenger Sales) Familiarity with databases, develops and open so",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7779598",
+    "company": "MongoDB",
+    "title": "Software Engineer 3, Backup",
+    "location": "New York City",
+    "desc_len": 5470,
+    "description": "The MongoDB Cloud Services Team is a diverse group of contributors working together to help our users manage MongoDB at global scale. The Cloud Team is responsible for MongoDB Atlas: our database as a service offering, and fastest growing product, which allows users to deploy fault-tolerant, globally distributed MongoDB clusters in just minutes. The Backup Team delivers essential infrastructure to help our customers in their hour of need - providing the ability to quickly restore a massive, distributed database to any point in time at the click of a button. The Backup Team’s mission is to make MongoDB backup more reliable, faster, and also cheaper. This team is responsible for the Backup Agent (Go), the extensive server-side infrastructure (Java) which manages 100s of TB of data and processes billions of operations per day, and the user interface (Javascript) that customers use to manage their backups. Common project themes are performance, scaling, and ease of use. We're looking for someone who is Skilled at writing large-scale, distributed backend systems in a compiled language (Java, C#, Go, etc.) Fond of chasing down tough problems in a distributed systems environment Cool under pressure - has wrangled production crises, and secretly finds this a little fun Experienced with Linux, and able to correlate application performance problems with underlying hardware limits Comfortable working across the stack of a modern web application Always striving to expand their knowledge Curious, collaborative and intellectually honest Responsibilities Work closely with product teams, considering the user’s perspective while helping the team achieve success Collaborate with team members over best practices and core concepts Hold yourself accountable to your actions, maintaining the balance between accomplishing goals with research & development Own our core values and adhere to them in your work, and Stay up to date with best practices in web engineering Success Measures A Software Engineer will be successful in this role when they Are open, honest and willing to contribute and collaborate with others Develop confidence in finding their way across the platform Can take responsibility for the planning and execution of a major feature, representing Engineering when working with Product and Design Are willing to learn and contribute to all parts of the stack Are resolute in their approach to problem solving, balancing the needs of their team with the willingness to get to",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8487457002",
+    "company": "Discord",
+    "title": "Software Engineer- Database Infrastructure",
+    "location": "San Francisco Bay Area ",
+    "desc_len": 4050,
+    "description": "Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games. The Database Infrastructure team develops and operates all of Discord’s databases and data services. Those systems store the data of Discord's 200M+ monthly active users—including trillions of messages! We work across multiple areas: databases, disk storage and Rust-based data access services. We're a small team whose work has a huge impact on our company's success and ability to grow! Some blog posts from the team: How Discord Indexes Trillions of Messages How Discord Stores Trillions of Messages How Discord Supercharges Network Disks for Extreme Low-Latency You will: Build and operate large-scale, reliable and performant data systems with ScyllaDB, PostgreSQL, ElasticSearch, Linux and Rust. Collaborate with product and infrastructure teams to develop storage primitives enabling all of Discord. Exercise \"First Principles Thinking\" to always deliver what matters most to our users. Work with a talented team of engineers who have built one of the largest communication platforms in the world. You have: 2-4 years of experience with building backend infrastructure Ability to troubleshoot, debug, and test complex systems in a live, production environment Strong operating systems, distributed systems, and concurrency control fundamentals Proficiency with at least one statically-typed programming language: e.g. Rust, Go, Java, C, C++ Comfortable working in fast paced environments Bonus Points: Experience with highly-available and distributed databases: e.g. ScyllaDB, Cassandra, Vitess, Postgres w/HA, etc. Experience with Rust Knowledge of DevOps tools like Salt, Terraform or Kubernetes More things that might interest you: We’ve tackled a lot of fascinating technical challenges over the years, and blogged about it regularly: How Discord Stores Trillions of Messages 25% or 6 to 4: The 11/6/23 Authentication Outage How Discord Supercharges Network Disks for Extreme Low Latency Why Discord is switching from Go to Rust How Discord Indexes Billions of Messages How Discord Stores Billions of Messag",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8475544002",
+    "company": "Discord",
+    "title": "Software Engineer, Safety Experience",
+    "location": "San Francisco Bay Area",
+    "desc_len": 4233,
+    "description": "Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games. As an Engineer on the Safety Experience team, you’ll help make Discord’s platform safer for hundreds of millions of users. You’ll contribute to designing, building, and maintaining product features and systems that prevent harmful activities while ensuring regulatory compliance. Keeping users safe is essential for Discord’s growth, making your team’s work critical. This role reports to the Engineering Manager of Safety Experience. What You'll Be Doing Contribute to the development of highly visible, user-facing products that protect Discord’s users. Design, build, and deploy production APIs, backend services, and data pipelines to launch safety features at scale. Collaborate cross-functionally with Product, Design, Policy, Data Science, ML, Legal, and T&S Operations to create solutions that are both impactful and lovable. Support rapid responses to the ever-evolving abuse and compliance landscape. What you should have 2+ years of experience writing Python and utilizing back-end API frameworks (Flask, Django). 2+ years of experience developing front-end interfaces with JavaScript (React, TypeScript) for both web and mobile platforms. Familiarity with databases such as Cassandra, Postgres, and ScyllaDB. Ability to contribute to end-to-end delivery of projects: working through ambiguity, participating in rollouts, and communicating with stakeholders. Ability to troubleshoot, debug, and test complex systems in a live, production environment. Strong communication and collaboration skills, with the ability to work well with cross-functional partners, designers, and other engineers. Experience using metrics and dashboards to make data-driven decisions. Bonus Points Interest in the Safety or Anti-Abuse domain. Experience analyzing and visualizing data using Datadog or Mode. Familiarity with real-time streaming systems like Kafka or Pub-Sub. Ability to contribute to offline analytics jobs and processes. Experience building and operating mobile-client features on iOS and Android. Exposure to l",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8447216002",
+    "company": "Discord",
+    "title": "Data Scientist, Analytics",
+    "location": "San Francisco Bay Area",
+    "desc_len": 4496,
+    "description": "Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games. As a member of the Data Science & Analytics team, you will help Discord achieve its mission of making it easier and more fun for people to talk and hang out before, during, and after playing games. Data Scientists for Analytics leverage their deep analytical skills and product intuition to solve a wide array of complex problems - from strategic analysis to dashboard creation and experimentation design and analysis. We are currently hiring across a variety of data science verticals and teams including revenue and performance. If you’re passionate about data, impact, and working on an amazing team, read on! What you'll be doing Partner with teams throughout Discord through the full lifecycle of data science analytics from ideation and exploratory analysis, to building dashboards and reports, and A/B testing Define KPIs and metrics that help improve the user experience, encapsulating these measures in clean crisp dashboards that provide the company with timely and actionable information Use our amazing infrastructure to quickly and easily build custom data sets to monitor novel product features and processes Proactively socialize insights, dashboards, and reports with technical and non-technical audiences, soliciting feedback on where to improve Be a champion of A/B testing and help groups throughout the company design, analyze, and interpret A/B tests correctly Collaborate with data and engineering teams to design scalable and future-proof instrumentation What you should have 3+ years of experience autonomously translating ambiguous business problems into deep informative insights through hands-on analytics 3+ years of experience building performant dashboards using Tableau, Looker, or similar software - with proficiency in designing clean crisp visualizations 2+ years experience writing excellent SQL Excellent communication skills, with the ability to translate complicated findings or technical approaches in easy-to-understand ways 2+ years of experience in the design, analysis, and i",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8485778002",
+    "company": "Discord",
+    "title": "Embedded Data Specialist",
+    "location": "San Francisco Bay Area",
+    "desc_len": 4419,
+    "description": "Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games. At the heart of Discord's communities is Safety. The Safety team at Discord ensures users find belonging by minimizing exposure to spam and other forms of platform abuse. We are excited to find others passionate about making sure Discord is a safe and welcoming place for our users and hope you can join us on this mission. As the Embedded Data Specialist, you will be a trusted locus of data knowledge by stakeholders, capable of fielding requests from diverse groups of stakeholders. You balance emergent requests with creating more longterm tooling, and are conscious of the maintenance investments of the tools you build, with coaching. You expect QA of your code, but very rarely would corrections be approach-based, rather than accidents of function. What you'll be doing Analyzing data to uncover patterns, insights, and trends, as well as answering complex legal and comms based Safety questions for external communication Leveraging analysis to design operational response solutions in the Safety landscape Writing retros of Safety incidents with a focus on guardrail solutions and clear runbooks Iterating, improving, and socializing reporting to the needs of an emergent safety landscape across teams and efforts with a focus on stable or self-help solutions Delivering long-term project work in the Safety operations landscape with some oversight Documenting — in detail — your work, its impact, and the guardrails present in your design Assisting in developing scalable, clean data infrastructure Partnering with teams across Safety to increase the impact of your work What you should have Fluent SQL, BigQuery dialect preferred Experience updating data architecture in version control systems such as Git Data Reporting experience, with an understanding of new feature design and guardrails Statistical analysis training Can determine path for code/data review with limited direction Maintain high levels of confidentiality and accuracy while performing legal requests Beyond just fielding requests, able",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7896378",
+    "company": "Reddit",
+    "title": "iOS Software Engineer, Contributions",
+    "location": "Remote - United States",
+    "desc_len": 5826,
+    "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . The Contributions team is responsible for two of the most important actions on the platform: Posting and Commenting. We know that conversations are the lifeblood of Reddit, so we strive to ensure the content and the surrounding conversation is simple, expressive, intelligent, and modern. This is a high impact role where you will drive related technical & product strategy, operations, architecture, and execution for one of the largest sites in the world. This role can be 100% remote within the United States or Canada. If you are located near an office, you’re welcome to work a hybrid schedule as well! What You’ll Do: Work cross-functionally, collaborate and partner with product, design, and other engineering counterparts to execute on product and business strategy and build novel products and features that our users will love. Contribute to the full development cycle: technical design, development, test, experimentation, analysis, and launch. You’ll be reviewing code and design docs, giving feedback on product specs and mocks. Participate with a team of thoughtful, fast-moving, and motivated engineers. Contribute to standards that improve developer workflows, recommend best practices, and help mentor engineers on the team to grow their technical expertise. Continuously learn and improve your technical and non-technical abilities. Minimum Candidate Qualifications for this role: Minimum of 3+ years of post-internship, full-time, hands-on, professional software development experience developing user-facing iOS mobile native applications at scale, using Swift. Familiarity with software engineering best practices such as unit/integration/end-to-end testing, design documents, CI/CD, A/B testing, code reviews, and documentation Strong organizational skills, the ability to prioritize tasks and keep projects on schedule. Excellent communication skills. You collaborate effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences. BS degree in Computer Science,",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/nurse-practitioner-registered-nurse-ai-trainer-%2480-%24100-hour-at-linkedin-4416185511?position=6&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=NcleVXn3msD90JG8u%2B9WfA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Nurse Practitioner/ Registered Nurse AI Trainer, $80-$100/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-systems-infrastructure-core-infra-at-linkedin-4410704806?position=9&pageNum=6&refId=I7EnYGoX2vtnAWyLU138Mg%3D%3D&trackingId=F103mCEvnr9aoiAtvG8D6Q%3D%3D",
+    "company": "LinkedIn",
+    "title": "Distinguished Software Engineer, Systems Infrastructure - Core Infra",
+    "location": "Mountain View, CA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-systems-infrastructure-core-infra-at-linkedin-4410743927?position=7&pageNum=7&refId=rbnaW9sN%2FJ5M%2BVN%2F6JqzOA%3D%3D&trackingId=EBqcSjcmDDkGmmBD48ykjA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Distinguished Software Engineer, Systems Infrastructure - Core Infra",
+    "location": "Bellevue, WA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-english-and-japanese-speaking-%24100-hour-at-linkedin-4416902174?position=5&pageNum=5&refId=kPNKsuHLOSTrJGHvbk7j1g%3D%3D&trackingId=T4I2XMaOOyrZNYAhnVHspw%3D%3D",
+    "company": "LinkedIn",
+    "title": "Software Engineering AI Trainer (English and Japanese Speaking), $100/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-english-and-thai-speaking-%24100-hour-at-linkedin-4416057667?position=2&pageNum=5&refId=kPNKsuHLOSTrJGHvbk7j1g%3D%3D&trackingId=hF4TJMrOF%2BoZ9OQeD0wZpA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Software Engineering AI Trainer (English and Thai Speaking), $100/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/power-apps-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4416344587?position=6&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=qDcBl13LlThnOqW7HG6L4w%3D%3D",
+    "company": "LinkedIn",
+    "title": "Power Apps AI Trainer, $65–$75/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-english-indonesian-speaking-%24100-hour-at-linkedin-4415552675?position=9&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=uOzB9NBs0CUKdDhRqwf48Q%3D%3D",
+    "company": "LinkedIn",
+    "title": "Software Engineer AI Trainer (English & Indonesian speaking), $100/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/power-automate-ai-trainer-%2465-%2475-hour-at-linkedin-4415966439?position=4&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=AEVrAqqnuiw1NL%2F%2BArAyKA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Power Automate AI Trainer, $65-$75/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/excel-supply-chain-ai-trainer-%2490-%24100-hour-at-linkedin-4414132728?position=8&pageNum=0&refId=2H9ZEC32Q0uOqh25H2w8vQ%3D%3D&trackingId=yAmAeJPZtahitTypPzYZ8Q%3D%3D",
+    "company": "LinkedIn",
+    "title": "Excel- Supply Chain AI Trainer- $90-$100/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=7&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=HTYK0o37JMAcoq2PA9O1ug%3D%3D",
+    "company": "LinkedIn",
+    "title": "Fellow, Software Engineering- Infrastructure",
+    "location": "Mountain View, CA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/dataverse-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414704494?position=4&pageNum=0&refId=2H9ZEC32Q0uOqh25H2w8vQ%3D%3D&trackingId=iP%2BJFoILwpbIa2wYcxRvoA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Dataverse AI Trainer, $65–$75/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-%24100-hour-at-linkedin-4412142793?position=9&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=NL1QPt8gTWvCPV7sLUY8IQ%3D%3D",
+    "company": "LinkedIn",
+    "title": "Software Engineering AI Trainer, $100/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-llm-system-prompt-development-ai-trainer-%2450%E2%80%93%2460-hour-at-linkedin-4409989407?position=7&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=nRHHram13c%2BsNsGdKlhOBg%3D%3D",
+    "company": "LinkedIn",
+    "title": "AI Engineer – LLM System Prompt Development AI Trainer, $50–$60/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-machine-learning-growth-at-linkedin-4410712671?position=10&pageNum=6&refId=I7EnYGoX2vtnAWyLU138Mg%3D%3D&trackingId=9SNh%2B9yNT8smk3D87w%2FL3A%3D%3D",
+    "company": "LinkedIn",
+    "title": "Distinguished Software Engineer, Machine Learning (Growth)",
+    "location": "Mountain View, CA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/copilot-studio-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414485682?position=5&pageNum=1&refId=K0ERsfC20VEf%2BgtzUU%2FgAg%3D%3D&trackingId=fUsJZKa%2BPiHON3q0CX8fpw%3D%3D",
+    "company": "LinkedIn",
+    "title": "Copilot Studio AI Trainer, $65–$75/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/power-platform-administrator-ai-trainer-%2475%E2%80%93%2485-hour-at-linkedin-4409990289?position=2&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=eLHA7GasUcbXn4STZe%2FNwA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Power Platform Administrator AI Trainer, $75–$85/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/power-platform-admin-center-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414492635?position=3&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=XTUYMckfzZU3uph8%2BHIcoQ%3D%3D",
+    "company": "LinkedIn",
+    "title": "Power Platform Admin Center AI Trainer, $65–$75/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/computer-information-systems-ai-trainer-%24100-%24150-hour-at-linkedin-4410858553?position=4&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=WlarVRnOBsz8bJXeo6x9DA%3D%3D",
+    "company": "LinkedIn",
+    "title": "Computer & Information Systems AI Trainer, $100-$150/hour",
+    "location": "United States",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5516835",
+    "company": "DoorDash",
+    "title": "Software Engineer, Machine Learning - Fraud",
+    "location": "Sunnyvale, CA; San Francisco, CA",
+    "desc_len": 8155,
+    "description": "About the Team The Fraud Machine Learning team builds cutting edge models that play central roles in our important anti-fraud systems. We operate at a massive scale, risking billions of events across 20+ countries. We are looking for ML experts who can help us push the technology boundaries and make DoorDash the world’s most safe logistics engine! About the Role We’re looking for a passionate Applied Machine Learning engineer to join our team. As a Machine Learning Engineer, you’ll be conceptualizing, designing, implementing, and validating algorithmic solutions to prevent, detect and mitigate fraud. You are excited about opportunities to introduce step function changes to our risking system. You will demonstrate a command of production level machine learning, experience solving end-user problems, and collaborate well with multi-disciplinary teams. You will report into the engineering manager on our Fraud Machine Learning team in our Operation Excellence organization. Once our offices reopen, we expect this role to be hybrid with some time in-office and some time remote. You're excited about this opportunity because you will... Develop production machine learning solutions to build a safe and frictionless shopping experience for a diverse and expanding retail space. Partner with engineering and product leaders to help shape the product roadmap applying ML Mentor junior team members, and lead cross functional pods to create collective impact You can find out more on our ML blog here We're excited about you because you have... 2+ years of industry experience developing machine learning models ( both classical and deep learning) and shipping ML solutions to production. Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software Experience with PyTorch or TensorFlow or similar deep learning framework. M.S., or PhD. in Statistics, Computer Science, Math, Operations Research, Physics, Bioinformatics, Economics, or other quantitative fields Familiarity with a JVM language (Kotlin/Scala) Familiarity with multi-task learning, LLMs and anomaly detection Fraud domain knowledge Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or pro",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7684688",
+    "company": "DoorDash",
+    "title": "Associate, Customer Experience- Data & Strategy",
+    "location": "San Francisco, CA; New York, NY; Chicago, IL; Seattle, WA; Phoenix, AZ; United States - Remote",
+    "desc_len": 8943,
+    "description": "About the Team The Advanced Case Escalations, ACE, team is responsible for identifying and resolving the systemic gaps that drive executive escalations. We operate at the intersection of Support, Product, Policy, and Operations, conducting structured root cause analyses on high-impact cases and translating findings into scalable fixes. Our mandate is twofold, resolve critical customer pain points in the near term and eliminate the upstream drivers that create repeat friction, strengthen accountability across partners, and sustain improvements to the end-to-end customer experience. About the Role As an Associate, Customer Experience on the ACE team, you will apply data science and AI to uncover systemic drivers of executive escalations and support friction. You will design and deploy models that structure unstructured case data into scalable taxonomies, automate postmortem analyses, and surface clear root causes. This role goes beyond reporting, you will translate complex datasets into executive-ready insights and partner cross-functionally to drive measurable reductions in Overturned Rate and M Team Escalations. Success requires strong technical rigor, structured thinking, and the ability to convert analysis into durable operational and product improvements. You’re excited about this opportunity because you will… Deploy AI-driven solutions to identify systemic support gaps and convert unstructured case data into actionable taxonomies. Own the development of scalable case classification models that improve visibility into root causes and reduce noise in escalation channels. Translate complex datasets into executive-ready insights that influence product, policy, and operational decisions. Partner cross-functionally with Product, Engineering, and Operations to close upstream gaps and prevent repeat issues at scale. Operate at the intersection of data science and business strategy, using analytics to drive measurable customer and operational outcomes. We’re excited about you because… You bring a strong foundation in data science, statistics, or a related quantitative field, and can translate theory into practical business applications. You are fluent in SQL and Python, and have experience working with large, messy datasets to extract structured, decision-ready insights. You think in systems, not symptoms, and can deconstruct complex support issues into clear, root cause categories. You are comfortable building and deploying machine learning or AI-driven models",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://careers.blackline.com/careers-home/jobs/7049",
+    "company": "BlackLine",
+    "title": "Software Engineer",
+    "location": "Krakow",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://careers.blackline.com/careers-home/jobs/7076",
+    "company": "BlackLine",
+    "title": "Software Engineer",
+    "location": "Krakow",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+    "company": "Netflix",
+    "title": "Machine Learning Scientist 5 - Ads Bidding",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+    "company": "Netflix",
+    "title": "Machine Learning Scientist 5 - Ads Bidding",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+    "company": "Netflix",
+    "title": "Software Engineer in Test 5 - Apple Player",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+    "company": "Netflix",
+    "title": "Software Engineer in Test 5 - Apple Player",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+    "company": "Netflix",
+    "title": "Software Engineer in Test 5 - Apple Player",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+    "company": "Netflix",
+    "title": "Associate, Ads Finance & Strategy, Product Platform",
+    "location": "Los Angeles,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+    "company": "Netflix",
+    "title": "Associate, Ads Finance & Strategy, Product Platform",
+    "location": "Los Angeles,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+    "company": "Netflix",
+    "title": "Machine Learning Scientist 5 - Ads Bidding",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+    "company": "Netflix",
+    "title": "Software Engineer 5 - Partner Test Tech",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+    "company": "Netflix",
+    "title": "Machine Learning Scientist 5 - Ads Bidding",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+    "company": "Netflix",
+    "title": "Associate, Ads Finance & Strategy, Product Platform",
+    "location": "Los Angeles,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+    "company": "Netflix",
+    "title": "Associate, Ads Finance & Strategy, Product Platform",
+    "location": "Los Angeles,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "associate title"
+  }
+]

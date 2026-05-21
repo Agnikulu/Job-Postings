@@ -18,6 +18,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from text_util import normalize_description
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -82,6 +84,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     department=categories.get("team") or categories.get("department"),
                     ats="lever",
                     category=company.get("category", "uncategorized"),
+                    description=normalize_description(raw.get("descriptionPlain")),
                 )
             )
         except (KeyError, TypeError) as e:

@@ -19,6 +19,7 @@ class Job:
     department: str | None
     ats: str
     category: str
+    description: str | None = None
     # Populated by the orchestrator after fetch:
     posted_date: str | None = None        # YYYY-MM-DD normalized.
     education_levels: tuple[str, ...] = ()  # ("PhD", "Intern", ...)
@@ -36,6 +37,7 @@ class Job:
             "department": self.department,
             "ats": self.ats,
             "category": self.category,
+            "description": self.description,
             "education_levels": list(self.education_levels),
             "is_us": self.is_us,
         }

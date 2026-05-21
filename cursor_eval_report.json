@@ -1,0 +1,2857 @@
+{
+  "labeled": 3141,
+  "unlabeled": 0,
+  "overall": {
+    "tp": 80,
+    "fp": 245,
+    "tn": 2809,
+    "fn": 7,
+    "accuracy": 0.9198,
+    "precision": 0.2462,
+    "recall": 0.9195,
+    "f1": 0.3883
+  },
+  "by_company": {
+    "Adobe": {
+      "tn": 50
+    },
+    "Airbnb": {
+      "tn": 48,
+      "fp": 2
+    },
+    "Anduril": {
+      "tn": 45,
+      "fp": 4,
+      "tp": 1
+    },
+    "Anthropic": {
+      "tn": 48,
+      "tp": 1,
+      "fp": 1
+    },
+    "Apple": {
+      "tn": 50
+    },
+    "Benchling": {
+      "tn": 44,
+      "fp": 3
+    },
+    "BlackLine": {
+      "tn": 48,
+      "fp": 2
+    },
+    "Clay": {
+      "tn": 49,
+      "fp": 1
+    },
+    "Click Therapeutics": {
+      "tn": 7
+    },
+    "ClickHouse": {
+      "tn": 50
+    },
+    "Cognition AI": {
+      "tn": 44,
+      "fp": 6
+    },
+    "Cohere": {
+      "tn": 41,
+      "tp": 1,
+      "fp": 8
+    },
+    "Confluent": {
+      "tn": 50
+    },
+    "CoreWeave": {
+      "tn": 48,
+      "tp": 1,
+      "fp": 1
+    },
+    "Cursor": {
+      "tn": 50
+    },
+    "DRW": {
+      "tn": 43,
+      "tp": 5,
+      "fp": 2
+    },
+    "Databricks": {
+      "fp": 2,
+      "tn": 48
+    },
+    "Datadog": {
+      "tn": 47,
+      "fp": 3
+    },
+    "Discord": {
+      "tn": 46,
+      "tp": 2,
+      "fp": 2
+    },
+    "DoorDash": {
+      "tn": 48,
+      "tp": 1,
+      "fp": 1
+    },
+    "ElevenLabs": {
+      "tn": 48,
+      "fp": 2
+    },
+    "Enveda Biosciences": {
+      "tn": 3,
+      "fp": 1
+    },
+    "Etched": {
+      "fp": 3,
+      "tn": 31,
+      "fn": 3,
+      "tp": 13
+    },
+    "EvolutionaryScale": {
+      "tn": 30,
+      "fp": 4
+    },
+    "Figma": {
+      "tn": 49,
+      "fp": 1
+    },
+    "Figure AI": {
+      "tn": 48,
+      "tp": 1,
+      "fp": 1
+    },
+    "Flatiron Health": {
+      "tn": 18,
+      "fp": 2
+    },
+    "Genesis Therapeutics": {
+      "tn": 19,
+      "fp": 10
+    },
+    "GitLab": {
+      "tn": 50
+    },
+    "Glean": {
+      "tn": 47,
+      "tp": 2,
+      "fp": 1
+    },
+    "Google": {
+      "tn": 50
+    },
+    "Google DeepMind": {
+      "tn": 50
+    },
+    "Groq": {
+      "tn": 3
+    },
+    "Harvey": {
+      "tn": 50
+    },
+    "Headway": {
+      "tn": 48,
+      "fp": 2
+    },
+    "Hebbia": {
+      "tn": 31,
+      "fp": 3
+    },
+    "Hugging Face": {
+      "fp": 6,
+      "tn": 1
+    },
+    "Inceptive": {
+      "tn": 5,
+      "fn": 1
+    },
+    "Insitro": {
+      "tn": 11
+    },
+    "Lambda Labs": {
+      "tn": 31,
+      "tp": 2
+    },
+    "LangChain": {
+      "tn": 50
+    },
+    "Linear": {
+      "tn": 23
+    },
+    "LinkedIn": {
+      "fp": 17,
+      "tn": 32,
+      "tp": 1
+    },
+    "Luma AI": {
+      "tn": 32,
+      "fp": 18
+    },
+    "Microsoft": {
+      "tp": 6,
+      "tn": 36,
+      "fp": 8
+    },
+    "Mistral AI": {
+      "fp": 2,
+      "tn": 47,
+      "tp": 1
+    },
+    "MongoDB": {
+      "tn": 47,
+      "fp": 3
+    },
+    "Neon": {
+      "tn": 12,
+      "fp": 2
+    },
+    "Netflix": {
+      "tn": 23,
+      "fp": 27
+    },
+    "Notion": {
+      "tn": 48,
+      "fp": 1,
+      "tp": 1
+    },
+    "Nvidia": {
+      "tn": 47,
+      "tp": 3
+    },
+    "Palantir": {
+      "tn": 33,
+      "fp": 16,
+      "tp": 1
+    },
+    "Pathos AI": {
+      "tn": 1,
+      "fp": 1
+    },
+    "Perplexity AI": {
+      "fp": 12,
+      "tp": 4,
+      "tn": 33,
+      "fn": 1
+    },
+    "Physical Intelligence": {
+      "tn": 12,
+      "tp": 2,
+      "fp": 8,
+      "fn": 1
+    },
+    "Pinecone": {
+      "tn": 7
+    },
+    "Pinterest": {
+      "tn": 46,
+      "tp": 4
+    },
+    "Plaid": {
+      "tn": 47,
+      "fp": 1,
+      "tp": 2
+    },
+    "Point72": {
+      "tn": 33,
+      "tp": 8,
+      "fp": 9
+    },
+    "Ramp": {
+      "tn": 44,
+      "fp": 5,
+      "tp": 1
+    },
+    "Recursion Pharma": {
+      "tn": 35,
+      "fp": 4
+    },
+    "Reddit": {
+      "tn": 49,
+      "fp": 1
+    },
+    "Retool": {
+      "fp": 14,
+      "tn": 25
+    },
+    "Rippling": {
+      "tn": 48,
+      "tp": 1,
+      "fp": 1
+    },
+    "Roblox": {
+      "tn": 48,
+      "tp": 2
+    },
+    "Runway ML": {
+      "tn": 34,
+      "fp": 1
+    },
+    "Scale AI": {
+      "tn": 47,
+      "fp": 3
+    },
+    "Sierra": {
+      "tn": 48,
+      "fp": 2
+    },
+    "Snowflake": {
+      "tn": 46,
+      "tp": 3,
+      "fp": 1
+    },
+    "Stripe": {
+      "tn": 47,
+      "tp": 3
+    },
+    "Together AI": {
+      "tn": 46,
+      "tp": 2,
+      "fp": 2
+    },
+    "Uber": {
+      "tn": 42,
+      "fp": 3,
+      "fn": 1,
+      "tp": 4
+    },
+    "Vercel": {
+      "tn": 43,
+      "fp": 7
+    },
+    "Warp": {
+      "tn": 8
+    },
+    "Waymo": {
+      "tn": 1
+    },
+    "Xaira Therapeutics": {
+      "tn": 15,
+      "fp": 2,
+      "tp": 1
+    },
+    "Zocdoc": {
+      "tn": 47
+    }
+  },
+  "disagreements": [
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Search Engine Developer, Search Core)",
+      "url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Senior/expert systems engineer; 3+ years required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Golang Engineer, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS experienced IC; significant Golang production experience, mentors peers"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+      "url": "https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS experienced IC; significant AI/agent engineering experience expected"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Data Scientist, Evals)",
+      "url": "https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS DS role; 4+ years data science/ML required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Backend Software Engineer)",
+      "url": "https://jobs.ashbyhq.com/perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS experienced backend engineers (not intern/new grad)"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Business Development Representative",
+      "url": "https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "BDR sales role, not technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Secure Intelligence Institute)",
+      "url": "https://jobs.ashbyhq.com/perplexity/e48aaf8c-24cd-4733-aa5b-752773467bfa",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "PhD-level security research MTS; top-tier publication track expected"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Data Scientist/Engineer, Online Metrics)",
+      "url": "https://jobs.ashbyhq.com/perplexity/768efd34-3854-4c9b-9686-2a128ab35405",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS DS/engineer; 4+ years analytics/DS required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Rust Engineer, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/a19f1774-5944-4981-b446-e3e40d0dd281",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS experienced search Rust engineer IC"
+    },
+    {
+      "bucket": "fn",
+      "company": "Perplexity AI",
+      "title": "UK Internship Program",
+      "url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "AI Inference internship for CS/Engineering MS/PhD students; GPU/ML infra technical"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Backend/Infrastructure Engineer, Search)",
+      "url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Perplexity MTS infra IC; no intern/new-grad signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Software Engineer, Data Flywheel)",
+      "url": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS SWE; 3+ years production software required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (Software Engineer, Acceleration)",
+      "url": "https://jobs.ashbyhq.com/perplexity/c03bf199-9faa-48a4-809d-095c72b06000",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS acceleration IC; internet-scale experienced engineer profile"
+    },
+    {
+      "bucket": "fp",
+      "company": "Scale AI",
+      "title": "Software Engineer, Robotics",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4655050005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Technical SWE robotics but 3+ years required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Scale AI",
+      "title": "Applied AI Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4536659005",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Enterprise applied AI client-facing role; experienced FDE profile"
+    },
+    {
+      "bucket": "fp",
+      "company": "Scale AI",
+      "title": "Machine Learning Engineer, Global Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4413274005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "PhD/research-track public-sector ML engineer"
+    },
+    {
+      "bucket": "fp",
+      "company": "Glean",
+      "title": "Founding Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651990005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Founding forward-deployed engineer; senior IC/founder scope"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5146028008",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Applied AI engineer; 8+ years experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Cloud ML DevRel Engineer - EMEA remote",
+      "url": "https://apply.workable.com/j/922D2C6549",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Technical DevRel but no description/EC signals; likely mid-level"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Cloud ML DevRel Engineer - US remote",
+      "url": "https://apply.workable.com/j/F24E2E5058",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Technical DevRel but no description/EC signals; likely mid-level"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Data/Infrastructure Advocate Engineer - EMEA Remote",
+      "url": "https://apply.workable.com/j/7C7F63E87A",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Advocate/DevRel-style technical role; no EC signals in posting"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Data/Infrastructure Advocate Engineer - US Remote",
+      "url": "https://apply.workable.com/j/5CA82A9A98",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Advocate/DevRel-style technical role; no EC signals in posting"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Open-Source Machine Learning Engineer - International Remote",
+      "url": "https://apply.workable.com/j/56232F23CB",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML engineer title only; missing description, no EC evidence"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Open-Source Machine Learning Engineer, AI for Robotics - Paris Office",
+      "url": "https://apply.workable.com/j/E787796A71",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML engineer title only; missing description, no EC evidence"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Quantitative Developer, Global Delta One",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7930236",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Quant developer; minimum 2 years finance experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Research Engineer",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/6973885",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Research engineer; minimum 2+ years production Python"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Data Scientist, Proprietary Research",
+      "url": "https://boards.greenhouse.io/point72/jobs/7695570002?gh_jid=7695570002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Proprietary research DS; experienced market-intelligence profile"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Systems Analyst, Workday HCM/Payroll",
+      "url": "https://boards.greenhouse.io/point72/jobs/8128613002?gh_jid=8128613002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Workday HCM/payroll systems analyst, not SWE/ML EC track"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Broker Relations Analyst",
+      "url": "https://boards.greenhouse.io/point72/jobs/8393253002?gh_jid=8393253002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Broker relations finance analyst, not technical"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Software Engineer (.NET), Macro Middle Office",
+      "url": "https://boards.greenhouse.io/point72/jobs/8428205002?gh_jid=8428205002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Description says Senior Software Engineer"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Software Engineer, Investor and Fund Administration",
+      "url": "https://boards.greenhouse.io/point72/jobs/8372904002?gh_jid=8372904002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Description says Senior Software Engineer, Tax Technology"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Observability Engineer",
+      "url": "https://boards.greenhouse.io/point72/jobs/8393928002?gh_jid=8393928002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Observability engineer; proven large-scale experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "IT Operations Engineer (Application Support) - AI & Data Technology",
+      "url": "https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "IT app support role; requires 3-6 years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "GenAI Security Engineer",
+      "url": "https://boards.greenhouse.io/point72/jobs/8399360002?gh_jid=8399360002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "GenAI security engineer; requires 6+ years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "url": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Quant researcher; requires 3-7 years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Model Efficiency",
+      "url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS model efficiency; requires 5+ years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Data Analysis and Evaluation",
+      "url": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS data evaluation; no early-career signals, mid-level role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Training Infra Engineer",
+      "url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS training infra; senior-level requirements, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, MLE (North)",
+      "url": "https://jobs.ashbyhq.com/cohere/bda8d35e-92c2-4b01-b4ed-e43fe0a49aba",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS MLE applied product; experienced role, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Software Engineer, Collect",
+      "url": "https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Software engineer; no intern/new-grad or 0-2yr signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, MLE (Korea)",
+      "url": "https://jobs.ashbyhq.com/cohere/31c47498-0ccf-4d23-a418-0d2c616ba909",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS MLE Korea; requires leading ML teams (senior)"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Training Performance Engineer",
+      "url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS training performance; senior CUDA/ML infra role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Member of Technical Staff, Search",
+      "url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS search/ML; no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Research, Mid-Training",
+      "url": "https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Mid-training research; senior track record required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Research, Post-Training",
+      "url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Post-training research; senior ML research role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Research Engineer, Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Research infra engineer; senior distributed systems role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Security Engineer",
+      "url": "https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Security engineer; deep experienced security role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Site Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "SRE; senior production/platform reliability role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Devops Engineer, Federal",
+      "url": "https://jobs.ashbyhq.com/cognition/589326d3-9dc0-447e-ae0c-972b808f831d",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Federal DevOps; founding/first-engineer role"
+    },
+    {
+      "bucket": "fp",
+      "company": "CoreWeave",
+      "title": "Data Center Technician - Mesa, AZ",
+      "url": "https://coreweave.com/careers/job?4673492006&board=coreweave&gh_jid=4673492006",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Data center technician ops; not SWE/DS/ML engineering track"
+    },
+    {
+      "bucket": "fp",
+      "company": "Runway ML",
+      "title": "Creative Support Specialist",
+      "url": "https://jobs.ashbyhq.com/runway-ml/2ca5c5d1-725d-4c44-907b-5d808ec248fe",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Creative support specialist; customer support not SWE"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Forward Deployed Infrastructure Engineer",
+      "url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed infra; founding member role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Security Engineer",
+      "url": "https://jobs.ashbyhq.com/sierra/bbef339c-3365-40df-804b-ece245386b43",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Security engineer; broad senior security expertise required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer",
+      "url": "https://jobs.gem.com/retool/4003629005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Observability",
+      "url": "https://jobs.gem.com/retool/4520708005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer observability; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, AI Product Engineer",
+      "url": "https://jobs.gem.com/retool/4526652005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer AI; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Workflows",
+      "url": "https://jobs.gem.com/retool/4559232005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer workflows; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Core Services",
+      "url": "https://jobs.gem.com/retool/4605533005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer core services; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Core Infrastructure",
+      "url": "https://jobs.gem.com/retool/4618972005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer core infra; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Developer Experience",
+      "url": "https://jobs.gem.com/retool/4624687005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer DevEx; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Apps Builder Experience",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDppL9ORnuR9EgdVBqn0pzKu",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer apps builder; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Resources",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDpU8ZlLMStGXDitLPsojeUr",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer resources; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Data Scientist",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDqBGHD-VZVGcilDoagUDjbG",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Data scientist; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Application Security Engineer",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDofimDqsS1Aygy5a0HdAM9u",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AppSec engineer; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Data Platform",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDpkUUjCIersh938b9cSZ_H5",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer data platform; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "Software Engineer, Governance",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDp9SmgWhNEJ2bTl6QWkx15r",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer governance; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Retool",
+      "title": "IT Engineer",
+      "url": "https://jobs.gem.com/retool/am9icG9zdDqGjkAKifhZaRjONG7oWhgn",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "IT engineer; no description, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Data Annotation Quality Specialist",
+      "url": "https://jobs.lever.co/mistral/1cb8bbe9-012f-46a6-83d0-1200be477793",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Data annotation quality; not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
+      "url": "https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Applied AI fullstack; customer-facing mid-level, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Developer Success Engineer",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5989803004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Developer success engineer; customer-facing solutions role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Software Engineer, Lua",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5661583004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer Lua; requires 5+ years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Software Engineer, Deployment Infrastructure",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Deployment infra; senior infrastructure engineer role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Software Engineer, Compute",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5551619004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer compute; requires 5+ years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Software Engineer, AI SDK",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5474915004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software engineer AI SDK; requires 5+ years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Software Engineer, Backend",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5430088004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Backend software engineer; no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Site Engineer",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Site/growth engineer; marketing-focused, no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "ElevenLabs",
+      "title": "Enterprise Account Executive - Singapore",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Enterprise sales/account executive role, not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "ElevenLabs",
+      "title": "Compliance Engineer - EU",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Compliance engineering role without early-career signals; likely experienced hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hebbia",
+      "title": "Forward Deployed Banker (AI Strategist)",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/a1d492a2-efba-4c4f-a243-e98b0ce2a967",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "AI strategist/GTM post-sales role for finance, not technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hebbia",
+      "title": "Forward Deployed Investor (AI Strategist)",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/0c33fe83-efa3-40bf-8a37-5183197d1b81",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "AI strategist/GTM post-sales role for finance, not technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hebbia",
+      "title": "AI Strategist",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/c001162b-84e2-4453-8bfd-a62d9bfe0d8c",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "AI strategist/GTM post-sales role, not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Etched",
+      "title": "Accelerator Software Engineer",
+      "url": "https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Full-time accelerator SWE requires production shipping experience; not intern/new grad"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "Mech / Thermal Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/etched/ec962944-f7ed-4a3e-a251-9d929295a740",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "Mechanical/thermal engineering intern for ASIC hardware systems"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "ChipSim Intern - Spring 2027",
+      "url": "https://jobs.ashbyhq.com/etched/a06f95bc-adb5-48a2-b9b5-a77695bbd61b",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "Chip simulation/hardware tooling intern; CS/EE technical"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "PD Intern - Fall 2026",
+      "url": "https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "Physical design/ASIC intern; hardware engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Etched",
+      "title": "Technical Recruiter (Entry Level)",
+      "url": "https://jobs.ashbyhq.com/etched/06398761-0950-4e5c-8590-26f485ba5509",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Technical recruiter/HR role, not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Etched",
+      "title": "Power Validation Engineer",
+      "url": "https://jobs.ashbyhq.com/etched/40365c15-37d2-4266-a042-5a21bfb9212b",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Senior-scope power validation engineer owning end-to-end characterization"
+    },
+    {
+      "bucket": "fp",
+      "company": "Clay",
+      "title": "Solutions Engineer",
+      "url": "https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Customer-facing solutions/pre-sales role, not core SWE/DS/ML"
+    },
+    {
+      "bucket": "fp",
+      "company": "Notion",
+      "title": "Account Executive, Commercial, DACH",
+      "url": "https://jobs.ashbyhq.com/notion/2763cf17-ca4e-4f78-b4ca-1c1cc8a7c051",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Commercial account executive sales role requiring 1-3 years closing experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Figma",
+      "title": "Account Executive, SMB",
+      "url": "https://boards.greenhouse.io/figma/jobs/5694259004?gh_jid=5694259004",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "SMB account executive sales role, not technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Rippling",
+      "title": "Implementation Specialist, Platform",
+      "url": "https://ats.rippling.com/rippling/jobs/36271636-4235-44e0-b5bd-74ebadcac00e",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Implementation specialist/customer onboarding, not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Plaid",
+      "title": "New Business Associate - Inbound",
+      "url": "https://jobs.ashbyhq.com/plaid/e446e2ba-87bd-4eda-8b49-3fed3cd29245",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Inbound sales/new business associate role, not engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Neon",
+      "title": "Data Scientist Pleno - Afirmativa para Mulheres",
+      "url": "https://jobs.lever.co/neon/2221f2b5-7e69-4561-94cc-f1c52f034f6e",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Pleno (mid-level) data scientist role, not early career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Neon",
+      "title": "Software Engineer - Afirmativa para Pessoas com Deficiência",
+      "url": "https://jobs.lever.co/neon/e794724d-ea43-4d52-a975-037b8adb9297",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Open-level software engineer posting with no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Security Engineer, Cloud",
+      "url": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Requires minimum 5 years software and 3 years AWS experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Guest Travel",
+      "url": "https://jobs.ashbyhq.com/ramp/f2d10bdf-0906-47eb-96fb-0efe6f81d8a3",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Full-stack SWE role with no early-career experience requirement stated"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Security Engineer, Product",
+      "url": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Requires minimum 5 years software and 2 years security/platform experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Product Growth",
+      "url": "https://jobs.ashbyhq.com/ramp/0c9e3e0f-54df-4252-a17b-b506e954225b",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Requires minimum 3 years software development experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Data Platform",
+      "url": "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Experienced data/ML platform SWE with no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "Robotics Software Engineer",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/f6bee7a7-57ae-4ec1-9276-ae3bcbdc7327",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Experienced robotics/runtime software engineer role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "Controls Engineer",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/c8f9e9aa-8801-4916-9b1f-2c0bd5f072f9",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Experienced controls engineer requiring deep robotics expertise"
+    },
+    {
+      "bucket": "fn",
+      "company": "Physical Intelligence",
+      "title": "Mechatronics Intern",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "Mechatronics/robotics hardware intern; embedded/mechanical technical"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "Build & Release Engineer",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/f70f9481-ea7e-48e4-9212-f9c10952a028",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Explicitly senior build/release infrastructure engineer role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "ML Infra Engineer (TPU/Jax/Optimization)",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/4e547c5a-e4ee-40a7-b14b-c4daf9c072eb",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Experienced ML infrastructure engineer requiring large-scale training background"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "ML Infra Engineer (Supercomputing)",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/0307dd1e-ac14-47fd-b80c-e3ca6e82ae46",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Senior ML supercomputing/scheduling infrastructure role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "ML Infra Engineer",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/70ebf855-16df-4879-a6a7-ee0161174acc",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Experienced ML infrastructure engineer requiring large-scale training background"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "Electrical Engineer (UMI)",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/eece24c0-3a0e-4373-bf88-4b92633a0930",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Electrical engineer requires 3-7 years hardware design experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "Robot Integration Engineer",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/8e9830f4-89ba-46e6-ab73-648c550aaf3c",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Technical robotics role but requires 5+ years integration experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer - Reliability",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqOhdaji2m34B3ibJdoy7Hb",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "SWE role at Luma; no description or early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer, Inference",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDo8-N5tRXErv9eJJp_TyVo8",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "SWE inference role; no description or EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Applied Research Scientist / Engineer",
+      "url": "https://jobs.gem.com/lumalabs-ai/9581c803-4261-4336-901e-4dca60227565",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Applied research role; no description; likely experienced hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer — Foundation Model (Image / Video)",
+      "url": "https://jobs.gem.com/lumalabs-ai/55cb4576-d2cb-4775-a492-32bae2566a8f",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Foundation model research scientist; no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist - Large Language Model",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpG8LYonD3KtMtbhaYTgDGr",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "LLM research scientist; no description or EC markers"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer — Foundation Model (Voice Agents)",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpzmndzUch3eDquU0pT_PaJ",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Foundation model research role; no EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer - Controllability, Personalization & Productization",
+      "url": "https://jobs.gem.com/lumalabs-ai/cb7f6fe2-4ed1-4cf8-9964-ea9b4f47e85d",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Research scientist/engineer; no description or EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer - Data Infra Reliability",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpygMYFaWPgbr6dsVNV4zqV",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Data infra SWE; no description or EC markers"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer – Training Infrastructure",
+      "url": "https://jobs.gem.com/lumalabs-ai/e6983d5d-2af9-4512-b27a-442648736363",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Training infra research role; no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Qualitative Evaluation Engineer",
+      "url": "https://jobs.gem.com/lumalabs-ai/cde30431-9eea-4e62-8ef1-357b95e8d95b",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Evaluation engineer; no description or EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer — Multimodal Agent",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDolL_2qF3mA8iH2BQJXOYSA",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Multimodal agent research role; no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer, ML Platform",
+      "url": "https://jobs.gem.com/lumalabs-ai/583bb471-29ad-4011-837c-a1029700720c",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML platform SWE; no description or EC markers"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Frontend Engineer - Internal Tooling (Data Infra)",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrlFC3tMaqhvsrYMEd8tpyL",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Frontend engineer; no description or EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer – Performance Optimization",
+      "url": "https://jobs.gem.com/lumalabs-ai/a2feb190-455d-45e6-b488-7ac840f30fbd",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Performance optimization research; no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer – Foundation Model: Core Research",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoL3Jvn-6tHPga36PeEa_yC",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Core foundation model research; no EC markers"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqTslt6IMSZ0701YH7GIhbr",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed engineer; typically mid-level; no EC info"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Research Scientist / Engineer — Foundation Model (Video / Audio Generation)",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDppJpFSr9kGVqZNk6Zgm2g5",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Video/audio generation research; no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer - Product",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Product SWE; no description or EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Figure AI",
+      "title": "Production Associate (Swing Shift - All Levels)",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4664176006",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Production/manufacturing assembly associate; not SWE/eng career track"
+    },
+    {
+      "bucket": "fp",
+      "company": "Xaira Therapeutics",
+      "title": "AI in Residence",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "AI in Residence is postdoc-level selective program, not new-grad SWE"
+    },
+    {
+      "bucket": "fp",
+      "company": "Xaira Therapeutics",
+      "title": "AI Research Engineer",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "AI research engineer requires minimum 5 years industry experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "EvolutionaryScale",
+      "title": "Group Leader, Immune Cell Reprogramming",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7286324",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Group Leader/PI-level senior research leadership role"
+    },
+    {
+      "bucket": "fp",
+      "company": "EvolutionaryScale",
+      "title": "Group Leader, Immunology",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7535647",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Group Leader/PI-equivalent senior immunology leadership"
+    },
+    {
+      "bucket": "fp",
+      "company": "EvolutionaryScale",
+      "title": "Research Associate, NGS Assay Development, Virtual Immune System",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7835072",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Wet-lab research associate in biology; not SWE/DS/ML track"
+    },
+    {
+      "bucket": "fp",
+      "company": "EvolutionaryScale",
+      "title": "Research Associate, Synthetic Biology",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7776738",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Bench synthetic biology research associate; not software/ML role"
+    },
+    {
+      "bucket": "fn",
+      "company": "Inceptive",
+      "title": "Internship",
+      "url": "https://job-boards.greenhouse.io/inceptive/jobs/5103191007",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "Bio+AI applied research internship; computation/ML at drug-design startup"
+    },
+    {
+      "bucket": "fp",
+      "company": "Pathos AI",
+      "title": "AI Research Engineer",
+      "url": "https://jobs.ashbyhq.com/pathos/fbec38e7-d55b-4bb3-8c74-644d75626c82",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Senior AI research engineer owning prod systems and roadmap"
+    },
+    {
+      "bucket": "fp",
+      "company": "Databricks",
+      "title": "Customer Enablement Specialist",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Customer enablement/training role; not SWE; 2-4 years required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Databricks",
+      "title": "Counsel, Commercial",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Commercial legal counsel; 4+ years; non-technical"
+    },
+    {
+      "bucket": "fp",
+      "company": "Flatiron Health",
+      "title": "Communications & Events Associate",
+      "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7855278",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Communications and events associate; marketing/comms not technical"
+    },
+    {
+      "bucket": "fp",
+      "company": "Flatiron Health",
+      "title": "Communications & Events Associate (m/f/d)",
+      "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7873832",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Communications and events associate; marketing/comms not technical"
+    },
+    {
+      "bucket": "fp",
+      "company": "Headway",
+      "title": "Growth Associate, Care Partnerships",
+      "url": "https://jobs.ashbyhq.com/headway/4e826c00-570b-4349-956c-c9ac35c2a637",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Growth associate in care partnerships; outbound sales/BD role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Headway",
+      "title": "General Engineering Roles",
+      "url": "https://jobs.ashbyhq.com/headway/d6cc4427-0e75-41a7-897b-31bf76947005",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "General engineering talent pool; no intern/new-grad level specified"
+    },
+    {
+      "bucket": "fp",
+      "company": "Benchling",
+      "title": "Software Engineer, Developer Platform",
+      "url": "https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Mid-level software engineer; no EC experience requirement shown"
+    },
+    {
+      "bucket": "fp",
+      "company": "Benchling",
+      "title": "SMB Account Executive",
+      "url": "https://jobs.ashbyhq.com/benchling/d897a65f-eddf-4b45-ade1-029b0c029b95",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "SMB account executive sales role; not technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Benchling",
+      "title": "Software Engineer, Developer Enablement",
+      "url": "https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Software engineer platform role; no EC indicators in posting"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Data Agent (Bay Area, Remote)",
+      "url": "https://jobs.ashbyhq.com/genesis/15c16227-cef1-4bc3-9f2d-341ed4586404",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS data agent; requires track record on complex projects"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Simulation (Bay Area, Remote)",
+      "url": "https://jobs.ashbyhq.com/genesis/70159e6d-5082-40cc-af58-f2cfe5563b58",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS simulation; requires extensive physics simulation experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, ML Compiler and Systems (Bay Area, Remote)",
+      "url": "https://jobs.ashbyhq.com/genesis/8604aae5-a89e-4e6f-8f5e-dce2008cc6bc",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS ML compiler; lead role requiring extensive compiler/GPU experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Mechanical Engineer (Bay Area)",
+      "url": "https://jobs.ashbyhq.com/genesis/e260b061-68b2-43d5-9f11-45261234f901",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS mechanical engineer; broad experience and track record required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Platform (Paris, London)",
+      "url": "https://jobs.ashbyhq.com/genesis/0cf1a048-46d0-4693-88da-c86f978c9dd3",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS platform; extensive systems experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Data Agent (Paris, London)",
+      "url": "https://jobs.ashbyhq.com/genesis/a8e164e3-4585-4392-a485-529b85e068ff",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS data agent Paris; senior track record expected"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, ML Compiler and Systems (Paris, London)",
+      "url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS ML compiler Paris; lead/senior compiler systems role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Simulation (Paris, London)",
+      "url": "https://jobs.ashbyhq.com/genesis/2c0b2b1e-710e-43be-9111-a8eb0591baa2",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS simulation Paris; extensive simulation experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Platform (Bay Area, Remote)",
+      "url": "https://jobs.ashbyhq.com/genesis/5a9a58b4-3c11-4eb0-bc1f-58f8b34d676c",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS platform Bay Area; extensive systems experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Genesis Therapeutics",
+      "title": "Member of Technical Staff, Site Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/genesis/4d491696-72d6-4b8b-8e2a-9265e9dec376",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MTS SRE; deep distributed systems expertise and leadership expected"
+    },
+    {
+      "bucket": "fp",
+      "company": "Enveda Biosciences",
+      "title": "Software Engineer",
+      "url": "https://jobs.lever.co/enveda/c14d0b11-a2a5-4411-ae5f-52cc33c6707c",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Generic SWE posting; no intern/new-grad or 0-2yr requirement stated"
+    },
+    {
+      "bucket": "fp",
+      "company": "Recursion Pharma",
+      "title": "Research Associate - Biology Automation",
+      "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826711",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Early-career wet-lab biology automation scientist; not SWE/DS/ML role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Recursion Pharma",
+      "title": "Research Associate, Compound Management",
+      "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7931607",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Wet-lab compound management research associate; not SWE/DS/ML engineering track"
+    },
+    {
+      "bucket": "fp",
+      "company": "Recursion Pharma",
+      "title": "Research Associate, Primary Pharmacology",
+      "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7839172",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Wet-lab primary pharmacology research associate; not SWE/DS/ML role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Recursion Pharma",
+      "title": "Research Scientist, Immunology",
+      "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7808019",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Lab-based immunology research scientist; pharma biology not SWE/DS/ML"
+    },
+    {
+      "bucket": "fp",
+      "company": "Airbnb",
+      "title": "AI Engineer, Community Support Engineering",
+      "url": "https://careers.airbnb.com/positions/7946288?gh_jid=7946288",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI engineer posting with no intern/new-grad or 0-2yr requirement stated"
+    },
+    {
+      "bucket": "fp",
+      "company": "Airbnb",
+      "title": "Frontend Engineer, Payments",
+      "url": "https://careers.airbnb.com/positions/7546721?gh_jid=7546721",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Frontend engineer requires 3+ years and leads contractor team"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Software Engineer",
+      "url": "https://www.uber.com/careers/list/158653",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Generic H1B software engineer posting; no intern/new-grad or EC signals"
+    },
+    {
+      "bucket": "fn",
+      "company": "Uber",
+      "title": "Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations",
+      "url": "https://www.uber.com/careers/list/158984",
+      "regex_include": false,
+      "regex_reason": "minimum experience required",
+      "manual_include": true,
+      "manual_reason": "Graduate 2026 PhD Scientist II; new PhD grad DS/research role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Software Engineer",
+      "url": "https://www.uber.com/careers/list/158656",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Generic H1B software engineer posting; no intern/new-grad or EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Sales Operations Associate, Paris",
+      "url": "https://www.uber.com/careers/list/158665",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Sales operations associate; commercial ops not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Datadog",
+      "title": "GTM Strategy and Operations Associate",
+      "url": "https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "GTM strategy and operations associate; sales ops not engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "Datadog",
+      "title": "Technical Support Engineer 1",
+      "url": "https://careers.datadoghq.com/detail/7813863/?gh_jid=7813863",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Technical support engineer; customer support not SWE/DS/ML track"
+    },
+    {
+      "bucket": "fp",
+      "company": "Datadog",
+      "title": "Technical Support Engineer 2",
+      "url": "https://careers.datadoghq.com/detail/6761448/?gh_jid=6761448",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Technical Support Engineer 2 requires 2+ years SaaS support experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Together AI",
+      "title": "AI infrastructure Engineer (SRE) Amsterdam",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI infrastructure SRE requires 7+ years professional experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "Together AI",
+      "title": "Systems Research Engineer, GPU Programming",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "GPU systems research engineer; no early-career signals in posting"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Backend Software Engineer - Infrastructure",
+      "url": "https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Backend infrastructure SWE; open-level with no EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Enablement Engineer - Customer Success",
+      "url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Customer success enablement engineer; no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Application Security Engineer",
+      "url": "https://jobs.lever.co/palantir/a5fdd5ec-d1f3-4837-83af-161b003931dd",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Application security engineer; experienced open-level posting"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer - Tactical Edge",
+      "url": "https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed SWE; no intern/new-grad or EC requirement stated"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Software Engineer - Apollo Systems",
+      "url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Apollo systems SWE; open-level with no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Product Reliability Engineer - Defense",
+      "url": "https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Product reliability engineer; open-level with no EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Reliability Engineer",
+      "url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed reliability engineer; no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Production Engineer - Database Operations",
+      "url": "https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Production/database operations engineer; no EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Software Engineer - Environment Platform",
+      "url": "https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Environment platform SWE; open-level with no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer - Intel",
+      "url": "https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed SWE Intel; no intern/new-grad or EC requirement"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Product Infrastructure Security Engineer",
+      "url": "https://jobs.lever.co/palantir/15f01f3a-922d-4cff-b093-888333d88628",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Product infrastructure security engineer; no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Compliance Engineer",
+      "url": "https://jobs.lever.co/palantir/fbf8b12b-38f3-4cdb-a4d3-b5404c0aa98a",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Compliance engineer; regulatory role without early-career markers"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer - Autonomous Systems C2",
+      "url": "https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed SWE autonomous C2; no EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer - US Government",
+      "url": "https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed SWE US Government; no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Compliance Engineer",
+      "url": "https://jobs.lever.co/palantir/6fa1ad9b-4506-45e4-a476-f4292911a279",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Compliance engineer; no intern/new-grad or EC requirement stated"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer",
+      "url": "https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Forward deployed SWE Seoul; open-level with no EC indicators"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anduril",
+      "title": "Modeling, Simulation and Analysis Engineer, Air Dominance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4777086007?gh_jid=4777086007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "MSA aerospace engineer; no early-career experience requirement stated"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anduril",
+      "title": "Manufacturing Test Engineer, Intelligence Systems (2nd Shift)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5135616007?gh_jid=5135616007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Manufacturing test engineer; production ops without EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anduril",
+      "title": "Payloads Integration Engineer, Maneuver Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Payloads integration engineer; no early-career indicators in posting"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anduril",
+      "title": "Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4948307007?gh_jid=4948307007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Maritime software engineer; open-level with no EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Snowflake",
+      "title": "Sales Development Representative - Portuguese Speaker",
+      "url": "https://jobs.ashbyhq.com/snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Sales development representative; sales role not SWE/DS/ML"
+    },
+    {
+      "bucket": "fp",
+      "company": "MongoDB",
+      "title": "Software Engineer 3 - Query Optimization",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7816135",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Software Engineer 3 query role; requires 3+ years experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "MongoDB",
+      "title": "Commercial Growth Account Executive",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7172630",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "Commercial growth account executive sales role, not technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "MongoDB",
+      "title": "Software Engineer 3, Backup",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7779598",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Software Engineer 3 mid-level IC title; no intern/new-grad or 0-2 year signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Discord",
+      "title": "Data Scientist, Analytics",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8447216002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Data scientist analytics; requires 3+ years experience minimum"
+    },
+    {
+      "bucket": "fp",
+      "company": "Discord",
+      "title": "Embedded Data Specialist",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8485778002",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Embedded data specialist ops/analytics role; no early-career or core SWE/DS signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Reddit",
+      "title": "iOS Software Engineer, Contributions",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7896378",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "iOS SWE requires minimum 3+ years post-internship experience"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Nurse Practitioner/ Registered Nurse AI Trainer, $80-$100/hour",
+      "url": "https://www.linkedin.com/jobs/view/nurse-practitioner-registered-nurse-ai-trainer-%2480-%24100-hour-at-linkedin-4416185511?position=6&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=NcleVXn3msD90JG8u%2B9WfA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Nurse practitioner/RN AI trainer gig; healthcare not SWE/DS/ML engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Distinguished Software Engineer, Systems Infrastructure - Core Infra",
+      "url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-systems-infrastructure-core-infra-at-linkedin-4410704806?position=9&pageNum=6&refId=I7EnYGoX2vtnAWyLU138Mg%3D%3D&trackingId=F103mCEvnr9aoiAtvG8D6Q%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Distinguished software engineer; principal/staff-level senior IC"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Distinguished Software Engineer, Systems Infrastructure - Core Infra",
+      "url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-systems-infrastructure-core-infra-at-linkedin-4410743927?position=7&pageNum=7&refId=rbnaW9sN%2FJ5M%2BVN%2F6JqzOA%3D%3D&trackingId=EBqcSjcmDDkGmmBD48ykjA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Distinguished software engineer; principal/staff-level senior IC"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Software Engineering AI Trainer (English and Japanese Speaking), $100/hour",
+      "url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-english-and-japanese-speaking-%24100-hour-at-linkedin-4416902174?position=5&pageNum=5&refId=kPNKsuHLOSTrJGHvbk7j1g%3D%3D&trackingId=T4I2XMaOOyrZNYAhnVHspw%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Software Engineering AI Trainer (English and Thai Speaking), $100/hour",
+      "url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-english-and-thai-speaking-%24100-hour-at-linkedin-4416057667?position=2&pageNum=5&refId=kPNKsuHLOSTrJGHvbk7j1g%3D%3D&trackingId=hF4TJMrOF%2BoZ9OQeD0wZpA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Power Apps AI Trainer, $65–$75/hour",
+      "url": "https://www.linkedin.com/jobs/view/power-apps-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4416344587?position=6&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=qDcBl13LlThnOqW7HG6L4w%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Power Apps AI trainer hourly gig, not SWE/DS/ML engineering hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Software Engineer AI Trainer (English & Indonesian speaking), $100/hour",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-english-indonesian-speaking-%24100-hour-at-linkedin-4415552675?position=9&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=uOzB9NBs0CUKdDhRqwf48Q%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Power Automate AI Trainer, $65-$75/hour",
+      "url": "https://www.linkedin.com/jobs/view/power-automate-ai-trainer-%2465-%2475-hour-at-linkedin-4415966439?position=4&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=AEVrAqqnuiw1NL%2F%2BArAyKA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Power Automate AI trainer hourly gig, not SWE/DS/ML engineering hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Excel- Supply Chain AI Trainer- $90-$100/hour",
+      "url": "https://www.linkedin.com/jobs/view/excel-supply-chain-ai-trainer-%2490-%24100-hour-at-linkedin-4414132728?position=8&pageNum=0&refId=2H9ZEC32Q0uOqh25H2w8vQ%3D%3D&trackingId=yAmAeJPZtahitTypPzYZ8Q%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Excel/supply-chain AI trainer gig, not core technical engineering"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Dataverse AI Trainer, $65–$75/hour",
+      "url": "https://www.linkedin.com/jobs/view/dataverse-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414704494?position=4&pageNum=0&refId=2H9ZEC32Q0uOqh25H2w8vQ%3D%3D&trackingId=iP%2BJFoILwpbIa2wYcxRvoA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Dataverse AI trainer hourly gig, not SWE/DS/ML engineering hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Software Engineering AI Trainer, $100/hour",
+      "url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-%24100-hour-at-linkedin-4412142793?position=9&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=NL1QPt8gTWvCPV7sLUY8IQ%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "AI Engineer – LLM System Prompt Development AI Trainer, $50–$60/hour",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-llm-system-prompt-development-ai-trainer-%2450%E2%80%93%2460-hour-at-linkedin-4409989407?position=7&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=nRHHram13c%2BsNsGdKlhOBg%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "LLM prompt-development AI trainer hourly gig, not full-time SWE hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Distinguished Software Engineer, Machine Learning (Growth)",
+      "url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-machine-learning-growth-at-linkedin-4410712671?position=10&pageNum=6&refId=I7EnYGoX2vtnAWyLU138Mg%3D%3D&trackingId=9SNh%2B9yNT8smk3D87w%2FL3A%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Distinguished ML software engineer; principal/staff-level senior IC"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Copilot Studio AI Trainer, $65–$75/hour",
+      "url": "https://www.linkedin.com/jobs/view/copilot-studio-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414485682?position=5&pageNum=1&refId=K0ERsfC20VEf%2BgtzUU%2FgAg%3D%3D&trackingId=fUsJZKa%2BPiHON3q0CX8fpw%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Copilot Studio AI trainer hourly gig, not SWE/DS/ML engineering hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Power Platform Administrator AI Trainer, $75–$85/hour",
+      "url": "https://www.linkedin.com/jobs/view/power-platform-administrator-ai-trainer-%2475%E2%80%93%2485-hour-at-linkedin-4409990289?position=2&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=eLHA7GasUcbXn4STZe%2FNwA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Power Platform administrator AI trainer gig, not SWE/DS/ML hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Power Platform Admin Center AI Trainer, $65–$75/hour",
+      "url": "https://www.linkedin.com/jobs/view/power-platform-admin-center-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414492635?position=3&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=XTUYMckfzZU3uph8%2BHIcoQ%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Power Platform admin-center AI trainer gig, not SWE/DS/ML hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "LinkedIn",
+      "title": "Computer & Information Systems AI Trainer, $100-$150/hour",
+      "url": "https://www.linkedin.com/jobs/view/computer-information-systems-ai-trainer-%24100-%24150-hour-at-linkedin-4410858553?position=4&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=WlarVRnOBsz8bJXeo6x9DA%3D%3D",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Computer/information systems AI trainer hourly gig, not full-time SWE hire"
+    },
+    {
+      "bucket": "fp",
+      "company": "DoorDash",
+      "title": "Associate, Customer Experience- Data & Strategy",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7684688",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "Customer experience data & strategy associate; CX/ops analytics not core SWE/DS/ML"
+    },
+    {
+      "bucket": "fp",
+      "company": "BlackLine",
+      "title": "Software Engineer",
+      "url": "https://careers.blackline.com/careers-home/jobs/7049",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Generic software engineer; no description, no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "BlackLine",
+      "title": "Software Engineer",
+      "url": "https://careers.blackline.com/careers-home/jobs/7076",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Generic software engineer; no description, no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 5 - Ads Bidding",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 5 - Ads Bidding",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer in Test 5 - Apple Player",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer in Test 5 - Apple Player",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer in Test 5 - Apple Player",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Associate, Ads Finance & Strategy, Product Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Associate, Ads Finance & Strategy, Product Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 5 - Ads Bidding",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer 5 - Partner Test Tech",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 5 - Ads Bidding",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Associate, Ads Finance & Strategy, Product Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Associate, Ads Finance & Strategy, Product Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Machine Learning Scientist 5 - Ads Bidding",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer 5 - Partner Test Tech",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer 5 - Partner Test Tech",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer in Test 5 - Apple Player",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer 5 - Partner Test Tech",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Software Engineer in Test 5 - Apple Player",
+      "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Netflix",
+      "title": "Associate, Ads Finance & Strategy, Product Platform",
+      "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+      "regex_include": true,
+      "regex_reason": "associate title",
+      "manual_include": false,
+      "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Member of Technical Staff - Data Scientist",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652635",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MoTS data scientist IC4; deep production LLM experience required, senior"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Industrial Controls Systems Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861335",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Industrial controls/datacenter ops; 2-3+ years, facilities not SWE/DS/ML track"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Solution Engineer - Data Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769477",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Solution engineer; customer-facing pre-sales role, not core SWE/DS/ML"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Solution Engineer - Cloud & AI Data Platform",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769491",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Solution engineer; customer-facing pre-sales role, not core SWE/DS/ML"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "\"Purview\" Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637410",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Generic software engineer; no description, no intern/new-grad or EC signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Critical Environment Field Service Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556649755",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Critical environment field service; datacenter facilities ops, 2-3+ years, non-SWE"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Industrial Controls System Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657725",
+      "regex_include": true,
+      "regex_reason": "bare technical title",
+      "manual_include": false,
+      "manual_reason": "Industrial controls engineer; no description, no early-career signals"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Member of Technical Staff - Data Platform",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751400",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "MoTS data platform; no description, no early-career signals, mid-level title"
+    }
+  ]
+}

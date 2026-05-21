@@ -223,8 +223,5 @@ JazzHR, etc.):
   Apple, Microsoft, Jane Street, Jump, HRT, etc.)
 - Location filter (US-only, remote-eligible, or per-country)
 - Compensation parsing (extract $XXXk from job description)
-- Per-category Discord channels (frontier_ai → #ai, quant → #quant, ...)
-- Slack / Telegram notifier alternatives
-- LLM-based title classification as a secondary signal when regex misses
 - 5-min cadence via Cloudflare Workers cron triggers (paid path to true
   "instant" alerts)

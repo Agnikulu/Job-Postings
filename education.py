@@ -65,19 +65,19 @@ _INTERN = re.compile(
 )
 
 
-def extract_education_levels(title: str | None) -> list[str]:
-    """Return ordered, deduplicated list of education tags for `title`."""
-    if not title:
+def extract_education_levels(text: str | None) -> list[str]:
+    """Return ordered, deduplicated education tags for title or requirements text."""
+    if not text:
         return []
     tags: list[str] = []
-    if _PHD.search(title):
+    if _PHD.search(text):
         tags.append("PhD")
-    if _MASTERS.search(title):
+    if _MASTERS.search(text):
         tags.append("Masters")
-    if _BACHELORS.search(title):
+    if _BACHELORS.search(text):
         tags.append("Bachelors")
-    if _NEW_GRAD.search(title):
+    if _NEW_GRAD.search(text):
         tags.append("New Grad")
-    if _INTERN.search(title):
+    if _INTERN.search(text):
         tags.append("Intern")
     return tags

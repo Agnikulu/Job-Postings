@@ -19,6 +19,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from adapters.description_fetch import fetch_microsoft_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -28,6 +30,7 @@ BASE_URL = "https://apply.careers.microsoft.com"
 PAGE_SIZE = 50
 MAX_PAGES = 200
 PAGE_DELAY_SEC = 0.35
+DETAIL_WORKERS = 8
 
 
 def _retryable_request_error(exc: BaseException) -> bool:
@@ -118,6 +121,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             break
 
     jobs: list[Job] = []
+    job_ids: list[str] = []
     for raw in all_raw:
         if not isinstance(raw, dict):
             continue
@@ -127,6 +131,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             location = " / ".join(str(x) for x in locs if x)
             path = raw.get("positionUrl") or f"/careers/job/{job_id}"
             url = path if str(path).startswith("http") else f"{BASE_URL}{path}"
+            job_ids.append(job_id)
             jobs.append(
                 Job(
                     id=job_id,
@@ -143,4 +148,32 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError) as e:
             log.warning("Microsoft: skipping malformed job for %s: %s", name, e)
             continue
+
+    if job_ids:
+        descriptions = map_descriptions_parallel(
+            job_ids,
+            lambda job_id: fetch_microsoft_description(job_id, base_url=BASE_URL),
+            max_workers=DETAIL_WORKERS,
+        )
+        enriched: list[Job] = []
+        for job in jobs:
+            desc = descriptions.get(job.id)
+            if desc:
+                enriched.append(
+                    Job(
+                        id=job.id,
+                        company=job.company,
+                        title=job.title,
+                        location=job.location,
+                        url=job.url,
+                        posted_at=job.posted_at,
+                        department=job.department,
+                        ats=job.ats,
+                        category=job.category,
+                        description=desc,
+                    )
+                )
+            else:
+                enriched.append(job)
+        return enriched
     return jobs

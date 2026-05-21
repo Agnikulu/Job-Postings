@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315989769",
+    "company": "Netflix",
+    "title": "Machine Learning Scientist 5 - Ads Bidding",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+    "company": "Netflix",
+    "title": "Software Engineer 5 - Partner Test Tech",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790298014263",
+    "company": "Netflix",
+    "title": "AI Engineer 6 - AI Foundation & Tooling, Ads Platform",
+    "location": "USA - Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+    "company": "Netflix",
+    "title": "Software Engineer 5 - Partner Test Tech",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+    "company": "Netflix",
+    "title": "Software Engineer in Test 5 - Apple Player",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003395",
+    "company": "Netflix",
+    "title": "Software Engineer 5 - Partner Test Tech",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790316003628",
+    "company": "Netflix",
+    "title": "Software Engineer in Test 5 - Apple Player",
+    "location": "Los Gatos,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://explore.jobs.netflix.net/careers/job/790315857851",
+    "company": "Netflix",
+    "title": "Associate, Ads Finance & Strategy, Product Platform",
+    "location": "Los Angeles,California,United States of America",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639524",
+    "company": "Microsoft",
+    "title": "Research Intern - AI Frameworks (Network Systems and Tools)",
+    "location": "Redmond, WA, US",
+    "desc_len": 2745,
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world's best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Investigate and evaluate emerging disaggregated KV cache architectures. Implement a hierarchical storage architecture with multiple tiers Build Peer-to-Peer (P2P) service KV cache sharing architecture that enables direct, high-performance cache transfer between multiple LLM serving instances without requiring centralized cache servers. Currently enrolled in a PhD program in Computer Science, Electrical/Computer Engineering, or a related field. In addition to the qualifications below, you'll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Research experience in areas such as computer architecture, AI/ML systems, performance modeling, distributed systems, or hardware-software co-design. Programming skills in Python, C/C++ with experience building prototypes, simulators, or performance analysis tools. Familiarity with modern AI workloads and/or deep learning frameworks (e.g., PyTorch). Demonstrated ability to define and pursue original research directions in AI systems or architecture. Ability to collaborate effectively with researchers across disciplines and work in cross-group, cross-cultural environments. Proficient communication and presentation skills for sharing complex technical insights. Ability to think creatively and approach system and architecture challenges with unconventional or innovative solutions. Experience with PyTor",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556652635",
+    "company": "Microsoft",
+    "title": "Member of Technical Staff - Data Scientist",
+    "location": "Mountain View, CA, US / Redmond, WA, US / New York, NY, US / NY,US",
+    "desc_len": 2047,
+    "description": "Design evaluations of advanced model capabilities and use them to drive rapid, high-signal iteration loops Work with vendors to produce high quality evaluation and training data Build data pipelines to produce high quality evaluation and training data Build data flywheels to hill-climb on model weaknesses, using data from various surfaces where our models are deployed Ensure optimal quality, quantity and coverage of data across our post-training stages Run post-training experiments and ablations to produce models that climb our evals Embody our culture and values. Have deep experience with LLMs, either training them or applying them in production Have developed production-scale data pipelines for synthesizing, curating, or processing large quantities of data Can design, run, and interpret large-scale ML experiments with careful statistical and empirical reasoning. Possess strong generalist engineering and mathematical skills. Have clear written and verbal communication, and the ability to collaborate effectively with researchers, engineers and other disciplines. Bonus skills: Demonstrated SOTA results in any area of large-scale training, inference, or evaluation. Hands‑on experience with large language models, including training or applying them in production (not just prompting) Designing and running post‑training experiments (evals, ablations, preference tuning / RLHF‑style methods) Building and owning scalable data pipelines for training and evaluation data Strong Python skills for ML experimentation, data processing, and analysis Solid statistical, experimental, and general engineering fundamentals Software Engineering IC4 - The typical base pay range for this role across the U.S. is USD $119,800 - $234,700 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $158,400 - $258,000 per year. Certain roles may be eligible for benefits and other compensation.",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556626608",
+    "company": "Microsoft",
+    "title": "Member of Technical Staff - Post-Training",
+    "location": "Redmond, WA, US / Mountain View, CA, US",
+    "desc_len": 1806,
+    "description": "Design & Evaluate Datasets - Build high-quality datasets and benchmarks for training AI models; run ablation studies to measure impact and optimize data effectiveness. Advance Model Training - Apply deep expertise in pre-training, post-training, and reinforcement learning (RL) for both language and multimodal models. Develop Data Infrastructure - Create and maintain scalable pipelines for ingestion, preprocessing, filtering, and annotation of large, complex datasets. Data Quality & Analysis - Assess real-world multimodal datasets (text, image, video, audio, code) for quality, diversity, and relevance; identify gaps and propose improvements. Tooling & Workflows - Build lightweight tools for dataset auditing, visualization, and versioning to streamline experimentation. Research & Innovation - Collaborate with cross-functional teams to push research and product boundaries, delivering models that make a real-world impact. Embody our Culture and Values Bachelor's Degree (complete or in progress) in relevant field AND 3+ months related research internship experience OR Master's Degree in relevant field OR equivalent experience. Software engineering skills with fluency in Python and modern data libraries. Master's Degree in relevant field AND 1+ year(s) related research experience OR equivalent experience. Coding expertise in Python and data libraries (Pandas, NumPy, etc.). Proficiency with distributed data frameworks (Spark, Ray, Apache Beam) and cloud ecosystems (Azure, data lakes). Hands-on experience with large-scale, unstructured or semi-structured datasets: images, video, audio, and code. Proven experience training AI models at significant scale. Demonstrated ability to collaborate within interdisciplinary teams and communicate complex, multimodal research concepts effectively",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556649491",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "US",
+    "desc_len": 2102,
+    "description": "Design, develop, and optimize networking solutions tailored for large-scale AI training infrastructure. Architect and implement high-performance, low-latency, and low-jitter communication frameworks for distributed systems. Benchmark, analyze, and enhance the scalability and reliability of networking systems to handle petabyte-scale data transfer. Debug and resolve complex networking issues in large-scale, high-performance environments. Drive identification of dependencies and the development of design documents for a product, application, service, or platform. Create, implement, optimize, debug, refactor, and reuse code to establish and improve performance and maintainability, effectiveness, and return on investment (ROI). Act as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate. Proactively seek new knowledge and adapts to new AI trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python Bachelor's Degree in Computer Science OR related technical field AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, OR Python OR Master's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience. 1+ years experience with any of the following: High Performance Networking, InfiniBand, RoCE, CUDA",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556659072",
+    "company": "Microsoft",
+    "title": "Research Intern - Security, Privacy and AI",
+    "location": "Redmond, WA, US",
+    "desc_len": 1910,
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world's best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in computer science, electrical engineering, mathematics or a closely related field. In addition to the qualifications below, you'll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Candidates with a background in identity management and privacy such as privacy‑preserving authentication and authorization (for applications in agentic designs), scalable zero‑knowledge proofs, and related cryptographic primitives are especially well‑suited for this project. Demonstrated experience in applied cryptography, identity/authorization, privacy technologies, formal methods, security modeling, or adjacent areas. Familiarity with Artificial Intelligence (AI). Ability to communicate research clearly and collaborate in a diverse team.",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556861335",
+    "company": "Microsoft",
+    "title": "Industrial Controls Systems Engineer",
+    "location": "Busan, Busan, KR",
+    "desc_len": 2612,
+    "description": "Maintaining ICS availability, data quality, service and change management, reporting, and the security of all ICS systems in the Data Centers. Site level ICS program and project management, and both govern and directly participate in the execution of global initiatives related to ICS systems. Governing logical and physical access, approval, and permissions related to all ICS systems, networks, workstations, and servers that provide datacenter monitoring and controls. Empowering a culture of safety and security in global datacenter operations by complying with CO+I's safety programs and policies and completing compliance knowledge assessments. Developing positive working relationships with internal teams and external stakeholders. Embody our culture and values Bachelor's Degree in Computer Science, Information Technology, Mechanical Engineering, Electrical Engineering, Aerospace Engineering, Data Science, Cybersecurity, or related field AND 2+ years technical experience in software engineering, network engineering, service engineering, systems engineering, or industrial controls OR equivalent experience. These requirements include, but are not limited to the following specialized security screenings: Bachelor's degree or applicable field experience in Critical Environments, Electrical, Industrial, or Mechanical 3+ Years of experience in an operational, mission-critical, 24x7x365 facility 1.5+ Years of experience in the design and/or commissioning of Industrial Controls Systems (ICS) in datacenter critical environments including the Modbus and BACnet protocols. 2+ Years of experience with the operation and maintenance of building electrical systems (Power distribution, grounding, fire alarm, and related controls systems) and mechanical systems (HVAC, Chilled Water, DX Refrigerant, Evaporative, and related controls systems) Project management experience with a focus on agile methodologies. Knowledge of construction techniques and terminology including the ability to read and interpret blueprints, construction drawings and documents is essential. Ability to manage, prioritize and successfully execute multiple concurrent mission-critical infrastructure projects. Ability to balance competing demands for resources and adapt to changing priorities. Proven ability to deliver projects on-time and adherence to deadlines. Provide meaningful and timely reporting for weekly success metrics. Established understanding of Electrical Power Monitoring Systems (EPMS) and/or B",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621824",
+    "company": "Microsoft",
+    "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
+    "location": "Redmond, WA, US / New York, NY, US",
+    "desc_len": 1788,
+    "description": "Developing novel training algorithms for enhancing reasoning and action taking efficiency and reliability Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world's best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Accepted or currently enrolled in a PhD program in Computer Science or related STEM field. At least 1 year of experience with deep learning and large language model training. In addition to the qualifications below, you'll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Proven expertise in language model pre-training, post-training, or reinforcement learning. Proven publication record in top-tier conferences. Demonstrated ability to develop original research and perform hands-on research in a collaborative and dynamic environment.",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556769477",
+    "company": "Microsoft",
+    "title": "Solution Engineer - Data Security",
+    "location": "US",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556769491",
+    "company": "Microsoft",
+    "title": "Solution Engineer - Cloud & AI Data Platform",
+    "location": "US",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637410",
+    "company": "Microsoft",
+    "title": "\"Purview\" Software Engineer",
+    "location": "Redmond, WA, US",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556649755",
+    "company": "Microsoft",
+    "title": "Critical Environment Field Service Engineer",
+    "location": "ON,CA",
+    "desc_len": 2331,
+    "description": "Data Center Operations Ensures compliance with data center business units and service-level policies. Engages with appropriate teams and resources to execute tasks or projects. Manages programs associated with area of responsibility. Demonstrates conscientiousness on cost adheres to budget requirements; keeps costs reasonable and contributes to staying within budget. Follows and adheres to safety and security policies and procedures. Reports immediately any safety or security issues or concerns. Participates in Root Cause Analysis (RCA) process as appropriate. Deliver on cost/energy efficiency initiatives Support delivery of the Datacenter's Emergency Preparedness and Response plans and act as an escalation point for all facilities-related issues within our leased datacenters Coordinate, plan, schedule, and supervise CE audits and compliance verification as needed Ensure routine reporting to effectively manage and analyze our Power/Temperature/Relative Humidity, and SLA monitoring Establish and enhance strong working relationships and engagement with our Engineering Groups (EGs), and Landlord partners (including contributing to MBRs, QBRs) Work with regional and global peers to share and build best practices across the entire datacenter portfolio Provides mentorship across data centers for specific expertise. Contributes to a positive team environment by learning and adopting best practices. Contributes constructively during team meetings and in cross-disciplinary collaborations within the service team. Supports escalation of issues to appropriate owner. High School Diploma or equivalent AND 2+ year(s) industry experience in a datacenter or other critical environment facility. OR equivalent experience These requirements include, but are not limited to the following specialized security screenings: Reliability Status screening: This position requires that the successful candidate obtain and maintain a Reliability Status security screening with the Government of Canada. 3+ years' experience in Critical Environment infrastructures (e.g., UPS, Generator, AHU) Bachelor's Degree or Technical College certification in mechanical or electrical engineering and/or services Experience working on large scale CE projects Experience with the operation of IT infrastructure (Servers, SANs, Networking, etc.)",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556657725",
+    "company": "Microsoft",
+    "title": "Industrial Controls System Engineer",
+    "location": "Gävle, Gavleborg County, SE",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556751400",
+    "company": "Microsoft",
+    "title": "Member of Technical Staff - Data Platform",
+    "location": "Mountain View, CA, US / Redmond, WA, US",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556856002",
+    "company": "Microsoft",
+    "title": "Research Intern - Foundation Models and Agentic Systems",
+    "location": "Redmond, WA, US",
+    "desc_len": 1634,
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world's best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a MS or PhD program in Computer Science or a related STEM field. In addition to the qualifications below, you'll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Demonstrated ability to develop original research agendas. Ability to collaborate effectively with other researchers and product development teams. Proficient interpersonal skills, cross-group, and cross-culture collaboration. Ability to think unconventionally to derive creative and innovative solutions.",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
+    "company": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "desc_len": 2884,
+    "description": "Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world. NVIDIA is looking for an ASIC Design Engineer - New College Grad 2026 to join our Memory Subsystem Team! What you'll be doing : As a member of our Memory Subsystem Design team, you will collaborate with architects/design verification/formal verification/physical design team to deliver a world-class solution. NVIDIA SOC Interconnects, ordering controllers and memory accelerators are among the industry's most sophisticated because of the complex area, latency, power, bandwidth and quality-of-service requirements. In this position, you will have the opportunity to be responsible for the micro-architecture and design including RTL design, synthesis and timing analysis using innovative CAD tools and using the latest process technologies. What we need to see: Currently pursuing or recently completed a BS or MS in Electrical Engineering or Computer Engineer or related degree (or equivalent experience). Exposure to high-speed coherent interconnects, protocol bridges, hardware-managed coherency and system level caches is a plus Experience with multiple clock domains and asynchronous interfaces is a plus Knowledge of industry specifications like CHI/CXL/PCI-E is a plus. Strong proficiency of Verilog or VHDL. Scripting language like PERL NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you! Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 100,000 USD - 166,750 USD for Level 1, and 116,000 USD - 189,750 USD for Level 2. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until May 25, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering a diverse work environment and p",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
+    "company": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "desc_len": 2884,
+    "description": "Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world. NVIDIA is looking for an ASIC Design Engineer - New College Grad 2026 to join our Memory Subsystem Team! What you'll be doing : As a member of our Memory Subsystem Design team, you will collaborate with architects/design verification/formal verification/physical design team to deliver a world-class solution. NVIDIA SOC Interconnects, ordering controllers and memory accelerators are among the industry's most sophisticated because of the complex area, latency, power, bandwidth and quality-of-service requirements. In this position, you will have the opportunity to be responsible for the micro-architecture and design including RTL design, synthesis and timing analysis using innovative CAD tools and using the latest process technologies. What we need to see: Currently pursuing or recently completed a BS or MS in Electrical Engineering or Computer Engineer or related degree (or equivalent experience). Exposure to high-speed coherent interconnects, protocol bridges, hardware-managed coherency and system level caches is a plus Experience with multiple clock domains and asynchronous interfaces is a plus Knowledge of industry specifications like CHI/CXL/PCI-E is a plus. Strong proficiency of Verilog or VHDL. Scripting language like PERL NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you! Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 100,000 USD - 166,750 USD for Level 1, and 116,000 USD - 189,750 USD for Level 2. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until May 25, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering a diverse work environment and p",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581",
+    "company": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "desc_len": 2884,
+    "description": "Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world. NVIDIA is looking for an ASIC Design Engineer - New College Grad 2026 to join our Memory Subsystem Team! What you'll be doing : As a member of our Memory Subsystem Design team, you will collaborate with architects/design verification/formal verification/physical design team to deliver a world-class solution. NVIDIA SOC Interconnects, ordering controllers and memory accelerators are among the industry's most sophisticated because of the complex area, latency, power, bandwidth and quality-of-service requirements. In this position, you will have the opportunity to be responsible for the micro-architecture and design including RTL design, synthesis and timing analysis using innovative CAD tools and using the latest process technologies. What we need to see: Currently pursuing or recently completed a BS or MS in Electrical Engineering or Computer Engineer or related degree (or equivalent experience). Exposure to high-speed coherent interconnects, protocol bridges, hardware-managed coherency and system level caches is a plus Experience with multiple clock domains and asynchronous interfaces is a plus Knowledge of industry specifications like CHI/CXL/PCI-E is a plus. Strong proficiency of Verilog or VHDL. Scripting language like PERL NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you! Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 100,000 USD - 166,750 USD for Level 1, and 116,000 USD - 189,750 USD for Level 2. You will also be eligible for equity and benefits . Applications for this job will be accepted at least until May 25, 2026. This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes. NVIDIA is committed to fostering a diverse work environment and p",
+    "regex_reason": "explicit ec technical"
+  }
+]

@@ -20,6 +20,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from adapters.description_fetch import fetch_google_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -30,6 +32,7 @@ _DATA_RE = re.compile(
     re.DOTALL,
 )
 MAX_PAGES = 200
+DETAIL_WORKERS = 8
 
 
 @retry(
@@ -75,9 +78,13 @@ def _epoch_pair_to_iso(value: Any) -> str | None:
 
 
 def _normalize_url(job_id: str, raw_url: str) -> str:
-    if raw_url and raw_url.startswith("http"):
+    canonical = (
+        "https://www.google.com/about/careers/applications/jobs/results/"
+        f"{job_id}"
+    )
+    if raw_url and raw_url.startswith("http") and "signin" not in raw_url.lower():
         return raw_url
-    return f"https://www.google.com/about/careers/applications/jobs/results/{job_id}"
+    return canonical
 
 
 def fetch(company: dict[str, Any]) -> list[Job]:
@@ -105,6 +112,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         all_raw.extend(page_jobs)
 
     jobs: list[Job] = []
+    job_ids: list[str] = []
     for item in all_raw:
         try:
             if not isinstance(item, list) or len(item) < 3:
@@ -117,6 +125,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             location = _format_locations(item[9] if len(item) > 9 else None)
             posted_at = _epoch_pair_to_iso(item[12] if len(item) > 12 else None)
             employer = str(item[7] or "") if len(item) > 7 else ""
+            job_ids.append(job_id)
             jobs.append(
                 Job(
                     id=job_id,
@@ -133,4 +142,32 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError, IndexError) as e:
             log.warning("Google Careers: skipping malformed job for %s: %s", name, e)
             continue
+
+    if job_ids:
+        descriptions = map_descriptions_parallel(
+            job_ids,
+            fetch_google_description,
+            max_workers=DETAIL_WORKERS,
+        )
+        enriched: list[Job] = []
+        for job in jobs:
+            desc = descriptions.get(job.id)
+            if desc:
+                enriched.append(
+                    Job(
+                        id=job.id,
+                        company=job.company,
+                        title=job.title,
+                        location=job.location,
+                        url=job.url,
+                        posted_at=job.posted_at,
+                        department=job.department,
+                        ats=job.ats,
+                        category=job.category,
+                        description=desc,
+                    )
+                )
+            else:
+                enriched.append(job)
+        return enriched
     return jobs

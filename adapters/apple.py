@@ -27,6 +27,11 @@ BASE_URL = "https://jobs.apple.com"
 _LABEL_RE = re.compile(
     r'aria-label="([^"]+)"[^>]*href="/en-us/details/(\d+)/([^"?]+)',
 )
+_LOCATION_RE = re.compile(
+    r'search-location-search-job-title-PIPE-(\d+)-\d+"[^>]*>.*?'
+    r'<span class="table--advanced-search__location-sub"[^>]*>([^<]+)</span>',
+    re.DOTALL | re.IGNORECASE,
+)
 MAX_PAGES = 200
 
 
@@ -56,6 +61,10 @@ def _get_page(page: int) -> str:
 
 
 def _parse_page(text: str) -> list[dict[str, str]]:
+    locations = {
+        job_id: html.unescape(loc.strip())
+        for job_id, loc in _LOCATION_RE.findall(text)
+    }
     seen: set[str] = set()
     jobs: list[dict[str, str]] = []
     for label, job_id, slug in _LABEL_RE.findall(text):
@@ -71,6 +80,7 @@ def _parse_page(text: str) -> list[dict[str, str]]:
                 "id": job_id,
                 "title": match.group(1).strip(),
                 "slug": slug,
+                "location": locations.get(job_id, ""),
             }
         )
     return jobs
@@ -103,7 +113,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     id=job_id,
                     company=company["name"],
                     title=raw["title"],
-                    location="",
+                    location=raw.get("location", "") or "",
                     url=f"{BASE_URL}/en-us/details/{job_id}/{slug}",
                     posted_at=None,
                     department=None,

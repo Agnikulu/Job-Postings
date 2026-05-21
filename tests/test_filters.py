@@ -14,7 +14,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import pytest
 
-from filters import classify, diagnose_weak_signal, is_us_location
+from filters import (
+    classify,
+    classify_title_confidence,
+    diagnose_weak_signal,
+    is_location_ambiguous,
+    is_obvious_reject,
+    is_us_location,
+    obvious_reject_reason,
+)
 
 
 # =============================================================================
@@ -52,11 +60,13 @@ TITLE_CASES: list[tuple[str, bool, bool]] = [
     ("Compiler Engineer, Early Career", True, True),
     ("Silicon Validation Intern", True, True),
     ("VLSI Physical Design Intern (2026)", True, True),
-    # ---- Positive: pass, but non-technical (no DOMAIN match) ----
-    ("Marketing Intern", True, False),
-    ("Recruiting Coordinator, Early Career", True, False),
-    ("Campus Recruiting Specialist", True, False),
-    ("Talent Intern - Fall 2026", True, False),
+    ("Software Engineer II", True, True),
+    ("Junior Backend Engineer", True, True),
+    # ---- Negative: non-tech early career ----
+    ("Marketing Intern", False, False),
+    ("Recruiting Coordinator, Early Career", False, False),
+    ("Campus Recruiting Specialist", False, False),
+    ("Talent Intern - Fall 2026", False, False),
     # ---- Negative: senior / mgmt keywords ----
     ("Senior Software Engineer", False, False),
     ("Staff Machine Learning Engineer", False, False),
@@ -68,10 +78,11 @@ TITLE_CASES: list[tuple[str, bool, bool]] = [
     ("Vice President, Platform Engineering", False, False),
     ("Lead Software Engineer", False, False),
     ("Sr. Backend Engineer", False, False),
-    # ---- Negative: no early-career signal ----
-    ("Software Engineer", False, False),
-    ("Machine Learning Engineer", False, False),
-    ("Data Scientist", False, False),
+    # ---- Bare titles without EC signals: exclude ----
+    ("Software Engineer", False, True),
+    ("Machine Learning Engineer", False, True),
+    ("Data Scientist", False, True),
+    ("Member of Technical Staff", False, True),
     # ---- Tricky: senior wins over early-career (anti is strict) ----
     ("Senior Software Engineer, New Grad Team Lead", False, False),
     # ---- Empty / weird input ----
@@ -133,6 +144,8 @@ US_CASES = [
     ("San Mateo, CA, United States", True),
     ("US, CA, Santa Clara", True),
     ("Remote - United States", True),
+    ("United States - Remote", True),
+    ("Remote, US", True),
     ("Remote Opportunity - United States; Salt Lake City, Utah", True),
     ("Costa Mesa, California, United States", True),
     ("Boston", True),
@@ -189,3 +202,106 @@ def test_is_us_location(location: str, expected: bool) -> None:
 
 def test_is_us_location_none() -> None:
     assert is_us_location(None) is False
+
+
+# =============================================================================
+# Obvious-reject pre-filter (LLM path)
+# =============================================================================
+
+@pytest.mark.parametrize("title,expected", [
+    ("Senior Software Engineer", True),
+    ("Staff Software Engineer", True),
+    ("Engineering Manager", True),
+    ("Director of Data Science", True),
+    ("Lead Software Engineer", True),
+    ("Marketing Intern", True),
+    ("Campus Recruiting Specialist", True),
+    ("Talent Acquisition Coordinator", True),
+    ("", True),
+    # Must reach LLM — never pre-filter
+    ("Member of Technical Staff", False),
+    ("Software Engineer II", False),
+    ("Software Engineer Intern", False),
+    ("Machine Learning Engineer, New Grad 2026", False),
+    ("Software Engineer", False),
+    ("Junior Software Development Engineer", False),
+])
+def test_is_obvious_reject(title: str, expected: bool) -> None:
+    assert is_obvious_reject(title) is expected
+
+
+@pytest.mark.parametrize("title,expected_reason", [
+    ("Senior Software Engineer", "senior/management"),
+    ("Marketing Intern", "non-tech"),
+    ("Software Engineer Intern", None),
+    ("Member of Technical Staff", None),
+    ("", "empty title"),
+])
+def test_obvious_reject_reason(title: str, expected_reason: str | None) -> None:
+    assert obvious_reject_reason(title) == expected_reason
+
+
+def test_classify_title_confidence_high_include() -> None:
+    conf = classify_title_confidence("Software Engineer Intern")
+    assert conf.level == "high_include"
+    assert conf.is_technical is True
+
+
+def test_classify_title_confidence_bare_title_excluded() -> None:
+    conf = classify_title_confidence("Software Engineer")
+    assert conf.level == "high_exclude"
+    assert conf.is_technical is True
+    assert conf.reason == "no description"
+
+
+def test_classify_title_confidence_hardware_intern() -> None:
+    conf = classify_title_confidence("ChipSim Intern - Spring 2027")
+    assert conf.level == "high_include"
+    assert conf.is_technical is True
+
+
+def test_classify_title_confidence_mts_excluded() -> None:
+    conf = classify_title_confidence(
+        "Member of Technical Staff (Backend Software Engineer)",
+        "Qualifications: 5+ years of software engineering experience required.",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_classify_title_confidence_description_ec_signal() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer",
+        "You may be a good fit if you have\n"
+        "This is a new grad role for 2026 university graduates.",
+    )
+    assert conf.level == "high_include"
+    assert conf.is_technical is True
+
+
+def test_classify_title_confidence_description_does_not_trigger_senior() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer Intern",
+        "What you'll do: collaborate with senior engineers on platform work.",
+    )
+    assert conf.level == "high_include"
+    assert conf.is_technical is True
+
+
+def test_full_description_domain_does_not_inflate_borderline() -> None:
+    """Marketing copy with 'software' must not create bare-technical borderline."""
+    conf = classify_title_confidence(
+        "Account Executive",
+        "We build software platforms used by millions of customers worldwide.",
+    )
+    assert conf.level == "high_exclude"
+
+
+@pytest.mark.parametrize("location,expected", [
+    ("Remote", True),
+    ("", True),
+    ("7 Locations", True),
+    ("San Francisco, CA", False),
+    ("Remote - United States", False),
+])
+def test_is_location_ambiguous(location: str, expected: bool) -> None:
+    assert is_location_ambiguous(location) is expected

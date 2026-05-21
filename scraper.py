@@ -4,7 +4,7 @@ Pipeline per run:
     1. Load companies.yaml.
     2. For each company:
          a. Dispatch to its ATS adapter (skip tier3_todo).
-         b. Filter every returned job through filters.classify().
+         b. Pre-filter obvious non-targets, then regex classify.
          c. Drop non-US locations (unless ATS_SNIPER_ALL_LOCATIONS=1).
          d. Skip if already in seen_jobs.json.
          e. Otherwise, queue for notification and mark seen.
@@ -37,8 +37,7 @@ import render_readme
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
 from company_stats import CompanyStats
 from date_parser import parse_posted_date
-from education import extract_education_levels
-from filters import classify, is_us_location
+from classifier import classify_job
 from jobs_archive import JobsArchive
 from state import State
 
@@ -123,6 +122,7 @@ def run() -> int:
     companies = load_registry()
     us_only = _us_filter_enabled()
     log.info("Location filter: %s", "US-only" if us_only else "ALL LOCATIONS")
+    log.info("Classifier: regex")
 
     skipped_tier3 = 0
     failed = 0
@@ -169,8 +169,8 @@ def run() -> int:
         for job in jobs:
             if not job.url:
                 continue
-            passes, is_tech = classify(job.title)
-            if not passes:
+            result = classify_job(job, us_only=us_only)
+            if not result.include:
                 continue
             company_total_matches += 1
 
@@ -178,8 +178,8 @@ def run() -> int:
             enriched = replace(
                 job,
                 posted_date=parse_posted_date(job.posted_at, job.ats),
-                education_levels=tuple(extract_education_levels(job.title)),
-                is_us=is_us_location(job.location),
+                education_levels=result.education_levels,
+                is_us=result.is_us,
             )
 
             if us_only and not enriched.is_us:
@@ -193,7 +193,7 @@ def run() -> int:
 
             if state.is_seen(enriched.url):
                 continue
-            new_jobs.append((enriched, is_tech))
+            new_jobs.append((enriched, result.is_technical))
             state.mark_seen(enriched.url)
             company_new += 1
 

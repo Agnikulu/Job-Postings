@@ -15,6 +15,7 @@ Notes
 from __future__ import annotations
 
 import logging
+import time
 from typing import Any
 
 import requests
@@ -24,6 +25,8 @@ from tenacity import (
     stop_after_attempt,
     wait_exponential,
 )
+
+from adapters.description_fetch import fetch_workday_description, map_descriptions_parallel
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
@@ -36,6 +39,8 @@ PAGE_SIZE = 20
 # 250 pages × 20 = 5000 postings max per company.
 # Real-world ceiling so far: Nvidia ~2000, Adobe ~1200 — both safely under.
 MAX_PAGES = 250
+DETAIL_WORKERS = 6
+DETAIL_DELAY_SEC = 0.02
 
 
 @retry(
@@ -73,6 +78,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
 
     url = BASE_URL.format(tenant=tenant, wd_pod=wd_pod, site=site)
     site_base = f"https://{tenant}.{wd_pod}.myworkdayjobs.com/en-US/{site}"
+    cxs_base = f"https://{tenant}.{wd_pod}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
 
     all_raw: list[dict[str, Any]] = []
     for page in range(MAX_PAGES):
@@ -94,18 +100,21 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             break
 
     jobs: list[Job] = []
+    descriptions: dict[str, str | None] = {}
+    paths_by_id: dict[str, str] = {}
     for raw in all_raw:
         try:
             external_path = raw.get("externalPath", "")
             url_full = f"{site_base}{external_path}" if external_path else ""
-            # Workday's "externalPath" looks like "/job/.../R-12345" — last
-            # component is a usable id; fall back to bulletFields if missing.
             job_id = external_path.rsplit("/", 1)[-1] if external_path else raw.get(
                 "title", ""
             )
+            job_id = str(job_id)
+            if external_path:
+                paths_by_id[job_id] = external_path
             jobs.append(
                 Job(
-                    id=str(job_id),
+                    id=job_id,
                     company=company["name"],
                     title=raw.get("title", "").strip(),
                     location=raw.get("locationsText", "") or "",
@@ -119,4 +128,40 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError) as e:
             log.warning("Workday: skipping malformed job for %s: %s", name, e)
             continue
+
+    if paths_by_id:
+        def _fetch(path: str) -> str | None:
+            if DETAIL_DELAY_SEC:
+                time.sleep(DETAIL_DELAY_SEC)
+            return fetch_workday_description(cxs_base, path)
+
+        descriptions = map_descriptions_parallel(
+            list(paths_by_id.values()),
+            _fetch,
+            max_workers=DETAIL_WORKERS,
+        )
+
+    if descriptions:
+        enriched: list[Job] = []
+        for job in jobs:
+            path = paths_by_id.get(job.id)
+            desc = descriptions.get(path) if path else None
+            if desc:
+                enriched.append(
+                    Job(
+                        id=job.id,
+                        company=job.company,
+                        title=job.title,
+                        location=job.location,
+                        url=job.url,
+                        posted_at=job.posted_at,
+                        department=job.department,
+                        ats=job.ats,
+                        category=job.category,
+                        description=desc,
+                    )
+                )
+            else:
+                enriched.append(job)
+        return enriched
     return jobs

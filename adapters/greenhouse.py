@@ -17,6 +17,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from text_util import normalize_description
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -33,7 +35,7 @@ BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
 def _get(slug: str) -> dict[str, Any]:
     resp = requests.get(
         BASE_URL.format(slug=slug),
-        params={"content": "false"},
+        params={"content": "true"},
         headers=DEFAULT_HEADERS,
         timeout=DEFAULT_TIMEOUT,
     )
@@ -74,6 +76,9 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     department=dept,
                     ats="greenhouse",
                     category=company.get("category", "uncategorized"),
+                    description=normalize_description(
+                        raw.get("content"), is_html=True
+                    ),
                 )
             )
         except (KeyError, TypeError) as e:

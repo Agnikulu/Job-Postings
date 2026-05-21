@@ -88,6 +88,10 @@ def test_apple_fetch_maps_fields() -> None:
        href="/en-us/details/200314033/software-engineer?team=HRDWR">
        Software Engineer
     </a>
+    <div id="search-location-search-job-title-PIPE-200314033-1"
+         class="column large-4 small-12 text-align-start job-title-location">
+      <span class="table--advanced-search__location-sub">Cupertino, CA, US</span>
+    </div>
     """
     company = {"name": "Apple", "category": "big_tech"}
     with patch("adapters.apple._get_page", side_effect=[html, ""]):
@@ -95,6 +99,7 @@ def test_apple_fetch_maps_fields() -> None:
     assert len(jobs) == 1
     assert jobs[0].title == "Software Engineer"
     assert jobs[0].id == "200314033"
+    assert jobs[0].location == "Cupertino, CA, US"
 
 
 def test_linkedin_fetch_maps_fields() -> None:

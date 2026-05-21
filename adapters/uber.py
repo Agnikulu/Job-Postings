@@ -19,6 +19,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from text_util import normalize_description
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -117,6 +119,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     url=JOB_URL.format(job_id=job_id),
                     posted_at=raw.get("updatedDate") or raw.get("creationDate"),
                     department=raw.get("department"),
+                    description=normalize_description(raw.get("description")),
                     ats="uber",
                     category=company.get("category", "uncategorized"),
                 )

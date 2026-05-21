@@ -99,6 +99,7 @@ def test_uber_fetch_maps_fields() -> None:
                     "title": "Software Engineer Intern",
                     "department": "Engineering",
                     "creationDate": "2026-03-18T06:01:00.000Z",
+                    "description": "**About the Role**\n\nBuild backend systems.",
                     "location": {"city": "San Francisco", "region": "CA", "countryName": "United States"},
                 }
             ]
@@ -109,6 +110,7 @@ def test_uber_fetch_maps_fields() -> None:
         jobs = fetch_uber(company)
     assert jobs[0].url == "https://www.uber.com/careers/list/123"
     assert "San Francisco" in jobs[0].location
+    assert jobs[0].description == "**About the Role** Build backend systems."
 
 
 def test_smartrecruiters_fetch_maps_fields() -> None:

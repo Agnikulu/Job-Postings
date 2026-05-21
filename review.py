@@ -14,7 +14,6 @@ Usage:
     python review.py --csv                        # CSV for spreadsheets
     python review.py --misses                     # also list ANTI rejections
     python review.py --diagnose                   # short-experience signals
-    python review.py --only "Anthropic,Stripe"    # narrow to companies
 """
 
 from __future__ import annotations
@@ -28,7 +27,8 @@ from collections import Counter, defaultdict
 from typing import Iterable
 
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
-from filters import ANTI, TARGET, classify, diagnose_weak_signal, is_us_location
+from classifier import classify_job
+from filters import ANTI, TARGET, classify, diagnose_weak_signal
 from scraper import load_registry
 
 
@@ -50,7 +50,10 @@ def fetch_one(company: dict) -> tuple[str, list[Job], str | None]:
         return name, [], f"unexpected: {e!r}"
 
 
-def gather(only: set[str] | None, us_only: bool) -> tuple[
+def gather(
+    only: set[str] | None,
+    us_only: bool,
+) -> tuple[
     list[tuple[Job, bool]],
     list[Job],
     list[tuple[str, int, int, int]],
@@ -72,7 +75,8 @@ def gather(only: set[str] | None, us_only: bool) -> tuple[
 
     started = time.time()
     print(f"# Refetching {len(companies)} active companies in parallel "
-          f"(us_only={us_only})...", file=sys.stderr)
+          f"(us_only={us_only})...",
+          file=sys.stderr)
 
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
         futures = [ex.submit(fetch_one, c) for c in companies]
@@ -87,18 +91,19 @@ def gather(only: set[str] | None, us_only: bool) -> tuple[
             hits = 0
             us_dropped = 0
             for j in jobs:
-                passes, is_tech = classify(j.title)
-                if passes:
-                    if us_only and not is_us_location(j.location):
+                result = classify_job(j, us_only=us_only)
+                if result.include:
+                    if us_only and not result.is_us:
                         us_dropped += 1
                         continue
-                    matches.append((j, is_tech))
+                    matches.append((j, result.is_technical))
                     hits += 1
-                elif TARGET.search(j.title or "") and not ANTI.search(j.title or ""):
-                    anti_misses.append(j)
-                # Weak-signal collection (independent of classify pass/fail)
-                if diagnose_weak_signal(j.title) and not passes:
-                    weak_hits.append(j)
+                else:
+                    passes, _is_tech = classify(j.title, j.description)
+                    if TARGET.search(j.title or "") and not ANTI.search(j.title or ""):
+                        anti_misses.append(j)
+                    if diagnose_weak_signal(j.title) and not passes:
+                        weak_hits.append(j)
             per_company.append((name, len(jobs), hits, us_dropped))
             print(f"# [{done}/{len(companies)}] {name}: "
                   f"{hits} matches / {len(jobs)} postings"
@@ -178,11 +183,6 @@ def print_anti_misses(near: Iterable[Job]) -> None:
 
 
 def print_diagnose(weak: list[Job]) -> None:
-    """Show titles that hit a weak early-career signal but weren't matched
-    by TARGET. These are diagnostic only — they're roles that MIGHT be
-    early-career under a non-standard title (Anthropic's "Member of
-    Technical Staff", Stripe's "Engineer I", residency programs).
-    """
     by_company: dict[str, list[tuple[Job, str]]] = defaultdict(list)
     for j in weak:
         sig = diagnose_weak_signal(j.title) or ""
@@ -195,7 +195,6 @@ def print_diagnose(weak: list[Job]) -> None:
     for company in sorted(by_company):
         rows = by_company[company]
         print(f"\n## {company} ({len(rows)} weak hits)")
-        # Roll up by signal
         by_signal: dict[str, list[Job]] = defaultdict(list)
         for j, sig in rows:
             by_signal[sig].append(j)
@@ -243,3 +242,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+

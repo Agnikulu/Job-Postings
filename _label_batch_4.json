@@ -1,0 +1,452 @@
+[
+  {
+    "url": "https://jobs.ashbyhq.com/physicalintelligence/8e9830f4-89ba-46e6-ab73-648c550aaf3c",
+    "company": "Physical Intelligence",
+    "title": "Robot Integration Engineer",
+    "location": "San Francisco",
+    "desc_len": 3188,
+    "description": "Who We Are Physical Intelligence is bringing general-purpose AI into the physical world. We are a group of engineers, scientists, roboticists, and company builders developing foundation models and learning algorithms to power the robots of today and the physically-actuated devices of the future. The Team The Fleet team owns the readiness, reliability, and operational health of PI’s robot fleet. They partner across hardware, runtime, and forward-deployed engineering to ensure every robot platform is integrated cleanly, performs reliably in the field, and improves over time — directly enabling the data collection and evaluation that powers PI’s foundation models. In This Role You Will - Robot Platform Fleet Integration: Be the accountable owner for a robot platform’s successful integration into the fleet, driving closure on system issues across electrical, mechanical, and software interfaces. - Acceptance Criteria & Metrics: Define acceptance tests, criteria, and passing metrics with clear documentation on test plans. - Fleet Acceptance Testing: Drive and execute fleet acceptance testing per defined criteria; assess data and results to determine whether robot units can be integrated into the fleet. - Robot Platform Sustainment: Monitor and maintain the health and performance of the platform in the fleet; create bring-up procedures and troubleshooting guides for Forward Deployed Robotics Engineers. - Reliability Improvements: Own MTBF for integrated platforms and lead design improvements to push reliability metrics upward. - Cross-Functional Collaboration: Engage with hardware and software teams to close interface gaps and drive design improvements throughout integration and sustainment. What We Hope You’ll Bring - B.S. in Robotics, Mechatronics, Systems Engineering, Electrical Engineering, or equivalent experience. - 5+ years of experience with robot systems integration across multiple hardware and software disciplines, including system verification and validation testing. - Strong understanding of mechanical, electrical, and software interactions in robotic systems, with the ability to resolve complex issues across all three. - Strong understanding of robotics hardware and electromechanical systems including actuators, PCBs, cameras, wiring harnesses, and communication hardware. - Software proficiency to build integration tooling, scripts, and automated tests that improve reliability and speed of integration. - Test execution and data analysis skills — abil",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqOhdaji2m34B3ibJdoy7Hb",
+    "company": "Luma AI",
+    "title": "Software Engineer - Reliability",
+    "location": "SF Bay Area, CA / Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDo8-N5tRXErv9eJJp_TyVo8",
+    "company": "Luma AI",
+    "title": "Software Engineer, Inference",
+    "location": "SF Bay Area, CA / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/9581c803-4261-4336-901e-4dca60227565",
+    "company": "Luma AI",
+    "title": "Applied Research Scientist / Engineer",
+    "location": "SF Bay Area, CA / London, UK / Seattle, WA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/55cb4576-d2cb-4775-a492-32bae2566a8f",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer — Foundation Model (Image / Video)",
+    "location": "SF Bay Area, CA / Remote / Remote",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpG8LYonD3KtMtbhaYTgDGr",
+    "company": "Luma AI",
+    "title": "Research Scientist - Large Language Model",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpzmndzUch3eDquU0pT_PaJ",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer — Foundation Model (Voice Agents)",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/cb7f6fe2-4ed1-4cf8-9964-ea9b4f47e85d",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer - Controllability, Personalization & Productization",
+    "location": "SF Bay Area, CA / London, UK / Seattle, WA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpygMYFaWPgbr6dsVNV4zqV",
+    "company": "Luma AI",
+    "title": "Software Engineer - Data Infra Reliability",
+    "location": "SF Bay Area, CA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/e6983d5d-2af9-4512-b27a-442648736363",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer – Training Infrastructure",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/cde30431-9eea-4e62-8ef1-357b95e8d95b",
+    "company": "Luma AI",
+    "title": "Qualitative Evaluation Engineer",
+    "location": "SF Bay Area, CA / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDolL_2qF3mA8iH2BQJXOYSA",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer — Multimodal Agent",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/583bb471-29ad-4011-837c-a1029700720c",
+    "company": "Luma AI",
+    "title": "Software Engineer, ML Platform",
+    "location": "SF Bay Area, CA / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrlFC3tMaqhvsrYMEd8tpyL",
+    "company": "Luma AI",
+    "title": "Frontend Engineer - Internal Tooling (Data Infra)",
+    "location": "London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/a2feb190-455d-45e6-b488-7ac840f30fbd",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer – Performance Optimization",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoL3Jvn-6tHPga36PeEa_yC",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer – Foundation Model: Core Research",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqTslt6IMSZ0701YH7GIhbr",
+    "company": "Luma AI",
+    "title": "Forward Deployed Engineer",
+    "location": "SF Bay Area, CA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDppJpFSr9kGVqZNk6Zgm2g5",
+    "company": "Luma AI",
+    "title": "Research Scientist / Engineer — Foundation Model (Video / Audio Generation)",
+    "location": "SF Bay Area, CA / Remote / London, UK",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi",
+    "company": "Luma AI",
+    "title": "Software Engineer - Product",
+    "location": "SF Bay Area, CA",
+    "desc_len": 0,
+    "description": "",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+    "company": "Figure AI",
+    "title": "Hardware Reliability Intern [Summer 2026]",
+    "location": "San Jose, CA",
+    "desc_len": 3293,
+    "description": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. Figure AI's Reliability team is looking for a motivated and talented Reliability Test Engineering Intern to join our team for an extended internship of 8 to 12 months. In this role, you will be a key contributor to the development and testing of our humanoid hardware systems, ensuring our products are meeting the reliability targets. This is a unique, hands-on opportunity to apply your academic knowledge to real-world challenges in a fast-paced and dynamic environment. Responsibilities: Design and build custom scalable test stations to perform functional, performance, and reliability testing on key robotic sub-assemblies. Develop mechanical and electrical systems incorporating diverse hardware components including, DAQ, communication modules, actuators, and sensors. Facilitate the electromechanical integration of sensors, motors, and controllers, ensuring proper functionality and communication within the system. Generate detailed electrical schematic drawings and wiring diagram documentation. Collaborate with cross-functional engineering teams on hands-on testing, data analysis, and iterative design improvements. Contribute to the root cause analysis and resolution of complex hardware-software integration issues across mechanical, electrical, and control domains. Conduct test-station bring-up and qualification to ensure system robustness, and drive setup improvements to meet testing and data-capture requirements. Requirements: Portfolio or website showcasing relevant projects and your role Pursuing a degree in Mechanical, Robotics, Mechatronics, Electrical or a related engineering field, with at least two years completed by the start of the internship Demonstrated hands-on experience designing, building, and testing mechanical or electromechanical prototypes. Familiarity version control (Git) and programming (e.g., Python, C++, C, MATLAB) Strong hands-on hardware aptitude and a proven ability to take hardware projects from concept to reality. Excellent analytical and problem-solving skills with a keen attention to detail. Strong written and verbal communication skills for effective collaboration with cross-functional teams. A genuine passion for robotics and ",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4664176006",
+    "company": "Figure AI",
+    "title": "Production Associate (Swing Shift - All Levels)",
+    "location": "San Jose, CA",
+    "desc_len": 2132,
+    "description": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for a Production Associate to build our robots. Shift: 12:00am - 12:30am, Monday - Friday Responsibilities : Assemble mechanical, electrical, and software-integrated components of humanoid robots with quality and efficiency Follow detailed work instructions, schematics, and assembly procedures to ensure consistent build quality Perform inspections, testing, and troubleshooting of robotic systems to identify and resolve defects Work with engineers and technicians to improve assembly processes and optimize efficiency Maintain a clean and organized workspace, adhering to safety and quality standards Contribute to process documentation and continuous improvement initiatives Requirements: Respectful work attitude with a championship mindset Excellent time management skills and a commitment to punctuality Hands-on experience in assembly, manufacturing, or production—preferably in robotics, automotive, aerospace, or electronics industries Strong attention to detail and pride in high-quality workmanship Comfortable working in a fast-paced, dynamic environment with shifting priorities Physical ability to lift up to 50 lbs, stand for long periods, and use hand tools effectively Familiarity with basic metrics of manufacturing such as Safety, Quality and Rate Bonus Qualifications: Experience with high tech manufacturing tools and automation Experience with robotic systems, automation, or electromechanical assembly The US hourly range for this full-time position is between $25 - $35/hr. The pay offered for this position may vary based on several individual factors, including job-related knowledge, skills, and experience. The total compensation package may also include additional components/benefits depending on the specific role. This information will be shared if an employment offer is extended.",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007",
+    "company": "Xaira Therapeutics",
+    "title": "AI in Residence",
+    "location": "South San Francisco, California, United States",
+    "desc_len": 5513,
+    "description": "About Xaira Therapeutics Xaira is an innovative biotech startup focused on leveraging AI to transform drug discovery and development. The company is leading the development of generative AI models to design protein and antibody therapeutics, enabling the creation of medicines against historically hard-to-drug molecular targets. It is also developing foundation models for biology and disease to enable better target elucidation and patient stratification. Collectively, these technologies aim to continually enable the identification of novel therapies and to improve success in drug development. Xaira is headquartered in the San Francisco Bay Area, Seattle, and London. AI in Residence AI in Residence is a highly selective role at the intersection of frontier machine learning and drug discovery. Designed as an industry alternative to a traditional postdoctoral position, the program is for exceptional researchers and engineers who want to apply advanced AI to real biomedical problems end to end, from data to deployed systems. Residents join a small cohort working on high-impact AI efforts across Xaira. You’ll collaborate closely with AI scientists, research engineers, and drug discovery teams to design, build, and ship machine learning capabilities that directly influence therapeutic programs. This is hands-on, system-level work with real scientific consequence. We’re looking for candidates with technical depth, intellectual independence, strong research judgment, and evidence of delivering high-quality work—whether through publications, open-source, or production systems. What You’ll Do Develop and advance ML models for biological, preclinical, and translational datasets (e.g., multimodal omics, imaging, text, assay data) Design and implement scalable pipelines for data curation, training, evaluation, and inference integrated into discovery workflows Own projects end-to-end: problem framing → prototyping → validation → deployment Evaluate robustness and reliability (generalization, uncertainty, failure modes), plus interpretability where it supports scientific decision-making Contribute technical leadership by proposing new directions, shaping platform capabilities, and raising engineering/research standards through collaboration You Might Work On Examples include (not limited to): Foundation / representation models over multimodal biological and translational data Methods for small, biased, noisy datasets; distribution shift; and uncertainty estimation ML syst",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007",
+    "company": "Xaira Therapeutics",
+    "title": "AI Research Engineer",
+    "location": "Seattle, Washington, United States; South San Francisco, California, United States",
+    "desc_len": 3610,
+    "description": "About Xaira Therapeutics Xaira is an innovative biotech startup focused on leveraging AI to transform drug discovery and development. The company is leading the development of generative AI models to design protein and antibody therapeutics, enabling the creation of medicines against historically hard-to-drug molecular targets. It is also developing foundation models for biology and disease to enable better target elucidation and patient stratification. Collectively, these technologies aim to continually enable the identification of novel therapies and to improve success in drug development. Xaira is headquartered in the San Francisco Bay Area, Seattle, and London. About the Role We are seeking an experienced research engineer to join our team. As a critical member of our interdisciplinary group, you will collaborate closely with AI scientists, engineers, and drug discovery experts to develop and deploy AI models that accelerate the identification and development of novel therapeutics. This role offers the opportunity to apply cutting-edge AI techniques in production settings to address pressing challenges in healthcare and contribute to improving human health globally. We are particularly interested in candidates who have demonstrated experience building and delivering machine learning systems in industry environments, where rigor, scalability, and cross-functional collaboration are essential. The ideal candidate has experience translating research ideas into robust, production-ready solutions that drive measurable impact. The role is open to the following locations: San Francisco Bay Area, Seattle Qualifications Bachelor's degree in Computer Science, Engineering, or related fields; advanced degree preferred Minimum of five years of industry experience in AI, machine learning, or related roles, with a track record of implementing, scaling, and deploying AI models in production environments. Expertise with modern deep learning toolchains and experience with large scale model training. Strong understanding of deep learning fundamentals. Excellent problem-solving skills, with a keen eye for detail and a passion for tackling complex challenges in the life sciences. Effective communication and collaboration abilities, with the capacity to work effectively in a fast-paced, multidisciplinary team environment. Publication track record at conferences such as NeurIPS, ICML, or ICLR is a plus, though demonstrated industry impact is prioritized If you are a motivated",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5043264007",
+    "company": "Xaira Therapeutics",
+    "title": "AI Scientist",
+    "location": "London, England, United Kingdom; Seattle, Washington, United States; South San Francisco, California, United States",
+    "desc_len": 3792,
+    "description": "About Xaira Therapeutics Xaira is an innovative biotech startup focused on leveraging AI to transform drug discovery and development. The company is leading the development of generative AI models to design protein and antibody therapeutics, enabling the creation of medicines against historically hard-to-drug molecular targets. It is also developing foundation models for biology and disease to enable better target elucidation and patient stratification. Collectively, these technologies aim to continually enable the identification of novel therapies and to improve success in drug development. Xaira is headquartered in the San Francisco Bay Area, Seattle, and London. Position Overview Xaira is seeking enthusiastic and motivated candidates to join our team! As an AI Scientist, you will have prior experience in developing and implementing new deep learning methods while upholding a track record of AI Innovation demonstrated through publications in Artificial Intelligence/Machine Learning or projects applying them to interdisciplinary fields. You will be a crucial member of our core AI team, comprising highly creative and talented peers who are all experts in developing state of the art AI models. With your team, you will initiate and drive new projects that advance the SOTA AI models for biology impacting drug discovery and clinical development. You will also have the chance to work closely with interdisciplinary experts with world-class biology, drug discovery, and clinical expertiseWe welcome candidates with diverse backgrounds and experiences. We welcome candidates across the spectrum of experience. Teams thrive when they are diverse (across all axes), and we encourage all eligible applicants to apply. The role is open to the following locations: San Francisco Bay Area, Seattle and London. Key Responsibilities Completed (or within one year of completing) a PhD in an AI or AI-adjacent field. Excited to work, learn and teach within a collaborative team working on challenging problems. Desirable Below is a list of qualities/experiences that align with the kinds of things that we are looking for. Please do not read this as an extension of the “requirements” section! We recognise that experiences, opportunities and life-paths vary. Publications in journals or ML conferences. Public codebases or contribution to public GitHub repositories. Industry experience in an AI company, such as an internship or full-time position. Knowledge or experience in BioAI. Experienc",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/biohub/jobs/7286324",
+    "company": "EvolutionaryScale",
+    "title": "Group Leader, Immune Cell Reprogramming",
+    "location": "New York, NY (Hybrid)",
+    "desc_len": 6037,
+    "description": "Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere. The Team Our immune cell reprogramming team integrates foundational research on immunology and disease biology with AI-modeling to develop engineered cells that harness our own immune system to detect and treat early signs of age-related diseases, like cancer, Alzheimer’s, and Parkinson’s. These technologies will enable precise, context-dependent therapeutic responses only when and where it is needed. You can learn more about our work here . The Opportunity Biohub NY seeks to recruit an outstanding scientist to serve as Group Leader (equivalent to a Principal Investigator in academia), leading our Immune Cell Reprogramming research program. The Group Leader will build, lead, and oversee a small research team focused on elucidating immune cell mechanisms in disease at the cellular and molecular levels, with the ultimate goal of developing novel immunotherapies. The program should include a strong research emphasis on T cell exhaustion, including strategies to understand, prevent, and/or reverse this process. The successful candidate will join a vibrant, deeply interdisciplinary community of scientists working at the intersection of immunology, cell engineering, and translational medicine—representing one of the largest and most collaborative ecosystems of its kind. Ideal candidates will demonstrate a strong track record of scientific achievement, along with a commitment to collaboration in a highly interdisciplinary environment. Applicants are required to provide a cover letter and a 3-page research statement. What You'll Do Identify, recruit, manage and mentor cell reprogramming lab members working under his/her supervision. Lead and actively participate in an innovative, vigorous, and collaborative research program aligned with the mission of Biohub NY with the goal of elucidating the molecular and cellular mechanisms underlying cellular changes in chronic infection, cancer, or aging. Play a collaborative role in our collective efforts to bioengineer immune cells for the detection and preven",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/biohub/jobs/7535647",
+    "company": "EvolutionaryScale",
+    "title": "Group Leader, Immunology",
+    "location": "New York, NY (Hybrid)",
+    "desc_len": 7876,
+    "description": "Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere. The Team Our immune cell reprogramming team integrates foundational research on immunology and disease biology with AI-modeling to develop engineered cells that harness our own immune system to detect and treat early signs of age-related diseases, like cancer, Alzheimer’s, and Parkinson’s. These technologies will enable precise, context-dependent therapeutic responses only when and where it is needed. You can learn more about our work here . Our work brings together three powerhouse universities - Columbia University, The Rockefeller University, and Yale University - into a single collaborative technology and discovery engine. Our Vision Pursue large scientific challenges that cannot be pursued in conventional environments Enable individual investigators to pursue their riskiest and most innovative ideas Facilitate research by scientists and clinicians at our home institutions and beyond We are a team of passionate individuals powered by technology, guided by scientific research, and driven by collaboration, working toward a mission to cure or prevent all disease. The Opportunity The Biohub invites exceptional scientists to apply for a Group Leader (Principal Investigator-equivalent) position. We seek researchers who pursue fundamental questions in immunology, including—though not limited to—experts in systems immunology, immune engineering, and functional or molecular immunology, with a particular emphasis on cellular subtypes associated with immune regulation in cancer and/or neuroinflammation. Ideal candidates will aim to uncover the core principles and dynamic behaviors that govern immune system function in both health and disease. We especially welcome applicants who integrate quantitative, high-throughput, and systems approaches to address broad immunological questions and principles, rather than those focused primarily on tool or method development. The overarching mission is to reveal the fundamental principles governing the function and development of the human immune system, includi",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/biohub/jobs/7835072",
+    "company": "EvolutionaryScale",
+    "title": "Research Associate, NGS Assay Development, Virtual Immune System",
+    "location": "Chicago, IL (Onsite)",
+    "desc_len": 6243,
+    "description": "Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere. The Team Our decoding inflammation team builds tools to enable precise molecular-level measurements of inflammation within human tissues in real time, and develop proactive, early interventions that can be deployed when inflammation — which underlies the most significant causes of death worldwide — first flares in the body. You can learn more about our work here . Our team collaborates with three powerhouse universities - Northwestern University, the University of Chicago, and the University of Illinois Urbana-Champaign - to develop first-in-class technologies and make breakthroughs. Our Vision Pursue large scientific challenges that cannot be pursued in conventional environments Enable individual investigators to pursue their riskiest and most innovative ideas Facilitate research by scientists and clinicians at our home institutions and beyond We are a team of passionate individuals powered by technology, guided by scientific research, and driven by collaboration, working toward a mission to cure or prevent all disease. The Opportunity Biohub is seeking a Research Associate to join the Cell Decoder team within the Virtual Immune System initiative. This is a hands-on bench role centered on molecular biology, cell engineering, and genomics workflows, including bacterial and mammalian cell culture, plasmid cloning, lentiviral production, library preparation, and flow cytometry. You'll execute and optimize experiments that feed directly into a screening platform designed to map immune antigens in inflammation. This position is ideal for someone who thrives on bench work, takes pride in reliable execution, and actively looks for ways to make things run better. That could mean optimizing a viral production protocol, reorganizing a reagent inventory system, or finding a more efficient way to coordinate a multi-day, multi-step experiment. You won't just follow protocols; you'll help build and refine them. You'll join a small, experienced team with direct mentorship and exposure to how AI/ML and comp",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/biohub/jobs/7776738",
+    "company": "EvolutionaryScale",
+    "title": "Research Associate, Synthetic Biology",
+    "location": "New York, NY (Onsite)",
+    "desc_len": 5257,
+    "description": "Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere. The Team The Biohub in New York is an independent nonprofit research institute that brings together three powerhouse universities - Columbia University, The Rockefeller University, and Yale University - into a single collaborative technology and discovery engine. Biohub itself supports some of the brightest, boldest engineers, data scientists, and biomedical researchers to investigate the fundamental mechanisms underlying disease and develop new technologies that will lead to actionable diagnostics and effective therapies. We are guided by our values of scholarly excellence; disruptive innovation; hands-on engineering/hacking/building; partnership and collaboration; open communication and respect; inclusiveness; and opportunity for all. Our Vision We pursue large scientific challenges that cannot be pursued in conventional environments We enable individual investigators to pursue their riskiest and most innovative ideas The technologies developed at Biohub facilitate research by scientists and clinicians at our home institutions and beyond Diversity of thought, ideas, and perspectives are at the heart of Biohub and enable disruptive innovation and scholarly excellence. We are committed to cultivating an organization where all colleagues feel inspired and know their work makes an important contribution. The Opportunity The Biohub is seeking a skilled and motivated Research Associate to support innovative investigations into spatial architecture of molecular systems and its role in controlling cell state dynamics. In our newly established Synthetic Spatial Omics Laboratory , we advance next-generation spatial multi-omics platforms for understanding how cells process combinatorial signals, designing synthetic biology toolkits, and capturing cellular temporal histories with spatial resolution. The successful candidate will contribute to projects integrating spatial multi-omics and synthetic biology to investigate molecular neighborhood reorganization in response to perturbations, engineer program",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/pathos/fbec38e7-d55b-4bb3-8c74-644d75626c82",
+    "company": "Pathos AI",
+    "title": "AI Research Engineer",
+    "location": "San Francisco Bay Area",
+    "desc_len": 3905,
+    "description": "Note - Below contains the outcomes and competencies for the team. If you bring standout strengths in some areas but not all, you are still encouraged to apply. MISSION Design, train, ship, iterate on, and innovate on the AI brains behind The Path’s AI Therapist. Combine research, data science, and engineering to create models, orchestration, and evaluation systems that make therapy conversations deeply effective, clinically grounded, and safe. OUTCOMES 1. Improve quality of AI Therapy: Deliver measurable improvements in conversation quality, therapeutic alliance, and user outcomes through fine-tuning strategies, training data curation, building RL environments, new model architectures and other AI innovations. 2. Improve evaluation of AI quality: Improve on and maintain a robust eval stack that includes scripted tests, LLM-as-judge evaluations, human ratings, and safety checks. Improve automated regression testing, detection of defects, and observability (eg dashboards). 3. Own AI system. Build, maintain, and iterate on the production codebase that delivers AI therapy and supports the evaluation and iteration of our AI. 4. Productionize Models and Pipelines. Own The Path from notebook to production: training jobs, model packaging, deployment, monitoring, and rollback strategies. Keep latency, reliability, and cost within agreed budgets while enabling rapid iteration on new ideas. 5. Improve Safety, Alignment, and Clinical Guardrails Work with clinicians and internal experts to encode clinical guidelines into prompts, reward functions, tools, and filters. Proactively identify and reduce harmful or low-quality behaviors through targeted experiments, red teaming, and mitigations. 6. Own Research Roadmap and Experiment Velocity Run high-quality experiments from hypothesis to analysis to improve our understanding of what matters and what works. Shape and execute a focused R&D roadmap. 7. Collaboration with Clinicians, Product, and Engineering. Translate product and clinical requirements into concrete model and system changes. Partner with full-stack product engineers so that new AI capabilities are easy to integrate and maintain in the product. COMPETENCIES 1. LLM and Applied ML Depth. Demonstrates strong experience with large language models, including fine-tuning, training data design, and model selection. Knows how to move core metrics on conversation quality and user outcomes, rather than chasing generic benchmarks. Can look at evals, transcripts, and metri",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002",
+    "company": "Databricks",
+    "title": "Customer Enablement Specialist",
+    "location": "Bellevue, Washington",
+    "desc_len": 6152,
+    "description": "CSQ227R5 About the Role *This role is required to work in a hybrid office setting in our Bellevue, WA office. The Opportunity Databricks runs some of the largest customer enablement programs in the industry — workshops, digital courses, labs, and webinars that reach thousands of users. The Customer Enablement Specialist turns that reach into results. You connect engaged learners to structured training plans that drive product adoption, customer success, and measurable business impact. This isn’t a sales or business development role — every conversation begins with an existing Databricks user or program participant. Your focus is on helping those customers move from initial interest to tangible capability: skilled teams, completed training milestones, and activated use cases. You’ll manage a broad portfolio of accounts, supporting new and emerging personas — business users, analysts, and app developers — and helping them succeed with Databricks’ latest innovations in AI/BI, Databricks Apps, and agent-based development. What You'll Do Convert participation in Databricks’ scale programs (webinars, workshops, digital learning) into structured training engagements. Own a high-volume enablement pipeline — identifying learner needs, recommending tailored paths, and tracking adoption progress. Deliver engaging L100–L200 sessions and demos to help new personas understand what’s possible with Databricks. Build enablement plans for each account, tracking trained users, completion rates, and milestone achievement. Partner with Customer Success Managers (CSMs), Account Executives (AEs), and senior CEAs to align training with customer goals and renewal cycles. Report key metrics — trained accounts, learner growth, conversion rates, and training revenue — using data to guide your priorities. Provide structured feedback to program and curriculum teams to sharpen future customer learning experiences. What You Bring 2–4 years in a technical, customer-facing role — technical training, pre-sales, enablement, or customer success preferred. Hands-on familiarity with modern data and analytics platforms (Databricks, cloud SQL, BI tools, or data lakes). Confidence delivering introductory technical content to non-expert audiences. Working knowledge of AI/ML concepts — able to explain how Databricks enables practical use cases. Strong communication skills and a consultative approach: discover needs, recommend paths, and gain commitment. A data-driven mindset with strong organization",
+    "regex_reason": "implicit ec technical"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002",
+    "company": "Databricks",
+    "title": "Counsel, Commercial",
+    "location": "Bellevue, Washington; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.",
+    "desc_len": 7577,
+    "description": "GAQ227R209 Location: We're looking to hire for this role at one of our office locations: New York, Washington, D.C., the SF Bay Area, Denver, or Seattle/Bellevue. This will be a hybrid role with in-office expectations. About the Role Databricks is looking for an experienced commercial attorney to join our growing commercial legal team with a dedicated focus on supporting our Canada field team and providing ad hoc support to bespoke commercialization/integration projects (as needed). You will be a key player in reviewing and negotiating Canadian customer agreements and providing legal support for Databricks' revenue-generating and commercialization activities. You will report to the Sr. Director & AGC, Commercial Legal. You have 4+ years of relevant commercial legal transactional experience with a focus on complex technology transactions within the Canadian market. You possess meaningful experience negotiating SaaS commercial transactions and strong knowledge of legal issues related to Canadian data privacy (PIPEDA), information security, artificial intelligence, and intellectual property. The Impact You Will Have Revenue Enabler: Become a vital member of the commercial legal team responsible for negotiating enterprise-level cloud service agreements. You will ensure that risk oversight is effectively integrated and balanced with Databricks’ ambitious business objectives, enabling continued rapid revenue growth. Strategic Partner: Cultivate strong relationships with the field sales team by providing sound, strategic counsel to close complex sales transactions. Policy Architect: Help maintain and update our legal templates to ensure compliance with evolving provincial and federal laws while supporting global consistency. Subject Matter Expert: Serve as a pragmatic business partner, providing legal counsel on Databricks’ technology, product portfolio, and security/compliance architecture, especially as they relate to local compliance standards. Cross-Functional Collaborator: Partner and work closely with Finance, Information Security, and Product teams to align and enforce global contracting processes within the context of local business norms. What We Look For Experience: Minimum of four (4) years of technology transactions experience, either at a top-tier law firm and/or in an in-house role at a high-growth SaaS company. Canadian Market Expertise: Demonstrated experience drafting and negotiating cloud software sell-side transactions in Canada, including a de",
+    "regex_reason": "implicit ec technical"
+  },
+  {
+    "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7855278",
+    "company": "Flatiron Health",
+    "title": "Communications & Events Associate",
+    "location": "London office",
+    "desc_len": 4873,
+    "description": "We're looking for a Communications & Events Associate to help us accomplish our mission to improve lives by learning from the experience of every cancer patient. Here's what you need to know about the role, our team and why Flatiron Health is the right next step in your career. Flatiron Health is a healthtech company using data for good to power smarter care for every person with cancer, around the world. Flatiron partners with cancer centers in the US, Europe and Asia to transform patients’ real-life experiences into real-world evidence and create a more modern, connected oncology ecosystem. Our multidisciplinary teams include oncologists, data scientists, software engineers, epidemiologists, product experts and more. Flatiron Health is an independent affiliate of the Roche Group. What You'll Do As an Communications & Events Associate, you'll play a pivotal role in executing external communication tactics and capabilities for Flatiron's International teams across Germany and the UK. Collaborating closely with our local Partnerships teams, as well as our Communications and Marketing team in the US, you'll drive initiatives that position Flatiron's unique Real-World Evidence (RWE) experience in oncology on an international scale. This role requires strategic storytelling, social/digital experience, brand building, field marketing capabilities, working with local, external partners and vendors, and staying abreast of dynamic conversations within the realms of cancer research, healthcare, and technology. Develop and support execution of communication roadmaps and tactical plans aligned with business objectives, audience targeting, and industry trends across Germany and the UK including digital/social media campaigns, strong content development and copywriting across company owned channels (e.g., LinkedIn, Twitter, Blogs, light website copy). Draft content and editorial calendars that include content roadmaps to support key conferences, milestones, partnerships and events - pull through corporate voice, tone and key messages to ensure unified global story; Collaborate with brand team to update website layouts (content and direction for graphics) Coordinate Flatiron's participation in conferences and events, managing logistics and registrations, speaking engagements, and booth execution Support communications activities that amplify our patient advocacy program, Flatiron Voices. Be able to draft and develop content that shifts from commercial / corporate narrat",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7873832",
+    "company": "Flatiron Health",
+    "title": "Communications & Events Associate (m/f/d)",
+    "location": "Berlin office",
+    "desc_len": 4874,
+    "description": "We're looking for a Communications & Events Associate to help us accomplish our mission to improve lives by learning from the experience of every cancer patient. Here's what you need to know about the role, our team and why Flatiron Health is the right next step in your career. Flatiron Health is a healthtech company using data for good to power smarter care for every person with cancer, around the world. Flatiron partners with cancer centers in the US, Europe and Asia to transform patients’ real-life experiences into real-world evidence and create a more modern, connected oncology ecosystem. Our multidisciplinary teams include oncologists, data scientists, software engineers, epidemiologists, product experts and more. Flatiron Health is an independent affiliate of the Roche Group. What You'll Do As an Communications & Events Associate, you'll play a pivotal role in executing external communication tactics and capabilities for Flatiron's International teams across Germany and the UK. Collaborating closely with our local Partnerships teams, as well as our Communications and Marketing team in the US, you'll drive initiatives that position Flatiron's unique Real-World Evidence (RWE) experience in oncology on an international scale. This role requires strategic storytelling, social/digital experience, brand building, field marketing capabilities, working with local, external partners and vendors, and staying abreast of dynamic conversations within the realms of cancer research, healthcare, and technology. Develop and support execution of communication roadmaps and tactical plans aligned with business objectives, audience targeting, and industry trends across Germany and, the UK including digital/social media campaigns, strong content development and copywriting across company owned channels (e.g., LinkedIn, Twitter, Blogs, light website copy). Draft content and editorial calendars that include content roadmaps to support key conferences, milestones, partnerships and events - pull through corporate voice, tone and key messages to ensure unified global story; Collaborate with brand team to update website layouts (content and direction for graphics) Coordinate Flatiron's participation in conferences and events, managing logistics and registrations, speaking engagements, and booth execution Support communications activities that amplify our patient advocacy program, Flatiron Voices. Be able to draft and develop content that shifts from commercial / corporate narra",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/headway/4e826c00-570b-4349-956c-c9ac35c2a637",
+    "company": "Headway",
+    "title": "Growth Associate, Care Partnerships",
+    "location": "New York",
+    "desc_len": 6325,
+    "description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 75,000 providers across all 50 states run their practice on our software, serving over 1 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. About The Role Headway's Care Partnerships team is on a mission to become the behavioral health partner of choice for every health system in the US. We make it easy for care management, social work, and clinical teams to refer their patients into high-quality outpatient behavioral health care — and we're growing fast. We recently proved that cold outbound is a powerful, scalable channel for generating new health system partnerships. Now we're building a dedicated Growth Associate team to fuel that growth. As a Growth Associate, Care Partnerships, you'll be the tip of the spear — running high-volume outbound outreach to connect with care management leaders at health systems across the country and booking the meetings that drive our pipeline. This is a ground-floor opportunity to help build a function that didn't exist six months ago and is already producing results. You will: - Drive top-of-funnel pipeline for the Care Partnerships BD team through high-volume cold outbound across phone, email, and LinkedIn - Book qualified intro meetings with care management leaders at health systems across the country - Qualify prospects against our ideal customer profile and ensure clean handoffs to the BD team with full context - Build and maintain target contact lists across your assigned territories - Collaborate with your manager and BD teammates to refine messaging, t",
+    "regex_reason": "associate title"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/headway/d6cc4427-0e75-41a7-897b-31bf76947005",
+    "company": "Headway",
+    "title": "General Engineering Roles",
+    "location": "New York City",
+    "desc_len": 3745,
+    "description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 75,000 providers across all 50 states run their practice on our software, serving over 1 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. Headway’s mission is a big one – to build a new mental health care system everyone can access. We’ve built technology that helps people find great therapists with the first software-enabled national network of providers accepting insurance. 1 in 4 people in the US have a treatable mental health condition, but the majority of providers don’t accept insurance, making therapy too expensive for most people. Headway is building a new mental healthcare system that everyone can access by making it easy for therapists to accept insurance and scale their practice. Headway was founded in 2019. Since then, we’ve grown into a diverse, national network of over 60,000 mental healthcare providers across all 50 states who run their practice on our software and have served over 1 million patients. We’re a Series D company with over $325m in funding from a16z (Andreessen Horowitz), Accel, GV (formerly Google Ventures), Spark Capital, Thrive Capital, Forerunner Ventures and Health Care Service Corporation. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. We believe a team's strength is in its people, and we cannot achieve this mission without a team that reflects the diversity of this problem – across race, ethnicity, gender, sexuality, age, national origin, religion, family status, disabili",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b",
+    "company": "Benchling",
+    "title": "Software Engineer, Developer Platform",
+    "location": "San Francisco, CA",
+    "desc_len": 5479,
+    "description": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done. Benchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma. We’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today. ROLE OVERVIEW At Benchling, our mission is to empower scientists to accelerate discoveries that change the world. As a Software Engineer on the Developer Platform team, you’ll help build the platform that powers our growing ecosystem of scientific applications. You’ll work on systems that shape how developers, partners, and scientists interact with Benchling, enabling extensibility, integration, and innovation across the platform. This team works on a wide range of early- and mid-stage initiatives, including developer APIs, event delivery, AI-powered agents, and platform services that support a growing ecosystem. Because of the breadth of the work, engineers have the opportunity to contribute across many parts of our developer-facing platform and to take on projects that align with both business needs and their own interests and strengths. You’ll collaborate closely with product managers, designers, and engineers across the company to solve challenging problems and build a more scalable, extensible foundation for scientific R&D. Your work will help drive innovation, customization, and seamless integration of third-party solutions that empower scientists to work more efficiently and make groundbreaking di",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/benchling/d897a65f-eddf-4b45-ade1-029b0c029b95",
+    "company": "Benchling",
+    "title": "SMB Account Executive",
+    "location": "San Francisco, CA",
+    "desc_len": 5180,
+    "description": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done. Benchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma. We’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today. ROLE OVERVIEW As an SMB Account Executive, you'll be responsible for driving new business within your territory — engaging small biotech and life sciences companies at the speed their science demands. You'll own the full sales cycle, from identifying and prospecting new accounts to closing deals. This is an ideal role for an early-career seller who's hungry to develop their craft, build pipeline from the ground up, and grow into a world-class enterprise seller. RESPONSIBILITIES - Pipeline Generation: Own your pipeline from day one. Proactively identify and engage new business opportunities across your territory, connecting with multiple personas — from bench scientists to business stakeholders — using outbound outreach, events, and creative prospecting strategies. - Sales Forecasting: Develop and maintain accurate sales forecasts (+/- 10% of goal), using data to inform your decision-making and drive consistent, predictable outcomes. - Solution Selling: Learn and apply Benchling's value framework to tailor presentations and proposals to each prospect's unique scientific and business needs. - Full-Cycle Selling: Run discovery, build a compelling business case, engage multiple stakeholders, navigate the buy",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8",
+    "company": "Benchling",
+    "title": "Software Engineer, Developer Enablement",
+    "location": "San Francisco, CA",
+    "desc_len": 5667,
+    "description": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done. Benchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma. We’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your role. Feel free to reference any tools, platforms, or workflows you use today. ROLE OVERVIEW At Benchling, our mission is to empower scientists to accelerate discoveries that change the world. As a Software Engineer on the Developer Enablement team, you’ll play a pivotal role in building the platform that enables our ecosystem of scientific applications. You won’t just write code, you’ll help shape how developers, partners, and scientists interact with Benchling’s products, allowing them to create tools that directly support groundbreaking research. Your work will impact the way science gets done, driving innovation and enabling seamless integration of third-party solutions across the platform. The team is working on a wide range of early- and mid-stage initiatives—including developer APIs, event delivery, AI-powered agents, and new platform infrastructure designed to support a growing ecosystem of scientific applications. Because of the diversity of our work, engineers have the flexibility to take on projects that align with both business needs and their own interests and skills. This role was envisioned as a “Developer Platform Engineer,” reflecting the breadth of opportunities to contribute across our developer-facing systems. This is a hands-on, high-impact role where your cont",
+    "regex_reason": "explicit ec technical (requirements)"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/15c16227-cef1-4bc3-9f2d-341ed4586404",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Data Agent (Bay Area, Remote)",
+    "location": "Bay Area",
+    "desc_len": 1758,
+    "description": "What You’ll Do - Develop LM/VLM-powered agents that autonomously interface with code, GUI, web tools, and design software to drive generative simulation - Build agentic systems that synthesize high-quality, diverse physical data by orchestrating simulation, generative models, and interactive tools - Build data pipelines to curate, generate, and preprocess datasets used for training and evaluating language- and vision-language-based agents - Collaborate with simulation and infrastructure teams to co-develop APIs, GUIs, and services that enable seamless interaction with physics engines and simulation environments - Drive innovation by staying at the forefront of LLM agents, autonomous tool use, and generative simulation — and translating cutting-edge research into robust, production-ready systems - Contribute to the creation of a generative simulation stack that empowers downstream applications in robotics, embodied AI, and physical reasoning What You’ll Bring - A bold and imaginative vision for a next-generation paradigm of physical data synthesis— combining simulation, generative models, and autonomous agents - Deep curiosity and strong technical ownership, with a track record of driving complex, open-ended projects from concept to implementation - Experience with (multimodal) large language models, generative AI tools, agentic software design, GUI automation, program synthesis - Passion for inventing creative solutions at the edge of AI, simulation, and physical reasoning, with an eagerness to build systems that generate high-fidelity, useful data for embodied intelligence - Bonus: Familiarity with interactive design tools (e.g., CAD software, game engines) or simulation environments (e.g., physics engines, robotics simulators)",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/70159e6d-5082-40cc-af58-f2cfe5563b58",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Simulation (Bay Area, Remote)",
+    "location": "Bay Area",
+    "desc_len": 1013,
+    "description": "What You’ll Do - Develop a high-throughput, GPU-based simulation pipeline (primarily rigid body simulation for robots) to train robotics foundation models - Implement essential robotics features, including actuators, sensors, and controllers, in collaboration with the robotics team - Work with the policy training team to bridge the sim-to-real gap - Develop a real-to-sim pipeline in collaboration with the asset generation team - Collaborate with a team of driven individuals committed to building general-purpose Physical AI What You’ll Bring - Passion for your craft and demonstrated excellence in physics simulation engineering - Exceptional ownership and initiative—finding and solving problems independently - Extensive experience in physics simulation, with a preference for expertise in rigid body simulation, FEM, CFD - Insights and requests from a robotic researcher/engineer’s perspective for improving user experience - Proficiency in CUDA and GPU programming - Bonus: Experience in robotics control",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/8604aae5-a89e-4e6f-8f5e-dce2008cc6bc",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, ML Compiler and Systems (Bay Area, Remote)",
+    "location": "Bay Area",
+    "desc_len": 1640,
+    "description": "What You'll Do - Lead the evolution of our high-performance robotics simulation platform - Design and implement the compute infrastructure and data flow mechanisms to optimize performance for physics simulation and foundation model training - Lead development of our compiler stack, focusing on JIT compilation, LLVM IR, and GPU codegen to minimize compile time and maximize runtime performance - Collaborate with the team to improve the compiler's support for differentiable programming, crucial for training neural networks within simulations - Stay current on state-of-the-art ML compilers—such as those in torch, Triton, and JAX—and decide which techniques and approaches are best suited for our application - Work closely with simulation and robotics engineers to align compiler enhancements with application needs - Contribute to relevant open-source projects and participate actively in the broader compiler and systems community What You’ll Bring - Strong background in compiler construction, particularly in JIT compilation and LLVM-based code generation - Extensive experience with GPU programming models (e.g., CUDA, Vulkan) and understanding of GPU architecture - Track record as a core contributor to GPU programming infrastructure—such as Torch, JAX, Mojo, Taichi, or Warp - Proven ability to profile and optimize complex systems for performance and scalability - Understanding of automatic differentiation and its application in simulation and machine learning contexts - Excellent communication skills and a collaborative approach to problem-solving - Enthusiasm for contributing to and engaging with open-source communities",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/e260b061-68b2-43d5-9f11-45261234f901",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Mechanical Engineer (Bay Area)",
+    "location": "Bay Area",
+    "desc_len": 1012,
+    "description": "What You’ll Do - Design, prototype, and build robotic hardware systems optimized for performance and reliability - Develop scalable data collection platforms with robotics engineers to accelerate model learning - Improve simulation fidelity through system identification and close collaboration with the simulation team - Maintain and evolve in-house hardware infrastructure for maximum uptime and throughput - Collaborate with a team of driven individuals committed to building general-purpose Physical AI What You’ll Bring - Strong engineering fundamentals and first-principles problem solving - Exceptional ownership and initiative—finding and solving problems independently - Broad experience across diverse hardware form factors and platforms - Systems-level mindset with a focus on robustness, scalability, and seamless integration - Track record of shipping fast without cutting corners on quality - Bonus: hands-on experience with actuators, PCB design, embedded systems, or electromechanical integration",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/0cf1a048-46d0-4693-88da-c86f978c9dd3",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Platform (Paris, London)",
+    "location": "Paris",
+    "desc_len": 1239,
+    "description": "WHAT YOU'LL DO - Design, build, and maintain foundational frameworks and tools to empower expert teams to experiment fast and turn ideas into full-fledged and production-ready systems. - Collaborate with expert teams to validate uses cases and build robust solutions, bringing cross-team perspective and aiming for modular and reusable components. - Identify and mitigate high-level code design flaws and development workflow inefficiencies that cause friction, hinder productivity, and create silos across the organization. - Advocate for good practices and maintain high code quality through code reviews, documentation, and training. WHAT YOU'LL BRING - Excellent software engineering skills (e.g., in Python, Go, or Rust). - Extensive experience designing, building, and maintaining modular and reusable systems. - Experience collaborating with engineers and researchers of any fields, understanding complex requirements, and providing clear and simple solutions. - Ability to implement large-impact changes across the organization with minimal disruption. - Experience building internal tooling to accelerate AI research and development workflows (e.g., debugging, evaluation, experiment tracking and versioning, CI automation, etc.).",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/a8e164e3-4585-4392-a485-529b85e068ff",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Data Agent (Paris, London)",
+    "location": "Paris",
+    "desc_len": 1758,
+    "description": "What You’ll Do - Develop LM/VLM-powered agents that autonomously interface with code, GUI, web tools, and design software to drive generative simulation - Build agentic systems that synthesize high-quality, diverse physical data by orchestrating simulation, generative models, and interactive tools - Build data pipelines to curate, generate, and preprocess datasets used for training and evaluating language- and vision-language-based agents - Collaborate with simulation and infrastructure teams to co-develop APIs, GUIs, and services that enable seamless interaction with physics engines and simulation environments - Drive innovation by staying at the forefront of LLM agents, autonomous tool use, and generative simulation — and translating cutting-edge research into robust, production-ready systems - Contribute to the creation of a generative simulation stack that empowers downstream applications in robotics, embodied AI, and physical reasoning What You’ll Bring - A bold and imaginative vision for a next-generation paradigm of physical data synthesis— combining simulation, generative models, and autonomous agents - Deep curiosity and strong technical ownership, with a track record of driving complex, open-ended projects from concept to implementation - Experience with (multimodal) large language models, generative AI tools, agentic software design, GUI automation, program synthesis - Passion for inventing creative solutions at the edge of AI, simulation, and physical reasoning, with an eagerness to build systems that generate high-fidelity, useful data for embodied intelligence - Bonus: Familiarity with interactive design tools (e.g., CAD software, game engines) or simulation environments (e.g., physics engines, robotics simulators)",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, ML Compiler and Systems (Paris, London)",
+    "location": "Paris",
+    "desc_len": 1640,
+    "description": "What You'll Do - Lead the evolution of our high-performance robotics simulation platform - Design and implement the compute infrastructure and data flow mechanisms to optimize performance for physics simulation and foundation model training - Lead development of our compiler stack, focusing on JIT compilation, LLVM IR, and GPU codegen to minimize compile time and maximize runtime performance - Collaborate with the team to improve the compiler's support for differentiable programming, crucial for training neural networks within simulations - Stay current on state-of-the-art ML compilers—such as those in torch, Triton, and JAX—and decide which techniques and approaches are best suited for our application - Work closely with simulation and robotics engineers to align compiler enhancements with application needs - Contribute to relevant open-source projects and participate actively in the broader compiler and systems community What You’ll Bring - Strong background in compiler construction, particularly in JIT compilation and LLVM-based code generation - Extensive experience with GPU programming models (e.g., CUDA, Vulkan) and understanding of GPU architecture - Track record as a core contributor to GPU programming infrastructure—such as Torch, JAX, Mojo, Taichi, or Warp - Proven ability to profile and optimize complex systems for performance and scalability - Understanding of automatic differentiation and its application in simulation and machine learning contexts - Excellent communication skills and a collaborative approach to problem-solving - Enthusiasm for contributing to and engaging with open-source communities",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/2c0b2b1e-710e-43be-9111-a8eb0591baa2",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Simulation (Paris, London)",
+    "location": "Paris",
+    "desc_len": 1013,
+    "description": "What You’ll Do - Develop a high-throughput, GPU-based simulation pipeline (primarily rigid body simulation for robots) to train robotics foundation models - Implement essential robotics features, including actuators, sensors, and controllers, in collaboration with the robotics team - Work with the policy training team to bridge the sim-to-real gap - Develop a real-to-sim pipeline in collaboration with the asset generation team - Collaborate with a team of driven individuals committed to building general-purpose Physical AI What You’ll Bring - Passion for your craft and demonstrated excellence in physics simulation engineering - Exceptional ownership and initiative—finding and solving problems independently - Extensive experience in physics simulation, with a preference for expertise in rigid body simulation, FEM, CFD - Insights and requests from a robotic researcher/engineer’s perspective for improving user experience - Proficiency in CUDA and GPU programming - Bonus: Experience in robotics control",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/5a9a58b4-3c11-4eb0-bc1f-58f8b34d676c",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Platform (Bay Area, Remote)",
+    "location": "Bay Area",
+    "desc_len": 1239,
+    "description": "WHAT YOU'LL DO - Design, build, and maintain foundational frameworks and tools to empower expert teams to experiment fast and turn ideas into full-fledged and production-ready systems. - Collaborate with expert teams to validate uses cases and build robust solutions, bringing cross-team perspective and aiming for modular and reusable components. - Identify and mitigate high-level code design flaws and development workflow inefficiencies that cause friction, hinder productivity, and create silos across the organization. - Advocate for good practices and maintain high code quality through code reviews, documentation, and training. WHAT YOU'LL BRING - Excellent software engineering skills (e.g., in Python, Go, or Rust). - Extensive experience designing, building, and maintaining modular and reusable systems. - Experience collaborating with engineers and researchers of any fields, understanding complex requirements, and providing clear and simple solutions. - Ability to implement large-impact changes across the organization with minimal disruption. - Experience building internal tooling to accelerate AI research and development workflows (e.g., debugging, evaluation, experiment tracking and versioning, CI automation, etc.).",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/genesis/4d491696-72d6-4b8b-8e2a-9265e9dec376",
+    "company": "Genesis Therapeutics",
+    "title": "Member of Technical Staff, Site Reliability Engineer",
+    "location": "Paris",
+    "desc_len": 1469,
+    "description": "WHAT YOU'LL DO - Take on ambiguous reliability, scalability, and efficiency challenges and drive solutions across SRE and development teams. - Build and run large-scale, massively distributed, fault-tolerant systems that keep Genesis platform reliable and performant for our customers. - Optimize existing systems, build infrastructure, and eliminate toil through automation to continuously improve uptime and rate of change. - Cultivate a culture of reliability throughout the organization, guiding technical decisions that balance system health with fast-moving product priorities. - Ensure the long-term health, maintainability, and reliability of services through capacity planning, performance analysis, and proactive incident prevention. WHAT YOU'LL BRING - Strong software engineering skills (e.g., in Python, Go, or similar) with extensive experience designing, analyzing, and troubleshooting distributed systems. - Deep expertise with cloud computing platforms (e.g., Kubernetes, Cloud Functions) and Non-Abstract Large Systems Design (NALSD). - Experience leading complex, large-scale technical projects and providing technical leadership across teams. - Ability to apply coding, algorithms, and complexity analysis to solve ambiguous problems at scale with minimal disruption. - A collaborative, intellectually curious mindset — comfortable working across a wide variety of backgrounds and bringing cross-team perspective to build robust, reusable solutions.",
+    "regex_reason": "explicit ec technical"
+  },
+  {
+    "url": "https://jobs.lever.co/enveda/c14d0b11-a2a5-4411-ae5f-52cc33c6707c",
+    "company": "Enveda Biosciences",
+    "title": "Software Engineer",
+    "location": "Hyderabad",
+    "desc_len": 1627,
+    "description": "Let’s build the future of medicine—together. Join Enveda as a Software Engineer in Hyderabad and help us transform natural compounds into life-changing medicines. We’re a team driven by curiosity and innovation—are you ready to make a difference? On-Site | Hyderabad, India | Full-Time | 🌿What Makes Us EnvedaLife is smart, and we can learn from it. We’re reinventing drug discovery by harnessing nature’s intelligence. Our platform identifies new medicines four times faster than the industry standard—because patients can’t wait. What sets Enveda apart isn’t just what we do—it’s how we do it. Our culture is built on creativity, collaboration, and deep respect for each other. We believe “People Create All Value,” and our success is driven by the extraordinary team turning our mission into reality every day. We’re proud of the momentum we’ve built: - Jan 2024: Named a LinkedIn “Top Startup to Watch” - Mar 2024: Forbes America’s Best Startup Employers - Oct 2024: First drug to Phase 1 Clinical Trials - -Dec 2024: Raised a $130M Series C These milestones reflect the impact of our team and we’re just getting started, but they’re only possible because of the diverse talent, perspectives, and relentless drive of our team, and people like you. 🌱Your Role in Our Mission At Enveda, every role drives impact. As a Software Engineer, you’ll be at the forefront of delivering hope to patients everywhere. Your expertise in software engineering and system integration will be critical in accelerating our mission to streamline drug discovery workflows—because every breakthrough starts with bold questions and brave actions.",
+    "regex_reason": "bare technical title"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826711",
+    "company": "Recursion Pharma",
+    "title": "Research Associate - Biology Automation",
+    "location": "Milton Park, England",
+    "desc_len": 7800,
+    "description": "Your work will change lives. Including your own. The Impact You’ll Make We are expanding our in-vitro pharmacology capabilities at our Milton Park site and are seeking a motivated and dynamic early career scientist to join the Biology Automation team and Primary Pharmacology group. In this role, you will work on a leading-edge automation platform, helping to push laboratory automation towards autonomous science and entirely hands-free assay execution. You will be work within the team to ensure that the large-scale automation platform meets its objectives and that all our automated assays are fit-for-purpose and appropriately quality-controlled. You will regularly run biochemical and cell-based screening assays that deliver high-quality data to project teams and learn how to develop and validate new assays. This includes being responsible for analysing and reporting data while providing interpretation and context in project team meetings, as well as troubleshooting any issues with assays and equipment. In this role, you will: Develop and run automated, semi-automated and manual biochemical and cell-based assays, to help drive development of small molecule therapeutics with a focus on compound characterisation and the rapid identification of candidate molecules. Implement latest scientific developments and evaluate new technologies. Collaborate with cross functional project teams to drive drug discovery programs forward by producing decision making data in timely manner. Engage in continual learning and development, gaining exposure to multiple scientific disciplines and the drug discovery process, from initial target identification through to candidate selection. Innovate in a truly leading-edge automation laboratory, pushing the boundaries of drug discovery and laboratory automation. The Team You’ll Join You will join the Primary Pharmacology group as part of a small team focused mainly on laboratory automation, but also providing key assay data of our own to project teams. The group provides critical data, driving multiple drug discovery projects within multidisciplinary project teams. We work on a range of target classes that could include kinases, proteases, epigenetic targets, or protein:protein interactions etc. Our work covers indications including but not limited to Oncology, Neurology, and Immunology/Inflammation, often in areas of highly novel biology. These positions are primarily laboratory-based and offer significant scope for personal growth a",
+    "regex_reason": "associate title"
+  }
+]
