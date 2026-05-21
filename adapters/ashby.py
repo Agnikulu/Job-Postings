@@ -68,7 +68,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     title=raw.get("title", "").strip(),
                     location=raw.get("location", "") or "",
                     url=raw.get("jobUrl", "") or raw.get("applyUrl", ""),
-                    posted_at=raw.get("publishedDate") or raw.get("updatedAt"),
+                    posted_at=raw.get("publishedAt"),
                     department=raw.get("department"),
                     ats="ashby",
                     category=company.get("category", "uncategorized"),
