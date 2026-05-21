@@ -11,6 +11,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from adapters.description_fetch import (
     extract_google_description,
     extract_microsoft_description,
+    fetch_apple_description,
+    fetch_eightfold_description,
+    fetch_gem_description,
+    fetch_rippling_description,
+    fetch_workable_description,
     fetch_workday_description,
 )
 from adapters.google_careers import fetch as fetch_google
@@ -141,3 +146,65 @@ def test_workday_adapter_attaches_description() -> None:
     ):
         jobs = fetch_workday(company)
     assert jobs[0].description == "Bachelor's degree required."
+
+
+def test_gem_fetch_description() -> None:
+    payload = {
+        "data": {
+            "oatsExternalJobPosting": {
+                "descriptionHtml": "<p>New grad software engineer role.</p>",
+            }
+        }
+    }
+    with patch("adapters.description_fetch.requests.post") as post:
+        post.return_value.status_code = 200
+        post.return_value.json.return_value = payload
+        desc = fetch_gem_description("groq", "ext-1")
+    assert desc is not None
+    assert "New grad software engineer" in desc
+
+
+def test_workable_fetch_description_v2() -> None:
+    payload = {
+        "description": "<p>Build ML systems.</p>",
+        "requirements": "<ul><li>Python</li></ul>",
+    }
+    with patch("adapters.description_fetch._get_json", return_value=payload):
+        desc = fetch_workable_description("huggingface", "ABC123")
+    assert desc is not None
+    assert "Build ML systems" in desc
+    assert "Python" in desc
+
+
+def test_eightfold_fetch_description_includes_domain() -> None:
+    with patch("adapters.description_fetch._get_json", return_value={"job_description": "Bachelor's degree."}) as get_json:
+        desc = fetch_eightfold_description("explore.jobs.netflix.net", "netflix.com", "123")
+    assert desc == "Bachelor's degree."
+    assert get_json.call_args.args[0].endswith("?domain=netflix.com")
+
+
+def test_apple_fetch_description_from_api() -> None:
+    payload = {
+        "res": {
+            "jobSummary": "Join Apple Retail.",
+            "minimumQualifications": "You should have a bachelor's degree.",
+        }
+    }
+    with patch("adapters.description_fetch.requests.get") as get:
+        get.return_value.status_code = 200
+        get.return_value.json.return_value = payload
+        desc = fetch_apple_description("114438102", "jp-operations-expert")
+    assert desc is not None
+    assert "bachelor's degree" in desc.lower()
+
+
+def test_rippling_fetch_description_from_api_data() -> None:
+    html = """
+    <script id="__NEXT_DATA__" type="application/json">
+    {"props":{"pageProps":{"apiData":{"jobPost":{"description":{"role":"<p>2+ years Python.</p>","company":"<p>About us</p>"}}}}}}
+    </script>
+    """
+    with patch("adapters.description_fetch._get_html", return_value=html):
+        desc = fetch_rippling_description("https://ats.rippling.com/x/jobs/1")
+    assert desc is not None
+    assert "2+ years Python" in desc

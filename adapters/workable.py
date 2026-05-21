@@ -7,6 +7,7 @@ Used by Hugging Face and other companies on apply.workable.com.
 from __future__ import annotations
 
 import logging
+from dataclasses import replace
 from typing import Any
 
 import requests
@@ -17,11 +18,16 @@ from tenacity import (
     wait_exponential,
 )
 
+from text_util import normalize_description
+
+from adapters.description_fetch import fetch_workable_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
 
 BASE_URL = "https://apply.workable.com/api/v1/widget/accounts/{slug}"
+DETAIL_WORKERS = 6
 
 
 @retry(
@@ -72,11 +78,13 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         raise AdapterError(f"Workable returned invalid JSON for slug='{slug}'") from e
 
     jobs: list[Job] = []
+    shortcodes: list[str] = []
     for raw in payload.get("jobs") or []:
         try:
+            shortcode = str(raw.get("shortcode") or raw.get("id") or "")
             jobs.append(
                 Job(
-                    id=str(raw.get("shortcode") or raw.get("id") or raw.get("title")),
+                    id=shortcode or str(raw.get("title")),
                     company=company["name"],
                     title=raw.get("title", "").strip(),
                     location=_format_location(raw),
@@ -87,7 +95,20 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     category=company.get("category", "uncategorized"),
                 )
             )
+            if shortcode:
+                shortcodes.append(shortcode)
         except (KeyError, TypeError) as e:
             log.warning("Workable: skipping malformed job for %s: %s", slug, e)
             continue
+
+    if shortcodes:
+        descs = map_descriptions_parallel(
+            shortcodes,
+            lambda code: fetch_workable_description(slug, code),
+            max_workers=DETAIL_WORKERS,
+        )
+        jobs = [
+            replace(j, description=descs.get(j.id) or j.description)
+            for j in jobs
+        ]
     return jobs

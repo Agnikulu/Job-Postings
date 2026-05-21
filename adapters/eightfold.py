@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import logging
 import time
+from dataclasses import replace
 from datetime import datetime, timezone
 from typing import Any
 
@@ -18,6 +19,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from adapters.description_fetch import fetch_eightfold_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -27,6 +30,7 @@ DEFAULT_DOMAIN = "netflix.com"
 BATCH_SIZE = 10
 MAX_BATCHES = 200
 BATCH_DELAY_SEC = 0.35
+DETAIL_WORKERS = 6
 
 
 @retry(
@@ -106,4 +110,12 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError) as e:
             log.warning("Eightfold: skipping malformed job for %s: %s", name, e)
             continue
+
+    if jobs:
+        descs = map_descriptions_parallel(
+            [j.id for j in jobs],
+            lambda job_id: fetch_eightfold_description(host, domain, job_id),
+            max_workers=DETAIL_WORKERS,
+        )
+        jobs = [replace(j, description=descs.get(j.id)) for j in jobs]
     return jobs

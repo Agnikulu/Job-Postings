@@ -67,13 +67,13 @@ def test_senior_exp_in_requirements_excludes_without_ec() -> None:
     assert conf.level == "high_exclude"
 
 
-def test_bachelors_required_promotes_new_grad_style_role() -> None:
+def test_bachelors_only_without_ec_signal_excludes_bare_swe() -> None:
     desc = """
     Qualifications:
     Bachelor's degree required in Computer Science or related field.
     """
     conf = classify_title_confidence("Software Engineer", desc)
-    assert conf.level == "high_include"
+    assert conf.level == "high_exclude"
     assert conf.is_technical is True
 
 

@@ -20,6 +20,8 @@ _TIER1_HEADERS = (
     r"skills?\s+(?:&|and)\s+experience\s+you(?:'ll|\s+will)\s+need",
     r"who\s+you\s+are",
     r"about\s+you(?:\s+because)?\s+(?!and\b)",
+    r"what\s+you\s+bring(?:\s+to\s+the\s+team)?",
+    r"what\s+you\s+should\s+have",
     r"what\s+we\s+look\s+for",
     r"what\s+we(?:'re|\s+are)\s+looking\s+for",
     r"we(?:'d|\s+would)\s+love\s+to\s+hear\s+from\s+you(?:\s+if\s+you\s+have)?",
@@ -40,7 +42,6 @@ _TIER2_HEADERS = (
     r"candidate\s+requirements?",
     r"education\s+(?:&|and)\s+experience",
     r"what\s+you(?:'ll|\s+will)\s+need",
-    r"what\s+you\s+bring",
     r"what\s+we\s+need\s+to\s+see",
 )
 
@@ -81,7 +82,7 @@ _FOOTER_HEADERS = (
 
 # Inline candidate search when no section header exists.
 _INLINE_LOOKING_FOR = re.compile(
-    r"(?:we(?:'re|\s+are)\s+)?looking\s+for\s+(?:a|an|someone|motivated|talented|passionate)",
+    r"(?:we(?:'re|\s+are)\s+)?looking\s+for\s+(?:a|an|someone|motivated|talented|passionate|researchers?)",
     re.IGNORECASE,
 )
 
@@ -109,9 +110,10 @@ DESC_STRONG_EC = re.compile(
     r"graduate\s+20[2-9][0-9]|"
     r"intern(ship)?(?:\s+experience|\s+program)?|"
     r"internship\s+program|"
+    r"fellows?\s+program|"
+    r"fellowship|"
     r"co-?op(?:\s+experience|\s+program)?|"
     r"previous\s+internship|"
-    r"internship\s+experience|"
     r"new[\s-]?grad(uate)?|"
     r"new\s+college\s+grad|"
     r"university\s+graduate|"
@@ -136,7 +138,10 @@ DESC_BACHELORS_REQ = re.compile(
     r"bachelor'?s\s+(?:degree\s+)?(?:required|preferred)|"
     r"undergraduate\s+degree(?:\s+required)?|"
     r"four[\s-]?year\s+degree(?:\s+required)?|"
-    r"minimum\s+education\s*:\s*bachelor"
+    r"minimum\s+education\s*:\s*bachelor|"
+    r"BS,?\s+MS\s+or\s+PhD|"
+    r"MS\s+or\s+PhD|"
+    r"\bBS\b.*\b(?:MS|PhD)\b"
     r")\b",
     re.IGNORECASE,
 )
@@ -161,11 +166,12 @@ DESC_TECH_FIELD = re.compile(
 
 DESC_SENIOR_EXP = re.compile(
     r"\b("
-    r"(?:minimum|at\s+least)\s+(?:of\s+)?(?:[3-9]|10)\+?\s*years?|"
-    r"(?:[3-9]|10)\+\s*years?|"
-    r"(?:[3-9]|10)\+?\s*years?\s+(?:of\s+)?(?:[\w/-]+\s+){0,8}experience|"
-    r"(?:[3-9]|10)\+?\s*years?(?:\s+of)?(?:\s+professional|\s+industry|\s+relevant|\s+software)?\s+experience(?:\s+required|\s+in\s+the\s+job\s+offered)?|"
-    r"(?:employer will accept|will accept).{0,200}?\b(?:and\s+)?(?:[3-9]|10)\+?\s*years?\s+of\s+experience|"
+    r"(?<![0-9\-–—])[1-9]\s*[-–—]\s*(?:[5-9]|10)\+?\s*years?|"
+    r"(?:minimum|at\s+least)\s+(?:of\s+)?(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?|"
+    r"(?<![0-9\-–—])(?:[3-9]|10)\+\s*years?|"
+    r"(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?\s+(?:of\s+)?(?:[\w/-]+\s+){0,8}experience|"
+    r"(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?(?:\s+of)?(?:\s+professional|\s+industry|\s+relevant|\s+software)?\s+experience(?:\s+required|\s+in\s+the\s+job\s+offered)?|"
+    r"(?:employer will accept|will accept).{0,200}?\b(?:and\s+)?(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?\s+of\s+experience|"
     r"(?:employer will accept|will accept).{0,200}?\b(?:and\s+)?three\s+years\s+of\s+experience|"
     r"significant\s+experience|"
     r"experienced\s+(?:backend|software|engineer)|"
@@ -178,12 +184,48 @@ DESC_SENIOR_EXP = re.compile(
     re.IGNORECASE,
 )
 
-# Minimum experience bars in qualification blocks (e.g. Google 2 yrs, H1B 3 yrs).
+# Minimum experience bars in qualification blocks (3+ years — 0–2 yr roles stay EC).
 DESC_MIN_YEARS_REQ = re.compile(
     r"\b("
-    r"(?:[2-9]|10)\+?\s*years?\s+(?:of\s+)?(?:\w+\s+){0,4}experience|"
-    r"[3-9]\s*[-–—]\s*12\+?\s*years?\s+(?:of\s+)?(?:\w+\s+){0,4}experience"
+    r"(?:minimum\s+of\s+)?(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?(?:['\u2019]s?)?(?:\s+of)?(?:\s+\w+\s+){0,4}experience|"
+    r"(?<![0-9\-–—])[3-9]\s*[-–—]\s*12\+?\s*years?(?:\s+of)?(?:\w+\s+){0,4}experience"
     r")\b",
+    re.IGNORECASE,
+)
+
+_YEAR_RANGE_EC = re.compile(
+    r"\b("
+    r"[01]\s*[-–—]\s*3\s*years?|"
+    r"0\s*[-–—]\s*2\s*years?|"
+    r"1[\s–—-]+3\s+years?"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_EARLY_YEARS_EC = re.compile(
+    r"\b("
+    r"(?:minimum\s+of\s+)?(?:0|1)\s+years?(?:\s+of)?(?:\s+experience)?|"
+    r"(?:minimum\s+of\s+)?2\s*\+\s*years?(?:['\u2019]s?)?(?:\s+of)?(?:\s+experience)?|"
+    r"2\s*\+\s*years?(?:\s+of)?(?:\s+experience)?|"
+    r"1\s*\+\s*years?\s+(?:of\s+)?(?:work\s+)?experience"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_EC_FRIENDLY_REQ_HEADER = re.compile(
+    r"^(?:(?:your\s+)?ideal\s+\w+(?:\s+\w+){0,4}\s+will\s+have|"
+    r"what you should have|what you bring(?: to the team)?|what you have)\b",
+    re.IGNORECASE,
+)
+
+_RESEARCH_TITLE = re.compile(
+    r"\b(?:research\s+scientist|data\s+scientist|quantitative\s+researcher|"
+    r"equity\s+quantitative\s+researcher|research\s+engineer)\b",
+    re.IGNORECASE,
+)
+
+_MOBILE_ENGINEER_TITLE = re.compile(
+    r"\b(?:mobile|android|ios)\s+engineer\b",
     re.IGNORECASE,
 )
 
@@ -405,6 +447,120 @@ def _fallback_h1b_qualifications(text: str) -> str | None:
     return None
 
 
+def _fallback_you_have_block(text: str) -> str | None:
+    """Discord-style 'You have:' qualification bullets."""
+    match = re.search(r"\bYou have\s*:", text)
+    if not match:
+        return None
+    section = _slice_section(text, match.start())
+    if len(section) < 40:
+        return None
+    return section
+
+
+def _fallback_requirements_no_colon(text: str) -> str | None:
+    """Requirements/REQUIREMENTS blocks without a colon (common on Point72 and similar)."""
+    match = re.search(
+        r"\b(?:minimum\s+)?requirements?\b(?!\s*:)\s+"
+        r"(?:BS|MS|PhD|B\.?S\.?|M\.?S\.?|Ph\.?D|bachelor|master|undergraduate)",
+        text,
+        re.IGNORECASE,
+    )
+    if not match:
+        match = re.search(r"\bREQUIREMENTS\b\s+", text)
+    if not match:
+        return None
+    if _is_false_positive_requirements(text, match.start()):
+        return None
+    section = _slice_section(text, match.start())
+    if len(section) < 40:
+        return None
+    return section
+
+
+def _fallback_ideal_candidate_block(text: str) -> str | None:
+    """Snowflake-style 'YOUR IDEAL SOFTWARE ENGINEER WILL HAVE' blocks."""
+    match = re.search(
+        r"\b(?:your\s+)?ideal\s+\w+(?:\s+\w+){0,4}\s+will\s+have\b",
+        text,
+        re.IGNORECASE,
+    )
+    if not match:
+        return None
+    section = _slice_section(text, match.start())
+    if len(section) < 40:
+        return None
+    return section
+
+
+def _fallback_minimum_experience_line(text: str) -> str | None:
+    """Inline 'Minimum N year(s) of experience' without a section header."""
+    match = re.search(
+        r"\bminimum\s+(?:0|1|2|[3-9])\s*\+?\s*years?\b",
+        text,
+        re.IGNORECASE,
+    )
+    if not match:
+        return None
+    start = max(0, match.start() - 80)
+    return text[start : match.start() + 400].strip()
+
+
+def qualifying_early_years(
+    text: str | None,
+    title: str | None,
+    *,
+    ec_friendly_header: bool = False,
+) -> bool:
+    """Low years-of-experience bars that count as EC only in friendly contexts."""
+    if not text or not _EARLY_YEARS_EC.search(text):
+        return False
+    title_text = title or ""
+    if _RESEARCH_TITLE.search(title_text):
+        return True
+    if _MOBILE_ENGINEER_TITLE.search(title_text):
+        return True
+    return ec_friendly_header
+
+
+def ec_friendly_requirements_header(requirements_text: str | None) -> bool:
+    if not requirements_text:
+        return False
+    text = requirements_text.strip().lstrip(". ")
+    return bool(_EC_FRIENDLY_REQ_HEADER.match(text))
+
+
+def year_range_only_ec(signals: DescriptionSignals) -> bool:
+    """True when the only EC signal in requirements is a low years-of-experience range."""
+    text = signals.requirements_text or ""
+    if not text or not signals.has_strong_ec:
+        return False
+    if not _YEAR_RANGE_EC.search(text):
+        return False
+    stripped = _YEAR_RANGE_EC.sub(" ", text)
+    stripped = re.sub(r"\bintern(?:ship)?\b", " ", stripped, flags=re.IGNORECASE)
+    return not DESC_STRONG_EC.search(stripped)
+
+
+def effective_strong_ec(signals: DescriptionSignals) -> bool:
+    """Strong EC that still counts when senior bars appear alongside year ranges."""
+    if not signals.has_strong_ec:
+        return False
+    if not signals.has_senior_exp:
+        return True
+    text = signals.requirements_text or ""
+    if not text:
+        return True
+    stripped = _YEAR_RANGE_EC.sub(" ", text)
+    stripped = re.sub(
+        r"\b(?:internship|previous\s+internship)\s+experience\b",
+        " ",
+        stripped,
+        flags=re.IGNORECASE,
+    )
+    return bool(DESC_STRONG_EC.search(stripped))
+
+
 def _fallback_qualifications_block(text: str) -> str | None:
     """Unstructured 'Qualifications' blocks (Workday and similar)."""
     match = re.search(
@@ -438,8 +594,12 @@ def extract_requirements_text(description: str | None) -> str | None:
     for fallback in (
         _fallback_minimum_education_block,
         _fallback_inline_looking_for,
+        _fallback_requirements_no_colon,
+        _fallback_ideal_candidate_block,
+        _fallback_you_have_block,
         _fallback_qualifications_block,
         _fallback_h1b_qualifications,
+        _fallback_minimum_experience_line,
         _fallback_after_duties,
     ):
         section = fallback(text)
@@ -449,16 +609,66 @@ def extract_requirements_text(description: str | None) -> str | None:
     return None
 
 
+def _signals_from_text(text: str, *, requirements_text: str | None) -> DescriptionSignals:
+    return DescriptionSignals(
+        requirements_text=requirements_text,
+        has_strong_ec=bool(DESC_STRONG_EC.search(text)),
+        has_bachelors_req=bool(DESC_BACHELORS_REQ.search(text)),
+        has_tech_field=bool(DESC_TECH_FIELD.search(text)),
+        has_senior_exp=bool(DESC_SENIOR_EXP.search(text)),
+        has_min_years_req=bool(DESC_MIN_YEARS_REQ.search(text)),
+    )
+
+
+def scan_full_description(description: str | None) -> DescriptionSignals:
+    """Scan the full description body (used when requirements slice is missing)."""
+    if not description or not description.strip():
+        return DescriptionSignals(None, False, False, False, False, False)
+    return _signals_from_text(_normalize(description), requirements_text=None)
+
+
+def merge_description_signals(
+    primary: DescriptionSignals,
+    secondary: DescriptionSignals,
+) -> DescriptionSignals:
+    """Combine requirement-slice and full-body signals (OR on flags)."""
+    return DescriptionSignals(
+        requirements_text=primary.requirements_text or secondary.requirements_text,
+        has_strong_ec=primary.has_strong_ec or secondary.has_strong_ec,
+        has_bachelors_req=primary.has_bachelors_req or secondary.has_bachelors_req,
+        has_tech_field=primary.has_tech_field or secondary.has_tech_field,
+        has_senior_exp=primary.has_senior_exp or secondary.has_senior_exp,
+        has_min_years_req=primary.has_min_years_req or secondary.has_min_years_req,
+    )
+
+
 def extract_description_signals(description: str | None) -> DescriptionSignals:
     """Parse EC / tech-field / senior-exp signals from requirements text only."""
     req = extract_requirements_text(description)
     if not req:
         return DescriptionSignals(None, False, False, False, False, False)
-    return DescriptionSignals(
-        requirements_text=req,
-        has_strong_ec=bool(DESC_STRONG_EC.search(req)),
-        has_bachelors_req=bool(DESC_BACHELORS_REQ.search(req)),
-        has_tech_field=bool(DESC_TECH_FIELD.search(req)),
-        has_senior_exp=bool(DESC_SENIOR_EXP.search(req)),
-        has_min_years_req=bool(DESC_MIN_YEARS_REQ.search(req)),
-    )
+    return _signals_from_text(req, requirements_text=req)
+
+
+def extract_description_signals_with_fallback(
+    description: str | None,
+    *,
+    title_ec_hint: bool = False,
+) -> DescriptionSignals:
+    """Requirements slice first; scan full body when title hints EC and slice is weak."""
+    req_sig = extract_description_signals(description)
+    if not description or not description.strip():
+        return req_sig
+    if not title_ec_hint:
+        return req_sig
+
+    body_sig = scan_full_description(description)
+    if not req_sig.requirements_text:
+        return body_sig
+
+    if req_sig.has_ec or req_sig.has_senior_exp:
+        return req_sig
+
+    if body_sig.has_ec or body_sig.has_senior_exp:
+        return merge_description_signals(req_sig, body_sig)
+    return req_sig

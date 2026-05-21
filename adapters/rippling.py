@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import logging
 import re
+from dataclasses import replace
 from typing import Any
 
 import requests
@@ -19,6 +20,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from adapters.description_fetch import fetch_rippling_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -28,6 +31,7 @@ _NEXT_DATA_RE = re.compile(
     r'<script id="__NEXT_DATA__" type="application/json">(.+?)</script>',
     re.DOTALL,
 )
+DETAIL_WORKERS = 6
 
 
 @retry(
@@ -123,4 +127,12 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError) as e:
             log.warning("Rippling: skipping malformed job for %s: %s", slug, e)
             continue
+
+    if jobs:
+        descs = map_descriptions_parallel(
+            [j.url for j in jobs if j.url],
+            fetch_rippling_description,
+            max_workers=DETAIL_WORKERS,
+        )
+        jobs = [replace(j, description=descs.get(j.url)) for j in jobs]
     return jobs

@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from adapters.base import Job
 from education import extract_education_levels
 from description_signals import extract_requirements_text
-from filters import classify_title_confidence, is_obvious_reject, is_us_location
+from filters import classify_title_confidence, is_obvious_reject, is_us_location_with_description
 from location_resolver import resolve_job_location
 
 
@@ -65,7 +65,7 @@ def classify_job_fields(
         include=include,
         is_technical=confidence.is_technical,
         education_levels=levels,
-        is_us=is_us_location(resolved_location),
+        is_us=is_us_location_with_description(resolved_location, description),
         reason=confidence.reason,
         source="regex",
     )

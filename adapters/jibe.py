@@ -17,12 +17,27 @@ from tenacity import (
     wait_exponential,
 )
 
+from text_util import normalize_description
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
 
 PAGE_SIZE = 100
 MAX_PAGES = 50
+
+
+def _inline_description(data: dict[str, Any]) -> str | None:
+    """Jibe list API already returns description + qualifications blocks."""
+    parts = [
+        data.get("description"),
+        data.get("qualifications"),
+        data.get("responsibilities"),
+    ]
+    raw = "\n\n".join(p for p in parts if p and str(p).strip())
+    if not raw:
+        return None
+    return normalize_description(raw, is_html=True)
 
 
 @retry(
@@ -91,9 +106,11 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     department=data.get("department"),
                     ats="jibe",
                     category=company.get("category", "uncategorized"),
+                    description=_inline_description(data),
                 )
             )
         except (KeyError, TypeError) as e:
             log.warning("Jibe: skipping malformed job for %s: %s", name, e)
             continue
+
     return jobs

@@ -41,7 +41,19 @@ def test_workable_fetch_maps_fields() -> None:
 
 def test_jibe_fetch_maps_fields() -> None:
     payload = {
-        "jobs": [{"data": {"req_id": "7433", "title": "Director", "city": "LA", "state": "CA", "country": "US", "posted_date": "2026-05-20T20:27:00+0000", "department": "Ops"}}],
+        "jobs": [{
+            "data": {
+                "req_id": "7433",
+                "title": "Director",
+                "city": "LA",
+                "state": "CA",
+                "country": "US",
+                "posted_date": "2026-05-20T20:27:00+0000",
+                "department": "Ops",
+                "description": "<p>Build systems.</p>",
+                "qualifications": "<ul><li>Bachelor's degree</li></ul>",
+            },
+        }],
         "totalCount": 1,
     }
     company = {"name": "BlackLine", "careers_host": "careers.blackline.com", "category": "big_tech"}
@@ -49,6 +61,8 @@ def test_jibe_fetch_maps_fields() -> None:
         jobs = fetch_jibe(company)
     assert jobs[0].url == "https://careers.blackline.com/careers-home/jobs/7433"
     assert jobs[0].location == "LA, CA, US"
+    assert jobs[0].description is not None
+    assert "Bachelor's degree" in jobs[0].description
 
 
 def test_rippling_fetch_dedupes_locations() -> None:

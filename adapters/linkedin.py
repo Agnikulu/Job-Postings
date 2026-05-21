@@ -9,6 +9,7 @@ from __future__ import annotations
 import html
 import logging
 import re
+from dataclasses import replace
 from typing import Any
 
 import requests
@@ -19,6 +20,8 @@ from tenacity import (
     wait_exponential,
 )
 
+from adapters.description_fetch import fetch_linkedin_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
@@ -26,6 +29,7 @@ log = logging.getLogger(__name__)
 SEARCH_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 PAGE_SIZE = 10
 MAX_PAGES = 200
+DETAIL_WORKERS = 6
 DEFAULT_COMPANY_ID = "1337"
 
 
@@ -126,4 +130,12 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError) as e:
             log.warning("LinkedIn: skipping malformed job for %s: %s", name, e)
             continue
+
+    if jobs:
+        descs = map_descriptions_parallel(
+            [j.id for j in jobs],
+            fetch_linkedin_description,
+            max_workers=DETAIL_WORKERS,
+        )
+        jobs = [replace(j, description=descs.get(j.id)) for j in jobs]
     return jobs

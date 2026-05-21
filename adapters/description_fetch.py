@@ -115,6 +115,164 @@ def fetch_microsoft_description(job_id: str, *, base_url: str) -> str | None:
     return normalize_description(raw)
 
 
+def fetch_gem_description(slug: str, ext_id: str) -> str | None:
+    """Gem detail page is a SPA; description comes from ExternalJobPostingQuery."""
+    headers = {
+        **DEFAULT_HEADERS,
+        "Content-Type": "application/json",
+        "Origin": "https://jobs.gem.com",
+        "Referer": f"https://jobs.gem.com/{slug}/{ext_id}",
+    }
+    query = """
+    query ExternalJobPostingQuery($boardId: String!, $extId: String!) {
+      oatsExternalJobPosting(boardId: $boardId, extId: $extId) {
+        descriptionHtml
+      }
+    }
+    """
+    try:
+        resp = requests.post(
+            "https://jobs.gem.com/api/public/graphql",
+            json={
+                "operationName": "ExternalJobPostingQuery",
+                "query": query,
+                "variables": {"boardId": slug, "extId": ext_id},
+            },
+            headers=headers,
+            timeout=DEFAULT_TIMEOUT,
+        )
+        resp.raise_for_status()
+        payload = resp.json()
+    except Exception:
+        return None
+    if payload.get("errors"):
+        return None
+    raw = (
+        payload.get("data", {})
+        .get("oatsExternalJobPosting", {})
+        .get("descriptionHtml")
+    )
+    return normalize_description(raw, is_html=True)
+
+
+def fetch_workable_description(slug: str, shortcode: str) -> str | None:
+    url = f"https://apply.workable.com/api/v2/accounts/{slug}/jobs/{shortcode}"
+    try:
+        payload = _get_json(url, referer=f"https://apply.workable.com/{slug}/")
+    except Exception:
+        # Legacy v1 fallback for older boards.
+        try:
+            payload = _get_json(
+                f"https://apply.workable.com/api/v1/jobs/{shortcode}",
+                referer=f"https://apply.workable.com/{slug}/",
+            )
+        except Exception:
+            return None
+    parts = [
+        payload.get("description") or payload.get("full_description"),
+        payload.get("requirements"),
+    ]
+    raw = "\n\n".join(p for p in parts if p and str(p).strip())
+    return normalize_description(raw, is_html=True)
+
+
+def fetch_linkedin_description(job_id: str) -> str | None:
+    url = f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}"
+    try:
+        html = _get_html(url)
+    except Exception:
+        return None
+    match = re.search(
+        r"<div class=\"show-more-less-html__markup[^\"]*\"[^>]*>(.*?)</div>",
+        html,
+        re.DOTALL | re.IGNORECASE,
+    )
+    if not match:
+        return None
+    return normalize_description(match.group(1), is_html=True)
+
+
+def fetch_eightfold_description(host: str, domain: str, job_id: str) -> str | None:
+    url = f"https://{host}/api/apply/v2/jobs/{job_id}?domain={domain}"
+    try:
+        payload = _get_json(url, referer=f"https://{host}/careers")
+    except Exception:
+        return None
+    raw = payload.get("job_description") or payload.get("description")
+    return normalize_description(raw, is_html=True)
+
+
+def fetch_jibe_description(host: str, req_id: str) -> str | None:
+    url = f"https://{host}/api/jobs/{req_id}"
+    try:
+        payload = _get_json(url)
+    except Exception:
+        return None
+    data = payload.get("data") or payload
+    raw = data.get("description") or data.get("job_description")
+    return normalize_description(raw, is_html=True)
+
+
+def fetch_apple_description(job_id: str, slug: str) -> str | None:
+    url = f"https://jobs.apple.com/api/v1/jobDetails/{job_id}"
+    headers = {
+        **DEFAULT_HEADERS,
+        "Accept": "application/json",
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        ),
+    }
+    try:
+        resp = requests.get(url, headers=headers, timeout=DEFAULT_TIMEOUT)
+        resp.raise_for_status()
+        payload = resp.json()
+    except Exception:
+        return None
+    detail = payload.get("res") or payload
+    if not isinstance(detail, dict):
+        return None
+    parts = [
+        detail.get("jobSummary"),
+        detail.get("description"),
+        detail.get("minimumQualifications"),
+        detail.get("preferredQualifications"),
+    ]
+    raw = "\n\n".join(p for p in parts if p and str(p).strip())
+    return normalize_description(raw)
+
+
+def fetch_rippling_description(job_url: str) -> str | None:
+    if not job_url:
+        return None
+    try:
+        html = _get_html(job_url)
+    except Exception:
+        return None
+    match = re.search(
+        r'<script id="__NEXT_DATA__" type="application/json">(.+?)</script>',
+        html,
+        re.DOTALL,
+    )
+    if not match:
+        return None
+    try:
+        payload = json.loads(match.group(1))
+    except json.JSONDecodeError:
+        return None
+    api_data = payload.get("props", {}).get("pageProps", {}).get("apiData") or {}
+    job_post = api_data.get("jobPost") or {}
+    raw = job_post.get("description") or job_post.get("descriptionHtml")
+    if isinstance(raw, dict):
+        raw = "\n\n".join(
+            str(v) for v in (raw.get("role"), raw.get("company")) if v and str(v).strip()
+        )
+    if not raw:
+        job = payload.get("props", {}).get("pageProps", {}).get("job") or {}
+        raw = job.get("description") or job.get("descriptionHtml")
+    return normalize_description(raw, is_html=True)
+
+
 def _collect_google_html(data: Any) -> str | None:
     parts: list[str] = []
     seen: set[str] = set()

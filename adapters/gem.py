@@ -7,6 +7,7 @@ Used by Groq and other companies on jobs.gem.com/{slug}.
 from __future__ import annotations
 
 import logging
+from dataclasses import replace
 from typing import Any
 
 import requests
@@ -17,11 +18,14 @@ from tenacity import (
     wait_exponential,
 )
 
+from adapters.description_fetch import fetch_gem_description, map_descriptions_parallel
+
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
 
 GRAPHQL_URL = "https://jobs.gem.com/api/public/graphql"
+DETAIL_WORKERS = 6
 JOB_BOARD_QUERY = """
 query JobBoardList($boardId: String!) {
   oatsExternalJobPostings(boardId: $boardId) {
@@ -141,4 +145,12 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         except (KeyError, TypeError) as e:
             log.warning("Gem: skipping malformed job for %s: %s", slug, e)
             continue
+
+    if jobs:
+        descs = map_descriptions_parallel(
+            [j.id for j in jobs],
+            lambda ext_id: fetch_gem_description(slug, ext_id),
+            max_workers=DETAIL_WORKERS,
+        )
+        jobs = [replace(j, description=descs.get(j.id)) for j in jobs]
     return jobs
