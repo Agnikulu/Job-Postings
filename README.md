@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 248
-- **All-time tracked:** 250
+- **Open positions:** 251
+- **All-time tracked:** 251
 - **Active companies:** 79
-- **Last updated:** `2026-05-21 07:41 UTC`
+- **Last updated:** `2026-05-21 09:30 UTC`
 
 ## Legend
 
@@ -128,6 +128,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | ASIC Floorplan Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971) | May 07, 2026 |
 | Nvidia | GPU Verification Engineer - New College Grad 2026 🇺🇸 | US, MA, Westford | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593) | May 07, 2026 |
 | Microsoft | Research Intern - AI Agents & Efficiency 🇺🇸 | Cambridge, England, GB | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556626895) | May 06, 2026 |
+| Microsoft | Research Intern - Intelligent Quantum Systems Architecture 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864482) | May 06, 2026 |
 | Microsoft | Research Intern - Fault Tolerant Quantum System Architecture 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864490) | May 06, 2026 |
 | Microsoft | Research Intern - AI Frontiers 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864498) | May 06, 2026 |
 | Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581) | May 06, 2026 |
@@ -140,6 +141,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | GPU Power Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169) | May 01, 2026 |
 | Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336) | Apr 30, 2026 |
 | Microsoft | Security Research Intern - AI Focus 🇺🇸 | Herzliya, Tel Aviv District, IL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556862170) | Apr 28, 2026 |
+| Microsoft | Research Intern - Socio-Technical Workflow Analysis 🇺🇸 | Redmond, WA, US / Cambridge, MA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556862680) | Apr 28, 2026 |
 | Airbnb | iOS Software Engineer, Airbnb - New Grad 🇺🇸 | San Francisco, CA, Seattle, WA | New Grad | [Apply](https://careers.airbnb.com/positions/7859317?gh_jid=7859317) | Apr 28, 2026 |
 | Nvidia | Hardware Applications Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940) | Apr 28, 2026 |
 | Uber | Graduate 2026 Software Engineer I, Mobile (iOS) 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158011) | Apr 27, 2026 |
@@ -273,24 +275,13 @@ how to fork, how to add companies, and how filtering works.
 | Microsoft | Research Intern - Azure Research - Systems 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622018) | Nov 19, 2025 |
 | Microsoft | Research Intern - Networking Research Group 🇺🇸 | Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556622023) | Nov 19, 2025 |
 | Microsoft | Research Intern - Foundations of Generative AI 🇺🇸 | New York, NY, US / Redmond, WA, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556621454) | Nov 18, 2025 |
+| Google | Student Researcher, PhD, Winter/Summer 2026 🇺🇸 | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA | PhD | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdDBszOwAboL1irYc5xQuYyKqC3h2okBoNLk3COfTIvnEjsAbDj5iFcTaZqyNkN9jNNd5HHI8cIk1Ag8eQCdAohcear60mczr-Sinm0tegTidLDm40kDJ-TGNZYA1Q%3D%3D_V2&loc=US&title=Student+Researcher) | Sep 29, 2025 |
 | Google | Student Researcher, BS/MS, Winter/Summer 2026 🇺🇸 | Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA / Princeton, NJ, USA | Masters | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTl3i0Kg9bm5-cwU_unEJ4immCkcmZEzsgvd7IwvbipLEjsAbDj5iIwSGTQMJEawk9aCtA9M1kBY7mUyJ58Qj5QSMtYgdTolThXSMDFsvF1G1pKNBvg-0csRwwwkTQ%3D%3D_V2&loc=US&title=Student+Researcher) | Sep 29, 2025 |
 | Google | Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start 🇺🇸 | Sunnyvale, CA, USA / Atlanta, GA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Mountain View, CA, USA / New York, NY, USA / Raleigh, NC, USA / Durham, NC, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQvzerP2JPvVejlhnKXNFmO6FM-Dw0Ro__woxbxSyl41EjsASXckS4TLFL_nNo4UurLUPHnKmiEd8vI4gduX5o5pnvi98j6E16OUhyheSxHmTWyU-qptk6K2EQFIPA%3D%3D_V2&loc=US&title=Software+Engineer) | Aug 26, 2025 |
 | Google | Software Engineer, PhD, Early Career, Infrastructure, 2026 Start 🇺🇸 | Sunnyvale, CA, USA / Atlanta, GA, USA / Austin, TX, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / Mountain View, CA, USA / New York, NY, USA / Raleigh, NC, USA / Durham, NC, USA / San Bruno, CA, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVc-hqc8Mfy8TEjImPUHx0VmQ9kQ9CTDN8PM-_fdBJMnEjsASXckS-JBAexAvjEFm9McCTVJZ-NYL1N-ki1ogeKscLhYagOnaWypLCuEAPMZsM1Xbi9WsHjLrGuCJg%3D%3D_V2&loc=US&title=Software+Engineer) | Aug 26, 2025 |
 | Google | Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start 🇺🇸 | Sunnyvale, CA, USA / Atlanta, GA, USA / Kirkland, WA, USA / Madison, WI, USA / Mountain View, CA, USA / New York, NY, USA / Raleigh, NC, USA / Durham, NC, USA / San Bruno, CA, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeYz1B-u5NbhAHYeBKz8za-fw00UT4XUcBVn_yPGzicDEjsASXckS88W464drpXUZRWh39KLsIpEiJTUx6Xu3ayH8bw_QxrWmpyTUGOn7EyCIsdhfuw-KtPc3YAjuQ%3D%3D_V2&loc=US&title=Software+Engineer) | Aug 26, 2025 |
 | Ramp | Software Engineer Internship, Android 🇺🇸 | New York, NY (HQ) | Intern | [Apply](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) | Aug 07, 2025 |
 | Google | Software Engineer, Systems Research, PhD, Early Career 🇺🇸 | Sunnyvale, CA, USA / Seattle, WA, USA | PhD, New Grad | [Apply](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcfynwY9n55CWFUO9YSo68R9PHMiQAr1nx-Z7xoo3Pf5EjsA7mFcrIEl4LMHm_mldhWYr9hod5CuVWsDE_q6FPfcbNw1_MoNvzI3asvAz1S9FloeLdqksv5vD3ECgw%3D%3D_V2&loc=US&title=Software+Engineer) | Jan 29, 2025 |
-
-
-<details>
-<summary><b>Closed positions (2)</b> &mdash; click to expand</summary>
-
-
-| Company | Role | Location | Education | Apply | Date Posted |
-|---------|------|----------|-----------|-------|-------------|
-| ~~Microsoft~~ | ~~Research Intern - Intelligent Quantum Systems Architecture 🇺🇸~~ | Redmond, WA, US | Intern | Closed | May 06, 2026 |
-| ~~Microsoft~~ | ~~Research Intern - Socio-Technical Workflow Analysis 🇺🇸~~ | Redmond, WA, US / Cambridge, MA, US | Intern | Closed | Apr 28, 2026 |
-
-</details>
 
 ## How it works
 
