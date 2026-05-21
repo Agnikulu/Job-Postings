@@ -12,7 +12,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:50:27+00:00",
-    "last_seen": "2026-05-21T03:26:27+00:00",
+    "last_seen": "2026-05-21T05:40:40+00:00",
     "is_closed": false
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453": {
@@ -28,7 +28,7 @@
     "is_us": true,
     "posted_date": "2026-05-12",
     "first_seen": "2026-05-21T00:50:27+00:00",
-    "last_seen": "2026-05-21T03:26:27+00:00",
+    "last_seen": "2026-05-21T05:40:40+00:00",
     "is_closed": false
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133": {
@@ -44,7 +44,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:50:27+00:00",
-    "last_seen": "2026-05-21T03:26:27+00:00",
+    "last_seen": "2026-05-21T05:40:40+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007": {
@@ -60,7 +60,7 @@
     "is_us": true,
     "posted_date": "2026-05-18",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:34+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007": {
@@ -76,7 +76,7 @@
     "is_us": true,
     "posted_date": "2026-05-18",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:34+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007": {
@@ -92,7 +92,7 @@
     "is_us": true,
     "posted_date": "2026-05-18",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:34+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007": {
@@ -108,7 +108,7 @@
     "is_us": true,
     "posted_date": "2026-05-18",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:34+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007": {
@@ -124,7 +124,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:34+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004": {
@@ -140,7 +140,7 @@
     "is_us": true,
     "posted_date": "2026-04-22",
     "first_seen": "2026-05-21T00:49:36+00:00",
-    "last_seen": "2026-05-21T03:25:16+00:00",
+    "last_seen": "2026-05-21T05:39:38+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004": {
@@ -156,7 +156,177 @@
     "is_us": true,
     "posted_date": "2026-04-23",
     "first_seen": "2026-05-21T00:49:36+00:00",
-    "last_seen": "2026-05-21T03:25:16+00:00",
+    "last_seen": "2026-05-21T05:39:38+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002": {
+    "title": "Summer 2027 Quantitative Developer Internship",
+    "company": "Point72",
+    "location": "New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-13",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002": {
+    "title": "Summer 2027 Quantitative Research Internship",
+    "company": "Point72",
+    "location": "New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-13",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002": {
+    "title": "Quantitative Software Developer Intern",
+    "company": "Point72",
+    "location": "New York, London, or Paris",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002": {
+    "title": "Quantitative Research Intern",
+    "company": "Point72",
+    "location": "New York, Seattle",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002": {
+    "title": "Machine Learning Researcher - Intern",
+    "company": "Point72",
+    "location": "New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002": {
+    "title": "Quantitative Researcher Intern",
+    "company": "Point72",
+    "location": "New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002": {
+    "title": "Quantitative Developer Intern",
+    "company": "Point72",
+    "location": "New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002": {
+    "title": "Quantitative Research Intern (NLP)",
+    "company": "Point72",
+    "location": "New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002": {
+    "title": "Quantitative Portfolio Analyst – 2026 Grad",
+    "company": "Point72",
+    "location": "New York, New York",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-03-31",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8499113002?gh_jid=8499113002": {
+    "title": "Point72 Academy 2026-2027 Investment Analyst Program for Experienced Professionals - US",
+    "company": "Point72",
+    "location": "Chicago, Florida, New York, San Francisco",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002": {
+    "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – US)",
+    "company": "Point72",
+    "location": "Chicago, Florida, New York, San Francisco",
+    "department": null,
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-11",
+    "first_seen": "2026-05-21T05:39:28+00:00",
+    "last_seen": "2026-05-21T05:39:28+00:00",
     "is_closed": false
   },
   "https://careers.airbnb.com/positions/7839237?gh_jid=7839237": {
@@ -172,7 +342,7 @@
     "is_us": true,
     "posted_date": "2026-05-13",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:38+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://careers.airbnb.com/positions/7859317?gh_jid=7859317": {
@@ -188,7 +358,7 @@
     "is_us": true,
     "posted_date": "2026-04-28",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:38+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/7142298?gh_jid=7142298": {
@@ -205,7 +375,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:37+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/7463634?gh_jid=7463634": {
@@ -222,7 +392,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:37+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/7557909?gh_jid=7557909": {
@@ -236,7 +406,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:37+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/7577436?gh_jid=7577436": {
@@ -253,7 +423,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:37+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/7779304?gh_jid=7779304": {
@@ -267,7 +437,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:46+00:00",
-    "last_seen": "2026-05-21T03:25:37+00:00",
+    "last_seen": "2026-05-21T05:39:49+00:00",
     "is_closed": false
   },
   "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002": {
@@ -284,7 +454,7 @@
     "is_us": true,
     "posted_date": "2026-04-09",
     "first_seen": "2026-05-21T00:49:36+00:00",
-    "last_seen": "2026-05-21T03:25:15+00:00",
+    "last_seen": "2026-05-21T05:39:38+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/figureai/jobs/4397706006": {
@@ -300,7 +470,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:21+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/figureai/jobs/4613067006": {
@@ -316,7 +486,7 @@
     "is_us": true,
     "posted_date": "2026-03-31",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:21+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/figureai/jobs/4676467006": {
@@ -332,7 +502,7 @@
     "is_us": true,
     "posted_date": "2026-04-25",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:21+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/figureai/jobs/4676468006": {
@@ -348,7 +518,7 @@
     "is_us": true,
     "posted_date": "2026-04-25",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:21+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/inceptive/jobs/5103191007": {
@@ -364,7 +534,7 @@
     "is_us": true,
     "posted_date": "2026-05-05",
     "first_seen": "2026-05-21T00:49:42+00:00",
-    "last_seen": "2026-05-21T03:25:34+00:00",
+    "last_seen": "2026-05-21T05:39:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026": {
@@ -380,7 +550,7 @@
     "is_us": true,
     "posted_date": "2026-01-20",
     "first_seen": "2026-05-21T00:49:45+00:00",
-    "last_seen": "2026-05-21T03:25:37+00:00",
+    "last_seen": "2026-05-21T05:39:48+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4605996005": {
@@ -396,7 +566,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-05-21T00:44:02+00:00",
-    "last_seen": "2026-05-21T03:19:36+00:00",
+    "last_seen": "2026-05-21T05:34:00+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4611533005": {
@@ -412,7 +582,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-05-21T00:44:02+00:00",
-    "last_seen": "2026-05-21T03:19:36+00:00",
+    "last_seen": "2026-05-21T05:34:00+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4687588005": {
@@ -426,7 +596,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-05-21T00:44:02+00:00",
-    "last_seen": "2026-05-21T03:19:36+00:00",
+    "last_seen": "2026-05-21T05:34:00+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e": {
@@ -442,7 +612,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/06398761-0950-4e5c-8590-26f485ba5509": {
@@ -458,7 +628,7 @@
     "is_us": true,
     "posted_date": "2026-04-02",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/09658f43-69ab-4a98-b4fb-02865a3f9f92": {
@@ -474,7 +644,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/0e78a385-c450-4749-9803-0970ce2971a5": {
@@ -490,7 +660,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/0f24f73f-7607-466e-bbc0-de039767e9c0": {
@@ -506,7 +676,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff": {
@@ -522,7 +692,7 @@
     "is_us": true,
     "posted_date": "2026-04-24",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e": {
@@ -538,7 +708,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/15fe0696-ce29-469a-b31e-a206e19302d6": {
@@ -554,7 +724,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877": {
@@ -570,7 +740,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/1efd9b58-66fe-4798-a877-776857b4e189": {
@@ -586,7 +756,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/20f77518-1699-4184-ac8e-9fa2f614d6fb": {
@@ -602,7 +772,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/2369ccf9-2b5b-4355-a0d6-dd6d73317358": {
@@ -618,7 +788,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/2425e245-6e16-49ca-be54-fb36941af55a": {
@@ -634,7 +804,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8": {
@@ -650,7 +820,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e": {
@@ -666,7 +836,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/2e4d8727-82f1-4887-9389-df5605783bbd": {
@@ -682,7 +852,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/30514004-7db4-479d-8512-972946b146f4": {
@@ -698,7 +868,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/3ea1610a-3dfd-4b51-aeb8-6317e4d6877f": {
@@ -714,7 +884,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/3ec2bf6a-5ff3-436c-ad3e-6b77ac02ad97": {
@@ -730,7 +900,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/431a3988-28bb-423b-b526-036b0cfd1963": {
@@ -746,7 +916,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/49009e2e-765a-4c4f-824b-7aea0ade2e8f": {
@@ -762,7 +932,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/4d12f517-6282-4775-8044-fe2133ad5eff": {
@@ -778,7 +948,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d": {
@@ -794,7 +964,7 @@
     "is_us": true,
     "posted_date": "2026-04-13",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75": {
@@ -810,7 +980,7 @@
     "is_us": true,
     "posted_date": "2025-12-08",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/65348db2-5658-41d0-a833-af222865d979": {
@@ -826,7 +996,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc": {
@@ -842,7 +1012,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/6dca552b-876d-4525-971b-6ee720f267eb": {
@@ -858,7 +1028,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3": {
@@ -874,7 +1044,7 @@
     "is_us": true,
     "posted_date": "2025-12-08",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/73ce9d32-26c9-46c0-adaa-dfbe6660a0e1": {
@@ -890,7 +1060,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/80926a71-0a62-4bf8-a877-b6d96df279b7": {
@@ -906,7 +1076,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55": {
@@ -922,7 +1092,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/89093845-b572-4f2a-93e5-28e99bcbfa89": {
@@ -938,7 +1108,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/8c1e7aab-3c6d-49a3-8176-d9158acb181f": {
@@ -954,7 +1124,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a": {
@@ -970,7 +1140,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/982a8ee4-5e1e-43c7-a918-6dac285cdddd": {
@@ -986,7 +1156,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/9b060f41-4607-494b-bdcf-57b1e74754ff": {
@@ -1002,7 +1172,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/9e6737f4-394f-43b1-92ef-b9d4a7986f68": {
@@ -1018,7 +1188,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/a06f95bc-adb5-48a2-b9b5-a77695bbd61b": {
@@ -1034,7 +1204,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553": {
@@ -1050,7 +1220,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/a63c06e0-ae10-467f-a2d2-f222b7016af1": {
@@ -1066,7 +1236,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/aa17bfa2-2922-4aa7-820d-76064f2551a8": {
@@ -1082,7 +1252,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/b1816ce1-fa42-4855-988b-992556414988": {
@@ -1098,7 +1268,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71": {
@@ -1114,7 +1284,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77": {
@@ -1130,7 +1300,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/d9f7c735-c20c-4c9f-92e5-ae3d598b1643": {
@@ -1146,7 +1316,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/daa8c6c4-97e3-4df4-b8da-e46fe981da1d": {
@@ -1162,7 +1332,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb": {
@@ -1178,7 +1348,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468": {
@@ -1194,7 +1364,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/e882eeaf-a34b-4f59-98f3-282cbd444508": {
@@ -1210,7 +1380,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/ec962944-f7ed-4a3e-a251-9d929295a740": {
@@ -1226,7 +1396,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229": {
@@ -1242,7 +1412,7 @@
     "is_us": true,
     "posted_date": "2026-02-07",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d": {
@@ -1258,7 +1428,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/f33b89ca-ad74-4a4f-8f15-06c64e954f4d": {
@@ -1274,7 +1444,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/f66613b6-9942-48ce-a553-c377e44d3118": {
@@ -1290,7 +1460,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/etched/f77c61ff-da01-42ce-9ad6-ab0facbccd5b": {
@@ -1306,7 +1476,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:34+00:00",
-    "last_seen": "2026-05-21T03:25:13+00:00",
+    "last_seen": "2026-05-21T05:39:32+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90": {
@@ -1322,7 +1492,7 @@
     "is_us": true,
     "posted_date": "2026-04-06",
     "first_seen": "2026-05-21T00:49:38+00:00",
-    "last_seen": "2026-05-21T03:25:17+00:00",
+    "last_seen": "2026-05-21T05:39:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9": {
@@ -1338,7 +1508,7 @@
     "is_us": true,
     "posted_date": "2026-04-27",
     "first_seen": "2026-05-21T00:49:38+00:00",
-    "last_seen": "2026-05-21T03:25:17+00:00",
+    "last_seen": "2026-05-21T05:39:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555": {
@@ -1354,7 +1524,7 @@
     "is_us": true,
     "posted_date": "2026-04-23",
     "first_seen": "2026-05-21T00:49:38+00:00",
-    "last_seen": "2026-05-21T03:25:17+00:00",
+    "last_seen": "2026-05-21T05:39:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a": {
@@ -1370,7 +1540,7 @@
     "is_us": true,
     "posted_date": "2026-04-24",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:21+00:00",
+    "last_seen": "2026-05-21T05:39:45+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f": {
@@ -1386,7 +1556,7 @@
     "is_us": true,
     "posted_date": "2026-04-24",
     "first_seen": "2026-05-21T00:49:41+00:00",
-    "last_seen": "2026-05-21T03:25:21+00:00",
+    "last_seen": "2026-05-21T05:39:45+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
@@ -1402,7 +1572,7 @@
     "is_us": true,
     "posted_date": "2025-08-07",
     "first_seen": "2026-05-21T00:49:39+00:00",
-    "last_seen": "2026-05-21T03:25:18+00:00",
+    "last_seen": "2026-05-21T05:39:42+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/sierra/c74d600c-235c-4d42-8546-b178b7adefc2": {
@@ -1418,7 +1588,7 @@
     "is_us": true,
     "posted_date": "2026-03-19",
     "first_seen": "2026-05-21T00:49:31+00:00",
-    "last_seen": "2026-05-21T03:25:11+00:00",
+    "last_seen": "2026-05-21T05:39:30+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7": {
@@ -1434,7 +1604,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-05-21T00:50:32+00:00",
-    "last_seen": "2026-05-21T03:26:29+00:00",
+    "last_seen": "2026-05-21T05:40:43+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244": {
@@ -1450,7 +1620,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481": {
@@ -1466,7 +1636,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487": {
@@ -1482,7 +1652,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472": {
@@ -1498,7 +1668,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336": {
@@ -1514,7 +1684,7 @@
     "is_us": true,
     "posted_date": "2026-05-01",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581": {
@@ -1530,7 +1700,7 @@
     "is_us": true,
     "posted_date": "2026-05-07",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971": {
@@ -1546,7 +1716,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398": {
@@ -1563,7 +1733,7 @@
     "is_us": true,
     "posted_date": "2026-05-07",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631": {
@@ -1579,7 +1749,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer---New-College-Grad-2026_JR2014331": {
@@ -1595,7 +1765,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108": {
@@ -1611,7 +1781,7 @@
     "is_us": true,
     "posted_date": "2026-05-15",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2016950": {
@@ -1627,7 +1797,7 @@
     "is_us": true,
     "posted_date": "2026-04-23",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Kernel-Software-Performance-Architect---New-College-Grad-2026_JR2011814": {
@@ -1643,7 +1813,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169": {
@@ -1659,7 +1829,7 @@
     "is_us": true,
     "posted_date": "2026-05-02",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1": {
@@ -1675,7 +1845,7 @@
     "is_us": true,
     "posted_date": "2026-05-11",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940": {
@@ -1691,7 +1861,7 @@
     "is_us": true,
     "posted_date": "2026-04-29",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001": {
@@ -1707,7 +1877,7 @@
     "is_us": true,
     "posted_date": "2026-04-25",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939": {
@@ -1723,7 +1893,7 @@
     "is_us": true,
     "posted_date": "2026-05-06",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1": {
@@ -1740,7 +1910,7 @@
     "is_us": true,
     "posted_date": "2026-05-14",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032": {
@@ -1757,7 +1927,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741": {
@@ -1773,7 +1943,7 @@
     "is_us": true,
     "posted_date": "2026-05-13",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signoff-Methodology-Engineer---New-College-Grad-2026_JR2014110": {
@@ -1789,7 +1959,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1": {
@@ -1805,7 +1975,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805": {
@@ -1821,7 +1991,7 @@
     "is_us": true,
     "posted_date": "2026-05-07",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745": {
@@ -1837,7 +2007,7 @@
     "is_us": true,
     "posted_date": "2026-04-25",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Robotics---Fall-2026_JR2009105-1": {
@@ -1853,7 +2023,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593": {
@@ -1869,7 +2039,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083": {
@@ -1885,7 +2055,7 @@
     "is_us": true,
     "posted_date": "2026-05-12",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787": {
@@ -1901,7 +2071,7 @@
     "is_us": true,
     "posted_date": "2026-04-21",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1": {
@@ -1917,7 +2087,7 @@
     "is_us": true,
     "posted_date": "2026-05-06",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183": {
@@ -1933,7 +2103,7 @@
     "is_us": true,
     "posted_date": "2026-05-15",
     "first_seen": "2026-05-21T00:49:24+00:00",
-    "last_seen": "2026-05-21T03:25:09+00:00",
+    "last_seen": "2026-05-21T05:39:24+00:00",
     "is_closed": false
   },
   "https://stripe.com/jobs/search?gh_jid=7216664": {
@@ -1950,7 +2120,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:36+00:00",
-    "last_seen": "2026-05-21T03:25:15+00:00",
+    "last_seen": "2026-05-21T05:39:35+00:00",
     "is_closed": false
   },
   "https://stripe.com/jobs/search?gh_jid=7874965": {
@@ -1967,7 +2137,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-05-21T00:49:36+00:00",
-    "last_seen": "2026-05-21T03:25:15+00:00",
+    "last_seen": "2026-05-21T05:39:35+00:00",
     "is_closed": false
   },
   "https://www.pinterestcareers.com/jobs/?gh_jid=7253017": {
@@ -1984,7 +2154,7 @@
     "is_us": true,
     "posted_date": "2026-05-14",
     "first_seen": "2026-05-21T00:49:47+00:00",
-    "last_seen": "2026-05-21T03:25:38+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
     "is_closed": false
   },
   "https://www.pinterestcareers.com/jobs/?gh_jid=7255640": {
@@ -2001,7 +2171,97 @@
     "is_us": true,
     "posted_date": "2026-05-14",
     "first_seen": "2026-05-21T00:49:47+00:00",
-    "last_seen": "2026-05-21T03:25:38+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158009": {
+    "title": "Graduate 2026 Software Engineer I, US",
+    "company": "Uber",
+    "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-21T05:39:50+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158011": {
+    "title": "Graduate 2026 Software Engineer I, Mobile (iOS)",
+    "company": "Uber",
+    "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-27",
+    "first_seen": "2026-05-21T05:39:50+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158037": {
+    "title": "Graduate 2026 Software Engineer I, Mobile (Android)",
+    "company": "Uber",
+    "location": "Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-27",
+    "first_seen": "2026-05-21T05:39:50+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158984": {
+    "title": "Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations",
+    "company": "Uber",
+    "location": "Seattle, Washington, United States",
+    "department": "Data Science",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "PhD"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T05:39:50+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/159120": {
+    "title": "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
+    "company": "Uber",
+    "location": "San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "PhD"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-21T05:39:50+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/159161": {
+    "title": "2026 Fall Software Engineering Internship, US",
+    "company": "Uber",
+    "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-21T05:39:50+00:00",
+    "last_seen": "2026-05-21T05:39:50+00:00",
     "is_closed": false
   }
 }

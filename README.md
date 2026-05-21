@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 125
-- **All-time tracked:** 125
-- **Active companies:** 53
-- **Last updated:** `2026-05-21 03:26 UTC`
+- **Open positions:** 142
+- **All-time tracked:** 142
+- **Active companies:** 63
+- **Last updated:** `2026-05-21 05:41 UTC`
 
 ## Legend
 
@@ -31,6 +31,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| Uber | Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations 🇺🇸 | Seattle, Washington, United States | PhD | [Apply](https://www.uber.com/careers/list/158984) | May 20, 2026 |
+| Uber | Graduate 2026 PhD Software Engineer II (AV Labs), United States 🇺🇸 | San Francisco, California, United States / Sunnyvale, California, United States | PhD | [Apply](https://www.uber.com/careers/list/159120) | May 20, 2026 |
 | Roblox | [2026] Applied Scientist - PhD Intern 🇺🇸 | San Mateo, CA, United States | PhD, Intern | [Apply](https://careers.roblox.com/jobs/7142298?gh_jid=7142298) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Social - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7463634?gh_jid=7463634) | May 20, 2026 |
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | - | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
@@ -98,7 +100,9 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Signal and Power Integrity Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741) | May 13, 2026 |
 | Adobe | 2026 Intern - Data Scientist 🇺🇸 | San Jose | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453) | May 12, 2026 |
 | Nvidia | Systems Software Engineer - New College Grad 2026 🇺🇸 | US, OR, Hillsboro | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) | May 12, 2026 |
+| Point72 | Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – US) 🇺🇸 | Chicago, Florida, New York, San Francisco | - | [Apply](https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002) | May 11, 2026 |
 | Nvidia | GPU System and Scheduling Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1) | May 11, 2026 |
+| Uber | 2026 Fall Software Engineering Internship, US 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | Intern | [Apply](https://www.uber.com/careers/list/159161) | May 08, 2026 |
 | Snowflake | Software Engineer Intern (Security) - Fall 2026 🇺🇸 | US-CA-Menlo Park | Intern | [Apply](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) | May 08, 2026 |
 | Nvidia | ASIC Floorplan Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971) | May 08, 2026 |
 | Nvidia | GPU Verification Engineer - New College Grad 2026 🇺🇸 | US, MA, Westford | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593) | May 08, 2026 |
@@ -115,6 +119,8 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336) | May 01, 2026 |
 | Nvidia | Hardware Applications Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940) | Apr 29, 2026 |
 | Airbnb | iOS Software Engineer, Airbnb - New Grad 🇺🇸 | San Francisco, CA, Seattle, WA | New Grad | [Apply](https://careers.airbnb.com/positions/7859317?gh_jid=7859317) | Apr 28, 2026 |
+| Uber | Graduate 2026 Software Engineer I, Mobile (Android) 🇺🇸 | Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158037) | Apr 27, 2026 |
+| Uber | Graduate 2026 Software Engineer I, Mobile (iOS) 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158011) | Apr 27, 2026 |
 | Notion | Software Engineer, New Grad (AI) 🇺🇸 | San Francisco, California | New Grad | [Apply](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | Apr 27, 2026 |
 | Figure AI | Electrical Engineering Intern [Fall 2026] 🇺🇸 | San Jose, CA | Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) | Apr 25, 2026 |
 | Figure AI | Electrical Interconnect Engineering Intern [Fall 2026] 🇺🇸 | San Jose, CA | Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676468006) | Apr 25, 2026 |
@@ -139,10 +145,21 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Signoff Methodology Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signoff-Methodology-Engineer---New-College-Grad-2026_JR2014110) | Apr 21, 2026 |
 | Nvidia | SoC ASIC Verification Engineer – New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1) | Apr 21, 2026 |
 | Nvidia | ASIC Hardware Design Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787) | Apr 21, 2026 |
+| Point72 | Summer 2027 Quantitative Developer Internship 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) | Apr 13, 2026 |
+| Point72 | Summer 2027 Quantitative Research Internship 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | Apr 13, 2026 |
 | Etched | DFT Intern - Summer 2026 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | Apr 13, 2026 |
+| Uber | Graduate 2026 Software Engineer I, US 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158009) | Apr 09, 2026 |
+| Point72 | Point72 Academy 2026-2027 Investment Analyst Program for Experienced Professionals - US 🇺🇸 | Chicago, Florida, New York, San Francisco | - | [Apply](https://boards.greenhouse.io/point72/jobs/8499113002?gh_jid=8499113002) | Apr 09, 2026 |
 | Databricks | PhD GenAI Research Scientist Intern 🇺🇸 | San Francisco, California | PhD, Intern | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | Apr 09, 2026 |
 | Notion | Software Engineer Intern (Fall 2026) 🇺🇸 | San Francisco, California | Intern | [Apply](https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90) | Apr 06, 2026 |
 | Etched | Technical Recruiter (Entry Level) 🇺🇸 | San Jose | New Grad | [Apply](https://jobs.ashbyhq.com/etched/06398761-0950-4e5c-8590-26f485ba5509) | Apr 02, 2026 |
+| Point72 | Machine Learning Researcher - Intern 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | Mar 31, 2026 |
+| Point72 | Quantitative Developer Intern 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | Mar 31, 2026 |
+| Point72 | Quantitative Portfolio Analyst – 2026 Grad 🇺🇸 | New York, New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002) | Mar 31, 2026 |
+| Point72 | Quantitative Researcher Intern 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) | Mar 31, 2026 |
+| Point72 | Quantitative Research Intern 🇺🇸 | New York, Seattle | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) | Mar 31, 2026 |
+| Point72 | Quantitative Research Intern (NLP) 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) | Mar 31, 2026 |
+| Point72 | Quantitative Software Developer Intern 🇺🇸 | New York, London, or Paris | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) | Mar 31, 2026 |
 | Figure AI | Hardware Reliability Intern [Summer 2026] 🇺🇸 | San Jose, CA | Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Mar 31, 2026 |
 | Sierra | Intern, Agent Development (Fall 2026) 🇺🇸 | San Francisco, CA | Intern | [Apply](https://jobs.ashbyhq.com/sierra/c74d600c-235c-4d42-8546-b178b7adefc2) | Mar 19, 2026 |
 | Etched | RTL Intern - Fall 2026 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | Feb 07, 2026 |
