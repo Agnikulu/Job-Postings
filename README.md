@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 428
-- **All-time tracked:** 592
+- **Open positions:** 427
+- **All-time tracked:** 597
 - **Active companies:** 79
-- **Last updated:** `2026-05-22 19:52 UTC`
+- **Last updated:** `2026-05-22 20:50 UTC`
 
 ## Legend
 
@@ -31,11 +31,12 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| Rippling | Software Engineer II, Backend Full Stack - Spend Product 🇺🇸 | New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/5b4e74c8-6493-44cb-98fe-2344b4fcd6b5) | May 22, 2026 |
+| Nvidia | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=0tLdd8853E%2FeORlMcmY%2FRw%3D%3D&trackingId=gsEiyYSQFQ1u8hT3ocd0JA%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=5&refId=XyOarnUfLtP27ygANFwmyw%3D%3D&trackingId=WYhGhOp721d%2FVs2XP4K8Tg%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=NZouDEhNLbsXiTYLVhGRMA%3D%3D&trackingId=XwBu8kZq4qYv7LFCFuLzsw%3D%3D) | May 22, 2026 |
 | Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Remote | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=10&pageNum=4&refId=M7%2Fz%2FHxqzG%2BJlKX9%2BCp3uQ%3D%3D&trackingId=Rp3vP6r2XNNzfg%2Fj7H7vnQ%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=HsXDKZuFncWIyjsDTMaHIg%3D%3D&trackingId=sgGUcIeJuAOSH5rsDmjNjw%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=WIgWKmWJcRgWcEi2SKgLAA%3D%3D&trackingId=AUuoAhR4kHqF4ySJB2rXoQ%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=9&refId=fTfjQPm3BsMDyr9v8RZknQ%3D%3D&trackingId=xfTt2B%2BBOC9CIgkR%2F8bgLQ%3D%3D) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556861512) | May 22, 2026 |
 | Scale AI | Mission Software Engineer, Public Sector 🇺🇸 | Colorado Springs, CO<br>Honolulu, HI<br>St. Louis, MO<br>Washington, DC | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4481921005) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556761675) | May 22, 2026 |
@@ -48,12 +49,12 @@ how to fork, how to add companies, and how filtering works.
 | Uber | Software Engineer II - Michelangelo 🇺🇸 | Seattle, Washington, United States / Sunnyvale, California, United States | PhD, Masters | [Apply](https://www.uber.com/careers/list/158931) | May 22, 2026 |
 | Rippling | Software Engineer II, Backend - Platform Team 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d) | May 22, 2026 |
 | Rippling | Software Engineer II, Backend Full Stack - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/6d996cf7-a72f-40e6-b617-892139f81a2a) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - Financial Product 🇺🇸 | New York, NY / San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend Full Stack - Financial Product 🇺🇸 | San Francisco, CA / New York, NY / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/b8488190-09b1-4506-9194-726939df73bd) | May 22, 2026 |
-| Rippling | Security Engineer II, Offensive Security 🇺🇸 | Seattle, WA / New York, NY / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/e6a1faf6-a9ae-456b-b2a1-009844934956) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - IT Product 🇺🇸 | New York, NY / San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75) | May 22, 2026 |
-| Rippling | Software Engineer II, Frontend Full Stack - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/f64fe029-c299-4ace-9e28-1837a6db1604) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - Financial Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend Full Stack - Financial Product 🇺🇸 | San Francisco, CA / Seattle, WA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/b8488190-09b1-4506-9194-726939df73bd) | May 22, 2026 |
+| Rippling | Security Engineer II, Offensive Security 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/e6a1faf6-a9ae-456b-b2a1-009844934956) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - IT Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75) | May 22, 2026 |
+| Rippling | Software Engineer II, Frontend Full Stack - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/f64fe029-c299-4ace-9e28-1837a6db1604) | May 22, 2026 |
 | Palantir | Forward Deployed Software Engineer - Warp Speed 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | Washington, D.C. | - | [Apply](https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | Palo Alto, CA | - | [Apply](https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb) | May 22, 2026 |
@@ -262,7 +263,6 @@ how to fork, how to add companies, and how filtering works.
 | Uber | Software Engineer II 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/158660) | May 14, 2026 |
 | Uber | Software Engineer I 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/158657) | May 14, 2026 |
 | Uber | Software Engineer II 🇺🇸 | San Francisco, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/158661) | May 14, 2026 |
-| Reddit | iOS Software Engineer, Contributions 🇺🇸 | Remote - United States | Bachelors, Intern | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7896378) | May 14, 2026 |
 | Pinterest | Software Engineer II, Simulation, tvScientific 🇺🇸 | San Francisco, CA, US<br>Remote, US | - | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7642265) | May 14, 2026 |
 | Pinterest | Software Engineer II, Backend, tvScientific 🇺🇸 | San Francisco, CA, US<br>Remote, US | Bachelors | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782552) | May 14, 2026 |
 | Pinterest | Software Engineer II, ML Platform, tvScientific 🇺🇸 | San Francisco, CA, US<br>Remote, US | Masters | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782571) | May 14, 2026 |
@@ -413,7 +413,6 @@ how to fork, how to add companies, and how filtering works.
 | Anthropic | Software Engineer, Human Data Interface 🇺🇸 | San Francisco, CA \| New York City, NY | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5109273008) | Apr 03, 2026 |
 | Uber | Software Engineer II - Discovery and Monetization 🇺🇸 | New York, New York, United States / San Francisco, California, United States / Sunnyvale, California, United States | Masters | [Apply](https://www.uber.com/careers/list/157638) | Apr 02, 2026 |
 | Anthropic | Software Engineer, Sandboxing (Systems) 🇺🇸 | San Francisco, CA \| New York City, NY | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5025591008) | Apr 01, 2026 |
-| Figure AI | Hardware Reliability Intern [Summer 2026] 🇺🇸 | San Jose, CA | Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Mar 31, 2026 |
 | Benchling | Software Engineer, Developer Platform 🇺🇸 | San Francisco, CA | Masters, Intern | [Apply](https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b) | Mar 27, 2026 |
 | Uber | Software Engineer II - Machine Learning, Marketplace/Maps/Membership/AV 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | PhD, Masters, Bachelors | [Apply](https://www.uber.com/careers/list/153473) | Mar 25, 2026 |
 | Sierra | Intern, Agent Development (Fall 2026) 🇺🇸 | San Francisco, CA | Intern | [Apply](https://jobs.ashbyhq.com/sierra/c74d600c-235c-4d42-8546-b178b7adefc2) | Mar 19, 2026 |
@@ -462,11 +461,15 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (164)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (170)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
@@ -516,6 +519,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Etched~~ | ~~Finance Intern - Fall 2026 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Finance Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
 | ~~Nvidia~~ | ~~Technical Marketing Engineering Intern, Robotics - Fall 2026 🇺🇸~~ | US, CA, Santa Clara | Intern | Closed | May 18, 2026 |
+| ~~Reddit~~ | ~~iOS Software Engineer, Contributions 🇺🇸~~ | Remote - United States | Bachelors, Intern | Closed | May 14, 2026 |
 | ~~Microsoft~~ | ~~Critical Environment Technician Intern 🇺🇸~~ | Middenmeer, NH, NL | Intern | Closed | May 14, 2026 |
 | ~~Lambda Labs~~ | ~~Capital Markets & Corporate Development Intern - Summer 2026 🇺🇸~~ | San Francisco Office (Fremont St) | Intern | Closed | May 14, 2026 |
 | ~~Microsoft~~ | ~~Cambridge Internship: Novel Light Source Design 🇺🇸~~ | Cambridge, England, GB | Intern | Closed | May 13, 2026 |
@@ -550,6 +554,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Microsoft~~ | ~~Research Intern - Applied Power Systems Analysis 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Apr 03, 2026 |
 | ~~Etched~~ | ~~Technical Recruiter (Entry Level) 🇺🇸~~ | San Jose | New Grad | Closed | Apr 02, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Foundation Models and Agentic Systems 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Apr 01, 2026 |
+| ~~Figure AI~~ | ~~Hardware Reliability Intern [Summer 2026] 🇺🇸~~ | San Jose, CA | Intern | Closed | Mar 31, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - AI Safety and Security 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Mar 05, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Cryptography and Applications 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Feb 20, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Azure Storage 🇺🇸~~ | Redmond, WA, US / Mountain View, CA, US | Intern | Closed | Feb 06, 2026 |
