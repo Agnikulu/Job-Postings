@@ -48,10 +48,13 @@ jobs:
         run: |
           git config user.name "ats-sniper-bot"
           git config user.email "ats-sniper-bot@users.noreply.github.com"
+          git fetch origin main
           git add seen_jobs.json company_stats.json jobs_archive.json latest_jobs.md README.md
           if git diff --staged --quiet; then
             echo "No state changes to commit."
           else
             git commit -m "chore: update state files [skip ci]"
-            git push
+            # Rebase onto latest main if a human push landed during the long scrape.
+            git pull --rebase origin main
+            git push origin main
           fi
