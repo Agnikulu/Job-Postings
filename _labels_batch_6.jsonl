@@ -1,50 +1,659 @@
-{"url": "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995", "manual_include": true, "manual_reason": "Database engineering SWE; 2+ years min within early-career band"}
-{"url": "https://www.mongodb.com/careers/job/?gh_jid=7816135", "manual_include": false, "manual_reason": "Software Engineer 3 query role; requires 3+ years experience"}
-{"url": "https://www.mongodb.com/careers/job/?gh_jid=7172630", "manual_include": false, "manual_reason": "Commercial growth account executive sales role, not technical engineering"}
-{"url": "https://www.mongodb.com/careers/job/?gh_jid=7779598", "manual_include": false, "manual_reason": "Software Engineer 3 mid-level IC title; no intern/new-grad or 0-2 year signals"}
-{"url": "https://job-boards.greenhouse.io/discord/jobs/8487457002", "manual_include": true, "manual_reason": "Database infrastructure SWE; 2-4 years required with 2-year minimum"}
-{"url": "https://job-boards.greenhouse.io/discord/jobs/8475544002", "manual_include": true, "manual_reason": "Safety experience SWE; 2+ years backend/full-stack engineering"}
-{"url": "https://job-boards.greenhouse.io/discord/jobs/8447216002", "manual_include": false, "manual_reason": "Data scientist analytics; requires 3+ years experience minimum"}
-{"url": "https://job-boards.greenhouse.io/discord/jobs/8485778002", "manual_include": false, "manual_reason": "Embedded data specialist ops/analytics role; no early-career or core SWE/DS signals"}
-{"url": "https://job-boards.greenhouse.io/reddit/jobs/7896378", "manual_include": false, "manual_reason": "iOS SWE requires minimum 3+ years post-internship experience"}
-{"url": "https://www.linkedin.com/jobs/view/nurse-practitioner-registered-nurse-ai-trainer-%2480-%24100-hour-at-linkedin-4416185511?position=6&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=NcleVXn3msD90JG8u%2B9WfA%3D%3D", "manual_include": false, "manual_reason": "Nurse practitioner/RN AI trainer gig; healthcare not SWE/DS/ML engineering"}
-{"url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-systems-infrastructure-core-infra-at-linkedin-4410704806?position=9&pageNum=6&refId=I7EnYGoX2vtnAWyLU138Mg%3D%3D&trackingId=F103mCEvnr9aoiAtvG8D6Q%3D%3D", "manual_include": false, "manual_reason": "Distinguished software engineer; principal/staff-level senior IC"}
-{"url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-systems-infrastructure-core-infra-at-linkedin-4410743927?position=7&pageNum=7&refId=rbnaW9sN%2FJ5M%2BVN%2F6JqzOA%3D%3D&trackingId=EBqcSjcmDDkGmmBD48ykjA%3D%3D", "manual_include": false, "manual_reason": "Distinguished software engineer; principal/staff-level senior IC"}
-{"url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-english-and-japanese-speaking-%24100-hour-at-linkedin-4416902174?position=5&pageNum=5&refId=kPNKsuHLOSTrJGHvbk7j1g%3D%3D&trackingId=T4I2XMaOOyrZNYAhnVHspw%3D%3D", "manual_include": false, "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"}
-{"url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-english-and-thai-speaking-%24100-hour-at-linkedin-4416057667?position=2&pageNum=5&refId=kPNKsuHLOSTrJGHvbk7j1g%3D%3D&trackingId=hF4TJMrOF%2BoZ9OQeD0wZpA%3D%3D", "manual_include": false, "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"}
-{"url": "https://www.linkedin.com/jobs/view/power-apps-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4416344587?position=6&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=qDcBl13LlThnOqW7HG6L4w%3D%3D", "manual_include": false, "manual_reason": "Power Apps AI trainer hourly gig, not SWE/DS/ML engineering hire"}
-{"url": "https://www.linkedin.com/jobs/view/software-engineer-ai-trainer-english-indonesian-speaking-%24100-hour-at-linkedin-4415552675?position=9&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=uOzB9NBs0CUKdDhRqwf48Q%3D%3D", "manual_include": false, "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"}
-{"url": "https://www.linkedin.com/jobs/view/power-automate-ai-trainer-%2465-%2475-hour-at-linkedin-4415966439?position=4&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=AEVrAqqnuiw1NL%2F%2BArAyKA%3D%3D", "manual_include": false, "manual_reason": "Power Automate AI trainer hourly gig, not SWE/DS/ML engineering hire"}
-{"url": "https://www.linkedin.com/jobs/view/excel-supply-chain-ai-trainer-%2490-%24100-hour-at-linkedin-4414132728?position=8&pageNum=0&refId=2H9ZEC32Q0uOqh25H2w8vQ%3D%3D&trackingId=yAmAeJPZtahitTypPzYZ8Q%3D%3D", "manual_include": false, "manual_reason": "Excel/supply-chain AI trainer gig, not core technical engineering"}
-{"url": "https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=7&pageNum=4&refId=sIXDjJy3AfKs%2B5KFOScAJQ%3D%3D&trackingId=HTYK0o37JMAcoq2PA9O1ug%3D%3D", "manual_include": true, "manual_reason": "Fellow software engineering infrastructure; early-career technical fellowship"}
-{"url": "https://www.linkedin.com/jobs/view/dataverse-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414704494?position=4&pageNum=0&refId=2H9ZEC32Q0uOqh25H2w8vQ%3D%3D&trackingId=iP%2BJFoILwpbIa2wYcxRvoA%3D%3D", "manual_include": false, "manual_reason": "Dataverse AI trainer hourly gig, not SWE/DS/ML engineering hire"}
-{"url": "https://www.linkedin.com/jobs/view/software-engineering-ai-trainer-%24100-hour-at-linkedin-4412142793?position=9&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=NL1QPt8gTWvCPV7sLUY8IQ%3D%3D", "manual_include": false, "manual_reason": "Hourly AI trainer contract gig, not full-time early-career SWE role"}
-{"url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-llm-system-prompt-development-ai-trainer-%2450%E2%80%93%2460-hour-at-linkedin-4409989407?position=7&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=nRHHram13c%2BsNsGdKlhOBg%3D%3D", "manual_include": false, "manual_reason": "LLM prompt-development AI trainer hourly gig, not full-time SWE hire"}
-{"url": "https://www.linkedin.com/jobs/view/distinguished-software-engineer-machine-learning-growth-at-linkedin-4410712671?position=10&pageNum=6&refId=I7EnYGoX2vtnAWyLU138Mg%3D%3D&trackingId=9SNh%2B9yNT8smk3D87w%2FL3A%3D%3D", "manual_include": false, "manual_reason": "Distinguished ML software engineer; principal/staff-level senior IC"}
-{"url": "https://www.linkedin.com/jobs/view/copilot-studio-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414485682?position=5&pageNum=1&refId=K0ERsfC20VEf%2BgtzUU%2FgAg%3D%3D&trackingId=fUsJZKa%2BPiHON3q0CX8fpw%3D%3D", "manual_include": false, "manual_reason": "Copilot Studio AI trainer hourly gig, not SWE/DS/ML engineering hire"}
-{"url": "https://www.linkedin.com/jobs/view/power-platform-administrator-ai-trainer-%2475%E2%80%93%2485-hour-at-linkedin-4409990289?position=2&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=eLHA7GasUcbXn4STZe%2FNwA%3D%3D", "manual_include": false, "manual_reason": "Power Platform administrator AI trainer gig, not SWE/DS/ML hire"}
-{"url": "https://www.linkedin.com/jobs/view/power-platform-admin-center-ai-trainer-%2465%E2%80%93%2475-hour-at-linkedin-4414492635?position=3&pageNum=3&refId=PfTgnz7Etk7w4ghyfen%2F4g%3D%3D&trackingId=XTUYMckfzZU3uph8%2BHIcoQ%3D%3D", "manual_include": false, "manual_reason": "Power Platform admin-center AI trainer gig, not SWE/DS/ML hire"}
-{"url": "https://www.linkedin.com/jobs/view/computer-information-systems-ai-trainer-%24100-%24150-hour-at-linkedin-4410858553?position=4&pageNum=2&refId=wryOf2wFlD%2FuxzBQht4zZg%3D%3D&trackingId=WlarVRnOBsz8bJXeo6x9DA%3D%3D", "manual_include": false, "manual_reason": "Computer/information systems AI trainer hourly gig, not full-time SWE hire"}
-{"url": "https://job-boards.greenhouse.io/doordashusa/jobs/5516835", "manual_include": true, "manual_reason": "Fraud ML software engineer; 2+ years ML/SWE within early-career band"}
-{"url": "https://job-boards.greenhouse.io/doordashusa/jobs/7684688", "manual_include": false, "manual_reason": "Customer experience data & strategy associate; CX/ops analytics not core SWE/DS/ML"}
-{"url": "https://careers.blackline.com/careers-home/jobs/7049", "manual_include": false, "manual_reason": "Generic software engineer; no description, no early-career signals"}
-{"url": "https://careers.blackline.com/careers-home/jobs/7076", "manual_include": false, "manual_reason": "Generic software engineer; no description, no early-career signals"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315989769", "manual_include": false, "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315989769", "manual_include": false, "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003628", "manual_include": false, "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003628", "manual_include": false, "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003628", "manual_include": false, "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315857851", "manual_include": false, "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315857851", "manual_include": false, "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315989769", "manual_include": false, "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003395", "manual_include": false, "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315989769", "manual_include": false, "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315857851", "manual_include": false, "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315857851", "manual_include": false, "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"}
+{"url": "https://careers.roblox.com/jobs/7557909?gh_jid=7557909", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://careers.roblox.com/jobs/7832171?gh_jid=7832171", "manual_include": false, "manual_reason": "Non-technical role (Public Policy)"}
+{"url": "https://careers.roblox.com/jobs/7813041?gh_jid=7813041", "manual_include": false, "manual_reason": "Non-technical role (Localization Program)"}
+{"url": "https://careers.roblox.com/jobs/7473686?gh_jid=7473686", "manual_include": true, "manual_reason": "[2026] PhD Early Career ML; pursuing PhD, explicit new-grad track despite Senior title"}
+{"url": "https://careers.roblox.com/jobs/7733855?gh_jid=7733855", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7904238?gh_jid=7904238", "manual_include": false, "manual_reason": "Non-technical role (Education Policy)"}
+{"url": "https://careers.roblox.com/jobs/7886349?gh_jid=7886349", "manual_include": false, "manual_reason": "Non-technical role (Support Escalations)"}
+{"url": "https://careers.roblox.com/jobs/7283870?gh_jid=7283870", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7561736?gh_jid=7561736", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7897876?gh_jid=7897876", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7831044?gh_jid=7831044", "manual_include": false, "manual_reason": "Non-technical role (Social Media Analyst)"}
+{"url": "https://careers.roblox.com/jobs/7684162?gh_jid=7684162", "manual_include": false, "manual_reason": "Non-technical role (Editor)"}
+{"url": "https://careers.roblox.com/jobs/7716688?gh_jid=7716688", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.roblox.com/jobs/7896061?gh_jid=7896061", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7655813?gh_jid=7655813", "manual_include": false, "manual_reason": "Senior/experienced title (Tech Lead Manager)"}
+{"url": "https://careers.roblox.com/jobs/7909802?gh_jid=7909802", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.roblox.com/jobs/7931525?gh_jid=7931525", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7788918?gh_jid=7788918", "manual_include": false, "manual_reason": "Non-technical role (Brand Designer)"}
+{"url": "https://careers.roblox.com/jobs/7616345?gh_jid=7616345", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7923586?gh_jid=7923586", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7839207?gh_jid=7839207", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7309267?gh_jid=7309267", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7776654?gh_jid=7776654", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7903021?gh_jid=7903021", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7931896?gh_jid=7931896", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://careers.roblox.com/jobs/7819841?gh_jid=7819841", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.roblox.com/jobs/7932208?gh_jid=7932208", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.roblox.com/jobs/7740354?gh_jid=7740354", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7779304?gh_jid=7779304", "manual_include": false, "manual_reason": "Requires 18+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7816258?gh_jid=7816258", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7528070?gh_jid=7528070", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7923268?gh_jid=7923268", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7514942?gh_jid=7514942", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7848812?gh_jid=7848812", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7185278?gh_jid=7185278", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7565086?gh_jid=7565086", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7682993?gh_jid=7682993", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7808950?gh_jid=7808950", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.roblox.com/jobs/7411636?gh_jid=7411636", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7894481?gh_jid=7894481", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7323437?gh_jid=7323437", "manual_include": true, "manual_reason": "[2026] PhD Early Career ML/CV; pursuing PhD, explicit new-grad track despite Senior title"}
+{"url": "https://careers.roblox.com/jobs/7913706?gh_jid=7913706", "manual_include": false, "manual_reason": "Non-technical role (Video Editor)"}
+{"url": "https://careers.roblox.com/jobs/7569608?gh_jid=7569608", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7651420?gh_jid=7651420", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7605764?gh_jid=7605764", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7940279?gh_jid=7940279", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://careers.roblox.com/jobs/7409707?gh_jid=7409707", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7838662?gh_jid=7838662", "manual_include": false, "manual_reason": "Non-technical role (General Manager)"}
+{"url": "https://careers.roblox.com/jobs/7543730?gh_jid=7543730", "manual_include": false, "manual_reason": "Non-technical role (Learning and Coaching)"}
+{"url": "https://careers.roblox.com/jobs/7758770?gh_jid=7758770", "manual_include": false, "manual_reason": "Non-technical role (Product Counsel)"}
+{"url": "https://careers.roblox.com/jobs/7392981?gh_jid=7392981", "manual_include": false, "manual_reason": "Non-technical role (Product Policy)"}
+{"url": "https://careers.roblox.com/jobs/7744272?gh_jid=7744272", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7826403?gh_jid=7826403", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7793685?gh_jid=7793685", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7561743?gh_jid=7561743", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7793925?gh_jid=7793925", "manual_include": false, "manual_reason": "Non-technical role (Workday Compensation)"}
+{"url": "https://careers.roblox.com/jobs/7473601?gh_jid=7473601", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7702696?gh_jid=7702696", "manual_include": false, "manual_reason": "Non-technical role (Finance Business Partner)"}
+{"url": "https://careers.roblox.com/jobs/7841812?gh_jid=7841812", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://careers.roblox.com/jobs/7862734?gh_jid=7862734", "manual_include": false, "manual_reason": "Non-technical role (Design Program Manager)"}
+{"url": "https://careers.roblox.com/jobs/7926169?gh_jid=7926169", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.roblox.com/jobs/7859569?gh_jid=7859569", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858", "manual_include": true, "manual_reason": "SkillBridge Information Security Fellowship — technical security engineering training program"}
+{"url": "https://careers.roblox.com/jobs/7785852?gh_jid=7785852", "manual_include": false, "manual_reason": "Non-technical role (Vendor Assurance)"}
+{"url": "https://careers.roblox.com/jobs/7792862?gh_jid=7792862", "manual_include": false, "manual_reason": "Non-technical role (Workforce Management)"}
+{"url": "https://careers.roblox.com/jobs/7813127?gh_jid=7813127", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.roblox.com/jobs/7769510?gh_jid=7769510", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7809292?gh_jid=7809292", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.roblox.com/jobs/7779120?gh_jid=7779120", "manual_include": false, "manual_reason": "Non-technical role (Product Counsel)"}
+{"url": "https://careers.roblox.com/jobs/7629843?gh_jid=7629843", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7783533?gh_jid=7783533", "manual_include": false, "manual_reason": "Non-technical role (Product Support)"}
+{"url": "https://careers.roblox.com/jobs/7698330?gh_jid=7698330", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7595328?gh_jid=7595328", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://careers.roblox.com/jobs/7351059?gh_jid=7351059", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.roblox.com/jobs/7889259?gh_jid=7889259", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7719252?gh_jid=7719252", "manual_include": false, "manual_reason": "Non-technical role (App Store Manager)"}
+{"url": "https://careers.roblox.com/jobs/7617984?gh_jid=7617984", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.roblox.com/jobs/7913665?gh_jid=7913665", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://careers.airbnb.com/positions/7417294?gh_jid=7417294", "manual_include": false, "manual_reason": "Non-technical role (Spécialiste)"}
+{"url": "https://careers.airbnb.com/positions/7453190?gh_jid=7453190", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7559316?gh_jid=7559316", "manual_include": false, "manual_reason": "Non-technical role (Specialist, Premium)"}
+{"url": "https://careers.airbnb.com/positions/7946288?gh_jid=7946288", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7774717?gh_jid=7774717", "manual_include": false, "manual_reason": "Non-technical role (Market Lead)"}
+{"url": "https://careers.airbnb.com/positions/7107054?gh_jid=7107054", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7793861?gh_jid=7793861", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7892069?gh_jid=7892069", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7907839?gh_jid=7907839", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7912953?gh_jid=7912953", "manual_include": false, "manual_reason": "Non-technical role (Aircover Specialist)"}
+{"url": "https://careers.airbnb.com/positions/7945163?gh_jid=7945163", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7417293?gh_jid=7417293", "manual_include": false, "manual_reason": "Non-technical role (Specialist, Safety)"}
+{"url": "https://careers.airbnb.com/positions/7551863?gh_jid=7551863", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7916842?gh_jid=7916842", "manual_include": false, "manual_reason": "Non-technical role (Premium Support)"}
+{"url": "https://careers.airbnb.com/positions/7943874?gh_jid=7943874", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7822781?gh_jid=7822781", "manual_include": false, "manual_reason": "Non-technical role (Business Operations)"}
+{"url": "https://careers.airbnb.com/positions/7920760?gh_jid=7920760", "manual_include": false, "manual_reason": "Non-technical role (Tax )"}
+{"url": "https://careers.airbnb.com/positions/7867052?gh_jid=7867052", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/6153760?gh_jid=6153760", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://careers.airbnb.com/positions/7724155?gh_jid=7724155", "manual_include": false, "manual_reason": "Non-technical role (Operations Data)"}
+{"url": "https://careers.airbnb.com/positions/7768427?gh_jid=7768427", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/7774948?gh_jid=7774948", "manual_include": false, "manual_reason": "Non-technical role (Market Manager)"}
+{"url": "https://careers.airbnb.com/positions/7326051?gh_jid=7326051", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://careers.airbnb.com/positions/7789554?gh_jid=7789554", "manual_include": false, "manual_reason": "Non-technical role (Legal Counsel)"}
+{"url": "https://careers.airbnb.com/positions/7814357?gh_jid=7814357", "manual_include": false, "manual_reason": "Non-technical role (Public Policy)"}
+{"url": "https://careers.airbnb.com/positions/7918327?gh_jid=7918327", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7581839?gh_jid=7581839", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7870802?gh_jid=7870802", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.airbnb.com/positions/7733462?gh_jid=7733462", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7433769?gh_jid=7433769", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.airbnb.com/positions/7747440?gh_jid=7747440", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/6602436?gh_jid=6602436", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7450356?gh_jid=7450356", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/7613446?gh_jid=7613446", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.airbnb.com/positions/7923023?gh_jid=7923023", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/7926527?gh_jid=7926527", "manual_include": false, "manual_reason": "Senior/experienced title (Sr )"}
+{"url": "https://careers.airbnb.com/positions/7668022?gh_jid=7668022", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7712903?gh_jid=7712903", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://careers.airbnb.com/positions/7672101?gh_jid=7672101", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7881261?gh_jid=7881261", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7840101?gh_jid=7840101", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7755758?gh_jid=7755758", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7920440?gh_jid=7920440", "manual_include": false, "manual_reason": "Non-technical role (Market Manager)"}
+{"url": "https://careers.airbnb.com/positions/7463663?gh_jid=7463663", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7929555?gh_jid=7929555", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.airbnb.com/positions/7944540?gh_jid=7944540", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://careers.airbnb.com/positions/7721155?gh_jid=7721155", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7778757?gh_jid=7778757", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://careers.airbnb.com/positions/7094964?gh_jid=7094964", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7881559?gh_jid=7881559", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.airbnb.com/positions/7946318?gh_jid=7946318", "manual_include": false, "manual_reason": "Non-technical role (Specialist, Premium)"}
+{"url": "https://careers.airbnb.com/positions/7568067?gh_jid=7568067", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7684833?gh_jid=7684833", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7732569?gh_jid=7732569", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7559568?gh_jid=7559568", "manual_include": false, "manual_reason": "Non-technical role (Specialist, Premium)"}
+{"url": "https://careers.airbnb.com/positions/7556586?gh_jid=7556586", "manual_include": false, "manual_reason": "Non-technical role (Specialist, Premium)"}
+{"url": "https://careers.airbnb.com/positions/7903258?gh_jid=7903258", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7551565?gh_jid=7551565", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7528577?gh_jid=7528577", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/7944579?gh_jid=7944579", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.airbnb.com/positions/7602172?gh_jid=7602172", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7905365?gh_jid=7905365", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.airbnb.com/positions/7866313?gh_jid=7866313", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.airbnb.com/positions/7821646?gh_jid=7821646", "manual_include": false, "manual_reason": "Requires 6+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7857385?gh_jid=7857385", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://careers.airbnb.com/positions/7817598?gh_jid=7817598", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.airbnb.com/positions/7767673?gh_jid=7767673", "manual_include": false, "manual_reason": "Requires 12+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7651661?gh_jid=7651661", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.airbnb.com/positions/7818982?gh_jid=7818982", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7908837?gh_jid=7908837", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.airbnb.com/positions/7639355?gh_jid=7639355", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7874554?gh_jid=7874554", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/6448191?gh_jid=6448191", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/7947456?gh_jid=7947456", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.airbnb.com/positions/7683174?gh_jid=7683174", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7947164?gh_jid=7947164", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7649441?gh_jid=7649441", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.airbnb.com/positions/7453202?gh_jid=7453202", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7826679?gh_jid=7826679", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.airbnb.com/positions/7707528?gh_jid=7707528", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7927169?gh_jid=7927169", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://careers.airbnb.com/positions/7871746?gh_jid=7871746", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.airbnb.com/positions/7861915?gh_jid=7861915", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7737620?gh_jid=7737620", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.airbnb.com/positions/7917632?gh_jid=7917632", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7859591?gh_jid=7859591", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://careers.airbnb.com/positions/7760751?gh_jid=7760751", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://careers.airbnb.com/positions/7731737?gh_jid=7731737", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://careers.airbnb.com/positions/7566181?gh_jid=7566181", "manual_include": false, "manual_reason": "Non-technical role (Specialist, Premium)"}
+{"url": "https://careers.airbnb.com/positions/7821110?gh_jid=7821110", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.airbnb.com/positions/7535063?gh_jid=7535063", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7902817?gh_jid=7902817", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://careers.airbnb.com/positions/7782435?gh_jid=7782435", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.airbnb.com/positions/7904319?gh_jid=7904319", "manual_include": false, "manual_reason": "Non-technical role (Field Sales)"}
+{"url": "https://careers.airbnb.com/positions/7874555?gh_jid=7874555", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.airbnb.com/positions/7936532?gh_jid=7936532", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.airbnb.com/positions/7944544?gh_jid=7944544", "manual_include": false, "manual_reason": "Non-technical role (Field Sales)"}
+{"url": "https://careers.airbnb.com/positions/7554915?gh_jid=7554915", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/6717690?gh_jid=6717690", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.airbnb.com/positions/7895517?gh_jid=7895517", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642249", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7923203", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494960", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7075176", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7927139", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782571", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7927431", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7859359", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7836254", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7239260", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7525112", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7747116", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682058", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=5572858", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770914", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494921", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7869925", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684660", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6087213", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682052", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642265", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7787615", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=5132899", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494708", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7789148", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7816431", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121464", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7890197", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782563", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7663075", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7832348", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543", "manual_include": false, "manual_reason": "ML Engineer (not II) — mid-level Pinterest ML role, not early-career band"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6483186", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494938", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7434494", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7871244", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7808602", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7681666", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7903948", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7507652", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494917", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7752846", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7685105", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642251", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7495002", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121551", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7276167", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782229", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6819404", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7946155", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678730", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770918", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494562", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7904689", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7743636", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7678754", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450", "manual_include": false, "manual_reason": "ML Engineer (not II) — mid-level Pinterest ML role, not early-career band"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494765", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7435596", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7426610", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7641112", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7623786", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7681015", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7863903", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7527881", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7899478", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684573", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=5740948", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7807888", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7732971", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770921", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7904011", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684632", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7896332", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7863290", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7763574", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7423679", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7527221", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7641110", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7890195", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7747172", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7642272", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7682040", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494686", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7630636", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7903928", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7808444", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7794123", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770916", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7883258", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7684618", "manual_include": false, "manual_reason": "Non-technical role (Business Operations)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7562128", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7605865", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7683723", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7368194", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7856392", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7767046", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7816424", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.uber.com/careers/list/159469", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/158015", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.uber.com/careers/list/153989", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.uber.com/careers/list/153326", "manual_include": false, "manual_reason": "Senior/experienced title (Sr )"}
+{"url": "https://www.uber.com/careers/list/156949", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/159251", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.uber.com/careers/list/155848", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/157185", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/156722", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/154716", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://www.uber.com/careers/list/154688", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.uber.com/careers/list/157445", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://www.uber.com/careers/list/158405", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/157104", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/158498", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/158653", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.uber.com/careers/list/155792", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/159454", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/155862", "manual_include": false, "manual_reason": "Non-technical role (Recruiter)"}
+{"url": "https://www.uber.com/careers/list/158749", "manual_include": false, "manual_reason": "Program Specialist Identity Ops — operations/analytics, not SWE/ML/DS engineering"}
+{"url": "https://www.uber.com/careers/list/159263", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://www.uber.com/careers/list/159206", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.uber.com/careers/list/155970", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/158842", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/157897", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://www.uber.com/careers/list/157067", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.uber.com/careers/list/157231", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://www.uber.com/careers/list/156269", "manual_include": false, "manual_reason": "Non-technical role (Legal Counsel)"}
+{"url": "https://www.uber.com/careers/list/154970", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/153755", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://www.uber.com/careers/list/154503", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.uber.com/careers/list/159208", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/155749", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.uber.com/careers/list/158974", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/156956", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/159004", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/157003", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/147313", "manual_include": false, "manual_reason": "Senior/experienced title (Sr )"}
+{"url": "https://www.uber.com/careers/list/158611", "manual_include": false, "manual_reason": "Senior/experienced title (Sr )"}
+{"url": "https://www.uber.com/careers/list/155840", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/152626", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/157694", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/152899", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/158931", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.uber.com/careers/list/158786", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.uber.com/careers/list/157243", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/154095", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://www.uber.com/careers/list/159255", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/157523", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.uber.com/careers/list/157199", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/159298", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/158312", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/154183", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/155054", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/159439", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.uber.com/careers/list/158514", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/157802", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.uber.com/careers/list/159170", "manual_include": false, "manual_reason": "Senior/experienced title (Sr )"}
+{"url": "https://www.uber.com/careers/list/157638", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.uber.com/careers/list/155708", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.uber.com/careers/list/153205", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.uber.com/careers/list/159486", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/156320", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/159071", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.uber.com/careers/list/152497", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/153401", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.uber.com/careers/list/158383", "manual_include": false, "manual_reason": "Non-technical role (Business Development)"}
+{"url": "https://www.uber.com/careers/list/158764", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/157432", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://www.uber.com/careers/list/159259", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://www.uber.com/careers/list/153679", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/150077", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/158728", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://www.uber.com/careers/list/155673", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/153507", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/158925", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.uber.com/careers/list/153366", "manual_include": false, "manual_reason": "Senior/experienced title (Engineering Manager)"}
+{"url": "https://www.uber.com/careers/list/154289", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/153607", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/154890", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.uber.com/careers/list/159222", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/156231", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://www.uber.com/careers/list/159126", "manual_include": false, "manual_reason": "Senior/experienced title (Sr. )"}
+{"url": "https://www.uber.com/careers/list/159369", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/156249", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://www.uber.com/careers/list/156633", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/155564", "manual_include": true, "manual_reason": "Software Engineer II Backend — early-career IC level despite unrelated 4yr mention in desc"}
+{"url": "https://www.uber.com/careers/list/159173", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.uber.com/careers/list/159434", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://www.uber.com/careers/list/156954", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/150543", "manual_include": false, "manual_reason": "Senior/experienced title (Head of)"}
+{"url": "https://www.uber.com/careers/list/157690", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/159192", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.uber.com/careers/list/156419", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/152458", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.uber.com/careers/list/154739", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://www.uber.com/careers/list/151667", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://www.uber.com/careers/list/159313", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://www.uber.com/careers/list/158995", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://www.uber.com/careers/list/158894", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://careers.datadoghq.com/detail/7825532/?gh_jid=7825532", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/6759702/?gh_jid=6759702", "manual_include": false, "manual_reason": "Technical Support Engineer — customer support, not SWE/ML/DS role"}
+{"url": "https://careers.datadoghq.com/detail/6512586/?gh_jid=6512586", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7833886/?gh_jid=7833886", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7806043/?gh_jid=7806043", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://careers.datadoghq.com/detail/7341691/?gh_jid=7341691", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7807783/?gh_jid=7807783", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://careers.datadoghq.com/detail/6686710/?gh_jid=6686710", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7803551/?gh_jid=7803551", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7496253/?gh_jid=7496253", "manual_include": false, "manual_reason": "Technical Support Engineer — customer support, not SWE/ML/DS role"}
+{"url": "https://careers.datadoghq.com/detail/7733590/?gh_jid=7733590", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7716209/?gh_jid=7716209", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7695546/?gh_jid=7695546", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7747713/?gh_jid=7747713", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7685641/?gh_jid=7685641", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301", "manual_include": false, "manual_reason": "Technical Support Engineer — customer support, not SWE/ML/DS role"}
+{"url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://careers.datadoghq.com/detail/7731735/?gh_jid=7731735", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7708309/?gh_jid=7708309", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://careers.datadoghq.com/detail/5581254/?gh_jid=5581254", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7905006/?gh_jid=7905006", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7815510/?gh_jid=7815510", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://careers.datadoghq.com/detail/7927485/?gh_jid=7927485", "manual_include": false, "manual_reason": "Non-technical role (Recruiter)"}
+{"url": "https://careers.datadoghq.com/detail/7117086/?gh_jid=7117086", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7477119/?gh_jid=7477119", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7888063/?gh_jid=7888063", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7413847/?gh_jid=7413847", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://careers.datadoghq.com/detail/7616721/?gh_jid=7616721", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://careers.datadoghq.com/detail/7441057/?gh_jid=7441057", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7553034/?gh_jid=7553034", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7917939/?gh_jid=7917939", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7586019/?gh_jid=7586019", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7576831/?gh_jid=7576831", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013", "manual_include": false, "manual_reason": "Does not meet both early-career and technical criteria"}
+{"url": "https://careers.datadoghq.com/detail/7548129/?gh_jid=7548129", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.datadoghq.com/detail/5505818/?gh_jid=5505818", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7777384/?gh_jid=7777384", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/6703351/?gh_jid=6703351", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7101117/?gh_jid=7101117", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7871543/?gh_jid=7871543", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7737197/?gh_jid=7737197", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7437215/?gh_jid=7437215", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/6677658/?gh_jid=6677658", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7929980/?gh_jid=7929980", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7439573/?gh_jid=7439573", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7759965/?gh_jid=7759965", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.datadoghq.com/detail/5798241/?gh_jid=5798241", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7834545/?gh_jid=7834545", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7791332/?gh_jid=7791332", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7439145/?gh_jid=7439145", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/6016967/?gh_jid=6016967", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/6832925/?gh_jid=6832925", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7574412/?gh_jid=7574412", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.datadoghq.com/detail/7416668/?gh_jid=7416668", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://careers.datadoghq.com/detail/7722705/?gh_jid=7722705", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7731306/?gh_jid=7731306", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7792033/?gh_jid=7792033", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7338847/?gh_jid=7338847", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7624552/?gh_jid=7624552", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7790048/?gh_jid=7790048", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7947732/?gh_jid=7947732", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7574626/?gh_jid=7574626", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://careers.datadoghq.com/detail/7927096/?gh_jid=7927096", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.datadoghq.com/detail/7594608/?gh_jid=7594608", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7947742/?gh_jid=7947742", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7514910/?gh_jid=7514910", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7547361/?gh_jid=7547361", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://careers.datadoghq.com/detail/7779207/?gh_jid=7779207", "manual_include": false, "manual_reason": "Non-technical role (Marketing Manager)"}
+{"url": "https://careers.datadoghq.com/detail/6512321/?gh_jid=6512321", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084", "manual_include": false, "manual_reason": "Associate Marketing Data Analyst — marketing analytics, not technical SWE/ML/DS"}
+{"url": "https://careers.datadoghq.com/detail/7834547/?gh_jid=7834547", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7904615/?gh_jid=7904615", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7785250/?gh_jid=7785250", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7426680/?gh_jid=7426680", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7529852/?gh_jid=7529852", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/6857395/?gh_jid=6857395", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7794297/?gh_jid=7794297", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://careers.datadoghq.com/detail/7745714/?gh_jid=7745714", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7848869/?gh_jid=7848869", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://careers.datadoghq.com/detail/7487353/?gh_jid=7487353", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://careers.datadoghq.com/detail/7660700/?gh_jid=7660700", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/86310936884716230", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/106074879584805574", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/138656480017425094", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/111089599647752902", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/106501365542331078", "manual_include": false, "manual_reason": "Non-technical role (Product Counsel)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/111974858979451590", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/129047873672094406", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/97701396312138438", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/121939307660223174", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/81388714311197382", "manual_include": false, "manual_reason": "Non-technical role (Product Counsel)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/128306482859909830", "manual_include": false, "manual_reason": "Non-technical role (People Partner)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/104280248975008454", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/94214895406326470", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/103812561396212422", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/88672979918955206", "manual_include": false, "manual_reason": "DeepMind Research Scientist — PhD+2yr research role, not new-grad/intern EC band"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/143205140294181574", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/119948689102774982", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/95385324460352198", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/72234180498334406", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/112150602598752966", "manual_include": false, "manual_reason": "Requires 6+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/93653121200202438", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/121133255041655494", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/72588207136350918", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/73246032917340870", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/116824169114411718", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/138829313796383430", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/110007270036644550", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/121476426149831366", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/94304197440086726", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/134768023859798726", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/131830237238305478", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/121022718689583814", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/105162639268553414", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/117673896181670598", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/105887251790996166", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/104696927374713542", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/130332994459050694", "manual_include": false, "manual_reason": "Senior/experienced title (Principal)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/130135228394939078", "manual_include": false, "manual_reason": "Requires 8+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/93459111084991174", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/102339574444761798", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/108589038549508806", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/73026039323730630", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/110687296503587526", "manual_include": false, "manual_reason": "Frontier AI Research Scientist — senior research role, not early-career 0-2yr"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/129444110174954182", "manual_include": false, "manual_reason": "Non-technical role (Legal Counsel)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/111384906566640326", "manual_include": false, "manual_reason": "Non-technical role (Legal Counsel)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/85955084885598918", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/111861063820944070", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/84953531798168262", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/76438565860319942", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/137278758661825222", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/121098886713352902", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/132235003546215110", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/143298421615141574", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/117193899226604230", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/90906328553136838", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/130382758097625798", "manual_include": false, "manual_reason": "Non-technical role (Product Counsel)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/72149688827945670", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/118940610886279878", "manual_include": false, "manual_reason": "Senior/experienced title (Lead)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/133092306935784134", "manual_include": false, "manual_reason": "Requires 8+ years experience"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/126914700855124678", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/77359941572010694", "manual_include": false, "manual_reason": "Requires 6+ years experience"}
+{"url": "https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/4255e21c-d0f2-4f57-b5db-1f65830d6425", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/54cfe1d8-070e-4cc1-93fc-004ce9d28172", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/39c57909-ae76-4c86-9290-9fb50c689c4f", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/8148182c-6127-4689-b615-7815a94173bb", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/ead4e034-e6e1-4993-86d1-ad9b8e2933a5", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/0dd51d8f-aa78-49f9-ae39-e3b2daa082d1", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/3e53ec44-d8f3-4b0b-b77f-c481e9cd06fd", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/fbf8b12b-38f3-4cdb-a4d3-b5404c0aa98a", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/99ab8dbd-fd69-4216-8c2a-09a202a1cb17", "manual_include": false, "manual_reason": "Non-technical role (People Partner)"}
+{"url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/3f662628-2877-42fb-8866-a2b709de17ca", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c", "manual_include": false, "manual_reason": "Does not meet both early-career and technical criteria"}
+{"url": "https://jobs.lever.co/palantir/e1d6117e-2ee0-4cf6-8040-256c3009389f", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/86641a6e-5abb-40c5-8cc3-d481f70350d7", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/57699414-b373-4a5e-9be8-6fb7de41ea72", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/24060586-7ba8-47c0-bfc1-f1dd5b82d8bd", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://jobs.lever.co/palantir/e0ab8226-b928-4e3a-bf87-08fe7b1ea595", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/b0e1823a-fbe7-4c9d-a4d3-a1e738db2589", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/7177acab-5c64-4005-9b28-93f33b3e172a", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/55005ee7-4e06-4520-b569-f6e8f26745cb", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/755c16c2-5207-49a7-9e7d-55eb608e03e6", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/4f29fdd0-02ec-4ca7-8dff-eadbc6c68fb4", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/9804d4d1-bd2f-42d5-ae3e-3e3e51aa3830", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/fef637bd-60f6-4603-b749-14e609c473a5", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://jobs.lever.co/palantir/a90eb029-19cc-413c-bd51-b8411053d7d4", "manual_include": false, "manual_reason": "Does not meet both early-career and technical criteria"}
+{"url": "https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/3d06b4bc-6a7b-4f73-b5c5-4544354e3d0f", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.lever.co/palantir/842d6bc5-823c-4a77-8839-3f0f427bcd8c", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/484658a9-d6da-4d5f-9ab3-7c9f6ae3cd71", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/26176860-7b27-412a-9959-d8b8705acf53", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/e0857612-4181-4f8e-8421-2609e7951b7b", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f", "manual_include": false, "manual_reason": "Does not meet both early-career and technical criteria"}
+{"url": "https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d", "manual_include": false, "manual_reason": "Does not meet both early-career and technical criteria"}
+{"url": "https://jobs.lever.co/palantir/30c2563d-9a16-4dd7-81e8-b6f646384199", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/2a817317-48a6-48b7-9a74-a98ccd2457d2", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/4e99e055-96c7-497e-8099-3318e1ce0626", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd", "manual_include": false, "manual_reason": "Does not meet both early-career and technical criteria"}
+{"url": "https://jobs.lever.co/palantir/b72abc17-293d-47e0-a094-c1ab0016b794", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/7eb0dedb-37ee-4175-b29f-10a9e4340076", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/7e29b1cc-7f0d-4b12-b66c-4a2e56738d7e", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://jobs.lever.co/palantir/fe2a8c69-49b7-405f-816c-a6c6f894399a", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/da426d8b-5963-42e5-9b19-84649cb519cc", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/bd16f7ad-3bee-48fd-9902-b3ee9698b608", "manual_include": false, "manual_reason": "Non-technical role (Program Manager)"}
+{"url": "https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/6a82fd06-5754-46c2-8214-9ca4cd89fb9d", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/6a104c4e-35d4-4a1f-98ef-bec00ae4b458", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/5b4f55a5-e883-445e-853d-7e0d40eec055", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/1a581b97-ce5b-4b4c-84b0-dd54cf8cfe14", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/203ba3fb-3627-42bc-8b01-ba193ae55ca0", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/d2a87a1d-63f4-4dcd-b0d0-f6be91fed4d3", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/a5fdd5ec-d1f3-4837-83af-161b003931dd", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18", "manual_include": false, "manual_reason": "Forward Deployed SWE Warp Speed — experienced customer-facing role, not EC"}
+{"url": "https://jobs.lever.co/palantir/bc087dba-1e41-49e0-83bd-36832122363d", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/12e174ac-e32a-4990-b21e-6abc49b5fb8d", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/a543d82a-a089-4b1c-afd1-4f30d3d8ee23", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/5f39f83b-ef08-4ee8-afda-a2c77440598f", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/96e4295f-3af7-48e5-a2c8-74622eaf5587", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333", "manual_include": true, "manual_reason": "Early-career technical role (cohort/intern/Engineer II/new grad signal)"}
+{"url": "https://jobs.lever.co/palantir/0bbfd4f4-41ff-4ec6-b73f-5200efd5d4d3", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/2bfdcb53-7abd-42a4-9eaf-ebe07450f798", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/d084b769-6f53-4409-afa8-c183b059b384", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/8a95dba1-b814-4243-be14-eba1df340ceb", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/e2a8360a-710a-4185-b2a9-3b7d9fe590b1", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/3af209ff-6733-4133-8b2d-b5558a40fcb1", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/2f3a0a57-8f77-44d2-99c3-18aef115374f", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/14dbdeb9-1537-4ccf-83ac-608287efa00f", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/a92b55d0-1d36-4884-8e65-f456450b3a74", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/6bddf672-5920-46f3-8127-2a15a377cb99", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/e168a922-a2f0-45d0-912c-678d66e15118", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.lever.co/palantir/cbee0a7c-2f96-4dbf-b842-6e4b517541d8", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/fa93a1f8-dc95-40d0-b5ca-f2aebaab0806", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.lever.co/palantir/6f5cf287-1d3e-4c10-abf6-18cf4c955ded", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.ashbyhq.com/snowflake/96f0e865-419d-42b9-b64c-27e22a3d9424", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/77836e4f-1891-4648-9b55-1f889d076dfe", "manual_include": false, "manual_reason": "Senior/experienced title (Manager)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/b8ff4e0d-7fdb-4c7a-a139-1d69d5ca4b09", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/f6fe4065-6936-4b0f-95b5-26746a355241", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/ed998125-483d-4669-9b13-01b1c23ad9d7", "manual_include": false, "manual_reason": "Non-technical role (Account Manager)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/9eaedc0e-6aa1-434b-8180-2a0903d48f40", "manual_include": false, "manual_reason": "Senior/experienced title (Staff)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/00898e37-87aa-47e6-9df7-aefabac4ab01", "manual_include": false, "manual_reason": "Senior/experienced title (Senior)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/cc0b9912-deb9-4ec1-b1cf-f1b358f2eaf1", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/2cec1f1a-a789-4e86-b71d-7aee75ec75b0", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/82dd2965-3860-4c43-aced-64c7515fda9f", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/1cc29aa4-60a0-4c0b-8937-54aea7d579c1", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/e01b5b38-d3d4-4a6f-9b59-cef359d561eb", "manual_include": false, "manual_reason": "Senior/experienced title (Director)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/30604dd0-8980-4e18-bc15-53e9ef14e50f", "manual_include": false, "manual_reason": "Non-technical role (Product Manager)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/86570858-e425-4144-9aef-8838cefd18c3", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/a6e3fdf0-c1ca-46cb-8123-052df4fc8d14", "manual_include": false, "manual_reason": "Not a SWE/ML/DS/quant/firmware/embedded/systems role"}
+{"url": "https://jobs.ashbyhq.com/snowflake/9d1908cd-4a4f-4ecb-ab3a-f80d64aca909", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2", "manual_include": false, "manual_reason": "Technical role but no early-career signal in title/requirements"}
+{"url": "https://jobs.ashbyhq.com/snowflake/0f4bf596-c081-444f-b0b7-3a731c3d08d0", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/d1823395-6522-4b35-bfbf-365ad939529f", "manual_include": false, "manual_reason": "Non-technical role (Sales)"}
+{"url": "https://jobs.ashbyhq.com/snowflake/2d307ce4-c9a7-43fc-bf22-f24f48a1df66", "manual_include": false, "manual_reason": "Non-technical role (Account Executive)"}

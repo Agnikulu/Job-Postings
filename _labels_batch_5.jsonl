@@ -1,50 +1,659 @@
-{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7931607", "manual_include": false, "manual_reason": "Wet-lab compound management research associate; not SWE/DS/ML engineering track"}
-{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7839172", "manual_include": false, "manual_reason": "Wet-lab primary pharmacology research associate; not SWE/DS/ML role"}
-{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7808019", "manual_include": false, "manual_reason": "Lab-based immunology research scientist; pharma biology not SWE/DS/ML"}
-{"url": "https://careers.roblox.com/jobs/7463634?gh_jid=7463634", "manual_include": true, "manual_reason": "Explicit 2026 PhD early-career data scientist role"}
-{"url": "https://careers.roblox.com/jobs/7888723?gh_jid=7888723", "manual_include": true, "manual_reason": "SWE role with 1-3 years experience requirement; early-career band"}
-{"url": "https://careers.airbnb.com/positions/7946288?gh_jid=7946288", "manual_include": false, "manual_reason": "AI engineer posting with no intern/new-grad or 0-2yr requirement stated"}
-{"url": "https://careers.airbnb.com/positions/7546721?gh_jid=7546721", "manual_include": false, "manual_reason": "Frontend engineer requires 3+ years and leads contractor team"}
-{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7816431", "manual_include": true, "manual_reason": "Security Software Engineer II fits early-career engineering level band"}
-{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770914", "manual_include": true, "manual_reason": "Security Software Engineer II with bachelor's path; early-career SWE level"}
-{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494666", "manual_include": true, "manual_reason": "Security Software Engineer II fits early-career engineering level band"}
-{"url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782571", "manual_include": true, "manual_reason": "Software Engineer II on ML platform; early-career SWE level"}
-{"url": "https://www.uber.com/careers/list/158653", "manual_include": false, "manual_reason": "Generic H1B software engineer posting; no intern/new-grad or EC signals"}
-{"url": "https://www.uber.com/careers/list/158656", "manual_include": false, "manual_reason": "Generic H1B software engineer posting; no intern/new-grad or EC signals"}
-{"url": "https://www.uber.com/careers/list/158665", "manual_include": false, "manual_reason": "Sales operations associate; commercial ops not SWE/DS/ML engineering"}
-{"url": "https://www.uber.com/careers/list/158661", "manual_include": true, "manual_reason": "Software Engineer II ML role; requires 2 years (early-career band)"}
-{"url": "https://www.uber.com/careers/list/158931", "manual_include": true, "manual_reason": "Software Engineer II ML infra; 2+ years or PhD new grad accepted"}
-{"url": "https://www.uber.com/careers/list/158011", "manual_include": true, "manual_reason": "Graduate 2026 Software Engineer I mobile; explicit new-grad SWE"}
-{"url": "https://www.uber.com/careers/list/157476", "manual_include": true, "manual_reason": "Software Engineer I; early-career SWE level"}
-{"url": "https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331", "manual_include": false, "manual_reason": "GTM strategy and operations associate; sales ops not engineering"}
-{"url": "https://careers.datadoghq.com/detail/7813863/?gh_jid=7813863", "manual_include": false, "manual_reason": "Technical support engineer; customer support not SWE/DS/ML track"}
-{"url": "https://careers.datadoghq.com/detail/6761448/?gh_jid=6761448", "manual_include": false, "manual_reason": "Technical Support Engineer 2 requires 2+ years SaaS support experience"}
-{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5074064007", "manual_include": true, "manual_reason": "Explicit early-career data warehouse engineer; 0-4 years accepted"}
-{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5101651007", "manual_include": true, "manual_reason": "Explicit early-career analytics engineer; 0-4 years accepted"}
-{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007", "manual_include": false, "manual_reason": "AI infrastructure SRE requires 7+ years professional experience"}
-{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007", "manual_include": false, "manual_reason": "GPU systems research engineer; no early-career signals in posting"}
-{"url": "https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891", "manual_include": false, "manual_reason": "Backend infrastructure SWE; open-level with no EC indicators"}
-{"url": "https://jobs.lever.co/palantir/4cba9c95-d16f-440d-83e7-2352480f689f", "manual_include": false, "manual_reason": "Customer success enablement engineer; no early-career signals"}
-{"url": "https://jobs.lever.co/palantir/a5fdd5ec-d1f3-4837-83af-161b003931dd", "manual_include": false, "manual_reason": "Application security engineer; experienced open-level posting"}
-{"url": "https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43", "manual_include": false, "manual_reason": "Forward deployed SWE; no intern/new-grad or EC requirement stated"}
-{"url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821", "manual_include": false, "manual_reason": "Apollo systems SWE; open-level with no early-career signals"}
-{"url": "https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec", "manual_include": false, "manual_reason": "Product reliability engineer; open-level with no EC indicators"}
-{"url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c", "manual_include": false, "manual_reason": "Forward deployed reliability engineer; no early-career signals"}
-{"url": "https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2", "manual_include": false, "manual_reason": "Production/database operations engineer; no EC indicators"}
-{"url": "https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc", "manual_include": false, "manual_reason": "Environment platform SWE; open-level with no early-career signals"}
-{"url": "https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f", "manual_include": false, "manual_reason": "Forward deployed SWE Intel; no intern/new-grad or EC requirement"}
-{"url": "https://jobs.lever.co/palantir/15f01f3a-922d-4cff-b093-888333d88628", "manual_include": false, "manual_reason": "Product infrastructure security engineer; no EC signals"}
-{"url": "https://jobs.lever.co/palantir/fbf8b12b-38f3-4cdb-a4d3-b5404c0aa98a", "manual_include": false, "manual_reason": "Compliance engineer; regulatory role without early-career markers"}
-{"url": "https://jobs.lever.co/palantir/c62264f5-5da8-40fe-9b44-f7f0f0012e11", "manual_include": false, "manual_reason": "Forward deployed SWE autonomous C2; no EC indicators"}
-{"url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a", "manual_include": true, "manual_reason": "Forward deployed software engineer internship in Paris"}
-{"url": "https://jobs.lever.co/palantir/d83fac1c-353e-4b77-a586-3276b1090b6e", "manual_include": false, "manual_reason": "Forward deployed SWE US Government; no early-career signals"}
-{"url": "https://jobs.lever.co/palantir/6fa1ad9b-4506-45e4-a476-f4292911a279", "manual_include": false, "manual_reason": "Compliance engineer; no intern/new-grad or EC requirement stated"}
-{"url": "https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9", "manual_include": false, "manual_reason": "Forward deployed SWE Seoul; open-level with no EC indicators"}
-{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4777086007?gh_jid=4777086007", "manual_include": false, "manual_reason": "MSA aerospace engineer; no early-career experience requirement stated"}
-{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5089662007?gh_jid=5089662007", "manual_include": true, "manual_reason": "Software engineer with 1-3 years required; early-career SWE band"}
-{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5135616007?gh_jid=5135616007", "manual_include": false, "manual_reason": "Manufacturing test engineer; production ops without EC signals"}
-{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007", "manual_include": false, "manual_reason": "Payloads integration engineer; no early-career indicators in posting"}
-{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4948307007?gh_jid=4948307007", "manual_include": false, "manual_reason": "Maritime software engineer; open-level with no EC signals"}
-{"url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034", "manual_include": true, "manual_reason": "2026 software engineer intern on AI/ML R&D team"}
-{"url": "https://jobs.ashbyhq.com/snowflake/2bca874d-6c17-4bc9-ab05-ad230fde040a", "manual_include": false, "manual_reason": "Sales development representative; sales role not SWE/DS/ML"}
-{"url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b", "manual_include": true, "manual_reason": "2026 software engineer intern on observability infrastructure team"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501500002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8465963002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8456975002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8432305002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8495059002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555913002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002", "manual_include": true, "manual_reason": "Software Engineering New Grad 2026; BS grad fall 2025–summer 2026"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8488552002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8387085002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8362888002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8472697002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7069793002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423289002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7110509002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535384002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8529348002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452487002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415025002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540516002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8441879002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407919002", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8506063002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494128002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117719002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8535421002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8506516002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6356702002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8349357002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8453652002", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8218286002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8381352002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8403500002", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002", "manual_include": false, "manual_reason": "requires 3+ years production Java/Scala/C++ experience"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7922812", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7286341", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7729207", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7286324", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7535647", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7685480", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7793658", "manual_include": false, "manual_reason": "ML Engineer at research institute, experienced hire"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7747522", "manual_include": false, "manual_reason": "ML Engineer at research institute, experienced hire"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7778933", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7902395", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7779105", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7769739", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7769713", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7922556", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7551151", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7658780", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7834914", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7835072", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7776738", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7747517", "manual_include": false, "manual_reason": "Research Engineer AI, experienced PhD-level hire"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7793665", "manual_include": false, "manual_reason": "Research Engineer AI, experienced PhD-level hire"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7747518", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7793644", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7776739", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7839783", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7804331", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7702354", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7827049", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7688757", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7775820", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7488689", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7685640", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7947779", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/biohub/jobs/7793810", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5116291007", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007", "manual_include": false, "manual_reason": "selective AI in Residence fellowship, not early-career hire"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007", "manual_include": false, "manual_reason": "AI Research Engineer, experienced hire"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/4987432007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5036777007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5119707007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5005200007", "manual_include": false, "manual_reason": "BioMedical AI Research Engineer, experienced hire"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5096565007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5133373007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5052774007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5108552007", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5036679007", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5068166007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5104160007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5091032007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5107095007", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/inceptive/jobs/4934419007", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/inceptive/jobs/4961579007", "manual_include": false, "manual_reason": "Foundation models research, experienced ML scientist"}
+{"url": "https://job-boards.greenhouse.io/inceptive/jobs/4951550007", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/inceptive/jobs/5103191007", "manual_include": false, "manual_reason": "non-tech wet-lab biology internship"}
+{"url": "https://job-boards.greenhouse.io/inceptive/jobs/4085997007", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/inceptive/jobs/5060348007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5803693004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000543004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768080004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5809712004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5686805004", "manual_include": false, "manual_reason": "Cloud Software Engineer Observability, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5693829004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5987820004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5832421004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5712144004", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755090004", "manual_include": false, "manual_reason": "Core SWE requires significant experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5833459004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819676004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848763004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5999850004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848200004", "manual_include": false, "manual_reason": "Incident Response Security Engineer, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5837408004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5854400004", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777343004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5996876004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001255004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848335004", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973225004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5969665004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5776991004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654027004", "manual_include": false, "manual_reason": "QA Engineer, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5809817004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5842100004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848764004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777518004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5798957004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843425004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5970141004", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848765004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5856920004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819755004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748778004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848328004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001254004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777065004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5664427004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5973223004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748782004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5658009004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5790531004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5572781004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777061004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5750172004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001256004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777517004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5994455004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5749051004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5798997004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5999695004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819757004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765671004", "manual_include": false, "manual_reason": "Software Engineer role but requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5726453004", "manual_include": false, "manual_reason": "Product Security Engineer, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5754046004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5828333004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748780004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843664004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5807204004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5748779004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755093004", "manual_include": false, "manual_reason": "Core C++ SWE mid-level role ($141k+); no early-career signal"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5767816004", "manual_include": false, "manual_reason": "Core C++ SWE mid-level role; no early-career signal"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587665004", "manual_include": false, "manual_reason": "Full Stack Engineer Control Plane, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5664384004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5584386004", "manual_include": false, "manual_reason": "Full Stack Engineer Billing, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5996142004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001971004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755082004", "manual_include": false, "manual_reason": "Cloud Engineer Product Metrics, 3+ years required"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5842230004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755092004", "manual_include": false, "manual_reason": "Core C++ SWE mid-level role; no early-career signal"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768078004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5802319004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5971734004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5755091004", "manual_include": false, "manual_reason": "Core C++ SWE mid-level role; no early-career signal"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777649004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5842228004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654023004", "manual_include": false, "manual_reason": "QA Engineer; description truncated but no early-career qualification visible"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5832422004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819679004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819754004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5680774004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5996144004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843666004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5919555004", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5783145004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5802967004", "manual_include": false, "manual_reason": "Product Security Engineer; experienced hire, no EC qualification"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654026004", "manual_include": false, "manual_reason": "QA Engineer; description truncated but no early-career qualification visible"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819677004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5842101004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5810564004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5977068004", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5983191004", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5809839004", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587664004", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/pathos/d1cb961f-8158-4d68-8ee8-0330700cbce6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/pathos/fbec38e7-d55b-4bb3-8c74-644d75626c82", "manual_include": false, "manual_reason": "experienced AI research engineer role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7337621", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7855278", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7873832", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7844431", "manual_include": false, "manual_reason": "forward deployed SWE, customer-facing mid-level role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7772827", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7600045", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7883346", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7844438", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7816480", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7816478", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7905206", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7834651", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7899298", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7912111", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7378739", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7360277", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7895323", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7862087", "manual_include": false, "manual_reason": "experienced software engineer (no early-career signals)"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7681161", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7310800", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/cde30431-9eea-4e62-8ef1-357b95e8d95b", "manual_include": false, "manual_reason": "Qualitative Evaluation Engineer, experienced research role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/cb7f6fe2-4ed1-4cf8-9964-ea9b4f47e85d", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/1dcb94f4-4163-49fd-9c89-bfd1a8a7585a", "manual_include": false, "manual_reason": "Research Engineer Evaluations, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/a2feb190-455d-45e6-b488-7ac840f30fbd", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/b8da3485-8f2e-41db-92b2-7d4ac80d19ad", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/8aba7566-a1c8-4944-80bd-2bef555834ec", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/5e6c11ba-de76-4e0c-a024-1003693754eb", "manual_include": false, "manual_reason": "Data Infrastructure Engineer, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/52e4e2f8-135c-4fe3-bebb-3c2aeb716cf0", "manual_include": false, "manual_reason": "Growth Software Engineer, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/55cb4576-d2cb-4775-a492-32bae2566a8f", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/e6983d5d-2af9-4512-b27a-442648736363", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/583bb471-29ad-4011-837c-a1029700720c", "manual_include": false, "manual_reason": "ML Platform Engineer, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/9581c803-4261-4336-901e-4dca60227565", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqOhdaji2m34B3ibJdoy7Hb", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoLQAJ7YD2HiLXIT-flrIPQ", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrlFC3tMaqhvsrYMEd8tpyL", "manual_include": false, "manual_reason": "Frontend Engineer internal tooling, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpygMYFaWPgbr6dsVNV4zqV", "manual_include": false, "manual_reason": "Data Infra Reliability Engineer, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpLUv2sNwsROhkNT7lIsg-j", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpAAVUHFXZZhSGPkcFtC7DU", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDp2suFcNWYrZ-41KHCCKzik", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrPwI4R0-faFcTmHrn6z5P1", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDo8-N5tRXErv9eJJp_TyVo8", "manual_include": false, "manual_reason": "Inference Software Engineer, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDppJpFSr9kGVqZNk6Zgm2g5", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpzmndzUch3eDquU0pT_PaJ", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDod8mj41XRXvefuVXqM-Hq2", "manual_include": false, "manual_reason": "Forward Deployed Creative, sales/creative role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrPN_giYeTX6lRczdNd1Xsl", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrXmSbM4t2fOButh92x39YO", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDq0OYCNLxZ6Beh0K2LaAfMB", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDo6UPr2Qjdfy3DRfwrFjlAF", "manual_include": false, "manual_reason": "Staff Software Engineer Product, senior level"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi", "manual_include": false, "manual_reason": "Product Software Engineer, experienced hire"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqw-ddCM3WOyWm32wJHy4Lt", "manual_include": false, "manual_reason": "Security Engineer Tech Lead, senior level"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrkGd4GGu3apfJSBl9YCPbw", "manual_include": false, "manual_reason": "Lead Infrastructure Engineer, senior level"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoL3Jvn-6tHPga36PeEa_yC", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpG8LYonD3KtMtbhaYTgDGr", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpUXecu7SG75UGXAEhcKfSs", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqTc8WRmOqOs6DvuM0GcAUf", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqHzHen7C7pqu1Yi-4RLpuZ", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDr1ZshMjuy5Qh-tZn9b5dsI", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpC5tktYmDsuAE-141w_K_g", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDolL_2qF3mA8iH2BQJXOYSA", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpoPzTsiA4XZafbUh8VdF3m", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDowyHakoMqJ_lhmwxpyRt8e", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrUl_mloBJCKhPIfw_J6O7-", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDok78ckB2QQpFDT3yc9AecO", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpBEvDRHAngdL0JpP2CNS8y", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrGqYIEvKSHnKX78Nt1KN-t", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpVwEeauHNU94jNvKwcnTbu", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqBUXpsdOoeNKb8MCEyT5Xs", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoKEGDiwhtxuKt7Yzf11dCg", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpusOwJioJGXzE2ynVT6Q6_", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpTdrGx6gMNDEUWr6Hz8jpp", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrVPkMaKe5wYNZ1LNh3A1Vu", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpQGlJPr7GnRCATLO6kRnat", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpWIsqzGpSnQ4OtT8VAVedJ", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqTslt6IMSZ0701YH7GIhbr", "manual_include": false, "manual_reason": "Forward Deployed Engineer, experienced customer-facing role"}
+{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoI6F80Q_qHp_2bXsfaKHVm", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://jobs.ashbyhq.com/headway/30ee5b07-cb45-4a59-9944-d8df07b4e217", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://jobs.ashbyhq.com/headway/8d8800e1-ffbd-4666-8f8f-beec79986796", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/ed6fa8ec-32e7-422d-bc79-325e1d78243b", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/20705468-59b2-4576-b6d8-27a5e06e4027", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/e2020f72-3e04-430b-a2b8-439be04b0c97", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/b888df59-498f-4703-8098-6c06b98cf088", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/2754be86-7228-4324-b24a-e5a0fab534c1", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/ac527fcd-72e4-4d1f-a31f-5e7b01a093c0", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/7104df9f-666d-46ab-898d-0576297418ef", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/edea3700-6c69-4e63-bd9f-b05147734e80", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/e78703a3-4089-40fa-8a17-4afb811d3855", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/75017946-1062-40fb-a78f-9e1edf5424a7", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/a7634532-7934-4948-9e5e-0ca0d15e5e46", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/0b417359-508a-4a09-8794-51962773108c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/ef25a2e3-55c1-42a6-b044-181a52780369", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/headway/d6cc4427-0e75-41a7-897b-31bf76947005", "manual_include": false, "manual_reason": "general talent pool, not specific early-career role"}
+{"url": "https://jobs.ashbyhq.com/headway/2849b250-6569-43ee-b628-6bfba28dd245", "manual_include": false, "manual_reason": "clinical/medical provider role"}
+{"url": "https://jobs.ashbyhq.com/headway/656559a3-1bd7-40e3-8ff4-1d6114ea2379", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://jobs.ashbyhq.com/headway/0c649591-9fec-48ef-a6e8-d4b75177451c", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://jobs.ashbyhq.com/headway/04c87bce-78d4-497f-b77f-140253aa9592", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/headway/02b9e7a0-b853-4226-8792-b7954f555dc0", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/a9d07003-c9bc-4464-b433-5bd7fa46745f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/82fd0412-e0fd-495d-9bde-9bdd274f43f8", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/headway/1b7a1819-4039-4e85-bb2c-31fa056e0a05", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/headway/35978a2e-1bd0-441a-b7a2-d8bbf87d9903", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/headway/a05b2447-1749-4995-9719-2502fdb8e43f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/be0643aa-8571-47c1-a3aa-0fac81105c58", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/headway/ac8163a8-a5cf-491a-b349-f16d16cea62b", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/headway/a79f6feb-afac-4f96-84e2-3cb7369d6c34", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/0cc05401-8389-4e11-b501-1c6326d4c477", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/bc24d19d-9f9c-4c02-aa12-9e99b0676d30", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/bc937a15-98b6-480d-9c4d-7c04bd1188aa", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/75173d47-c059-4ec5-b2fe-33106cc557a9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/e95da85a-a6c5-4532-8326-723ddb40d658", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/8fdfdc44-e973-4dd4-8dfb-951a6280232b", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/headway/b9c59604-6faf-46c6-8253-f8ed1aa8aa22", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/46ec76bc-5dbc-4cb9-9311-bfd3bbcd40e5", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/headway/871cdc46-f3e9-4b22-acb9-41a7f1acc486", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/a6dffa46-b94c-4fa3-a8de-79622e66660f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/3e71f549-4318-48ff-9be6-57ffc5f3aece", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/headway/6c31b2ff-2fcd-4a4e-a199-38e58e75095e", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/headway/a9d3f24a-6501-4581-bb1d-55cf6fd0d828", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/ce902570-80c6-4a00-9db3-4afaf1c920e6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/f6ebbd61-5836-4321-b41d-7dc0ec58532a", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/headway/269144d5-6d1a-4de9-a54c-a201a5a23aa1", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/697640b6-b632-448c-b320-b432ee985a0e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/fa48bf9d-4580-45eb-ba4a-02af6cfe8216", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://jobs.ashbyhq.com/headway/b2b130b3-1619-4eab-9742-4c4f277df4bc", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/a463ecbf-3dbd-4230-8d48-aba936c3be5d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/553089a9-b67e-490a-994a-50e84d8fe761", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/d6456594-a596-4bea-b698-784d9faf0baa", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/1fe33f40-a149-4269-8afc-1a0931311df3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/5bfaf115-3835-4c39-8aa2-6134b0fff45d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/05e6eedd-1fe7-425c-a382-252d03ac6e15", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://jobs.ashbyhq.com/headway/f7acba5b-2a07-4f64-a65c-613dd45549ce", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/24261761-e335-4dec-a67a-f0ab12da8067", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/532ae5b3-0a9e-4a58-9cd3-0c788ef6828a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/9cd6a56f-2a15-40fd-84d4-f29b9cc66c53", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/ddd8afc5-8d6b-4b94-baef-64e14efe87c6", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://jobs.ashbyhq.com/headway/9040d21a-0b46-4a21-b778-02a4e9610647", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/d83499ff-e08a-44ab-932d-179c4e49550a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/f32c42ea-b33c-43bb-8ee3-58edda274b55", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/990f8bef-bfff-4e7b-b6c3-a10e967b0091", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/1844e037-301c-4d9d-99dc-cd0c1743570a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/f264413e-29ec-45b4-a202-9cb172c5a5a2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/289e6d49-434c-4b05-b357-4e5d8ec3f47d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/b7a71dfc-b485-4fbe-b57f-1800dd71cb58", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/d1bce139-eeca-40e5-b826-f668d1190872", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/e9f33aa5-1112-4db1-b20a-cbfa853466c3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/1836c9a9-4ae2-4232-b7b7-969006994c20", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/headway/32d338ce-32a5-477d-9adb-93e3b808cd7c", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/headway/3191abb0-3f37-4ec6-a9ef-2012bdbc4c6e", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/headway/4e826c00-570b-4349-956c-c9ac35c2a637", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://jobs.ashbyhq.com/headway/9e503e4c-6fea-4401-8458-c20f4d4f1e5e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/headway/ff51583c-75e8-4fa2-a5d3-8f05ea6da364", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/headway/d6b7a2a3-24be-4968-bfae-68ed4054f8ac", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/insitro/71606d59-a7d1-4246-8fb3-f8c97ba8201b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/insitro/d543f60b-9235-4fcc-ab4c-4ceb77b484f4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/insitro/de685a17-397d-4b09-9980-ba492df957b4", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/insitro/2cbd914b-7156-494d-8e15-772ed63d88d3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/insitro/954dd742-61ea-4ba4-b10b-54a97932c5be", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/insitro/bd67988d-c0a2-4e38-ab02-c766d875a1a6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/insitro/fb9a5712-434e-4b8a-a2ce-98e037b557ce", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/insitro/95d5e54f-9dcd-4954-88a4-fd4c8443d45a", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://jobs.ashbyhq.com/insitro/a4ccb6da-b5c6-4e39-9415-489a154053e7", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://jobs.ashbyhq.com/insitro/e7288bb3-49e0-4268-a27e-ed61a275f3df", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8534499002", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8414783002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/7776029002", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8515744002", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8515720002", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8525471002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8526277002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7717003", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7636655", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7338884", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7834090", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7769266", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7772677", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/4673152", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/4673127", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7072433", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/4655197", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7080026", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7821435", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7519909", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7901478", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7391997", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7773619", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7781984", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/6812531", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7677778", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7746002", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7821885", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7834089", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7821434", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7803676", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7913368", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7612536", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7716614", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7623866", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7736528", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7602324", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7824775", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7713455", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7859227", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7826064", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7757630", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7821414", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7699429", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7560841", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7909556", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7825068", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7775913", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7445264", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7713454", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7940003", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7627949", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7834088", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://job-boards.greenhouse.io/zocdoc/jobs/7772675", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/genesis/e9641fe8-5575-424d-9c35-84ce0ada0060", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/15c16227-cef1-4bc3-9f2d-341ed4586404", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/25cf2fe6-6d4f-4c57-a012-d2780afaaa98", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/9e3c06f0-109b-42d2-b69c-8f0e33ee3b8c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/4e2690d9-fd91-45a7-8640-54c1d808a616", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/70159e6d-5082-40cc-af58-f2cfe5563b58", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/8604aae5-a89e-4e6f-8f5e-dce2008cc6bc", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/e260b061-68b2-43d5-9f11-45261234f901", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/d1aa8c84-a8d3-4ddb-a360-444b9cb25975", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/b6697fa6-8509-4db3-b5df-dd8cac3cfcca", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/bbbfdfda-ba1e-46be-8d6f-70313e68f928", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/2f2009be-f166-4289-8a49-3c20eb57e011", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.ashbyhq.com/genesis/66c8b2e0-9326-4cee-82de-8f810e359c3f", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://jobs.ashbyhq.com/genesis/0cf1a048-46d0-4693-88da-c86f978c9dd3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/3a708a57-9031-418f-a5d7-255a8dd269df", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/a8e164e3-4585-4392-a485-529b85e068ff", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/9719ee70-1c41-443f-858b-dba2fa690553", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/dfe0e827-a8ee-487f-b37e-763481fabd5a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/b9ce5163-c4e1-4395-814b-358e3aea04f2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/2c0b2b1e-710e-43be-9111-a8eb0591baa2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/47b77588-bbc3-49e9-a697-1fe0a5ab906c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/7d738c08-c202-4396-bafb-b3d944673006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/2c176554-6419-4ccd-926b-0c6ff94d61fc", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/5a9a58b4-3c11-4eb0-bc1f-58f8b34d676c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/9994c8c0-4f5e-43dd-a51a-69c0c8a38937", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/genesis/4d491696-72d6-4b8b-8e2a-9265e9dec376", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/genesis/ece4cea1-ebc7-43ab-9a6e-c6fde1450490", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/genesis/cbb9170a-2fe2-4553-944a-8977f8cdb81d", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://jobs.ashbyhq.com/genesis/3a6f87d1-01d8-4cf4-ba9e-26b70f7ef8a1", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.ashbyhq.com/benchling/d024588f-eb76-4c12-9814-9fb84964462b", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b", "manual_include": true, "manual_reason": "New grad SWE: BS/MS enrollment, graduation Summer 2026, prior SWE internship"}
+{"url": "https://jobs.ashbyhq.com/benchling/9165e6e5-7209-490f-91ff-72ee719bcce7", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/5b623b1e-8ff5-4749-b7b4-630c40b87495", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/benchling/f57ff6b0-356c-4bf9-9f69-facde0e16044", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/8e1dd901-0562-4241-870c-265ac3ad2b2d", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/33b3deda-15df-442f-be7f-c01552906791", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/benchling/cfaedb6c-48c0-4a82-89f0-587893f4eff3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/benchling/3687b373-439c-48d8-8de1-a8368c7527a2", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/3795432b-6589-4c73-a982-747de014b7e1", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/d0772a92-def6-4d34-8546-80ac2a415005", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/93d3165e-8372-4689-a859-3aa81c5a0d82", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/67a6b367-326d-409f-acc1-40961a6d24d4", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/7017bd54-cf7e-45cc-a6ee-580701f2b7fc", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/151f2a30-4953-4650-a17f-0a4a101a852b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/benchling/d897a65f-eddf-4b45-ade1-029b0c029b95", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/fd008c7e-bb3c-495f-90f1-215915fb4f3f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/benchling/bf61a428-56af-4587-9c61-7e0f855a5fd4", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/benchling/e6a8f0b6-9a7a-4b73-b410-1838d8c372ae", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/benchling/0f3c0146-0454-4949-b808-048ba25d01b9", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/56bc9dab-e0e9-4fd7-83c7-55a99d2ee094", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/51347ceb-0e30-4bd9-9fba-8d23f02d288f", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/78ae90cf-22ff-4dd9-b597-a132ade29abf", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/de57b36f-7e37-4154-ab41-b4bcae92f1f0", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://jobs.ashbyhq.com/benchling/91cd19af-45f9-4fbd-9fd6-31b576070a60", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/52487173-132d-44b0-9a2f-3d4d9f129c8f", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/benchling/ceab2fc0-71b0-4506-8e38-8fe3983fae5e", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/323e4f43-cd7d-4b6c-acad-981893636bfb", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/14002943-e011-425c-8f72-3c727c543668", "manual_include": false, "manual_reason": "Full Stack Enterprise Lifecycle SWE; mid-level scope, no EC qualification in posting"}
+{"url": "https://jobs.ashbyhq.com/benchling/1499952b-deb2-48c4-9de6-f158e77c58ef", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/128a2d50-3311-49f5-b762-4654e680a06d", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://jobs.ashbyhq.com/benchling/815d941c-dff6-40cb-8307-57695acb37a7", "manual_include": true, "manual_reason": "SWE Agents role requires 2+ years professional SWE (within 0–2yr band)"}
+{"url": "https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8", "manual_include": false, "manual_reason": "Developer Enablement SWE; qualifications truncated, no EC signal in available text"}
+{"url": "https://jobs.ashbyhq.com/benchling/49454722-ea62-41da-80f8-864ff06e9265", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://jobs.ashbyhq.com/benchling/e3c884e5-ed5c-4d66-8876-6bf014987b39", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/4cc84632-9ac2-473c-81ac-8a35cb77c62b", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/6f9e4f51-0980-4fe0-b9c2-aff05839e164", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/61b20c5a-5c3d-4388-a19d-13a89886e73f", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/44878b38-eead-4cde-bc3e-040c1814a592", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/benchling/73b44c32-f5ab-48e5-a812-c70f09858f15", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/b69bea9f-832c-42d0-9b53-7c4adfaf3954", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/2e19ad6a-2350-4837-b07d-0ea7191cc3b1", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/1b947544-d8cb-446b-89dd-377b2642d31f", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/41a47861-2914-473e-b91b-9fe9ed5a7aab", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://jobs.ashbyhq.com/benchling/9ff817e6-9274-4613-9ac3-1bc012b7ff8a", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://jobs.ashbyhq.com/benchling/e7d8051d-d779-41b0-891f-0eb40c36a22c", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7926706", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7583094", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7940117", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7940122", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7940118", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7863694", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/3955652", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7902262", "manual_include": false, "manual_reason": "HR/ops role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7608420", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943674", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943536", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7571580", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7875594", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7894365", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7848645", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7848664", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826711", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7931607", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7839172", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7808019", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7775884", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7775887", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7905968", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7905814", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7739306", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7872393", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7939527", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7939525", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7488023", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7760240", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7859400", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7852491", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7843589", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943347", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826614", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7913201", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7913202", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7767007", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://jobs.lever.co/enveda/5148f955-460f-4a45-bf1c-b21a0031c328", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://jobs.lever.co/enveda/ab43d6b8-0bd7-4b45-a653-9328a83163ea", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://jobs.lever.co/enveda/43c5b064-c8d2-4d36-88e2-874e58afc1d4", "manual_include": false, "manual_reason": "research/lab science role (non-SWE track)"}
+{"url": "https://jobs.lever.co/enveda/c14d0b11-a2a5-4411-ae5f-52cc33c6707c", "manual_include": false, "manual_reason": "Software Engineer; no years/grad requirement stated, general experienced hire"}
+{"url": "https://www.google.com/about/careers/applications/jobs/results/88815398314484422", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5112960007?gh_jid=5112960007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5143736007?gh_jid=5143736007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4754841007?gh_jid=4754841007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5143321007?gh_jid=5143321007", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5034321007?gh_jid=5034321007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5101864007?gh_jid=5101864007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5030956007?gh_jid=5030956007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5024754007?gh_jid=5024754007", "manual_include": false, "manual_reason": "sales/GTM role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5119574007?gh_jid=5119574007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5139088007?gh_jid=5139088007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5052987007?gh_jid=5052987007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5043480007?gh_jid=5043480007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5042721007?gh_jid=5042721007", "manual_include": false, "manual_reason": "Product Security Engineer; embedded/firmware security, experienced + TS clearance"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5063282007?gh_jid=5063282007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4777387007?gh_jid=4777387007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5022524007?gh_jid=5022524007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5016212007?gh_jid=5016212007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5086962007?gh_jid=5086962007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5121420007?gh_jid=5121420007", "manual_include": false, "manual_reason": "finance/legal/ops role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5135564007?gh_jid=5135564007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007", "manual_include": false, "manual_reason": "Modeling & Simulation SWE; requires proven sensor-modeling experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5134612007?gh_jid=5134612007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5062292007?gh_jid=5062292007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4418353007?gh_jid=4418353007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5125417007?gh_jid=5125417007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4950091007?gh_jid=4950091007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5142408007?gh_jid=5142408007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5098387007?gh_jid=5098387007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5133778007?gh_jid=5133778007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5042157007?gh_jid=5042157007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5023715007?gh_jid=5023715007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5010383007?gh_jid=5010383007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5082180007?gh_jid=5082180007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5122503007?gh_jid=5122503007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4721740007?gh_jid=4721740007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5113338007?gh_jid=5113338007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5091862007?gh_jid=5091862007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5009261007?gh_jid=5009261007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4955439007?gh_jid=4955439007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5083497007?gh_jid=5083497007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5049762007?gh_jid=5049762007", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5034688007?gh_jid=5034688007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5119386007?gh_jid=5119386007", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5053192007?gh_jid=5053192007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4824471007?gh_jid=4824471007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5124708007?gh_jid=5124708007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5003654007?gh_jid=5003654007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4629832007?gh_jid=4629832007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4952740007?gh_jid=4952740007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5133252007?gh_jid=5133252007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5094897007?gh_jid=5094897007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5042563007?gh_jid=5042563007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5142518007?gh_jid=5142518007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5071245007?gh_jid=5071245007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4607969007?gh_jid=4607969007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5078667007?gh_jid=5078667007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4922336007?gh_jid=4922336007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4797329007?gh_jid=4797329007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5079278007?gh_jid=5079278007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5107573007?gh_jid=5107573007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5137999007?gh_jid=5137999007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4911548007?gh_jid=4911548007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5101272007?gh_jid=5101272007", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5131971007?gh_jid=5131971007", "manual_include": false, "manual_reason": "not early-career (senior/experienced/postdoc/etc.)"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5138451007?gh_jid=5138451007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5110932007?gh_jid=5110932007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5119541007?gh_jid=5119541007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4929997007?gh_jid=4929997007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5134320007?gh_jid=5134320007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5069654007?gh_jid=5069654007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5135008007?gh_jid=5135008007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5049370007?gh_jid=5049370007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5117226007?gh_jid=5117226007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5089044007?gh_jid=5089044007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5133310007?gh_jid=5133310007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5057941007?gh_jid=5057941007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5041098007?gh_jid=5041098007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4998965007?gh_jid=4998965007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4797397007?gh_jid=4797397007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5117940007?gh_jid=5117940007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5084914007?gh_jid=5084914007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5108282007?gh_jid=5108282007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4987912007?gh_jid=4987912007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5128300007?gh_jid=5128300007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5023386007?gh_jid=5023386007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5084723007?gh_jid=5084723007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5132437007?gh_jid=5132437007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4921486007?gh_jid=4921486007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5095386007?gh_jid=5095386007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4413667007?gh_jid=4413667007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5005246007?gh_jid=5005246007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5074949007?gh_jid=5074949007", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5041101007?gh_jid=5041101007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/5125919007?gh_jid=5125919007", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://boards.greenhouse.io/andurilindustries/jobs/4252545007?gh_jid=4252545007", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7814855?gh_jid=7814855", "manual_include": false, "manual_reason": "business/non-engineering role"}
+{"url": "https://careers.roblox.com/jobs/7822736?gh_jid=7822736", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7813197?gh_jid=7813197", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://careers.roblox.com/jobs/7354277?gh_jid=7354277", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7702683?gh_jid=7702683", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://careers.roblox.com/jobs/7729109?gh_jid=7729109", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7545955?gh_jid=7545955", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7580728?gh_jid=7580728", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://careers.roblox.com/jobs/7939352?gh_jid=7939352", "manual_include": false, "manual_reason": "requires 3+ years experience"}
+{"url": "https://careers.roblox.com/jobs/7740217?gh_jid=7740217", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7919050?gh_jid=7919050", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7712527?gh_jid=7712527", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7676427?gh_jid=7676427", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://careers.roblox.com/jobs/7545978?gh_jid=7545978", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7875761?gh_jid=7875761", "manual_include": false, "manual_reason": "marketing/design/comms role"}
+{"url": "https://careers.roblox.com/jobs/7816527?gh_jid=7816527", "manual_include": false, "manual_reason": "pre-sales/customer-facing/PM role"}
+{"url": "https://careers.roblox.com/jobs/7908886?gh_jid=7908886", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7887896?gh_jid=7887896", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7758622?gh_jid=7758622", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7943849?gh_jid=7943849", "manual_include": false, "manual_reason": "not a SWE/ML/DS/systems role"}
+{"url": "https://careers.roblox.com/jobs/7558171?gh_jid=7558171", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://careers.roblox.com/jobs/7332473?gh_jid=7332473", "manual_include": false, "manual_reason": "requires 3+ years experience"}

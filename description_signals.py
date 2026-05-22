@@ -214,7 +214,8 @@ _EARLY_YEARS_EC = re.compile(
 
 _EC_FRIENDLY_REQ_HEADER = re.compile(
     r"^(?:(?:your\s+)?ideal\s+\w+(?:\s+\w+){0,4}\s+will\s+have|"
-    r"what you should have|what you bring(?: to the team)?|what you have)\b",
+    r"what you should have|what you bring(?: to the team)?|what you have|"
+    r"minimum\s+qualifications?)\b",
     re.IGNORECASE,
 )
 

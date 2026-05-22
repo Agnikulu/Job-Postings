@@ -141,6 +141,40 @@ def _load_labels() -> dict[str, dict]:
     return labels
 
 
+def cmd_rescore() -> None:
+    """Re-apply regex classification to existing cursor_eval_jobs.jsonl."""
+    if not JOBS_PATH.exists():
+        log(f"Missing {JOBS_PATH.name} — run fetch first")
+        sys.exit(1)
+
+    rows: list[dict] = []
+    with JOBS_PATH.open(encoding="utf-8") as fh:
+        for line in fh:
+            if line.strip():
+                rows.append(json.loads(line))
+
+    regex_inc = 0
+    for job in rows:
+        inc, reason, source = _regex_include(
+            job["company"],
+            job["title"],
+            job.get("location"),
+            job.get("description"),
+            job["url"],
+        )
+        job["regex_include"] = inc
+        job["regex_reason"] = reason
+        job["regex_source"] = source
+        if inc:
+            regex_inc += 1
+
+    with JOBS_PATH.open("w", encoding="utf-8") as fh:
+        for row in rows:
+            fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+    log(f"Rescored {len(rows)} jobs — {regex_inc} regex includes")
+
+
 def cmd_score() -> None:
     if not JOBS_PATH.exists():
         log(f"Missing {JOBS_PATH.name} — run fetch first")
@@ -234,10 +268,13 @@ def main() -> int:
     f.add_argument("--per-company", type=int, default=50)
     f.add_argument("--max-companies", type=int, default=None)
     sub.add_parser("score")
+    sub.add_parser("rescore")
     args = p.parse_args()
     random.seed(42)
     if args.cmd == "fetch":
         cmd_fetch(per_company=args.per_company, max_companies=args.max_companies)
+    elif args.cmd == "rescore":
+        cmd_rescore()
     else:
         cmd_score()
     return 0

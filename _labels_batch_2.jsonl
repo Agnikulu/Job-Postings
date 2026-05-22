@@ -1,50 +1,659 @@
-{"url": "https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002", "manual_include": false, "manual_reason": "IT app support role; requires 3-6 years experience"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002", "manual_include": true, "manual_reason": "2026 grad quant portfolio analyst; entry-level quant research"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8399360002?gh_jid=8399360002", "manual_include": false, "manual_reason": "GenAI security engineer; requires 6+ years experience"}
-{"url": "https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002", "manual_include": true, "manual_reason": "Equity quant researcher; 1+ years (early-career quant research)"}
-{"url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002", "manual_include": true, "manual_reason": "ML researcher intern for PhD students"}
-{"url": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002", "manual_include": false, "manual_reason": "Quant researcher; requires 3-7 years experience"}
-{"url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b", "manual_include": true, "manual_reason": "Fall 2026 ML intern/co-op for enrolled students"}
-{"url": "https://jobs.ashbyhq.com/cohere/2a989030-6d14-4924-88c1-d878911e26fa", "manual_include": false, "manual_reason": "MTS model efficiency; requires 5+ years experience"}
-{"url": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc", "manual_include": false, "manual_reason": "MTS data evaluation; no early-career signals, mid-level role"}
-{"url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3", "manual_include": false, "manual_reason": "MTS training infra; senior-level requirements, no EC signals"}
-{"url": "https://jobs.ashbyhq.com/cohere/bda8d35e-92c2-4b01-b4ed-e43fe0a49aba", "manual_include": false, "manual_reason": "MTS MLE applied product; experienced role, no EC signals"}
-{"url": "https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f", "manual_include": false, "manual_reason": "Software engineer; no intern/new-grad or 0-2yr signals"}
-{"url": "https://jobs.ashbyhq.com/cohere/31c47498-0ccf-4d23-a418-0d2c616ba909", "manual_include": false, "manual_reason": "MTS MLE Korea; requires leading ML teams (senior)"}
-{"url": "https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6", "manual_include": false, "manual_reason": "MTS training performance; senior CUDA/ML infra role"}
-{"url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea", "manual_include": false, "manual_reason": "MTS search/ML; no early-career signals"}
-{"url": "https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428", "manual_include": false, "manual_reason": "Mid-training research; senior track record required"}
-{"url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10", "manual_include": false, "manual_reason": "Post-training research; senior ML research role"}
-{"url": "https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6", "manual_include": false, "manual_reason": "Research infra engineer; senior distributed systems role"}
-{"url": "https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff", "manual_include": false, "manual_reason": "Security engineer; deep experienced security role"}
-{"url": "https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3", "manual_include": false, "manual_reason": "SRE; senior production/platform reliability role"}
-{"url": "https://jobs.ashbyhq.com/cognition/589326d3-9dc0-447e-ae0c-972b808f831d", "manual_include": false, "manual_reason": "Federal DevOps; founding/first-engineer role"}
-{"url": "https://coreweave.com/careers/job?4678606006&board=coreweave&gh_jid=4678606006", "manual_include": true, "manual_reason": "Software Engineer II; early-career SWE level with growth focus"}
-{"url": "https://coreweave.com/careers/job?4673492006&board=coreweave&gh_jid=4673492006", "manual_include": false, "manual_reason": "Data center technician ops; not SWE/DS/ML engineering track"}
-{"url": "https://jobs.ashbyhq.com/runway-ml/2ca5c5d1-725d-4c44-907b-5d808ec248fe", "manual_include": false, "manual_reason": "Creative support specialist; customer support not SWE"}
-{"url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365", "manual_include": false, "manual_reason": "Forward deployed infra; founding member role"}
-{"url": "https://jobs.ashbyhq.com/sierra/bbef339c-3365-40df-804b-ece245386b43", "manual_include": false, "manual_reason": "Security engineer; broad senior security expertise required"}
-{"url": "https://jobs.gem.com/retool/4003629005", "manual_include": false, "manual_reason": "Software engineer; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/4520708005", "manual_include": false, "manual_reason": "Software engineer observability; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/4526652005", "manual_include": false, "manual_reason": "Software engineer AI; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/4559232005", "manual_include": false, "manual_reason": "Software engineer workflows; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/4605533005", "manual_include": false, "manual_reason": "Software engineer core services; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/4618972005", "manual_include": false, "manual_reason": "Software engineer core infra; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/4624687005", "manual_include": false, "manual_reason": "Software engineer DevEx; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDppL9ORnuR9EgdVBqn0pzKu", "manual_include": false, "manual_reason": "Software engineer apps builder; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDpU8ZlLMStGXDitLPsojeUr", "manual_include": false, "manual_reason": "Software engineer resources; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDqBGHD-VZVGcilDoagUDjbG", "manual_include": false, "manual_reason": "Data scientist; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDofimDqsS1Aygy5a0HdAM9u", "manual_include": false, "manual_reason": "AppSec engineer; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDpkUUjCIersh938b9cSZ_H5", "manual_include": false, "manual_reason": "Software engineer data platform; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDp9SmgWhNEJ2bTl6QWkx15r", "manual_include": false, "manual_reason": "Software engineer governance; no description, no EC signals"}
-{"url": "https://jobs.gem.com/retool/am9icG9zdDqGjkAKifhZaRjONG7oWhgn", "manual_include": false, "manual_reason": "IT engineer; no description, no EC signals"}
-{"url": "https://jobs.lever.co/mistral/1cb8bbe9-012f-46a6-83d0-1200be477793", "manual_include": false, "manual_reason": "Data annotation quality; not SWE/DS/ML engineering"}
-{"url": "https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee", "manual_include": false, "manual_reason": "Applied AI fullstack; customer-facing mid-level, no EC signals"}
-{"url": "https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f", "manual_include": true, "manual_reason": "Software engineer new grad; 0-2 years early-career SWE"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5989803004", "manual_include": false, "manual_reason": "Developer success engineer; customer-facing solutions role"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5661583004", "manual_include": false, "manual_reason": "Software engineer Lua; requires 5+ years experience"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5633880004", "manual_include": false, "manual_reason": "Deployment infra; senior infrastructure engineer role"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5551619004", "manual_include": false, "manual_reason": "Software engineer compute; requires 5+ years experience"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5474915004", "manual_include": false, "manual_reason": "Software engineer AI SDK; requires 5+ years experience"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5430088004", "manual_include": false, "manual_reason": "Backend software engineer; no early-career signals"}
-{"url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004", "manual_include": false, "manual_reason": "Site/growth engineer; marketing-focused, no EC signals"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7518727", "manual_include": false, "manual_reason": "Network architect; 3-5 yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7746410", "manual_include": false, "manual_reason": "Legal counsel; 5+ yrs lawyer"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7597655", "manual_include": false, "manual_reason": "Full-stack SWE; 3-7 yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6805037", "manual_include": false, "manual_reason": "SWE; 2-10 yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7929720", "manual_include": false, "manual_reason": "CTO executive role"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7480652", "manual_include": false, "manual_reason": "Macro analyst; finance research not EC SWE"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7518725", "manual_include": false, "manual_reason": "Infra support; 3+ yrs IT required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7377915", "manual_include": true, "manual_reason": "Research engineer; BS CS, no yrs bar"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7274488", "manual_include": false, "manual_reason": "Network architect; senior role"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7814576", "manual_include": false, "manual_reason": "Surveillance analyst; 3+ yrs finance"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7650182", "manual_include": false, "manual_reason": "Quant researcher; 2+ yrs stat-arb required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7283666", "manual_include": false, "manual_reason": "Trading SWE; experienced IC, no EC signal"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7376078", "manual_include": false, "manual_reason": "Crypto relationship manager; sales"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7614634", "manual_include": false, "manual_reason": "Trading systems engineer; experienced, no EC bar"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7176348", "manual_include": false, "manual_reason": "Senior SWE; 2+ yrs min but senior title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6987958", "manual_include": false, "manual_reason": "Platform SWE; 2-3 yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7455452", "manual_include": false, "manual_reason": "Head of product strategy; leadership"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7797373", "manual_include": false, "manual_reason": "SWE tools; 2+ yrs minimum"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7612882", "manual_include": false, "manual_reason": "Senior platform engineer"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6586001", "manual_include": false, "manual_reason": "AI engineer; 3+ yrs ML required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6776683", "manual_include": true, "manual_reason": "Trading systems engineer; 1-3 yrs, internships count"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7929846", "manual_include": false, "manual_reason": "Quant trading analyst; finance not EC tech"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7797389", "manual_include": false, "manual_reason": "SWE tools; 2+ yrs minimum"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7339677", "manual_include": false, "manual_reason": "University talent acquisition; HR"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7743648", "manual_include": false, "manual_reason": "Research SWE; experienced, $175-225k band"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7421010", "manual_include": false, "manual_reason": "Data engineer; 3+ yrs pipelines"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7713717", "manual_include": false, "manual_reason": "SWE tools; 2+ yrs minimum"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7567988", "manual_include": false, "manual_reason": "FICC relationship manager; sales"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/5100405", "manual_include": false, "manual_reason": "Quant developer; 3+ yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7728164", "manual_include": false, "manual_reason": "Prediction markets SWE; 2+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7821830", "manual_include": false, "manual_reason": "Quant dev stat-arb; 3+ yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7375686", "manual_include": false, "manual_reason": "Python SWE trading; 3+ yrs required"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7366937", "manual_include": false, "manual_reason": "Talent operations coordinator; HR"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7392396", "manual_include": false, "manual_reason": "SWE tools; 2+ yrs minimum"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7782800", "manual_include": false, "manual_reason": "Senior SWE trading GUI"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7862017", "manual_include": false, "manual_reason": "University talent acquisition; HR"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7846869", "manual_include": false, "manual_reason": "Senior associate middle office; finance ops"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7787919", "manual_include": false, "manual_reason": "Desktop systems engineer; experienced support"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7822459", "manual_include": false, "manual_reason": "Senior data engineer"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/5960295", "manual_include": false, "manual_reason": "Senior SWE; 5+ yrs required"}
+{"url": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f", "manual_include": false, "manual_reason": "Data infra SWE; senior experience"}
+{"url": "https://jobs.ashbyhq.com/cohere/fe2e2971-e2c0-43fd-9ab1-187571776a5d", "manual_include": false, "manual_reason": "Product manager; non-engineering"}
+{"url": "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7", "manual_include": false, "manual_reason": "Solutions architect; senior presales"}
+{"url": "https://jobs.ashbyhq.com/cohere/880ccfde-891b-459a-8b81-a5e270eb8691", "manual_include": false, "manual_reason": "Director SEC reporting; finance"}
+{"url": "https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068", "manual_include": false, "manual_reason": "Search apps SWE; production exp, no EC bar"}
+{"url": "https://jobs.ashbyhq.com/cohere/4fedfdfc-3c41-4b77-8c66-c17b4ed2aaeb", "manual_include": false, "manual_reason": "Head of solutions architecture; 10+ yrs"}
+{"url": "https://jobs.ashbyhq.com/cohere/e09a69b2-55ee-4141-99f6-cc4d8e39347a", "manual_include": false, "manual_reason": "Customer success manager; non-tech"}
+{"url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a", "manual_include": false, "manual_reason": "FDE infra; enterprise deployment exp required"}
+{"url": "https://jobs.ashbyhq.com/cohere/0ef0a9f8-33ac-4360-a833-f8ce8e108a31", "manual_include": false, "manual_reason": "Data annotation specialist; contractor ops"}
+{"url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b", "manual_include": false, "manual_reason": "FDE infra Japan; experienced deployment"}
+{"url": "https://jobs.ashbyhq.com/cohere/f00dbf81-17ff-4584-b015-67dfae1dc59c", "manual_include": false, "manual_reason": "Technical program manager; management"}
+{"url": "https://jobs.ashbyhq.com/cohere/2166a40a-1e80-4966-9082-aa4640fc4ac5", "manual_include": false, "manual_reason": "Engineering manager"}
+{"url": "https://jobs.ashbyhq.com/cohere/789b6d55-f54d-469c-9458-2ed8410c26db", "manual_include": false, "manual_reason": "Technical revenue manager; finance"}
+{"url": "https://jobs.ashbyhq.com/cohere/5d8e6394-7384-4e6f-bb52-85b4b2e252c4", "manual_include": false, "manual_reason": "Director infrastructure finance"}
+{"url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9", "manual_include": false, "manual_reason": "FDE agentic; production Python exp required"}
+{"url": "https://jobs.ashbyhq.com/cohere/61703710-4379-42fd-a508-946f2a5fb6bc", "manual_include": false, "manual_reason": "MTS data evaluation; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/24fe6a0b-6209-4ee0-b622-49c18636d99c", "manual_include": false, "manual_reason": "MTS agents modeling; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514", "manual_include": false, "manual_reason": "Strategic account executive; sales"}
+{"url": "https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f", "manual_include": false, "manual_reason": "SWE Collect; mentors juniors, experienced hire"}
+{"url": "https://jobs.ashbyhq.com/cohere/e9ef9420-88e5-403b-82e8-1c36fa010d4d", "manual_include": false, "manual_reason": "MTS integration/RL; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/31c47498-0ccf-4d23-a418-0d2c616ba909", "manual_include": false, "manual_reason": "MTS MLE Korea; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/70664617-84f6-4ee8-a4f6-4037ebfda9db", "manual_include": false, "manual_reason": "Senior SWE agent infrastructure"}
+{"url": "https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd", "manual_include": false, "manual_reason": "MTS MLE UK/EU; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/c88a1738-bfe7-4f2f-ad01-117b45511232", "manual_include": false, "manual_reason": "Data annotation Arabic; language ops"}
+{"url": "https://jobs.ashbyhq.com/cohere/013d4545-8343-40f1-9de5-9fdc0f0dd5bb", "manual_include": false, "manual_reason": "Manager of technical staff; management"}
+{"url": "https://jobs.ashbyhq.com/cohere/9bdbb821-6536-4090-8faa-a2b04a70bbf1", "manual_include": false, "manual_reason": "EM FDE infrastructure EMEA"}
+{"url": "https://jobs.ashbyhq.com/cohere/6c661de1-ae72-48e6-9be8-f8ccb5f439d4", "manual_include": false, "manual_reason": "Finance PMO; non-engineering"}
+{"url": "https://jobs.ashbyhq.com/cohere/4595759c-0d57-4ffa-805a-4577e994676a", "manual_include": false, "manual_reason": "Manager real estate & facilities"}
+{"url": "https://jobs.ashbyhq.com/cohere/23c35d20-e31e-42bb-a4dc-88a8e063061a", "manual_include": false, "manual_reason": "Data annotation Arabic dialect; ops"}
+{"url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900", "manual_include": false, "manual_reason": "FDE infra UK/EU; experienced K8s admin"}
+{"url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0", "manual_include": false, "manual_reason": "FDE agentic UK; production RAG exp"}
+{"url": "https://jobs.ashbyhq.com/cohere/b5686a33-4ec6-46aa-a888-87ad85794aba", "manual_include": false, "manual_reason": "Senior accountant; finance"}
+{"url": "https://jobs.ashbyhq.com/cohere/a0193996-c527-42e0-af1e-79ed6ec64236", "manual_include": false, "manual_reason": "Customer marketing manager"}
+{"url": "https://jobs.ashbyhq.com/cohere/686ef280-eea8-4012-b9e6-9cb23c0c22ab", "manual_include": false, "manual_reason": "IT operations specialist; support role"}
+{"url": "https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86", "manual_include": false, "manual_reason": "Engineering manager agentic platform"}
+{"url": "https://jobs.ashbyhq.com/cohere/830c613b-d4bf-4673-ab33-46ccc12cc415", "manual_include": false, "manual_reason": "Senior research scientist evaluation"}
+{"url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e", "manual_include": false, "manual_reason": "Business operations lead"}
+{"url": "https://jobs.ashbyhq.com/cohere/b9306620-a110-46b5-b4c4-7363e1d03a8d", "manual_include": false, "manual_reason": "MTS sovereign AI; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785", "manual_include": true, "manual_reason": "Research internship Fall 2026; ML/NLP PhD track"}
+{"url": "https://jobs.ashbyhq.com/cohere/bda8d35e-92c2-4b01-b4ed-e43fe0a49aba", "manual_include": false, "manual_reason": "MTS MLE North; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c", "manual_include": false, "manual_reason": "Full-stack inference SWE; 5+ yrs"}
+{"url": "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4", "manual_include": false, "manual_reason": "MTS safety for agents; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/443368a3-6276-4b90-9671-27fed40fd6d2", "manual_include": false, "manual_reason": "Senior MTS multimodal AI"}
+{"url": "https://jobs.ashbyhq.com/cohere/527c455c-4cdd-4a3a-b537-61ca36dbf7a9", "manual_include": false, "manual_reason": "Solutions marketing manager"}
+{"url": "https://jobs.ashbyhq.com/cohere/64c12340-0f1d-4320-9b5a-9bcb44150a1d", "manual_include": false, "manual_reason": "Senior manager revenue ops; 10+ yrs"}
+{"url": "https://jobs.ashbyhq.com/cohere/d9dc385c-8895-4daf-aed4-2a0dc6587fab", "manual_include": false, "manual_reason": "Senior counsel commercial; legal"}
+{"url": "https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da", "manual_include": false, "manual_reason": "Applied ML UK public sector; 8+ yrs SC clearance"}
+{"url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64", "manual_include": false, "manual_reason": "Staff SWE inference infrastructure"}
+{"url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd", "manual_include": false, "manual_reason": "Senior security engineer"}
+{"url": "https://jobs.ashbyhq.com/cohere/554a9380-ab50-4338-88a9-c6b8ab19d92e", "manual_include": false, "manual_reason": "MTS post-training; experienced IC not fellowship"}
+{"url": "https://jobs.ashbyhq.com/cohere/4b000aff-7c0f-45a0-b67d-cf0cb2ea16a6", "manual_include": false, "manual_reason": "Senior/staff full-stack engineer"}
+{"url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9", "manual_include": false, "manual_reason": "FDE agentic Middle East; production exp"}
+{"url": "https://jobs.ashbyhq.com/cohere/a5bbd015-65a9-48a1-aab1-b266bdbc9905", "manual_include": false, "manual_reason": "Senior SWE security agents"}
+{"url": "https://jobs.ashbyhq.com/cohere/277827a9-02b7-49ca-8590-458e93cab0e6", "manual_include": false, "manual_reason": "VP Sales EMEA"}
+{"url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997", "manual_include": false, "manual_reason": "FDE sovereign AI; production exp"}
+{"url": "https://jobs.ashbyhq.com/cohere/5806a521-8584-4bbe-b60a-49031b919251", "manual_include": false, "manual_reason": "Lead MTS inference; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f", "manual_include": false, "manual_reason": "Senior ML systems engineer"}
+{"url": "https://jobs.ashbyhq.com/cohere/6745547c-cc72-466c-867c-a0539b04909b", "manual_include": false, "manual_reason": "FDE prompt specialist; customer-facing exp"}
+{"url": "https://jobs.ashbyhq.com/cohere/8a5be85b-4185-46ae-bccb-a7fb20f0b84e", "manual_include": false, "manual_reason": "Senior financial analyst"}
+{"url": "https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473", "manual_include": false, "manual_reason": "Staff SWE GPU infrastructure HPC"}
+{"url": "https://jobs.ashbyhq.com/cohere/70a8dc77-ac84-4790-aff6-13b4dcd4554a", "manual_include": false, "manual_reason": "MTS agent code; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/98f69f63-2f54-4813-86ea-13d67336326e", "manual_include": false, "manual_reason": "Senior account executive public sector"}
+{"url": "https://jobs.ashbyhq.com/cohere/859e2e47-02fb-4afe-bb8a-e83bf4d8c265", "manual_include": false, "manual_reason": "MTS pre-training data; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0", "manual_include": false, "manual_reason": "FDE infra public sector; experienced"}
+{"url": "https://jobs.ashbyhq.com/cohere/1517638d-6b35-4374-b9a1-d117cf88537b", "manual_include": false, "manual_reason": "Senior HR business partner"}
+{"url": "https://jobs.ashbyhq.com/cohere/c80f0fe9-3fc4-49fe-9f26-a7115350b1fc", "manual_include": false, "manual_reason": "Staff research engineer model efficiency"}
+{"url": "https://jobs.ashbyhq.com/cohere/acec6038-117b-400b-92e3-0745fbb4cf53", "manual_include": false, "manual_reason": "Data annotation German; language ops"}
+{"url": "https://jobs.ashbyhq.com/cohere/e550c9f7-db88-408b-a1ad-3aad9fd77bf1", "manual_include": false, "manual_reason": "Senior account executive energy"}
+{"url": "https://jobs.ashbyhq.com/cohere/7ec9eaf4-8cfc-4977-9041-86f73e7ab10b", "manual_include": false, "manual_reason": "Senior research scientist Cohere Labs"}
+{"url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9", "manual_include": false, "manual_reason": "Applied AI engineer agentic; substantial production exp"}
+{"url": "https://jobs.ashbyhq.com/cohere/3a964b79-ddd3-4c50-8a76-c39e978289b1", "manual_include": false, "manual_reason": "GRC specialist; compliance not engineering"}
+{"url": "https://jobs.ashbyhq.com/cohere/9dddbce5-5cf8-41e9-b016-d801fb3ce5d8", "manual_include": false, "manual_reason": "Senior security operations engineer"}
+{"url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64", "manual_include": false, "manual_reason": "Lead data scientist; leadership"}
+{"url": "https://jobs.ashbyhq.com/cohere/56dfc4ad-c43d-4f59-85cf-6a81c3a33099", "manual_include": false, "manual_reason": "Talent acquisition partner; recruiting"}
+{"url": "https://jobs.ashbyhq.com/cohere/fea8cc38-1a55-4f1c-a652-8c39c66138fc", "manual_include": false, "manual_reason": "FDE infra Dubai; 3+ yrs deployment"}
+{"url": "https://jobs.ashbyhq.com/cohere/5585a326-9ec0-488d-b395-45e6f9eee596", "manual_include": false, "manual_reason": "Security operations manager; 8+ yrs"}
+{"url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254", "manual_include": true, "manual_reason": "Software engineer intern Fall/Winter 2026"}
+{"url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b", "manual_include": true, "manual_reason": "ML intern/co-op Fall 2026"}
+{"url": "https://jobs.ashbyhq.com/cohere/5cf3bd63-cf1d-441a-9db5-2032ca8449b8", "manual_include": false, "manual_reason": "Product marketing manager"}
+{"url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea", "manual_include": false, "manual_reason": "MTS search; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066", "manual_include": false, "manual_reason": "SWE security; senior experience"}
+{"url": "https://jobs.ashbyhq.com/cohere/9d5397c6-27c1-41ec-b685-1db83ea941c3", "manual_include": false, "manual_reason": "Recruitment coordinator; HR"}
+{"url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0", "manual_include": false, "manual_reason": "Chief of staff; 10+ yrs strategy"}
+{"url": "https://jobs.ashbyhq.com/cohere/eb58bff6-645c-4434-9893-b34586d69be7", "manual_include": false, "manual_reason": "Senior solutions architect"}
+{"url": "https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6", "manual_include": false, "manual_reason": "SRE inference; senior experience"}
+{"url": "https://jobs.ashbyhq.com/cohere/1a5925d0-41bd-4549-9b78-f427a2dda922", "manual_include": false, "manual_reason": "Research engineer; experienced IC, no EC bar"}
+{"url": "https://jobs.ashbyhq.com/cohere/929b6c8e-a47c-4512-bb17-99fa9581f23e", "manual_include": false, "manual_reason": "TPM north delivery; management"}
+{"url": "https://jobs.ashbyhq.com/cohere/995f4f08-d0db-42f1-ba44-f8f1a7e5a4d1", "manual_include": false, "manual_reason": "Strategic account executive telecom"}
+{"url": "https://jobs.ashbyhq.com/cohere/f54c0ca3-9fe3-4df7-b7dd-bf432c0425cb", "manual_include": false, "manual_reason": "Partner marketing manager"}
+{"url": "https://jobs.ashbyhq.com/cohere/15db0852-d994-4362-ae5e-bd2b9ae3d264", "manual_include": false, "manual_reason": "Internal communications manager"}
+{"url": "https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858", "manual_include": false, "manual_reason": "Sales development intern; non-tech sales"}
+{"url": "https://jobs.ashbyhq.com/cohere/f66e8a98-2f34-441f-a66d-62d4c0273411", "manual_include": false, "manual_reason": "Senior manager inside sales"}
+{"url": "https://jobs.ashbyhq.com/cohere/a13207e7-dc82-473f-8ca4-e832452fe8c3", "manual_include": false, "manual_reason": "MTS training infra; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f", "manual_include": false, "manual_reason": "MTS MLE; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/cohere/5adf044a-a601-467a-bb92-807850b4f7ec", "manual_include": false, "manual_reason": "Senior manager FP&A"}
+{"url": "https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d", "manual_include": false, "manual_reason": "Solutions architect public sector Ottawa"}
+{"url": "https://jobs.ashbyhq.com/cohere/cb5d588c-5637-423a-968b-bf637ee2caf9", "manual_include": false, "manual_reason": "Senior research engineer model evaluation"}
+{"url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a", "manual_include": false, "manual_reason": "Applied AI engineer Korea; team lead level"}
+{"url": "https://jobs.ashbyhq.com/cohere/6bbe2e47-a281-4af9-8ca9-79f35bf4be9b", "manual_include": false, "manual_reason": "Data annotation Portuguese; ops"}
+{"url": "https://jobs.ashbyhq.com/cohere/d9d2740b-8869-462d-85df-21c1941bc13d", "manual_include": false, "manual_reason": "Product manager native experience"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002", "manual_include": true, "manual_reason": "ML engineer; PhD candidate, research ML/NLP"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8488736002?gh_jid=8488736002", "manual_include": false, "manual_reason": "Mobility endpoint engineering; IT support India"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7045996002?gh_jid=7045996002", "manual_include": false, "manual_reason": "Cubist portfolio manager; 10+ yrs"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8500397002?gh_jid=8500397002", "manual_include": false, "manual_reason": "Academy investment analyst; finance not tech"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7825077002?gh_jid=7825077002", "manual_include": false, "manual_reason": "NLP engineer; 3+ yrs NLP required"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002", "manual_include": false, "manual_reason": "Cubist quant researcher; 2+ yrs equities research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8518660002?gh_jid=8518660002", "manual_include": false, "manual_reason": "HR associate compensation; non-tech"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8478791002?gh_jid=8478791002", "manual_include": false, "manual_reason": "Recruiter"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8448402002?gh_jid=8448402002", "manual_include": false, "manual_reason": "AI validation engineer; senior QA automation"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8477608002?gh_jid=8477608002", "manual_include": false, "manual_reason": "Tax associate PE/VC; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002", "manual_include": true, "manual_reason": "Data scientist; BS/MS/PhD quant, no yrs bar"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7001158002?gh_jid=7001158002", "manual_include": false, "manual_reason": "Cubist data scientist; Masters, experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8281743002?gh_jid=8281743002", "manual_include": false, "manual_reason": "Corporate access associate; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8475957002?gh_jid=8475957002", "manual_include": false, "manual_reason": "Research tech support; 2+ yrs support"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8135956002?gh_jid=8135956002", "manual_include": false, "manual_reason": "Fundamental researcher; finance research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7046005002?gh_jid=7046005002", "manual_include": false, "manual_reason": "Cubist portfolio manager; 10+ yrs"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8488737002?gh_jid=8488737002", "manual_include": false, "manual_reason": "Identity governance analyst; security ops"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8384201002?gh_jid=8384201002", "manual_include": false, "manual_reason": "Ubuntu Linux engineer; IT India"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8555518002?gh_jid=8555518002", "manual_include": false, "manual_reason": "Service desk engineer; IT support"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002", "manual_include": false, "manual_reason": "Academy investment analyst 2027; finance program"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8445692002?gh_jid=8445692002", "manual_include": false, "manual_reason": "Systems analyst financial technology"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7302643002?gh_jid=7302643002", "manual_include": false, "manual_reason": "Macro quant researcher; 4+ yrs signal research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7769261002?gh_jid=7769261002", "manual_include": false, "manual_reason": "Senior data engineer proprietary research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8377024002?gh_jid=8377024002", "manual_include": false, "manual_reason": "Senior Java SWE macro middle office"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8470606002?gh_jid=8470606002", "manual_include": false, "manual_reason": "Trader; 2+ yrs algo trading"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002", "manual_include": true, "manual_reason": "Quantitative researcher intern"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8539265002?gh_jid=8539265002", "manual_include": false, "manual_reason": "Academy investment analyst Singapore; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8372893002?gh_jid=8372893002", "manual_include": false, "manual_reason": "SWE fund admin tech; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8464116002?gh_jid=8464116002", "manual_include": false, "manual_reason": "SRE India; experienced platform"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7045979002?gh_jid=7045979002", "manual_include": false, "manual_reason": "Cubist senior data scientist; 5+ yrs"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8445684002?gh_jid=8445684002", "manual_include": false, "manual_reason": "Service desk engineer; IT support"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8538913002?gh_jid=8538913002", "manual_include": false, "manual_reason": "Academy investment analyst Hong Kong; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8377040002?gh_jid=8377040002", "manual_include": false, "manual_reason": "SWE execution services; senior experience"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7297683002?gh_jid=7297683002", "manual_include": false, "manual_reason": "Quantitative researcher; MSc/PhD experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002", "manual_include": false, "manual_reason": "Data engineer knowledge graph; senior"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7045936002?gh_jid=7045936002", "manual_include": false, "manual_reason": "Cubist quant researcher; experienced research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7872915002?gh_jid=7872915002", "manual_include": false, "manual_reason": "Associate general counsel tax; legal"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8548455002?gh_jid=8548455002", "manual_include": false, "manual_reason": "DevOps engineer Mi-Platform; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8399360002?gh_jid=8399360002", "manual_include": false, "manual_reason": "GenAI security engineer; senior"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8539271002?gh_jid=8539271002", "manual_include": false, "manual_reason": "Academy investment analyst Japan; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002", "manual_include": false, "manual_reason": "Trader/quant analyst; 3+ yrs convertible bonds"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7725294002?gh_jid=7725294002", "manual_include": false, "manual_reason": "Quantitative researcher Taiwan; PhD candidates ok but research IC"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8377008002?gh_jid=8377008002", "manual_include": false, "manual_reason": "Salesforce engineer; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002", "manual_include": false, "manual_reason": "Quant analyst/SWE; 1-3 yrs (upper bound 3+)"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8428200002?gh_jid=8428200002", "manual_include": false, "manual_reason": "Equity financing trader; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7707006002?gh_jid=7707006002", "manual_include": false, "manual_reason": "Credit analyst; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8479488002?gh_jid=8479488002", "manual_include": false, "manual_reason": "Mission control specialist; ops NOC not EC engineering"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7045995002?gh_jid=7045995002", "manual_include": false, "manual_reason": "Cubist senior data scientist Singapore; 5+ yrs"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8342481002?gh_jid=8342481002", "manual_include": false, "manual_reason": "IT ops engineer app support; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8377036002?gh_jid=8377036002", "manual_include": false, "manual_reason": "SWE middle office AI/ML; 3+ yrs markets tech"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8414212002?gh_jid=8414212002", "manual_include": false, "manual_reason": "Head of compliance Hong Kong"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8384202002?gh_jid=8384202002", "manual_include": false, "manual_reason": "Security engineer detection; senior"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8506241002?gh_jid=8506241002", "manual_include": false, "manual_reason": "Support engineer macro technology"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8402417002?gh_jid=8402417002", "manual_include": false, "manual_reason": "Central funding application delivery manager"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7297653002?gh_jid=7297653002", "manual_include": false, "manual_reason": "Quant developer CIO office; senior $175-300k"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002", "manual_include": false, "manual_reason": "Cubist quant researcher multi-location; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8524553002?gh_jid=8524553002", "manual_include": false, "manual_reason": "Employee relations specialist; HR"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8342483002?gh_jid=8342483002", "manual_include": false, "manual_reason": "IT operation engineer research; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7933630002?gh_jid=7933630002", "manual_include": false, "manual_reason": "SWE data platform Warsaw; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8372912002?gh_jid=8372912002", "manual_include": false, "manual_reason": "Treasury technology; 8+ yrs C#/.NET"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002", "manual_include": false, "manual_reason": "Sector analyst MI-Data; finance research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8236937002?gh_jid=8236937002", "manual_include": false, "manual_reason": "App support engineer 3; experienced support"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8555525002?gh_jid=8555525002", "manual_include": false, "manual_reason": "Senior SDLC engineer India"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8367892002?gh_jid=8367892002", "manual_include": false, "manual_reason": "Associate equity valuation PnL; finance ops"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8532298002?gh_jid=8532298002", "manual_include": false, "manual_reason": "PM administrative assistant"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8222788002?gh_jid=8222788002", "manual_include": false, "manual_reason": "Analyst coach investment development; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8324407002?gh_jid=8324407002", "manual_include": false, "manual_reason": "Manager India finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8377772002?gh_jid=8377772002", "manual_include": false, "manual_reason": "International sector analyst MI-Data"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7906984002?gh_jid=7906984002", "manual_include": false, "manual_reason": "Quant researcher; 3+ yrs systematic alpha"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8530081002?gh_jid=8530081002", "manual_include": false, "manual_reason": "Investor relations coordinator"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8356881002?gh_jid=8356881002", "manual_include": false, "manual_reason": "Business analyst Singapore; 2+ yrs preferred"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7045941002?gh_jid=7045941002", "manual_include": false, "manual_reason": "Cubist portfolio manager multi-location"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8536396002?gh_jid=8536396002", "manual_include": false, "manual_reason": "Project manager back office ops"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8128613002?gh_jid=8128613002", "manual_include": false, "manual_reason": "Systems analyst Workday HCM; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002", "manual_include": true, "manual_reason": "Quantitative developer intern"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7046014002?gh_jid=7046014002", "manual_include": false, "manual_reason": "Quant finance researcher Taiwan; PhD research IC"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8372529002?gh_jid=8372529002", "manual_include": true, "manual_reason": "Data scientist; BS/MS/PhD quant, no yrs bar"}
+{"url": "https://boards.greenhouse.io/point72/jobs/4644225002?gh_jid=4644225002", "manual_include": false, "manual_reason": "Fundamental researcher Canvas; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8510075002?gh_jid=8510075002", "manual_include": false, "manual_reason": "Administrative assistant"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7798698002?gh_jid=7798698002", "manual_include": false, "manual_reason": "Market data solutions specialist"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8056172002?gh_jid=8056172002", "manual_include": false, "manual_reason": "Sector analyst proprietary research"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8475068002?gh_jid=8475068002", "manual_include": false, "manual_reason": "Data sourcing strategy ops analyst"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8530259002?gh_jid=8530259002", "manual_include": false, "manual_reason": "Product strategist L/S equities; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002", "manual_include": false, "manual_reason": "Investment analyst summer intern; finance not tech"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002", "manual_include": false, "manual_reason": "ML infra engineer GenAI; experienced"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002", "manual_include": false, "manual_reason": "Finance summer intern Warsaw; non-tech finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8236337002?gh_jid=8236337002", "manual_include": false, "manual_reason": "Data reliability engineer; 3+ yrs support"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8041302002?gh_jid=8041302002", "manual_include": false, "manual_reason": "AI engineer IS; 5+ yrs required"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8018850002?gh_jid=8018850002", "manual_include": false, "manual_reason": "NLP engineer; experienced NLP/LLM"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8519616002?gh_jid=8519616002", "manual_include": false, "manual_reason": "HR analyst Japan; 3+ yrs HR"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7833222002?gh_jid=7833222002", "manual_include": false, "manual_reason": "Power & gas trading risk manager"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8384470002?gh_jid=8384470002", "manual_include": false, "manual_reason": "Microstructure quant researcher; 4+ yrs"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8471809002?gh_jid=8471809002", "manual_include": false, "manual_reason": "Knowledge engineer; senior"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8530310002?gh_jid=8530310002", "manual_include": false, "manual_reason": "Cubist business analyst; 2 yrs plus preferred"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8451607002?gh_jid=8451607002", "manual_include": false, "manual_reason": "Regulatory reporting senior associate"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8428205002?gh_jid=8428205002", "manual_include": false, "manual_reason": "Senior .NET SWE macro middle office"}
+{"url": "https://boards.greenhouse.io/point72/jobs/7297643002?gh_jid=7297643002", "manual_include": false, "manual_reason": "Quant researcher trading research; 2+ yrs minimum"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8409242002?gh_jid=8409242002", "manual_include": false, "manual_reason": "Backend engineer Warsaw; senior"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8222787002?gh_jid=8222787002", "manual_include": false, "manual_reason": "Analyst coach Singapore; finance"}
+{"url": "https://boards.greenhouse.io/point72/jobs/8491149002?gh_jid=8491149002", "manual_include": false, "manual_reason": "Academy insight program Japan; finance"}
+{"url": "https://jobs.ashbyhq.com/cognition/d14d0312-e619-4ea6-ab80-e2546e7b2481", "manual_include": false, "manual_reason": "Special projects engineer; 2+ yrs or founder exp"}
+{"url": "https://jobs.ashbyhq.com/cognition/4841bda0-057a-4471-801f-70309c3c02d5", "manual_include": false, "manual_reason": "General application; open pool"}
+{"url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10", "manual_include": false, "manual_reason": "Research post-training; frontier MTS not EC"}
+{"url": "https://jobs.ashbyhq.com/cognition/bd6853df-3d37-4677-8e0f-0cb92f84757a", "manual_include": false, "manual_reason": "HR operations recruiter coordinator; HR"}
+{"url": "https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a", "manual_include": false, "manual_reason": "Deployed engineer; enterprise GTM, experienced"}
+{"url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6", "manual_include": false, "manual_reason": "Engagement manager; enterprise leadership"}
+{"url": "https://jobs.ashbyhq.com/cognition/ce05fcaa-4f22-495f-bfd6-d858a1c37bcf", "manual_include": false, "manual_reason": "Head of partnerships APAC"}
+{"url": "https://jobs.ashbyhq.com/cognition/60ac2393-2727-4c88-953b-013e7bb418f8", "manual_include": false, "manual_reason": "Product marketer"}
+{"url": "https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6", "manual_include": false, "manual_reason": "Product engineer; frontier AI lab experience"}
+{"url": "https://jobs.ashbyhq.com/cognition/02772183-104d-4cc6-92a4-8e928f51b862", "manual_include": false, "manual_reason": "AI support engineer; senior support"}
+{"url": "https://jobs.ashbyhq.com/cognition/ca087c5e-b6e8-4852-90f0-f820c8f5f7ed", "manual_include": false, "manual_reason": "Special projects engineer Europe; 2+ yrs"}
+{"url": "https://jobs.ashbyhq.com/cognition/818e3c35-d25b-4aec-a9e1-23cc8328d19c", "manual_include": false, "manual_reason": "Deployed engineer Europe; enterprise GTM"}
+{"url": "https://jobs.ashbyhq.com/cognition/9ff00394-b9cd-4a12-af7b-c409cba15f80", "manual_include": false, "manual_reason": "Commercial counsel; legal 7+ yrs"}
+{"url": "https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35", "manual_include": false, "manual_reason": "Software engineer; frontier AI lab experience"}
+{"url": "https://jobs.ashbyhq.com/cognition/001a11ed-d7bb-4c78-a260-1d28c12bf61a", "manual_include": false, "manual_reason": "Sales development representative"}
+{"url": "https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d", "manual_include": false, "manual_reason": "AI enablement engineer; senior enablement"}
+{"url": "https://jobs.ashbyhq.com/cognition/9ebb0dff-2cbf-42ba-bb4a-0256812a06e0", "manual_include": false, "manual_reason": "Deployed engineer APAC Tokyo; enterprise deployments"}
+{"url": "https://jobs.ashbyhq.com/cognition/9ef920ff-de3d-4b5d-8733-f3bf92763b0f", "manual_include": false, "manual_reason": "Data engineer; senior data/BI"}
+{"url": "https://jobs.ashbyhq.com/cognition/decd6bbe-1875-42e8-9440-f54fd9d2270f", "manual_include": false, "manual_reason": "Revenue operations; 4+ yrs RevOps"}
+{"url": "https://jobs.ashbyhq.com/cognition/daf8accf-5799-4dba-a77d-66ace242fa88", "manual_include": false, "manual_reason": "IT engineer; IT support"}
+{"url": "https://jobs.ashbyhq.com/cognition/7518fcc5-44f1-48d7-ac42-b49aee233094", "manual_include": false, "manual_reason": "Partner marketer"}
+{"url": "https://jobs.ashbyhq.com/cognition/1e47fa81-bfe3-436c-a6f7-fccd66a98b1e", "manual_include": false, "manual_reason": "Partner deployed engineer APAC India"}
+{"url": "https://jobs.ashbyhq.com/cognition/05afba7a-04ab-4e33-af4d-a2cb5e18f894", "manual_include": false, "manual_reason": "Account based marketer; 2-4 yrs marketing"}
+{"url": "https://jobs.ashbyhq.com/cognition/5081e3b3-e606-4299-bd26-34ac6cdc5f0a", "manual_include": false, "manual_reason": "Account director enterprise; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/b154cc8a-0f04-44b8-88d8-72901fc0582d", "manual_include": false, "manual_reason": "Federal account executive; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/170ec744-c6b9-4d75-bdb1-f1eaf5e24d79", "manual_include": false, "manual_reason": "Business operations; 3-5 yrs consulting/ops"}
+{"url": "https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c", "manual_include": false, "manual_reason": "Deployed engineer federal; gov experience"}
+{"url": "https://jobs.ashbyhq.com/cognition/f2e1096f-72c4-42c8-867e-51c2ebc296f9", "manual_include": false, "manual_reason": "Account director; enterprise sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/5347448e-421f-4119-b65e-d20f4efe3e21", "manual_include": false, "manual_reason": "Account director Europe; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/a12f5aac-c232-4bf2-953a-2b7217412aed", "manual_include": false, "manual_reason": "Director enterprise sales Central"}
+{"url": "https://jobs.ashbyhq.com/cognition/fd6e659a-ae80-430a-8ec6-f3ec918e5a85", "manual_include": false, "manual_reason": "Director enterprise sales West"}
+{"url": "https://jobs.ashbyhq.com/cognition/b1c2ccf9-b606-4c9e-a5ea-c741ab78741b", "manual_include": false, "manual_reason": "Partner deployed engineer APAC Tokyo"}
+{"url": "https://jobs.ashbyhq.com/cognition/88d8cbd5-7288-439f-bf0f-cc07d567775b", "manual_include": false, "manual_reason": "Partner deployed engineer Europe"}
+{"url": "https://jobs.ashbyhq.com/cognition/6d539905-c75e-45e0-8c3e-db9831a5e6e6", "manual_include": false, "manual_reason": "Partner deployed engineer"}
+{"url": "https://jobs.ashbyhq.com/cognition/94084448-53e4-476f-99cc-0409ca409daf", "manual_include": false, "manual_reason": "Sales development representative London"}
+{"url": "https://jobs.ashbyhq.com/cognition/589326d3-9dc0-447e-ae0c-972b808f831d", "manual_include": false, "manual_reason": "DevOps engineer federal; experienced"}
+{"url": "https://jobs.ashbyhq.com/cognition/8805432a-6dcf-44da-8b57-eea78716e44b", "manual_include": false, "manual_reason": "Account director Europe DACH; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/a4bdfcdb-6f1d-424c-a67b-875701aae098", "manual_include": false, "manual_reason": "Commercial counsel Europe; legal"}
+{"url": "https://jobs.ashbyhq.com/cognition/4c99cb2f-ad82-4a8d-8110-be8d00a08823", "manual_include": false, "manual_reason": "Account manager enterprise; customer-facing sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/23b1c551-42ed-4cf7-828c-d3b65569bb41", "manual_include": false, "manual_reason": "Brand marketer"}
+{"url": "https://jobs.ashbyhq.com/cognition/b73fd66a-f43b-4240-95c2-7a76b4ffb0c6", "manual_include": false, "manual_reason": "Deployed engineer APAC Singapore; enterprise"}
+{"url": "https://jobs.ashbyhq.com/cognition/e6f55fdf-151d-4282-a600-b92e4124732f", "manual_include": false, "manual_reason": "QA engineer APAC; senior QA"}
+{"url": "https://jobs.ashbyhq.com/cognition/3c8a2591-a352-4897-8ade-bfb9ab456e3b", "manual_include": false, "manual_reason": "Senior accountant; finance"}
+{"url": "https://jobs.ashbyhq.com/cognition/68c1808c-d8fb-4eee-9870-1a024574537c", "manual_include": false, "manual_reason": "Partner director; partnerships leadership"}
+{"url": "https://jobs.ashbyhq.com/cognition/b24559d8-c742-4da9-aa6c-581a00e56090", "manual_include": false, "manual_reason": "Developer community manager; marketing"}
+{"url": "https://jobs.ashbyhq.com/cognition/42be09bc-f25a-4b4b-8b78-d247d773d126", "manual_include": false, "manual_reason": "Account director ANZ; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/43ee1d1c-5606-4ac8-bc6a-27216347b586", "manual_include": false, "manual_reason": "Technical engagement manager federal; senior"}
+{"url": "https://jobs.ashbyhq.com/cognition/c42ae7ec-4636-48a0-b682-34ac1c0fb3c6", "manual_include": false, "manual_reason": "Paid media marketer"}
+{"url": "https://jobs.ashbyhq.com/cognition/0aabb166-3e97-437b-ab84-b04fe20dd426", "manual_include": false, "manual_reason": "Account director APAC Tokyo; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/4bf50602-b880-40d2-9c8c-18d4372a8b02", "manual_include": false, "manual_reason": "Deployed engineer ANZ; enterprise deployments"}
+{"url": "https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6", "manual_include": false, "manual_reason": "Research engineer infrastructure; senior GPU/ML systems"}
+{"url": "https://jobs.ashbyhq.com/cognition/b3e47b13-df84-4ed3-a70b-f4d20cec6f82", "manual_include": false, "manual_reason": "Forward deployed marketer"}
+{"url": "https://jobs.ashbyhq.com/cognition/6c1e8ec4-8ca4-460c-879a-d6d8a9f141f5", "manual_include": false, "manual_reason": "Strategic AI analyst; 4+ yrs finance/consulting"}
+{"url": "https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3", "manual_include": false, "manual_reason": "SRE; experienced platform"}
+{"url": "https://jobs.ashbyhq.com/cognition/57e1e2a1-e0a0-4448-a278-8eed035d7428", "manual_include": false, "manual_reason": "Research mid-training; frontier research IC"}
+{"url": "https://jobs.ashbyhq.com/cognition/93002b15-b30c-4c98-a7e0-2ef185e4b88f", "manual_include": false, "manual_reason": "Account director MENA; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff", "manual_include": false, "manual_reason": "Security engineer; senior $260-300k"}
+{"url": "https://jobs.ashbyhq.com/cognition/99ac30db-26d9-4cae-8b50-5a509dfb10a9", "manual_include": false, "manual_reason": "Account director APAC Singapore; sales"}
+{"url": "https://jobs.ashbyhq.com/cognition/8139c589-494a-449a-b608-b11a689e7b2e", "manual_include": false, "manual_reason": "Deployed engineer LATAM; enterprise GTM"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5138540007", "manual_include": false, "manual_reason": "AI infrastructure engineer; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007", "manual_include": false, "manual_reason": "AI infra SRE Amsterdam; 7+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4187681007", "manual_include": false, "manual_reason": "AI researcher core ML; senior research"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5101651007", "manual_include": true, "manual_reason": "Analytics engineer data warehouse; 0-4 yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5064263007", "manual_include": true, "manual_reason": "Backend SWE data platform; 0-4 yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5093510007", "manual_include": false, "manual_reason": "Customer support engineer GPU; 3+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4840844007", "manual_include": false, "manual_reason": "Customer support engineer GPU India; 3+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5069532007", "manual_include": false, "manual_reason": "Customer support engineer inference India; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5074064007", "manual_include": true, "manual_reason": "Data warehouse engineer; 0-4 yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5101202007", "manual_include": false, "manual_reason": "Director data center operations"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5098697007", "manual_include": false, "manual_reason": "Director of tax"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5062462007", "manual_include": false, "manual_reason": "Engineering manager tech lead; 8+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5108385007", "manual_include": false, "manual_reason": "Finance analytics engineer; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5121371007", "manual_include": false, "manual_reason": "FDE GPU clusters; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007", "manual_include": false, "manual_reason": "FDE inference post-training; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5134279007", "manual_include": false, "manual_reason": "Infrastructure accounting manager"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5135876007", "manual_include": false, "manual_reason": "Infrastructure design engineer; 7+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5136806007", "manual_include": false, "manual_reason": "Infrastructure vendor ops manager"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5116005007", "manual_include": false, "manual_reason": "IT engineer Amsterdam; experienced admin"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5139762007", "manual_include": false, "manual_reason": "Junior TPM infra ops; TPM not engineering IC"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5062829007", "manual_include": false, "manual_reason": "Lead product designer; 7+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4687884007", "manual_include": false, "manual_reason": "LLM inference frameworks engineer; 3+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4626694007", "manual_include": false, "manual_reason": "ML engineer; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4385540007", "manual_include": false, "manual_reason": "ML engineer inference; 3+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4835988007", "manual_include": false, "manual_reason": "ML platform engineer; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5018853007", "manual_include": false, "manual_reason": "Payroll manager"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4970113007", "manual_include": false, "manual_reason": "Product marketing director"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4384627007", "manual_include": false, "manual_reason": "Research engineer core ML; senior"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4987660007", "manual_include": false, "manual_reason": "Research engineer speculative decoding; experienced"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5067281007", "manual_include": false, "manual_reason": "Sales and marketing ops manager"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4835763007", "manual_include": false, "manual_reason": "Senior backend engineer inference"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4737079007", "manual_include": false, "manual_reason": "Senior data engineer"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4774159007", "manual_include": false, "manual_reason": "Senior developer productivity engineer"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5088817007", "manual_include": false, "manual_reason": "Senior ML engineer voice AI"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4626654007", "manual_include": false, "manual_reason": "Senior network engineer; 8+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5093344007", "manual_include": false, "manual_reason": "Senior platform engineer voice AI"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5070981007", "manual_include": false, "manual_reason": "Senior program manager data center"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4749787007", "manual_include": false, "manual_reason": "Senior SWE together cloud infrastructure"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4753072007", "manual_include": false, "manual_reason": "Senior SWE together cloud platform"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4961121007", "manual_include": false, "manual_reason": "Senior technical recruiter"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4627491007", "manual_include": false, "manual_reason": "Solutions architect; 5+ yrs presales"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5100639007", "manual_include": false, "manual_reason": "Sr partnerships manager model ecosystem"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5135637007", "manual_include": false, "manual_reason": "Sr revenue accountant"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4661776007", "manual_include": false, "manual_reason": "Sr TPM; 5+ yrs ML infra"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5102399007", "manual_include": false, "manual_reason": "Staff backend engineer commerce"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5056185007", "manual_include": false, "manual_reason": "Staff engineer API core platform"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5127080007", "manual_include": false, "manual_reason": "Staff engineer customer insights"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5028749007", "manual_include": false, "manual_reason": "Staff engineer distributed storage HPC"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5074088007", "manual_include": false, "manual_reason": "Staff engineer product UI platform"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5140763007", "manual_include": false, "manual_reason": "Staff ML engineer voice AI"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5142176007", "manual_include": false, "manual_reason": "Staff platform engineer voice AI"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4636366007", "manual_include": false, "manual_reason": "Strategic finance senior manager"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007", "manual_include": false, "manual_reason": "Systems research engineer GPU; experienced"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5123203007", "manual_include": false, "manual_reason": "Technical account manager AI factory; 5+ yrs"}
+{"url": "https://job-boards.greenhouse.io/togetherai/jobs/5028862007", "manual_include": false, "manual_reason": "Together cloud infrastructure engineer; 5+ yrs"}
+{"url": "https://jobs.ashbyhq.com/sierra/a84c4ee1-1534-4bfa-960b-25f104a2bde6", "manual_include": false, "manual_reason": "Enterprise sales leader ANZ"}
+{"url": "https://jobs.ashbyhq.com/sierra/b89816c1-80b2-449b-b69e-2c261b8e9e23", "manual_include": false, "manual_reason": "SWE agent Paris; experienced FDE-style"}
+{"url": "https://jobs.ashbyhq.com/sierra/a5402a9c-d0ea-4e60-a1bc-68574d54950f", "manual_include": false, "manual_reason": "Brand designer contract; design"}
+{"url": "https://jobs.ashbyhq.com/sierra/fed8ca9a-0bb7-44ef-a541-0be6a8ae7bba", "manual_include": false, "manual_reason": "Product manager agent development; PM"}
+{"url": "https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a", "manual_include": false, "manual_reason": "SWE agent Korean; experienced customer-facing"}
+{"url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365", "manual_include": false, "manual_reason": "Forward deployed infra engineer; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a", "manual_include": false, "manual_reason": "SWE agent data platform; large-scale data exp"}
+{"url": "https://jobs.ashbyhq.com/sierra/85e1d0f9-e0d5-4a82-9b30-fa4372e32872", "manual_include": false, "manual_reason": "GTM operations agent development"}
+{"url": "https://jobs.ashbyhq.com/sierra/5b2b078a-748b-492c-b07c-5aba8cb72b27", "manual_include": false, "manual_reason": "Operations manager product & engineering"}
+{"url": "https://jobs.ashbyhq.com/sierra/48fb4d34-8622-45fc-9fca-f8f20b6d034a", "manual_include": false, "manual_reason": "People operations; HR"}
+{"url": "https://jobs.ashbyhq.com/sierra/5aaa2eeb-92bc-4b0a-901e-8e091eff819e", "manual_include": false, "manual_reason": "Product manager agent studio"}
+{"url": "https://jobs.ashbyhq.com/sierra/980b339c-60b6-4473-bf4c-1d69557da9f2", "manual_include": false, "manual_reason": "Communications manager"}
+{"url": "https://jobs.ashbyhq.com/sierra/2e07f536-bbaa-4cc0-957a-774ddf99de64", "manual_include": false, "manual_reason": "PM agent development Italian"}
+{"url": "https://jobs.ashbyhq.com/sierra/23efd6e0-a64d-4421-b684-bbd44e5c752e", "manual_include": false, "manual_reason": "Developer relations engineer; senior DevRel"}
+{"url": "https://jobs.ashbyhq.com/sierra/ea1b36ce-fba8-4a11-8f37-d880a1f4f14e", "manual_include": false, "manual_reason": "Executive assistant"}
+{"url": "https://jobs.ashbyhq.com/sierra/39c1ed90-786b-41c6-943e-7c2427f90043", "manual_include": false, "manual_reason": "Enterprise account executive German"}
+{"url": "https://jobs.ashbyhq.com/sierra/f1d6b8d6-570a-4d19-8cf5-8145fc93c1ae", "manual_include": false, "manual_reason": "University recruiter; HR"}
+{"url": "https://jobs.ashbyhq.com/sierra/ecbaa355-c644-471a-ac11-07a21ee0c543", "manual_include": false, "manual_reason": "Sales engineer French"}
+{"url": "https://jobs.ashbyhq.com/sierra/edf44ab4-538b-4e65-b93c-392c950b9fe6", "manual_include": false, "manual_reason": "PM agent development Tokyo"}
+{"url": "https://jobs.ashbyhq.com/sierra/034c2c56-357f-4ed2-9da7-f4d36a999385", "manual_include": false, "manual_reason": "Strategist agent development Arabic; GTM not SWE"}
+{"url": "https://jobs.ashbyhq.com/sierra/c6378c64-afc9-4751-a79b-a888fe6ceb70", "manual_include": false, "manual_reason": "Support engineer; customer support"}
+{"url": "https://jobs.ashbyhq.com/sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4", "manual_include": false, "manual_reason": "SWE identity & enterprise platform; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff", "manual_include": false, "manual_reason": "SWE agent Spanish; experienced FDE"}
+{"url": "https://jobs.ashbyhq.com/sierra/d4a8ec61-f97d-4010-9505-0fc2d8b00167", "manual_include": false, "manual_reason": "Enterprise account executive Tokyo"}
+{"url": "https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef", "manual_include": false, "manual_reason": "Agent experience designer voice; senior design"}
+{"url": "https://jobs.ashbyhq.com/sierra/1bd9c1e7-a2aa-428d-9a31-1a4eed26391f", "manual_include": false, "manual_reason": "SWE voice; senior experience"}
+{"url": "https://jobs.ashbyhq.com/sierra/41e66706-b647-4ab1-8c7f-8f2975babba7", "manual_include": false, "manual_reason": "Sales director"}
+{"url": "https://jobs.ashbyhq.com/sierra/8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c", "manual_include": false, "manual_reason": "SWE agent Tokyo; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/1a0e307f-7f02-4971-820c-a244ad909617", "manual_include": false, "manual_reason": "Agent experience designer voice multilingual"}
+{"url": "https://jobs.ashbyhq.com/sierra/c7e3f330-6649-4c42-920d-eb267ebd6d16", "manual_include": false, "manual_reason": "Business development"}
+{"url": "https://jobs.ashbyhq.com/sierra/ba780c1d-ebd7-45b8-8c99-12666af5bfa3", "manual_include": false, "manual_reason": "Product designer"}
+{"url": "https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f", "manual_include": false, "manual_reason": "SWE agent Munich; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/2da4e2ef-2cf3-4df5-9dcd-972bc2a0fb1c", "manual_include": false, "manual_reason": "Enterprise sales leader Paris"}
+{"url": "https://jobs.ashbyhq.com/sierra/f673561e-aece-4df9-ae46-55779dc6a9d8", "manual_include": false, "manual_reason": "Recruiting operations specialist; HR"}
+{"url": "https://jobs.ashbyhq.com/sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e", "manual_include": false, "manual_reason": "SWE frontend; proven production track record"}
+{"url": "https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73", "manual_include": false, "manual_reason": "PM agent development healthcare"}
+{"url": "https://jobs.ashbyhq.com/sierra/b4b762e6-8ce7-4ea7-b9b3-40c04f62135a", "manual_include": false, "manual_reason": "PM agent development London"}
+{"url": "https://jobs.ashbyhq.com/sierra/0c66e8ed-1c18-4b64-ad27-a522a866b6e1", "manual_include": false, "manual_reason": "PM voice"}
+{"url": "https://jobs.ashbyhq.com/sierra/c74d600c-235c-4d42-8546-b178b7adefc2", "manual_include": true, "manual_reason": "Intern agent development Fall 2026"}
+{"url": "https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e", "manual_include": false, "manual_reason": "SWE agent SF; experienced customer-facing"}
+{"url": "https://jobs.ashbyhq.com/sierra/ed38b1c1-2862-4e40-9894-3c6f20f7a785", "manual_include": false, "manual_reason": "Strategist agent development French; GTM"}
+{"url": "https://jobs.ashbyhq.com/sierra/687a56db-9f2a-42f9-94a0-fa06730c1e10", "manual_include": false, "manual_reason": "Security and compliance manager"}
+{"url": "https://jobs.ashbyhq.com/sierra/8d30e19d-73fd-4ebc-9cb2-83fc25f6a76e", "manual_include": false, "manual_reason": "Global benefits manager; HR"}
+{"url": "https://jobs.ashbyhq.com/sierra/5ed4bbfa-1c27-4242-be7f-b8dc4ce8c25f", "manual_include": false, "manual_reason": "SWE insights; senior data/analytics"}
+{"url": "https://jobs.ashbyhq.com/sierra/e9f85c28-882b-4fc6-b7e1-b24b17b54599", "manual_include": false, "manual_reason": "Commercial counsel; legal"}
+{"url": "https://jobs.ashbyhq.com/sierra/8023c5e9-5622-4f50-b3ba-0690a60e4cb2", "manual_include": false, "manual_reason": "GTM strategy & operations"}
+{"url": "https://jobs.ashbyhq.com/sierra/53a8fd83-3e58-41a4-b014-2da447db820b", "manual_include": false, "manual_reason": "Security TPM; senior program mgmt"}
+{"url": "https://jobs.ashbyhq.com/sierra/55e76105-7f8d-42e8-b1d1-120b7b83922e", "manual_include": false, "manual_reason": "SWE infrastructure; senior experience"}
+{"url": "https://jobs.ashbyhq.com/sierra/1c991675-099f-49dd-9b9b-bd3c9111e65c", "manual_include": false, "manual_reason": "GTM engineer; Salesforce/custom integrations"}
+{"url": "https://jobs.ashbyhq.com/sierra/409c7bae-fdfc-4d36-a427-297683063d43", "manual_include": false, "manual_reason": "Sales engineer Tokyo"}
+{"url": "https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb", "manual_include": false, "manual_reason": "SWE agent Singapore; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/787c1efd-2327-46e7-9335-59a20ad4be18", "manual_include": false, "manual_reason": "SWE agent Sydney; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/a696c4aa-9477-4d67-8f58-cc0d466a49b4", "manual_include": false, "manual_reason": "Office manager contractor"}
+{"url": "https://jobs.ashbyhq.com/sierra/198cd5cd-aa18-4541-abc9-b1f1ec0e5084", "manual_include": false, "manual_reason": "Commercial counsel Atlanta; legal"}
+{"url": "https://jobs.ashbyhq.com/sierra/b16462e4-ce32-4ce9-b788-0a8f0f096361", "manual_include": false, "manual_reason": "SWE product; senior experience"}
+{"url": "https://jobs.ashbyhq.com/sierra/4892f01e-8871-4b32-8963-527f1cf8db5d", "manual_include": false, "manual_reason": "PM agent development Spanish"}
+{"url": "https://jobs.ashbyhq.com/sierra/2a76bb97-2719-413c-94ad-775553e63abd", "manual_include": false, "manual_reason": "Strategist agent development financial services; GTM"}
+{"url": "https://jobs.ashbyhq.com/sierra/2fdb200f-c5cf-420c-9997-5e5cea6e1e20", "manual_include": false, "manual_reason": "SWE agent builder; senior"}
+{"url": "https://jobs.ashbyhq.com/sierra/10d2e2f1-6657-40c9-b6fb-6999c76df6cf", "manual_include": false, "manual_reason": "PM agent SDK; senior PM"}
+{"url": "https://jobs.ashbyhq.com/sierra/e3781010-1f68-484a-b624-9000b1681a57", "manual_include": false, "manual_reason": "Office manager London"}
+{"url": "https://jobs.ashbyhq.com/sierra/b1fc320b-d0d2-4ca5-9ce3-2ce8f51cf70e", "manual_include": false, "manual_reason": "Strategist agent development French Paris"}
+{"url": "https://jobs.ashbyhq.com/sierra/9f5b273f-1604-4b5b-bbbb-13cf0af35150", "manual_include": false, "manual_reason": "Enterprise account executive Italian"}
+{"url": "https://jobs.ashbyhq.com/sierra/569ba29b-de35-4bce-a16c-e27cb9b683ea", "manual_include": false, "manual_reason": "GTM operations agent development NYC"}
+{"url": "https://jobs.ashbyhq.com/sierra/44120ba5-4cf7-48a1-86af-7981c41c179e", "manual_include": false, "manual_reason": "Strategist agent development Munich"}
+{"url": "https://jobs.ashbyhq.com/sierra/a4541730-ae7f-4771-b3e9-7f9da6cc5d23", "manual_include": false, "manual_reason": "SWE agent Cantonese Singapore"}
+{"url": "https://jobs.ashbyhq.com/sierra/8152eaf6-012b-4154-95e2-7d6c52faba93", "manual_include": false, "manual_reason": "Sales engineer SF"}
+{"url": "https://jobs.ashbyhq.com/sierra/df431e56-56f5-42ed-bc62-7d6f7041bd27", "manual_include": false, "manual_reason": "SWE agent Madrid"}
+{"url": "https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f", "manual_include": false, "manual_reason": "SWE agent Arabic London"}
+{"url": "https://jobs.ashbyhq.com/sierra/2bba25d3-f5c1-4d84-b3fb-846b40597ff5", "manual_include": false, "manual_reason": "Security compliance manager London"}
+{"url": "https://jobs.ashbyhq.com/sierra/bbef339c-3365-40df-804b-ece245386b43", "manual_include": false, "manual_reason": "Security engineer; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/fe103c28-bc7e-433e-ad82-90a1655cba32", "manual_include": false, "manual_reason": "Enterprise account executive Arabic"}
+{"url": "https://jobs.ashbyhq.com/sierra/ab15547e-5c50-48a8-a560-f56c7bdad587", "manual_include": false, "manual_reason": "Strategist agent development Cantonese"}
+{"url": "https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf", "manual_include": false, "manual_reason": "SWE agent German London"}
+{"url": "https://jobs.ashbyhq.com/sierra/8d46d44c-8294-4807-a6b1-5087f0506a38", "manual_include": false, "manual_reason": "Strategist agent development Spanish Madrid"}
+{"url": "https://jobs.ashbyhq.com/sierra/a4376f1f-10bd-4804-899e-4b98b8245198", "manual_include": false, "manual_reason": "Enterprise sales leader US remote"}
+{"url": "https://jobs.ashbyhq.com/sierra/9dc1651d-43e9-4970-a757-a5223cef1c4d", "manual_include": false, "manual_reason": "PM agent development Arabic"}
+{"url": "https://jobs.ashbyhq.com/sierra/8e477331-3525-4e87-b311-e500f0fa61e9", "manual_include": false, "manual_reason": "Enterprise account executive ANZ"}
+{"url": "https://jobs.ashbyhq.com/sierra/38f06024-4ee9-47d6-a36f-f2791ac1e412", "manual_include": false, "manual_reason": "PM agent development French London"}
+{"url": "https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0", "manual_include": false, "manual_reason": "SWE agent London; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/9ec424f1-9013-41d1-bc4d-d36ddb9c98c1", "manual_include": false, "manual_reason": "Corporate security engineer lead"}
+{"url": "https://jobs.ashbyhq.com/sierra/39355227-d7a2-4066-b930-2bf2eeebc20c", "manual_include": false, "manual_reason": "Sales engineer Spain"}
+{"url": "https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66", "manual_include": false, "manual_reason": "SWE agent healthcare; experienced FDE"}
+{"url": "https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3", "manual_include": false, "manual_reason": "SWE platform; senior experience"}
+{"url": "https://jobs.ashbyhq.com/sierra/dc443fd1-14bd-493c-9397-c3713c78321c", "manual_include": false, "manual_reason": "PM agent development Singapore"}
+{"url": "https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d", "manual_include": false, "manual_reason": "SWE agent Toronto; experienced"}
+{"url": "https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f", "manual_include": false, "manual_reason": "PM agent data platform"}
+{"url": "https://jobs.ashbyhq.com/sierra/fd955efb-b782-4be3-ae81-30b5d75d8a3d", "manual_include": false, "manual_reason": "Presentation designer"}
+{"url": "https://jobs.ashbyhq.com/sierra/d3e957bc-b1d8-4006-be41-064d8fe4097f", "manual_include": false, "manual_reason": "Senior legal counsel Tokyo"}
+{"url": "https://jobs.ashbyhq.com/sierra/ebe951fb-8e8d-4bff-a499-e19010018f3b", "manual_include": false, "manual_reason": "Strategist agent development healthcare; GTM"}
+{"url": "https://jobs.ashbyhq.com/sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c", "manual_include": false, "manual_reason": "Strategist agent development SF; GTM"}
+{"url": "https://jobs.ashbyhq.com/sierra/757f6d53-8849-46b5-b23e-184753c05e62", "manual_include": false, "manual_reason": "Strategist agent development Tokyo; GTM/consulting"}
+{"url": "https://jobs.ashbyhq.com/sierra/08d96098-7213-44af-98da-f62366189f3b", "manual_include": false, "manual_reason": "Strategist agent development Singapore"}
+{"url": "https://jobs.ashbyhq.com/sierra/3437596e-e545-42a9-af82-9947fabf828c", "manual_include": false, "manual_reason": "Strategist agent development Spanish London"}
+{"url": "https://jobs.ashbyhq.com/sierra/b90d210e-c622-46c1-a0c3-d3ef3b3696dd", "manual_include": false, "manual_reason": "Sales engineer Munich"}
+{"url": "https://jobs.ashbyhq.com/sierra/7053ca02-ee36-48cc-b331-9d795a966c4c", "manual_include": false, "manual_reason": "Developer relations engineer SF; senior"}
+{"url": "https://jobs.ashbyhq.com/sierra/b3829801-8e0b-4047-8cd8-8a51c87028fd", "manual_include": false, "manual_reason": "SWE agent architecture; senior"}
+{"url": "https://jobs.ashbyhq.com/sierra/3914e14a-2339-4d49-97e8-3a0de793cfb1", "manual_include": false, "manual_reason": "SWE SRE; senior experience"}
+{"url": "https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1", "manual_include": false, "manual_reason": "SWE security; experienced security IC"}
+{"url": "https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c", "manual_include": false, "manual_reason": "PM ghostwriter"}
+{"url": "https://jobs.ashbyhq.com/sierra/99e82c10-977f-4b42-a737-2d9812ce614d", "manual_include": false, "manual_reason": "Strategist agent development Sydney"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/a3165184-69a1-4a5a-8695-88340417db82", "manual_include": false, "manual_reason": "Senior accountant"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572", "manual_include": false, "manual_reason": "Staff product analytics engineer"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc", "manual_include": false, "manual_reason": "MTS backend engineer API; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/277fb5d6-da39-439e-bf3c-3201b9750b31", "manual_include": false, "manual_reason": "MTS research engineer GPU; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/5e8d6c9b-0d30-4bb2-90a9-df7d937aa44e", "manual_include": false, "manual_reason": "Research science manager; management"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/0b7b8839-037f-4ccf-886b-6d247923601c", "manual_include": false, "manual_reason": "MTS applied research scientist; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/54ae5057-1bd1-4b14-9444-e01e3643f6cc", "manual_include": false, "manual_reason": "Senior/staff technical recruiter"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/f74afbd9-b4e8-4b87-835a-5e22dcc556ae", "manual_include": false, "manual_reason": "MTS research engineer datasets; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/2ca5c5d1-725d-4c44-907b-5d808ec248fe", "manual_include": false, "manual_reason": "Creative support specialist; non-tech support"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/37be5175-5a9a-4bee-9b5e-fb475350806b", "manual_include": false, "manual_reason": "AI engagement manager; customer success"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/0a79e4be-d7ea-4d43-9400-33a23f552b81", "manual_include": false, "manual_reason": "Enterprise account executive"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/b5d136bb-4143-400b-914a-0ae7377ad8ed", "manual_include": false, "manual_reason": "Engineering manager API"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/67594584-5c50-42e8-a7ff-7c53daf5be88", "manual_include": false, "manual_reason": "API deployment manager"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/98e4b160-3bbe-4acd-b106-ad75ccc49675", "manual_include": false, "manual_reason": "MTS research engineer; experienced IC"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/f65e164b-d577-4bd3-993b-7868d51fab5d", "manual_include": false, "manual_reason": "Senior/staff business/creative recruiter"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/92044f68-4957-4cf0-9590-98952732b219", "manual_include": false, "manual_reason": "Design engineer; experienced design+code"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/fc409275-6797-4504-9be9-3215276d3645", "manual_include": false, "manual_reason": "Staff product manager ML research"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/f6e8f3fa-0440-484e-92f7-6ae2e67f1d07", "manual_include": false, "manual_reason": "Creative support specialist enterprise"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/6da9edec-0ad7-4871-b51f-cc2714688d91", "manual_include": false, "manual_reason": "Creative workflow architect"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/e0fec99f-ae6e-4f92-ac1a-7d227179261f", "manual_include": false, "manual_reason": "Sr/staff product designer"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/409d3e12-0b5c-4e71-b3c2-49fdd84bdab9", "manual_include": false, "manual_reason": "Member of partnerships staff physical AI"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/602482ff-7bf3-4001-a7dc-f3887906aeb8", "manual_include": false, "manual_reason": "B2B marketing director"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/da5557e5-62dc-45a3-a173-0b7e9a61cb09", "manual_include": false, "manual_reason": "Copywriter"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/0ea253c8-590b-4d5b-b72d-2ca08b2ee0e2", "manual_include": false, "manual_reason": "Creative director"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/9847d13d-9f03-4060-bf62-f450e7a049bc", "manual_include": false, "manual_reason": "Art director"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/5d5a91ae-b091-425c-96b5-2d4a88d0c796", "manual_include": false, "manual_reason": "General manager Japan"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/628c7415-5638-46e0-93c7-067522579e82", "manual_include": false, "manual_reason": "Counsel/senior counsel litigation"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/109eaded-dde4-459d-b3a6-5f26f3a57f63", "manual_include": false, "manual_reason": "MTS mobile engineer; 5+ yrs mobile"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/f89f3b6d-8558-4402-b3ac-cb5ee2980326", "manual_include": false, "manual_reason": "MTS developer relations lead"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/8656971e-a80c-4882-8cc3-62b92b162077", "manual_include": false, "manual_reason": "Enterprise account executive London"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/9e54a328-8bf2-4255-9358-7f26c5d1e7aa", "manual_include": false, "manual_reason": "Commercial counsel; legal"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/959bd6b5-da63-41d3-918b-fb357a8fd6f9", "manual_include": false, "manual_reason": "Member of partnerships staff"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/89cbd5a5-c7cb-43f0-b88e-dba1f7c8860b", "manual_include": false, "manual_reason": "Corporate development; finance/M&A"}
+{"url": "https://jobs.ashbyhq.com/runway-ml/44c1578a-3b0c-4b64-b1c0-89f51e8635ee", "manual_include": false, "manual_reason": "Sr manager sales development"}
+{"url": "https://coreweave.com/careers/job?4653331006&board=coreweave&gh_jid=4653331006", "manual_include": false, "manual_reason": "Manager energy & power transaction; finance"}
+{"url": "https://coreweave.com/careers/job?4680945006&board=coreweave&gh_jid=4680945006", "manual_include": false, "manual_reason": "Director global people operations; HR"}
+{"url": "https://coreweave.com/careers/job?4650820006&board=coreweave&gh_jid=4650820006", "manual_include": false, "manual_reason": "Senior manager corporate development accounting"}
+{"url": "https://coreweave.com/careers/job?4568136006&board=coreweave&gh_jid=4568136006", "manual_include": false, "manual_reason": "Senior cloud support engineer"}
+{"url": "https://coreweave.com/careers/job?4677479006&board=coreweave&gh_jid=4677479006", "manual_include": false, "manual_reason": "Senior engineer storage control plane"}
+{"url": "https://coreweave.com/careers/job?4683042006&board=coreweave&gh_jid=4683042006", "manual_include": false, "manual_reason": "Staff business systems engineer; 10+ yrs NetSuite"}
+{"url": "https://coreweave.com/careers/job?4581198006&board=coreweave&gh_jid=4581198006", "manual_include": false, "manual_reason": "Principal engineer observability"}
+{"url": "https://coreweave.com/careers/job?4643503006&board=coreweave&gh_jid=4643503006", "manual_include": false, "manual_reason": "Head of market intelligence"}
+{"url": "https://coreweave.com/careers/job?4676074006&board=coreweave&gh_jid=4676074006", "manual_include": false, "manual_reason": "Senior benefits manager; HR"}
+{"url": "https://coreweave.com/careers/job?4615476006&board=coreweave&gh_jid=4615476006", "manual_include": false, "manual_reason": "Senior revenue accountant"}
+{"url": "https://coreweave.com/careers/job?4681303006&board=coreweave&gh_jid=4681303006", "manual_include": false, "manual_reason": "Security operations engineer; experienced"}
+{"url": "https://coreweave.com/careers/job?4554201006&board=coreweave&gh_jid=4554201006", "manual_include": false, "manual_reason": "Senior SWE observability"}
+{"url": "https://coreweave.com/careers/job?4651535006&board=coreweave&gh_jid=4651535006", "manual_include": false, "manual_reason": "Staff product manager insights"}
+{"url": "https://coreweave.com/careers/job?4673538006&board=coreweave&gh_jid=4673538006", "manual_include": false, "manual_reason": "Senior PM data center; 8+ yrs"}
+{"url": "https://coreweave.com/careers/job?4669527006&board=coreweave&gh_jid=4669527006", "manual_include": false, "manual_reason": "Staff data center augmentation engineer"}
+{"url": "https://coreweave.com/careers/job?4644836006&board=coreweave&gh_jid=4644836006", "manual_include": false, "manual_reason": "Infrastructure ops program manager"}
+{"url": "https://coreweave.com/careers/job?4662912006&board=coreweave&gh_jid=4662912006", "manual_include": false, "manual_reason": "Executive assistant IT"}
+{"url": "https://coreweave.com/careers/job?4674028006&board=coreweave&gh_jid=4674028006", "manual_include": false, "manual_reason": "Command center systems engineer; senior"}
+{"url": "https://coreweave.com/careers/job?4675342006&board=coreweave&gh_jid=4675342006", "manual_include": false, "manual_reason": "Technical project manager east region"}
+{"url": "https://coreweave.com/careers/job?4676207006&board=coreweave&gh_jid=4676207006", "manual_include": false, "manual_reason": "Senior security engineer PKI"}
+{"url": "https://coreweave.com/careers/job?4653971006&board=coreweave&gh_jid=4653971006", "manual_include": false, "manual_reason": "Staff engineer Cilium CNI"}
+{"url": "https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006", "manual_include": false, "manual_reason": "Integration engineer people technologies"}
+{"url": "https://coreweave.com/careers/job?4677421006&board=coreweave&gh_jid=4677421006", "manual_include": false, "manual_reason": "Manager technical recruiting; HR"}
+{"url": "https://coreweave.com/careers/job?4651528006&board=coreweave&gh_jid=4651528006", "manual_include": false, "manual_reason": "Staff thermal engineer; 10+ yrs"}
+{"url": "https://coreweave.com/careers/job?4675360006&board=coreweave&gh_jid=4675360006", "manual_include": false, "manual_reason": "Senior data scientist forecasting"}
+{"url": "https://coreweave.com/careers/job?4676674006&board=coreweave&gh_jid=4676674006", "manual_include": false, "manual_reason": "Staff business systems engineer data center"}
+{"url": "https://coreweave.com/careers/job?4649044006&board=coreweave&gh_jid=4649044006", "manual_include": false, "manual_reason": "Solutions architect HPC/AI/ML; senior presales"}
+{"url": "https://coreweave.com/careers/job?4674004006&board=coreweave&gh_jid=4674004006", "manual_include": false, "manual_reason": "Command center ops governance specialist"}
+{"url": "https://coreweave.com/careers/job?4679718006&board=coreweave&gh_jid=4679718006", "manual_include": false, "manual_reason": "Product manager finance"}
+{"url": "https://coreweave.com/careers/job?4587675006&board=coreweave&gh_jid=4587675006", "manual_include": false, "manual_reason": "SWE observability; experienced (non-senior title but no EC bar visible)"}
+{"url": "https://coreweave.com/careers/job?4606485006&board=coreweave&gh_jid=4606485006", "manual_include": false, "manual_reason": "Senior electrical engineer"}
+{"url": "https://coreweave.com/careers/job?4582453006&board=coreweave&gh_jid=4582453006", "manual_include": false, "manual_reason": "Senior business systems engineer supply chain"}
+{"url": "https://coreweave.com/careers/job?4665402006&board=coreweave&gh_jid=4665402006", "manual_include": false, "manual_reason": "Senior SWE molab"}
+{"url": "https://coreweave.com/careers/job?4661612006&board=coreweave&gh_jid=4661612006", "manual_include": false, "manual_reason": "Accounting manager capital assets"}
+{"url": "https://coreweave.com/careers/job?4670172006&board=coreweave&gh_jid=4670172006", "manual_include": false, "manual_reason": "Senior production engineer; 7+ yrs"}
+{"url": "https://coreweave.com/careers/job?4678462006&board=coreweave&gh_jid=4678462006", "manual_include": false, "manual_reason": "Operations engineering manager fleet reliability"}
+{"url": "https://coreweave.com/careers/job?4671494006&board=coreweave&gh_jid=4671494006", "manual_include": false, "manual_reason": "Senior manager data infrastructure services"}
+{"url": "https://coreweave.com/careers/job?4647988006&board=coreweave&gh_jid=4647988006", "manual_include": false, "manual_reason": "Senior enterprise account executive UK"}
+{"url": "https://coreweave.com/careers/job?4577361006&board=coreweave&gh_jid=4577361006", "manual_include": false, "manual_reason": "Staff SWE observability"}
+{"url": "https://coreweave.com/careers/job?4658270006&board=coreweave&gh_jid=4658270006", "manual_include": false, "manual_reason": "Data center OFCI quality manager"}
+{"url": "https://coreweave.com/careers/job?4644302006&board=coreweave&gh_jid=4644302006", "manual_include": false, "manual_reason": "Staff production engineer"}
+{"url": "https://coreweave.com/careers/job?4653130006&board=coreweave&gh_jid=4653130006", "manual_include": false, "manual_reason": "Staff security engineer vulnerability mgmt"}
+{"url": "https://coreweave.com/careers/job?4658311006&board=coreweave&gh_jid=4658311006", "manual_include": false, "manual_reason": "Senior SWE data center infra tooling"}
+{"url": "https://coreweave.com/careers/job?4553828006&board=coreweave&gh_jid=4553828006", "manual_include": false, "manual_reason": "Senior SWE server fleet infrastructure; 5+ yrs"}
+{"url": "https://coreweave.com/careers/job?4659095006&board=coreweave&gh_jid=4659095006", "manual_include": false, "manual_reason": "Staff frontend engineer DC infra"}
+{"url": "https://coreweave.com/careers/job?4622845006&board=coreweave&gh_jid=4622845006", "manual_include": false, "manual_reason": "Solutions architect; senior presales"}
+{"url": "https://coreweave.com/careers/job?4674279006&board=coreweave&gh_jid=4674279006", "manual_include": false, "manual_reason": "Staff systems engineer architect"}
+{"url": "https://coreweave.com/careers/job?4591950006&board=coreweave&gh_jid=4591950006", "manual_include": false, "manual_reason": "Data center manager; operations leadership"}
+{"url": "https://coreweave.com/careers/job?4652801006&board=coreweave&gh_jid=4652801006", "manual_include": false, "manual_reason": "Senior associate energy market development"}
+{"url": "https://coreweave.com/careers/job?4676913006&board=coreweave&gh_jid=4676913006", "manual_include": false, "manual_reason": "Sr SWE source control governance"}
+{"url": "https://coreweave.com/careers/job?4660498006&board=coreweave&gh_jid=4660498006", "manual_include": false, "manual_reason": "Senior manager accounting transformation; 10+ yrs"}
+{"url": "https://coreweave.com/careers/job?4657803006&board=coreweave&gh_jid=4657803006", "manual_include": false, "manual_reason": "Offensive security engineer; senior"}
+{"url": "https://coreweave.com/careers/job?4675297006&board=coreweave&gh_jid=4675297006", "manual_include": false, "manual_reason": "Senior production engineer Singapore; 7+ yrs"}
+{"url": "https://coreweave.com/careers/job?4649036006&board=coreweave&gh_jid=4649036006", "manual_include": false, "manual_reason": "Solutions architect Kubernetes Singapore"}
+{"url": "https://coreweave.com/careers/job?4568528006&board=coreweave&gh_jid=4568528006", "manual_include": false, "manual_reason": "Solutions architect networking"}
+{"url": "https://coreweave.com/careers/job?4557835006&board=coreweave&gh_jid=4557835006", "manual_include": false, "manual_reason": "Solutions architect Kubernetes"}
+{"url": "https://coreweave.com/careers/job?4649884006&board=coreweave&gh_jid=4649884006", "manual_include": false, "manual_reason": "SDR; sales development"}
+{"url": "https://coreweave.com/careers/job?4639505006&board=coreweave&gh_jid=4639505006", "manual_include": false, "manual_reason": "Director field enablement"}
+{"url": "https://coreweave.com/careers/job?4675120006&board=coreweave&gh_jid=4675120006", "manual_include": false, "manual_reason": "Senior facilities engineer"}
+{"url": "https://coreweave.com/careers/job?4650165006&board=coreweave&gh_jid=4650165006", "manual_include": false, "manual_reason": "Reliability lead common services; 7+ yrs"}
+{"url": "https://coreweave.com/careers/job?4647586006&board=coreweave&gh_jid=4647586006", "manual_include": false, "manual_reason": "Staff SWE AI workload orchestration"}
+{"url": "https://coreweave.com/careers/job?4652254006&board=coreweave&gh_jid=4652254006", "manual_include": false, "manual_reason": "Senior SWE core open-source marimo"}
+{"url": "https://coreweave.com/careers/job?4678600006&board=coreweave&gh_jid=4678600006", "manual_include": false, "manual_reason": "Staff SWE developer experience"}
+{"url": "https://coreweave.com/careers/job?4677325006&board=coreweave&gh_jid=4677325006", "manual_include": false, "manual_reason": "Inventory control regional manager; ops"}
+{"url": "https://coreweave.com/careers/job?4601657006&board=coreweave&gh_jid=4601657006", "manual_include": false, "manual_reason": "HPC performance engineer; 5+ yrs"}
+{"url": "https://coreweave.com/careers/job?4649055006&board=coreweave&gh_jid=4649055006", "manual_include": false, "manual_reason": "Manager bare metal support engineering"}
+{"url": "https://coreweave.com/careers/job?4626698006&board=coreweave&gh_jid=4626698006", "manual_include": false, "manual_reason": "Sr SWE perf benchmarking; 5+ yrs"}
+{"url": "https://coreweave.com/careers/job?4671387006&board=coreweave&gh_jid=4671387006", "manual_include": false, "manual_reason": "Director engineering security products"}
+{"url": "https://coreweave.com/careers/job?4653764006&board=coreweave&gh_jid=4653764006", "manual_include": false, "manual_reason": "Senior security engineer enterprise"}
+{"url": "https://coreweave.com/careers/job?4678458006&board=coreweave&gh_jid=4678458006", "manual_include": false, "manual_reason": "Staff TPM cluster orchestration"}
+{"url": "https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006", "manual_include": true, "manual_reason": "SWE inference AI/ML; IC1 level, mentorship, EC SWE role"}
+{"url": "https://coreweave.com/careers/job?4677750006&board=coreweave&gh_jid=4677750006", "manual_include": false, "manual_reason": "Director government affairs"}
+{"url": "https://coreweave.com/careers/job?4568531006&board=coreweave&gh_jid=4568531006", "manual_include": false, "manual_reason": "Solutions architect storage"}
+{"url": "https://coreweave.com/careers/job?4650207006&board=coreweave&gh_jid=4650207006", "manual_include": false, "manual_reason": "Security engineering manager network"}
+{"url": "https://coreweave.com/careers/job?4679602006&board=coreweave&gh_jid=4679602006", "manual_include": false, "manual_reason": "Data center security engineer; experienced"}
+{"url": "https://coreweave.com/careers/job?4645496006&board=coreweave&gh_jid=4645496006", "manual_include": false, "manual_reason": "Firmware engineering manager; leadership"}
+{"url": "https://coreweave.com/careers/job?4663202006&board=coreweave&gh_jid=4663202006", "manual_include": false, "manual_reason": "Staff security engineer SOAR; 8-10 yrs"}
+{"url": "https://coreweave.com/careers/job?4649178006&board=coreweave&gh_jid=4649178006", "manual_include": false, "manual_reason": "Data center energy analyst"}
+{"url": "https://coreweave.com/careers/job?4627302006&board=coreweave&gh_jid=4627302006", "manual_include": false, "manual_reason": "Principal engineer perf benchmarking; 10+ yrs"}
+{"url": "https://coreweave.com/careers/job?4652977006&board=coreweave&gh_jid=4652977006", "manual_include": false, "manual_reason": "Data center technician EOI; hardware ops not SWE"}
+{"url": "https://coreweave.com/careers/job?4627277006&board=coreweave&gh_jid=4627277006", "manual_include": false, "manual_reason": "Sr GPU infrastructure SWE; 5-8 yrs"}
+{"url": "https://coreweave.com/careers/job?4651112006&board=coreweave&gh_jid=4651112006", "manual_include": false, "manual_reason": "IT operations specialist Warsaw"}
+{"url": "https://coreweave.com/careers/job?4681508006&board=coreweave&gh_jid=4681508006", "manual_include": false, "manual_reason": "Senior managing associate general counsel"}
+{"url": "https://coreweave.com/careers/job?4670593006&board=coreweave&gh_jid=4670593006", "manual_include": false, "manual_reason": "Staff SWE inference"}
+{"url": "https://coreweave.com/careers/job?4662787006&board=coreweave&gh_jid=4662787006", "manual_include": false, "manual_reason": "Software enablement specialist; sales enablement"}
+{"url": "https://coreweave.com/careers/job?4650308006&board=coreweave&gh_jid=4650308006", "manual_include": false, "manual_reason": "Senior security engineer SOAR; 4-5 yrs"}
+{"url": "https://coreweave.com/careers/job?4569274006&board=coreweave&gh_jid=4569274006", "manual_include": false, "manual_reason": "SWE network services; 4+ yrs"}
+{"url": "https://coreweave.com/careers/job?4679701006&board=coreweave&gh_jid=4679701006", "manual_include": false, "manual_reason": "AV operations specialist"}
+{"url": "https://coreweave.com/careers/job?4667917006&board=coreweave&gh_jid=4667917006", "manual_include": false, "manual_reason": "Legal operations analyst"}
+{"url": "https://coreweave.com/careers/job?4646569006&board=coreweave&gh_jid=4646569006", "manual_include": false, "manual_reason": "Senior manager technical solutions manager"}
+{"url": "https://coreweave.com/careers/job?4679327006&board=coreweave&gh_jid=4679327006", "manual_include": false, "manual_reason": "Account executive M&E; sales"}
+{"url": "https://coreweave.com/careers/job?4656905006&board=coreweave&gh_jid=4656905006", "manual_include": false, "manual_reason": "Senior manager SOX business process"}
+{"url": "https://coreweave.com/careers/job?4629116006&board=coreweave&gh_jid=4629116006", "manual_include": false, "manual_reason": "Senior engineering manager data engineering"}
+{"url": "https://coreweave.com/careers/job?4683562006&board=coreweave&gh_jid=4683562006", "manual_include": false, "manual_reason": "Infrastructure community communications lead"}
+{"url": "https://coreweave.com/careers/job?4683502006&board=coreweave&gh_jid=4683502006", "manual_include": false, "manual_reason": "Senior threat intelligence specialist; 7+ yrs"}
+{"url": "https://coreweave.com/careers/job?4667932006&board=coreweave&gh_jid=4667932006", "manual_include": false, "manual_reason": "Senior counsel employment; legal"}
+{"url": "https://coreweave.com/careers/job?4658799006&board=coreweave&gh_jid=4658799006", "manual_include": false, "manual_reason": "Principal engineer cluster orchestration"}
+{"url": "https://coreweave.com/careers/job?4655160006&board=coreweave&gh_jid=4655160006", "manual_include": false, "manual_reason": "Senior supply materials manager"}
+{"url": "https://coreweave.com/careers/job?4669924006&board=coreweave&gh_jid=4669924006", "manual_include": false, "manual_reason": "Associate general counsel regulatory; legal"}
+{"url": "https://coreweave.com/careers/job?4620164006&board=coreweave&gh_jid=4620164006", "manual_include": false, "manual_reason": "Staff security engineer network security"}
+{"url": "https://jobs.lever.co/mistral/cb2137e6-d6b1-47d7-8450-6370a61f2b79", "manual_include": false, "manual_reason": "Applied AI FDE ML engineer Morocco; 2+ yrs IC"}
+{"url": "https://jobs.lever.co/mistral/c2cf8b02-cb79-4e13-8717-25817813542d", "manual_include": false, "manual_reason": "Systems engineer HPC; experienced infra"}
+{"url": "https://jobs.lever.co/mistral/b002e59e-c262-4c68-86a8-4af575f5c4df", "manual_include": false, "manual_reason": "Engineering team lead DevEx; 5+ yrs lead"}
+{"url": "https://jobs.lever.co/mistral/8f93bac1-1885-41ea-8650-cb5454be97e7", "manual_include": false, "manual_reason": "AI deployment strategist Marseille; 2+ yrs consulting"}
+{"url": "https://jobs.lever.co/mistral/e0ed3178-622f-45b5-99ae-324a1c7f86ce", "manual_include": false, "manual_reason": "SAP platform lead; enterprise ERP"}
+{"url": "https://jobs.lever.co/mistral/bd69355b-9159-4bad-b52d-b71110e65090", "manual_include": false, "manual_reason": "Legal tech ops associate IP; 3+ yrs legal ops"}
+{"url": "https://jobs.lever.co/mistral/518120c6-c4af-4246-bc8b-1b6965b82652", "manual_include": false, "manual_reason": "Legal counsel M&A; 7+ yrs legal"}
+{"url": "https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7", "manual_include": true, "manual_reason": "Applied scientist/research engineer internship"}
+{"url": "https://jobs.lever.co/mistral/bd88179e-de69-4675-8a6c-74e2547a85ac", "manual_include": false, "manual_reason": "Code data annotation quality specialist; ops"}
+{"url": "https://jobs.lever.co/mistral/0cde829a-c9b9-4ee1-827f-9bd30c1810fc", "manual_include": false, "manual_reason": "AI deployment strategist Marseille; 2+ yrs"}
+{"url": "https://jobs.lever.co/mistral/94173e13-3050-4044-862a-e8dfc2deda5e", "manual_include": false, "manual_reason": "AI scientist audio; experienced research IC"}
+{"url": "https://jobs.lever.co/mistral/bedfc2aa-f1b6-4136-bd17-b3abe4c06120", "manual_include": false, "manual_reason": "AI scientist Zurich; experienced research IC"}
+{"url": "https://jobs.lever.co/mistral/1cb8bbe9-012f-46a6-83d0-1200be477793", "manual_include": false, "manual_reason": "Data annotation quality specialist; ops"}
+{"url": "https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c", "manual_include": false, "manual_reason": "Applied AI evaluation engineer; senior ML product"}
+{"url": "https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f", "manual_include": false, "manual_reason": "Research engineer data infrastructure; 4+ yrs"}
+{"url": "https://jobs.lever.co/mistral/e97be5bf-6ee6-41d6-8a48-6626e9718ca6", "manual_include": false, "manual_reason": "Partner marketing lead"}
+{"url": "https://jobs.lever.co/mistral/97a9b891-7979-4ca7-a2d9-f1f5e9107ce5", "manual_include": false, "manual_reason": "Social media specialist; marketing"}
+{"url": "https://jobs.lever.co/mistral/6fc7ccb5-47bb-4eab-aea0-55929403315d", "manual_include": false, "manual_reason": "Applied AI FDE ML engineer Singapore; 2+ yrs"}
+{"url": "https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725", "manual_include": false, "manual_reason": "AI developer advocate; 6+ yrs DevRel"}
+{"url": "https://jobs.lever.co/mistral/ddf7bcbb-e223-4768-a553-6e95df472cf7", "manual_include": false, "manual_reason": "Datacenter hardware engineer HPC; experienced"}
+{"url": "https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea", "manual_include": false, "manual_reason": "Applied AI technical lead FDE; 7/8+ yrs leadership"}
+{"url": "https://jobs.lever.co/mistral/7b20d2c8-d5a7-4efd-a13e-05d920ec5985", "manual_include": false, "manual_reason": "AI scientist Palo Alto; experienced research IC"}
+{"url": "https://jobs.lever.co/mistral/dfb77ba1-727b-454e-a323-e6e0eafec561", "manual_include": false, "manual_reason": "Partner solution architect EMEA; presales"}
+{"url": "https://jobs.lever.co/mistral/12483859-fc38-4f34-a540-e2579711d8a5", "manual_include": false, "manual_reason": "Research operations manager; management"}
+{"url": "https://jobs.lever.co/mistral/25e20280-bdd6-4dee-9857-9247aeac0067", "manual_include": false, "manual_reason": "Privacy legal counsel; legal"}
+{"url": "https://jobs.lever.co/mistral/daf03118-b649-4a1b-8f61-a4e86839fd7c", "manual_include": false, "manual_reason": "Accounts payable manager; finance"}
+{"url": "https://jobs.lever.co/mistral/ca22a1ac-c87e-4463-914a-6753ca79318c", "manual_include": false, "manual_reason": "Product manager cloud partnerships; 7+ yrs PM"}
+{"url": "https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761", "manual_include": false, "manual_reason": "Applied AI senior/staff fullstack Singapore; 5+ yrs"}
+{"url": "https://jobs.lever.co/mistral/4e498cbf-151e-483a-b3f7-76ff64a22041", "manual_include": false, "manual_reason": "AI scientist Warsaw; experienced research IC"}
+{"url": "https://jobs.lever.co/mistral/52808932-3aaa-419f-a08d-1fb2a0aed781", "manual_include": false, "manual_reason": "Account executive enterprise UK; 7-10 yrs sales"}
+{"url": "https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366", "manual_include": true, "manual_reason": "Backend SWE NY; CS degree, no yrs bar, live-coding hire"}
+{"url": "https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0", "manual_include": false, "manual_reason": "Research platform engineer; 5+ yrs DevOps/SRE"}
+{"url": "https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489", "manual_include": false, "manual_reason": "AI scientist Paris/London; experienced research IC"}
+{"url": "https://jobs.lever.co/mistral/a6064464-4ff5-42e6-aa15-75122a5fa9f6", "manual_include": false, "manual_reason": "Lead accounting operations; finance"}
+{"url": "https://jobs.lever.co/mistral/c7a25da7-87e4-4a14-a50e-ef3222550136", "manual_include": false, "manual_reason": "TPM science operations code; management"}
+{"url": "https://jobs.lever.co/mistral/715aba24-6c75-40a6-a978-ac6ebbebece5", "manual_include": false, "manual_reason": "Applied science TPM EMEA; management"}
+{"url": "https://jobs.lever.co/mistral/ea94b55b-58e1-437b-bf3d-07ed150308e3", "manual_include": false, "manual_reason": "Field hardware engineer HPC; experienced hardware"}
+{"url": "https://jobs.lever.co/mistral/9e1aac08-ea14-4a56-ab84-1bc3a7d941b8", "manual_include": false, "manual_reason": "Workplace ops Paris; facilities/ops"}
+{"url": "https://jobs.lever.co/mistral/7ed4baa4-9323-4c5e-96eb-732a92257474", "manual_include": false, "manual_reason": "Product designer Mistral cloud; design"}
+{"url": "https://jobs.lever.co/mistral/11087966-f183-44b1-adc9-3a400c1f52ad", "manual_include": false, "manual_reason": "Product manager Forge; PM"}
+{"url": "https://jobs.lever.co/mistral/071a5491-ea01-413f-ad78-f85b5e4c2215", "manual_include": false, "manual_reason": "Research engineer data infrastructure; 4+ yrs"}
+{"url": "https://jobs.lever.co/mistral/bb02882b-fb2e-4d06-9d5e-bd7654eee8e7", "manual_include": false, "manual_reason": "AI deployment strategist Luxembourg; 2+ yrs consulting"}
+{"url": "https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a", "manual_include": false, "manual_reason": "SWE enterprise agents; strong experience implied, no EC bar"}
+{"url": "https://jobs.lever.co/mistral/55c2e8f4-a3ea-4e59-9ccf-dac2fee26c65", "manual_include": false, "manual_reason": "AI deployment strategist Singapore; 2+ yrs consulting"}
+{"url": "https://jobs.lever.co/mistral/9a6c0605-8beb-4122-99c8-ae96beea691b", "manual_include": false, "manual_reason": "Solutions architect partner EMEA; presales"}
+{"url": "https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab", "manual_include": false, "manual_reason": "Applied AI technical lead FDE Montreal; leadership"}
+{"url": "https://jobs.lever.co/mistral/d9f2767e-cdab-4e07-9944-20bbc468613d", "manual_include": false, "manual_reason": "AI deployment strategist cybersecurity Paris; consulting"}
+{"url": "https://jobs.lever.co/mistral/8a74fb66-c6ae-40eb-981d-d07ca17593be", "manual_include": false, "manual_reason": "Executive assistant to CRO; admin"}
+{"url": "https://jobs.lever.co/mistral/aef81704-b44b-4a42-bdb0-a895cf709df6", "manual_include": false, "manual_reason": "M&A tech engineer; experienced integrations"}
+{"url": "https://jobs.lever.co/mistral/9808a516-afa8-49a4-93e2-dfc6c616ea0b", "manual_include": false, "manual_reason": "AI deployment strategist Australia; 2+ yrs consulting"}
+{"url": "https://jobs.lever.co/mistral/03e85b97-a91d-46e9-afa4-77945235277a", "manual_include": false, "manual_reason": "Strategic partner lead SAP; partnerships"}
+{"url": "https://jobs.lever.co/mistral/41262cfd-5a86-4645-b059-1de4ee9b9ccb", "manual_include": false, "manual_reason": "Talent acquisition EMEA; recruiting"}
+{"url": "https://jobs.lever.co/mistral/46bf0c1c-cca2-4941-bd8d-18024fa59afa", "manual_include": false, "manual_reason": "Account executive enterprise France; sales"}
+{"url": "https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c", "manual_include": false, "manual_reason": "Applied AI senior/staff DevOps SRE EMEA; 5+ yrs"}
+{"url": "https://jobs.lever.co/mistral/05d162b7-6a6d-47b6-badf-d51bf122c01f", "manual_include": false, "manual_reason": "Founder in residence; founder program not EC hire"}
+{"url": "https://jobs.lever.co/mistral/d027b953-5c6a-4145-8697-9472efba873f", "manual_include": false, "manual_reason": "Legal counsel banking/financing; legal"}
+{"url": "https://jobs.lever.co/mistral/b1005559-123a-4207-97c1-60fcd67bef5b", "manual_include": false, "manual_reason": "Talent acquisition EMEA contractor; recruiting"}
+{"url": "https://jobs.lever.co/mistral/05357f94-2843-4385-a5ef-1a132ad88315", "manual_include": false, "manual_reason": "IFRS specialist; finance accounting"}
+{"url": "https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee", "manual_include": false, "manual_reason": "Applied AI fullstack SWE sovereign Paris; 2+ yrs required"}
+{"url": "https://jobs.lever.co/mistral/59624055-8cc3-43dc-81d4-4f01d77e30c9", "manual_include": false, "manual_reason": "Marketing programs manager"}
+{"url": "https://jobs.lever.co/mistral/2e48b51e-4872-41ee-833d-f8b57d25cf0d", "manual_include": false, "manual_reason": "Strategic partner lead OEM and neoclouds"}
+{"url": "https://jobs.lever.co/mistral/03918386-cb56-4e4d-afa8-1f8b7676a4a6", "manual_include": false, "manual_reason": "SWE QA; proven QA experience, no EC signal"}
+{"url": "https://jobs.lever.co/mistral/b2849d9e-c6aa-426d-8ca7-d668e3d44d78", "manual_include": false, "manual_reason": "Technical marketing engineer solutions; marketing"}
+{"url": "https://jobs.lever.co/mistral/1e51a251-94cd-486e-8992-93024840412e", "manual_include": false, "manual_reason": "AI deployment strategist Seoul; 2+ yrs consulting"}
+{"url": "https://jobs.lever.co/mistral/f00a13aa-61f1-4c56-993c-20846adc2b15", "manual_include": false, "manual_reason": "Technical support engineer on-premise; support"}
+{"url": "https://jobs.lever.co/mistral/bfb756e5-c820-4c55-96f4-f41c4cfa972e", "manual_include": false, "manual_reason": "Enterprise sales leader"}
+{"url": "https://jobs.lever.co/mistral/29d52ffe-b3af-4510-80a7-9a1165ed487d", "manual_include": false, "manual_reason": "Technical documentation manager; management"}
+{"url": "https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823", "manual_include": true, "manual_reason": "Backend SWE Paris; CS degree, no yrs bar, live-coding hire"}
+{"url": "https://jobs.lever.co/mistral/ed08b81f-9c52-4f86-addd-c4c06f3b114a", "manual_include": false, "manual_reason": "Account executive enterprise NY; sales"}
+{"url": "https://jobs.lever.co/mistral/3a121ef0-8b21-4a27-8ca1-89502926f957", "manual_include": false, "manual_reason": "Lead documentation engineer; lead role"}
+{"url": "https://jobs.lever.co/mistral/df0d75c1-97ef-4e50-85e6-0ffd8f5b7d7c", "manual_include": false, "manual_reason": "Research SWE Paris/London; 4+ yrs distributed systems"}

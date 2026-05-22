@@ -1,50 +1,659 @@
-{"url": "https://jobs.ashbyhq.com/elevenlabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15", "manual_include": false, "manual_reason": "Enterprise sales/account executive role, not SWE/DS/ML engineering"}
-{"url": "https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d", "manual_include": false, "manual_reason": "Compliance engineering role without early-career signals; likely experienced hire"}
-{"url": "https://jobs.ashbyhq.com/hebbia-ai/a1d492a2-efba-4c4f-a243-e98b0ce2a967", "manual_include": false, "manual_reason": "AI strategist/GTM post-sales role for finance, not technical engineering"}
-{"url": "https://jobs.ashbyhq.com/hebbia-ai/0c33fe83-efa3-40bf-8a37-5183197d1b81", "manual_include": false, "manual_reason": "AI strategist/GTM post-sales role for finance, not technical engineering"}
-{"url": "https://jobs.ashbyhq.com/hebbia-ai/c001162b-84e2-4453-8bfd-a62d9bfe0d8c", "manual_include": false, "manual_reason": "AI strategist/GTM post-sales role, not SWE/DS/ML engineering"}
-{"url": "https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632", "manual_include": false, "manual_reason": "Full-time accelerator SWE requires production shipping experience; not intern/new grad"}
-{"url": "https://jobs.ashbyhq.com/etched/8c1e7aab-3c6d-49a3-8176-d9158acb181f", "manual_include": true, "manual_reason": "Spring 2027 electrical platform engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e", "manual_include": true, "manual_reason": "Fall 2026 RTL/hardware design internship"}
-{"url": "https://jobs.ashbyhq.com/etched/a63c06e0-ae10-467f-a2d2-f222b7016af1", "manual_include": true, "manual_reason": "Summer 2027 thermo-mechanical/CFD engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55", "manual_include": true, "manual_reason": "Summer 2027 firmware engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a", "manual_include": true, "manual_reason": "Fall 2026 electrical platform engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/f66613b6-9942-48ce-a553-c377e44d3118", "manual_include": true, "manual_reason": "Summer 2027 RTL/hardware design internship"}
-{"url": "https://jobs.ashbyhq.com/etched/15fe0696-ce29-469a-b31e-a206e19302d6", "manual_include": true, "manual_reason": "Fall 2026 DFT/hardware engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc", "manual_include": true, "manual_reason": "Summer 2026 firmware engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/65348db2-5658-41d0-a833-af222865d979", "manual_include": true, "manual_reason": "Spring 2027 infrastructure/systems software internship"}
-{"url": "https://jobs.ashbyhq.com/etched/06398761-0950-4e5c-8590-26f485ba5509", "manual_include": false, "manual_reason": "Technical recruiter/HR role, not SWE/DS/ML engineering"}
-{"url": "https://jobs.ashbyhq.com/etched/9e6737f4-394f-43b1-92ef-b9d4a7986f68", "manual_include": true, "manual_reason": "Summer 2027 electrical platform engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/40365c15-37d2-4266-a042-5a21bfb9212b", "manual_include": false, "manual_reason": "Senior-scope power validation engineer owning end-to-end characterization"}
-{"url": "https://jobs.ashbyhq.com/etched/80926a71-0a62-4bf8-a877-b6d96df279b7", "manual_include": true, "manual_reason": "Summer 2027 infrastructure/systems software internship"}
-{"url": "https://jobs.ashbyhq.com/etched/6dca552b-876d-4525-971b-6ee720f267eb", "manual_include": true, "manual_reason": "Summer 2027 DFT/hardware engineering internship"}
-{"url": "https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb", "manual_include": true, "manual_reason": "Fall 2026 design verification engineering internship"}
-{"url": "https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc", "manual_include": false, "manual_reason": "Customer-facing solutions/pre-sales role, not core SWE/DS/ML"}
-{"url": "https://jobs.ashbyhq.com/notion/2763cf17-ca4e-4f78-b4ca-1c1cc8a7c051", "manual_include": false, "manual_reason": "Commercial account executive sales role requiring 1-3 years closing experience"}
-{"url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555", "manual_include": true, "manual_reason": "Explicit new grad software engineer role"}
-{"url": "https://boards.greenhouse.io/figma/jobs/5694259004?gh_jid=5694259004", "manual_include": false, "manual_reason": "SMB account executive sales role, not technical engineering"}
-{"url": "https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75", "manual_include": true, "manual_reason": "Software Engineer II backend role fits early-career engineering band"}
-{"url": "https://ats.rippling.com/rippling/jobs/36271636-4235-44e0-b5bd-74ebadcac00e", "manual_include": false, "manual_reason": "Implementation specialist/customer onboarding, not SWE/DS/ML engineering"}
-{"url": "https://stripe.com/jobs/search?gh_jid=7874965", "manual_include": true, "manual_reason": "PhD data scientist internship"}
-{"url": "https://stripe.com/jobs/search?gh_jid=7285974", "manual_include": true, "manual_reason": "PhD data scientist internship"}
-{"url": "https://stripe.com/jobs/search?gh_jid=7176977", "manual_include": true, "manual_reason": "Explicit new grad software engineering role"}
-{"url": "https://jobs.ashbyhq.com/plaid/e446e2ba-87bd-4eda-8b49-3fed3cd29245", "manual_include": false, "manual_reason": "Inbound sales/new business associate role, not engineering"}
-{"url": "https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d", "manual_include": true, "manual_reason": "Backend SWE role accepts 1-4 years post-internship (early-career band)"}
-{"url": "https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9", "manual_include": true, "manual_reason": "Backend SWE role accepts 1-4 years post-internship (early-career band)"}
-{"url": "https://jobs.lever.co/neon/2221f2b5-7e69-4561-94cc-f1c52f034f6e", "manual_include": false, "manual_reason": "Pleno (mid-level) data scientist role, not early career"}
-{"url": "https://jobs.lever.co/neon/e794724d-ea43-4d52-a975-037b8adb9297", "manual_include": false, "manual_reason": "Open-level software engineer posting with no early-career signals"}
-{"url": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245", "manual_include": false, "manual_reason": "Requires minimum 5 years software and 3 years AWS experience"}
-{"url": "https://jobs.ashbyhq.com/ramp/f2d10bdf-0906-47eb-96fb-0efe6f81d8a3", "manual_include": false, "manual_reason": "Full-stack SWE role with no early-career experience requirement stated"}
-{"url": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966", "manual_include": false, "manual_reason": "Requires minimum 5 years software and 2 years security/platform experience"}
-{"url": "https://jobs.ashbyhq.com/ramp/0c9e3e0f-54df-4252-a17b-b506e954225b", "manual_include": false, "manual_reason": "Requires minimum 3 years software development experience"}
-{"url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040", "manual_include": true, "manual_reason": "Android mobile SWE with 1+ year requirement fits early-career band"}
-{"url": "https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b", "manual_include": false, "manual_reason": "Experienced data/ML platform SWE with no early-career signals"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f", "manual_include": true, "manual_reason": "Fall hardware systems engineering internship for students"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/f6bee7a7-57ae-4ec1-9276-ae3bcbdc7327", "manual_include": false, "manual_reason": "Experienced robotics/runtime software engineer role"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/c8f9e9aa-8801-4916-9b1f-2c0bd5f072f9", "manual_include": false, "manual_reason": "Experienced controls engineer requiring deep robotics expertise"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/f70f9481-ea7e-48e4-9212-f9c10952a028", "manual_include": false, "manual_reason": "Explicitly senior build/release infrastructure engineer role"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/4e547c5a-e4ee-40a7-b14b-c4daf9c072eb", "manual_include": false, "manual_reason": "Experienced ML infrastructure engineer requiring large-scale training background"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/0307dd1e-ac14-47fd-b80c-e3ca6e82ae46", "manual_include": false, "manual_reason": "Senior ML supercomputing/scheduling infrastructure role"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/70ebf855-16df-4879-a6a7-ee0161174acc", "manual_include": false, "manual_reason": "Experienced ML infrastructure engineer requiring large-scale training background"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba", "manual_include": true, "manual_reason": "ML/robotics research scientist role open at all levels including early career"}
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/eece24c0-3a0e-4373-bf88-4b92633a0930", "manual_include": false, "manual_reason": "Electrical engineer requires 3-7 years hardware design experience"}
+{"url": "https://jobs.lever.co/mistral/b7ae8fc4-5779-4ad2-8f5b-632b4d9498cf", "manual_include": false, "manual_reason": "Applied Scientist needs expert ML track record, not EC"}
+{"url": "https://jobs.lever.co/mistral/6e16e4fa-a60b-4270-a815-06b0450fb597", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.lever.co/mistral/ad392e8e-746f-457d-ac04-28c33b8fdfce", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/e59555e3-899d-4e1e-875f-90b825bc1e28", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.lever.co/mistral/0d94546e-a15a-4644-8115-0b960f79d973", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.lever.co/mistral/6f28da96-76f9-44bb-9b85-4e3519fde6d4", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.lever.co/mistral/3ec6fd88-fc86-4c2c-bb5d-0c66876ba62d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/5fb6179e-74ae-46c8-9cde-95b71890e76a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.lever.co/mistral/f9782b09-ca3c-4bfc-ba7a-349551ef9a82", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.lever.co/mistral/2414ad08-5756-4875-afb5-04d26464b397", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://jobs.lever.co/mistral/0a274090-e9f9-4ed4-a6e0-aac5acdf4248", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/21e7e5d6-a469-4eeb-a0c5-2e0f3e92bd9e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/abff0584-d2e2-446e-b2a8-28d660e3773a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.lever.co/mistral/d1596baf-56dc-4bdd-8ad0-5daf1fe1e844", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.lever.co/mistral/bf5bcae2-839b-492e-a5bc-11d4427ee843", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9", "manual_include": true, "manual_reason": "Software Engineer Frontend IC; no minimum YOE in requirements"}
+{"url": "https://jobs.lever.co/mistral/6ad69a1f-ba15-4c99-9449-9a558dee1104", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.lever.co/mistral/3e8b03e7-ff33-4cd1-8042-90b7ac3c4683", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/942f8627-3079-416b-a2a7-bf651b336acb", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/a3b1b690-ed9e-4916-8a24-24f0ac0f1f8f", "manual_include": false, "manual_reason": "Discovery Scientists requires domain publications/research track record"}
+{"url": "https://jobs.lever.co/mistral/1937a5af-2c9b-4a75-bb91-b06ebe714dbd", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/6f7b96ae-4060-414b-accb-bb86ccc401cb", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/04a3a058-aff8-4cc4-a419-eb09e83fa947", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.lever.co/mistral/60f9dc5b-6d1c-4236-be38-be7233669f00", "manual_include": false, "manual_reason": "AI Scientist Robotics needs hands-on deployed AI/robotics track record, not EC"}
+{"url": "https://jobs.lever.co/mistral/0004f890-99d5-47c5-bb67-8f3f76a1e08f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5999792004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5624231004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5752956004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5789770004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5846178004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5980496004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5968713004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5968725004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5709080004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5989803004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5530586004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5974107004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5972804004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5701765004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5042174004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5980244004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5778418004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5872425004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5752684004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5833515004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5830604004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5777645004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5832366004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5979111004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5972861004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5199830004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5974111004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5993726004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5848322004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5806456004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5980197004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5719796004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5844601004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5832337004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5979660004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5969347004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5686511004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5814159004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5858553004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5818258004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5817808004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5735397004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5843910004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5691965004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5810285004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5995789004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5825462004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5825469004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5553789004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5735407004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5843333004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5788954004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5656954004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5732855004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5704320004", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5474915004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5430088004", "manual_include": true, "manual_reason": "Software Engineer Backend IC; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5179639004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5473266004", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5551619004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5808568004", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5633880004", "manual_include": false, "manual_reason": "Requires 6+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5613601004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5661583004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5993753004", "manual_include": true, "manual_reason": "Software Engineer Next.js IC; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5798416004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5804110004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5806749004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5461002004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5972966004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5971203004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5800328004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5982743004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5850263004", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5039945004", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://job-boards.greenhouse.io/vercel/jobs/5815357004", "manual_include": false, "manual_reason": "Vercel Development Representative is outbound sales, not SWE"}
+{"url": "https://jobs.ashbyhq.com/linear/d3bc1ced-3ce4-4086-a050-555055dbb1ff", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/cd5ae036-0223-427a-b038-ba16ef9dcb32", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/069c4628-88d7-4e4d-b393-c996fc7f3076", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/453f1ba0-a35e-4ed2-8215-1514e0a30b92", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/4f10c2ca-d19a-42b5-9e1f-d1794c43dd89", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/4dc6be78-ccf0-45c8-bd98-a061a9e2ffe4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/12f8f208-0b9c-4569-bb3d-41c8a197029e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/b7669c4b-eeca-421d-ba9a-d90203f6fcb2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/86abcce0-04b2-405c-9a8e-e0ca84813914", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/c21af93e-210f-4969-8eaa-90fb16a5b720", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/b4a7764e-c680-4bdf-9956-dc78f2ca94d5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/3adaa1f5-2cf1-480d-8daf-92345ec08395", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/82778dbf-711e-4d23-9d49-4a60db76737a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/c7151df1-8c03-4c3b-b46c-becf51b61bcc", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/5e5f6557-7ac6-4b9f-bdb0-89354e77c644", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/a264869e-f058-487c-ab7f-9b77dffa427c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/ba8a41d2-4198-481a-a7f4-e09c5364ff7f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/3d95000c-5631-4ea6-a614-78910bb3f199", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/linear/59fa48ec-6685-4ab2-a388-6203423811d2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/1d652292-04d9-405c-8101-578efd020e94", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/1bfdcabe-aa5f-4999-9a6d-b8a824dd779b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/linear/62a4524c-75da-499e-b150-7f68ce9f2da3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/901d78ff-b9aa-4fc7-baea-604e5d9638d3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/a6015884-013c-4457-9507-246e03e2620a", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/0e78a385-c450-4749-9803-0970ce2971a5", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/bdec1a6d-300b-47fc-a551-3c937d76fee0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/73ce9d32-26c9-46c0-adaa-dfbe6660a0e1", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/15fe0696-ce29-469a-b31e-a206e19302d6", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/ec27e36f-e6eb-4f31-8aa0-79b9a72796c5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/58378ed1-972a-47a0-aa30-274f61af1c6d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/b7132643-fc29-47d6-971d-040d72bd0b89", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/49009e2e-765a-4c4f-824b-7aea0ade2e8f", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/b32f71f5-3f98-4ae2-ae96-f1e319c40ccf", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/d02d77c6-5e99-4184-9e3b-a2180152f95d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/c68df61f-2526-4fcd-9ac5-6faa23bb2bca", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632", "manual_include": false, "manual_reason": "Accelerator SWE requires shipped production firmware/driver experience"}
+{"url": "https://jobs.ashbyhq.com/etched/6c60c888-1b0e-4fc8-b78a-31b9c994a0f4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/d9f7c735-c20c-4c9f-92e5-ae3d598b1643", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/40365c15-37d2-4266-a042-5a21bfb9212b", "manual_include": false, "manual_reason": "Power Validation Engineer expects deep PDN/bench experience"}
+{"url": "https://jobs.ashbyhq.com/etched/b65243ce-d0bd-4958-a8a4-c42f654d35dd", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/5c3d84b0-0d6a-430b-80b5-f378eb541202", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/890fd360-d558-4fa6-921d-32ff9e58e7e2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/982a8ee4-5e1e-43c7-a918-6dac285cdddd", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/a00cb54c-ed5a-48b4-9dbf-c6ca20702728", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/0f9c0162-97c6-4be6-9cb7-d9afdcf0fa7c", "manual_include": false, "manual_reason": "Inference SWE expects accelerator porting and distributed-systems depth"}
+{"url": "https://jobs.ashbyhq.com/etched/241124b7-6031-4ef1-80ad-25ee8b4224e2", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/faca6771-db7d-4bfa-8c4f-642aceaac503", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/20f77518-1699-4184-ac8e-9fa2f614d6fb", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/610c3836-9798-46ea-931a-02bb95b29467", "manual_include": false, "manual_reason": "Performance Profiling SWE is senior tooling role, not EC"}
+{"url": "https://jobs.ashbyhq.com/etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/245b1caa-dfbc-45e6-91df-b0741acab501", "manual_include": false, "manual_reason": "Supercomputing Engineer Network expects datacenter networking experience"}
+{"url": "https://jobs.ashbyhq.com/etched/70b08fdb-b949-45a8-8faa-c0937463f4c9", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/ccf2ae62-5490-4a59-87e8-8761f573b22a", "manual_include": false, "manual_reason": "Platform Validation Engineer expects hardware validation experience"}
+{"url": "https://jobs.ashbyhq.com/etched/e882eeaf-a34b-4f59-98f3-282cbd444508", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/f8c0741f-cc25-4d64-a758-ff4140d40962", "manual_include": false, "manual_reason": "Mechanical DFM Engineer expects manufacturing/DFM experience"}
+{"url": "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/65ba5419-d633-460a-a03d-7d5b5dec0115", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/3ea1610a-3dfd-4b51-aeb8-6317e4d6877f", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/f80dc5c6-de4f-455c-9c98-720313e5547a", "manual_include": false, "manual_reason": "Supercomputing SWE Taiwan expects experienced systems/firmware background"}
+{"url": "https://jobs.ashbyhq.com/etched/a99318bd-b433-44b7-9600-2ee9533c90a1", "manual_include": false, "manual_reason": "Design Verification Engineer SoC expects experienced DV background"}
+{"url": "https://jobs.ashbyhq.com/etched/06398761-0950-4e5c-8590-26f485ba5509", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/68edcc93-f0d0-483e-829d-b48e002ab932", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/cb256b75-db93-4ca4-a415-e1272741170b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/2425e245-6e16-49ca-be54-fb36941af55a", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/2774aea5-ccc9-4c68-a3ea-b6cd4cd46f89", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/1efd9b58-66fe-4798-a877-776857b4e189", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/30514004-7db4-479d-8512-972946b146f4", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/3f1a5273-c876-4b45-879a-9c15d772feba", "manual_include": false, "manual_reason": "Lab Operations expects 3+ years lab/ops experience"}
+{"url": "https://jobs.ashbyhq.com/etched/65348db2-5658-41d0-a833-af222865d979", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/09658f43-69ab-4a98-b4fb-02865a3f9f92", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/a76de849-7e75-48c2-a52b-d6078a551cbb", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/6b98caba-e295-44c5-b0d5-8e4a8b82cd7f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/fb76e6e8-d07a-4830-b88e-ca8c1483f801", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/a735c757-7d39-47de-9329-77d6362b5547", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/6f4df530-6d67-4df9-903c-645c20e84845", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/b431189a-0fc1-46f0-abaf-4f73bf4e3ed5", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/9a3eed83-b5b2-4ac4-a2d4-9dc9dd734869", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/fbe80e16-163e-4ac8-9b6c-473ec9398f08", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/53064625-681e-4d1f-97ac-357738720702", "manual_include": false, "manual_reason": "Supercomputing Engineer Test expects burn-in/reliability experience"}
+{"url": "https://jobs.ashbyhq.com/etched/fd170c23-8adb-42f5-8207-2442e99532ea", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/ec962944-f7ed-4a3e-a251-9d929295a740", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/2369ccf9-2b5b-4355-a0d6-dd6d73317358", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b", "manual_include": false, "manual_reason": "Chip Simulation SWE full-time role without EC signals"}
+{"url": "https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/c3ca158a-015d-413d-bd14-5470e546ed15", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/248ac4e9-5059-449a-a2f0-35d7fdfd08fb", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/3f83fd5f-5e50-403a-9a03-7ddb56502f49", "manual_include": false, "manual_reason": "Developer Experience Engineer expects mature DX/platform experience"}
+{"url": "https://jobs.ashbyhq.com/etched/fb1ccbb2-d9ed-48f5-a8e1-f3d5a12e461f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/61860739-5aa9-4f64-920d-f4c1cca71af8", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/3eb65028-9648-48f5-bfc9-94b3128863f2", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/39cb22b6-58e9-4612-994f-eba767aca818", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/b1816ce1-fa42-4855-988b-992556414988", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/daa8c6c4-97e3-4df4-b8da-e46fe981da1d", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/b25223b5-441a-4c0a-a436-fc66063755c2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/etched/d88da917-21f5-42b7-b1e2-8986897aaab1", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/0f24f73f-7607-466e-bbc0-de039767e9c0", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/9b060f41-4607-494b-bdcf-57b1e74754ff", "manual_include": false, "manual_reason": "Non-technical intern (GTM/finance/ops/talent)"}
+{"url": "https://jobs.ashbyhq.com/etched/8c1e7aab-3c6d-49a3-8176-d9158acb181f", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/e194099a-b7c0-4aa7-9e6d-06a666de6275", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/479b68f3-ab66-4534-a3ee-4c3b57312f1a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/etched/d2064295-5939-4bca-a6af-5369a11a097e", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/2e4d8727-82f1-4887-9389-df5605783bbd", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/f66613b6-9942-48ce-a553-c377e44d3118", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/d1d009f0-f0c7-4ab6-9f27-881c3ea12505", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/b065790b-3a5b-4bf2-b5d1-60253f57bf4f", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/55ebeffd-3e22-4b7d-b848-48736e5f1c1d", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/80926a71-0a62-4bf8-a877-b6d96df279b7", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/5bbcfd60-5917-4698-a7fc-d7e6bb16da62", "manual_include": false, "manual_reason": "Security Engineer expects production security/SIEM experience"}
+{"url": "https://jobs.ashbyhq.com/etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39", "manual_include": false, "manual_reason": "DV Internal IP requires hands-on UVM/SV verification experience"}
+{"url": "https://jobs.ashbyhq.com/etched/a63c06e0-ae10-467f-a2d2-f222b7016af1", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/a06f95bc-adb5-48a2-b9b5-a77695bbd61b", "manual_include": true, "manual_reason": "Technical intern (firmware/DV/RTL/infra/simulation/etc.)"}
+{"url": "https://jobs.ashbyhq.com/etched/3c6c400e-5f13-4ade-9924-296d0d07166c", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/etched/0d381d56-ea87-4a4b-9707-a6f82a45e6a3", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/e22e14d8-0766-445f-9570-6037c7300c73", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/089b58ae-013a-41e1-801f-fc1fb1728198", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/25656a5a-06be-4d62-b529-00c52c48ee5e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/1e9fc21e-e452-454f-b415-40eee9172d81", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/38f16d41-7e7b-4094-b708-ee60f9d625c4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/d961d827-4529-4c70-9eff-c521b8923744", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/9e546bae-d86e-4f47-82cc-5b7b2ea28e12", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6", "manual_include": true, "manual_reason": "Forward Deployed SWE; student/side-project customer experience acceptable"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d", "manual_include": true, "manual_reason": "Forward Deployed SWE Spain; student/side-project customer experience acceptable"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/4e544a96-ed24-42c0-ba70-7f0bab6ffbb2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b5c21eed-3f7a-469f-abf0-118e749f864b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/8bd5d5a6-f9b0-48fc-a016-4404e06a0d8a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/9a42616f-4ca4-4739-b991-9df4ca5bc158", "manual_include": false, "manual_reason": "Product & Platform Partnerships is biz-dev, not IC engineering"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/aadb1c7a-c88d-4aa4-8900-a18f5e4934bf", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/5bdcbdda-3643-453d-9af5-0ea53da97d8d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/89da00ec-11b0-4359-913b-c3a89c1013bc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/ecc3677a-c09a-4a8e-8afa-11dbfbf08b1c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/4389da7f-b5c9-4660-aaf2-d097f4caba07", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f330bd23-f909-4e50-bf58-9974aee85fc8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/3a25ed8a-5870-4a0e-90e4-6e5a4b2c7e04", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/19d9a7a0-10d9-41d8-b515-a61f1d85f186", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/96995357-ffa3-4a84-92e2-96cb3f9dfb16", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192", "manual_include": true, "manual_reason": "Full-Stack Engineer; no formal experience required"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/043b8aa4-bf04-43ae-a634-4892795164e1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de", "manual_include": false, "manual_reason": "ElevenLabs Data Engineer expects early-team scaling/data pipeline ownership"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03", "manual_include": true, "manual_reason": "Full-Stack Growth Engineer; no formal experience required"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/4bb9779d-fef0-4643-8324-e1e97322a816", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/2402af08-4c6f-473d-872b-79f7d7d92b5a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/92b9850e-115f-429b-ad6d-5cd93a7a3d00", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/8a88f764-27f5-46d7-8ce0-0ba15401efb1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b9842f34-dba2-4a62-9f0c-e30118dcbb7e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/78f45556-04cc-4f08-abb2-18e639ed9343", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/84a75f68-c964-4ad7-994d-a44506e333b2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/328c1457-8f15-43c0-bc6d-93a75bdc1e3e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f", "manual_include": true, "manual_reason": "Full-Stack Engineer backend-leaning; no formal experience required"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/89f01b9a-be26-4fe4-8a06-e5a65b85fcdc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/9a942134-8637-48cd-9afe-2a32e755e162", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/55715739-fd15-47e3-a2be-2a6acb6d837a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/e6216628-a067-4b3c-8326-4d5302fb4b7a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/a43b7e72-22e0-4d75-8f23-b477fb38eef6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/575f2f4f-e836-441c-82f5-b477f52123c0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/3b517d94-7ecc-41ba-b49f-71c0671b27f7", "manual_include": false, "manual_reason": "Impact Strategy & Operations is program/ops, not technical IC"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f73b607d-81fe-4f5c-b04b-0b8c826989bf", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b16fee34-782a-47e3-85f4-7b3d683fc938", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/1a9d687d-0030-4732-8160-f1da54844bba", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/6991ab1a-76e9-4f2a-90a8-085452d049f7", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/3b7a423c-01fd-4405-ab9a-ee51ed354ba9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/a0a8450e-3606-407b-8aeb-acd4fe029d3e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/4d12e97f-e637-49f1-a39c-7f32d6d364bb", "manual_include": false, "manual_reason": "Data Operations is ops/analytics support, not SWE/ML IC"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b31cc569-cf74-49c9-ab06-b837bdb358dc", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/522bda1f-a4ec-4cff-ad34-c4b2234ae390", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/fef4499d-6191-43ad-b4f4-e646544f510d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/8cf16203-4039-4bcb-828d-a3d3d6bab4a1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/bcdc1c00-4e06-4d85-b591-4e2d3083b974", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/328e5efe-bf62-4221-9991-33c9dc592656", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/d3fc9a6f-69ba-48b3-a44b-564d37eb0ed1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/4cc259dd-9788-4ca5-927a-761542bbef0a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/86e1e4d5-203a-43c2-95c0-0a99dea1ee8c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/6727b70f-3040-464e-9758-2225ab287f6e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/03cefd49-972f-45b2-b6c7-9a42d133af0c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/1713bfd7-a63b-4dd4-b6e7-b0b8b8560a4a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/0f0f49b5-aae9-409b-93ff-0a336deecb32", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/29152b04-59a4-4f3e-903a-144a012da93e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f0cccf77-a255-4620-9639-2f1cc5f9c0ab", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/979a591e-8767-4141-aadb-357ec1ce96df", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/4509df6f-b839-44d6-b31f-d7f364cec949", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/088d1dfb-4685-461a-b8b1-3f9681f4af12", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/1ef264b8-ee9e-4713-a10a-0603f2cdbb94", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/7563e051-8de0-48ac-bcf2-70eaf22e3f8b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/89e1a99c-d2c6-43bb-b556-55dd73aeded2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f0d1e869-4874-45af-9bc3-81479d88565b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/3466ba20-f61f-4a51-a1ee-5a24a2217fa8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/66c91741-b009-48ca-8d08-fad475ffc6e6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/86db28df-173c-4407-b016-3dee1ec6197b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f2ae7fe0-67da-48ae-b126-b942899ec7e9", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/11f34246-dd10-4caa-b12b-7d29a35c0d91", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/bb78970b-43e4-477d-8d17-4a377a26847a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/030ff848-f30b-496a-95c4-5e23ab2e5842", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/6a2489be-8073-410b-9bc4-f102bc6e88a0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/158034c9-eb7c-4348-a0b8-fa9e817b29f1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/fce67b4c-bce8-442c-a334-06f327408f3d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/bd230a18-2ff4-493c-8555-8476bf7de0e4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/2f121da5-8c9a-401a-9332-3156c5d33113", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/b647ad26-3e3a-4e0b-8ef4-6bab2cacd5c7", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/elevenlabs/5accae74-0f85-41b9-b39e-6d7c3a6a7ad3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/warp/093c662d-418a-44a4-9beb-7258aed4a339", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.ashbyhq.com/warp/8fa78ab4-b9bf-4856-995a-f0c930aefa2e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/warp/6fa4373f-2f5e-4fa3-9ce5-e662275ebba8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/warp/655962db-5fbe-40cc-a072-9522295b3cbc", "manual_include": true, "manual_reason": "Product Engineer IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/warp/733d0d82-6798-4407-8f15-28022fb74750", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/warp/28769ff4-b5b3-4669-9d4a-3ab2fa91f940", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/warp/2d2848ff-8610-4691-ac01-4256fe4ab04b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694498005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4372145005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4665628005", "manual_include": false, "manual_reason": "CA Industrial Trainee is accounting/finance trainee, not technical"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661934005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4614706005", "manual_include": true, "manual_reason": "Software Engineer Developer Productivity; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694764005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4667184005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695136005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4666849005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661899005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4687581005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4693714005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696210005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006734005", "manual_include": true, "manual_reason": "Software Engineer Fullstack; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4655727005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696058005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4599935005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4501783005", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4686315005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4617980005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4619072005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695618005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4675862005", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696078005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4683065005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4616929005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006733005", "manual_include": true, "manual_reason": "Software Engineer Frontend; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4529774005", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4652361005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4668783005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4012824005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4549560005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525518005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4683066005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4689979005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4677723005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4434258005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4486297005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661912005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4654837005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4632997005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4674460005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4600865005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4648700005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4597765005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4695585005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4611652005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4659229005", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4622147005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4622149005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4687412005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4628879005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4685501005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4697778005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694339005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4670282005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694340005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4635139005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4615635005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4697853005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4667186005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4671954005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4685575005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694768005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4649589005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4673995005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4633563005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4693792005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4657520005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4678598005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4597178005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4681664005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4547218005", "manual_include": true, "manual_reason": "Cloud Infrastructure Engineer; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661886005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4669417005", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694771005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661878005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4670095005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4428090005", "manual_include": true, "manual_reason": "Software Engineer Product Backend; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4653909005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4508312005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696212005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661879005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4665752005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525297005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661933005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4615117005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694759005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694835005", "manual_include": true, "manual_reason": "Cloud Security Engineer; no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4613925005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651043005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4656281005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694831005", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4677083005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4696681005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4680473005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4641940005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4636739005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4661898005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4464005005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/3d1c1050-236a-42e4-a1be-8e6b48b6b247", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/a1d492a2-efba-4c4f-a243-e98b0ce2a967", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/0c33fe83-efa3-40bf-8a37-5183197d1b81", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/72a1edd5-86b8-4e43-8e54-632a7d8c3619", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/6ee51b19-cead-4fb5-b83c-6285a36541a7", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/a848ec35-c0ee-404a-b153-5d8c2c434003", "manual_include": false, "manual_reason": "Hebbia Data Engineer requires 5+ years"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/3b7a4d3c-bb0a-455c-80b3-91faf94b9523", "manual_include": false, "manual_reason": "Hebbia Platform Engineer requires 5+ years"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/1710a563-14df-45c5-a6b1-a62adcdead89", "manual_include": false, "manual_reason": "Hebbia Backend Engineer Growth requires 5+ years"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/d4efb36c-c59b-4468-b572-88264d555167", "manual_include": false, "manual_reason": "Hebbia Backend Agent Platform requires 5+ years"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/1c18a253-3c4d-4e5a-952d-cd35ba690ea7", "manual_include": true, "manual_reason": "Backend Engineer Agents IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/33b7e44e-a37e-4cc8-9a17-7443236650e4", "manual_include": true, "manual_reason": "Applied Research Engineer Agents; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/27a8d744-b1da-4ae7-a80d-316797691399", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/e1f3f01c-610a-411a-870c-cc14f0cbdf6e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/882e9b42-2db5-414e-9f98-76f682c81c22", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/c001162b-84e2-4453-8bfd-a62d9bfe0d8c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/f416a800-66b2-44ab-b274-61decef1c99a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/08d96d8b-5436-4ddf-bf24-8e278368903b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/07730121-e344-4b07-a23e-47dcfd6b3678", "manual_include": false, "manual_reason": "Site Reliability Engineer requires 5+ years"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/8a3c6421-2a0f-4957-a0af-f62bf95b77ec", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/bd184c21-f549-492e-8768-98af88bdbc5b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/6cf5b93f-c465-497f-811a-008050c143e7", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/b2f2b5e6-1e06-4031-b817-86740973f718", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/b35852eb-97ac-491a-b375-91fd13d0b7b3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/4b1d51bc-2985-471b-b3b5-1ddf62e0a50a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/ef36fe55-afdf-4b1a-8965-cd9c05242b2e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/2effbb9d-3fdb-4062-9d35-cf9e425b83df", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/668e7ae0-fdb0-436b-8a21-5c757fff89bd", "manual_include": false, "manual_reason": "Account Development Representative is sales outbound"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/9ce7bff6-add1-4fbf-b72e-5665472c6cc8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/ddd0a248-9611-4b65-b42d-9568d3b52d26", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/1c1cd3eb-4d2a-42e6-98ed-832a95315cbe", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/a1fa3422-9b50-41d5-a115-5981992fa625", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/5bca44e4-0e10-4886-8ae4-2e8b9b8f6feb", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/hebbia-ai/75c4acce-e8c6-48d2-a1f3-ac1456f8100d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/c605042d-1bd4-4e0d-aa82-d92a2abecb59", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/1a19cbf3-916e-4723-8edf-f3e2c12b3494", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/6c65bbb9-8205-400c-b971-cd91897b6d8f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/67a53448-184d-48e4-a040-d17fc7f59b37", "manual_include": false, "manual_reason": "Product Design is design role, not SWE/ML IC"}
+{"url": "https://jobs.ashbyhq.com/claylabs/55694518-a6ac-4f46-8ec8-ffbf8ab39917", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/2eba1b88-d3d2-4c80-a506-b367d85110bd", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/9d4828b2-8c23-406d-8225-b916ff9174c0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/b78d32ca-01c1-432d-8af9-4c21ec3c005a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874", "manual_include": true, "manual_reason": "Software Engineer Developer Experience AI; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/claylabs/6dc3e0b7-4846-41cf-9369-6c058b3fcbc2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/0bfc4016-f5b2-4957-a305-ec5dd96d4fa4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/045ce27d-8693-4402-86f6-2f09932cc777", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/67edc68a-a18e-4f49-98ec-e2ff08f5d701", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/248aa0c7-034f-47d3-a57e-ce16736eeab6", "manual_include": true, "manual_reason": "Software Engineer Backend; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/claylabs/18a42bd0-5bff-4c8e-a403-fb79aad2c57b", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/84eb158a-b39d-4048-9c9f-66fc55a24224", "manual_include": false, "manual_reason": "Data Partnerships is business partnerships, not engineering"}
+{"url": "https://jobs.ashbyhq.com/claylabs/3940ea40-4c11-40f5-b710-d770c88d0f1b", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/667e178e-5d78-4537-9d4c-33bb9d0a904b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/1ad2a991-cc6a-4645-a6b8-18ae61737d6d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/8b990516-43f9-4f12-b3fa-eeb980e69be6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/7f28a375-eb96-4ff9-a186-387dc709c418", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/0df88e24-28da-4376-956d-926111832a32", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/0944c931-d792-45f9-9d5f-eab2dacad4d8", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/9724f8a6-0e59-4488-b3e1-110760d478c3", "manual_include": false, "manual_reason": "Founding Marketer is marketing, not technical"}
+{"url": "https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03", "manual_include": false, "manual_reason": "Data Analyst is analytics, not SWE/ML IC"}
+{"url": "https://jobs.ashbyhq.com/claylabs/e51fbd96-3e52-4572-b1e4-7caf3b64e65c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/4f0e2188-29db-4a28-af88-753306621431", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/26c9a251-b616-49f7-a489-4d393a02ea5f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/84212160-462f-42a1-a9c2-b9b6428e945f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/7ee967d9-82eb-4a9a-ab49-617f608872c9", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/a8a6642c-19a9-4d43-ba01-22608fb70e01", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/1a9bd842-0804-470d-9450-063fd181fcfa", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/46544fc6-a6d0-4aed-985c-2d3a2e908f61", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/6a716895-54fb-41f7-9cd5-13ff6a4085a4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/741b403b-6581-4c55-ad98-03eb51d66795", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/d23dfc5b-2d75-412c-bedf-38643517b486", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/006f2c19-ee42-4d26-a9d5-bb1c28d1542f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/b798c398-c11d-4d51-8c37-95cd657ca0a5", "manual_include": false, "manual_reason": "Requires 7+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/b17bd432-72e4-4f03-b8db-2fd677c2cfe8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/11523b92-635e-4865-8ed0-59ef4c91bd53", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/7e43bc1d-cb1c-47d5-a106-aef1d76e50fe", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/7bd9060f-12cf-4e5b-af99-681008be6967", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/c9768233-3f8a-431c-b3ad-a3e388fdb85e", "manual_include": false, "manual_reason": "Technical Partnerships Engineer is partnerships/GTM, not product SWE"}
+{"url": "https://jobs.ashbyhq.com/claylabs/fbdc14a3-d727-400f-8eb5-13481a0b920f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/5285ed8d-1ba4-4836-8b69-a66bf930f204", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/c3252c5a-bd68-4a6e-8fb7-cd05dcfe703d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/f594adf7-32a9-43c7-9a36-495a5c710121", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/dca9faf7-a118-4237-bcf8-d7562aab3c49", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/ed810aff-a513-4359-b6bb-08e50e80b131", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/235c38ee-4c08-462d-b9b3-eadc156b1810", "manual_include": false, "manual_reason": "Clay Security Engineer expects experienced appsec background"}
+{"url": "https://jobs.ashbyhq.com/claylabs/4623405b-1062-4019-9979-129a86408d7b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/a284a622-0736-4558-be7a-76434f0dd147", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/f2afb6e6-291a-467e-8c1c-536ded3818db", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/6579de6f-b5df-46df-bb73-e8d82955f293", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/9b05b885-eb08-4ad0-82b1-4da33dcad4a2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/7bd35c48-c394-46c8-98a1-f809fed007d8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/867b287a-4aee-41ba-885b-b80f1d8ef448", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/05d88dd4-372c-40b5-85c1-8fb8a53fb133", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/0532ee84-60a2-4998-a461-eabc555ee4c8", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/82ca7670-1083-46e6-9ab4-a722fe535ef3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/b996c889-9985-4ff1-98c3-ebf6b60b8790", "manual_include": false, "manual_reason": "GTME Community Strategy & Ops is GTM ops, not engineering"}
+{"url": "https://jobs.ashbyhq.com/claylabs/1b1c004f-0e6a-41b6-bac3-971448b63a07", "manual_include": false, "manual_reason": "GTME & AI Teacher is enablement/training, not engineering"}
+{"url": "https://jobs.ashbyhq.com/claylabs/45fbd224-6a30-4b8e-8938-139ae0a0127f", "manual_include": false, "manual_reason": "GTME Create Your Own Role is GTM ecosystem, not engineering"}
+{"url": "https://jobs.ashbyhq.com/claylabs/be9a2c48-e7ae-4228-8df0-ca4fd5fff388", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/901d9b5c-d79c-4147-b006-4c641aa7af86", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/3115a0f7-0978-44ff-9ee7-b9bb82afacc2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/13af486b-f105-443f-94f2-29206afb9a77", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/454725ed-81e8-4252-992d-e16ee48621b9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/a4cd530e-a99b-4c24-a2b7-f609ce3f59c1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/494dd605-64a7-4647-bf86-cb1034f2327c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.ashbyhq.com/claylabs/e43101dd-4e98-4c60-bc1b-adbbb38c7b15", "manual_include": false, "manual_reason": "GTM Engineer CX is revenue/customer GTM tooling, not product SWE"}
+{"url": "https://jobs.ashbyhq.com/claylabs/242be863-2f62-44a7-909d-6c351dee81d1", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/d5c7f612-10e7-4080-8b8a-d51e70fff9c5", "manual_include": false, "manual_reason": "Requires 6+ years experience"}
+{"url": "https://jobs.ashbyhq.com/claylabs/0143978b-cc76-48ec-85c5-10eeef612095", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/81067fe9-fd11-41bf-aeb6-219ba933a614", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/36433562-94e5-4444-a5e2-13acf5da5213", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/5280540d-e491-4ce1-8411-031cd1502c89", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.ashbyhq.com/claylabs/2620226a-13b5-48be-a9a9-ff7769552a21", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/4003629005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.gem.com/retool/4520708005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.gem.com/retool/4526652005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.gem.com/retool/4559232005", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.gem.com/retool/4605533005", "manual_include": false, "manual_reason": "Requires 6+ years experience"}
+{"url": "https://jobs.gem.com/retool/4615746005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/4618972005", "manual_include": true, "manual_reason": "Software Engineer Core Infrastructure; no minimum YOE stated"}
+{"url": "https://jobs.gem.com/retool/4624687005", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.gem.com/retool/4627709005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/4628613005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDppL9ORnuR9EgdVBqn0pzKu", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDq8MFt1zA-QBdJO1naJczbv", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDop_bfWQYoLBuyV47tcghQL", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDp4IMIcdLERrTU1cxJtZLfS", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDq1C1vm-X3JzvkMu0Ikrnjj", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDp6xKKSz3d5Udp9JJCyAIL1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDpU8ZlLMStGXDitLPsojeUr", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDqMnm_c28hPzZHxbHKUVuIV", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDpOvf70FlpFyAyQETxeLBjs", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDqBGHD-VZVGcilDoagUDjbG", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDofimDqsS1Aygy5a0HdAM9u", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDpkUUjCIersh938b9cSZ_H5", "manual_include": false, "manual_reason": "Requires 3+ years experience"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDp9SmgWhNEJ2bTl6QWkx15r", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDriBNLsPhifi5iQfpEhIB6I", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDoOYGqzeFfNAz9rtBngOSRz", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDomOM8MTb5nJ-HRgUO3sLMP", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDpDzgoSvZ_JfUW1g7hY7FMx", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDrGL-A61Uy98s2jgo40Og0X", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDoWMLHWTqD2QSpl3LQ7kPE6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDpMfzbx0B8Kx2bktJ66tcW4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDq7s6ZZy7qQJjHESF4Oc2eY", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDoiUX4UnsgxJttgR42tB7Dj", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDonK-gmDRadCE1HJhVia0we", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDr00DLs7bZ88HoBbaVE0r6s", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDqN4nJdRcU1Y5TDMSY0sAww", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDqD4KS2mbuRyoD_H3jI_b3G", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDqGjkAKifhZaRjONG7oWhgn", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDoNi9UQeIYmwtxLyq5J3iHs", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://jobs.gem.com/retool/am9icG9zdDpHZWwJzi1gXvM7kMr32dqg", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5748282004?gh_jid=5748282004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5651744004?gh_jid=5651744004", "manual_include": false, "manual_reason": "Requires 2+ years minimum (above 0-2yr EC band)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5803517004?gh_jid=5803517004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5778796004?gh_jid=5778796004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5813967004?gh_jid=5813967004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5753209004?gh_jid=5753209004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5415515004?gh_jid=5415515004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5735542004?gh_jid=5735542004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5983252004?gh_jid=5983252004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5989185004?gh_jid=5989185004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5729844004?gh_jid=5729844004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5840332004?gh_jid=5840332004", "manual_include": false, "manual_reason": "Figma Data Platform Engineer requires 5+ years"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5978411004?gh_jid=5978411004", "manual_include": false, "manual_reason": "Enterprise Support Specialist is customer support, not SWE"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5783377004?gh_jid=5783377004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5993635004?gh_jid=5993635004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5980306004?gh_jid=5980306004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5817899004?gh_jid=5817899004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004", "manual_include": false, "manual_reason": "Figma Data Engineer expects experienced data infra background"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5803515004?gh_jid=5803515004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5844225004?gh_jid=5844225004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5807963004?gh_jid=5807963004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5991320004?gh_jid=5991320004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004", "manual_include": true, "manual_reason": "Data Scientist PhD 2026 new-grad pipeline role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5893911004?gh_jid=5893911004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004", "manual_include": false, "manual_reason": "Inside Sales Representative Early Career is sales, not technical"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5992103004?gh_jid=5992103004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5428656004?gh_jid=5428656004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5798281004?gh_jid=5798281004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5970215004?gh_jid=5970215004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5981822004?gh_jid=5981822004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5984560004?gh_jid=5984560004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5982531004?gh_jid=5982531004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5969046004?gh_jid=5969046004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5806875004?gh_jid=5806875004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5694259004?gh_jid=5694259004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5721527004?gh_jid=5721527004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5976837004?gh_jid=5976837004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5458801004?gh_jid=5458801004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5829751004?gh_jid=5829751004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5841222004?gh_jid=5841222004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5837760004?gh_jid=5837760004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5735493004?gh_jid=5735493004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004", "manual_include": false, "manual_reason": "Designer Advocate is design/marketing advocacy, not SWE"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5839964004?gh_jid=5839964004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5724297004?gh_jid=5724297004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5985397004?gh_jid=5985397004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5978327004?gh_jid=5978327004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5850497004?gh_jid=5850497004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5973393004?gh_jid=5973393004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5659640004?gh_jid=5659640004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5983820004?gh_jid=5983820004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5985521004?gh_jid=5985521004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5790627004?gh_jid=5790627004", "manual_include": false, "manual_reason": "Requires 8+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5565447004?gh_jid=5565447004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004", "manual_include": false, "manual_reason": "Requires 4+ years experience"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5783321004?gh_jid=5783321004", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/GTM)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5660873004?gh_jid=5660873004", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/MTS title"}

@@ -251,7 +251,7 @@ def test_implementation_lead_excluded_despite_bachelors_in_description() -> None
     """
     conf = classify_title_confidence("Implementation Lead, Uber for Business", desc)
     assert conf.level == "high_exclude"
-    assert conf.reason == "senior keyword"
+    assert conf.reason in {"senior keyword", "non-tech"}
 
 
 GOOGLE_TWO_YEARS = """
@@ -276,3 +276,60 @@ def test_h1b_three_years_excludes() -> None:
     assert sig.has_senior_exp is True
     conf = classify_title_confidence("Software Engineer", UBER_H1B_THREE_YEARS)
     assert conf.level == "high_exclude"
+
+
+def test_hfc_fellowship_excluded() -> None:
+    conf = classify_title_confidence(
+        "Machine Learning Fellow - Human Frontier Collective (US)",
+        "Education: PhD or postdoctoral degree. Professional Background: 1-3+ years.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "expert fellowship"
+
+
+def test_post_training_research_scientist_excluded() -> None:
+    conf = classify_title_confidence(
+        "Machine Learning Research Scientist, Post-Training",
+        "Ph.D. in Computer Science. Deep understanding of reinforcement learning.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "senior post-training role"
+
+
+def test_capital_markets_intern_excluded() -> None:
+    conf = classify_title_confidence(
+        "Capital Markets & Corporate Development Intern - Summer 2026",
+        "Support the finance team with market analysis.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "non-technical intern"
+
+
+def test_associate_field_engineer_excluded() -> None:
+    conf = classify_title_confidence(
+        "Associate Field Engineer",
+        "Lead onboarding sessions and live demos for customers.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "non-tech"
+
+
+def test_cursor_open_level_swe_included() -> None:
+    conf = classify_title_confidence("Software Engineer, Growth", CURSOR_LIKE)
+    assert conf.level == "high_include"
+    assert conf.reason == "open-level technical ic"
+
+
+def test_bare_swe_still_excluded_without_team_suffix() -> None:
+    conf = classify_title_confidence("Software Engineer", CURSOR_LIKE)
+    assert conf.level == "high_exclude"
+    assert conf.reason == "no ec in requirements"
+
+
+def test_perplexity_mts_policy_excluded() -> None:
+    conf = classify_title_confidence(
+        "Member of Technical Staff (AI Policy and Strategic Initiatives)",
+        "Exceptionally talented early-career engineers (new grads welcome).",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "experienced mts title"

@@ -1,25 +1,659 @@
-{"url": "https://explore.jobs.netflix.net/careers/job/790315989769", "manual_include": false, "manual_reason": "ML Scientist level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003395", "manual_include": false, "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790298014263", "manual_include": false, "manual_reason": "AI Engineer level 6; staff/principal-level Netflix IC, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003395", "manual_include": false, "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003628", "manual_include": false, "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003395", "manual_include": false, "manual_reason": "Software Engineer level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790316003628", "manual_include": false, "manual_reason": "Software Engineer in Test level 5; senior Netflix IC band, not early-career"}
-{"url": "https://explore.jobs.netflix.net/careers/job/790315857851", "manual_include": false, "manual_reason": "Ads finance & strategy associate; non-technical business/finance role"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556639524", "manual_include": true, "manual_reason": "PhD research intern in AI frameworks/systems; early-career technical"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556652635", "manual_include": false, "manual_reason": "MoTS data scientist IC4; deep production LLM experience required, senior"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556626608", "manual_include": true, "manual_reason": "MoTS post-training AI; min Master's or bachelor's + 3mo internship, early-career technical"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556649491", "manual_include": true, "manual_reason": "Software Engineer II; early-career SWE level with 2+ years min (within 0-2 band)"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556659072", "manual_include": true, "manual_reason": "PhD research intern in security/privacy/AI; early-career technical"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556861335", "manual_include": false, "manual_reason": "Industrial controls/datacenter ops; 2-3+ years, facilities not SWE/DS/ML track"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556621824", "manual_include": true, "manual_reason": "PhD research intern in AI reasoning/agentic models; early-career technical"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556769477", "manual_include": false, "manual_reason": "Solution engineer; customer-facing pre-sales role, not core SWE/DS/ML"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556769491", "manual_include": false, "manual_reason": "Solution engineer; customer-facing pre-sales role, not core SWE/DS/ML"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556637410", "manual_include": false, "manual_reason": "Generic software engineer; no description, no intern/new-grad or EC signals"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556649755", "manual_include": false, "manual_reason": "Critical environment field service; datacenter facilities ops, 2-3+ years, non-SWE"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556657725", "manual_include": false, "manual_reason": "Industrial controls engineer; no description, no early-career signals"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556751400", "manual_include": false, "manual_reason": "MoTS data platform; no description, no early-career signals, mid-level title"}
-{"url": "https://apply.careers.microsoft.com/careers/job/1970393556856002", "manual_include": true, "manual_reason": "MS/PhD research intern in foundation models/agentic systems; early-career technical"}
-{"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581", "manual_include": true, "manual_reason": "ASIC design engineer new college grad 2026; early-career hardware/RTL role"}
-{"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581", "manual_include": true, "manual_reason": "ASIC design engineer new college grad 2026; early-career hardware/RTL role"}
-{"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581", "manual_include": true, "manual_reason": "ASIC design engineer new college grad 2026; early-career hardware/RTL role"}
+{"url": "https://jobs.ashbyhq.com/snowflake/a8fbbfef-98c1-4fcc-b6a5-84a95fef3860", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://jobs.ashbyhq.com/snowflake/4a8607f9-5e63-427d-91de-183f43012c69", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/38ede053-28d2-46f4-b0bc-4484c0c0782e", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a0428671-0cdc-47b0-8a5a-007fe52d49e4", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/191fb0a2-342a-49df-98d7-aac3d42fb293", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/217b1d27-815a-4ad1-b8b7-8fe52e57cd26", "manual_include": false, "manual_reason": "Requires 5+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://jobs.ashbyhq.com/snowflake/2c855f7d-9228-4ee6-b6b7-dcb3c33c3796", "manual_include": false, "manual_reason": "Requires 3+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b", "manual_include": true, "manual_reason": "Paid SWE internship for enrolled MS/PhD students; CS/EE coursework; C++/Go systems work at Observe."}
+{"url": "https://jobs.ashbyhq.com/snowflake/3c018564-63c0-4179-ba91-f42ce75a40fa", "manual_include": false, "manual_reason": "Requires 3+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://jobs.ashbyhq.com/snowflake/eb2e16d1-ac1e-457e-a031-70d6f144b3e5", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82", "manual_include": true, "manual_reason": "Paid AI/ML research intern for enrolled MSc/PhD; Python/PyTorch; applied ML R&D on Snowflake Intelligence."}
+{"url": "https://jobs.ashbyhq.com/snowflake/b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/f528f20a-aaa4-4ec9-a2c2-48d9e5a38695", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/514bfbdf-fe61-4809-bab5-d100cd2f44d6", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/1d1bf5f2-f764-4a01-ada2-cfa853e30db0", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/593fe4d5-b95a-49f4-bb66-0705f3102e83", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/16bf5348-3e01-4518-bf9c-17362b67ecea", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/d734e82f-59e4-4bf2-bcb8-d80ae0ce0c11", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://jobs.ashbyhq.com/snowflake/4a5057a2-9cbd-4450-aa37-f230bdf89bfd", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/0de66140-c2df-4314-8660-bb074a9d313f", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/b394b40b-ebab-4e7b-a43b-27d2b3247a42", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/1e4fa537-4a08-4af2-acf1-7d51c85d7c53", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a1f1779b-464c-48f6-a664-56314825c8ac", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/65f598bd-f528-42da-b5e5-b3b0bdeed52c", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a5cf7425-8109-4d5b-94d5-03f584cea83d", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/cbe88a47-235f-416d-b06c-b01fd6d9d8b6", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/f991db58-6bc1-40b2-a1b9-97d4d2b20a83", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/e09954f0-e67f-40f9-adcb-0ca3818c4d4f", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/acdbed12-827e-4553-bb6d-198ab8a04b46", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/7b8a21b4-8576-4391-974d-7f295fe24b87", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/312ee073-9ac5-41c5-8a28-e6ead6887c48", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/d0c0305c-5f29-4785-aabf-13bf9fcc3329", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/83b49e31-a018-40f2-ba7a-4e1fee776950", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/5b09c23e-cf24-4ba2-b924-0a4cc081a4c5", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/fa33b692-0ce3-43e2-a2f7-1c3fb7ab82ab", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://jobs.ashbyhq.com/snowflake/22228c5b-1683-49ef-9056-d2240ca92ce7", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/323816e6-ca63-4159-8e15-4f02b4e5fcbd", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/6cd37c6b-3856-47f7-bce9-6ad62a17bde9", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/70fa522f-acbd-467e-aa1d-ddcf078bb256", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a1bb3b71-f4c4-438c-b81f-8bf6f70e12b5", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/106edc19-7c0a-4ae5-b7e1-cd55be78f4dd", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/e6e81afb-2b0f-48ad-8457-fb7ba213f289", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/12455179-f3ff-4739-b8c0-c21f3c116b87", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/02b4dbeb-2fef-4838-9d79-922330f08d58", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/84ae5b39-9c5d-4c57-876d-7530be35a5f1", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/573478dd-de1f-4d6f-89f5-4d5fdc712ee3", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034", "manual_include": true, "manual_reason": "Paid SWE intern (AI/ML) for enrolled students; backend/ML engineering on Snowflake AI platform."}
+{"url": "https://jobs.ashbyhq.com/snowflake/047114d7-36da-4053-90d4-72cbae3012a9", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://jobs.ashbyhq.com/snowflake/9f769838-7ae5-4ffe-8412-3e7e7309ce89", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/5b423b9b-24d5-4e82-ac67-1a63292f472e", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/509681a0-08cd-484f-aaa6-ffdb8ea5a5ce", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/f758a184-2575-4505-a054-c87accf58561", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/8aaca557-05dc-4412-8d3b-28ed686df200", "manual_include": false, "manual_reason": "Requires 5+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://jobs.ashbyhq.com/snowflake/c73bd1cd-7c40-4375-8eed-3ebb0d33cc0d", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://jobs.ashbyhq.com/snowflake/e125288d-530b-4e59-bd17-63d6392bc507", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/76e65492-9ff5-4ca1-950a-3565f075f6cb", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/5f86cd12-f57d-49f4-8b31-8ee0d7d66bfc", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a6b5c8d4-bb8e-475f-a442-ad0f4cb42963", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/94aa7fc4-72ee-4d8f-844a-4ef1aeb5681c", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/da8298e6-c9e1-4d12-8af2-2405ba766602", "manual_include": false, "manual_reason": "Not early-career technical SWE/ML/DS/quant/firmware/embedded role."}
+{"url": "https://jobs.ashbyhq.com/snowflake/58c7ce9a-6c1b-42b4-8c32-865be9dec337", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/ce981ec2-4d1d-4840-aca4-21dfd6ba85bf", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://jobs.ashbyhq.com/snowflake/71fd0121-4ca5-4437-b1cc-896989d4c798", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7", "manual_include": true, "manual_reason": "Paid security SWE intern Fall 2026; enrolled student; security engineering on Snowflake platform."}
+{"url": "https://jobs.ashbyhq.com/snowflake/c73e0e90-9be1-4ca1-ac6b-d2ec6bcbb2d1", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/385b29d8-ef08-47a0-a2c3-fe1b53367e85", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/e6640dc7-a1b3-46ce-b154-e7b5f3345e5c", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/a040adc3-9592-49cb-84db-27fcc8ede438", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/9e7c59c8-99c8-4d41-a528-8b5e6c7d61e3", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://jobs.ashbyhq.com/snowflake/d297d07c-eaa7-4896-946d-df2879c8cde3", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/935b0989-ddfc-4dcc-b53b-1283838612c7", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/8fb70cca-f3fd-4b57-a5dd-4df51fd08b25", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/ce89d7db-4c16-4569-98b5-f66f976e99aa", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/70784d9e-fddb-4e3a-a4e2-2a4f4f197efe", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/34584833-b410-4c03-bf0c-0208bcf962c6", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/9b2c2bea-cab4-45da-99cc-9007c10a450f", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/32d441ea-d158-4a1e-9aba-7ed31e79f071", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/f08b7b19-11cb-4cb7-8b1e-10c239fe40e9", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://jobs.ashbyhq.com/snowflake/896f250b-b553-458d-b0d4-80ea9ceee826", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://jobs.ashbyhq.com/snowflake/058c268d-b7ab-4728-bc43-13e8dfb0b54f", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/805bdaab-4afe-438b-b049-e972ab460e0a", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/d2446ec4-63fb-4d9e-9006-ea7bd07e4083", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://ats.rippling.com/rippling/jobs/d07cfe76-dd75-401c-93ac-b997f5e376fa", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://ats.rippling.com/rippling/jobs/3a0b2575-a448-4ece-bb8f-f14e76d1bb1e", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/176d62a4-8825-4b1e-88f3-ee8b9b75ef26", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/96ffcf2f-d601-4f37-8ec6-dc93a3e65986", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/4d6a5b1b-8e59-48b8-8569-7f6c91eefc43", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/4c80f1bd-b40b-4431-acc0-cc6a62a8943e", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/5077158c-71a9-4033-8d57-db59de63668d", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/35a8b418-72cb-4af0-ae1c-bfc437f69101", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/f0c5c0d1-ded1-476b-bd39-c3ef21342903", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/a93ad04b-f10c-4318-b73c-ffd40b733339", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/9f632178-cae0-4685-8d9f-953d8e98ceaa", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/81805243-4827-4492-af4a-1793622065be", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/3f7826f8-cd91-4086-9425-6399600c733f", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/e2c4f4ac-9d73-4d14-b878-934ac3a8c0dc", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/95bcfb26-43a9-4050-8fa3-ce30d76afe23", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/e29df9ba-1079-4a92-a062-0bfe0da9c826", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/4d0654ae-417d-4477-beaf-722e0160b797", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/25491329-5f96-4a11-81b6-99512adf8081", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/70595dec-79fa-4c11-8dfa-7d2daf591454", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/bbfbabf1-50b4-4eb7-8d42-f522cad36809", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/78fc81da-ad77-42c7-90fa-ec0731c5ee34", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/e6a1faf6-a9ae-456b-b2a1-009844934956", "manual_include": false, "manual_reason": "Mid-level engineer title (II/3) — requires 2–3+ years, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/fd1307d5-92d2-4c13-bbfe-628fe9a6df9d", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/f3cda10f-e485-4437-ac40-16f3ae2423bf", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/8e8e5326-59e4-4f4d-9b69-445d19644ff4", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/8dd78ac1-92e4-41b1-bc4b-a621fabdf1b4", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/12aff603-9037-4e4c-a3de-51c14499e511", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/8c2c12b1-3826-47d6-b20c-f291e7844255", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/f14e2835-ada9-4bc4-82d2-2e6e7da5d3b8", "manual_include": false, "manual_reason": "Data scientist role — experienced DS, not early-career SWE/ML intern/new-grad track."}
+{"url": "https://ats.rippling.com/rippling/jobs/9437c086-39e5-4bb0-815e-c7e3fe78495b", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/60923be8-dc31-4aea-aba4-46cc3a8fcd75", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/8a99f62c-0b48-4b9f-afb7-e398ccb24b63", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/4c219a5e-667a-4d83-bf7e-eab44fedadcb", "manual_include": false, "manual_reason": "Marketing/GTM enablement — not SWE/ML engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/6d1e2ece-795f-4564-8a5f-931f0aea5c1f", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/ba7fddf7-bfea-4de1-990f-00f66322e516", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/c3d4a64f-8e8f-4e31-9b44-1db5fc6b3433", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/e756c508-e8a0-4145-9f92-74fdc316a25f", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/c42cfb86-00cf-4631-9d47-28074fafca1f", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/f6698dca-9173-499f-8a13-6c0fc52b1b2b", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/cdf1b3f4-e746-4f35-986a-b1eb2a70a628", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/7531be73-bcb3-42b8-bcf7-28364718da07", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/01d9c416-0988-4da4-af79-4d240d87c927", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/7c6e0c62-9055-4208-9204-cb2d799c025a", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/e2f6f39c-6186-4fda-96ce-d6b99fa7be5e", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/a04fddba-a7bd-428f-9efe-2b4c1448e982", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/f179c2dc-8711-49ac-94e9-b2a06697cb9c", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/2c3d2a3e-e416-4cb4-812c-79558462f1c3", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/0160eded-a1a2-402b-ac70-2a47e6737e25", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/09706114-1443-4e12-83f8-0850b0e7d9ba", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/e43f1aa9-4690-40ee-b147-a63e17a032b5", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/76b2e7a2-575d-4037-9c42-c5d377672255", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/19bd62d0-ba59-48fc-bde3-37c3e4a26964", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/8e150466-f959-49e7-8a1f-d788f4266a4d", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/5be18eaf-f680-4fdc-8b27-0f73581bb4c6", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/7eb8dc27-12d7-4022-81c6-ac1ec201c3b5", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/d28b9f7c-6df8-46b2-b98d-b9710f654826", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/8a371e83-89d8-4b6b-90a5-aafb885b649f", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/91392952-b7df-4157-96e9-89ad82874a8a", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/33cc41d1-b56b-4760-8e73-aebe2b898111", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/f99078b0-5998-4bb5-9440-0925fc5c6918", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/1cf2aed2-4aa1-4400-afbf-77c02ebce7b0", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/eac9cb38-85a3-42a2-bcfc-e3fcbad1e4d2", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/c825058f-5e18-4d07-8d91-eb6c02bd4aa5", "manual_include": false, "manual_reason": "Mid-level engineer title (II/3) — requires 2–3+ years, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/e24b4240-7a86-4810-b0b9-a18d110cbc31", "manual_include": false, "manual_reason": "Legal role — not technical engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/0a65ed5c-7ada-4b1b-b69b-0e180cc5ce44", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/94f17e14-54ff-4913-87e2-b607beb7d0c2", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/5aba88d7-c01e-48ce-a1c4-59cc9d8c6cb5", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/4bcb688d-fc30-4b31-be81-95ca58aad62a", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/2f2ae4c8-ec56-4d1f-8f2a-0d295674e19c", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/3b78cee8-fbff-44cb-874e-c8b9fec9575b", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/41ccf904-d408-45c5-9bf6-760ad90be048", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/29048829-2ca1-4165-8346-d3ae1151f9e9", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/cf15cbb8-8075-4fbe-bceb-fd5948006675", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/228ca412-3b94-4336-8c8e-f3ba40717ea2", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/6027dec1-5ba3-403e-8697-79c050d7ab6c", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/7ef3e6ea-4faa-4a8d-9ed3-4a18366c038c", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/db2f24b5-984f-4014-b6b0-7bec9a73708c", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://ats.rippling.com/rippling/jobs/87911d1f-ada3-45ad-ad35-f8040d832202", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://ats.rippling.com/rippling/jobs/46992182-4126-458c-bf34-dc90a8f1ff56", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/55c0d5ac-f388-4b44-a5f2-fb94335dcdb1", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/257c5880-cfa9-4d91-90f6-f5d7a53940d9", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/631e8120-3e87-4cb2-8083-3bc4324069bd", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/d7fae4cb-ee75-4948-ae72-a2527a264f97", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/62a89c46-4552-43e4-add4-d70ff02090bc", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/a7fa32a7-f0e1-4dd0-aea5-e2ad7ec7cc39", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://ats.rippling.com/rippling/jobs/b84bcd2e-574f-4d34-95a6-212ec8af3e0a", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/6667080a-312d-4798-a666-e883c2e364db", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://ats.rippling.com/rippling/jobs/298d730a-25e7-451f-bdcd-4671d06f5a69", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/96c66950-21e7-497a-b516-2c4cc1d2a4a4", "manual_include": false, "manual_reason": "Data scientist role — experienced DS, not early-career SWE/ML intern/new-grad track."}
+{"url": "https://ats.rippling.com/rippling/jobs/eb2cc539-7c14-456a-9053-74bfdc3372d8", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://ats.rippling.com/rippling/jobs/e3620017-195f-4ea7-934c-f14669bf1136", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/4deb7dd4-c440-449e-96f5-76a1375b8728", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/d8797dce-0abf-406a-bf5f-0f288b9800ad", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/95cf4e1c-886b-4a73-8049-01bd31df678b", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/49001f48-1564-4212-89cc-34448bb42619", "manual_include": false, "manual_reason": "Not early-career technical SWE/ML/DS/quant/firmware/embedded role."}
+{"url": "https://ats.rippling.com/rippling/jobs/b76825d6-8422-4cc2-99a2-149345759c48", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://ats.rippling.com/rippling/jobs/b5052985-de6c-4220-bf7d-6db5dffa7b15", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://ats.rippling.com/rippling/jobs/9144107c-ed32-4880-9a2a-247ce2eeeea4", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200314033/in-operations-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200314003/in-business-pro", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200314010/in-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200314117/in-specialist-full-time-and-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438164/tr-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438225/uae-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438095/it-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438056/es-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438043/de-specialist-seasonal-full-time-and-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438017/ch-specialist-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438340/at-specialist-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438069/fr-specialist-fixed-term-contracts-full-time-and-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438251/be-specialist-full-time-part-time-and-part-time-temporary", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438119/nl-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438132/se-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438326/kr-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438158/us-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438145/uk-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200314122/in-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200314015/in-genius", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200313991/in-creative", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438107/jp-specialist-full-time-or-part-time-temporary", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598711/sa-genius-admin-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598710/sa-technical-specialist-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598709/sa-business-pro-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598708/sa-specialist-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598704/sa-pro-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598713/sa-creative-pro-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598714/sa-genius-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598715/sa-business-expert-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598717/sa-operations-expert-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598718/sa-technical-expert-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200598720/sa-expert-saudi-and-gcc-nationals", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438210/jp-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438102/jp-operations-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200313970/in-business-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438252/au-senior-manager", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200450003/my-specialist-full-time-or-part-time-permanent-or-seasonal", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114437988/au-manager", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438029/cn-store-leader", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438346/th-specialist-part-time-seasonal", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438255/cn-senior-manager", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438027/cn-manager", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438246/be-operations-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438238/sg-specialist-part-time-seasonal", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114437991/au-specialist-seasonal-contract-full-time-or-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438165/tr-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438250/be-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438217/uae-creative", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438205/se-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438061/fr-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438030/cn-specialist-seasonal-full-time-or-part-time-or-intern", "manual_include": false, "manual_reason": "Apple retail Specialist intern — in-store sales/support, not technical SWE/ML."}
+{"url": "https://jobs.apple.com/en-us/details/114438282/mo-specialist-full-time-temporary", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438339/at-technical-specialist-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438011/ch-operations-expert-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438048/es-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438216/uae-business-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438218/uae-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438311/tw-specialist-full-time-and-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438207/de-technical-specialist-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438037/de-operations-expert-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438307/tw-operations-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438204/ch-technical-specialist-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438124/se-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438219/uae-genius", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438033/de-business-expert-m-f-d", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438297/mx-specialist-seasonal-part-time", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/200125467/ae-business-pro", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438111/nl-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438139/uk-operations-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438244/be-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438212/es-technical-specialist-full-time-part-time-and-part-time-temporary", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438224/uae-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438203/tr-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438209/it-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438082/hk-specialist-part-time-temporary", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438211/nl-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438206/fr-technical-specialist", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438049/es-genius", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://jobs.apple.com/en-us/details/114438087/it-expert", "manual_include": false, "manual_reason": "Apple retail store role (Specialist/Genius/Expert/Pro/Manager) — not software engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8480551002", "manual_include": false, "manual_reason": "GitLab Intermediate level — mid-career (~2+ yrs), not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8463922002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8548980002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8532272002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8524882002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8555117002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8543383002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8477068002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8504232002", "manual_include": false, "manual_reason": "GitLab Intermediate level — mid-career (~2+ yrs), not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8418604002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8476671002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8535897002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8500233002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8539465002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8509682002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8520251002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8433514002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8514379002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8551474002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8525960002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8467165002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8467462002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8475077002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8532929002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8467198002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8497791002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8509676002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8502364002", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8493033002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8505529002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8485506002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8532274002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8506618002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8337454002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8531879002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8498707002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8535048002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8500014002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8446714002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8538603002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8512133002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8504443002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8537793002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8432221002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8481626002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8432922002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8493814002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8490129002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8480559002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8539288002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8497359002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8464072002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8480531002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8536109002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8521684002", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8542042002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8478614002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8535856002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8481029002", "manual_include": false, "manual_reason": "GitLab Intermediate level — mid-career (~2+ yrs), not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8542785002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8446791002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8496880002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8482744002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8324132002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8518629002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8504801002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8436097002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8493970002", "manual_include": false, "manual_reason": "Non-core-SWE specialty/support/vendor role."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8493679002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8537853002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8448368002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8195921002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8480565002", "manual_include": false, "manual_reason": "GitLab Intermediate level — mid-career (~2+ yrs), not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8453504002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8537864002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8517171002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8539451002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002", "manual_include": false, "manual_reason": "Technical IC without intern/new-grad/0–2yr signal — likely mid-career hire."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8478618002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8532381002", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8489126002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8512758002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8450446002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8490477002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8539980002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8455203002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8326610002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8520248002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8498481002", "manual_include": false, "manual_reason": "Pre-sales/customer-success/consulting — not product SWE/ML IC."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8472475002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8460203002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8515080002", "manual_include": false, "manual_reason": "Technical IC without intern/new-grad/0–2yr signal — likely mid-career hire."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8510488002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8443302002", "manual_include": false, "manual_reason": "GitLab Intermediate level — mid-career (~2+ yrs), not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8548105002", "manual_include": false, "manual_reason": "Marketing/GTM enablement — not SWE/ML engineering."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8432235002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/gitlab/jobs/8157520002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7590735", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7815443", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7662222", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=6633264", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7604011", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7597723", "manual_include": false, "manual_reason": "Mid-level engineer title (II/3) — requires 2–3+ years, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7335567", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7799978", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7523751", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7662223", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7523959", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7404533", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7211619", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7661622", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7590587", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7836059", "manual_include": false, "manual_reason": "Pre-sales/customer-success/consulting — not product SWE/ML IC."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7661621", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7375469", "manual_include": false, "manual_reason": "Pre-sales/customer-success/consulting — not product SWE/ML IC."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7696228", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7860066", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7904962", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7746718", "manual_include": false, "manual_reason": "Pre-sales/customer-success/consulting — not product SWE/ML IC."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7595025", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7337287", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7128879", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7530648", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7705474", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7815444", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7280132", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7771690", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7662950", "manual_include": false, "manual_reason": "Mid-level engineer title (II/3) — requires 2–3+ years, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7628750", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7721912", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7403891", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7779016", "manual_include": false, "manual_reason": "Non-core-SWE specialty/support/vendor role."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7727896", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7782814", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7939397", "manual_include": false, "manual_reason": "Mid-level engineer title (II/3) — requires 2–3+ years, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7736116", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7362582", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7619241", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7746436", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7782383", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7913513", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7672303", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7227836", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7721659", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7837225", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7467701", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7599427", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7696235", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7617019", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7028355", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7761063", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7891161", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7027409", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7706094", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7815677", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7861722", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7585369", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7211805", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7922824", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=6829771", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7766197", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=6740470", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7822078", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7818273", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7946916", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7378931", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7793634", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7672822", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7872490", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7650199", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7340968", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7769177", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7409019", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7723638", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7613157", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7157100", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7913421", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7727923", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7711189", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7566671", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7721906", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7256839", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7210819", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7767289", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7833626", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7625229", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7604302", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7743718", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7657504", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7558720", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7612606", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7779026", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7784006", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7334938", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7766302", "manual_include": false, "manual_reason": "Mid-level engineer title (II/3) — requires 2–3+ years, not early-career."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7736184", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://www.mongodb.com/careers/job/?gh_jid=7217822", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8289766002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8433948002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8490430002", "manual_include": false, "manual_reason": "Legal role — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8482186002", "manual_include": false, "manual_reason": "Legal role — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8371252002", "manual_include": false, "manual_reason": "Data engineer — requires 2+ years, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8447216002", "manual_include": false, "manual_reason": "Data scientist role — experienced DS, not early-career SWE/ML intern/new-grad track."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8538797002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8480100002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8542210002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8485778002", "manual_include": false, "manual_reason": "Non-engineering specialist/support/retail/ops role."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8440430002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8552176002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8485738002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8397385002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8537955002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8502342002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8509325002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8422578002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8497292002", "manual_include": false, "manual_reason": "Legal role — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8546664002", "manual_include": false, "manual_reason": "Legal role — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8517367002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8400845002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8484011002", "manual_include": false, "manual_reason": "Technical IC requiring 1+ years prior experience — not intern/new-grad early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8519610002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8445676002", "manual_include": false, "manual_reason": "Product/design/PM — not SWE/ML IC."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8359170002", "manual_include": false, "manual_reason": "Product/design/PM — not SWE/ML IC."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8419050002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8419048002", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8523903002", "manual_include": false, "manual_reason": "HR/recruiting/people ops — not technical engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/7966411002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8540239002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8468440002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8557290002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8177757002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8476363002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8539729002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8401077002", "manual_include": false, "manual_reason": "Product/design/PM — not SWE/ML IC."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8391234002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8456187002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8463028002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8409005002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8558992002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8530692002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8490274002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8529800002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8447477002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8460791002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8200328002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8112880002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8431671002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8506485002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8499094002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8538039002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8438033002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8136321002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8377248002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8362697002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8399456002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8552362002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8520965002", "manual_include": false, "manual_reason": "Requires 3+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8487457002", "manual_include": false, "manual_reason": "Requires 4+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8396927002", "manual_include": false, "manual_reason": "Requires 3+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8485884002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8475180002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8475182002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8468373002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8502993002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8323992002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8460867002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8498984002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8525770002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8177912002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8344197002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8214127002", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8450205002", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/discord/jobs/8507387002", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7895468", "manual_include": false, "manual_reason": "Requires 3+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7848689", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7891887", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7858506", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7488988", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7886561", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7011741", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7937043", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7181821", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7746500", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950520", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7895408", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950533", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/6042236", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7559059", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7721787", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7898547", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7624178", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7843673", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7905488", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7842817", "manual_include": false, "manual_reason": "Requires 10+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7803856", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/6745284", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7909463", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7833378", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7731917", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7746549", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7696013", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7890096", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950471", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950500", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7761394", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7844238", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7488991", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7488986", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7769002", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7944226", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7731424", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7739343", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7868511", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7074776", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7772274", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7739084", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7905466", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7694751", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7733445", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7701558", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7768983", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7659580", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7822910", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/6960833", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7821738", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7886619", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7947049", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7834671", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7391478", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950506", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7782673", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7774908", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7793253", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7875645", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7843754", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7792848", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7833380", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7913659", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7902277", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7617155", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7669372", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7947591", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7905472", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/6469397", "manual_include": false, "manual_reason": "Requires 3+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7702201", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7931049", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7867308", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7445240", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7721851", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7917818", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7624311", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7801838", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7875300", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7749330", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/6512458", "manual_include": false, "manual_reason": "Technical IC without intern/new-grad/0–2yr signal — likely mid-career hire."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7309137", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7886615", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7898718", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7488992", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7825665", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7863043", "manual_include": false, "manual_reason": "Leadership title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7847270", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7359367", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950472", "manual_include": false, "manual_reason": "Management/Director title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7833622", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7488862", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7572902", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950532", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7886459", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7931000", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7950505", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7330347", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://job-boards.greenhouse.io/reddit/jobs/7846885", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7357", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7251", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7400", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7371", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/6687", "manual_include": false, "manual_reason": "Management/architect/program/non-engineering leadership."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7401", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7333", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7389", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7299", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7420", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7377", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7325", "manual_include": false, "manual_reason": "Technical IC without intern/new-grad/0–2yr signal — likely mid-career hire."}
+{"url": "https://careers.blackline.com/careers-home/jobs/6921", "manual_include": false, "manual_reason": "Finance/accounting/tax/comp ops — not SWE/ML."}
+{"url": "https://careers.blackline.com/careers-home/jobs/6866", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7403", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7049", "manual_include": false, "manual_reason": "Requires 4+ years experience — above 0–2yr early-career threshold."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7362", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/6714", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7394", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7385", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7267", "manual_include": false, "manual_reason": "Sales/GTM/pre-sales/customer-success role — not SWE/ML IC engineering."}
+{"url": "https://careers.blackline.com/careers-home/jobs/7405", "manual_include": false, "manual_reason": "Senior/Staff/Principal title — experienced role, not early-career."}

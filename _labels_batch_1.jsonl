@@ -1,50 +1,659 @@
-{"url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f", "manual_include": false, "manual_reason": "Senior/expert systems engineer; 3+ years required"}
-{"url": "https://jobs.ashbyhq.com/perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6", "manual_include": false, "manual_reason": "MTS experienced IC; significant Golang production experience, mentors peers"}
-{"url": "https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261", "manual_include": false, "manual_reason": "MTS experienced IC; significant AI/agent engineering experience expected"}
-{"url": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5", "manual_include": true, "manual_reason": "Technical MTS policy role; new grads welcome per role guidance"}
-{"url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92", "manual_include": true, "manual_reason": "Technical engineering internship (search backend infra)"}
-{"url": "https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6", "manual_include": false, "manual_reason": "MTS DS role; 4+ years data science/ML required"}
-{"url": "https://jobs.ashbyhq.com/perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8", "manual_include": false, "manual_reason": "MTS experienced backend engineers (not intern/new grad)"}
-{"url": "https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd", "manual_include": false, "manual_reason": "BDR sales role, not technical engineering"}
-{"url": "https://jobs.ashbyhq.com/perplexity/e48aaf8c-24cd-4733-aa5b-752773467bfa", "manual_include": false, "manual_reason": "PhD-level security research MTS; top-tier publication track expected"}
-{"url": "https://jobs.ashbyhq.com/perplexity/768efd34-3854-4c9b-9686-2a128ab35405", "manual_include": false, "manual_reason": "MTS DS/engineer; 4+ years analytics/DS required"}
-{"url": "https://jobs.ashbyhq.com/perplexity/a19f1774-5944-4981-b446-e3e40d0dd281", "manual_include": false, "manual_reason": "MTS experienced search Rust engineer IC"}
-{"url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d", "manual_include": true, "manual_reason": "Technical search ML engineering internship"}
-{"url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194", "manual_include": false, "manual_reason": "Perplexity MTS infra IC; no intern/new-grad signals"}
-{"url": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc", "manual_include": false, "manual_reason": "MTS SWE; 3+ years production software required"}
-{"url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2", "manual_include": true, "manual_reason": "Technical search ML engineering internship"}
-{"url": "https://jobs.ashbyhq.com/perplexity/c03bf199-9faa-48a4-809d-095c72b06000", "manual_include": false, "manual_reason": "MTS acceleration IC; internet-scale experienced engineer profile"}
-{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4655050005", "manual_include": false, "manual_reason": "Technical SWE robotics but 3+ years required"}
-{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4536659005", "manual_include": false, "manual_reason": "Enterprise applied AI client-facing role; experienced FDE profile"}
-{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4413274005", "manual_include": false, "manual_reason": "PhD/research-track public-sector ML engineer"}
-{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006733005", "manual_include": true, "manual_reason": "Technical frontend SWE; BS path with portfolio/React project option"}
-{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006734005", "manual_include": true, "manual_reason": "Technical fullstack SWE; BS-level hiring (same family as frontend)"}
-{"url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651990005", "manual_include": false, "manual_reason": "Founding forward-deployed engineer; senior IC/founder scope"}
-{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008", "manual_include": true, "manual_reason": "Anthropic Fellows early-career AI safety research program"}
-{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5146028008", "manual_include": false, "manual_reason": "Applied AI engineer; 8+ years experience required"}
-{"url": "https://apply.workable.com/j/922D2C6549", "manual_include": false, "manual_reason": "Technical DevRel but no description/EC signals; likely mid-level"}
-{"url": "https://apply.workable.com/j/F24E2E5058", "manual_include": false, "manual_reason": "Technical DevRel but no description/EC signals; likely mid-level"}
-{"url": "https://apply.workable.com/j/7C7F63E87A", "manual_include": false, "manual_reason": "Advocate/DevRel-style technical role; no EC signals in posting"}
-{"url": "https://apply.workable.com/j/5CA82A9A98", "manual_include": false, "manual_reason": "Advocate/DevRel-style technical role; no EC signals in posting"}
-{"url": "https://apply.workable.com/j/56232F23CB", "manual_include": false, "manual_reason": "ML engineer title only; missing description, no EC evidence"}
-{"url": "https://apply.workable.com/j/E787796A71", "manual_include": false, "manual_reason": "ML engineer title only; missing description, no EC evidence"}
-{"url": "https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6", "manual_include": true, "manual_reason": "Summer 2026 security engineering intern"}
-{"url": "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1", "manual_include": true, "manual_reason": "Summer 2026 field/ML engineering intern"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/7182464", "manual_include": true, "manual_reason": "Technical trading systems engineer; 1-3 years (junior)"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/6776683", "manual_include": true, "manual_reason": "Technical trading systems engineer; 1-3 years (junior)"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/6821173", "manual_include": true, "manual_reason": "Technical trade systems engineer; 1-3 years (junior)"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/7377915", "manual_include": true, "manual_reason": "Quant research engineer; BS hire, no 3+ year minimum stated"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/7930236", "manual_include": false, "manual_reason": "Quant developer; minimum 2 years finance experience required"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/7377981", "manual_include": true, "manual_reason": "Quant research engineer; BS hire, no 3+ year minimum stated"}
-{"url": "https://job-boards.greenhouse.io/drweng/jobs/6973885", "manual_include": false, "manual_reason": "Research engineer; minimum 2+ years production Python"}
-{"url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002", "manual_include": true, "manual_reason": "Quantitative researcher internship"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002", "manual_include": true, "manual_reason": "2026 technology software engineering internship"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002", "manual_include": true, "manual_reason": "Technical ML engineer; PhD/PhD candidate eligible"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002", "manual_include": true, "manual_reason": "Technical data scientist; BS/MS hire with senior mentorship, no 3+ yr min"}
-{"url": "https://boards.greenhouse.io/point72/jobs/7695570002?gh_jid=7695570002", "manual_include": false, "manual_reason": "Proprietary research DS; experienced market-intelligence profile"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8128613002?gh_jid=8128613002", "manual_include": false, "manual_reason": "Workday HCM/payroll systems analyst, not SWE/ML EC track"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8393253002?gh_jid=8393253002", "manual_include": false, "manual_reason": "Broker relations finance analyst, not technical"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8428205002?gh_jid=8428205002", "manual_include": false, "manual_reason": "Description says Senior Software Engineer"}
-{"url": "https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002", "manual_include": true, "manual_reason": "Quant software developer; 1-3 years, technical"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8372904002?gh_jid=8372904002", "manual_include": false, "manual_reason": "Description says Senior Software Engineer, Tax Technology"}
-{"url": "https://boards.greenhouse.io/point72/jobs/8393928002?gh_jid=8393928002", "manual_include": false, "manual_reason": "Observability engineer; proven large-scale experience required"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005", "manual_include": true, "manual_reason": "Part-time STEM intern; university students, coding/AI projects"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4696595005", "manual_include": false, "manual_reason": "Post-training senior research role"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4618065005", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4637484005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4658316005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4631613005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4662232005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4669171005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4488520005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4691603005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4623590005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4683446005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4655050005", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4693082005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4683055005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4643029005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4682686005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4612329005", "manual_include": false, "manual_reason": "Medical Fellow HFC; non-technical domain expert fellowship"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4661647005", "manual_include": false, "manual_reason": "HFC ML Fellow requires PhD/postdoc + 1-3+ yrs ML experience"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4675842005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4695042005", "manual_include": false, "manual_reason": "HFC expert fellowship (PhD/5+ yrs), not new-grad EC"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4667857005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4693453005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4683058005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4687384005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4664232005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4282118005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4620719005", "manual_include": false, "manual_reason": "HFC STEM Fellow for PhDs/postdocs/professors, expert fellowship"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4617327005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4673771005", "manual_include": false, "manual_reason": "ARC Team SWE requires secret clearance; public-sector experienced IC"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4663481005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4671740005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4655240005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4689950005", "manual_include": false, "manual_reason": "HFC SWE Fellow requires 5+ yrs SWE or PhD/faculty"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4646946005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4623533005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4694869005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4613839005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4673252005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4693421005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4663533005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4674911005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4623913005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4661650005", "manual_include": false, "manual_reason": "HFC ML Fellow requires PhD/postdoc + 1-3+ yrs ML experience"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4632142005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4565834005", "manual_include": false, "manual_reason": "Legal Fellow HFC; non-technical"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005", "manual_include": false, "manual_reason": "Post-training research scientist; PhD + published ML research"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4636227005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4593571005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4694861005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4636248005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4612403005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4625344005", "manual_include": false, "manual_reason": "MLRE requires 1-3 yrs LLM production + recent publications"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4642876005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4684808005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4650973005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4675694005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4687052005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4694836005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4650507005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4281519005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4613327005", "manual_include": false, "manual_reason": "Finance Fellow HFC; finance not technical EC"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4687588005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4676606005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4685068005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4599700005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4595555005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4594237005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4689919005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4648176005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4690504005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4628044005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4687050005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4631811005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4654897005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4650516005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4660340005", "manual_include": false, "manual_reason": "HFC ML Fellow requires PhD/postdoc + 1-3+ yrs ML experience"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4674913005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4599202005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4694865005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4695258005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4691908005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4693449005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4640096005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4670064005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4633072005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4674924005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4693078005", "manual_include": false, "manual_reason": "HFC expert fellowship (PhD/5+ yrs), not new-grad EC"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4658162005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4689954005", "manual_include": false, "manual_reason": "HFC SWE Fellow requires 5+ yrs SWE or PhD/faculty"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4689947005", "manual_include": false, "manual_reason": "HFC SWE Fellow requires 5+ yrs SWE or PhD/faculty"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4688021005", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4613333005", "manual_include": false, "manual_reason": "Legal Fellow HFC; non-technical"}
+{"url": "https://job-boards.greenhouse.io/scaleai/jobs/4565768005", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/638e6823-be7f-46c6-9675-7b1197fc9b8c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/8a976851-9bef-4b07-8d36-567fa9540aef", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/b932d73f-49f3-4367-8fa7-a22f760e55a3", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/598e1f7d-b802-4de2-99ac-90eb2bc33315", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/dd80ab52-34bd-42af-aa5e-6283b7e6c194", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/0190699f-010b-44f2-8399-278899fef018", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/27aa1a14-bc59-4613-a65a-38598695076f", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/94ccf41e-d3e1-41aa-9569-c3bcbffc4184", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/3c656963-876a-458d-bca6-916a42a24c1a", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/8673866c-f624-4b58-b171-752cf003630e", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/9a570310-305d-4f4e-9807-b8862b31194b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/a19f1774-5944-4981-b446-e3e40d0dd281", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/30a09c0f-8715-447d-92b7-9f0adb772fd6", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/2e1ee70c-b070-4ccc-a2bf-8b394161bbde", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/e4777627-ff8f-4257-8612-3a016bb58592", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/a805e14b-061d-469c-9136-b9e6a1855902", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/9ac5e638-85f6-4308-bcd5-7dfe0a30a79b", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/d59c175a-9889-4947-81f7-21fd7db243be", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/44181937-a55e-4c68-a2dc-9a86e0898498", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2", "manual_include": true, "manual_reason": "Search ML engineer internship"}
+{"url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92", "manual_include": true, "manual_reason": "Search backend/infra engineer internship"}
+{"url": "https://jobs.ashbyhq.com/perplexity/5ec96ca1-319a-4b85-99ce-e06629099cf9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/2df92d4a-48eb-422f-af9c-4a963fd6135c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/9904db61-b8ca-4207-8f93-88ab6f0cd3fd", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/2a87ccbf-82ef-4fc7-b1ed-4dd18b11baf9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/c03bf199-9faa-48a4-809d-095c72b06000", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/2cef7831-6ed3-4663-aec4-57f79f08c95a", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/08d510a4-c217-4967-a035-b5b8147e5c62", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/768efd34-3854-4c9b-9686-2a128ab35405", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/8c6b0350-e920-47a5-a575-b018a280bbb9", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763", "manual_include": true, "manual_reason": "UK CS/engineering Masters/PhD internship program"}
+{"url": "https://jobs.ashbyhq.com/perplexity/2b5a9f9c-7cd5-4579-b7c2-69d09e0214c8", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/111dfa6f-e6f3-45b6-9de4-69e4a28e3f12", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/2be717cb-ad3e-4052-a464-79b107a70406", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/e48aaf8c-24cd-4733-aa5b-752773467bfa", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/18509f15-ab49-450d-8a01-4b280e464ad0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5", "manual_include": false, "manual_reason": "Perplexity MTS policy/affairs; experienced IC not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/1a3df802-9238-4827-ab1f-12a9d1e4b81c", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/60deb376-51b5-46c6-9e17-55377a5ef34e", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/d7e05546-4d42-4f1a-8ccd-c95d2519f5f6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/9e3a4516-b893-4579-9a6a-3720658e4b6d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d", "manual_include": true, "manual_reason": "Search ML engineer internship (duplicate posting)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8", "manual_include": false, "manual_reason": "Perplexity/Anthropic MTS is experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/perplexity/bf58f336-d644-4679-a771-69db80c7694f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/acd466ba-536f-49da-968a-15b8c53298f8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/4eeb7b0f-9370-40e8-94de-faf3e4312ed0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/fdc2ea75-c198-4a9e-9c0a-df835ed61ed0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/perplexity/d89e87e0-6ab6-4091-9ab8-f138b32a2bd6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/perplexity/6eedd99c-ff6a-470b-a7cc-3303e1c0b7fc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74", "manual_include": true, "manual_reason": "Software Engineer Growth IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/0863d184-1b2f-42cd-9fca-37fa90efe2eb", "manual_include": true, "manual_reason": "Software Engineer Services Platform IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511", "manual_include": true, "manual_reason": "Software Engineer Infrastructure IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2", "manual_include": true, "manual_reason": "Software Engineer Storage IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45", "manual_include": true, "manual_reason": "Software Engineer Core Services IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/044a003e-d6cc-43b6-806a-833d9399c3d4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64", "manual_include": true, "manual_reason": "Software Engineer Client Infrastructure IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7", "manual_include": true, "manual_reason": "Software Engineer Generalist IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991", "manual_include": true, "manual_reason": "Software Engineer Enterprise IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14", "manual_include": true, "manual_reason": "Software Engineer ML Research IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769", "manual_include": true, "manual_reason": "Software Engineer Product IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa", "manual_include": false, "manual_reason": "Field Engineer is pre-sales/customer-facing"}
+{"url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae", "manual_include": false, "manual_reason": "Research Scientist needs deep RL research track record"}
+{"url": "https://jobs.ashbyhq.com/cursor/e3966cb2-c584-4c8a-9d25-1309af31b3a9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d", "manual_include": true, "manual_reason": "Software Engineer Agent Harness IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/546cbbe0-2afb-48f4-a935-aea10c25d797", "manual_include": false, "manual_reason": "Data Engineer Analytics; experienced data role"}
+{"url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd", "manual_include": true, "manual_reason": "Software Engineer Security IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a", "manual_include": true, "manual_reason": "Software Engineer Bugbot IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/5f3be2c8-1b47-4074-a61e-7bfeb2ad0536", "manual_include": false, "manual_reason": "Design Engineer is design/UI role, not SWE IC"}
+{"url": "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7", "manual_include": true, "manual_reason": "Software Engineer Enterprise Platform IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347", "manual_include": true, "manual_reason": "Software Engineer Developer Productivity IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc", "manual_include": true, "manual_reason": "Software Engineer Data Infrastructure IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/0cf937d6-ed98-42fa-a737-bb3f9f9b8aed", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/c0a1e9c3-239d-473a-a4d8-59ba329bdd5a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/fb97e304-9d99-4b07-9474-1290121a87d5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/3d9da649-b3e6-4b4c-943d-1d081dae9497", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9", "manual_include": true, "manual_reason": "Software Engineer ML Infrastructure IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/71ffd8e7-6da4-4671-a52d-00ba434d119f", "manual_include": false, "manual_reason": "Data Scientist Growth; experienced analytics"}
+{"url": "https://jobs.ashbyhq.com/cursor/d4956c00-6138-479b-9649-2874c2dabc0f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79", "manual_include": true, "manual_reason": "Software Engineer Model Routing & Inference IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/0ec3e4a3-03f7-4a80-bb5d-6b2afa23aefc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/7c636ebc-71e7-4aa8-b393-066ee8fb9f2d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/ef52aba1-3f0f-4576-9516-fc074a63cf50", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/3758d4dd-a282-4feb-a521-bad2705fa3f4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/eb238291-8a00-4385-8108-4e4d634c2be0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/88c6e423-1217-42f0-ada4-8cbaf9c24790", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/f602d5d4-7961-479b-894e-7e975e7bfe4e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/18f88921-87f8-4729-8bb9-5ba6f4cb1155", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/409d6bff-d60c-45b7-8d4c-21f6574010de", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e", "manual_include": true, "manual_reason": "Software Engineer Billing IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/fcdf7683-bd29-49a5-9284-f000b04a266a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/f108d166-f78e-424b-b8a3-9cadcdbec76e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/fbd463c5-a27c-4d3a-b715-613ce2a9cca0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/023db2eb-7f2e-43e7-884d-46232217d786", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/f27e0997-e283-4015-be61-e13d844a2834", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/123af173-6f9b-4089-9d96-d0c028b9e841", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/cd70976b-944b-4986-b3f9-1d31f2322f7a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670", "manual_include": false, "manual_reason": "Associate Field Engineer is customer onboarding/pre-sales"}
+{"url": "https://jobs.ashbyhq.com/cursor/46850aef-498b-4059-b251-f259e8cbbf10", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/aca52072-00b0-4c2b-9371-18689910cd14", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/bf4b294b-1167-4327-884f-a7949b49be18", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/b7805e95-2c4f-456e-ae6f-8748c0bce83f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693", "manual_include": true, "manual_reason": "Software Engineer Agent Evaluation IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/a5c8aa0f-1bf4-4ef0-802b-9af416c4db21", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/bd555681-82ac-49e9-ae34-30d5f3c40f36", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/57b0e9ff-a10d-47e0-8039-2bf1605add74", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/7eb7a185-504e-4555-a7a2-73b48c04b9c7", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/97964bb3-0187-42e4-a32b-a97d27358218", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/2d45b285-d676-41b5-8585-ed90ec435ae5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/413e0e15-4b48-4c9c-be9d-85dc46ff60c2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/d225fc95-a56f-466a-9588-d75a7f38c426", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/47df1e88-54af-42e1-a813-444b523b1a4d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/21110d73-77cb-465b-9977-65afb3e82cec", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/66e67c2e-c828-4ddb-a2c0-7d3cb672f19d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/69abc2ba-2823-40c3-9b86-94ab63859649", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/e9f51a87-3aca-4e99-b217-e1d19f90dc2a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/b8c189e9-671b-4157-aa25-738542e1c7ed", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/c4be0272-542c-4bf1-b890-8785d3044bed", "manual_include": false, "manual_reason": "Field Engineer ANZ is pre-sales/customer-facing"}
+{"url": "https://jobs.ashbyhq.com/cursor/e46dd189-16d2-4a0f-bfb8-207eb403f92f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/ac2e5114-31b8-4892-b667-a69e9d0c020c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/d06b43e2-4993-4373-9827-9b1d40d7735b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/d0cf5203-2db2-40b6-b1fe-1656ec288ce3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/94ae671e-345a-48de-9b7a-2aad693351e1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/57d24d12-ba83-460a-868b-362ffd653253", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/040ac0f8-dba7-4d13-8171-b902e925f334", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313", "manual_include": true, "manual_reason": "Software Engineer User Operations IC; no minimum YOE stated"}
+{"url": "https://jobs.ashbyhq.com/cursor/c2d508cc-921f-4cd9-9d1b-19018fbc68e3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/2d96088d-01ef-4082-b32e-500574f90751", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/cursor/766fd1cd-69a2-47b8-8b4c-86db50e915f9", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/793f18fa-a06f-475e-9c3f-6535e6e73f88", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/cursor/6bfe383a-2198-4e0e-9768-6d96d6a8591b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.gem.com/groq/am9icG9zdDoZWVPHzIhW7cwyy2XW5_3V", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.gem.com/groq/am9icG9zdDpLy4jU-utNBcKX3XngGGGe", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.gem.com/groq/am9icG9zdDrikUnz2_lqnsD98F66ojuT", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/9b0cafb7-c1af-4b81-a875-7852d1b5d682", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/5a4319bd-cd9d-4714-bb56-99765c0948d1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/bbf99974-b960-40cd-9353-179d9f3b375a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/0ca9bb78-6d6b-4b71-8f77-762f0b16b959", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/2213fc81-aabe-4a96-b090-89a6594295dc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/d96f72bd-d78e-4a2b-9d9f-faa10b9ec883", "manual_include": false, "manual_reason": "Software Engineer Fleet requires 2+ yrs"}
+{"url": "https://jobs.ashbyhq.com/lambda/0b24367a-59b6-4e1e-a9f4-7c23542536fa", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/b7d7c85b-6f62-4eed-8616-abab643fd17e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/2352bba0-d5c7-4f2e-86f2-5bdb5f5ac755", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/11976cf8-9535-4654-a7ef-cf322bd5da91", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/bafe6266-7d4a-4ed1-bc50-03edfba10c97", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/22921610-2e25-41ab-bbf9-d3237cfcefc2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/cf395a28-87bd-4d44-891a-bbefa6958fe2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/5c9645e4-b3ac-48a4-bbd1-19d38f927cfc", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/e971621e-2a3d-4359-b349-9493007d517c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/f12a5895-f97d-4583-8d67-ef66a9b30b39", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/8714b844-7754-429a-a22f-2f849dbf9621", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/b6d72a53-6a41-44b9-8e7e-383be950dba6", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/e301d6a4-b43d-4464-aba6-e7020ab265f3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/20bf80b6-6677-4a06-b696-672c49bee0ed", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/f7cbc44b-ffd4-4ab2-8033-3e2cb3a20afa", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/7c1d9573-d7ac-4b4e-abad-df4b5c61fa65", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997", "manual_include": true, "manual_reason": "Data center mechanical engineering intern 2026"}
+{"url": "https://jobs.ashbyhq.com/lambda/6f938d2d-0b79-4ca4-b28d-e4e84f5679be", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/dee77fd8-7b4a-4212-af48-59df66e6d05e", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/c6274000-b650-44a2-866f-a89df7d633b7", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/87850bde-b68d-479f-bbcd-738538efeff8", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/8b423e61-73a0-4838-a64c-ce655a9b6f14", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/ff183caf-e94b-4149-9148-a16d984e26e3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/lambda/4803c790-6e11-4e82-ad5e-f07c79290760", "manual_include": false, "manual_reason": "Capital markets & corp dev intern; finance not technical"}
+{"url": "https://jobs.ashbyhq.com/lambda/ed0611f7-7f19-45f4-bef8-56dbae59de15", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6", "manual_include": true, "manual_reason": "Security engineering software intern summer 2026"}
+{"url": "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1", "manual_include": true, "manual_reason": "ML field engineering intern summer 2026"}
+{"url": "https://jobs.ashbyhq.com/harvey/a35efd1c-e5ad-4556-bfa4-d2e13f8b7f1c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/22635945-1052-45e7-9b13-f94aabce8e9b", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/748edfbe-f819-47fd-85bb-3c4974f8913f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/0d644579-3a6f-48a3-b57c-34474fd8ac33", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/ca25e4fd-45bc-48ef-9089-0a160e1845f8", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/ed0c64bc-3318-434d-8f59-bd0cadcb11b9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/2e34257c-0793-4879-8fca-01b5a943bc6c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/9cc08902-8916-47a8-a849-eec2c67ab3bd", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/1bb8f751-08ad-4d9e-b7b5-9991684fa756", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/3a5d83bc-5941-46cd-b748-d21b06256f0d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/d527a336-24e3-46ef-8d05-1da557c7bff4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/a20b0b6b-baf1-4c8c-ae7b-599690b0a882", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/c2e8772a-ca9c-44ee-95fb-bbd64f57e7c4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/2dd28360-5a6b-4769-adb6-e747f0f0bdcc", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/4ebfa721-ab27-44fb-8359-6daaede4b43e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/463bac67-20c1-49c5-8835-a64ca0e94c73", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/5dced8b9-8d6a-427c-9b09-a92eb07de87f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/3bfa8dce-1091-4f23-a05f-1b64e60da1b3", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/3fc0953f-8a03-46f2-8f4b-d12cf95f2800", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/0c16a507-508c-4e66-ae06-b8de13c7ae67", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/0b0b6b76-d5e5-4a82-a062-20f306290f5a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/313d5aa8-bfc9-4057-b9a3-b73b4894f6a7", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/eefca50a-b397-4344-82d8-94ba14e3a387", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/1c86befd-b6f4-4520-9f3b-68c6fad938f1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/b3f11c22-67ea-4e95-bb50-0743de87aa2b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/e025790f-3e3d-4ef6-a1a6-737ee3d6004c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/dcd6dbb1-8db5-4c88-a8c0-32cff9096cd3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/51fb953a-c494-4a09-8fe2-8d7268b863ec", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/07992b53-a586-40b8-9579-8f383f7b2c99", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/3e41d1c2-7ed5-4eac-a0ea-e51293f66e2e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/f817846d-8489-4900-85f2-1521f43f7abf", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/408836d0-ce2d-401f-98a8-f3351ad4f8c8", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/2cbe13b9-a44b-47d3-abb8-45d9a98b05f6", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/a5700b37-f2d3-44a3-8241-c5eb574edca5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/95b0e486-e777-4435-a842-19db85d1f137", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/5fff8490-5b85-4aa8-9401-179be3d23141", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/9692d090-afc2-4d09-b489-f1c74ea5c99d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/cbdfd7b0-6a9c-4c89-bdad-ad1ed4f74760", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/8fcbaa40-af80-4b59-85ef-64fc1d58e5be", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/ca7eae85-59b7-418a-9d8a-c64ce5bdcb98", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/a6a5c9bd-791c-43cc-af53-6f9785ad5d9d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/01741ba7-13a6-42a2-bbe1-6d93fcc7d380", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/f9ec0103-4e80-4e63-86bd-620e09c9478e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/a8cf64b4-db2d-4750-a8ec-df2c59f3dab0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/c25fa203-664f-45d4-ba93-ac21030f4a54", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/fd9fffc0-fee7-4865-955a-f9b3fb597242", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/25142ed9-88af-4bc4-b458-22179020b563", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/e25c329d-178a-47fa-9278-becd45d9fba3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/9cb5be7c-24ea-406d-975b-83342a6dee39", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/1fabb8c6-9287-457c-aced-22d8069ce30e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/86b6e855-cb0d-4c9a-a0c7-518971ce1b1d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/c7ef6dfd-a72e-4a90-adfe-0587d0eb2674", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/93268ee0-0192-45e2-aa68-e2eccd9f8459", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/4735d464-8201-4695-9997-c2c16603dcb0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/b3ed6752-6a83-434f-bfd4-c8aef0900e84", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/700da583-bc03-4dfb-b9f9-2fbcc854ce29", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/8511f68d-2dca-40fa-ac3c-79abec10f3e0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/af67b63d-b680-4c24-ae6e-3f512cacd98e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/7fd9be3d-7b34-49bc-ba75-f8a90b7269a0", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/24a1df80-c1b7-4e16-b938-1cb3b129463d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/77a2a1c7-bd5e-4062-b18d-142301adb95a", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/7c71db12-6edb-441e-b76c-847ef6d00527", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/d6c91942-da22-4ae3-b05e-488b21afbec5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/50a8df2a-c50e-4326-ae90-0c9f8ee0cf1d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/33123b0d-67e5-4036-9471-f262ac952b3d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/1bf3fe3e-9b7f-4124-ab2d-56c954e1e34f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/c9cea360-f0b6-4a93-b7b3-0f0145b02ffe", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/2c0285e9-69d6-4cfe-842f-7199bbdfd692", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c", "manual_include": false, "manual_reason": "Software Engineer Agents requires 5+ yrs"}
+{"url": "https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/f546dd67-a842-41d5-8992-83f80e051632", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/27604e7e-e25a-46ba-bc2d-aecf04f08bfb", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/a15b8250-2eb9-4a62-aa11-1348c6973f43", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/5651ede7-9364-46e6-9edd-e401a422aa8f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/0d750bf9-d3f2-4816-9e28-23d12a0ef2e2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/9ec0be78-90b6-48bc-a392-0a8e11e665a8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc", "manual_include": false, "manual_reason": "Software Engineer Agents requires 5+ yrs"}
+{"url": "https://jobs.ashbyhq.com/harvey/cda9ac50-83bd-4965-8afa-feeca25bad4f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/df83f452-f635-408a-9451-3cdaf2ee3afb", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/2451ef63-0516-4737-9a8c-b8a1e9f5ba78", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/b4dd1851-c7f6-4cb2-8a30-b15e4b096277", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/89aa1d79-edac-4748-ae1d-2ae1f8917efe", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/65fe2be3-01d4-4dfd-91de-293f62335018", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/5f6f2bda-d222-4adf-b09c-13e5f2d78e2f", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/3c68bfae-085f-4a23-b5dd-d071ab1ea505", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/af9faa0f-4b5e-4cc5-937f-734bfc1c08df", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/3f4c4dde-5906-4c9b-ac3c-49fb7301fd3d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/harvey/75850d0c-48a8-473a-93e0-589a7b4f52c0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/harvey/ae305f26-bbe0-4db1-a816-b912503ad6b4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008", "manual_include": false, "manual_reason": "Research engineer knowledge team; experienced IC"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5138044008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008", "manual_include": false, "manual_reason": "Research engineer/scientist tokens; experienced research"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5095484008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5181219008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5123851008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008", "manual_include": false, "manual_reason": "Research engineer requires experienced track record"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5125083008", "manual_include": false, "manual_reason": "Research engineer requires experienced track record"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5146028008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5135098008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5179769008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5186067008", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5195705008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5108695008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5022845008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4641822008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5192805008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5218948008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5169670008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5068296008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5189205008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5108982008", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5194835008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008", "manual_include": false, "manual_reason": "Research engineer alignment science; experienced"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5194829008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5215130008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5186199008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5098565008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008", "manual_include": false, "manual_reason": "Research engineer needs significant production data-platform experience"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5140403008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5152348008", "manual_include": false, "manual_reason": "Sr software engineer inference; senior title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4946308008", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5147350008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5154345008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5151069008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5104753008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5186852008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5026187008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5183021008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5211498008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5222235008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5128198008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5178467008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5117581008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5153392008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5175891008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5099202008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4983646008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5138289008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5176570008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5076754008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5107466008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4951844008", "manual_include": false, "manual_reason": "Requires 10+ years experience"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5175932008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5192104008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5168829008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5206978008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5030680008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5205626008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008", "manual_include": true, "manual_reason": "Anthropic Fellows Program; EC fellowship for AI safety research"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5215124008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5209865008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5191226008", "manual_include": false, "manual_reason": "SWE research data platform; experienced"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5222289008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4968059008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5096041008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5125290008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5137183008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5201264008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008", "manual_include": false, "manual_reason": "Research engineer ML RL; experienced"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5068570008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5202462008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5207302008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5211297008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5218186008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5203868008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008", "manual_include": false, "manual_reason": "Research engineer requires experienced track record"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5208193008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5146298008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/5016171008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/anthropic/jobs/4987662008", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/9930dd01-d12e-42e1-b751-5240c3814f85", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/05efa205-8560-43fd-bfcc-3f7697561cfb", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/15489f24-874c-44d2-b8fa-ca54834ba9f4", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/43d28b41-f3f2-4b43-a57e-bd372a8138ca", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/e1263bfe-b638-4019-b4d5-0aacca93b2b3", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/8aa63e71-b431-49d7-ab4a-bf4b3630d8e6", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/9037a071-eef2-4083-83f3-d6a5b531aa1d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/22bd243f-4088-49e0-bf02-fbad4442b0cb", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6", "manual_include": false, "manual_reason": "FullStack LangSmith requires 2+ yrs platform engineering"}
+{"url": "https://jobs.ashbyhq.com/langchain/f07c1416-f126-4925-8606-5dd7c5a90f6f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/6f32998b-111c-447b-b593-2b64c7de245d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d", "manual_include": false, "manual_reason": "Applied AI fullstack requires 3+ yrs incl LLM production"}
+{"url": "https://jobs.ashbyhq.com/langchain/e725293d-c27b-4a79-959d-19f5618f2f8e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/7b4aad6c-db46-489d-8426-72217e2923f2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/27af5f96-b287-4bcc-8679-f96686dc7c8d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/650a8598-2b20-40b8-a4d7-4a9196fe3609", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/e12d7176-8b9f-438a-8f3b-0cbbffab9c5c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/c9c70de7-c162-46c5-a784-e5a45ff24061", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/72eefb77-605d-4616-adda-820eb5208ac8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/b9cf3229-c257-4536-bae6-e9b63134dc68", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/ff53c1cd-830e-4e18-b6fe-9e69b3cf4f57", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/58edb2a9-a1b7-4b10-86a4-4bf6957cc6f4", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/426359a5-3a48-4b81-ba25-b2f32678b153", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/33f6d721-f75f-4fcc-8df9-e2a13c018e1c", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/3c38ac0d-4cb5-4c04-86c0-37b20166c8ec", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/fd3767ba-6247-47bd-85ae-7e76be3871e6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/32c6fe13-76e0-49a2-849d-991014416987", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/c16d44ab-faf0-4111-9ca7-8acb5dffcf46", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/c8150807-d346-47d5-9242-b0994d77ca87", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/dddb3751-8ecc-4bea-951c-09826dcc4d88", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/dea6e10a-5cc8-4956-85b4-1ca88b8c0a95", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/8b83f97a-12fb-42a6-9697-c3ef07646335", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/3efc7bc8-657c-4986-b39b-ce30e5d6cb17", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/9ef63e88-b1ff-4e88-9bf8-20c01439b80a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/65dbb419-ca80-4fda-b1b7-b81c08878992", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/fc868832-3865-4f4a-8222-33422a7d3d96", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/34083fce-1e80-4595-9ce9-76387b735c70", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/faeb56fd-e7d6-47d6-babe-e35315969206", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/f71210f9-12e1-4726-88b9-ebafa194d5b2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/da7cbabd-ceed-4d7d-ae25-f226cac0c1c1", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/933a41a3-43ca-44de-a0ae-f541149151b7", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/fc61254d-2dd2-4b92-b01a-162e805b921c", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/7ed7ca6f-2b4a-4dcd-8c14-c0f85fcf9ae2", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/c0706500-4575-4150-88a7-e189ecb96d60", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/36bfd743-8e8d-4393-8d47-d69097fb1f51", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/0f8d1529-fcf7-4291-9f76-d0b01c2b7614", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/7bb07844-ffa2-4a76-932e-204ea6a406b5", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/e408177e-54e8-4c08-8a70-d9bbd510b7ec", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/6847e38f-ec98-4fb2-a2cb-a97cdd9be108", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/4cc17d44-c8b6-4133-abc3-9932782b05c9", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/701da8d0-ffa7-4a72-bc29-b1dde4438982", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/1a588677-0507-45a4-8a14-506e89d2444f", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/0a5dd30c-6da1-4095-bd96-b16f27eeb333", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/9c4cc9a5-f8b1-440a-826a-067e432d3e65", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/baf1486a-6329-40bd-8304-5d450efb17b7", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/2a1f67e3-7509-4c92-9ec8-2e645d00c3eb", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/91bb582c-fe9a-4651-9e9f-cdb452ec6532", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/825b6d91-bc5e-4165-8a7c-2022a2248f7e", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/c2a8aa14-6038-4276-9e80-de009a7a5df8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/50edc227-4814-429d-9985-6f6b2614ca46", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/acf58ed1-f49f-4e45-8086-d2f5e623115b", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/e82ce858-bbaf-4444-885f-cfe357ed4292", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/7395d0d7-da1d-4061-9a5e-65eaadbbbda1", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/8aff48ee-d5db-445d-90b3-d1df1a895855", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/df3a645d-5c08-4ea2-8823-7e40a5cbf9a6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/a7ba225a-b4c8-4ae8-9979-b6ff4cb4401d", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/74f3fef5-c69c-4e90-97de-4ccafe529a2a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/ea70879f-98c9-4888-a259-39e68ec949fc", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/4c2bd9b2-58c0-4ef8-8b11-b742bf964f99", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/langchain/b47dbcea-222c-427d-bf4d-9e30a6b60d4a", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/langchain/49e5ee0c-7293-4ce6-80fc-70199e4172f8", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/pinecone/7261adcb-026d-4552-8f89-7a46156c40c5", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/pinecone/4ef4269b-94c4-4c7c-93ee-15a882caa767", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/pinecone/4433b308-1ff4-4b5f-9184-810e5d9844f6", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://jobs.ashbyhq.com/pinecone/f83ba7a6-da11-421a-ae9e-909d375e2e93", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/pinecone/7ef089cb-a721-4ad8-a6d0-c390e64991d2", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/pinecone/773e953d-8f53-4313-93b4-35a553bad1cb", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://jobs.ashbyhq.com/pinecone/499ce77a-7ed0-462e-9efb-3e7dad6cd5ad", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://apply.workable.com/j/922D2C6549", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://apply.workable.com/j/F24E2E5058", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://apply.workable.com/j/7C7F63E87A", "manual_include": false, "manual_reason": "Data/infrastructure advocate engineer is DevRel/advocacy"}
+{"url": "https://apply.workable.com/j/5CA82A9A98", "manual_include": false, "manual_reason": "Data/infrastructure advocate engineer is DevRel/advocacy"}
+{"url": "https://apply.workable.com/j/56232F23CB", "manual_include": true, "manual_reason": "Open-source ML engineer IC; no minimum YOE stated"}
+{"url": "https://apply.workable.com/j/E787796A71", "manual_include": false, "manual_reason": "Open-source ML engineer robotics Paris; experienced"}
+{"url": "https://apply.workable.com/j/0BD8C06DB3", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7544086", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7545859", "manual_include": false, "manual_reason": "Requires 5+ years experience"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7921972", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7939602", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7563809", "manual_include": false, "manual_reason": "Description signals experienced IC, not EC"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7091379", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7728094", "manual_include": false, "manual_reason": "Cumberland/FICCO tools SWE requires 2+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7518800", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7922594", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7288315", "manual_include": false, "manual_reason": "Cumberland/FICCO tools SWE requires 2+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/5894916", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7175503", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7916437", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7930236", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7520816", "manual_include": false, "manual_reason": "Prediction markets trader; trading not SWE"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7730933", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7759802", "manual_include": false, "manual_reason": "AI full-stack developer requires 4-7+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7645868", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6744186", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7920239", "manual_include": false, "manual_reason": "Junior trader; capital markets trading not technical IC"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6981628", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7364733", "manual_include": false, "manual_reason": "Unified platform SWE requires 2-3 yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7379464", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7707233", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7743507", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6586048", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7758526", "manual_include": false, "manual_reason": "Equity index options SWE requires 2+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7736679", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7834909", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7821958", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7283668", "manual_include": false, "manual_reason": "Cumberland systematic research SWE; experienced quant engineering"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7473253", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7908458", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7833046", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7720971", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/5851712", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7743571", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7838204", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7358650", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7634122", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6242898", "manual_include": false, "manual_reason": "Experienced IC; no EC signal in title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7728142", "manual_include": false, "manual_reason": "Prediction markets Python SWE requires 2+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7519716", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7913994", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7097016", "manual_include": false, "manual_reason": "Research engineer requires 2+ yrs Python in production"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7228276", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7921963", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6586065", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7713854", "manual_include": false, "manual_reason": "Prediction markets Python SWE requires 2+ yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7921564", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7810753", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6362259", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6872430", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7182464", "manual_include": false, "manual_reason": "Options trading systems engineer requires 1-3 yrs"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/6973885", "manual_include": false, "manual_reason": "Research engineer requires 2+ yrs Python in production"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7377981", "manual_include": true, "manual_reason": "Research engineer FICCO; BS CS, no minimum YOE stated"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7766155", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7895277", "manual_include": false, "manual_reason": "Senior/staff/principal/lead/manager/director title"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/3860614", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}
+{"url": "https://job-boards.greenhouse.io/drweng/jobs/7731817", "manual_include": false, "manual_reason": "Non-technical role (sales/HR/marketing/ops/legal/finance/trading/GTM)"}

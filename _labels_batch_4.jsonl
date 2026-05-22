@@ -1,50 +1,659 @@
-{"url": "https://jobs.ashbyhq.com/physicalintelligence/8e9830f4-89ba-46e6-ab73-648c550aaf3c", "manual_include": false, "manual_reason": "Technical robotics role but requires 5+ years integration experience"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqOhdaji2m34B3ibJdoy7Hb", "manual_include": false, "manual_reason": "SWE role at Luma; no description or early-career signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDo8-N5tRXErv9eJJp_TyVo8", "manual_include": false, "manual_reason": "SWE inference role; no description or EC indicators"}
-{"url": "https://jobs.gem.com/lumalabs-ai/9581c803-4261-4336-901e-4dca60227565", "manual_include": false, "manual_reason": "Applied research role; no description; likely experienced hire"}
-{"url": "https://jobs.gem.com/lumalabs-ai/55cb4576-d2cb-4775-a492-32bae2566a8f", "manual_include": false, "manual_reason": "Foundation model research scientist; no EC signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpG8LYonD3KtMtbhaYTgDGr", "manual_include": false, "manual_reason": "LLM research scientist; no description or EC markers"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpzmndzUch3eDquU0pT_PaJ", "manual_include": false, "manual_reason": "Foundation model research role; no EC indicators"}
-{"url": "https://jobs.gem.com/lumalabs-ai/cb7f6fe2-4ed1-4cf8-9964-ea9b4f47e85d", "manual_include": false, "manual_reason": "Research scientist/engineer; no description or EC signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDpygMYFaWPgbr6dsVNV4zqV", "manual_include": false, "manual_reason": "Data infra SWE; no description or EC markers"}
-{"url": "https://jobs.gem.com/lumalabs-ai/e6983d5d-2af9-4512-b27a-442648736363", "manual_include": false, "manual_reason": "Training infra research role; no EC signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/cde30431-9eea-4e62-8ef1-357b95e8d95b", "manual_include": false, "manual_reason": "Evaluation engineer; no description or EC indicators"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDolL_2qF3mA8iH2BQJXOYSA", "manual_include": false, "manual_reason": "Multimodal agent research role; no EC signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/583bb471-29ad-4011-837c-a1029700720c", "manual_include": false, "manual_reason": "ML platform SWE; no description or EC markers"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDrlFC3tMaqhvsrYMEd8tpyL", "manual_include": false, "manual_reason": "Frontend engineer; no description or EC indicators"}
-{"url": "https://jobs.gem.com/lumalabs-ai/a2feb190-455d-45e6-b488-7ac840f30fbd", "manual_include": false, "manual_reason": "Performance optimization research; no EC signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDoL3Jvn-6tHPga36PeEa_yC", "manual_include": false, "manual_reason": "Core foundation model research; no EC markers"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDqTslt6IMSZ0701YH7GIhbr", "manual_include": false, "manual_reason": "Forward deployed engineer; typically mid-level; no EC info"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDppJpFSr9kGVqZNk6Zgm2g5", "manual_include": false, "manual_reason": "Video/audio generation research; no EC signals"}
-{"url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi", "manual_include": false, "manual_reason": "Product SWE; no description or EC indicators"}
-{"url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006", "manual_include": true, "manual_reason": "Summer 2026 hardware reliability intern; pursuing engineering degree"}
-{"url": "https://job-boards.greenhouse.io/figureai/jobs/4664176006", "manual_include": false, "manual_reason": "Production/manufacturing assembly associate; not SWE/eng career track"}
-{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007", "manual_include": false, "manual_reason": "AI in Residence is postdoc-level selective program, not new-grad SWE"}
-{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007", "manual_include": false, "manual_reason": "AI research engineer requires minimum 5 years industry experience"}
-{"url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5043264007", "manual_include": true, "manual_reason": "AI scientist for PhD completed or within one year; ML/AI technical role"}
-{"url": "https://job-boards.greenhouse.io/biohub/jobs/7286324", "manual_include": false, "manual_reason": "Group Leader/PI-level senior research leadership role"}
-{"url": "https://job-boards.greenhouse.io/biohub/jobs/7535647", "manual_include": false, "manual_reason": "Group Leader/PI-equivalent senior immunology leadership"}
-{"url": "https://job-boards.greenhouse.io/biohub/jobs/7835072", "manual_include": false, "manual_reason": "Wet-lab research associate in biology; not SWE/DS/ML track"}
-{"url": "https://job-boards.greenhouse.io/biohub/jobs/7776738", "manual_include": false, "manual_reason": "Bench synthetic biology research associate; not software/ML role"}
-{"url": "https://jobs.ashbyhq.com/pathos/fbec38e7-d55b-4bb3-8c74-644d75626c82", "manual_include": false, "manual_reason": "Senior AI research engineer owning prod systems and roadmap"}
-{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002", "manual_include": false, "manual_reason": "Customer enablement/training role; not SWE; 2-4 years required"}
-{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002", "manual_include": false, "manual_reason": "Commercial legal counsel; 4+ years; non-technical"}
-{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7855278", "manual_include": false, "manual_reason": "Communications and events associate; marketing/comms not technical"}
-{"url": "https://flatiron.com/careers/open-positions/job?gh_jid=7873832", "manual_include": false, "manual_reason": "Communications and events associate; marketing/comms not technical"}
-{"url": "https://jobs.ashbyhq.com/headway/4e826c00-570b-4349-956c-c9ac35c2a637", "manual_include": false, "manual_reason": "Growth associate in care partnerships; outbound sales/BD role"}
-{"url": "https://jobs.ashbyhq.com/headway/d6cc4427-0e75-41a7-897b-31bf76947005", "manual_include": false, "manual_reason": "General engineering talent pool; no intern/new-grad level specified"}
-{"url": "https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b", "manual_include": false, "manual_reason": "Mid-level software engineer; no EC experience requirement shown"}
-{"url": "https://jobs.ashbyhq.com/benchling/d897a65f-eddf-4b45-ade1-029b0c029b95", "manual_include": false, "manual_reason": "SMB account executive sales role; not technical engineering"}
-{"url": "https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8", "manual_include": false, "manual_reason": "Software engineer platform role; no EC indicators in posting"}
-{"url": "https://jobs.ashbyhq.com/genesis/15c16227-cef1-4bc3-9f2d-341ed4586404", "manual_include": false, "manual_reason": "MTS data agent; requires track record on complex projects"}
-{"url": "https://jobs.ashbyhq.com/genesis/70159e6d-5082-40cc-af58-f2cfe5563b58", "manual_include": false, "manual_reason": "MTS simulation; requires extensive physics simulation experience"}
-{"url": "https://jobs.ashbyhq.com/genesis/8604aae5-a89e-4e6f-8f5e-dce2008cc6bc", "manual_include": false, "manual_reason": "MTS ML compiler; lead role requiring extensive compiler/GPU experience"}
-{"url": "https://jobs.ashbyhq.com/genesis/e260b061-68b2-43d5-9f11-45261234f901", "manual_include": false, "manual_reason": "MTS mechanical engineer; broad experience and track record required"}
-{"url": "https://jobs.ashbyhq.com/genesis/0cf1a048-46d0-4693-88da-c86f978c9dd3", "manual_include": false, "manual_reason": "MTS platform; extensive systems experience required"}
-{"url": "https://jobs.ashbyhq.com/genesis/a8e164e3-4585-4392-a485-529b85e068ff", "manual_include": false, "manual_reason": "MTS data agent Paris; senior track record expected"}
-{"url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24", "manual_include": false, "manual_reason": "MTS ML compiler Paris; lead/senior compiler systems role"}
-{"url": "https://jobs.ashbyhq.com/genesis/2c0b2b1e-710e-43be-9111-a8eb0591baa2", "manual_include": false, "manual_reason": "MTS simulation Paris; extensive simulation experience required"}
-{"url": "https://jobs.ashbyhq.com/genesis/5a9a58b4-3c11-4eb0-bc1f-58f8b34d676c", "manual_include": false, "manual_reason": "MTS platform Bay Area; extensive systems experience required"}
-{"url": "https://jobs.ashbyhq.com/genesis/4d491696-72d6-4b8b-8e2a-9265e9dec376", "manual_include": false, "manual_reason": "MTS SRE; deep distributed systems expertise and leadership expected"}
-{"url": "https://jobs.lever.co/enveda/c14d0b11-a2a5-4411-ae5f-52cc33c6707c", "manual_include": false, "manual_reason": "Generic SWE posting; no intern/new-grad or 0-2yr requirement stated"}
-{"url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826711", "manual_include": false, "manual_reason": "Early-career wet-lab biology automation scientist; not SWE/DS/ML role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5989134004?gh_jid=5989134004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5996930004?gh_jid=5996930004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5822583004?gh_jid=5822583004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5971712004?gh_jid=5971712004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5994499004?gh_jid=5994499004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5839202004?gh_jid=5839202004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5753194004?gh_jid=5753194004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5647851004?gh_jid=5647851004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5998145004?gh_jid=5998145004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5558737004?gh_jid=5558737004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5783812004?gh_jid=5783812004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5790585004?gh_jid=5790585004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5843289004?gh_jid=5843289004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5781928004?gh_jid=5781928004", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5811082004?gh_jid=5811082004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5848022004?gh_jid=5848022004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5422236004?gh_jid=5422236004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5798928004?gh_jid=5798928004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5839419004?gh_jid=5839419004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5633324004?gh_jid=5633324004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5998147004?gh_jid=5998147004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5551649004?gh_jid=5551649004", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5804108004?gh_jid=5804108004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5790731004?gh_jid=5790731004", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5985406004?gh_jid=5985406004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5992087004?gh_jid=5992087004", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5982942004?gh_jid=5982942004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5998049004?gh_jid=5998049004", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5620034004?gh_jid=5620034004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5564202004?gh_jid=5564202004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://boards.greenhouse.io/figma/jobs/5820284004?gh_jid=5820284004", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/2dd301f6-42da-40a2-a064-0f6fcfbdca77", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/06c66703-c3e8-4bf2-96c1-5bd7d70676d4", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/50875666-b6cc-4c70-aeb1-6ae6e682ec25", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/898cad25-2709-4e69-85d3-8b68f4370538", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/notion/2a1bd4d8-fd02-486e-a1ac-d98c59e57ae5", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/6508b9fa-242b-442d-a2f0-2d2f490ccce2", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/a8acb2fc-2a83-487b-9338-a45f416802b0", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/fdc2a6c0-396a-45db-b465-683bacf4201e", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/6b702ebf-0829-4b0a-b103-fe9271708881", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/753883ee-23a9-4150-804f-342d32743d56", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/3c365b9b-fbcb-4f8c-bdb5-b6b4bc90b588", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/72aa3c47-3b8a-4718-b359-0c486813527c", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/c8c98065-c5af-4d37-9e8e-a8c23957e7f0", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/notion/759a9c5a-cdd6-4d05-8eaf-e78eabc34293", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/2763cf17-ca4e-4f78-b4ca-1c1cc8a7c051", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/a1216dba-e175-4a3d-b712-401c9fbdcd92", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/72d23f79-08d1-44df-b032-14a91f01887b", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/59fe8e68-edf9-4da9-9ce0-4d6333ed371f", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/560ce3fc-49b3-4a64-bdc8-0df39f4af269", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/cbd7faf8-e9c9-49d8-8b59-4b5daed79d4b", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/e5d316fa-0857-4e4b-96ca-1f2710a96c95", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/71cea34b-63aa-4b6f-9977-1f755cc4eaf7", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/29d31ee8-a117-42bd-a21e-d243b243be92", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/785573a1-93b9-4f7e-b84a-c224d1d98b66", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/2ca618b4-2223-47ca-b1f0-84ac101fcd90", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/640f1fb8-9a61-49c8-9397-823882e68a67", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/4bbfad88-0830-46c5-8d05-d95d17d583ca", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/notion/5a48bf9e-a521-415e-bba1-b26b84635b0f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/acadea40-df26-49fe-8c6e-a0b044edacf1", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/470565e2-8326-4caf-a156-5b6b364fa7c2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/4716189e-80f9-477f-86e5-0b56ccc954b8", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/5cc98646-931a-4c00-be36-f292fa1f431f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/e83819fb-fe73-4b51-9459-342ed9c6b4b0", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/notion/e1549af5-b638-42a5-8994-b9f36f88e1d3", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/5cb7ec4d-0b5d-4f55-82dc-70ef4fbed271", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/44b0bcb8-3574-4bf8-b13b-ee2fc57346e9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/989efb46-b3a1-4eaf-a3fe-44669a43dd5a", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/9fdc08a2-49b8-4da0-8e20-e657f505e9a8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/b0c0afb3-f075-47c7-9a8e-428032b3bb20", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/a69a78e9-89d2-4a41-8938-6c07ca8a06da", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/801ab5f3-ccd7-43dd-96ac-6e59f7ab3b56", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9", "manual_include": true, "manual_reason": "early-career technical title (intern/new grad)"}
+{"url": "https://jobs.ashbyhq.com/notion/2b83e98c-f68f-4195-acdc-61595194c813", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/655992c3-b372-48e1-96f3-e52a139b8a0c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/9526496b-5c39-456b-a454-ebec889e7149", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/notion/b31ce253-4238-4ed6-a5a2-73b63cbf1709", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/b9307cf5-1ede-49b8-a1f3-c87549bcc41a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555", "manual_include": true, "manual_reason": "early-career technical title (intern/new grad)"}
+{"url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/c7f6dbf1-5637-45c5-8495-57a65f1061d2", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/5546e570-aa17-4e88-a877-f62d0d56f378", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/86da7944-934e-4a1e-bf3d-aba703064da2", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/notion/ce10000b-cacd-4539-b87d-45b89fd8c85a", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/35785e61-c4c3-44ec-a401-6741d89dd16a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/869be97b-30d6-4612-a22b-2101a8b2a190", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/3ef42bb6-d2e3-4687-b7bc-89fd62a4b096", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/e38a39fd-6b9d-4d1e-b22b-a86d006e44eb", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/fc35163e-e2d2-4741-99d4-ea032911acd7", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/ad93efa3-4caf-4a8c-9e99-b1d86de92e93", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/a6a91521-87cd-41aa-b800-24dc8808d375", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/ec69e575-1967-4c70-8118-c75effad7d13", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/6ad34426-b980-436b-80c4-3634c00094ad", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/3c0141de-06fb-4186-9cd4-75395f0b5488", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/fede5201-c97f-4492-bfa6-66da7afbb068", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/d3a5ddb0-335a-4299-b67f-1c937a584c7f", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/bc8724ae-369f-4015-9866-7622c4f6a2e6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/8b82e596-e828-45db-94d5-b76acc89e749", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/83ef2eda-2f8b-42e9-a0ae-fa55c5628b26", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/3336e944-0970-48ef-9a97-4ebd6656d0c2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/f663839e-46ac-44ad-9720-da2b6aa28093", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/5d8c1ec6-e9ea-416b-9715-880bf5037abc", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://jobs.ashbyhq.com/notion/b50c884e-1170-46d2-ae4c-3f559d2c98c4", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/1c58623e-73f8-43c7-a342-1475c2eab7af", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/759fe7e9-0cbc-4a4c-bfa5-064b96247b12", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/9fe4839b-261d-4318-bdb3-cfbdde1ac382", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/bc9a9573-e963-48a7-b7b9-a32017f28916", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/5f986e92-f668-4c9b-8b13-3de9cfe737e2", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/2505ddde-b2c1-4b01-8f75-414dc26ab843", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/notion/1cd3f44f-aa30-44a6-a64b-c7bfc813eeb9", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/10437426-14c8-4c45-8075-67959ce80393", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/3979a6f5-2abb-447b-bd3a-0565b06bae24", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/66236b7e-2905-4a93-84a5-ed036a1a6581", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/notion/b8bd02a1-3b20-4772-b285-de429cd2a3b9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/a711f964-014a-4c5c-bfa4-a300ef7d96fd", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/3b75f508-1231-42f6-95df-617239f7ba0f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/dc555dc9-e244-405c-8344-4477b8cc46c1", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90", "manual_include": true, "manual_reason": "early-career technical title (intern/new grad)"}
+{"url": "https://jobs.ashbyhq.com/notion/873f9b3a-6cce-4101-9657-72c7bf8ef6db", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/576401b9-66e7-4407-a9e2-8aafaa590082", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/b72aff80-4430-47c4-801c-61d3e4e80f53", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/659ee655-2341-4cbc-8bfe-db842c344f40", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/notion/d41b635b-c17b-4efd-89fd-fdb2ddb62e9a", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/notion/9fe70944-f84f-421c-8168-bbf21d4b4ca4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/notion/9f3f954e-8966-4487-9a91-56c5fda3f300", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/notion/e3944777-d4a8-41d2-88ab-32daef949d4e", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/3d81a24f-cca4-4b2b-9478-cf422adc8237", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/f0918978-d6da-4cd7-b248-055aaa108426", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/6c68ed4b-dab8-4e2d-b677-a7b6ddca0272", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/7d85fdd7-1c0f-4552-a1e0-8f2482446003", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/657dedaa-a828-4f4f-ae67-9e976127d907", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/ed2e9a94-f58e-4ff8-8853-afd977850d43", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/5dc7f421-20a8-4fd9-be60-04f836480428", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/b4cbb19e-8249-4339-8eac-20e3806d7999", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/9d165e64-bf63-4b16-878f-b46188563ca2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/16fb536d-fe10-4ea7-8956-d6d0cbddd6f5", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/e5c809a6-7ea8-4470-9b42-a0c99e81dd31", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f", "manual_include": true, "manual_reason": "mobile engineer, 1yr min (0-2 EC band)"}
+{"url": "https://jobs.ashbyhq.com/ramp/97898101-f97b-47c8-a991-267afc517ae5", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/b9568fb8-a47e-4738-87fb-a6d88c3a505f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/8db155ca-7e13-4eed-9813-1b6b65d66158", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/51acae48-933b-4c71-be48-3e9317cf3ab7", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/29d188c7-0529-4bc8-a04a-57902df2a7ae", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/f5cf4790-0b77-47be-b332-02ca6ec755fd", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/a4ecdd59-e379-4841-9bd3-c3f1f86da008", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/bf7064e1-3eb3-4d03-ac81-0e52b71661a4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/71411021-d7d9-47fe-95b4-4b0b1365dff8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/3ce8d76b-0cfb-4dd5-b36b-de22c4bd85e9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/ca9a8794-b40c-44bc-8f8a-d85182c62c6e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/20331539-c49c-4bf7-a719-a7e1b6e55537", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/09a9381c-677b-40a5-9ff1-027bd4302c13", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/edb02fe5-fd01-426a-9445-7db518d659ac", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/fb6cd6f5-0788-42a0-9d21-36a94e8134a9", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/e32364c2-a952-44c3-b2dc-a1c6204ddb8a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/979c7cc4-4d7e-4604-abe8-bcaf8e258523", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/21aabcbe-948c-47ab-bcf8-3ac3f13174a9", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/ramp/755b70b4-e548-4564-9b53-7b74d49b42c0", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/f8e75f30-738c-4987-8e00-2837af8d8bf6", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/503f45ec-9b4c-44c1-95dd-fa8aaf96e5a8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/0c9e3e0f-54df-4252-a17b-b506e954225b", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/4c24a55a-ea3b-4cea-a5b5-7862938616bf", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/b42cce4b-8fa9-4e8d-892d-3a29a7afb909", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/7bfa613e-151c-469b-9973-c89ee3d14838", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/bd9e9159-6c35-4755-9a48-02cc96d5379d", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/f2ad6068-02e7-4986-967e-804ecef9e043", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/94d79eed-34db-42c8-b47c-5edef335b7f2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/ecbd340c-f7ca-43ef-9d0e-f562494c4078", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/2e47b59f-f68f-4266-80ff-eb92c8116f1a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/7c113779-0f85-45a7-b69e-f2e10d4218bf", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/c63ba7d7-5290-4d9b-b002-40b2873b66f6", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/f2d10bdf-0906-47eb-96fb-0efe6f81d8a3", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/745c2fd2-b5a5-4149-b256-5e716ff2c18a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040", "manual_include": true, "manual_reason": "mobile engineer, 1yr min (0-2 EC band)"}
+{"url": "https://jobs.ashbyhq.com/ramp/624cd0cc-7471-4c9a-99be-56b90809d2ce", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/b55447c0-4adc-42eb-9ca2-f88fd44e0e5b", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/d2d32a6d-5f29-4708-83d0-03b4e44c031d", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/add8bb4a-f618-44f9-9874-81b32d7d862b", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/0907ae2a-5334-4d64-9a76-cc9428224546", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/832ec6d9-580f-48b1-9b76-cbf854590f46", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/ramp/1588aaad-37b1-4080-a662-e284ad29e338", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/d6d0ad5d-184b-4500-8aea-8bd8c503a7b6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/4bb1ccd6-cf0d-48a8-90f6-05d61617d0d4", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/a3afd259-ba6b-4eb0-a1b6-05d01dddacd8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/72ba7873-254f-45dc-9e7b-595c9d1f8acf", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/71e5c2bf-6014-499e-92b5-c4b3241bbbcd", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/fbc42a9a-6fc2-4061-9511-502ee4f2a60a", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/ab6902bd-544e-4107-bf3b-b2157ee84aee", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/f0f95d20-fb64-4c06-86ff-6142e937fe0b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/c0fe115a-6251-4608-af07-d222ab6a0f42", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/f330ccd7-59f5-4032-82b0-4448482769e4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/8baec095-2235-41ab-ab64-9abc57823b4b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/ab74a687-4545-47c9-870d-bfd7e7cde576", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/8beb1735-ded2-4067-b982-fb0faed9038e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/ramp/b67f938f-b966-4d56-83d5-71db39c22474", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/ramp/1e65eee9-63b5-40c8-a026-fbe3262a28cf", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/4904547a-e2ca-407c-b113-8aae2be0790c", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/ramp/924ad606-e32a-4bb9-967c-f609cdaebaa7", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/confluent/8b41454a-1025-418b-b7eb-642dd8408219", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/5c5eb5ed-e880-447e-a76e-e056ce2acfb9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/406d4c74-8ebd-4f51-ab1b-1db71018d387", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/94779f17-93f1-4890-8b11-178bd17cdde1", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/4ac58d2c-2003-4753-99e9-e35906297f28", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/2b7f816b-9f5b-4023-b38d-46fd3e117298", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/90949913-fc2b-47aa-8015-fcd264b352ae", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/d9698ddf-9a48-4c8b-8aa2-5b272f204f11", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/7a2da45b-4a80-4742-bbae-a249368b74f8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/2966b333-863b-4620-b0f5-220fafe76958", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/95960e5a-c192-4691-ac3d-c7e292e28550", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/0b2a4106-7f01-4205-813d-81e4fa1abdb4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/993cd972-d032-4892-bf4f-804f056604a4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/8606dc2b-3ad7-4423-9cbb-c7e6df0a1ae5", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/e12d3084-a84e-4c1a-800e-5d5dbb9e27e8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/c3fd5156-d339-4082-b6bd-2aba8b404188", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/7ea0f7ad-2445-4fac-a33c-fbfc164d5181", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/f60bba87-9470-4238-bf6f-dce1b4da8006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/7a1908bf-ba09-48a7-92e9-f57fd4c9eb57", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/21082b9f-440a-4ba6-a469-c70d339d1aa9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/bdb98661-c475-4914-9b17-b99d03a2d56e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/476b9b8a-bd75-45ce-90d1-b4dc2923980f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/1946b144-eaa5-482f-b235-63cc06104ecc", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/9f49b470-2f9c-42c0-a7cb-2aabeb669da8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/7f758710-e3c4-4eed-b801-65e1fe9827e1", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/3ffbcfdf-6650-4608-9479-e09c09a0d460", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/2dd084eb-207f-4e58-bc33-b5a4a9f89eec", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://jobs.ashbyhq.com/confluent/9f215e9a-5aeb-46b8-9cdf-05ee3eaf5229", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/856698ca-f3cc-4ccd-986a-c57e7ef9e574", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/0b65c19f-c804-4f79-b1e3-c3ea035c3d76", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/60abc61e-9da8-40a3-be83-aebb8a3e4334", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/85107937-8f12-4336-abb8-e88f344c6bcc", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/0605ed11-ec59-428f-9f69-b24b25c575ed", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/cae2a5bc-1efa-4fff-a704-357e1b9f2ebd", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/ff2464db-7d56-401c-97b0-eda62adb05ea", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/ded86e3c-8dbe-498b-861c-1fe5dfcd1ce3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/ddfaf293-332a-44e9-a543-49e5c898584b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/09b5df3f-2e17-4b95-ab0b-5d7cdb038a0e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/dc52dfa1-1649-442c-9344-609b8f01ed4b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/0c8cd0e5-8a53-47bc-9699-2934fbdaa7be", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/81b94a4e-53d3-40d5-9c04-af57bd01961c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/5b5790ab-8603-4613-b493-be21ea975f3d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/8cab7ed1-8cd5-40d6-befa-0a83ef9308a1", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/c3f71f01-1b97-4356-92ea-b6c6aa294f46", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/0202ad88-bffb-43d9-b323-8af0b2015a0e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/a24f234c-08a3-4184-a357-763ce5e69454", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/37a57183-4d95-47f6-83db-e224b5013412", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/fa3f95ae-584f-4335-9d9e-b4dd13895ff1", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/866b8521-046e-4b63-a318-c645c52a1cbd", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/e70deb8a-3308-49dd-b9c7-b537333c5645", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/confluent/b070fb23-7041-4336-bee9-b8f31204dac4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.lever.co/neon/1876311d-1f42-4efb-8d50-1a3d9c746472", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/dd5e47a4-a670-4b2c-b995-639088085b86", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/ee4524e2-2aa4-48cc-9fa3-75eca6738147", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/969f8926-8533-4b97-91b8-dc7a42254106", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/5f6eabf8-201a-40a9-8d04-0789e8fb392e", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/237602a3-d307-48ff-9a7c-7b0e38d18f03", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/1d56e09a-a262-4c73-aa45-b3ef6fb81041", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/2221f2b5-7e69-4561-94cc-f1c52f034f6e", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.lever.co/neon/88cec297-6027-4ec3-948b-3a42dfc9880c", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.lever.co/neon/ac24d3e5-2b0a-4fa0-9202-b73a78f63175", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.lever.co/neon/e794724d-ea43-4d52-a975-037b8adb9297", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.lever.co/neon/9534e110-8164-474b-a958-3ba7044993ef", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.lever.co/neon/f9b925d6-38e1-4b24-9adb-4cbbcca3100f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.lever.co/neon/dff80701-3cc1-4fa9-a167-4003d82003f8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7569605", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7892945", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7739104", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=6717520", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7819059", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7678541", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7739207", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7863509", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7202630", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7440960", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7733216", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7521020", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7810205", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7722938", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7869917", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7915144", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7737239", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7351768", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7568117", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7896519", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=6209187", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7417090", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7708538", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7664549", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7733233", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7827230", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7540835", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7697675", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7182617", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7398150", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=4921361", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7762324", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7838593", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7941800", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7768901", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7775622", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7812965", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7325566", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7664667", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7657732", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7891721", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7894387", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7688069", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7815794", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7925073", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7768979", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7436194", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7524533", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7522783", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7823683", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7430296", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7236933", "manual_include": false, "manual_reason": "non-technical operations (incl. apprenticeship)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7895467", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7544547", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7390485", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7366283", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7607761", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7235875", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7774312", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7545852", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7392697", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7736943", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7584016", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7396509", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7577505", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7736482", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7655222", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7277406", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=6348471", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7819426", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7597624", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7921325", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7827184", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7091959", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7907485", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7874862", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7576878", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7913503", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=6567253", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7434912", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7528816", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7812209", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7532733", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7914005", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7904582", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7896525", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7663023", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://stripe.com/jobs/search?gh_jid=6558993", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7703911", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7616135", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=6613516", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7809072", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7612192", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7808299", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7216664", "manual_include": true, "manual_reason": "PhD ML intern"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7556256", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7913545", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7895020", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=7826843", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://stripe.com/jobs/search?gh_jid=5853649", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/ce3b3add-47d9-402d-a31d-16ffd1d0adb4", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/a7470e5b-2761-4251-9a59-a52c0f7c0e90", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/81c39494-ce8c-4584-b203-46db6d9bc932", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/082d655b-c23b-4aa8-ae3a-96793abe9d52", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/8b81429d-f0e8-4b84-9f71-d25405e63d71", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/b9a8a319-ee80-4e91-95d8-4e5d3ca1336a", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/8abf57a1-8d4b-413e-a911-ae1d10a77f1a", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/0fa4649a-dae2-4c13-ae70-8e93ce221152", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/64642463-8ee8-4453-b166-449711f61cd0", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/0d80a5be-8860-46ea-9e67-c4a2bb53b1bf", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/0661cdab-9bc9-4614-8d2f-8f38ba4f0ec3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/30ced970-7ec6-4092-87bf-2fd2da50ce97", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/df988964-a927-4cd7-bf5e-134e5184b172", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/e4fc0990-b190-41aa-8f21-bfd7dbeb09a7", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/94ecbba3-660c-4604-a4f5-071f5c2c74d8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/cad05a97-0e84-49f9-ab14-bc55d9e972ae", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/b8e31158-ee2d-4cf9-8195-88b894ac953f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/33ae55ca-2ecb-419e-bb91-bee8a5f99ecc", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/56c43ecb-5ed7-49d6-8726-0c17e17505d3", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/e9dc03e1-88bf-4ceb-8a76-a75364b6cac7", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/195a6c75-b7a1-4c3e-bdcd-e2781205dc54", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/42140c77-be06-40ee-b401-a18ed558d0c6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/614418d4-0ba8-4b3b-8775-0deafbb137d7", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/89021252-6e43-4128-b996-aef2f0c1483a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/110a7bbd-7583-488d-afb2-d6e02fcce533", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/074469a2-877e-4d87-9ea7-824e8bb02836", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/deb08e02-522a-4b2f-8ed1-5dc5d61ef7bd", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/0859b54d-ae4e-4d82-9275-1cff7669d937", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/15f90e4b-7653-46d5-9479-d23ac4047e71", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/991323b8-1dad-4dbe-bccf-8b10bde81186", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/0a05f1b8-a05c-4f64-a92a-0dbb71fe12e0", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/ea30ff3f-327b-4030-9283-3d4763a84820", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/7e1b357c-6251-47ee-b8e7-16dde5c41f5f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/b71c9e1a-b4ed-4802-b736-f89d682d673b", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/d54c1d8d-5ed1-4ec8-9de0-625231a79ae5", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/43c59544-840c-47ad-8f9b-f7c29d43d136", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/e35c2e39-0977-42ce-8f3c-fb6e22b874a6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/c3894a41-7873-4f67-bf94-5e258e7c033a", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/9090cb70-de30-4ea4-a7d6-5b280839d210", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/98ce8ccb-b894-4a27-8bd5-194dbc64f429", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/6dbf0f7f-ef35-4037-9418-6b2460f41345", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/1bcfe93d-97bd-4618-b81e-dc308ef69d30", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/d606814e-0897-4068-8249-7703348abde6", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/41746a7f-10c4-4fc7-88a4-6a2504c8b949", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/c0f50489-44b5-4299-9ed3-6dd6a720277e", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/98c030bd-a72d-4045-87aa-b8ff7d0d43fb", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/plaid/29d1f5fc-d986-4a5d-9c42-0c05d9326f9d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/plaid/fe323662-d01f-40b7-a570-60dc8288f4ae", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/58033600-5c9e-40bc-877e-64479e957a1e", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/ecc50d24-e303-480d-85d7-3041c1508cfe", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/plaid/51d7f702-e76c-4305-b3d4-50d270ec7d1c", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/c5b20de5-48c4-47c6-bd53-4798178e078f", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/a4a868a6-555a-4119-bbd7-6300f16d9045", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/24f357ee-b2fc-4f86-bab9-d10ecfb99003", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/a9dc0810-546b-4773-9545-2862409e24b4", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/plaid/2efbc1b7-92ff-419b-8aaf-95ede4758fe0", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/597ed0af-461e-452e-ade4-26efa02a8b52", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/942cabb1-e53a-46ad-b1cd-7f2802a9c389", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/4ebff0a8-b3ef-4e15-8e34-1b30751b690b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/f58ef4f3-12d0-4cbf-8914-08439e6d36c0", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/5159cfbb-a402-4ad3-8762-07cd81a5c3c2", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/9d6855e9-3b05-4dc6-820e-3227201c494b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/a3eca412-16d0-4080-8f93-e8b76e83cce9", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/6d75e03b-f6bb-4ebf-97a3-0682ab27f255", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/97bebd5a-2cdf-4663-922e-ef23108a33a0", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/fe492bdf-699c-4d70-97e3-4fb9d69b1287", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/04b07357-ddc7-415d-a6ba-a17fed4e9841", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/568826e2-2abc-43ab-b01d-54cb709de273", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/54f2a4e0-44aa-41a2-b3ac-2f930411eb9b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/675be915-3aed-4fe2-8f8b-f56dde88cf8a", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/plaid/52a328ed-b809-4996-9601-595e5a6a72a8", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/b7d60f30-ca33-4434-bb47-fa16d45b4e4a", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://jobs.ashbyhq.com/plaid/fe810301-0b34-4830-9cac-72698933207d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/4c9bf6fe-47f1-4683-89cc-137f90ff307b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/9203594a-fe83-4f53-8d97-f5cdc2ed0f43", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/plaid/a1233f12-7765-4e77-880d-7d9589c6f83d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/plaid/581fbd66-f5e6-4dc1-a771-2fec143e5504", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/11208bdc-a679-4cf7-b7a9-67848f7660ab", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/eb3ed968-630f-429a-9e44-5508b77d554b", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f", "manual_include": true, "manual_reason": "hardware/embedded/EE intern"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/f6bee7a7-57ae-4ec1-9276-ae3bcbdc7327", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/c2c1faae-acb6-4c8b-bd0d-e7e180ac8d94", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/c8f9e9aa-8801-4916-9b1f-2c0bd5f072f9", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a", "manual_include": true, "manual_reason": "hardware/embedded/EE intern"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/567d620f-7600-4e35-9edd-f41ed4db45ce", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/f70f9481-ea7e-48e4-9212-f9c10952a028", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/bb72d6bc-631e-423b-bc06-be225105d73d", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/4e547c5a-e4ee-40a7-b14b-c4daf9c072eb", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/52fb2d63-f18e-446e-8a15-cbcdc8740147", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/58e5a454-47db-41b2-9c5d-c8e34c55159e", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/0307dd1e-ac14-47fd-b80c-e3ca6e82ae46", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/c245f446-c371-44fb-a0a4-0735318abe7b", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/70ebf855-16df-4879-a6a7-ee0161174acc", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba", "manual_include": true, "manual_reason": "ML/robotics research scientist open to all levels"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/41dfbfcd-a9d1-4969-b11b-821f3319cae2", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/e4301617-e5fb-413d-bc41-41a2d5e6b67e", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/e501e135-9407-4b14-a8e8-c131f89be61d", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/eece24c0-3a0e-4373-bf88-4b92633a0930", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/8e9830f4-89ba-46e6-ab73-648c550aaf3c", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://jobs.ashbyhq.com/physicalintelligence/a32cf6ed-b81c-4ee6-8785-d5895cf39ffb", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4589430006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4609306006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4574734006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4656559006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4644956006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4574399006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4653803006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4681405006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4559520006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4676468006", "manual_include": true, "manual_reason": "hardware/embedded/EE intern"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4006360006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4678047006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006", "manual_include": true, "manual_reason": "hardware/embedded/EE intern"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4662042006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4665205006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4661633006", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4664781006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4387319006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4666285006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4671707006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4626247006", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4659175006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4648235006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4595829006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4655264006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4587570006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4677955006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4431092006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4644962006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4655262006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4671703006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4345915006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4674754006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4627382006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4615918006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4612732006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4665206006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4585080006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4671699006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4666292006", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4647901006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4313470006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4627385006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4676896006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4369739006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4375064006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4671442006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4409868006", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4615252006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4613429006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4648671006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4563653006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4392728006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4679601006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4613444006", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4679201006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4626804006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4414646006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4664176006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4410831006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4681839006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4672013006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4681835006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4674402006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4647722006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4643612006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006", "manual_include": true, "manual_reason": "hardware/embedded/EE intern"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006", "manual_include": true, "manual_reason": "hardware/embedded/EE intern"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4612710006", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4655833006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4442947006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4655255006", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4626809006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4674403006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4618234006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4655258006", "manual_include": false, "manual_reason": "technical but degree-only reqs, no EC years band"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4681836006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4670751006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4678046006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4655837006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4627111006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4315521006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4612612006", "manual_include": false, "manual_reason": "3+ years in requirements section"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4649851006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4666290006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4573670006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4590702006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4618906006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4654891006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4609779006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4614747006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4666836006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4680643006", "manual_include": false, "manual_reason": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4651747006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4660876006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4648134006", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4627110006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4627386006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4671712006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://job-boards.greenhouse.io/figureai/jobs/4657497006", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8400281002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8368003002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8426009002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8550948002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8194862002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841080002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8420607002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501125002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8480817002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8541998002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397493002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7295190002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8449852002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8200376002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554531002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8550331002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8481717002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5507088002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8243219002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8368209002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8486165002", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8074772002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503590002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8346287002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548505002", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438983002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8505897002", "manual_include": false, "manual_reason": "non-technical role"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516236002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374096002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8486484002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6328361002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407915002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8509534002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8399878002", "manual_include": false, "manual_reason": "not technical engineering"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8428818002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002", "manual_include": false, "manual_reason": "technical role without early-career experience band"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8394060002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548986002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8449854002", "manual_include": false, "manual_reason": "senior/staff/principal/management title"}
+{"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438977002", "manual_include": false, "manual_reason": "non-technical role"}

@@ -1,0 +1,594 @@
+{
+  "fetch": {
+    "companies_attempted": 79,
+    "companies_with_jobs": 75,
+    "companies_failed": [
+      "Nvidia (403)",
+      "Isomorphic Labs (0)",
+      "Atlassian (0)"
+    ],
+    "total_jobs": 3140,
+    "per_company_target": 100,
+    "avg_jobs_per_company": 41.9
+  },
+  "coverage": {
+    "description_present": 1990,
+    "description_pct": 63.38,
+    "missing_description": 1150
+  },
+  "ground_truth": {
+    "manual_ec_total": 60,
+    "manual_ec_rate_pct": 1.91,
+    "regex_ec_total": 91,
+    "regex_ec_rate_pct": 2.9,
+    "us_alerts": 72,
+    "us_alert_rate_pct": 2.29
+  },
+  "regex_vs_manual": {
+    "labeled": 3140,
+    "tp": 55,
+    "fp": 36,
+    "tn": 1925,
+    "fn": 5,
+    "accuracy": 0.6306,
+    "precision": 0.6044,
+    "recall": 0.9167,
+    "f1": 0.7285
+  },
+  "fp_by_regex_reason": {
+    "open-level technical ic": 11,
+    "explicit ec technical": 11,
+    "explicit ec technical (requirements)": 10,
+    "technical intern": 2,
+    "post-training program": 1,
+    "research degree requirements": 1
+  },
+  "fn_by_manual_reason": {
+    "Software Engineer Backend IC; no minimum YOE stated": 1,
+    "Forward Deployed SWE Spain; student/side-project customer experience acceptable": 1,
+    "Forward Deployed SWE; student/side-project customer experience acceptable": 1,
+    "Applied Research Engineer Agents; no minimum YOE stated": 1,
+    "Software Engineer Core Infrastructure; no minimum YOE stated": 1
+  },
+  "fp_samples": [
+    {
+      "company": "Cohere",
+      "title": "Software Engineer, Search Applications",
+      "reason": "open-level technical ic",
+      "manual": "Search apps SWE; production exp, no EC bar"
+    },
+    {
+      "company": "DRW",
+      "title": "Software Engineer, Unified Platform - Exchange Data",
+      "reason": "open-level technical ic",
+      "manual": "Unified platform SWE requires 2-3 yrs"
+    },
+    {
+      "company": "DRW",
+      "title": "Quantitative Researcher",
+      "reason": "explicit ec technical",
+      "manual": "Quant researcher; 2+ yrs stat-arb required"
+    },
+    {
+      "company": "Point72",
+      "title": "Quantitative Analyst / Software Developer",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "Quant analyst/SWE; 1-3 yrs (upper bound 3+)"
+    },
+    {
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "reason": "explicit ec technical",
+      "manual": "Cubist quant researcher; 2+ yrs equities research"
+    },
+    {
+      "company": "Mistral AI",
+      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
+      "reason": "open-level technical ic",
+      "manual": "Applied AI fullstack SWE sovereign Paris; 2+ yrs required"
+    },
+    {
+      "company": "Cognition AI",
+      "title": "Research, Post-Training",
+      "reason": "post-training program",
+      "manual": "Research post-training; frontier MTS not EC"
+    },
+    {
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (Cantonese Speaking)",
+      "reason": "open-level technical ic",
+      "manual": "SWE agent Cantonese Singapore"
+    },
+    {
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "reason": "open-level technical ic",
+      "manual": "SWE agent Toronto; experienced"
+    },
+    {
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "reason": "open-level technical ic",
+      "manual": "SWE agent Tokyo; experienced"
+    },
+    {
+      "company": "Figma",
+      "title": "Software Engineer, Full Stack",
+      "reason": "open-level technical ic",
+      "manual": "technical role without early-career experience band"
+    },
+    {
+      "company": "Ramp",
+      "title": "Software Engineer, Engineering Platform",
+      "reason": "open-level technical ic",
+      "manual": "technical role without early-career experience band"
+    },
+    {
+      "company": "Ramp",
+      "title": "Software Engineer, Argentina",
+      "reason": "open-level technical ic",
+      "manual": "technical role without early-career experience band"
+    },
+    {
+      "company": "Plaid",
+      "title": "Software Engineer, Backend",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"
+    },
+    {
+      "company": "Plaid",
+      "title": "Software Engineer, Backend",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"
+    },
+    {
+      "company": "Plaid",
+      "title": "Software Engineer, Backend",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "experience requirement beyond 0-2yr (3+ or 1-3/1-4 range)"
+    },
+    {
+      "company": "EvolutionaryScale",
+      "title": "Group Leader, Immune Cell Reprogramming",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "research/lab science role (non-SWE track)"
+    },
+    {
+      "company": "EvolutionaryScale",
+      "title": "Post-Doctoral Fellow, High-Throughput Functional Genomics",
+      "reason": "explicit ec technical",
+      "manual": "research/lab science role (non-SWE track)"
+    },
+    {
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Live Tissue Omics",
+      "reason": "explicit ec technical",
+      "manual": "research/lab science role (non-SWE track)"
+    },
+    {
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Single-Cell Genomics",
+      "reason": "explicit ec technical",
+      "manual": "research/lab science role (non-SWE track)"
+    },
+    {
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning",
+      "reason": "explicit ec technical",
+      "manual": "research/lab science role (non-SWE track)"
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "title": "AI in Residence",
+      "reason": "explicit ec technical",
+      "manual": "selective AI in Residence fellowship, not early-career hire"
+    },
+    {
+      "company": "Xaira Therapeutics",
+      "title": "AI Research Engineer",
+      "reason": "research degree requirements",
+      "manual": "AI Research Engineer, experienced hire"
+    },
+    {
+      "company": "Inceptive",
+      "title": "Internship",
+      "reason": "technical intern",
+      "manual": "non-tech wet-lab biology internship"
+    },
+    {
+      "company": "Flatiron Health",
+      "title": "Communications & Events Associate",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "marketing/design/comms role"
+    },
+    {
+      "company": "Flatiron Health",
+      "title": "Communications & Events Associate (m/f/d)",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "marketing/design/comms role"
+    },
+    {
+      "company": "Flatiron Health",
+      "title": "Software Engineer (Contractor)",
+      "reason": "explicit ec technical",
+      "manual": "requires 3+ years experience"
+    },
+    {
+      "company": "Anduril",
+      "title": "Software Engineer, Manufacturing Test",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "requires 3+ years experience"
+    },
+    {
+      "company": "Luma AI",
+      "title": "Software Engineer - Product",
+      "reason": "explicit ec technical (requirements)",
+      "manual": "Product Software Engineer, experienced hire"
+    },
+    {
+      "company": "Luma AI",
+      "title": "Software Engineer, Data Infrastructure - Research",
+      "reason": "open-level technical ic",
+      "manual": "Data Infrastructure Engineer, experienced hire"
+    }
+  ],
+  "fn_samples": [
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, Backend",
+      "manual": "Software Engineer Backend IC; no minimum YOE stated"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineer - Software Engineer - Spain",
+      "manual": "Forward Deployed SWE Spain; student/side-project customer experience acceptable"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineer - Software Engineer",
+      "manual": "Forward Deployed SWE; student/side-project customer experience acceptable"
+    },
+    {
+      "company": "Hebbia",
+      "title": "Applied Research Engineer, Agents",
+      "manual": "Applied Research Engineer Agents; no minimum YOE stated"
+    },
+    {
+      "company": "Retool",
+      "title": "Software Engineer, Core Infrastructure",
+      "manual": "Software Engineer Core Infrastructure; no minimum YOE stated"
+    }
+  ],
+  "by_company": {
+    "Etched": {
+      "jobs": 32,
+      "manual_ec": 12,
+      "regex_ec": 12,
+      "tp": 12
+    },
+    "Cursor": {
+      "jobs": 50,
+      "manual_ec": 10,
+      "regex_ec": 10,
+      "tp": 10
+    },
+    "Together AI": {
+      "jobs": 50,
+      "manual_ec": 3,
+      "regex_ec": 3,
+      "tp": 3
+    },
+    "Physical Intelligence": {
+      "jobs": 23,
+      "manual_ec": 3,
+      "regex_ec": 3,
+      "tp": 3
+    },
+    "Perplexity AI": {
+      "jobs": 50,
+      "manual_ec": 2,
+      "regex_ec": 2,
+      "tp": 2
+    },
+    "Lambda Labs": {
+      "jobs": 32,
+      "manual_ec": 2,
+      "regex_ec": 2,
+      "tp": 2
+    },
+    "DRW": {
+      "jobs": 37,
+      "regex_ec": 4,
+      "fp": 2,
+      "manual_ec": 2,
+      "tp": 2
+    },
+    "Mistral AI": {
+      "jobs": 36,
+      "regex_ec": 3,
+      "fp": 1,
+      "manual_ec": 2,
+      "tp": 2
+    },
+    "Vercel": {
+      "jobs": 49,
+      "manual_ec": 2,
+      "regex_ec": 1,
+      "tp": 1,
+      "fn": 1
+    },
+    "ElevenLabs": {
+      "jobs": 37,
+      "manual_ec": 2,
+      "fn": 2
+    },
+    "Hebbia": {
+      "jobs": 33,
+      "manual_ec": 2,
+      "regex_ec": 1,
+      "tp": 1,
+      "fn": 1
+    },
+    "Clay": {
+      "jobs": 50,
+      "manual_ec": 2,
+      "regex_ec": 2,
+      "tp": 2
+    },
+    "Ramp": {
+      "jobs": 45,
+      "manual_ec": 2,
+      "regex_ec": 4,
+      "tp": 2,
+      "fp": 2
+    },
+    "Figure AI": {
+      "jobs": 43,
+      "manual_ec": 2,
+      "regex_ec": 2,
+      "tp": 2
+    },
+    "Benchling": {
+      "jobs": 45,
+      "manual_ec": 2,
+      "regex_ec": 2,
+      "tp": 2
+    },
+    "Pinterest": {
+      "jobs": 32,
+      "manual_ec": 2,
+      "regex_ec": 2,
+      "tp": 2
+    },
+    "Glean": {
+      "jobs": 29,
+      "manual_ec": 1,
+      "regex_ec": 1,
+      "tp": 1
+    },
+    "CoreWeave": {
+      "jobs": 20,
+      "manual_ec": 1,
+      "regex_ec": 1,
+      "tp": 1
+    },
+    "Hugging Face": {
+      "jobs": 7,
+      "manual_ec": 1,
+      "regex_ec": 1,
+      "tp": 1
+    },
+    "Cohere": {
+      "jobs": 35,
+      "regex_ec": 2,
+      "fp": 1,
+      "manual_ec": 1,
+      "tp": 1
+    },
+    "Sierra": {
+      "jobs": 39,
+      "regex_ec": 4,
+      "fp": 3,
+      "manual_ec": 1,
+      "tp": 1
+    },
+    "Warp": {
+      "jobs": 8,
+      "manual_ec": 1,
+      "regex_ec": 1,
+      "tp": 1
+    },
+    "Retool": {
+      "jobs": 39,
+      "manual_ec": 1,
+      "fn": 1
+    },
+    "Snowflake": {
+      "jobs": 8,
+      "manual_ec": 1,
+      "regex_ec": 1,
+      "tp": 1
+    },
+    "Groq": {
+      "jobs": 3
+    },
+    "Scale AI": {
+      "jobs": 24
+    },
+    "Anthropic": {
+      "jobs": 14
+    },
+    "Pinecone": {
+      "jobs": 7
+    },
+    "LangChain": {
+      "jobs": 50
+    },
+    "Point72": {
+      "jobs": 19,
+      "regex_ec": 2,
+      "fp": 2
+    },
+    "Harvey": {
+      "jobs": 16
+    },
+    "Cognition AI": {
+      "jobs": 50,
+      "regex_ec": 1,
+      "fp": 1
+    },
+    "Runway ML": {
+      "jobs": 34
+    },
+    "Linear": {
+      "jobs": 23
+    },
+    "Figma": {
+      "jobs": 32,
+      "regex_ec": 1,
+      "fp": 1
+    },
+    "Notion": {
+      "jobs": 40
+    },
+    "Confluent": {
+      "jobs": 50
+    },
+    "Neon": {
+      "jobs": 14
+    },
+    "Plaid": {
+      "jobs": 44,
+      "regex_ec": 3,
+      "fp": 3
+    },
+    "Stripe": {
+      "jobs": 9
+    },
+    "ClickHouse": {
+      "jobs": 30
+    },
+    "EvolutionaryScale": {
+      "jobs": 34,
+      "regex_ec": 5,
+      "fp": 5
+    },
+    "Xaira Therapeutics": {
+      "jobs": 16,
+      "regex_ec": 2,
+      "fp": 2
+    },
+    "Databricks": {
+      "jobs": 7
+    },
+    "Inceptive": {
+      "jobs": 6,
+      "regex_ec": 1,
+      "fp": 1
+    },
+    "Pathos AI": {
+      "jobs": 2
+    },
+    "Flatiron Health": {
+      "jobs": 20,
+      "regex_ec": 3,
+      "fp": 3
+    },
+    "Anduril": {
+      "jobs": 3,
+      "regex_ec": 1,
+      "fp": 1
+    },
+    "Insitro": {
+      "jobs": 10
+    },
+    "Headway": {
+      "jobs": 50
+    },
+    "Click Therapeutics": {
+      "jobs": 7
+    },
+    "Luma AI": {
+      "jobs": 50,
+      "regex_ec": 3,
+      "fp": 3
+    },
+    "Genesis Therapeutics": {
+      "jobs": 29
+    },
+    "Zocdoc": {
+      "jobs": 47
+    },
+    "Recursion Pharma": {
+      "jobs": 39,
+      "regex_ec": 2,
+      "fp": 2
+    },
+    "Enveda Biosciences": {
+      "jobs": 4
+    },
+    "Waymo": {
+      "jobs": 1
+    },
+    "Roblox": {
+      "jobs": 21
+    },
+    "Airbnb": {
+      "jobs": 15
+    },
+    "Uber": {
+      "jobs": 2
+    },
+    "Datadog": {
+      "jobs": 11
+    },
+    "Google DeepMind": {
+      "jobs": 50,
+      "regex_ec": 1,
+      "fp": 1
+    },
+    "Palantir": {
+      "jobs": 30
+    },
+    "Rippling": {
+      "jobs": 10
+    },
+    "GitLab": {
+      "jobs": 35
+    },
+    "Apple": {
+      "jobs": 50
+    },
+    "MongoDB": {
+      "jobs": 15
+    },
+    "Discord": {
+      "jobs": 48,
+      "regex_ec": 1,
+      "fp": 1
+    },
+    "BlackLine": {
+      "jobs": 45
+    },
+    "Reddit": {
+      "jobs": 32
+    },
+    "DoorDash": {
+      "jobs": 7
+    },
+    "Netflix": {
+      "jobs": 28
+    },
+    "Adobe": {
+      "jobs": 3
+    },
+    "Google": {
+      "jobs": 1
+    },
+    "Microsoft": {
+      "jobs": 5,
+      "regex_ec": 1,
+      "fp": 1
+    }
+  }
+}

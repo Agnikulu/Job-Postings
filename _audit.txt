@@ -1,0 +1,27 @@
+﻿28 1 BlackLine Software Engineer Software Engineer - 2+ years professional experien
+47 1 BlackLine Senior Information Security Engineer senior/staff/principal/management title
+459 1 Google Software Engineer III, AI/ML Cloud mid/senior level IC numbering (II-VI)
+471 1 Google Software Engineer, Android, CI Infrastructure SWE Android CI - 2 year minimum qualification
+476 1 Google Software Engineer III, AI/ML, Google Cloud AI mid/senior level IC numbering (II-VI)
+481 1 Google Software Engineer III, AI/ML Recommendations, Rankings, Pred mid/senior level IC numbering (II-VI)
+482 1 Google Software Engineer III, AI/ML GenAI, Google Workspace mid/senior level IC numbering (II-VI)
+491 1 Google Systems Development Engineer, Quantum AI Systems Development Engineer Quantum - 3+ year req
+500 1 Google Software Engineer III, Confidential Computing, Google Cloud  mid/senior level IC numbering (II-VI)
+513 1 Google Senior Software Engineer, Engineering Productivity Platforms senior/staff/principal/management title
+515 1 Google Software Engineer III, Chrome Web Store mid/senior level IC numbering (II-VI)
+518 1 Google Software Engineer III, AI/ML Computer Vision, AR mid/senior level IC numbering (II-VI)
+544 1 Google Senior Software Engineer, Generative AI, Ads Safety senior/staff/principal/management title
+554 1 Google Embedded Software Engineer, Kernel Drivers and Systems Engin Embedded SWE Kernel - 5 year minimum qualification
+560 1 Microsoft Senior Data Scientist senior/staff/principal/management title
+569 1 Microsoft Senior Data Scientist - Microsoft Advertising senior/staff/principal/management title
+572 1 Microsoft Data Center Technician non-technical role
+573 1 Microsoft Data Center Technician (Nightshift) - CTJ - Poly non-technical role
+584 1 Microsoft Software Engineer II - CoreAI Software Engineer II CoreAI - mid-level
+589 1 Microsoft Senior Cloud Solution Architect - AI Business Process senior/staff/principal/management title
+598 1 Microsoft Senior Software Engineer senior/staff/principal/management title
+600 1 Microsoft Software Engineer II - CoreAI Software Engineer II CoreAI - mid-level
+621 1 Microsoft Entry Level Technical Support Engineer Entry Level Technical Support - IT support, not SW
+626 1 Microsoft Applied Engineer II Applied Engineer II - mid-level
+635 1 Microsoft Data Center Technician Manager- Night Shift non-technical role
+638 1 Microsoft Senior Software Engineer senior/staff/principal/management title
+648 1 Microsoft Software Engineer II Software Engineer II - mid-level

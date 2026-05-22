@@ -138,6 +138,77 @@ _FELLOWSHIP_TITLE = re.compile(
 
 _POST_TRAINING = re.compile(r"\bpost-?training\b", re.IGNORECASE)
 
+_EXPERT_FELLOWSHIP = re.compile(
+    r"\b(?:human\s+frontier\s+collective|\bhfc\b)\b",
+    re.IGNORECASE,
+)
+
+_SENIOR_POST_TRAINING_TITLE = re.compile(
+    r"\b(?:research\s+scientist|research\s+engineer|member\s+of\s+technical\s+staff|\bmts\b)\b",
+    re.IGNORECASE,
+)
+
+_NON_TECH_INTERN = re.compile(
+    r"\b(?:"
+    r"capital\s+markets|corporate\s+development|corp(?:\.|orate)?\s+dev|"
+    r"gtm|go[\s-]?to[\s-]?market|business\s+program\s+management|"
+    r"solution\s+area\s+specialist|lifecycle\s+marketing|"
+    r"finance|accounting|marketing|sales|hr|human\s+resources|"
+    r"recruiting|talent|business\s+development"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_CUSTOMER_FACING_ENG = re.compile(
+    r"\b(?:"
+    r"field\s+engineer|forward\s+deployed\s+engineer|solutions?\s+engineer|"
+    r"technical\s+support\s+engineer|"
+    r"pre[\s-]?sales\s+engineer|customer\s+success\s+engineer|"
+    r"implementation\s+lead"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_MTS_NON_IC = re.compile(
+    r"\b(?:policy|strategic\s+initiatives|affairs|corporate\s+affairs)\b",
+    re.IGNORECASE,
+)
+
+_FINANCE_TRADER = re.compile(
+    r"\b(?:"
+    r"(?:prediction\s+markets|options|equity|fixed\s+income)\s+trader|"
+    r"trader(?!\s+(?:system|engineer|developer|software))"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_OPEN_LEVEL_IC_EXCLUDE = re.compile(
+    r"\b(?:"
+    r"senior|staff|principal|lead|director|manager|head\s+of|"
+    r"engineer\s+(?:iii|iv|3|4)|engineer\s+ii\b|engineer\s+2\b"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_OPEN_LEVEL_IC_TITLE = re.compile(
+    r"\b(?:"
+    r"software\s+engineer,\s[\w\s/&.-]+|"
+    r"backend\s+software\s+engineer|"
+    r"backend\s+engineer,\s[\w\s/&.-]+|"
+    r"full[\s-]?stack(?:\s+growth)?\s+engineer|"
+    r"open[\s-]?source\s+machine\s+learning\s+engineer|"
+    r"cloud\s+(?:infrastructure|security)\s+engineer|"
+    r"product\s+engineer|"
+    r"applied\s+research\s+engineer,\s[\w\s/&.-]+"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_PHD_EARLY_CAREER_OVERRIDE = re.compile(
+    r"\b(?:phd\s+early\s+career|early\s+career|\[202[4-9]\])\b",
+    re.IGNORECASE,
+)
+
 _RESEARCH_EC_TITLE = re.compile(
     r"\b(?:research\s+scientist|data\s+scientist|quantitative\s+researcher|"
     r"equity\s+quantitative\s+researcher|research\s+engineer)\b",
@@ -376,6 +447,70 @@ def _is_hardware_intern_title(title: str) -> bool:
     )
 
 
+def _is_open_level_ic_title(title: str) -> bool:
+    text = (title or "").strip()
+    if not text or _OPEN_LEVEL_IC_EXCLUDE.search(text):
+        return False
+    if re.fullmatch(r"software\s+engineer", text, re.IGNORECASE):
+        return False
+    if re.search(r"\bforward\s+deployed\s+engineer\b", text, re.IGNORECASE):
+        return False
+    return bool(_OPEN_LEVEL_IC_TITLE.search(text))
+
+
+def _qualifies_open_level_ic(
+    title: str,
+    desc_sig: DescriptionSignals,
+    description: str | None,
+    positive: str,
+) -> bool:
+    if not _is_open_level_ic_title(title):
+        return False
+    if _has_experience_bar(desc_sig, positive):
+        if not (
+            re.search(r"\bsoftware\s+engineer,\s", title, re.IGNORECASE)
+            and qualifying_early_years(
+                positive,
+                title,
+                ec_friendly_header=ec_friendly_requirements_header(
+                    desc_sig.requirements_text
+                ),
+            )
+        ):
+            return False
+    if description:
+        body = scan_full_description(description)
+        if body.has_senior_exp or body.has_min_years_req:
+            if not (
+                re.search(r"\bsoftware\s+engineer,\s", title, re.IGNORECASE)
+                and qualifying_early_years(positive, title, ec_friendly_header=True)
+            ):
+                return False
+    if ec_friendly_requirements_header(desc_sig.requirements_text):
+        return True
+    if desc_sig.requirements_text and not desc_sig.has_bachelors_req:
+        return True
+    return False
+
+
+def _has_experience_bar(desc_sig: DescriptionSignals, positive: str) -> bool:
+    return bool(
+        desc_sig.has_senior_exp
+        or desc_sig.has_min_years_req
+        or _BACHELORS_PLUS_YEARS.search(positive)
+    )
+
+
+def _is_expert_fellowship(title: str, description: str | None) -> bool:
+    blob = " ".join(p for p in (title, description) if p)
+    if not _EXPERT_FELLOWSHIP.search(blob):
+        return False
+    return bool(
+        re.search(r"\bfellow\b", title or "", re.IGNORECASE)
+        or _FELLOWSHIP_TITLE.search(title or "")
+    )
+
+
 def _is_technical_intern(
     title: str,
     description: str | None,
@@ -439,32 +574,55 @@ def classify_title_confidence(
     if _OBVIOUS_NON_TECH.search(title_text):
         return TitleConfidence("high_exclude", False, "non-tech")
 
+    if _FINANCE_TRADER.search(title_text):
+        return TitleConfidence("high_exclude", False, "non-tech")
+
+    if _CUSTOMER_FACING_ENG.search(title_text):
+        return TitleConfidence("high_exclude", False, "non-tech")
+
+    if _is_expert_fellowship(title_text, description):
+        return TitleConfidence("high_exclude", False, "expert fellowship")
+
     if _OBVIOUS_SENIOR.search(title_text) and not re.search(
         r"\bintern(ship)?\b", title_text, re.IGNORECASE
     ):
-        return TitleConfidence("high_exclude", False, "senior keyword")
+        if not _PHD_EARLY_CAREER_OVERRIDE.search(title_text):
+            return TitleConfidence("high_exclude", False, "senior keyword")
 
     if _OBVIOUS_LEAD.search(title_text) and not re.search(
         r"\bintern(ship)?\b", title_text, re.IGNORECASE
     ):
         return TitleConfidence("high_exclude", False, "senior keyword")
 
-    if re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE) and not title_tech:
-        if _is_technical_intern(title_text, description, desc_sig):
-            return TitleConfidence("high_include", True, "technical intern")
-        return TitleConfidence("high_exclude", False, "non-technical intern")
+    if re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
+        if _NON_TECH_INTERN.search(title_text):
+            return TitleConfidence("high_exclude", False, "non-technical intern")
+        if not title_tech:
+            if _is_technical_intern(title_text, description, desc_sig):
+                return TitleConfidence("high_include", True, "technical intern")
+            return TitleConfidence("high_exclude", False, "non-technical intern")
 
     if _GENERIC_INTERNSHIP_TITLE.match(title_text.strip()):
         if _is_technical_intern(title_text, description, desc_sig):
             return TitleConfidence("high_include", True, "technical intern program")
         return TitleConfidence("high_exclude", False, "non-technical intern")
 
-    if _FELLOWSHIP_TITLE.search(title_text) and is_tech and _strong_ec(desc_sig):
-        if not DOMAIN.search(title_text) and not desc_sig.has_tech_field:
-            return TitleConfidence("high_exclude", False, "non-tech")
-        return TitleConfidence("high_include", True, "fellowship program")
+    if _FELLOWSHIP_TITLE.search(title_text):
+        if re.search(r"\b(?:information\s+security|security\s+engineering)\b", title_text, re.I):
+            if _strong_ec(desc_sig) or desc_sig.has_ec:
+                return TitleConfidence("high_include", True, "technical fellowship")
+        if desc_sig.has_senior_exp or desc_sig.has_min_years_req:
+            return TitleConfidence("high_exclude", True, "experienced fellowship")
+        if is_tech and _strong_ec(desc_sig):
+            if not DOMAIN.search(title_text) and not desc_sig.has_tech_field:
+                return TitleConfidence("high_exclude", False, "non-tech")
+            return TitleConfidence("high_include", True, "fellowship program")
 
     if _POST_TRAINING.search(title_text) and is_tech:
+        if _SENIOR_POST_TRAINING_TITLE.search(title_text) and not re.search(
+            r"\bintern(ship)?\b", title_text, re.IGNORECASE
+        ):
+            return TitleConfidence("high_exclude", True, "senior post-training role")
         if _POST_TRAINING.search(positive_text) or (
             description and _POST_TRAINING.search(description)
         ):
@@ -500,6 +658,8 @@ def classify_title_confidence(
     if _MTS_TITLE.search(title_text) and not re.search(
         r"\bintern(ship)?\b", title_text, re.IGNORECASE
     ):
+        if _MTS_NON_IC.search(title_text):
+            return TitleConfidence("high_exclude", True, "experienced mts title")
         if _POST_TRAINING.search(title_text) and is_tech and _strong_ec(desc_sig):
             if not desc_sig.has_senior_exp:
                 return TitleConfidence("high_include", True, "post-training program")
@@ -574,6 +734,8 @@ def classify_title_confidence(
         return TitleConfidence("borderline", False, "ec but non-technical title")
 
     if is_tech and has_weak:
+        if _CUSTOMER_FACING_ENG.search(title_text):
+            return TitleConfidence("high_exclude", False, "non-tech")
         if _MTS_TITLE.search(title_text) and not re.search(
             r"\bintern(ship)?\b", title_text, re.IGNORECASE
         ) and not _strong_ec(desc_sig):
@@ -598,6 +760,13 @@ def classify_title_confidence(
         and desc_sig.requirements_text
         and _RESEARCH_EC_TITLE.search(title_text)
     ):
+        if re.search(
+            r"\b(?:significant|substantial|extensive|5\+|3\+)\s+(?:\w+\s+){0,4}"
+            r"(?:experience|expertise)\b",
+            positive_text,
+            re.IGNORECASE,
+        ):
+            return TitleConfidence("high_exclude", True, "senior experience required")
         return TitleConfidence("high_include", True, "research degree requirements")
 
     if is_tech and _RESEARCH_EC_TITLE.search(title_text):
@@ -605,6 +774,8 @@ def classify_title_confidence(
             return TitleConfidence("high_include", True, "research open level")
 
     if is_tech:
+        if _qualifies_open_level_ic(title_text, desc_sig, description, positive_text):
+            return TitleConfidence("high_include", True, "open-level technical ic")
         if desc_sig.requirements_text and not desc_sig.has_ec:
             return TitleConfidence("high_exclude", True, "no ec in requirements")
         if not description or not description.strip():

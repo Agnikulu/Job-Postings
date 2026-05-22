@@ -1,0 +1,600 @@
+=== 500 ===
+TITLE: Executive Assistant to Chief Medical Officer (CMO)
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7902262
+DESC: Your work will change lives. Including your own. The Impact You’ll Make As the Executive Assistant to our CMO (Chief Medical Officer), and other senior leaders, you will support a clinical leadership team driving the development of innovative therapies to get better drugs to patients faster. You will partner closely with the CMO to enable them to operate at maximum effectiveness by managing priorities, streamlining operations, and anticipating needs across a fast-paced, science-driven environment. Your work will directly influence the CMO’s ability to focus on advancing our clinical pipeline, shaping development strategy, and delivering meaningful outcomes for patients. You’ll play a critical role connecting internal teams, external partners, and clinical stakeholders; ensuring seamless ex
+
+=== 501 ===
+TITLE: Executive Director, Asset Project Leadership
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7608420
+DESC: Your work will change lives. Including your own. The Impact You’ll Make At Recursion, our mission is to industrialize and transform the development of medicines by integrating data-driven insights and advanced analytics throughout the entire development lifecycle. As Executive Director, Asset Project Leadership, you will play a pivotal role ensuring advanced computational approaches and proprietary Recursion advantages are leveraged across the portfolio continuum, redefining traditional paradigms of drug development. As an asset project leader, you will work closely with functional lines to help craft, optimize and execute asset strategy, leveraging Recursion OS and Clin.Tech. insights to enhance program rigor and ultimately patient benefit. You will partner with preclinical, clinical and 
+
+=== 502 ===
+TITLE: Head of DMPK
+LOC: London, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943674
+DESC: Your work will change lives. Including your own. The Opportunity At Recursion we are redefining drug discovery by uniting industrial-scale data generation with sophisticated computational models. We are seeking a visionary Head of DMPK to join our leadership team. You will lead the DMPK strategy to transition our internal and partnered programs from early hit-identification through to IND-enabling studies and early clinical development. But this is not a traditional DMPK role. You will be a key architect in an environment that is pushing the boundaries of “predict more, test less” - bridging the gap between high-throughput, experimentally derived data generation and predictive modeling. Your Impact Strategic Leadership . Define and execute the overarching DMPK strategy for a diverse therap
+
+=== 503 ===
+TITLE: Head of DMPK
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943536
+DESC: Your work will change lives. Including your own. The Opportunity At Recursion we are redefining drug discovery by uniting industrial-scale data generation with sophisticated computational models. We are seeking a visionary Head of DMPK to join our leadership team. You will lead the DMPK strategy to transition our internal and partnered programs from early hit-identification through to IND-enabling studies and early clinical development. But this is not a traditional DMPK role. You will be a key architect in an environment that is pushing the boundaries of “predict more, test less” - bridging the gap between high-throughput, experimentally derived data generation and predictive modeling. Your Impact Strategic Leadership . Define and execute the overarching DMPK strategy for a diverse therap
+
+=== 504 ===
+TITLE: Head of Early Discovery
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7571580
+DESC: Your work will change lives. Including your own. The impact You'll Make The Head of Early Discovery will lead strategic initiatives to accelerate drug discovery by leveraging cutting-edge technologies, data-driven decision-making, and innovative scientific approaches. This role is pivotal in shaping Recursion’s early discovery pipeline, identifying and validating novel targets, and translating programs into later stages of development. Support for partnership programs is also anticipated. The successful candidate will combine deep scientific expertise with visionary leadership collaborating across groups to drive impactful therapies for patients. In this role, you will: Lead strategically: Define and execute the early discovery strategy aligned with company objectives. Champion modern meth
+
+=== 505 ===
+TITLE: Interested in an internship?
+LOC: Remote Opportunity - United States; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026
+DESC: Your work will change lives. Including your own. Join our Internship Talent Network! We believe in the power of hiring because the potential for people to do outstanding work depends on being in the right role, on the right team, at the right time. At this time, we are currently not hiring interns for Summer 2026. Please send us your resume so that we have your information on file for the next round of internships and we will contact you if we find a match! Stay connected and learn more about us on Twitter and LinkedIn. #LI-DNI The Values We Hope You Share: We act boldly with integrity. We are unconstrained in our thinking, take calculated risks, and push boundaries, but never at the expense of ethics, science, or trust. We care deeply and engage directly. Caring means holding a deep sense
+
+=== 506 ===
+TITLE: Manager, Computational Biology (Early Oncology)
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7875594
+DESC: Your work will change lives. Including your own. The Impact You’ll Make As a Manager within Recursion's partnership-facing data science team, you will be at the forefront of reimagining drug discovery from first principles. You will lead a team of world-class computational biologists focused on identifying and advancing the next generation of oncology therapeutics. You will act as a "player-coach," balancing direct technical contribution with the mentorship and strategic leadership of a high-performing team. Your mission is to integrate Recursion’s massive datasets—phenomics, transcriptomics, and proteomics—to nominate novel targets, validate disease biology, and define the precision oncology strategies that ensure our medicines reach the right patients. In this role, you will: Lead and De
+
+=== 507 ===
+TITLE: People Technology & Architecture Lead
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7894365
+DESC: Your work will change lives. Including your own. The Impact You’ll Make: At Recursion, we are decoding biology to radically improve lives. Scaling our impact at the intersection of machine learning and experimental science requires world-class People systems. We’re seeking a Global People Technology & Architecture Lead for our global HR technology ecosystem. This role owns HiBob configuration, workforce analytics, system integrations, compliance, and AI-enabled innovation across the People function. You will ensure our People infrastructure is scalable, intelligent, and built to support a rapidly evolving scientific and technical workforce across the US, UK, and Canada. This is a high-impact role for a systems thinker who blends hands-on technical expertise with strategic workforce insight
+
+=== 508 ===
+TITLE: Principal Scientist, TechBio Discovery
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7848645
+DESC: Your work will change lives. Including your own. The Impact You'll Make Recursion is at the forefront of reimagining drug discovery by integrating technological innovations across biology, chemistry, automation, data science, and engineering to radically improve lives by industrializing drug discovery. We are seeking an experienced Associate Director to join our Discovery Biology team to lead and advance our AI-driven portfolio of therapeutic candidates. This is a truly unique opportunity to work at the dynamic intersection of technology and biology. You won't just manage projects and key initiatives; you will be an active catalyst contributing to the evolution of a new, powerful paradigm in medicine. In this Role, You Will: Play a critical role in defining and executing our oncology strat
+
+=== 509 ===
+TITLE: Principal Scientist, TechBio Discovery
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7848664
+DESC: Your work will change lives. Including your own. The Impact You'll Make Recursion is at the forefront of reimagining drug discovery by integrating technological innovations across biology, chemistry, automation, data science, and engineering to radically improve lives by industrializing drug discovery. We are seeking an experienced Associate Director to join our Discovery Biology team to lead and advance our AI-driven portfolio of therapeutic candidates. This is a truly unique opportunity to work at the dynamic intersection of technology and biology. You won't just manage projects and key initiatives; you will be an active catalyst contributing to the evolution of a new, powerful paradigm in medicine. In this Role, You Will: Play a critical role in defining and executing our oncology strat
+
+=== 510 ===
+TITLE: Research Associate - Biology Automation
+LOC: Milton Park, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826711
+DESC: Your work will change lives. Including your own. The Impact You’ll Make We are expanding our in-vitro pharmacology capabilities at our Milton Park site and are seeking a motivated and dynamic early career scientist to join the Biology Automation team and Primary Pharmacology group. In this role, you will work on a leading-edge automation platform, helping to push laboratory automation towards autonomous science and entirely hands-free assay execution. You will be work within the team to ensure that the large-scale automation platform meets its objectives and that all our automated assays are fit-for-purpose and appropriately quality-controlled. You will regularly run biochemical and cell-based screening assays that deliver high-quality data to project teams and learn how to develop and val
+
+=== 511 ===
+TITLE: Research Associate, Compound Management
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7931607
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion Pharmaceuticals is pioneering a new approach to drug discovery through the integration of automated cell biology, high-dimensional and diverse data sets, and sophisticated analytics. We are seeking a Research Associate for our Compound Management group to help accelerate our discovery programs and clinical portfolio. In this role, you will supply drug candidates and disease perturbants, handling the ordering, weighing, and solubilization of reagents while running automated systems to generate the assay plates that power our platform. You will manage multiple projects simultaneously, using pipetting skills and software-driven instrumentation to prepare reagents for high-throughput screening. This position offe
+
+=== 512 ===
+TITLE: Research Associate, Primary Pharmacology
+LOC: Milton Park, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7839172
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is at the forefront of reimagining drug discovery and development through broadening the funnel of potential targets, using technology and standardization to build connected data. As a research scientist in the primary pharmacology department you will design, plan and execute a variety of experiments ensuring that the assays are fit-for-purpose, and that data is appropriately quality-controlled. In our new, state-of-the-art laboratories, you will utilize a wide array of assay technologies and automation capabilities. We are committed to deploying the latest advancements and optimising processes for quality and efficiency. You will leverage your scientific and cell-based expertise to design and implement exper
+
+=== 513 ===
+TITLE: Research Scientist, Immunology
+LOC: Milton Park, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7808019
+DESC: Your work will change lives. Including your own. The Impact You’ll Make We are seeking an innovative Research Scientist to join our Experimental Immunology team at our new state of the art laboratories in Oxford. In this primarily lab-based role, you will provide critical cellular data to support therapeutic projects, often venturing into areas of novel biology. You will work within the Recursion Discovery team to uncover solutions for a variety of target classes and I&I indications. You will have the freedom to design, plan, and execute complex experiments and help drive projects from target ideation through validation and into adoption in the portfolio. You will develop translationally relevant screening assays and function as an immunology expert within project teams. This role offers s
+
+=== 514 ===
+TITLE: Research Synthesis Chemist
+LOC: Milton Park, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7775884
+DESC: Your work will change lives. Including your own. The Impact You’ll Make We are growing our chemistry team at Recursion and are seeking a Research Synthetic Chemist to join our Automated Chemistry group. We are looking for an individual that thrives in a dynamic and collaborative team environment and successfully adopts new technologies and workflows to accelerate drug discovery. You will independently convert synthesis requests into structured experimental plans for our state-of-the-art Chemistry Automation platform. You will collaborate with other scientists and automation specialists with our chemistry team to meet project deadlines by providing hands-on experimental support and take ownership of your experimental work to deliver compounds and reaction data. With structured training and 
+
+=== 515 ===
+TITLE: Senior Automation/Medicinal Chemist
+LOC: Milton Park, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7775887
+DESC: Your work will change lives. Including your own. The Impact You’ll Make We are seeking an experienced Senior Scientist in Automation/Medicinal Chemistry to accelerate our internal and partnership drug discovery portfolio. This role, bridging AI-enabled design and cutting-edge automated synthesis, is central to our mission. Operating our Milton Park site, you will take ownership for delivery of compounds through our state-of-the-art Automation Studio and, by collaborating closely with drug designers, drive impactful outcomes for drug discovery programs within our pipeline. You will have a track record of leadership from the lab, and combine deep medicinal and synthetic chemistry expertise with a commitment to modernizing the drug discovery process. A self-starter who can lead effectively fr
+
+=== 516 ===
+TITLE: Senior Clinical Project Manager
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7905968
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is at the forefront of reimagining drug discovery through the integration of automated cell biology, high-dimensional and diverse data sets, and sophisticated analytics. We are seeking a highly motivated, skilled, and adaptable Senior Clinical Project Manager within our Clinical Operations team who will lead the conduct and execution of one or more clinical trials from study start-up to study closure with support or direction from an Associate Director/Director of Clinical Operations. In this role, you will: Lead all aspects of clinical trial execution for one or more programs from IND through proof-of-concept and pivotal studies Plan and oversee implementation, coordination, and execution of global clinical 
+
+=== 517 ===
+TITLE: Senior Clinical Trial Manager
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7905814
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is at the forefront of reimagining drug discovery through the integration of automated cell biology, high-dimensional and diverse data sets, and sophisticated analytics. We are seeking a highly motivated, skilled, and adaptable Clinical Trial Manager within our Clinical Operations team who will manage the conduct and execution of one or more clinical trials from study start-up to study closure in close collaboration with the Clinical Project Manager and/or Associate Director/Director of Clinical Operations. In this role, you will: Support the Clinical Project Manager in the execution of trial operations across diverse therapeutic areas to deliver transformative, new medicines to patients Manage and track clin
+
+=== 518 ===
+TITLE: Senior Computational Biologist – Target ID
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7739306
+DESC: Your work will change lives. Including your own. The Impact You’ll Make As a computational biology specialist on our Target ID team, you will be at the forefront of transitioning Recursion to its next era of drug discovery. You will serve as a critical biological anchor for a highly technical data science team building the next generation of our target discovery pipelines. The team’s mission is to identify novel therapeutic targets at scale across the genome for hundreds of indications. You will have access to all of Recursion's data layers—including massive internal maps, functional genomics, and rich patient data (transcriptomics, genetics, and Real-World Data/EHR)—and will be tasked with proposing, piloting, and deploying new methods to integrate these datasets. Crucially, you will leve
+
+=== 519 ===
+TITLE: Senior Computational Biologist, Tooling
+LOC: London, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7872393
+DESC: Your work will change lives. Including your own. The Team You’ll Join As part of Recursion's Value Tech Tooling Team, you will be at the forefront of reimagining drug discovery from first principles using our massive data capabilities. You'll work in a cross-functional team of world-class computational biologists and engineers who turn complex analyses and data workflows into stable tools and pipelines that multiply their impact and industrialise the discovery process across a wide array of therapeutic areas. You'll partner with biologists, medicinal chemists, engineers, data scientists, ML scientists, and to design experiments, develop new methods, build scalable data workflows, analyse results, and identify common themes across programs. As our toolbox grows and evolves, it will contribu
+
+=== 520 ===
+TITLE: Senior Counsel, Privacy and Compliance
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7939527
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is currently seeking a Counsel role specializing in data privacy and compliance work to support the expansion of its clinical trials and compliance infrastructure. The role will have the opportunity to maintain and shape a privacy-by-design infrastructure through careful vendor onboarding, data mapping, developing fit-for-purpose policies, and negotiating privacy terms in transactions. The role will also support the growth of the compliance function within the Legal department through careful right-sizing of guidance, implementation, and training as well as close partnerships across functions. The ideal candidate is business-minded, collaborative, and comfortable translating privacy and regulatory requirement
+
+=== 521 ===
+TITLE: Senior Counsel, Privacy and Compliance
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7939525
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is currently seeking a Counsel role specializing in data privacy and compliance work to support the expansion of its clinical trials and compliance infrastructure. The role will have the opportunity to maintain and shape a privacy-by-design infrastructure through careful vendor onboarding, data mapping, developing fit-for-purpose policies, and negotiating privacy terms in transactions. The role will also support the growth of the compliance function within the Legal department through careful right-sizing of guidance, implementation, and training as well as close partnerships across functions. The ideal candidate is business-minded, collaborative, and comfortable translating privacy and regulatory requirement
+
+=== 522 ===
+TITLE: Senior Product Manager, Agentic Science
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7488023
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is leading an era of autonomous science – iterating across the discovery process, leveraging machine learning and agents built-for-purpose to uncover novel insights across biology and chemistry, fueling our clinical-stage pipeline. As the Senior Product Manager for Agentic Science, you will sit at the intersection of drug discovery and AI, serving as the critical translator between our scientific teams and the agentic systems they depend on. Your primary focus will be on outcomes: ensuring our agents impact Recursion’s pipeline through demonstrably accelerating discovery. This role is not about maintaining a static roadmap; it is about navigating the frontier of a rapidly evolving field. You will partner clos
+
+=== 523 ===
+TITLE: Senior Scientist, Separation Sciences
+LOC: Milton Park, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7760240
+DESC: Your work will change lives. Including your own. The Impact You’ll Make We are seeking a Senior Separation Scientist to join our Chemistry Automation team at our labs in Milton Park. In this primarily lab-based role, you will be responsible for maintaining and operating an analytical and purification suite within the experimental Chemistry Automation Platform. You will work closely with synthetic and automation chemists, ensuring the delivery of purified compounds and high-quality analytical data to meet drug discovery program needs. Working in our state-of-the-art laboratories, with a fleet of 10 highly specialised HPLC and SFC instruments, you will be encouraged to evaluate and deploy the latest technical developments to create efficient, holistic processes that support multiple drug dis
+
+=== 524 ===
+TITLE: Sr. Data Platform Engineer - Computer System Validator
+LOC: London, England
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7859400
+DESC: Your work will change lives. Including your own. Recursion is a leading, clinical-stage TechBio company decoding biology to industrialize drug discovery. Central to its mission is the Recursion Operating System (OS), a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological, chemical and patient-centric datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale—up to millions of wet lab experiments weekly—and massive computational scale—owning and operating one of the most powerful supercomputers in the world—Recursion is uniting technol
+
+=== 525 ===
+TITLE: Sr. Data Platform Engineer - Computer System Validator
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7852491
+DESC: Your work will change lives. Including your own. Recursion is a leading, clinical-stage TechBio company decoding biology to industrialize drug discovery. Central to its mission is the Recursion Operating System (OS), a platform built across diverse technologies that continuously expands one of the world’s largest proprietary biological, chemical and patient-centric datasets. Recursion leverages sophisticated machine-learning algorithms to distill from its dataset a collection of trillions of searchable relationships across biology and chemistry unconstrained by human bias. By commanding massive experimental scale—up to millions of wet lab experiments weekly—and massive computational scale—owning and operating one of the most powerful supercomputers in the world—Recursion is uniting technol
+
+=== 526 ===
+TITLE: Staff Engineer, AI Security and Product Security
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7843589
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Define and lead product security strategy across web, mobile, API, cloud, infrastructure, and container security — conducting threat modeling, risk assessments, and security reviews throughout the development lifecycle with a strong shift-left focus. Embed secure development practices by designing and implementing secure coding standards, encryption, and security testing methodologies in close collaboration with development and ML teams, ensuring products are secure, resilient, and trustworthy. Own Enterprise AI Security end-to-end — from securing LLM integrations, agentic pipelines, and ML model ingestion to defending against AI-specific threats (prompt injection, data poisoning, model extraction, RAG poisoning, ), bu
+
+=== 527 ===
+TITLE: Staff Engineer, Identity & Access Management (IAM)
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7943347
+DESC: Your work will change lives. Including your own. In this role, you will: Assess our current state of IAM and revamp our IAM strategy across our products, platforms , cloud/on-premise infrastructure and corporate applications to accelerate key business outcomes. Drive IAM implementation as part of our larger zero-trust security strategy Architect and Design cloud-based identity governance, access management and cloud directory solutions Implement RBAC/ABAC based IAM workflows for onboarding and ongoing identity lifecycle management Act as a key technical and strategic advisor for cross-functional teams including IT, security, and development to ensure that IAM principles are integrated into broader security architecture. Partner with Engineering and IT teams to ensure our products and appli
+
+=== 528 ===
+TITLE: Technical Program Manager, ClinTech Strategy & Analytics
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826614
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is a TechBio company using technology and AI to industrialize drug discovery. ClinTech is the team bringing that same ambition into clinical development, building an integrated platform that spans trial planning, site selection, enrollment forecasting, and real-world evidence to run clinical trials faster and smarter. Reporting to the Associate Director, ClinTech Strategy & Operations, this role sits at the heart of that build. You will work closely with Clinical Development Operations and Decision Science, support delivery of the ClinTech roadmap, and help ensure our technology initiatives stay connected to active clinical programs. You will also support how we communicate ClinTech’s progress to senior leade
+
+=== 529 ===
+TITLE: Vice President, Head of IP and Strategic Transactions
+LOC: Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7913201
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is seeking a Head of Intellectual Property and Strategic Transactions to shape the company’s IP strategy and support high-value business development, licensing, collaboration, and platform transactions. We recognize that intellectual property is core to our remit: advancing a portfolio of differentiated medicines across wholly owned and partnered programs, enabled by an AI-native platform integrating biology, chemistry, and clinical development. The opportunity is vast and crucial, working within the intersection of law, science, and technology to drive the future of therapeutic discovery. The ideal candidate has deep experience with pharmaceutical patent strategy and complex life sciences transactions and is
+
+=== 530 ===
+TITLE: Vice President, Head of IP and Strategic Transactions
+LOC: New York, New York
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7913202
+DESC: Your work will change lives. Including your own. The Impact You’ll Make Recursion is seeking a Head of Intellectual Property and Strategic Transactions to shape the company’s IP strategy and support high-value business development, licensing, collaboration, and platform transactions. We recognize that intellectual property is core to our remit: advancing a portfolio of differentiated medicines across wholly owned and partnered programs, enabled by an AI-native platform integrating biology, chemistry, and clinical development. The opportunity is vast and crucial, working within the intersection of law, science, and technology to drive the future of therapeutic discovery. The ideal candidate has deep experience with pharmaceutical patent strategy and complex life sciences transactions and is
+
+=== 531 ===
+TITLE: Vice President, Real World Evidence (RWE)
+LOC: New York, New York; Salt Lake City, Utah
+URL: https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7767007
+DESC: Your work will change lives. Including your own. The Impact You’ll Make: Recursion is currently seeking a seasoned leader to join our team as Vice President, Real World Experience. This role will lead RWE generation across the Recursion portfolio. The role will be responsible for building a world-class team of statisticians, pharmacoepidemiologists, and statistical programmers. This VP and their team will partner closely with the biometrics team, clinical development, and other internal stakeholders. The role will involve, but will not be limited to, supporting study planning, generating natural history data to contextualize rare disease trials, contributing to health authority interactions, supporting value demonstration for submission to HTA bodies, and other evidence-generation needs. W
+
+=== 532 ===
+TITLE: Clinical Development Contractor (Neuro)
+LOC: Remote, United States
+URL: https://jobs.lever.co/enveda/5148f955-460f-4a45-bf1c-b21a0031c328
+DESC: Let’s build the future of medicine - together. Join Enveda in Clinical Development on a Contract basis and help us transform natural compounds into life-changing medicines. We’re a team driven by curiosity and innovation - are you ready to make a difference? Remote | Contract | $275-$350/hr | What Makes Us Enveda Life is smart, and we can learn from it. We’re reinventing drug discovery by harnessing nature’s intelligence. Our platform identifies new medicines four times faster than the industry standard because patients can’t wait. What sets Enveda apart isn’t just what we do - it’s how we do it. Our culture is built on creativity, collaboration, and deep respect for each other. We believe “People Create All Value”, and our success is driven by the extraordinary team turning our mission in
+
+=== 533 ===
+TITLE: Senior Research Associate, Analytical Chemistry
+LOC: Hyderabad
+URL: https://jobs.lever.co/enveda/ab43d6b8-0bd7-4b45-a653-9328a83163ea
+DESC: Let’s build the future of medicine — together. Join Enveda as a Senior Research Associate, Analytical Chemistry in India and help us transform natural compounds into life-changing medicines. We’re a team driven by curiosity and innovation—are you ready to make a difference? What Makes Us Enveda Life is smart, and we can learn from it. We’re reinventing drug discovery by harnessing nature’s intelligence. Our platform identifies new medicines four times faster than the industry standard—because patients can’t wait. What sets Enveda apart isn’t just what we do—it’s how we do it. Our culture is built on creativity, collaboration, and deep respect for each other. We believe “People Create All Value”, and our success is driven by the extraordinary team turning our mission into reality every day.
+
+=== 534 ===
+TITLE: Senior Research Associate, Invivo Pharmacology
+LOC: Hyderabad
+URL: https://jobs.lever.co/enveda/43c5b064-c8d2-4d36-88e2-874e58afc1d4
+DESC: 
+
+=== 535 ===
+TITLE: Software Engineer
+LOC: Hyderabad
+URL: https://jobs.lever.co/enveda/c14d0b11-a2a5-4411-ae5f-52cc33c6707c
+DESC: Let’s build the future of medicine—together. Join Enveda as a Software Engineer in Hyderabad and help us transform natural compounds into life-changing medicines. We’re a team driven by curiosity and innovation—are you ready to make a difference? On-Site | Hyderabad, India | Full-Time | 🌿What Makes Us EnvedaLife is smart, and we can learn from it. We’re reinventing drug discovery by harnessing nature’s intelligence. Our platform identifies new medicines four times faster than the industry standard—because patients can’t wait. What sets Enveda apart isn’t just what we do—it’s how we do it. Our culture is built on creativity, collaboration, and deep respect for each other. We believe “People Create All Value,” and our success is driven by the extraordinary team turning our mission into reali
+
+=== 536 ===
+TITLE: Open Career Opportunities, Autonomous (Self-Driving) Vehicle Jobs, Waymo
+LOC: Novi, MI, USA / Phoenix, AZ, USA / Mountain View, CA, USA
+URL: https://www.google.com/about/careers/applications/jobs/results/88815398314484422
+DESC: Waymo is the self-driving technology company with a mission to make it safe and easy for people and things to move around. Building on software and sensor technology developed at Google, Waymo is now launching the world’s first fully self-driving transportation service that will take members of the public from A to B at the touch of a button. All open positions at Waymo are posted on Waymo's website . To learn more about Waymo's opportunities, check out open roles here . Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Novi, MI, USA; Phoenix, AZ, USA; Mountain View, CA, USA .
+
+=== 537 ===
+TITLE: Senior Legal Counsel, Supply Chain
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5112960007?gh_jid=5112960007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril’s Legal team is seeking a highly experienced and strat
+
+=== 538 ===
+TITLE: Senior Ground Software Engineer, Space
+LOC: Colorado Springs, Colorado, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5143736007?gh_jid=5143736007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Space team is dedicated to expanding our AI-powered
+
+=== 539 ===
+TITLE: Lead Software Engineer, API/SDK
+LOC: Seattle, Washington, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4754841007?gh_jid=4754841007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Lattice SDK team is at the forefront of building Anduril’
+
+=== 540 ===
+TITLE: Security Communications Systems Architect
+LOC: Washington, District of Columbia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5143321007?gh_jid=5143321007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Technical Security (TechSec) team within Anduril's Corpor
+
+=== 541 ===
+TITLE: Senior Quality System Engineer
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5034321007?gh_jid=5034321007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril’s Quality organization is seeking a Quality System En
+
+=== 542 ===
+TITLE: Senior Manufacturing Engineer, Turbine Engines
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5101864007?gh_jid=5101864007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Industries is seeking a skilled and innovative Turbom
+
+=== 543 ===
+TITLE: Systems Administrator, Classified IT
+LOC: Fort Collins, Colorado, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5030956007?gh_jid=5030956007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM ABOUT THE JOB Anduril is seeking a Systems Administrator to d
+
+=== 544 ===
+TITLE: Business Development Director, Maritime (Commercial Services)
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5024754007?gh_jid=5024754007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Maritime delivers platforms, systems, and integrated 
+
+=== 545 ===
+TITLE: Lead Maintenance Engineer (Electrical)
+LOC: McHenry, Mississippi, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5119574007?gh_jid=5119574007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. The Rocket Motor Systems group designs, develops, and manufactures next-gene
+
+=== 546 ===
+TITLE: Senior Software Engineer, Intelligence Systems
+LOC: Reston, Virginia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is focused on positioning 
+
+=== 547 ===
+TITLE: Senior Manager, Army Mission Operations
+LOC: Washington, District of Columbia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5139088007?gh_jid=5139088007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Connected Warfare division builds systems to support glob
+
+=== 548 ===
+TITLE: Senior Security Operations Analyst
+LOC: Seattle, Washington, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5052987007?gh_jid=5052987007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Detection and Response team is looking for a Securi
+
+=== 549 ===
+TITLE: Senior Buyer
+LOC: Huntsville, Alabama, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5043480007?gh_jid=5043480007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We are seeking a highly motivated Senior Buyer to join our Pro
+
+=== 550 ===
+TITLE: Product Security Engineer, Programs
+LOC: Seattle, Washington, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5042721007?gh_jid=5042721007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a product security engineer to own security for
+
+=== 551 ===
+TITLE: Manufacturing Equipment Engineer, Intelligence Systems
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5063282007?gh_jid=5063282007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Manufacturing Engineering is seeking a Manufacturin
+
+=== 552 ===
+TITLE: Senior Modeling, Simulation and Analysis Engineer, Air Dominance & Strike
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4777387007?gh_jid=4777387007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril’s Flight Engineering department is part of the Air Do
+
+=== 553 ===
+TITLE: Senior System Safety Engineer
+LOC: Atlanta, Georgia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5022524007?gh_jid=5022524007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We are seeking an experienced System Safety Engineer to join 
+
+=== 554 ===
+TITLE: Senior Manager, Industrial Capacity
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5016212007?gh_jid=5016212007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM This role is part of Anduril’s Corporate Development team and
+
+=== 555 ===
+TITLE: Security Software Engineer - Endpoint Security
+LOC: Washington, District of Columbia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5086962007?gh_jid=5086962007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB We're seeking a Security Software Engineer to develop novel se
+
+=== 556 ===
+TITLE: Strategic Finance Lead, Air Dominance & Strike
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5121420007?gh_jid=5121420007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Air Dominance & Strike (AD&S) division delivers pla
+
+=== 557 ===
+TITLE: Senior Manager, Logistics Operations
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5135564007?gh_jid=5135564007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Deployments Team orchestrates the global fielding of Andu
+
+=== 558 ===
+TITLE: Software Engineer - Modeling & Simulation
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. About the Role We are seeking a Modeling and Simulation Engineer to develop 
+
+=== 559 ===
+TITLE: Senior Robotics Software Engineer
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5134612007?gh_jid=5134612007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Maneuver Dominance team at Anduril develops operationally
+
+=== 560 ===
+TITLE: Lead Manufacturing Engineer
+LOC: Ashville, Ohio, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5062292007?gh_jid=5062292007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM: Anduril Intelligence Systems is seeking a Lead Manufacturing
+
+=== 561 ===
+TITLE: Low Observables Engineer, RCS
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4418353007?gh_jid=4418353007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Air Dominance and Strike Low Observable Team are advancin
+
+=== 562 ===
+TITLE: Senior Product Sourcing Engineer
+LOC: Lexington, Massachusetts, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5125417007?gh_jid=5125417007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB: The Senior Product Sourcing Engineer drives the strategic sup
+
+=== 563 ===
+TITLE: Senior Manager, Software Engineering
+LOC: Melbourne, Victoria, Australia
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4950091007?gh_jid=4950091007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. About the Team Anduril’s Maritime Division has assembled a diverse team of e
+
+=== 564 ===
+TITLE: Senior Systems Engineer, Battlespace
+LOC: Broomfield, Colorado, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5142408007?gh_jid=5142408007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, our Battlespace Awareness Command and Control Sof
+
+=== 565 ===
+TITLE: Systems Security Engineer (Program Protection)
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5098387007?gh_jid=5098387007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril we are developing cutting-edge artificial intellig
+
+=== 566 ===
+TITLE: Electrical Maintenance Technician
+LOC: Sydney, New South Wales, Australia
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5133778007?gh_jid=5133778007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. Electrical Maintenance Technician Anduril Australia is seeking team members 
+
+=== 567 ===
+TITLE: Systems Engineer, Electro Optical, Space
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5042157007?gh_jid=5042157007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Space team is dedicated to expanding our AI-powered
+
+=== 568 ===
+TITLE: Mechanical Engineer, Propulsion
+LOC: Santa Ana, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5023715007?gh_jid=5023715007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Mechanical Engineer to join the Propulsi
+
+=== 569 ===
+TITLE: Senior Mechanical Engineer, Drones
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5010383007?gh_jid=5010383007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril’s Tactical Recon & Strike (TRS) is a division with tw
+
+=== 570 ===
+TITLE: Senior Software Engineer (Network Simulation)
+LOC: Reston, Virginia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5082180007?gh_jid=5082180007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is a lead provider of high
+
+=== 571 ===
+TITLE: Technical Operations Engineer, Intelligence Systems
+LOC: Reston, Virginia, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5122503007?gh_jid=5122503007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is focused on positioning 
+
+=== 572 ===
+TITLE: Contracts Manager
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4721740007?gh_jid=4721740007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is the world’s fastest-growing defense technology com
+
+=== 573 ===
+TITLE: Senior Manufacturing Engineer, Maritime Systems
+LOC: Santa Ana, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5113338007?gh_jid=5113338007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril’s Manufacturing team is seeking a Manufacturing Engin
+
+=== 574 ===
+TITLE: Electro-Mechanical Engineer, EW
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5091862007?gh_jid=5091862007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. WHAT YOU’LL DO: Own hardware design from initial requirements through handof
+
+=== 575 ===
+TITLE: Project Manager, Industrial Engineering
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5009261007?gh_jid=5009261007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. Anduril Industries is a defense technology company with a mission to transfo
+
+=== 576 ===
+TITLE: Vehicle Systems Lead
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4955439007?gh_jid=4955439007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Maritime Division is responsible for planning and e
+
+=== 577 ===
+TITLE: Senior Mass Properties Engineer, Omen
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5083497007?gh_jid=5083497007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is seeking a Mass Properties Engineer to join the Ome
+
+=== 578 ===
+TITLE: Software Engineer, C++
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB At Anduril, our Software Engineers are at the forefront of def
+
+=== 579 ===
+TITLE: Contingent Workforce Program Manager
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5049762007?gh_jid=5049762007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. About The Role: As Anduril continues to scale at an unprecedented pace, our 
+
+=== 580 ===
+TITLE: Product Quality Engineer, Intelligence Systems
+LOC: Ashville, Ohio, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5034688007?gh_jid=5034688007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril Intelligence Systems (AIS) is focused on positioning 
+
+=== 581 ===
+TITLE: Projects to Close (PTC) Associate Product Manager
+LOC: Seattle, Washington, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5119386007?gh_jid=5119386007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM: The Business Systems team is responsible for building and op
+
+=== 582 ===
+TITLE: Systems Engineer, Battlespace
+LOC: Broomfield, Colorado, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5142407007?gh_jid=5142407007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, our Battlespace Awareness Command and Control Sof
+
+=== 583 ===
+TITLE: Senior People Business Partner
+LOC: Lexington, Massachusetts, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5053192007?gh_jid=5053192007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM At Anduril, we’re not just changing the game – we’re redefini
+
+=== 584 ===
+TITLE: Senior Global Sourcing Manager, Energetics/Munitions
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4824471007?gh_jid=4824471007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB The Senior Global Sourcing Manager, Energetics is the domain e
+
+=== 585 ===
+TITLE: Production Coordinator, Electromagnetic Warfare
+LOC: Irvine, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5124708007?gh_jid=5124708007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Our Manufacturing Production team is responsible for a wide r
+
+=== 586 ===
+TITLE: Software Engineer, Manufacturing Test
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5003654007?gh_jid=5003654007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB As a Software Engineer in the Manufacturing Test organization,
+
+=== 587 ===
+TITLE: Senior Aerodynamics Engineer, Air Vehicles
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4629832007?gh_jid=4629832007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Air Dominance and Strike Aerodynamics Engineering Team is
+
+=== 588 ===
+TITLE: Lead Industrial Engineer
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4952740007?gh_jid=4952740007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril’s Industrial Engineering team is seeking a Lead Indus
+
+=== 589 ===
+TITLE: Senior Software Engineer
+LOC: Broomfield, Colorado, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5133252007?gh_jid=5133252007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Software Engineers excel at developing state-of-the
+
+=== 590 ===
+TITLE: Legal Counsel, Construction
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5094897007?gh_jid=5094897007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril is a fast-growing company. Consistent with this fast 
+
+=== 591 ===
+TITLE: Senior Demand & Supply Planner
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5042563007?gh_jid=5042563007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Anduril’s Planning team is seeking a world-class Senior Demand
+
+=== 592 ===
+TITLE: Global Event Security Manager
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5142518007?gh_jid=5142518007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Security Operations Team consists of Security infrastruct
+
+=== 593 ===
+TITLE: Supply Planner
+LOC: Quonset, Rhode Island, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5071245007?gh_jid=5071245007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. About the role: Anduril is seeking a Supply Planner to join our team in Quon
+
+=== 594 ===
+TITLE: Recruiting Coordinator (Contractor)
+LOC: Seattle, Washington, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4607969007?gh_jid=4607969007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. As a Recruiting Coordinator at Anduril, you will play an integral role in he
+
+=== 595 ===
+TITLE: Manufacturing Software Engineer, Intelligence Systems
+LOC: Santa Ana, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB As a Software Engineer in the Manufacturing Test organization,
+
+=== 596 ===
+TITLE: Staff Systems Security Engineer, Programs
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5078667007?gh_jid=5078667007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM We're seeking a staff systems security engineer to will drive
+
+=== 597 ===
+TITLE: Systems Engineer, Space
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4922336007?gh_jid=4922336007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Anduril's Space team is dedicated to expanding our AI-powered
+
+=== 598 ===
+TITLE: Senior Software Engineer, Manufacturing Test
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4797329007?gh_jid=4797329007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE ROLE As a Senior Software Engineer in the Manufacturing Test organ
+
+=== 599 ===
+TITLE: Business Operations Associate
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Operations Associates at Anduril have two primary responsibili
+
