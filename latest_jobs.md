@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-22 11:22 UTC  
+**Run timestamp:** 2026-05-22 13:16 UTC  
 **New matches this run:** 5  
 **Location filter:** US-only
 
@@ -10,11 +10,11 @@ Grouped by company (sorted by match count):
 
 ## LinkedIn - 4 new (4 technical)
 
-- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=HX%2B2gzfmXBKXnPWJQeG2qA%3D%3D&trackingId=0kDWt%2FMV7rTSxkwU6qkBkQ%3D%3D) - *Mountain View, CA*
-- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=2&refId=qEBMCeZEC41QviHvovmArw%3D%3D&trackingId=7b8%2F%2B6pT%2FZGdf3Sna4e2wg%3D%3D) - *Mountain View, CA*
-- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=9&pageNum=4&refId=VV5B20yfax83MIvxXdu4dA%3D%3D&trackingId=s0zbcOAXXk6lqJbTXDVVEg%3D%3D) - *Mountain View, CA*
-- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=L8Cjg2fvqusGJdkZvoa%2FFQ%3D%3D&trackingId=A%2BvmLFK9MX7SMsowCNr9jQ%3D%3D) - *Mountain View, CA*
+- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=wqBVIXE0WzRP%2Bi2P0bki7A%3D%3D&trackingId=%2BSAONSjymz6We3%2BLZ4Z%2FGg%3D%3D) - *Mountain View, CA*
+- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=9&pageNum=4&refId=GB%2FIABKLz86%2FuviEJSQ%2FRw%3D%3D&trackingId=AVGHnmvxK4TpLp4CSichvw%3D%3D) - *Mountain View, CA*
+- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=5&refId=iwccAdGan3S4xKaIL3kkFw%3D%3D&trackingId=Rmjt3tR9UD6ep%2FlLaJakqg%3D%3D) - *Mountain View, CA*
+- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=81elpTTJcZ7JMeEkMkbx%2Fg%3D%3D&trackingId=z7I7CG5ebWh5yzwVLBIOOw%3D%3D) - *Mountain View, CA*
 
-## Google - 1 new (1 technical)
+## Microsoft - 1 new (1 technical)
 
-- **[TECH]** [Data Center Technician I](https://www.google.com/about/careers/applications/jobs/results/91739328870261446) - *Lincoln, NE, USA*
+- **[TECH]** [Technical Support Engineering - Entry Level](https://apply.careers.microsoft.com/careers/job/1970393556867925) - *Pune, MH, IN*
