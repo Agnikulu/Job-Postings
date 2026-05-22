@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 425
-- **All-time tracked:** 556
+- **Open positions:** 426
+- **All-time tracked:** 561
 - **Active companies:** 79
-- **Last updated:** `2026-05-22 09:30 UTC`
+- **Last updated:** `2026-05-22 11:22 UTC`
 
 ## Legend
 
@@ -31,19 +31,20 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=3&refId=JBmQU9gaszB%2FvfJ51S1bLA%3D%3D&trackingId=wcB%2Fs4Fvfx1WtkzTcLNnyw%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=9&pageNum=4&refId=3H7p5VJTc8WzLl8Tr%2Bi2Sg%3D%3D&trackingId=I9az8PgIbYFnTX%2FqH%2F8TQQ%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=6j8iWNUd4GIr28LkGLwYAw%3D%3D&trackingId=gebOygI56gKBTdH8DtVK2w%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=N%2BJAYq8guJT6jto1SIPqZg%3D%3D&trackingId=i%2BjL8r%2F8GC5hcXb4d7ED%2BQ%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=HX%2B2gzfmXBKXnPWJQeG2qA%3D%3D&trackingId=0kDWt%2FMV7rTSxkwU6qkBkQ%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=2&refId=qEBMCeZEC41QviHvovmArw%3D%3D&trackingId=7b8%2F%2B6pT%2FZGdf3Sna4e2wg%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=9&pageNum=4&refId=VV5B20yfax83MIvxXdu4dA%3D%3D&trackingId=s0zbcOAXXk6lqJbTXDVVEg%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=L8Cjg2fvqusGJdkZvoa%2FFQ%3D%3D&trackingId=A%2BvmLFK9MX7SMsowCNr9jQ%3D%3D) | May 22, 2026 |
+| Google | Data Center Technician I 🇺🇸 | Lincoln, NE, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/91739328870261446) | May 22, 2026 |
 | Uber | Software Engineer II, AdTech 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/156801) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - Platform Team 🇺🇸 | San Francisco, CA / New York, NY / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend Full Stack - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/6d996cf7-a72f-40e6-b617-892139f81a2a) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - Financial Product 🇺🇸 | San Francisco, CA / New York, NY / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - Platform Team 🇺🇸 | San Francisco, CA / Seattle, WA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend Full Stack - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/6d996cf7-a72f-40e6-b617-892139f81a2a) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - Financial Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) | May 22, 2026 |
 | Rippling | Software Engineer II, Backend - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend Full Stack - Financial Product 🇺🇸 | New York, NY / Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/b8488190-09b1-4506-9194-726939df73bd) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend Full Stack - Financial Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/b8488190-09b1-4506-9194-726939df73bd) | May 22, 2026 |
 | Rippling | Security Engineer II, Offensive Security 🇺🇸 | New York, NY / San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/e6a1faf6-a9ae-456b-b2a1-009844934956) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - IT Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75) | May 22, 2026 |
-| Rippling | Software Engineer II, Frontend Full Stack - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/f64fe029-c299-4ace-9e28-1837a6db1604) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - IT Product 🇺🇸 | Seattle, WA / New York, NY / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75) | May 22, 2026 |
+| Rippling | Software Engineer II, Frontend Full Stack - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/f64fe029-c299-4ace-9e28-1837a6db1604) | May 22, 2026 |
 | Palantir | Forward Deployed Software Engineer - Warp Speed 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | Washington, D.C. | - | [Apply](https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | Palo Alto, CA | - | [Apply](https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb) | May 22, 2026 |
@@ -459,11 +460,15 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (131)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (135)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
