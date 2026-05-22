@@ -38,11 +38,16 @@ _MS_DESCRIPTION = re.compile(r'"description"\s*:\s*"((?:\\.|[^"\\])*)"', re.DOTA
     wait=wait_exponential(multiplier=1, min=1, max=8),
     retry=retry_if_exception_type(requests.RequestException),
 )
-def _get_json(url: str, *, referer: str | None = None) -> dict[str, Any]:
+def _get_json(
+    url: str,
+    *,
+    referer: str | None = None,
+    timeout: float = DEFAULT_TIMEOUT,
+) -> dict[str, Any]:
     headers = {**DEFAULT_HEADERS, "Accept": "application/json"}
     if referer:
         headers["Referer"] = referer
-    resp = requests.get(url, headers=headers, timeout=DEFAULT_TIMEOUT)
+    resp = requests.get(url, headers=headers, timeout=timeout)
     resp.raise_for_status()
     payload = resp.json()
     if not isinstance(payload, dict):
@@ -65,10 +70,16 @@ def _get_html(url: str, *, referer: str | None = None) -> str:
     return resp.text
 
 
+WORKDAY_DETAIL_TIMEOUT = 35
+
+
 def fetch_workday_description(cxs_base: str, external_path: str) -> str | None:
     if not external_path:
         return None
-    payload = _get_json(f"{cxs_base}{external_path}")
+    payload = _get_json(
+        f"{cxs_base}{external_path}",
+        timeout=WORKDAY_DETAIL_TIMEOUT,
+    )
     raw = (payload.get("jobPostingInfo") or {}).get("jobDescription")
     return normalize_description(raw, is_html=True)
 

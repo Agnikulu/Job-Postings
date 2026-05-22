@@ -27,3 +27,7 @@ llm_eval_cache.json
 
 review.md
 review.csv
+
+# Eval artifacts (regenerable; keep under testing/eval/ if needed locally)
+testing/eval/*.jsonl
+testing/eval/batches/

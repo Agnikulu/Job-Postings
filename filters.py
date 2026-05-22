@@ -798,6 +798,45 @@ def classify_title_confidence(
     return TitleConfidence("high_exclude", False, "no ec or technical signal")
 
 
+# Title-only excludes — no per-job description HTTP needed.
+_DESCRIPTION_NOT_NEEDED_REASONS = frozenset({
+    "empty title",
+    "non-tech",
+    "senior keyword",
+    "lead",
+    "staff-level",
+    "non-technical intern",
+    "expert fellowship",
+    "experienced fellowship",
+    "experienced mts title",
+    "experienced mts role",
+    "senior post-training role",
+    "minimum experience required",
+    "senior experience required",
+    "ec but non-technical title",
+    "no ec or technical signal",
+})
+
+
+def should_fetch_description(title: str | None) -> bool:
+    """Whether to fetch a detail-page description for this posting.
+
+    Skips obvious includes (intern/new grad in title) and obvious excludes
+    (senior, non-tech, expert fellowship) so production scrapes avoid thousands
+    of redundant HTTP calls (e.g. Google ~4000 listings).
+    """
+    if not title or not title.strip():
+        return False
+    if is_obvious_reject(title):
+        return False
+    conf = classify_title_confidence(title, None)
+    if conf.level == "high_include":
+        return False
+    if conf.level == "high_exclude" and (conf.reason or "") in _DESCRIPTION_NOT_NEEDED_REASONS:
+        return False
+    return True
+
+
 def classify(
     title: str,
     description: str | None = None,

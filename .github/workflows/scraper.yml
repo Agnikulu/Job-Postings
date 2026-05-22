@@ -38,6 +38,7 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           PYTHONUNBUFFERED: "1"
+          ATS_SNIPER_FETCH_WORKERS: "4"
         run: python scraper.py
 
       - name: Commit updated state

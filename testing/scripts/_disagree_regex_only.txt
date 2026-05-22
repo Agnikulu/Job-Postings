@@ -1,0 +1,423 @@
+=== 0 ===
+TITLE: Machine Learning Fellow - Human Frontier Collective (UK)
+LOC: United Kingdom
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4661647005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do ML Projects: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Help models understand real-world deep learning workflows by designing, reviewing, and optimizing PyTorch models, evaluating complex ML code and AI-generated implementations for efficiency and correctness, and advising on GPU optimization, scaling, and trade-offs. HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network of innovators and thought leaders commit
+
+=== 1 ===
+TITLE: STEM Fellow - Human Frontier Collective (UK)
+LOC: United Kingdom
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4620719005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do Collaborative Work: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Design complex, domain-specific problems and datasets to rigorously evaluate AI models, and provide expert insights that enhance their accuracy, reasoning, and overall performance. HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network of innovators and thought leaders committed to advancing frontier AI across domains. Contribute to Research Publicati
+
+=== 2 ===
+TITLE: SWE Fellow - Human Frontier Collective (UK)
+LOC: United Kingdom
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4689950005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the country they reside in. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do Collaborative Work: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Design complex, domain-specific problems and datasets to rigorously evaluate AI models, and provide expert insights that enhance their accuracy, reasoning, and overall performance. HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network of innovators and thought leaders committed to advancing frontier AI across domains. Contribute to Research Publicati
+
+=== 3 ===
+TITLE: Machine Learning Fellow - Human Frontier Collective (Canada)
+LOC: Canada
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4661650005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in Canada. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do ML Projects: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Help models understand real-world deep learning workflows by designing, reviewing, and optimizing PyTorch models, evaluating complex ML code and AI-generated implementations for efficiency and correctness, and advising on GPU optimization, scaling, and trade-offs. HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network of innovators and thought leaders committed to advancing fro
+
+=== 4 ===
+TITLE: Machine Learning Research Scientist, Post-Training
+LOC: San Francisco, CA; Seattle, WA; New York, NY
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4528009005
+REGEX: post-training program
+MANUAL: senior post-training research role
+DESC: Scale works with the industry’s leading AI labs to provide high quality data and accelerate progress in GenAI research. We are looking for Research Scientists and Research Engineers with expertise in LLM post-training (SFT, RLHF, reward modeling). This role will focus on optimizing data curation and eval to enhance LLM capabilities in both text and multimodal modalities. In this role, you will develop novel methods to improve the alignment and generalization of large-scale generative models. You will collaborate with researchers and engineers to define best practices in data-driven AI development. You will also partner with top foundation model labs to provide both technical and strategic input on the development of the next generation of generative AI models. You will: Research and develop novel post-training techniques, including SFT, RLHF, and reward modeling, to enhance LLM core capabilities in both text and multimodal modalities. Design and experiment new approaches to preference optimization. Analyze model behavior, identify weaknesses, and propose solutions for bias mitigation and model robustness. Publish research findings in top-tier AI conferences. Ideally you’d have: Ph.
+
+=== 5 ===
+TITLE: Machine Learning Fellow - Human Frontier Collective (US)
+LOC: United States
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4660340005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the United States; visa sponsorship is not available for this role. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do ML Projects: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Help models understand real-world deep learning workflows by designing, reviewing, and optimizing PyTorch models, evaluating complex ML code and AI-generated implementations for efficiency and correctness, and advising on GPU optimization, scaling, and trade-offs. HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network 
+
+=== 6 ===
+TITLE: SWE Fellow - Human Frontier Collective (Canada)
+LOC: Canada
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4689954005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in Canada; visa sponsorship is not available for this role. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do Collaborative Work: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Design complex, domain-specific problems and datasets to rigorously evaluate AI models, and provide expert insights that enhance their accuracy, reasoning, and overall performance. Join the HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network of innovators and thought leaders committed to advancing frontier AI across dom
+
+=== 7 ===
+TITLE: SWE Fellow - Human Frontier Collective (US)
+LOC: United States
+URL: https://job-boards.greenhouse.io/scaleai/jobs/4689947005
+REGEX: explicit ec technical
+MANUAL: expert fellowship (PhD/postdoc/5+ yr bar)
+DESC: PLEASE NOTE: This is a fully remote, 1099 independent contractor opportunity with an estimated duration of six months and the potential for extension. To be eligible, candidates must be authorized to work in the United States; visa sponsorship is not available for this role. About the Program The Human Frontier Collective (HFC) Fellowship brings together top researchers and domain experts to collaborate on high-impact work that are shaping the future of AI. As an HFC Fellow, you’ll apply your academic and professional expertise to help design, evaluate, and interpret advanced generative AI systems—while gaining exposure to cutting-edge research and working alongside an interdisciplinary network of leading thinkers. What You'll Do Collaborative Work: Get invited to engage in high-impact projects with our partnered AI labs and platforms. Design complex, domain-specific problems and datasets to rigorously evaluate AI models, and provide expert insights that enhance their accuracy, reasoning, and overall performance. HFC Community: Beyond the work, you’ll become part of a supportive, interdisciplinary network of innovators and thought leaders committed to advancing frontier AI across d
+
+=== 8 ===
+TITLE: Associate Field Engineer
+LOC: San Francisco
+URL: https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670
+REGEX: implicit ec technical
+MANUAL: customer-facing/solutions role
+DESC: Our mission is to automate coding. The first step in our journey is to build the best tool for professional programmers, using a combination of inventive research, design, and engineering. Our organization is very flat, and our team is small and talent dense. We particularly like people who are truth-seeking, passionate, and creative. We enjoy spirited debate, crazy ideas, and shipping code. About the role We’re hiring Field Engineer to own the first-mile experience for customers adopting Cursor. This role focuses on delivering high-quality, repeatable onboarding sessions — from Cursor 101s to foundational demos — that help teams quickly understand and realize value. You’ll partner closely with Field Engineers as an overlay on enterprise and strategic accounts. While they focus on deep technical strategy and complex engagements, you’ll specialize in activation: running crisp, engaging sessions that drive early adoption and set the foundation for deeper work. We’re in-person with offices in San Francisco and New York, and value tight collaboration across GTM, Product, and Engineering. What you’ll do - Lead Cursor 101s, live demos, and onboarding sessions for prospective and existing
+
+=== 9 ===
+TITLE: Capital Markets & Corporate Development Intern - Summer 2026
+LOC: San Francisco Office (Fremont St)
+URL: https://jobs.ashbyhq.com/lambda/4803c790-6e11-4e82-ad5e-f07c79290760
+REGEX: technical intern
+MANUAL: non-tech/sales role
+DESC: Lambda, The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintelligence. One person, one GPU. If you'd like to build the world's best AI cloud, join us. *Note: This position requires presence in our San Francisco office location 4 days per week; Lambda’s designated work from home day is currently Tuesday. The Capital Markets & Corporate Development (CMCD) team sits at the center of how Lambda funds and scales its infrastructure. We lead debt and equity capital raises, evaluate strategic transactions, and partner closely with executives, investors, and external advisors to execute high-impact deals. As a CMCD Intern, you’ll build a centralized source of truth for market comparables across debt, equity, and M&A transactions. This work directly informs live capital raises and strategic decisions. You’ll contribute to real transactions, develop investor-grade materials, and gain exposure to senior stakeholders across the company and external partners. What Yo
+
+=== 10 ===
+TITLE: Research Engineer, Economic Research Data Platform
+LOC: San Francisco, CA
+URL: https://job-boards.greenhouse.io/anthropic/jobs/5071132008
+REGEX: research degree requirements
+MANUAL: technical but not early-career
+DESC: About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role As a Research Engineer on the Economic Research Data Platform team, you will design, build, and maintain critical infrastructure that powers Anthropic's research on AI's economic impact. You will work with data systems from across Anthropic, including our research tools for privacy-preserving analysis. The Economic Research team is part of the Anthropic Institute , and studies the economic implications of AI on individual, firm, and economy-wide outcomes. We build scalable systems to monitor AI usage patterns and directly measure the impact of AI adoption on real-world outcomes. We publish research and data, including the Anthropic Economic Index, for the benefit of the public – helping policymakers, businesses, and workers understand and navigate the transition to powerful AI. The questions we work on include: how is AI changing jobs 
+
+=== 11 ===
+TITLE: Trading Systems Engineer
+LOC: Singapore
+URL: https://job-boards.greenhouse.io/drweng/jobs/6776683
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk. Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets. We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it. DRW is a place of high expectations, integrity, innovation and a willingness to challenge consensus. As a Trading Systems Engineer , you’ll have the opportunity to learn and grow while supporting our trading technology. You’ll work closely with trading, infrastructure, and software development teams to keep systems running smoothly. You’ll gain experience 
+
+=== 12 ===
+TITLE: Member of Technical Staff, Post-Training
+LOC: London
+URL: https://jobs.ashbyhq.com/cohere/554a9380-ab50-4338-88a9-c6b8ab19d92e
+REGEX: post-training program
+MANUAL: experienced MTS IC
+DESC: Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! Why this role? Advance the state of the art for model post training, ship state of the art models to production, and bridge the gap between research and production. We have one of the highest ratio of compute to engineers in the world. We do not delineate strongly between engineering and research. Everyone will contribute 
+
+=== 13 ===
+TITLE: Sales Development Intern (Fall 2026)
+LOC: Korea
+URL: https://jobs.ashbyhq.com/cohere/c73a21dd-167b-48f1-ad59-beb08db37858
+REGEX: technical intern
+MANUAL: non-tech/sales role
+DESC: Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! Why this role? We are looking for a motivated, detail-oriented, organized Sales Intern to support our Revenue team members in APAC. Reporting to the VP APAC, you will have the opportunity to work cross-functionally and provide high value and impact to the leadership team and the company as a whole including interfacing wit
+
+=== 14 ===
+TITLE: Cubist Quantitative Researcher
+LOC: Singapore
+URL: https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: ABOUT CUBIST Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. ROLE Our research center in Singapore is seeking an experienced researcher with a strong background in alpha research. In this highly selective role you will have access to abundant research resources and exciting opportunities to discover high quality alpha signals that directly drive our investment decisions. RESPONSIBILITIES Conduct original quantitative alpha signal research Manage all aspects of the research process, including data analysis, alpha signal discovery, backtesting, trading idea generation, alpha signal/portfolio analysis and the management of production code Evaluate new datasets for alpha potential Follow, digest, analyze and improve upon the latest academic research DESIRABLE CANDIDATES 2+ years of research experience in Equities. Ph.D. or M.S. in finance, accounting, economics, mathematic
+
+=== 15 ===
+TITLE: Quantitative Analyst / Software Developer
+LOC: New York
+URL: https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: Please send CVs to kepl-talent@cubistsystematic.com with “202 7 KEPL Application” in the subject line. About Cubist: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. About Our Team: KEPL is a fast-growing team at Cubist Systematic Strategies. We specialize in trading medium-frequency statistical arbitrage strategies with high Sharpe. The team is made up of people from top universities and top tier trading and tech firms. We have an open and collaborative culture, and we value rigorous research and innovative technologies. We are actively expanding into new markets and assets classes. Role: We are looking for full-time quantitative research analysts and software developers to join our fast-growing team and contribute to multiple new initiatives that aim to expand our business. The candidate should have a passion for innovation to solve research and trading problems. In t
+
+=== 16 ===
+TITLE: Mission Control Specialist
+LOC: Bengaluru, India 
+URL: https://boards.greenhouse.io/point72/jobs/8479488002?gh_jid=8479488002
+REGEX: implicit ec technical
+MANUAL: technical but not early-career
+DESC: A CAREER WITH POINT72’S TECHNOLOGY TEAM As Point72 reimagines the future of investing, our Technology group is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open-source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity. WHAT YOU’LL DO Monitor, triage, and assess incidents across global markets and technology platforms, validating severity, business impact, and escalation requirements. Act as command-and-control lead for major incidents, driving structured response, rapid restoration, and informed decision-making. Coordinate recovery efforts across L1/L2/L3 support teams, engineering, infrastructure, and third-party vendors to minimize business disruption. Lead internal and external stakeholder communications, including senior leadership, during incidents and service disruptions. Trigger and govern disaster recovery (DR) failover in line with predefined criteria, controls, an
+
+=== 17 ===
+TITLE: Research, Post-Training
+LOC: San Francisco
+URL: https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10
+REGEX: post-training program
+MANUAL: no ec signal in requirements
+DESC: WHO WE ARE We are an applied AI lab building end-to-end software agents. We're the team behind Devin, the first AI software engineer, and Windsurf, an AI-native IDE. These products represent our vision for AI that doesn't just assist engineers, but works alongside them as a genuine teammate. Our team is small and talent-dense: world-class competitive programmers, former founders, and researchers from the frontier of AI, including Scale AI, Palantir, Cursor, Google DeepMind, and others. ROLE MISSION Post-training is the critical bridge between raw model capability and a system that is actually useful, safe, and effective in the real world. You will shape how our agents learn by iterating on training recipes, evaluations, and alignment methods that directly determine what Devin and our future systems can do. This role blends deep research and hands-on engineering. We don't distinguish between the two. WHAT YOU'LL ACCOMPLISH - Post-Training Recipe Development: Iterate on the full stack of datasets, training stages, and hyperparameters that determine model behavior. Measure how choices compound across evals and production performance, not just isolated benchmarks. - Evaluation Design a
+
+=== 18 ===
+TITLE: Analytics Engineer — Data Warehouse
+LOC: San Francisco
+URL: https://job-boards.greenhouse.io/togetherai/jobs/5101651007
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: About the Role Together AI is building high-performance inference compute and the software platform around it. We’re looking for an early-career Analytics Engineer with strong fundamentals and high growth potential to grow into a technical lead over time. You’ll contribute to designing and operating our data warehouse, ETL pipelines and orchestration, work on core data models and metrics, and help raise the bar on data quality and governance across the org — with mentorship and support from experienced engineers. Requirements 0–4 years of professional experience (or strong internships/projects) working with data warehouses, pipelines, or analytics engineering. Solid SQL fundamentals — you’re comfortable writing queries and have some exposure to window functions or dimensional modeling concepts. Some hands-on experience with dbt or Airflow, or strong eagerness to learn — coursework and personal projects count. Basic Python for scripting and data tooling; any exposure to Spark (PySpark/SQL) is a plus. Familiarity with data modeling concepts like SCD2 or star schemas — even if only from coursework. Good communication skills: you can ask clarifying questions, explain your reasoning, an
+
+=== 19 ===
+TITLE: Data Warehouse Engineer
+LOC: San Francisco
+URL: https://job-boards.greenhouse.io/togetherai/jobs/5074064007
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: About the Role Together AI is building high-performance inference compute and the software platform around it. We’re looking for an early-career Data Warehouse Engineer with strong fundamentals and high growth potential to grow into a technical lead over time. You’ll contribute to designing and operating our data warehouse, ETL pipelines and orchestration, work on core data models and metrics, and help raise the bar on data quality and governance across the org — with mentorship and support from experienced engineers. Requirements 0–4 years of professional experience (or strong internships/projects) working with data warehouses, pipelines, or analytics engineering. Solid SQL fundamentals — you’re comfortable writing queries and have some exposure to window functions or dimensional modeling concepts. Some hands-on experience with dbt or Airflow, or strong eagerness to learn — coursework and personal projects count. Basic Python for scripting and data tooling; any exposure to Spark (PySpark/SQL) is a plus. Familiarity with data modeling concepts like SCD2 or star schemas — even if only from coursework. Good communication skills: you can ask clarifying questions, explain your reasonin
+
+=== 20 ===
+TITLE: Forward Deployed Engineer (Inference & Post-Training)
+LOC: San Francisco
+URL: https://job-boards.greenhouse.io/togetherai/jobs/5131941007
+REGEX: post-training program
+MANUAL: senior experience required
+DESC: About the role As a Forward Deployed Engineer (FDE) focused on Inference & Post-Training, you will be a hands-on technical partner to our most strategic customers — production AI teams looking to leverage high quality models and do inference at scale. For us, FDE is not a replacement for a Solutions Architect; you will partner with our SAs as a deep-domain specialist in inference optimization, fine-tuning pipelines, and production deployment. As key contributors to both the CX, Engineering, and Sales organizations, FDEs add tremendous value by ensuring we can meet the requirements of our most complex POCs, facilitate successful platform adoption, and guide tailored optimization efforts — directly impacting customer success, company growth, and the hardening of our core platform. Responsibilities Inference Engine Optimization: Select, configure, and optimize inference engine based on hardware, model architecture, and workload profile Configuration & Performance Tuning: Develop configuration updates to win critical POCs, benchmarks, and optimize customer deployments; tune KV cache, apply speculative decoding, determine optimal tensor parallelism, and determine quantization strategy t
+
+=== 21 ===
+TITLE: Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
+LOC: Paris
+URL: https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee
+REGEX: implicit ec technical
+MANUAL: technical but not early-career
+DESC: About Mistral At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. We democratize AI through high-performance, optimized, open-source and cutting-edge models, products, and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether on-premises or in cloud environments. Our offerings include Le Chat, the AI assistant for life and work. We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between France, USA, UK, Germany, and Singapore. We are creative, low-ego, and team-spirited. Join us to be part of a pioneering company shaping the future of AI. Together, we can make a meaningful impact. See more about our culture on mistral.ai/careers. About The Job Mistral AI is seeking an Applied AI Engineer, Fullstack Software Engineer to facilitate the adoption of its products among customers operating in critical, sovereign, and highly regulated environments. The App
+
+=== 22 ===
+TITLE: GTM Intern - Summer 2027
+LOC: San Jose
+URL: https://jobs.ashbyhq.com/etched/73ce9d32-26c9-46c0-adaa-dfbe6660a0e1
+REGEX: technical intern
+MANUAL: non-tech/sales role
+DESC: About Etched Etched is building the world’s first AI inference system purpose-built for transformers - delivering over 10x higher performance and dramatically lower cost and latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep & parallel chain-of-thought reasoning agents. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history. Job Summary We’re hiring for a GTM intern — someone who will help us build the operational backbone of our go-to-market function. You’ll get to join the team working directly on product launches, deal logistics, performance benchmarking, customer materials and enablement, and strategic partnerships. Key responsibilities - Research model changes, data center development, and vendor news - Partner with executives across recruiting, operations, and engineering to guide customer assessments and analyses - Work cross-functionally with legal, architecture, and software to best coordinate efforts across GTM - Build high-leverage decks, benchm
+
+=== 23 ===
+TITLE: GTM Intern - Fall 2026
+LOC: San Jose
+URL: https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e
+REGEX: technical intern
+MANUAL: non-tech/sales role
+DESC: About Etched Etched is building the world’s first AI inference system purpose-built for transformers - delivering over 10x higher performance and dramatically lower cost and latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep & parallel chain-of-thought reasoning agents. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history. Job Summary We’re hiring for a GTM intern — someone who will help us build the operational backbone of our go-to-market function. You’ll get to join the team working directly on product launches, deal logistics, performance benchmarking, customer materials and enablement, and strategic partnerships. Key responsibilities - Research model changes, data center development, and vendor news - Partner with executives across recruiting, operations, and engineering to guide customer assessments and analyses - Work cross-functionally with legal, architecture, and software to best coordinate efforts across GTM - Build high-leverage decks, benchm
+
+=== 24 ===
+TITLE: GTM Intern - Spring 2027
+LOC: San Jose
+URL: https://jobs.ashbyhq.com/etched/2369ccf9-2b5b-4355-a0d6-dd6d73317358
+REGEX: technical intern
+MANUAL: non-tech/sales role
+DESC: About Etched Etched is building the world’s first AI inference system purpose-built for transformers - delivering over 10x higher performance and dramatically lower cost and latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep & parallel chain-of-thought reasoning agents. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history. Job Summary We’re hiring for a GTM intern — someone who will help us build the operational backbone of our go-to-market function. You’ll get to join the team working directly on product launches, deal logistics, performance benchmarking, customer materials and enablement, and strategic partnerships. Key responsibilities - Research model changes, data center development, and vendor news - Partner with executives across recruiting, operations, and engineering to guide customer assessments and analyses - Work cross-functionally with legal, architecture, and software to best coordinate efforts across GTM - Build high-leverage decks, benchm
+
+=== 25 ===
+TITLE: Enterprise Account Executive - Singapore
+LOC: Singapore
+URL: https://jobs.ashbyhq.com/elevenlabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15
+REGEX: implicit ec technical
+MANUAL: non-tech/sales role
+DESC: ABOUT ELEVENLABS ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - multiples of 11, always. We have expanded from voice into three main platforms: - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. - ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you wa
+
+=== 26 ===
+TITLE: Account Executive, SMB
+LOC: San Francisco, CA • New York, NY
+URL: https://boards.greenhouse.io/figma/jobs/5694259004?gh_jid=5694259004
+REGEX: explicit ec technical (requirements)
+MANUAL: non-tech/sales role
+DESC: Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us! We are looking for an Account Executive, SMB who will play a critical role generating new business and fielding inbound prospects in their territory. You will be responsible for targeting, building, and nurturing positive relationships with key decision-makers and assisting them through their Figma evaluation and buying process of all products. This is an opportunity to accelerate your career, learn from leading sellers in the industry and build an incredible network of cross functional partners at Figma. This is a full time role that will be held from our NYC or SF Hub (in-person 2 days/week). What you'll do at Figma: Create and manage a pipeline of SMB accounts from inbound and outbound activity to consistent
+
+=== 27 ===
+TITLE: Operations Associate, Apprenticeship
+LOC: Bengaluru
+URL: https://stripe.com/jobs/search?gh_jid=7236933
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe was built with simplicity in mind. We strive to deliver frictionless experiences for all of our users, whether they are an Independent Business, Startup, SMB, or Enterprise and our mission is to provide all Stripe Users with the best support experience possible. Today, Stripe handles over a million support cases per year and processes millions of internal transactions. We’re going to achieve excellence by thinking of support in a novel, solution-oriented way, and viewing operations as an integral enabler of all of Stripe’s growth. Stripe has unique operational problems resulting from both our type of scale and the type of businesses we partner with a
+
+=== 28 ===
+TITLE: Integration Engineer (AUNZ)
+LOC: Sydney
+URL: https://stripe.com/jobs/search?gh_jid=7703911
+REGEX: explicit ec technical
+MANUAL: technical but not early-career
+DESC: Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe’s Professional Services team works with our most strategic users. You will work on the highest visibility projects to provide technical expertise to our customers to help accelerate their knowledge, solution design and integrations with Stripe. This role is responsible for leading strategic conversations and developing plans that will transform the payments and financial infrastructure for leading enterprises. What you’ll do Responsibilities Plan integration engineering end-to-end, from high-level architecture down to code implementation. This includes conducting discovery sessions with users to understand their goals, parsing out specific use cases,
+
+=== 29 ===
+TITLE: Research Scientist
+LOC: San Francisco
+URL: https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba
+REGEX: research open level
+MANUAL: technical but not early-career
+DESC: We are looking for researchers with a record of excellent research results in the fields of machine learning and robotics, at all levels. Successful candidates will have both excellent fundamentals and excellent implementation skills, with a record of both system-building and fundamental conceptual, algorithmic, or theoretical advances. We welcome applications from both academic researchers and researchers with unconventional backgrounds. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+=== 30 ===
+TITLE: Mechanical Engineer, Battery
+LOC: San Jose, CA
+URL: https://job-boards.greenhouse.io/figureai/jobs/4656559006
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for a Mechanical Engineer to support in the design, testing, and implementation of the battery for the Figure robots. Responsibilities: Design parts in 3D CAD related to the battery that satisfy thermal, electrical, structural and durability requirements. Build prototypes to test assembly, functionality, and performance. Design test set ups related to the battery. Generate accurate 2D drawings using GD&T per ASME Y14.5. Work with our GSM team to pick suppliers and order parts. Inspect first articles, build test stands, and continuously support part on robot development platforms. Requirements: 1-3 years of experience in mechanical engineering Bachelor’s or Master’s Degree in Mechanical, Biomechanical, Robotics, Mechatronics, or similar field Expert in using 3D CAD software to design parts with complex geometry Experience designing and building prototypes Experienced wit
+
+=== 31 ===
+TITLE: Group Leader, Immune Cell Reprogramming
+LOC: New York, NY (Hybrid)
+URL: https://job-boards.greenhouse.io/biohub/jobs/7286324
+REGEX: explicit ec technical (requirements)
+MANUAL: group leader/PI role
+DESC: Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere. The Team Our immune cell reprogramming team integrates foundational research on immunology and disease biology with AI-modeling to develop engineered cells that harness our own immune system to detect and treat early signs of age-related diseases, like cancer, Alzheimer’s, and Parkinson’s. These technologies will enable precise, context-dependent therapeutic responses only when and where it is needed. You can learn more about our work here . The Opportunity Biohub NY seeks to recruit an outstanding scientist to serve as Group Leader (equivalent to a Principal Investigator in academia), leading our Immune Cell Reprogramming research program. The Group Leader will build, lead, and oversee a small research team focused o
+
+=== 32 ===
+TITLE: Group Leader, Immunology
+LOC: New York, NY (Hybrid)
+URL: https://job-boards.greenhouse.io/biohub/jobs/7535647
+REGEX: explicit ec technical (requirements)
+MANUAL: group leader/PI role
+DESC: Biohub is the first large-scale initiative bringing frontier AI models, massive compute, and frontier experimental capabilities under one roof. We're building a general-purpose system to accelerate scientific discovery, integrating frontier AI models, biological foundation models, and lab capabilities, with the ultimate goal of curing disease. Our technology powers scientists around the world, translating AI capabilities into tools that accelerate research everywhere. The Team Our immune cell reprogramming team integrates foundational research on immunology and disease biology with AI-modeling to develop engineered cells that harness our own immune system to detect and treat early signs of age-related diseases, like cancer, Alzheimer’s, and Parkinson’s. These technologies will enable precise, context-dependent therapeutic responses only when and where it is needed. You can learn more about our work here . Our work brings together three powerhouse universities - Columbia University, The Rockefeller University, and Yale University - into a single collaborative technology and discovery engine. Our Vision Pursue large scientific challenges that cannot be pursued in conventional environ
+
+=== 33 ===
+TITLE: Software Engineer, Developer Enablement
+LOC: San Francisco, CA
+URL: https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8
+REGEX: explicit ec technical (requirements)
+MANUAL: no ec signal in requirements
+DESC: We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades of R&D work into years. But that only happens when clean, structured scientific data and AI are built into how science gets done. Benchling is the AI platform for biotech R&D. Scientists use Benchling to design experiments, capture structured data, and run AI agents and models directly in their workflows. Over 200,000 scientists around the world trust Benchling to power their most important work, from academic labs to Sanofi, Moderna, and more than half of the world's top 50 biopharma. We’re building an AI scientist for our customers. We can’t do that if we haven’t built the muscle ourselves. AI fluency is the foundation we build on; it's core to how we work, and we're committed to helping every new hire integrate it into their day-to-day. As part of our interview process, you'll complete a brief AI-focused exercise or discussion so we can understand how you think about and use AI to drive impact in your ro
+
+=== 34 ===
+TITLE: Software Engineer, Manufacturing Test
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5003654007?gh_jid=5003654007
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB As a Software Engineer in the Manufacturing Test organization, you will join a software development team tasked to ensure that we build quality products - in land, sea, and air. You will work with test executive software that can systematically and thoroughly test our products and create analytics to improve our development cycle. You will champion automation, and work to reduce operator time and instruction complexity through the use of parallel execution, 
+
+=== 35 ===
+TITLE: Manufacturing Software Engineer, Intelligence Systems
+LOC: Santa Ana, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB As a Software Engineer in the Manufacturing Test organization, you will join a software development team tasked to ensure that we build quality products - in land, sea, and air. You will develop test executive software that can systematically and thoroughly test our products and create analytics to improve our development cycle. You will champion automation, and work to reduce operator time and instruction complexity through the use of parallel execution, da
+
+=== 36 ===
+TITLE: Business Operations Associate
+LOC: Costa Mesa, California, United States
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007
+REGEX: implicit ec technical
+MANUAL: non-technical associate role
+DESC: Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE JOB Operations Associates at Anduril have two primary responsibilities: Improving Anduril’s Operations: Operations Associates work across & within every division and functional organization to improve the processes that define & support Anduril’s growth. Operations Associates build out data-capture and analytics-reporting muscles to drive positive change over the long term. Executing Special Projects: Operations Associates are frequently pulled into high-priorit
+
+=== 37 ===
+TITLE: Machine Learning Engineer II
+LOC: Dublin, IE
+URL: https://www.pinterestcareers.com/jobs/?gh_jid=7681666
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We’re looking for a machine learning engineer II in our Growth 
+
+=== 38 ===
+TITLE: Software Engineer II
+LOC: Dublin, IE
+URL: https://www.pinterestcareers.com/jobs/?gh_jid=7767046
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . At Pinterest, our mission is to bring everyone the inspiration 
+
+=== 39 ===
+TITLE: Software Engineer II - Discovery and Monetization
+LOC: New York, New York, United States / San Francisco, California, United States / Sunnyvale, California, United States
+URL: https://www.uber.com/careers/list/157638
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: **About the Role** Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products. **About the Team (We are hiring for multiple teams)** Uber is changing the way people think about transportation. Whether it's a ride, a sandwich, or a package, we use technology to give people what they want, when they want it. We're looking for engineers to join our team to help grow UberEats business that enables eaters to discover new food items/restaurants/grocery items and restaurants to grow their customer base. You'll work with teams behind apps used by millions globally every day. In hundreds of cities, people tap their phones to get a ride, get food delivered, or earn extra cash with Uber; we're looking for engineers that can help us ensure every one of those experiences is magical. UberEats ads business enables eaters to discover new foods, and restaurants to grow their customer base. You’ll work with teams behind apps used by millions globally every day and be a part of the technical foundations of a new product. Partners with stakeholders and leads team efforts to build and maintain backend services and solutions to sup
+
+=== 40 ===
+TITLE: Software engineer II, Backend - Platform
+LOC: Sao Paulo, São Paulo, Brazil
+URL: https://www.uber.com/careers/list/155564
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: **About the Role** Please note: this hybrid position is based in São Paulo, Brazil - welcoming both local professionals and those open to relocating to São Paulo. The **Login Services team** sits within **Core Security Engineering** and owns Uber’s authentication platform for both **human and non-human identities**. We build the systems that make login **seamless, secure, and resilient** for Uber’s global workforce and services, so people and workloads can confidently access internal and third-party applications using **strong authentication** with **minimal operational cost**. In this position you will be building the future of authentication at Uber—especially as **agentic workflows** and **non-human identities** become first-class citizens. You’ll drive architecture and execution across major initiatives like building a **security knowledge platform** that computes **risk levels for identities and assets** (human + NHI), and evolving next-generation authentication capabilities (e.g., stronger factors and policy enforcement across critical systems). If you’re excited about building foundational security platforms at massive scale (where reliability, security posture, and automati
+
+=== 41 ===
+TITLE: Technical Support Engineer 2
+LOC: Tokyo, Japan
+URL: https://careers.datadoghq.com/detail/6759702/?gh_jid=6759702
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: We are Datadog's in-house product experts. The Technical Solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers via multi-channel technical support, demos, and presentations. You’ll be joining a team and company where you will be challenged, but also will immediately witness your contributions to Datadog. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Engage with customers via multiple channels (ticketing system, live chat, and screensharing tools) to identify and resolve technical support requests while continuing to educate our clients on the use of the platform Reproduce technical issues and dive into Datadog’s 1000+ integrations Become demo certified and lead a three-pillar demo to customers Participate in product conversations with internal teams based on feedback from client interactions Train as a highly knowledgeab
+
+=== 42 ===
+TITLE: Technical Support Engineer 2, Premier - EMEA
+LOC: Amsterdam, The Netherlands; Dublin, Ireland; Paris, France
+URL: https://careers.datadoghq.com/detail/7496253/?gh_jid=7496253
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: We are Datadog's in-house product experts. The Technical Solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. Premier Support Engineers (PSEs) are primarily focused on assisting prospects and customers with any technical questions about Datadog. PSEs engage with Datadog’s Premier Customers via standard technical support channels, but are also involved with cadence calls, demos/presentations, conferences, and various side projects. You will work directly with Datadog’s Premier Customer base, and will be immersed in a fast-paced environment where you will be challenged, but will also immediately witness your contributions to Datadog and to our customers. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Respond to client requests (phone / chat / tickets) on our fast paced team while continuing to educate our clients on the use of the platform Develop relationships with our Premier Cus
+
+=== 43 ===
+TITLE: Security Engineer II - Vulnerability Lifecycle
+LOC: New York, New York, USA
+URL: https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: Here at Datadog, we think about Vulnerability Management a little bit differently. We embrace open source software, and recognize our role in the software supply chain. We also see how attackers are weaponizing vulnerabilities faster than ever before. That’s why we’re looking for a Security Engineer who can help us scale and improve our overall vulnerability management lifecycle, and take an AI-first approach to addressing vulnerability risk. At Datadog, we place value in our office culture - the relationships and collaboration it builds, and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Reduce engineering toil related to vulnerability remediation through a “PRs, not tickets” approach. Develop and operate automation to increase detection coverage and remediate root cause issues Work with critical partners like SDLC Security, Product Security, and a wide range of engineering teams to “shift left” and reduce upstream vulnerabilities entering our ecosystem. Improve the efficiency of our overall vulnerability management lifecycle through thoughtful use of automation and 
+
+=== 44 ===
+TITLE: Associate Marketing Data Analyst - Marketing Analytics
+LOC: New York, New York, USA
+URL: https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084
+REGEX: explicit ec technical (requirements)
+MANUAL: senior experience required
+DESC: As an Associate Marketing Data Analyst, you will support Datadog’s Marketing Analytics team by ensuring critical marketing data is consistently updated, accurate, and accessible—primarily through the ownership and maintenance of key Excel and Google Sheets relied on across the organization. Alongside this, you will play an important role in maintaining core marketing dashboards to ensure stakeholders, including the VP of Marketing, have reliable and up-to-date insights. You will also evaluate, test, and help implement AI-driven solutions to improve the team’s analytics workflows and data accessibility. In addition, you will support ad-hoc data requests in a fast-paced environment where responsiveness and precision are essential. This is an excellent opportunity to build foundational analytics experience while developing strong business acumen and stakeholder partnership skills. At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them. What You’ll Do: Update and maintain key Excel and Google Shee
+
+=== 45 ===
+TITLE: Frontier AI Research Scientist, DeepMind
+LOC: Mountain View, CA, USA
+URL: https://www.google.com/about/careers/applications/jobs/results/110687296503587526
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: Author research papers to share and generate impact of research results across the team and in the research community. Help in growing research business across teams by sharing research trends and best practices within the community. Define the data structure, framework, design, and evaluation metrics for research solution development and implementation under minimal guidance. Identify timelines and obtain resources needed. Identify new and upcoming research areas by interacting with potential external and internal collaborators. Help in developing long-term research strategy and plans to expand the impact of Google research with some guidance. Contribute to conducting experiments based on the research question. Develop research prototypes or conduct simulations to further evaluate the impact of research, finalize hypotheses, and refine the research methodology under minimal guidance. Minimum qualifications: PhD in Computer Science, a related field, or equivalent practical experience. One or more scientific publication submission(s) for conferences, journals, or public repositories. Preferred qualifications: 2 years of coding experience. 1 year of experience owning and initiating r
+
+=== 46 ===
+TITLE: Technical Services Engineer
+LOC: Sydney
+URL: https://www.mongodb.com/careers/job/?gh_jid=7746718
+REGEX: implicit ec technical
+MANUAL: technical but not early-career
+DESC: Building on the rapid success and adoption of MongoDB, we are delivering applications and services that make it much easier to manage and scale database deployments. These next-generation systems are a growing list but currently include products such as Atlas ( https://cloud.mongodb.com ), Cloud Manager and Compass. MongoDB Technical Services Engineers use their outstanding problem solving and customer service skills, along with their deep technical experience, to advise customers and to solve their complex MongoDB problems. Technical Service Engineers are specialists in the entire MongoDB ecosystem - database server, drivers, our management suite, and services such as Cloud Manager (the online product we developed for customers for automation, backup, monitoring, and analysis of their MongoDB systems). Our engineers combine their MongoDB expertise with passion, initiative, teamwork, and a great sense of humor to achieve exceptional results for our customers. The position will be based in our Sydney or Melbourne offices. The standard work week post ramping will be Sunday to Thursday, every week. Why MongoDB is a fantastic place to work and build your career Be a part of the company
+
+=== 47 ===
+TITLE: Data Engineer, Analytics
+LOC: San Francisco Bay Area
+URL: https://job-boards.greenhouse.io/discord/jobs/8371252002
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games. Discord is looking for an experienced and passionate Data Engineer, Analytics to join our data team! You will be owning the transformation and semantic layer that turns data into clean, tested, well-documented tables and dashboards that data scientists, product managers, and business stakeholders can trust and self-serve from. You'll define and operationalize the metrics that inform how we identify opportunities, measure success, and make decisions. If this sounds exciting to you and you’re passionate about data modeling, metric design, and empowering teams to move faster with reliable data, read on! We're hiring for multiple verticals on our Data Engineering team, including Growth and Safety. What you will b
+
+=== 48 ===
+TITLE: Research Scientist
+LOC: San Jose
+URL: https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R167353
+REGEX: research open level
+MANUAL: technical but not early-career
+DESC: The Opportunity Adobe Research is looking for research scientists in Generative AI to join a world-class research team. We welcome outstanding candidates at all levels (new graduates, experienced, principal) in all related technical fields, such as Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Natural Language Processing. The related applications include image/video generation, image/video editing, image/video understanding, large language models, and multimodal foundation models. What You'll Do · Conduct cutting-edge research and development in Generative AI · Develop and transfer novel technologies to Adobe products · Research and develop novel large-scale foundation models in Generative AI · Collaborate with world-class researchers and engineers to bring research ideas to production · Publish and present your work in world-class scientific venues in AI/ML fields · Provide technical mentorship and guidance. Required Qualifications · Ph.D. in Computer Science, AI/ML or related fields · Excellent publication record in Computer Science, AI/ML or related fields · Excellent communication skills and a strong team player What You'll Bring · Experience in state
+
+=== 49 ===
+TITLE: Software Engineer II - CoreAI
+LOC: Redmond, WA, US
+URL: https://apply.careers.microsoft.com/careers/job/1970393556621082
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: Develop connectors to integrate with diverse customer data sources and seamlessly ingest content into Azure AI Search indexes. Enrich the ingested content with AI/ML capabilities by generating vector embeddings for text and images, extracting key phrases, and transforming unstructured data into structured, meaningful representations. Help transform traditional search indexes into intelligent AI indexes. Building new data representations (natural language, vectors, knowledge graphs). You should have a solid understanding of the software development cycle and will use data and experiments to inform decisions. You'll write secure, reliable, scalable, and maintainable code, and then effectively debug it, test it, and support it in production. System design through well-defined interfaces across multiple components, code reviews, leveraging data/telemetry to make decisions. Maintain operations of live service as issues arise on a rotational, on-call basis. You will participate in creating and sustaining a trusted and effective work environment. We have a growth mindset and passion for continuous learning. You should expect that your teammates will be invested in helping make you success
+
+=== 50 ===
+TITLE: Software Engineer II - CoreAI
+LOC: Redmond, WA, US
+URL: https://apply.careers.microsoft.com/careers/job/1970393556637527
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: Your responsibilities will include designing and maintaining highly available cloud services, developing seamless integrations with other Azure offerings, and creating scalable, secure infrastructure that powers world-class data visualization. You will work with other engineers in the team to design and build a highly secure and highly available large-scaled global service that millions of customers can depend on. You will also Drive the creation of feature designs and lead design discussions with team members, leveraging your expertise to make informed decisions that align with the overall product vision. Participate in code reviews to maintain a high standard of code quality and consistency across the codebase, providing constructive feedback and guidance to team members. Implement comprehensive unit and functional tests, ensuring robust test coverage and reliability of the codebase, and deploy production bits to the Azure environment with a focus on automation and scalability. Establish and maintain telemetry to monitor usage and performance, proactively identifying and addressing potential issues to ensure optimal service delivery and customer satisfaction. Respond to incidents
+
+=== 51 ===
+TITLE: Research Intern - Machine Learning and Optimization
+LOC: Cambridge, MA, US / Redmond, WA, US
+URL: https://apply.careers.microsoft.com/careers/job/1970393556655958
+REGEX: explicit ec technical
+MANUAL: senior experience required
+DESC: Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world's best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Research Interns are expected to design algorithms/models and prototype them, conduct experiments, and analyze results. They are encouraged to show initiative throughout the Research Internship and suggest further directions for research. They are expected to document their ideas, and given suitable results, contribute to a paper. Currently enrolled in a PhD program in Computer Science, Operations Research or a related STEM field. At least 3 years of experience in C# or C++ or Python (or similar language). In addition to the qual
+
+=== 52 ===
+TITLE: Member of Technical Staff - Post-Training
+LOC: Redmond, WA, US / Mountain View, CA, US
+URL: https://apply.careers.microsoft.com/careers/job/1970393556626515
+REGEX: post-training program
+MANUAL: experienced MTS IC
+DESC: Design & Evaluate Datasets - Build high-quality datasets and benchmarks for training AI models; run ablation studies to measure impact and optimize data effectiveness. Advance Model Training - Apply deep expertise in pre-training, post-training, and reinforcement learning (RL) for both language and multimodal models. Develop Data Infrastructure - Create and maintain scalable pipelines for ingestion, preprocessing, filtering, and annotation of large, complex datasets. Data Quality & Analysis - Assess real-world multimodal datasets (text, image, video, audio, code) for quality, diversity, and relevance; identify gaps and propose improvements. Tooling & Workflows - Build lightweight tools for dataset auditing, visualization, and versioning to streamline experimentation. Research & Innovation - Collaborate with cross-functional teams to push research and product boundaries, delivering models that make a real-world impact. Embody our Culture and Values Doctorate in relevant field OR equivalent experience. Software engineering skills with fluency in Python and modern data libraries. Doctorate in relevant field AND 2+ years related research experience OR equivalent experience. Coding expe

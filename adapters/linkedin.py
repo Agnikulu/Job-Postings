@@ -21,6 +21,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_linkedin_description, map_descriptions_parallel
+from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
@@ -131,11 +132,13 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             log.warning("LinkedIn: skipping malformed job for %s: %s", name, e)
             continue
 
-    if jobs:
+    fetch_ids = [j.id for j in jobs if should_fetch_description(j.title)]
+    descs: dict[str, str | None] = {}
+    if fetch_ids:
         descs = map_descriptions_parallel(
-            [j.id for j in jobs],
+            fetch_ids,
             fetch_linkedin_description,
             max_workers=DETAIL_WORKERS,
         )
-        jobs = [replace(j, description=descs.get(j.id)) for j in jobs]
+    jobs = [replace(j, description=descs.get(j.id)) for j in jobs]
     return jobs

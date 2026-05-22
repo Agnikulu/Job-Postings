@@ -25,6 +25,7 @@ import logging
 import os
 import sys
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import replace
 from datetime import datetime, timezone
 from pathlib import Path
@@ -67,6 +68,32 @@ def load_registry(path: Path = REGISTRY_PATH) -> list[dict[str, Any]]:
 
 def _us_filter_enabled() -> bool:
     return os.environ.get("ATS_SNIPER_ALL_LOCATIONS", "").strip() != "1"
+
+
+def _fetch_workers() -> int:
+    raw = os.environ.get("ATS_SNIPER_FETCH_WORKERS", "4").strip()
+    try:
+        n = int(raw)
+    except ValueError:
+        return 1
+    return max(1, min(n, 12))
+
+
+def _fetch_company_jobs(company: dict[str, Any]) -> tuple[str, list[Job] | None, str | None]:
+    """Return (name, jobs, error_message)."""
+    name = company.get("name", "?")
+    ats = company.get("ats")
+    if ats == "tier3_todo":
+        return name, None, "tier3"
+    adapter = ADAPTER_REGISTRY.get(ats)
+    if adapter is None:
+        return name, None, f"unknown ATS {ats!r}"
+    try:
+        return name, adapter(company), None
+    except AdapterError as e:
+        return name, None, str(e)
+    except Exception as e:
+        return name, None, f"unexpected: {e}"
 
 
 def _ascii(s: str | None) -> str:
@@ -132,33 +159,36 @@ def run() -> int:
     new_jobs: list[tuple[Job, bool]] = []
     observed_companies: set[str] = set()
 
-    for company in companies:
-        name = company.get("name", "?")
-        ats = company.get("ats")
+    active = [c for c in companies if c.get("ats") != "tier3_todo"]
+    skipped_tier3 = len(companies) - len(active)
+    workers = _fetch_workers()
+    log.info("Fetching %d companies (%d parallel workers)", len(active), workers)
 
-        if ats == "tier3_todo":
-            skipped_tier3 += 1
-            continue
+    fetched: list[tuple[str, list[Job]]] = []
+    if workers <= 1:
+        for company in active:
+            name, jobs, err = _fetch_company_jobs(company)
+            if err == "tier3":
+                continue
+            if err or jobs is None:
+                log.warning("%s: %s", name, err)
+                failed += 1
+                stats.record(name, postings=0, matches=0)
+                continue
+            fetched.append((name, jobs))
+    else:
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            futs = {pool.submit(_fetch_company_jobs, c): c for c in active}
+            for fut in as_completed(futs):
+                name, jobs, err = fut.result()
+                if err or jobs is None:
+                    log.warning("%s: %s", name, err)
+                    failed += 1
+                    stats.record(name, postings=0, matches=0)
+                    continue
+                fetched.append((name, jobs))
 
-        adapter = ADAPTER_REGISTRY.get(ats)
-        if adapter is None:
-            log.warning("%s: unknown ATS %r — skipping", name, ats)
-            failed += 1
-            continue
-
-        try:
-            jobs = adapter(company)
-        except AdapterError as e:
-            log.warning("%s: %s", name, e)
-            failed += 1
-            stats.record(name, postings=0, matches=0)
-            continue
-        except Exception as e:
-            log.exception("%s: unexpected error (%s) — skipping", name, e)
-            failed += 1
-            stats.record(name, postings=0, matches=0)
-            continue
-
+    for name, jobs in sorted(fetched, key=lambda x: x[0].lower()):
         succeeded += 1
         observed_companies.add(name)
         total_fetched += len(jobs)

@@ -27,6 +27,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_workday_description, map_descriptions_parallel
+from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
@@ -129,14 +130,19 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             log.warning("Workday: skipping malformed job for %s: %s", name, e)
             continue
 
-    if paths_by_id:
+    paths_to_fetch = [
+        paths_by_id[j.id]
+        for j in jobs
+        if j.id in paths_by_id and should_fetch_description(j.title)
+    ]
+    if paths_to_fetch:
         def _fetch(path: str) -> str | None:
             if DETAIL_DELAY_SEC:
                 time.sleep(DETAIL_DELAY_SEC)
             return fetch_workday_description(cxs_base, path)
 
         descriptions = map_descriptions_parallel(
-            list(paths_by_id.values()),
+            paths_to_fetch,
             _fetch,
             max_workers=DETAIL_WORKERS,
         )

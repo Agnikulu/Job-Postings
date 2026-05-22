@@ -8,7 +8,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from description_signals import extract_description_signals, extract_requirements_text
-from filters import classify_title_confidence
+from filters import classify_title_confidence, should_fetch_description
 
 DOORDASH_LIKE = """
 About the Role
@@ -324,6 +324,18 @@ def test_bare_swe_still_excluded_without_team_suffix() -> None:
     conf = classify_title_confidence("Software Engineer", CURSOR_LIKE)
     assert conf.level == "high_exclude"
     assert conf.reason == "no ec in requirements"
+
+
+def test_intern_skips_description_fetch() -> None:
+    assert should_fetch_description("Software Engineer Intern") is False
+
+
+def test_cursor_team_swe_needs_description_fetch() -> None:
+    assert should_fetch_description("Software Engineer, Growth") is True
+
+
+def test_senior_skips_description_fetch() -> None:
+    assert should_fetch_description("Senior Software Engineer") is False
 
 
 def test_perplexity_mts_policy_excluded() -> None:

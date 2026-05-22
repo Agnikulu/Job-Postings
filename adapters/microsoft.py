@@ -20,6 +20,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_microsoft_description, map_descriptions_parallel
+from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
@@ -149,9 +150,10 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             log.warning("Microsoft: skipping malformed job for %s: %s", name, e)
             continue
 
-    if job_ids:
+    fetch_ids = [j.id for j in jobs if should_fetch_description(j.title)]
+    if fetch_ids:
         descriptions = map_descriptions_parallel(
-            job_ids,
+            fetch_ids,
             lambda job_id: fetch_microsoft_description(job_id, base_url=BASE_URL),
             max_workers=DETAIL_WORKERS,
         )

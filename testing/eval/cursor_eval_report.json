@@ -1,0 +1,2036 @@
+{
+  "labeled": 5393,
+  "unlabeled": 0,
+  "overall": {
+    "tp": 145,
+    "fp": 137,
+    "tn": 5079,
+    "fn": 32,
+    "accuracy": 0.9687,
+    "precision": 0.5142,
+    "recall": 0.8192,
+    "f1": 0.6318
+  },
+  "by_company": {
+    "Adobe": {
+      "tn": 99,
+      "tp": 1
+    },
+    "Airbnb": {
+      "tn": 98,
+      "tp": 2
+    },
+    "Anduril": {
+      "tn": 97,
+      "fn": 1,
+      "fp": 2
+    },
+    "Anthropic": {
+      "tn": 97,
+      "tp": 2,
+      "fp": 1
+    },
+    "Apple": {
+      "tn": 82
+    },
+    "Benchling": {
+      "tn": 44,
+      "tp": 1,
+      "fp": 1
+    },
+    "BlackLine": {
+      "tn": 100
+    },
+    "Clay": {
+      "tn": 79,
+      "fp": 2
+    },
+    "Click Therapeutics": {
+      "tn": 7
+    },
+    "ClickHouse": {
+      "tn": 100
+    },
+    "Cognition AI": {
+      "tn": 58,
+      "fp": 1
+    },
+    "Cohere": {
+      "tn": 96,
+      "tp": 3,
+      "fp": 1
+    },
+    "Confluent": {
+      "tn": 52
+    },
+    "CoreWeave": {
+      "tn": 99,
+      "tp": 1
+    },
+    "Cursor": {
+      "fp": 20,
+      "tn": 70
+    },
+    "DRW": {
+      "tn": 85,
+      "fp": 9,
+      "tp": 4,
+      "fn": 2
+    },
+    "Databricks": {
+      "tn": 99,
+      "fp": 1
+    },
+    "Datadog": {
+      "tn": 95,
+      "fn": 3,
+      "fp": 1,
+      "tp": 1
+    },
+    "Discord": {
+      "tn": 74,
+      "fp": 1,
+      "fn": 1
+    },
+    "DoorDash": {
+      "tn": 93,
+      "fp": 1,
+      "tp": 2,
+      "fn": 4
+    },
+    "ElevenLabs": {
+      "tn": 96,
+      "fp": 4
+    },
+    "Enveda Biosciences": {
+      "tn": 4
+    },
+    "Etched": {
+      "tn": 64,
+      "tp": 31,
+      "fn": 5
+    },
+    "EvolutionaryScale": {
+      "tn": 27,
+      "fp": 1,
+      "tp": 4,
+      "fn": 2
+    },
+    "Figma": {
+      "tn": 98,
+      "tp": 1,
+      "fp": 1
+    },
+    "Figure AI": {
+      "tn": 94,
+      "tp": 4,
+      "fn": 1,
+      "fp": 1
+    },
+    "Flatiron Health": {
+      "tn": 17,
+      "tp": 3
+    },
+    "Genesis Therapeutics": {
+      "tn": 30
+    },
+    "GitLab": {
+      "tn": 97,
+      "fp": 3
+    },
+    "Glean": {
+      "tn": 92,
+      "tp": 2,
+      "fn": 1,
+      "fp": 5
+    },
+    "Google": {
+      "tn": 90,
+      "fp": 6,
+      "tp": 4
+    },
+    "Google DeepMind": {
+      "tn": 60,
+      "fp": 1
+    },
+    "Groq": {
+      "tn": 3
+    },
+    "Harvey": {
+      "tn": 100
+    },
+    "Headway": {
+      "tn": 76,
+      "fn": 1
+    },
+    "Hebbia": {
+      "tn": 32,
+      "fp": 1
+    },
+    "Hugging Face": {
+      "tn": 6,
+      "fp": 1
+    },
+    "Inceptive": {
+      "tn": 5,
+      "tp": 1
+    },
+    "Insitro": {
+      "tn": 10
+    },
+    "Lambda Labs": {
+      "tn": 30,
+      "tp": 3
+    },
+    "LangChain": {
+      "tn": 98
+    },
+    "Linear": {
+      "tn": 23
+    },
+    "LinkedIn": {
+      "tn": 95,
+      "tp": 5
+    },
+    "Luma AI": {
+      "tn": 53,
+      "fp": 2,
+      "tp": 1
+    },
+    "Microsoft": {
+      "tn": 93,
+      "tp": 4,
+      "fn": 1,
+      "fp": 2
+    },
+    "Mistral AI": {
+      "tn": 92,
+      "tp": 3,
+      "fp": 5
+    },
+    "MongoDB": {
+      "tn": 97,
+      "tp": 3
+    },
+    "Neon": {
+      "tn": 14
+    },
+    "Netflix": {
+      "tn": 100
+    },
+    "Notion": {
+      "tn": 94,
+      "fp": 3,
+      "tp": 3
+    },
+    "Nvidia": {
+      "tn": 93,
+      "tp": 7
+    },
+    "Palantir": {
+      "tn": 90,
+      "tp": 6,
+      "fn": 2,
+      "fp": 2
+    },
+    "Pathos AI": {
+      "tn": 2
+    },
+    "Perplexity AI": {
+      "tn": 56,
+      "tp": 4,
+      "fn": 1
+    },
+    "Physical Intelligence": {
+      "tn": 20,
+      "tp": 2,
+      "fp": 1
+    },
+    "Pinecone": {
+      "tn": 7
+    },
+    "Pinterest": {
+      "tn": 91,
+      "fp": 2,
+      "tp": 7
+    },
+    "Plaid": {
+      "tn": 77,
+      "tp": 3
+    },
+    "Point72": {
+      "tn": 76,
+      "tp": 11,
+      "fp": 10,
+      "fn": 3
+    },
+    "Ramp": {
+      "tn": 92,
+      "fp": 5,
+      "tp": 3
+    },
+    "Recursion Pharma": {
+      "tn": 37,
+      "tp": 2
+    },
+    "Reddit": {
+      "tn": 99,
+      "fp": 1
+    },
+    "Retool": {
+      "tn": 39
+    },
+    "Rippling": {
+      "tn": 97,
+      "fp": 3
+    },
+    "Roblox": {
+      "tn": 94,
+      "fp": 4,
+      "fn": 2
+    },
+    "Runway ML": {
+      "tn": 33,
+      "fn": 1
+    },
+    "Scale AI": {
+      "tn": 95,
+      "fp": 2,
+      "fn": 1,
+      "tp": 2
+    },
+    "Sierra": {
+      "tn": 84,
+      "fp": 15,
+      "tp": 1
+    },
+    "Snowflake": {
+      "tn": 95,
+      "fp": 3,
+      "tp": 2
+    },
+    "Stripe": {
+      "tn": 96,
+      "fp": 4
+    },
+    "Together AI": {
+      "tn": 52,
+      "fp": 3
+    },
+    "Uber": {
+      "tn": 93,
+      "fp": 3,
+      "tp": 4
+    },
+    "Vercel": {
+      "tn": 78,
+      "fp": 1
+    },
+    "Warp": {
+      "tn": 7,
+      "fp": 1
+    },
+    "Waymo": {
+      "tn": 1
+    },
+    "Xaira Therapeutics": {
+      "tn": 14,
+      "tp": 2
+    },
+    "Zocdoc": {
+      "tn": 47
+    }
+  },
+  "disagreements": [
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Growth",
+      "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Services Platform",
+      "url": "https://jobs.ashbyhq.com/cursor/0863d184-1b2f-42cd-9fca-37fa90efe2eb",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Storage",
+      "url": "https://jobs.ashbyhq.com/cursor/515926c1-f044-4aff-9d5f-0bb84cb7eca2",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Core Services",
+      "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Client Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Enterprise",
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, ML Research",
+      "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Product",
+      "url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Agent Harness",
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Security",
+      "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Bugbot",
+      "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Enterprise Platform",
+      "url": "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Data Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, ML Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Model Routing & Inference",
+      "url": "https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Billing",
+      "url": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, Agent Evaluation and Quality",
+      "url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cursor",
+      "title": "Software Engineer, User Operations",
+      "url": "https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Scale AI",
+      "title": "Software Engineer, Frontier AI Infrastructure",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Scale AI",
+      "title": "[Annotations] Operations Associate",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4655244005",
+      "regex_include": false,
+      "regex_reason": "associate title",
+      "manual_include": true,
+      "manual_reason": "weak ec title + ec requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Scale AI",
+      "title": "Software Engineer, ARC Team",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673771005",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Glean",
+      "title": "Accounting Apprentice",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694878005",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Glean",
+      "title": "Software Engineer, Billing & Revenue Platform",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4675862005",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Glean",
+      "title": "Software Engineer, Context Platform",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4638008005",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Glean",
+      "title": "Software Engineer, Developer Productivity",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4614706005",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Glean",
+      "title": "Cloud Infrastructure Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4547218005",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Glean",
+      "title": "Machine Learning Engineer, Search Quality",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006735005",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Perplexity AI",
+      "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
+      "url": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
+      "regex_include": false,
+      "regex_reason": "experienced mts title",
+      "manual_include": true,
+      "manual_reason": "MTS new-grad welcome"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hugging Face",
+      "title": "Open-Source Machine Learning Engineer - International Remote",
+      "url": "https://apply.workable.com/j/56232F23CB",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Trading Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/6776683",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Research – Cumberland Systematic",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7283668",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Research – Cumberland Systematic",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7743648",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "DRW",
+      "title": "Prediction Markets Trader",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7520816",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Trade Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/6821173",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "DRW",
+      "title": "Junior Strategy and Operations Analyst, Flow Macro (European Market Hours)",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7560394",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Unified Platform - Exchange Data",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/6987958",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Unified Platform - Exchange Data",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7364733",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Cumberland/FICCO Tools Engineering",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7288315",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Research – Cumberland Systematic",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7375738",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "DRW",
+      "title": "Software Engineer, Cumberland/FICCO Tools Engineering",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7392396",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Software Engineer, Backend (New-York)",
+      "url": "https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Software Engineer, Backend (Paris)",
+      "url": "https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Software Engineer,  Frontend",
+      "url": "https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
+      "url": "https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Mistral AI",
+      "title": "Software Engineer, Enterprise Agents",
+      "url": "https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cognition AI",
+      "title": "Research, Post-Training",
+      "url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10",
+      "regex_include": true,
+      "regex_reason": "post-training program",
+      "manual_include": false,
+      "manual_reason": "no ec signal in requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Together AI",
+      "title": "Analytics Engineer — Data Warehouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5101651007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Together AI",
+      "title": "Backend Software Engineer — Data Platform & AI Data Products",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5064263007",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Together AI",
+      "title": "Data Warehouse Engineer",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5074064007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anthropic",
+      "title": "Software Engineer, Research Data Platform",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191226008",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "url": "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297555002?gh_jid=7297555002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Point72",
+      "title": "Point72 Academy 2026 Investment Analyst Program for Experienced Professionals – Hong Kong",
+      "url": "https://boards.greenhouse.io/point72/jobs/8538913002?gh_jid=8538913002",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "url": "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Software Engineer, Treasury Technology",
+      "url": "https://boards.greenhouse.io/point72/jobs/8372913002?gh_jid=8372913002",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Quantitative Researcher - Systematic Credit",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Software Engineer, Back Office Systems",
+      "url": "https://boards.greenhouse.io/point72/jobs/8372908002?gh_jid=8372908002",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Software Engineer, Data Platform",
+      "url": "https://boards.greenhouse.io/point72/jobs/7933630002?gh_jid=7933630002",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Quantitative Analyst / Software Developer",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Point72",
+      "title": "2026 Finance Summer Internship, Warsaw (Payroll)",
+      "url": "https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "technical intern"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Mission Control Specialist",
+      "url": "https://boards.greenhouse.io/point72/jobs/8479488002?gh_jid=8479488002",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Point72",
+      "title": "Point72 Academy 2026 Investment Analyst Program for Experienced Professionals - UK",
+      "url": "https://boards.greenhouse.io/point72/jobs/8500397002?gh_jid=8500397002",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Point72",
+      "title": "Quantitative Software Developer",
+      "url": "https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Runway ML",
+      "title": "Creative Support Specialist",
+      "url": "https://jobs.ashbyhq.com/runway-ml/2ca5c5d1-725d-4c44-907b-5d808ec248fe",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "strong ec in requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Cohere",
+      "title": "Software Engineer, Search Applications",
+      "url": "https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Vercel",
+      "title": "Software Engineer, Next.js",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5993753004",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "Finance Intern - Fall 2026",
+      "url": "https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "technical intern"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "Talent Intern - Spring 2027",
+      "url": "https://jobs.ashbyhq.com/etched/2425e245-6e16-49ca-be54-fb36941af55a",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "technical intern"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "Talent Intern - Summer 2026",
+      "url": "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "technical intern"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "Finance Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/etched/9b060f41-4607-494b-bdcf-57b1e74754ff",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "technical intern"
+    },
+    {
+      "bucket": "fn",
+      "company": "Etched",
+      "title": "Finance Intern - Spring 2027",
+      "url": "https://jobs.ashbyhq.com/etched/e882eeaf-a34b-4f59-98f3-282cbd444508",
+      "regex_include": false,
+      "regex_reason": "non-technical intern",
+      "manual_include": true,
+      "manual_reason": "technical intern"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (Thai Speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (French speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Security",
+      "url": "https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/8646493c-93a6-482e-a810-4a0aa6e3438f",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (Spanish speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (Arabic speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (Italian speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/631848ec-1a74-4067-8b9f-cd04a71aab6d",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (Korean Speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (German speaking)",
+      "url": "https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/787c1efd-2327-46e7-9335-59a20ad4be18",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent",
+      "url": "https://jobs.ashbyhq.com/sierra/8f9d2381-aa28-4ad8-bdbd-8b6a7585b56c",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Hebbia",
+      "title": "Backend Engineer, Agents",
+      "url": "https://jobs.ashbyhq.com/hebbia-ai/1c18a253-3c4d-4e5a-952d-cd35ba690ea7",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Warp",
+      "title": "Product Engineer",
+      "url": "https://jobs.ashbyhq.com/warp/655962db-5fbe-40cc-a072-9522295b3cbc",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Clay",
+      "title": "Software Engineer, Developer Experience (AI)",
+      "url": "https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Clay",
+      "title": "Software Engineer, Backend",
+      "url": "https://jobs.ashbyhq.com/claylabs/248aa0c7-034f-47d3-a57e-ce16736eeab6",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Back-End Leaning)",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Growth Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer (Front-End Leaning)",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Figma",
+      "title": "Software Engineer, Full Stack",
+      "url": "https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Engineering Platform",
+      "url": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Credit",
+      "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Argentina",
+      "url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Ramp",
+      "title": "Software Engineer, Core Product",
+      "url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Notion",
+      "title": "Software Engineer, Data Platform",
+      "url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Notion",
+      "title": "Software Engineer, Product Infrastructure",
+      "url": "https://jobs.ashbyhq.com/notion/d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Notion",
+      "title": "Software Engineer, Agent Dev Velocity",
+      "url": "https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Stripe",
+      "title": "Full Stack Engineer, Enterprise & Ecosystem",
+      "url": "https://stripe.com/jobs/search?gh_jid=7767706",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Stripe",
+      "title": "Backend Engineer, Payments and Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=7232592",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Stripe",
+      "title": "Operations Associate, Apprenticeship",
+      "url": "https://stripe.com/jobs/search?gh_jid=7236933",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Stripe",
+      "title": "Backend Engineer, Core Technology",
+      "url": "https://stripe.com/jobs/search?gh_jid=7182617",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Physical Intelligence",
+      "title": "Research Scientist",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba",
+      "regex_include": true,
+      "regex_reason": "research open level",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Figure AI",
+      "title": "Staff Reinforcement Learning Engineer – Whole Body Control",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4671442006",
+      "regex_include": false,
+      "regex_reason": "senior keyword",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Figure AI",
+      "title": "Mechanical Engineer, Battery",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4656559006",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "EvolutionaryScale",
+      "title": "Group Leader, Immune Cell Reprogramming",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7286324",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "group leader/PI role"
+    },
+    {
+      "bucket": "fn",
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow - Immune Cell Dynamics - Optogenetics",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7779105",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fn",
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Single-Cell Method Development",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7922556",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer, Data Infrastructure - Research",
+      "url": "https://jobs.gem.com/lumalabs-ai/5e6c11ba-de76-4e0c-a024-1003693754eb",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Luma AI",
+      "title": "Software Engineer, Inference",
+      "url": "https://jobs.gem.com/lumalabs-ai/am9icG9zdDo8-N5tRXErv9eJJp_TyVo8",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Databricks",
+      "title": "Customer Enablement Specialist",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431935002",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Headway",
+      "title": "Staff Product Designer, Group Practices",
+      "url": "https://jobs.ashbyhq.com/headway/3e71f549-4318-48ff-9be6-57ffc5f3aece",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Benchling",
+      "title": "Software Engineer, Agents",
+      "url": "https://jobs.ashbyhq.com/benchling/815d941c-dff6-40cb-8307-57695acb37a7",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Roblox",
+      "title": "[2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/7473686?gh_jid=7473686",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Roblox",
+      "title": "[2026] Design & Creative Fellowship",
+      "url": "https://careers.roblox.com/jobs/7779304?gh_jid=7779304",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Roblox",
+      "title": "Software Engineer, Creator Translation",
+      "url": "https://careers.roblox.com/jobs/7786397?gh_jid=7786397",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Roblox",
+      "title": "[SkillBridge] Information Security Fellowship",
+      "url": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Roblox",
+      "title": "[2026] Senior Machine Learning Engineer, Multimodal AI, Computer Vision and Graphics - PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/7323437?gh_jid=7323437",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Roblox",
+      "title": "[2026] Applied Scientist - PhD Intern",
+      "url": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Anduril",
+      "title": "Quality Inspector",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5133851007?gh_jid=5133851007",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "strong ec in requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anduril",
+      "title": "Software Engineer, Manufacturing Test (Roadrunner)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5123245007?gh_jid=5123245007",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Anduril",
+      "title": "Contractor Special Security Officer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5141080007?gh_jid=5141080007",
+      "regex_include": true,
+      "regex_reason": "implicit ec technical",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer II",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7681666",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer II, Core Engineering",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7473497",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Software Engineer II - Grocery & Retail",
+      "url": "https://www.uber.com/careers/list/156728",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Software Engineer II",
+      "url": "https://www.uber.com/careers/list/153611",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Software Engineer II - Discovery and Monetization",
+      "url": "https://www.uber.com/careers/list/157638",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Datadog",
+      "title": "Technical Support Engineer 1 - 2",
+      "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fn",
+      "company": "Datadog",
+      "title": "Technical Support Engineer 1",
+      "url": "https://careers.datadoghq.com/detail/7813863/?gh_jid=7813863",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Datadog",
+      "title": "Security Engineer II - Vulnerability Lifecycle",
+      "url": "https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Datadog",
+      "title": "Technical Support Engineer 1 (Sao Paulo)",
+      "url": "https://careers.datadoghq.com/detail/7919302/?gh_jid=7919302",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google DeepMind",
+      "title": "Frontier AI Research Scientist, DeepMind",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/110687296503587526",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Palantir",
+      "title": "American Tech Fellowship for Veterans",
+      "url": "https://jobs.lever.co/palantir/b88cd6e1-22b7-49d6-b215-1ca262a05728",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Backend Software Engineer - Infrastructure, Foundations",
+      "url": "https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Palantir",
+      "title": "Backend Software Engineer - Defense",
+      "url": "https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fn",
+      "company": "Palantir",
+      "title": "Forward Deployed Engineer - Mixed Reality",
+      "url": "https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fp",
+      "company": "Snowflake",
+      "title": "Software Engineer, Observe by Snowflake",
+      "url": "https://jobs.ashbyhq.com/snowflake/5e571ebe-6cae-4384-a6e2-c151f72ccd41",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Snowflake",
+      "title": "Product Analyst",
+      "url": "https://jobs.ashbyhq.com/snowflake/7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Snowflake",
+      "title": "Software Engineer - Snowflake Postgres",
+      "url": "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "GitLab",
+      "title": "Intermediate Backend Engineer, Database Automation (Ruby)",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481029002",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "GitLab",
+      "title": "Backend Engineer, Analytics Instrumentation (Golang)",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481922002",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "GitLab",
+      "title": "Intermediate Backend Engineer,  SSCS: Supply Chain",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8480565002",
+      "regex_include": true,
+      "regex_reason": "open-level technical ic",
+      "manual_include": false,
+      "manual_reason": "technical but not early-career"
+    },
+    {
+      "bucket": "fp",
+      "company": "Rippling",
+      "title": "Software Engineer II, Backend Full Stack - Financial Product",
+      "url": "https://ats.rippling.com/rippling/jobs/b8488190-09b1-4506-9194-726939df73bd",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Rippling",
+      "title": "Software Engineer  II - Data Infrastructure",
+      "url": "https://ats.rippling.com/rippling/jobs/45ea3dff-e6b6-4092-854f-96cadfc9011e",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Rippling",
+      "title": "Software Engineer II",
+      "url": "https://ats.rippling.com/rippling/jobs/a36e0452-3c4f-4979-8816-f07fd2d99da2",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Discord",
+      "title": "Data Engineer, Analytics",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8371252002",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "Discord",
+      "title": "Product Designer, Ads",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8445676002",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "qualifying early years"
+    },
+    {
+      "bucket": "fp",
+      "company": "Reddit",
+      "title": "iOS Software Engineer, Contributions",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7896378",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical (requirements)",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "DoorDash",
+      "title": "Software Engineer, Machine Learning - Fraud",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5516835",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fn",
+      "company": "DoorDash",
+      "title": "Associate, Dasher & Logistics - Product Operations Strategy & Operations",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7776087",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fn",
+      "company": "DoorDash",
+      "title": "Operations Specialist, Autonomy Tech Support, Labs",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7812074",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fn",
+      "company": "DoorDash",
+      "title": "Service Technician, Service Operations, Labs",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7491310",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "ec keyword in title/requirements"
+    },
+    {
+      "bucket": "fn",
+      "company": "DoorDash",
+      "title": "Associate, Lifecycle Marketing, Retail",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7898797",
+      "regex_include": false,
+      "regex_reason": "ec but non-technical title",
+      "manual_include": true,
+      "manual_reason": "strong ec in requirements"
+    },
+    {
+      "bucket": "fn",
+      "company": "Microsoft",
+      "title": "Technical Support Engineer - Entry Level",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864608",
+      "regex_include": false,
+      "regex_reason": "non-tech",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Site Reliability Engineer II",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853243",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Microsoft",
+      "title": "Software Engineer II - CTJ - POLY",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657018",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google",
+      "title": "Platform Customer Engineer II",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/86831495510926022",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "customer-facing/solutions role"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google",
+      "title": "Software Engineer III, Full Stack, YouTube Music Integrations",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/76249663534965446",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google",
+      "title": "Software Engineer, GKE, PhD, Early Careers",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111178526677181126",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google",
+      "title": "Software Engineer III, Full Stack, Shopping on Gemini",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/102946735717786310",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google",
+      "title": "Software Engineer III, GKE Networking, Google Cloud",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105159119542854342",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    },
+    {
+      "bucket": "fp",
+      "company": "Google",
+      "title": "Research Scientist, Google Research",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/107328491954807494",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
+    }
+  ]
+}

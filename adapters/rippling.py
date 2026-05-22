@@ -21,6 +21,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_rippling_description, map_descriptions_parallel
+from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
@@ -128,11 +129,15 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             log.warning("Rippling: skipping malformed job for %s: %s", slug, e)
             continue
 
-    if jobs:
+    fetch_urls = [
+        j.url for j in jobs if j.url and should_fetch_description(j.title)
+    ]
+    descs: dict[str, str | None] = {}
+    if fetch_urls:
         descs = map_descriptions_parallel(
-            [j.url for j in jobs if j.url],
+            fetch_urls,
             fetch_rippling_description,
             max_workers=DETAIL_WORKERS,
         )
-        jobs = [replace(j, description=descs.get(j.url)) for j in jobs]
+    jobs = [replace(j, description=descs.get(j.url)) for j in jobs]
     return jobs

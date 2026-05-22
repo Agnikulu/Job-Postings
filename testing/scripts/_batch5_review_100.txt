@@ -1,0 +1,600 @@
+=== 100 ===
+TITLE: Senior Analytics Engineer, Product
+LOC: San Francisco, USA (Hybrid)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/6000543004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 101 ===
+TITLE: Senior Cloud Performance Engineer
+LOC: Australia (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5768080004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 102 ===
+TITLE: Engineering Manager - Language clients
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5809712004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 103 ===
+TITLE: Cloud Software Engineer - Observability Platform
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5686805004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 104 ===
+TITLE: Principal Product Manager - ClickHouse Cloud
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5693829004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 105 ===
+TITLE: Strategic Account Executive - Financial Services
+LOC: Chicago, IL
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5987820004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 106 ===
+TITLE: Frontend Engineer - ClickStack
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5832421004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 107 ===
+TITLE: Tax Manager
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5712144004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 108 ===
+TITLE: Core Software Engineer (C++) - Remote
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5755090004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 109 ===
+TITLE: Enterprise Account Executive - ASEAN
+LOC: Singapore (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5833459004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 110 ===
+TITLE: Senior Software Engineer - Cloud Infrastructure
+LOC: Singapore (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819676004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 111 ===
+TITLE: Senior Software Engineer - Python and Data Ecosystem
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5848763004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 112 ===
+TITLE: Senior Analyst, Revenue Operations - Strategy & Planning
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5999850004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 113 ===
+TITLE: Incident Response Security Engineer
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5848200004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 114 ===
+TITLE: Senior Product Operations Manager
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5837408004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 115 ===
+TITLE: Cloud Security Engineer
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5854400004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 116 ===
+TITLE: Senior Field Marketing Manager - EMEA
+LOC: London (EMEA Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5777343004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 117 ===
+TITLE: Senior Software Engineer (Typescript / FrontEnd) - AI/ML
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5996876004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 118 ===
+TITLE: Principal Software Engineer - Postgres
+LOC: India (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/6001255004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 119 ===
+TITLE: Incident Response Security Engineer
+LOC: Singapore (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5848335004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 120 ===
+TITLE: Senior Software Engineer - JVM Language Clients
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5973225004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 121 ===
+TITLE: Strategic Account Executive - Germany
+LOC: Germany
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5969665004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 122 ===
+TITLE: Senior Backend Engineer - Infrastructure (ClickPipes)
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5776991004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 123 ===
+TITLE: QA Engineer - Core Database (remote)
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5654027004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 124 ===
+TITLE: Enterprise Account Executive - Texas
+LOC: Texas
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5809817004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 125 ===
+TITLE: Senior Software Engineer - Python and Data Ecosystem
+LOC: United States (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5842100004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 126 ===
+TITLE: Senior Software Engineer - Python and Data Ecosystem
+LOC: UK (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5848764004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 127 ===
+TITLE: Senior Field Marketing Manager - EMEA
+LOC: Amsterdam (EMEA)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5777518004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 128 ===
+TITLE: Enterprise Account Executive
+LOC: Israel
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5798957004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 129 ===
+TITLE: Database Reliability Engineer - Core Team
+LOC: united states (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843425004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 130 ===
+TITLE: Data Scientist, Finance Forecasting
+LOC: San Francisco, USA (Hybrid)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5970141004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 131 ===
+TITLE: Senior Software Engineer - Python and Data Ecosystem
+LOC: Israel (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5848765004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 132 ===
+TITLE: Enterprise Account Executive - Chicago
+LOC: Chicago
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5856920004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 133 ===
+TITLE: Senior Site Reliability Engineer- Remote
+LOC: Singapore(Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819755004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 134 ===
+TITLE: Senior Full Stack Engineer - ClickStack
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5748778004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 135 ===
+TITLE: Senior Consulting Engineer - India
+LOC: India (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5848328004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 136 ===
+TITLE: Principal Software Engineer - Postgres
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/6001254004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 137 ===
+TITLE: Senior Full Stack Software Engineer - ClickPipes Platform
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5777065004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 138 ===
+TITLE: Principal  Product Manager, Security
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5664427004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 139 ===
+TITLE: Senior Software Engineer - JVM Language Clients
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5973223004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 140 ===
+TITLE: Senior Full Stack Engineer - ClickStack
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5748782004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 141 ===
+TITLE: Cloud Software Engineer - Observability Platform
+LOC: Canada (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5658009004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 142 ===
+TITLE: Enterprise Account Executive - Germany
+LOC: Germany
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5790531004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 143 ===
+TITLE: Senior Product Marketing Manager, Partners
+LOC: United States (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5572781004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 144 ===
+TITLE: Senior Full Stack Software Engineer - ClickPipes Platform
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5777061004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 145 ===
+TITLE: RVP  - NEMEA
+LOC: United Kingdom
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5750172004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 146 ===
+TITLE: Principal Software Engineer - Postgres
+LOC: Netherlands
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/6001256004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 147 ===
+TITLE: Senior Field Marketing Manager - EMEA
+LOC: Stockholm (EMEA Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5777517004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 148 ===
+TITLE: Solutions Architect - LangFuse EMEA
+LOC: United Kingdom, Germany, Netherlands
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5994455004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 149 ===
+TITLE: Senior Software Engineer - Cloud Infrastructure
+LOC: United States(Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819674004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 150 ===
+TITLE: Technical Customer Support Engineer - Australia
+LOC: Australia (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5749051004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 151 ===
+TITLE: Solutions Architect (Presales)
+LOC: Israel
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5798997004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 152 ===
+TITLE: Senior Software Engineer (Typescript / FrontEnd) - AI/ML
+LOC: Canada
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5999695004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 153 ===
+TITLE: Senior Site Reliability Engineer- Remote
+LOC: Canada(remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819757004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 154 ===
+TITLE: Software Engineer - Database Integrations
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5765671004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 155 ===
+TITLE: Product Security Engineer
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5726453004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 156 ===
+TITLE: Principal  Product Manager, Security
+LOC: United States (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5754046004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 157 ===
+TITLE: Senior Site Reliability Engineer- Remote
+LOC: Australia(Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5828333004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 158 ===
+TITLE: Senior Full Stack Engineer - ClickStack
+LOC: Canada (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5748780004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 159 ===
+TITLE: Product Marketing Engineer
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843664004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 160 ===
+TITLE: Senior Product Manager - ClickHouse Cloud
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5807204004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 161 ===
+TITLE: Database Reliability Engineer - Core Team
+LOC: Australia (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843424004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 162 ===
+TITLE: Senior Full Stack Engineer - ClickStack
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5748779004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 163 ===
+TITLE: Core Software Engineer (C++) - Remote
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5755093004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 164 ===
+TITLE: Core Software Engineer (C++) - Remote
+LOC: India (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5767816004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 165 ===
+TITLE: Full Stack Software Engineer - Control Plane
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5587665004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 166 ===
+TITLE: Principal Product Manager, Security
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5664384004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 167 ===
+TITLE: Full Stack Software Engineer - Billing Team
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5584386004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 168 ===
+TITLE: Senior Software Engineer - Postgres
+LOC: Canada
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5996142004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 169 ===
+TITLE: Regional Marketing - Central
+LOC: United States (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/6001971004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 170 ===
+TITLE: Cloud Engineer - Product Metrics
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5755082004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 171 ===
+TITLE: Commercial Account Executive
+LOC: Austin, TX
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5842230004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 172 ===
+TITLE: Core Software Engineer (C++) - Remote
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5755092004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 173 ===
+TITLE: Senior Cloud Performance Engineer
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5768078004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 174 ===
+TITLE: Cloud Platform Engineer - Control Plane
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5802319004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 175 ===
+TITLE: Curriculum Developer & Instructor - AMER
+LOC: United States (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5971734004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 176 ===
+TITLE: Core Software Engineer (C++) - Remote
+LOC: United Kingdom (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5755091004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 177 ===
+TITLE: Data Scientist, Growth
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5777649004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 178 ===
+TITLE: Commercial Account Executive
+LOC: Bay Area, CA
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5842228004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 179 ===
+TITLE: QA Engineer - Core Database (remote)
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5654023004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 180 ===
+TITLE: Frontend Engineer - ClickStack
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5832422004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 181 ===
+TITLE: Senior Software Engineer - Cloud Infrastructure
+LOC: Canada(Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819679004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 182 ===
+TITLE: Senior Site Reliability Engineer- Remote
+LOC: United States(remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819754004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 183 ===
+TITLE: Principal Product Manager - ClickHouse Cloud
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5680774004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 184 ===
+TITLE: Senior Software Engineer - Postgres
+LOC: United States (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5996144004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 185 ===
+TITLE: Product Marketing Engineer
+LOC: United Kingdom
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843666004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 186 ===
+TITLE: Sr Finance Analyst, Product & GTM
+LOC: United States
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5919555004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 187 ===
+TITLE: Solutions Architect - Colombia
+LOC: Colombia
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5783145004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 188 ===
+TITLE: Product Security Engineer
+LOC: Germany (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5802967004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 189 ===
+TITLE: QA Engineer - Core Database (remote)
+LOC: Spain (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5654026004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 190 ===
+TITLE: Senior Software Engineer - Cloud Infrastructure
+LOC: London(Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819677004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 191 ===
+TITLE: Database Reliability Engineer - Core Team
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843421004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 192 ===
+TITLE: Full Stack Software Engineer - Billing Team
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5395374004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 193 ===
+TITLE: Senior Software Engineer - Python and Data Ecosystem
+LOC: Canada (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5842101004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 194 ===
+TITLE: Technical Account Manager Architect - Singapore
+LOC: Singapore (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5810564004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 195 ===
+TITLE: Product Designer
+LOC: United States (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5977068004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 196 ===
+TITLE: Technical Customer Support Engineer - India
+LOC: India (Remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5983191004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 197 ===
+TITLE: Enterprise Account Executive - Bay Area
+LOC: San Francisco
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5809839004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 198 ===
+TITLE: Full Stack Software Engineer - Control Plane
+LOC: Netherlands (remote)
+URL: https://job-boards.greenhouse.io/clickhouse/jobs/5587664004
+DESC: About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads. The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla. We’re on a mission to transform how companies use data. Come be a part of our
+
+=== 199 ===
+TITLE: Head of Growth
+LOC: San Francisco Bay Area
+URL: https://jobs.ashbyhq.com/pathos/d1cb961f-8158-4d68-8ee8-0330700cbce6
+DESC: MISSION Own the arrival of The Path into the public consciousness and turn it into the default name people think of when they hear “AI therapy.” Use creative, data-driven growth to win attention in this new category, scale a free product that reaches people who are not getting help today, and build repeatable engines that drive tens of millions of users toward safe, effective AI therapy. OUTCOMES 1. Category awareness and attention. The Path becomes a top-of-mind brand for AI therapy, visible in press, social media, and search, with clear growth in branded search and organic mentions. 2. Channel testing and winning bets. Rapidly test many growth channels and tactics and identify a small portfolio of scalable winners with known CAC, retention, and playbooks. 3. Research and media flywheel. 
+
