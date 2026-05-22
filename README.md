@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 423
-- **All-time tracked:** 587
+- **Open positions:** 428
+- **All-time tracked:** 592
 - **Active companies:** 79
-- **Last updated:** `2026-05-22 19:01 UTC`
+- **Last updated:** `2026-05-22 19:52 UTC`
 
 ## Legend
 
@@ -31,7 +31,11 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=4&refId=%2F9cwVdLP2Nqs3tNb1iy9LA%3D%3D&trackingId=Akj4tcdyEzXUvMVvsMAdxQ%3D%3D) | May 22, 2026 |
+| Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Remote | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=10&pageNum=4&refId=M7%2Fz%2FHxqzG%2BJlKX9%2BCp3uQ%3D%3D&trackingId=Rp3vP6r2XNNzfg%2Fj7H7vnQ%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=HsXDKZuFncWIyjsDTMaHIg%3D%3D&trackingId=sgGUcIeJuAOSH5rsDmjNjw%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=WIgWKmWJcRgWcEi2SKgLAA%3D%3D&trackingId=AUuoAhR4kHqF4ySJB2rXoQ%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=9&refId=fTfjQPm3BsMDyr9v8RZknQ%3D%3D&trackingId=xfTt2B%2BBOC9CIgkR%2F8bgLQ%3D%3D) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556861512) | May 22, 2026 |
 | Scale AI | Mission Software Engineer, Public Sector 🇺🇸 | Colorado Springs, CO<br>Honolulu, HI<br>St. Louis, MO<br>Washington, DC | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4481921005) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556761675) | May 22, 2026 |
@@ -91,7 +95,6 @@ how to fork, how to add companies, and how filtering works.
 | Point72 | Data Engineer 🇺🇸 | New York | PhD | [Apply](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) | May 21, 2026 |
 | Point72 | Data Scientist 🇺🇸 | Chicago, New York | PhD, Masters, Bachelors | [Apply](https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002) | May 21, 2026 |
 | Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 21, 2026 |
-| Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 21, 2026 |
 | MongoDB | Software Engineer, Code Generation 🇺🇸 | California<br>Colorado<br>Montana<br>Nevada<br>New Mexico<br>Oregon<br>Utah<br>Washington | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7311666) | May 21, 2026 |
 | Lambda Labs | Data Center Mechanical Engineering Intern - 2026 🇺🇸 | San Jose Office (Zanker) | Intern | [Apply](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) | May 21, 2026 |
 | DRW | Trade Systems Engineer 🇺🇸 | Chicago | Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6821173) | May 21, 2026 |
@@ -242,6 +245,7 @@ how to fork, how to add companies, and how filtering works.
 | Pinterest | Software Engineer II, Backend 🇺🇸 | San Francisco, CA, US<br>Seattle, WA, US | Bachelors | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=4813946) | May 18, 2026 |
 | Pinterest | Data Scientist II, Experimentation 🇺🇸 | San Francisco, CA, US<br>Remote, US | PhD | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7896291) | May 18, 2026 |
 | Microsoft | Software Engineer II-Backend Software 🇺🇸 | Vancouver, BC, CA | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556753318) | May 18, 2026 |
+| Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556859896) | May 18, 2026 |
 | Microsoft | Applied AI Engineer II 🇺🇸 | Redmond, WA, US / Atlanta, GA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864775) | May 18, 2026 |
 | Google | Security Engineer II, Uppercase Research 🇺🇸 | Austin, TX, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/75870343834542790) | May 18, 2026 |
 | Adobe | Research Scientist 🇺🇸 | 3 Locations | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166368) | May 18, 2026 |
@@ -286,6 +290,7 @@ how to fork, how to add companies, and how filtering works.
 | Uber | Software Engineer II, Mobile, AV Labs 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/158726) | May 13, 2026 |
 | Ramp | Software Engineer, Credit 🇺🇸 | New York, NY (HQ) | - | [Apply](https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40) | May 13, 2026 |
 | Notion | Software Engineer, Agent Dev Velocity 🇺🇸 | San Francisco, California | - | [Apply](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e) | May 13, 2026 |
+| Microsoft | Software Engineer II, Foundry Agents - CoreAI 🇺🇸 | Redmond, WA, US / Mountain View, CA, US / New York, NY, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556863227) | May 13, 2026 |
 | Microsoft | Software Engineer 2 🇺🇸 | Bengaluru, KA, IN / Hyderabad, TS, IN | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864867) | May 13, 2026 |
 | Google | Equipment Technician, Vacuum, Semiconductor, Raxium 🇺🇸 | Fremont, CA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/81545552558203590) | May 13, 2026 |
 | Nvidia | PhD Research Intern, Security and Privacy - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | May 13, 2026 |
@@ -490,7 +495,9 @@ how to fork, how to add companies, and how filtering works.
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~Uber~~ | ~~Software Engineer II - Back-end & ML/AI Infra 🇺🇸~~ | Seattle, Washington, United States | Masters, Bachelors | Closed | May 21, 2026 |
+| ~~Nvidia~~ | ~~PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸~~ | US, CA, Santa Clara | PhD, Intern | Closed | May 21, 2026 |
 | ~~Microsoft~~ | ~~Software Engineer II 🇺🇸~~ | Hyderabad, TS, IN / Noida, UP, IN / Bengaluru, KA, IN | - | Closed | May 21, 2026 |
 | ~~DoorDash~~ | ~~Software Engineer, Machine Learning - Fraud 🇺🇸~~ | Sunnyvale, CA<br>San Francisco, CA | PhD, Masters | Closed | May 21, 2026 |
 | ~~Microsoft~~ | ~~Stagiaire en opérations critiques / Critical Environment Ops INTERN 🇺🇸~~ | Québec City, QC, CA / Montreal, QC, CA | Intern | Closed | May 21, 2026 |
@@ -508,11 +515,9 @@ how to fork, how to add companies, and how filtering works.
 | ~~Etched~~ | ~~Finance Intern - Summer 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Finance Intern - Fall 2026 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Finance Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
-| ~~Microsoft~~ | ~~Software Engineer II 🇺🇸~~ | Redmond, WA, US | - | Closed | May 18, 2026 |
 | ~~Nvidia~~ | ~~Technical Marketing Engineering Intern, Robotics - Fall 2026 🇺🇸~~ | US, CA, Santa Clara | Intern | Closed | May 18, 2026 |
 | ~~Microsoft~~ | ~~Critical Environment Technician Intern 🇺🇸~~ | Middenmeer, NH, NL | Intern | Closed | May 14, 2026 |
 | ~~Lambda Labs~~ | ~~Capital Markets & Corporate Development Intern - Summer 2026 🇺🇸~~ | San Francisco Office (Fremont St) | Intern | Closed | May 14, 2026 |
-| ~~Microsoft~~ | ~~Software Engineer II, Foundry Agents - CoreAI 🇺🇸~~ | Redmond, WA, US / Mountain View, CA, US / New York, NY, US | - | Closed | May 13, 2026 |
 | ~~Microsoft~~ | ~~Cambridge Internship: Novel Light Source Design 🇺🇸~~ | Cambridge, England, GB | Intern | Closed | May 13, 2026 |
 | ~~Airbnb~~ | ~~Data Science Intern 🇺🇸~~ | United States | Intern | Closed | May 13, 2026 |
 | ~~Point72~~ | ~~Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – US) 🇺🇸~~ | Chicago, Florida, New York, San Francisco | - | Closed | May 11, 2026 |
