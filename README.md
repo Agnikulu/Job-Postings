@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 428
-- **All-time tracked:** 572
+- **Open positions:** 430
+- **All-time tracked:** 580
 - **Active companies:** 79
-- **Last updated:** `2026-05-22 15:23 UTC`
+- **Last updated:** `2026-05-22 17:06 UTC`
 
 ## Legend
 
@@ -31,22 +31,26 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=N216JvHyCq2nVlvQJBwMAg%3D%3D&trackingId=Oz2TMru7iOEFkq7CGPT8bg%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=2&refId=ZI9M%2BRenLn2a3HnzH6OsaA%3D%3D&trackingId=%2F2DXlKSdcdNlEsR7KkdEeA%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=3&refId=InOGOL7%2BJjX0ZCgNXXc3lg%3D%3D&trackingId=k8cSjPimoGhwtvnRR4T3dQ%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=7&pageNum=4&refId=8DnBQtULTAIcQr5cO%2BTN2Q%3D%3D&trackingId=JNxuM3OmEKalZKYSea%2BIFg%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=5yUSNOKXrsATy8l2hx61Cw%3D%3D&trackingId=vIvJvT3fkNkrgxywEAWXBw%3D%3D) | May 22, 2026 |
+| Scale AI | Mission Software Engineer, Public Sector 🇺🇸 | Colorado Springs, CO<br>St. Louis, MO<br>Washington, DC | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4481921005) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=ZEiBolSZupzD1EtAyMRGug%3D%3D&trackingId=fuF2M7a2XK23pIO5VtOSbw%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=QTek17w7u8Hg5%2BQtWwhwAg%3D%3D&trackingId=CrXCA2%2B7fZ0LL2meBRhszQ%3D%3D) | May 22, 2026 |
+| Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556761675) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=2&refId=346X2bMslKcMQAugPI%2B9Ag%3D%3D&trackingId=j5y4x%2BXPTi6ZpmnZLaUjEw%3D%3D) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=8&pageNum=4&refId=iiWbpwfr9voSNWYh%2BSLv6Q%3D%3D&trackingId=NOd2QKF%2FYPrdulKx8GWNaA%3D%3D) | May 22, 2026 |
+| Google | Data Center Technician, Hardware 🇺🇸 | Atlanta, GA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131868960663446214) | May 22, 2026 |
+| DoorDash | DoorDash for Business Support Representative 🇺🇸 | Tempe, AZ | New Grad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7768489) | May 22, 2026 |
 | Anduril | Deployment Systems Technician 🇺🇸 | Waltham, Massachusetts, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062621007?gh_jid=5062621007) | May 22, 2026 |
+| Microsoft | Technical Support Engineering - Entry Level 🇺🇸 | Pune, MH, IN | New Grad | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867925) | May 22, 2026 |
 | Google | Data Center Technician I 🇺🇸 | Lincoln, NE, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/91739328870261446) | May 22, 2026 |
 | Uber | Software Engineer II, AdTech 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/156801) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - Platform Team 🇺🇸 | New York, NY / Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend Full Stack - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/6d996cf7-a72f-40e6-b617-892139f81a2a) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - Financial Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - HR Product 🇺🇸 | New York, NY / San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - Platform Team 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/18d9c9ed-c878-4e78-83a0-6e24cf0bcc9d) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend Full Stack - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/6d996cf7-a72f-40e6-b617-892139f81a2a) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - Financial Product 🇺🇸 | New York, NY / San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/844d2bdf-d672-46d9-a763-6788ba803248) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/86e4b180-a27e-4b86-bc80-6b7cefa2e1c9) | May 22, 2026 |
 | Rippling | Software Engineer II, Backend Full Stack - Financial Product 🇺🇸 | San Francisco, CA / New York, NY / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/b8488190-09b1-4506-9194-726939df73bd) | May 22, 2026 |
-| Rippling | Security Engineer II, Offensive Security 🇺🇸 | New York, NY / Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/e6a1faf6-a9ae-456b-b2a1-009844934956) | May 22, 2026 |
-| Rippling | Software Engineer II, Backend - IT Product 🇺🇸 | San Francisco, CA / Seattle, WA / New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75) | May 22, 2026 |
-| Rippling | Software Engineer II, Frontend Full Stack - HR Product 🇺🇸 | Seattle, WA / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/f64fe029-c299-4ace-9e28-1837a6db1604) | May 22, 2026 |
+| Rippling | Security Engineer II, Offensive Security 🇺🇸 | Seattle, WA / New York, NY / San Francisco, CA | - | [Apply](https://ats.rippling.com/rippling/jobs/e6a1faf6-a9ae-456b-b2a1-009844934956) | May 22, 2026 |
+| Rippling | Software Engineer II, Backend - IT Product 🇺🇸 | New York, NY / San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/ebc7a777-aa35-4333-ac95-ebc98e375f75) | May 22, 2026 |
+| Rippling | Software Engineer II, Frontend Full Stack - HR Product 🇺🇸 | San Francisco, CA / Seattle, WA | - | [Apply](https://ats.rippling.com/rippling/jobs/f64fe029-c299-4ace-9e28-1837a6db1604) | May 22, 2026 |
 | Palantir | Forward Deployed Software Engineer - Warp Speed 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | Washington, D.C. | - | [Apply](https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | Palo Alto, CA | - | [Apply](https://jobs.lever.co/palantir/a8174f9c-6f46-46b4-8e15-d1ff9e37c9eb) | May 22, 2026 |
@@ -64,7 +68,7 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Robotics Software Engineer, Sensor Integration 🇺🇸 | Costa Mesa, California, United States | Masters, Bachelors | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007) | May 22, 2026 |
 | Anduril | Mission Software Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5102918007?gh_jid=5102918007) | May 22, 2026 |
 | Anduril | Mechanical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | Masters, Bachelors, Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007) | May 22, 2026 |
-| Anduril | Maritime Operations Engineer - Mission Autonomy 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007) | May 22, 2026 |
+| Anduril | Maritime Operations Engineer - Mission Autonomy 🇺🇸 | Channel Islands, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007) | May 22, 2026 |
 | Anduril | GSOC Jr Operator 🇺🇸 | Costa Mesa, California, United States | Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007) | May 22, 2026 |
 | Anduril | Electrical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | Bachelors, Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | May 22, 2026 |
 | Anduril | Division Operations Associate 🇺🇸 | Costa Mesa, California, United States | Bachelors, Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5112754007?gh_jid=5112754007) | May 22, 2026 |
@@ -90,7 +94,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 21, 2026 |
 | Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 21, 2026 |
 | MongoDB | Software Engineer, Code Generation 🇺🇸 | California<br>Colorado<br>Montana<br>Nevada<br>New Mexico<br>Oregon<br>Utah<br>Washington | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7311666) | May 21, 2026 |
-| Microsoft | Software Engineer II 🇺🇸 | Hyderabad, TS, IN / Noida, UP, IN / Bengaluru, KA, IN | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556753903) | May 21, 2026 |
 | Lambda Labs | Data Center Mechanical Engineering Intern - 2026 🇺🇸 | San Jose Office (Zanker) | Intern | [Apply](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) | May 21, 2026 |
 | DRW | Trade Systems Engineer 🇺🇸 | Chicago | Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6821173) | May 21, 2026 |
 | DoorDash | Systems Engineer 🇺🇸 | San Francisco, CA<br>Oakland, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) | May 21, 2026 |
@@ -429,7 +432,6 @@ how to fork, how to add companies, and how filtering works.
 | Etched | DV Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb) | Feb 07, 2026 |
 | Etched | Mech / Thermal Intern - Summer 2026 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | Feb 07, 2026 |
 | Google | Hardware Validation Engineer, ML Products, University Graduate 🇺🇸 | Sunnyvale, CA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/jobs/results/107128442041836230) | Jan 27, 2026 |
-| Google | Hardware Test Engineer, University Graduate, Platforms Infrastructure 🇺🇸 | Sunnyvale, CA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/jobs/results/123320124345066182) | Jan 27, 2026 |
 | Cursor | Software Engineer, ML Research 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14) | Jan 27, 2026 |
 | Cursor | Software Engineer, ML Infrastructure 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9) | Jan 27, 2026 |
 | Ramp | Software Engineer, Core Product 🇺🇸 | New York, NY (HQ) | - | [Apply](https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae) | Jan 20, 2026 |
@@ -462,12 +464,11 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (144)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (150)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| ~~Microsoft~~ | ~~Technical Support Engineering - Entry Level 🇺🇸~~ | Pune, MH, IN | New Grad | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
@@ -483,6 +484,12 @@ how to fork, how to add companies, and how filtering works.
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~Microsoft~~ | ~~Software Engineer II 🇺🇸~~ | Hyderabad, TS, IN / Noida, UP, IN / Bengaluru, KA, IN | - | Closed | May 21, 2026 |
 | ~~Microsoft~~ | ~~Stagiaire en opérations critiques / Critical Environment Ops INTERN 🇺🇸~~ | Québec City, QC, CA / Montreal, QC, CA | Intern | Closed | May 21, 2026 |
 | ~~Google~~ | ~~Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸~~ | Atlanta, GA, USA | New Grad | Closed | May 20, 2026 |
 | ~~Roblox~~ | ~~[2026] Design & Creative Fellowship 🇺🇸~~ | San Mateo, CA, United States | - | Closed | May 20, 2026 |
@@ -537,6 +544,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Microsoft~~ | ~~Research Intern - Applied Speech Research 🇺🇸~~ | Berkeley, CA, US / Burlington, MA, US | Intern | Closed | Feb 04, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Agentic Programming 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Feb 03, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Applied Sciences Group 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Jan 28, 2026 |
+| ~~Google~~ | ~~Hardware Test Engineer, University Graduate, Platforms Infrastructure 🇺🇸~~ | Sunnyvale, CA, USA | New Grad | Closed | Jan 27, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - AI Systems and Tools 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Jan 27, 2026 |
 | ~~Google~~ | ~~Hardware Test Engineer, University Graduate, Platforms Infrastructure 🇺🇸~~ | Sunnyvale, CA, USA | New Grad | Closed | Jan 27, 2026 |
 | ~~Google~~ | ~~Hardware Validation Engineer, ML Products, University Graduate 🇺🇸~~ | Sunnyvale, CA, USA | New Grad | Closed | Jan 27, 2026 |
