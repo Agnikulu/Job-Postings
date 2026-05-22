@@ -20,6 +20,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_apple_description, map_descriptions_parallel
+from fetch_limits import max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -94,7 +95,7 @@ def _parse_page(text: str) -> list[dict[str, str]]:
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     all_raw: list[dict[str, str]] = []
-    for page in range(1, MAX_PAGES + 1):
+    for page in range(1, max_list_pages(MAX_PAGES) + 1):
         try:
             page_jobs = _parse_page(_get_page(page))
         except requests.HTTPError as e:

@@ -20,6 +20,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_microsoft_description, map_descriptions_parallel
+from fetch_limits import max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -97,7 +98,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     all_raw: list[dict[str, Any]] = []
     start = 0
     total: int | None = None
-    for page_num in range(MAX_PAGES):
+    for page_num in range(max_list_pages(MAX_PAGES)):
         if page_num:
             time.sleep(PAGE_DELAY_SEC)
         try:

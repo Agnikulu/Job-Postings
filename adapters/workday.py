@@ -27,6 +27,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_workday_description, map_descriptions_parallel
+from fetch_limits import max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -82,7 +83,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     cxs_base = f"https://{tenant}.{wd_pod}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
 
     all_raw: list[dict[str, Any]] = []
-    for page in range(MAX_PAGES):
+    for page in range(max_list_pages(MAX_PAGES)):
         offset = page * PAGE_SIZE
         try:
             payload = _post_page(url, offset)

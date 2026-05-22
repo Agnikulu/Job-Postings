@@ -42,6 +42,24 @@ def test_eightfold_fetch_maps_fields() -> None:
     assert jobs[0].ats == "eightfold"
 
 
+def test_google_careers_builds_sidebar_filter_params() -> None:
+    from adapters.google_careers import _build_query_params
+
+    company = {
+        "google_company": "Google",
+        "google_target_levels": ["EARLY", "INTERN_AND_APPRENTICE"],
+        "google_sort_by": "date",
+        "google_location": "United States",
+    }
+    params = _build_query_params(company, page=3)
+    assert ("page", "3") in params
+    assert ("company", "Google") in params
+    assert ("location", "United States") in params
+    assert params.count(("target_level", "EARLY")) == 1
+    assert params.count(("target_level", "INTERN_AND_APPRENTICE")) == 1
+    assert ("sort_by", "date") in params
+
+
 def test_google_careers_fetch_maps_fields() -> None:
     page_jobs = [
         [
@@ -61,8 +79,11 @@ def test_google_careers_fetch_maps_fields() -> None:
         ]
     ]
     company = {"name": "Google", "category": "big_tech"}
-    with patch("adapters.google_careers._get_page", side_effect=[page_jobs, []]):
+    with patch(
+        "adapters.google_careers._get_page", side_effect=[page_jobs, []]
+    ) as mock_get:
         jobs = fetch_google_careers(company)
+    assert mock_get.call_args_list[0][0][0][0] == ("page", "1")
     assert len(jobs) == 1
     assert jobs[0].location == "Sunnyvale, CA, USA"
     assert jobs[0].ats == "google_careers"

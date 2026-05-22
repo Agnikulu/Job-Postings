@@ -21,6 +21,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_linkedin_description, map_descriptions_parallel
+from fetch_limits import max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -97,7 +98,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     location = company.get("search_location") or "United States"
 
     all_raw: list[dict[str, str]] = []
-    for page in range(MAX_PAGES):
+    for page in range(max_list_pages(MAX_PAGES)):
         start = page * PAGE_SIZE
         try:
             page_jobs = _parse_page(_get_page(company_id, start, location))

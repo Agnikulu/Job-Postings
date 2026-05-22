@@ -1,7 +1,13 @@
 """Google Careers adapter (careers.google.com HTML embedded data).
 
 Parses AF_initDataCallback payloads from the public job search results pages.
-Supports optional company filter via the `google_company` yaml field.
+
+Optional YAML filters (same query params as the careers sidebar):
+  google_company       — Organizations filter (e.g. DeepMind, Waymo)
+  google_location      — Locations filter
+  google_q             — "What do you want to do?" search box
+  google_target_levels — list of target_level values (EARLY, INTERN_AND_APPRENTICE, …)
+  google_sort_by       — e.g. date
 """
 
 from __future__ import annotations
@@ -21,6 +27,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_google_description, map_descriptions_parallel
+from fetch_limits import max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -36,16 +43,44 @@ MAX_PAGES = 200
 DETAIL_WORKERS = 8
 
 
+def _build_query_params(company: dict[str, Any], page: int) -> list[tuple[str, str]]:
+    """Build GET query params; repeated keys for multi-select sidebar filters."""
+    params: list[tuple[str, str]] = [("page", str(page))]
+
+    if google_company := company.get("google_company"):
+        params.append(("company", str(google_company)))
+
+    if location := company.get("google_location"):
+        params.append(("location", str(location)))
+
+    if query := company.get("google_q"):
+        params.append(("q", str(query)))
+
+    levels = company.get("google_target_levels")
+    if levels is None:
+        single = company.get("google_target_level")
+        levels = [single] if single else []
+    if isinstance(levels, str):
+        levels = [levels]
+    for level in levels:
+        if level:
+            params.append(("target_level", str(level)))
+
+    if sort_by := company.get("google_sort_by"):
+        params.append(("sort_by", str(sort_by)))
+
+    return params
+
+
 @retry(
     reraise=True,
     stop=stop_after_attempt(3),
     wait=wait_exponential(multiplier=1, min=2, max=10),
     retry=retry_if_exception_type(requests.RequestException),
 )
-def _get_page(page: int, extra_params: dict[str, str]) -> list[list[Any]]:
-    params = {"page": page, **extra_params}
+def _get_page(query: list[tuple[str, str]]) -> list[list[Any]]:
     headers = {**DEFAULT_HEADERS, "Accept": "text/html,application/json,*/*"}
-    resp = requests.get(RESULTS_URL, params=params, headers=headers, timeout=DEFAULT_TIMEOUT)
+    resp = requests.get(RESULTS_URL, params=query, headers=headers, timeout=DEFAULT_TIMEOUT)
     resp.raise_for_status()
     match = _DATA_RE.search(resp.text)
     if not match:
@@ -90,15 +125,11 @@ def _normalize_url(job_id: str, raw_url: str) -> str:
 
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
-    extra: dict[str, str] = {}
-    google_company = company.get("google_company")
-    if google_company:
-        extra["company"] = google_company
 
     all_raw: list[list[Any]] = []
-    for page in range(1, MAX_PAGES + 1):
+    for page in range(1, max_list_pages(MAX_PAGES) + 1):
         try:
-            page_jobs = _get_page(page, extra)
+            page_jobs = _get_page(_build_query_params(company, page))
         except requests.HTTPError as e:
             raise AdapterError(
                 f"Google Careers HTTP {e.response.status_code} for {name} page {page}"

@@ -36,6 +36,7 @@ import yaml
 import notifier
 import render_readme
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
+from fetch_limits import cap_job_list
 from company_stats import CompanyStats
 from date_parser import parse_posted_date
 from classifier import classify_job
@@ -89,7 +90,8 @@ def _fetch_company_jobs(company: dict[str, Any]) -> tuple[str, list[Job] | None,
     if adapter is None:
         return name, None, f"unknown ATS {ats!r}"
     try:
-        return name, adapter(company), None
+        jobs = cap_job_list(name, adapter(company))
+        return name, jobs, None
     except AdapterError as e:
         return name, None, str(e)
     except Exception as e:
@@ -175,6 +177,7 @@ def run() -> int:
                 failed += 1
                 stats.record(name, postings=0, matches=0)
                 continue
+            log.info("%s: fetched %d postings", name, len(jobs))
             fetched.append((name, jobs))
     else:
         with ThreadPoolExecutor(max_workers=workers) as pool:
@@ -186,6 +189,7 @@ def run() -> int:
                     failed += 1
                     stats.record(name, postings=0, matches=0)
                     continue
+                log.info("%s: fetched %d postings", name, len(jobs))
                 fetched.append((name, jobs))
 
     for name, jobs in sorted(fetched, key=lambda x: x[0].lower()):

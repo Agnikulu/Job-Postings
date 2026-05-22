@@ -12,6 +12,9 @@
 #     tenant:    Workday tenant subdomain.
 #     wd_pod:    Workday pod (wd1, wd3, wd5, etc.) — check the careers URL.
 #     site:      External career site identifier in the URL path.
+#     # google_careers-specific (sidebar URL params):
+#     google_company, google_location, google_q,
+#     google_target_levels (list), google_sort_by
 #     note:      (optional) Free-form note (used for tier3_todo entries).
 #
 # All non-tier3 entries below have been verified via discovery.py against the
@@ -457,6 +460,11 @@
 
 - name: Google
   ats: google_careers
+  # Sidebar filters → ~400 EC/intern postings vs ~4k unfiltered (sort_by=date for recency).
+  google_target_levels:
+    - EARLY
+    - INTERN_AND_APPRENTICE
+  google_sort_by: date
   category: big_tech
 
 - name: Apple

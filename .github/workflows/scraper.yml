@@ -17,7 +17,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
 
     steps:
       - name: Checkout
@@ -39,6 +39,9 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           PYTHONUNBUFFERED: "1"
           ATS_SNIPER_FETCH_WORKERS: "4"
+          # Keep hourly runs inside the job budget (Google can return ~4k jobs at 200 pages).
+          ATS_SNIPER_MAX_LIST_PAGES: "60"
+          ATS_SNIPER_MAX_JOBS_PER_COMPANY: "1200"
         run: python scraper.py
 
       - name: Commit updated state
