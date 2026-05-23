@@ -76,7 +76,10 @@ def _parse_page(text: str) -> list[dict[str, str]]:
         loc_match = re.search(r"job-search-card__location[^>]*>\s*([^<]+)", card)
         time_match = re.search(r"job-search-card__listdate[^>]*>\s*([^<]+)", card)
         title = html.unescape(title_match.group(1).strip()) if title_match else ""
-        url = html.unescape(link_match.group(1).strip()) if link_match else ""
+        raw_url = html.unescape(link_match.group(1).strip()) if link_match else ""
+        # Use a canonical URL (no tracking query params) so the same job
+        # posted at different pagination offsets deduplicates correctly.
+        url = f"https://www.linkedin.com/jobs/view/{job_id}" if job_id else raw_url
         location = html.unescape(loc_match.group(1).strip()) if loc_match else ""
         posted_at = html.unescape(time_match.group(1).strip()) if time_match else None
         if title and url:

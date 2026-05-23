@@ -51,7 +51,7 @@ TARGET = re.compile(
 
 ANTI = re.compile(
     r"\b("
-    r"senior|sr\.?|lead|"
+    r"senior|sr\.?|lead(?:er)?|postdoctoral|postdoc|"
     r"manager|principal|director|"
     r"head\s+of|staff|"
     r"vp|vice\s+president|president"
@@ -244,7 +244,7 @@ _OPEN_LEVEL_IC_TITLE = re.compile(
 )
 
 _PHD_EARLY_CAREER_OVERRIDE = re.compile(
-    r"\b(?:phd\s+early\s+career|early\s+career|\[202[4-9]\])\b",
+    r"\b(?:phd\s+early\s+career|early\s+career)\b",
     re.IGNORECASE,
 )
 
@@ -278,6 +278,8 @@ _OBVIOUS_SENIOR = re.compile(
     r"\b("
     r"senior|sr\.?|principal|director|"
     r"manager|head\s+of|"
+    r"group\s+leader|team\s+leader|"
+    r"postdoc(?:toral)?|"
     r"vp|vice\s+president|president"
     r")\b",
     re.IGNORECASE,
@@ -302,18 +304,39 @@ _OBVIOUS_LEAD = re.compile(
 # Unmistakably non-technical — never SWE/DS/AI-ML intern or new grad targets.
 _OBVIOUS_NON_TECH = re.compile(
     r"\b("
+    # HR / recruiting
     r"(?:campus\s+)?recruiting(?:\s+specialist|\s+coordinator|\s+manager)?|"
     r"talent\s+(?:acquisition|partner|coordinator)|"
     r"human\s+resources|\bhr\s+(?:generalist|business\s+partner|coordinator)|"
+    # Sales / marketing
     r"(?:marketing|sales|account)\s+(?:intern|manager|director|coordinator|"
     r"representative|specialist)|"
     r"business\s+development\s+representative|"
     r"(?:strategic\s+)?sales\s+development\s+representative|"
+    r"(?:enterprise|commercial|inside|field)\s+sales\s+(?:manager|representative|intern)|"
+    r"account\s+executive|solutions\s+consultant|"
+    r"customer\s+success\s+(?:manager|associate|specialist)|"
+    # Legal / finance / admin
     r"legal\s+(?:counsel|intern)|"
     r"(?:corporate|tax|financial)\s+accountant|"
     r"paralegal|"
+    r"(?:finance|accounting|treasury)\s+(?:intern|analyst(?!\s+engineer)|associate)|"
+    # Project / program management (non-eng)
+    r"program\s+manager(?!\s+(?:technical|engineering))|"
+    r"project\s+manager|"
+    r"technical\s+program\s+manager|"
+    r"(?:product|brand|content|growth|communications?)\s+manager(?!\s+engineer)|"
+    # Retail / store
     r"retail\s+(?:specialist|expert)|"
-    r"store\s+(?:manager|leader)"
+    r"store\s+(?:manager|leader)|"
+    # Physical / trades / field roles
+    r"(?:data\s+center|network|field)\s+technician|"
+    r"(?:it|desktop|help\s+desk)\s+technician|"
+    r"(?:network|cable|fiber)\s+(?:installer|technician)|"
+    r"field\s+(?:service|operations)\s+engineer(?:\s+i+\b)?|"
+    r"network\s+operations\s+(?:center\s+)?(?:technician|engineer|specialist)|"
+    r"lab\s+technician|laboratory\s+technician|"
+    r"manufacturing\s+technician|production\s+technician|quality\s+technician"
     r")\b",
     re.IGNORECASE,
 )

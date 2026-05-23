@@ -91,7 +91,7 @@ _NEW_GRAD = re.compile(
 _TITLE_NEW_GRAD = re.compile(
     r"\b("
     r"new[\s-]?grad(?:uate)?|new\s+college\s+grad|university\s+graduate|"
-    r"early[\s-]career|entry[\s-]level|campus|202[4-9]"
+    r"early[\s-]career|entry[\s-]level|campus"
     r")\b",
     re.IGNORECASE,
 )
@@ -166,7 +166,7 @@ def _scan_student_and_required(req: str, title: str) -> list[str]:
     elif _NEW_GRAD.search(blob) and has_explicit_ec_title(title):
         tags.append("New Grad")
 
-    if _INTERN.search(title) or _INTERN.search(req):
+    if _INTERN.search(title):
         tags.append("Intern")
 
     return tags

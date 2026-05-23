@@ -218,6 +218,9 @@ def test_is_us_location_none() -> None:
     ("Marketing Intern", True),
     ("Campus Recruiting Specialist", True),
     ("Talent Acquisition Coordinator", True),
+    ("Group Leader, Immune Cell Reprogramming", True),
+    ("Postdoctoral Researcher", True),
+    ("Postdoc Fellow, Machine Learning", True),
     ("", True),
     # Must reach LLM — never pre-filter
     ("Member of Technical Staff", False),
@@ -282,6 +285,36 @@ def test_tech_fellowship_included() -> None:
     conf = classify_title_confidence("American Tech Fellowship for Veterans")
     assert conf.level == "high_include"
     assert conf.reason == "fellowship program"
+
+
+def test_group_leader_excluded() -> None:
+    conf = classify_title_confidence(
+        "Group Leader, Immune Cell Reprogramming",
+        "PhD required. Looking for experienced group leader.",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_postdoctoral_excluded() -> None:
+    conf = classify_title_confidence("Postdoctoral Researcher, ML Systems")
+    assert conf.level == "high_exclude"
+
+
+def test_program_manager_intern_excluded() -> None:
+    conf = classify_title_confidence(
+        "Program Manager, uBecome Intern Experience & Community"
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_network_operations_technician_excluded() -> None:
+    conf = classify_title_confidence("Network Operations Technician")
+    assert conf.level == "high_exclude"
+
+
+def test_data_center_technician_excluded() -> None:
+    conf = classify_title_confidence("Data Center Technician")
+    assert conf.level == "high_exclude"
 
 
 def test_classify_title_confidence_mts_excluded() -> None:

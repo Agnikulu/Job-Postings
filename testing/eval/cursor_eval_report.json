@@ -2,14 +2,14 @@
   "labeled": 5393,
   "unlabeled": 0,
   "overall": {
-    "tp": 138,
-    "fp": 32,
-    "tn": 5184,
-    "fn": 39,
-    "accuracy": 0.9868,
-    "precision": 0.8118,
-    "recall": 0.7797,
-    "f1": 0.7954
+    "tp": 135,
+    "fp": 31,
+    "tn": 5185,
+    "fn": 42,
+    "accuracy": 0.9865,
+    "precision": 0.8133,
+    "recall": 0.7627,
+    "f1": 0.7872
   },
   "by_company": {
     "Adobe": {
@@ -103,10 +103,9 @@
       "fn": 5
     },
     "EvolutionaryScale": {
-      "tn": 27,
-      "fp": 1,
-      "tp": 4,
-      "fn": 2
+      "tn": 28,
+      "tp": 1,
+      "fn": 5
     },
     "Figma": {
       "tn": 99,
@@ -547,7 +546,7 @@
       "title": "Finance Intern - Fall 2026",
       "url": "https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553",
       "regex_include": false,
-      "regex_reason": "non-technical intern",
+      "regex_reason": "non-tech",
       "manual_include": true,
       "manual_reason": "technical intern"
     },
@@ -577,7 +576,7 @@
       "title": "Finance Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/etched/9b060f41-4607-494b-bdcf-57b1e74754ff",
       "regex_include": false,
-      "regex_reason": "non-technical intern",
+      "regex_reason": "non-tech",
       "manual_include": true,
       "manual_reason": "technical intern"
     },
@@ -587,7 +586,7 @@
       "title": "Finance Intern - Spring 2027",
       "url": "https://jobs.ashbyhq.com/etched/e882eeaf-a34b-4f59-98f3-282cbd444508",
       "regex_include": false,
-      "regex_reason": "non-technical intern",
+      "regex_reason": "non-tech",
       "manual_include": true,
       "manual_reason": "technical intern"
     },
@@ -642,22 +641,32 @@
       "manual_reason": "senior experience required"
     },
     {
-      "bucket": "fp",
-      "company": "EvolutionaryScale",
-      "title": "Group Leader, Immune Cell Reprogramming",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7286324",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "group leader/PI role"
-    },
-    {
       "bucket": "fn",
       "company": "EvolutionaryScale",
       "title": "Postdoctoral Fellow - Immune Cell Dynamics - Optogenetics",
       "url": "https://job-boards.greenhouse.io/biohub/jobs/7779105",
       "regex_include": false,
-      "regex_reason": "ec but non-technical title",
+      "regex_reason": "senior/management",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fn",
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Live Tissue Omics",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7769739",
+      "regex_include": false,
+      "regex_reason": "senior/management",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fn",
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Single-Cell Genomics",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7769713",
+      "regex_include": false,
+      "regex_reason": "senior/management",
       "manual_include": true,
       "manual_reason": "explicit ec title"
     },
@@ -667,7 +676,17 @@
       "title": "Postdoctoral Fellow, Single-Cell Method Development",
       "url": "https://job-boards.greenhouse.io/biohub/jobs/7922556",
       "regex_include": false,
-      "regex_reason": "ec but non-technical title",
+      "regex_reason": "senior/management",
+      "manual_include": true,
+      "manual_reason": "explicit ec title"
+    },
+    {
+      "bucket": "fn",
+      "company": "EvolutionaryScale",
+      "title": "Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/7658780",
+      "regex_include": false,
+      "regex_reason": "senior/management",
       "manual_include": true,
       "manual_reason": "explicit ec title"
     },

@@ -168,16 +168,16 @@ Rigorous manual labels on **5,393** fetched jobs (up to ~100/company sample), me
 | Metric | Regex vs manual |
 |--------|-----------------|
 | Accuracy | **98.7%** |
-| Precision | **81.2%** (32 FP) |
-| Recall | **78.0%** (39 FN) |
-| F1 | **0.80** |
+| Precision | **81.3%** (31 FP) |
+| Recall | **76.3%** (42 FN) |
+| F1 | **0.79** |
 | Manual includes (ground truth) | 177 (3.3% of jobs) |
 
 **Recent filter changes:** exclude mid-level ladder titles (Engineer II/III, L4+), tighten `open-level technical ic` to require real EC signals in requirements, and tag education from the qualifications section (student vs degree-required vs new grad).
 
-**Remaining false positives:** mostly `explicit ec technical` on titles that still slip through without YOE in the parsed requirements block.
+**Remaining false positives (31):** mostly `explicit ec technical` / `implicit ec technical` on experienced IC titles (Research Scientist, Quant Researcher) whose descriptions have strong entry-level signals but whose titles don't say "new grad / intern". Also bare SWE titles at companies like Snowflake/Discord where the description implies new-grad but the title is level-less.
 
-**Remaining false negatives:** some forward-deployed / bare SWE titles with EC only in unparsed description sections, plus a few intern/support edge cases.
+**Remaining false negatives (42):** (a) Engineer II/III and Software Engineer 3 across Pinterest, MongoDB, Google — excluded by experienced-level title guard but sometimes used for new-grad cohorts; (b) non-technical EC roles (ops, finance, talent interns) that fall outside the tech-domain scope; (c) forward-deployed / support-engineer edge cases; (d) postdoctoral fellows at ML companies, intentionally excluded as out-of-scope for new-grad targeting.
 
 Re-run scoring after filter changes:
 

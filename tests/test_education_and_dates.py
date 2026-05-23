@@ -83,6 +83,32 @@ def test_entry_level_title_only_not_new_grad_from_body() -> None:
     assert "New Grad" not in tags
 
 
+def test_residency_program_not_tagged_intern() -> None:
+    tags = extract_education_levels(
+        "Network Operations Residency Program, University Graduate, August 2026 Start",
+        requirements_text="Looking for recent university graduates.",
+    )
+    assert "Intern" not in tags
+    assert "New Grad" in tags
+
+
+def test_year_in_title_alone_not_new_grad() -> None:
+    tags = extract_education_levels(
+        "Software Engineer, 2026",
+        requirements_text=None,
+    )
+    assert "New Grad" not in tags
+
+
+def test_intern_from_req_mention_not_tagged() -> None:
+    tags = extract_education_levels(
+        "University Graduate - Software Engineer",
+        requirements_text="Prior internship experience is a plus.",
+    )
+    assert "Intern" not in tags
+    assert "New Grad" in tags
+
+
 # =============================================================================
 # Posted-date parsing
 # =============================================================================
