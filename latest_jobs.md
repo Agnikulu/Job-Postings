@@ -1,7 +1,7 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-23 19:48 UTC  
-**New matches this run:** 240  
+**Run timestamp:** 2026-05-23 20:10 UTC  
+**New matches this run:** 250  
 **Location filter:** US-only
 
 
@@ -147,6 +147,20 @@ Grouped by company (sorted by match count):
 - **[TECH]** [RTL Intern](https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) - *San Jose*
 - **[TECH]** [Supercomputing Intern](https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) - *San Jose*
 - **[TECH]** [Thermo-Mech CFD Simulation Intern](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff) - *San Jose*
+
+## Meta - 11 new (11 technical)
+
+- **[TECH]** [AI Research Engineer - Social Products (Technical Leadership)](https://www.linkedin.com/jobs/view/4398688884) - *Bellevue, WA*
+- **[TECH]** [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4286778495) - *Redmond, WA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312039282) - *Boston, MA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4324709679) - *San Francisco, CA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312033417) - *Menlo Park, CA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312043129) - *Seattle, WA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312023968) - *Bellevue, WA*
+- **[TECH]** [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.linkedin.com/jobs/view/4295617161) - *Redmond, WA*
+- **[TECH]** [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.linkedin.com/jobs/view/4301800816) - *Bellevue, WA*
+- **[TECH]** [Research Scientist Intern, Robotic Control Policy (PhD)](https://www.linkedin.com/jobs/view/4291466172) - *Redmond, WA*
+- **[TECH]** [Research Scientist Intern, Robotic Control Policy (PhD)](https://www.linkedin.com/jobs/view/4350245449) - *Burlingame, CA*
 
 ## Roblox - 11 new (11 technical)
 
@@ -353,10 +367,6 @@ Grouped by company (sorted by match count):
 ## Inceptive - 1 new (1 technical)
 
 - **[TECH]** [Internship](https://job-boards.greenhouse.io/inceptive/jobs/5103191007) - *Palo Alto, CA*
-
-## LinkedIn - 1 new (1 technical)
-
-- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/4393214814) - *Mountain View, CA*
 
 ## Luma AI - 1 new (1 technical)
 

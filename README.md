@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 240
-- **All-time tracked:** 240
-- **Active companies:** 74
-- **Last updated:** `2026-05-23 19:48 UTC`
+- **Open positions:** 250
+- **All-time tracked:** 250
+- **Active companies:** 75
+- **Last updated:** `2026-05-23 20:10 UTC`
 
 ## Legend
 
@@ -31,22 +31,32 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| Palantir | Forward Deployed Software Engineer, Internship - France 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | May 23, 2026 |
-| Palantir | Forward Deployed Software Engineer, Internship - Poland 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | May 23, 2026 |
-| Palantir | Forward Deployed Software Engineer, Internship - US Government 🇺🇸 | Honolulu, HI | Intern | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | May 23, 2026 |
+| Palantir | Forward Deployed Software Engineer - Warp Speed 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18) | May 23, 2026 |
+| Palantir | Forward Deployed Software Engineer, Internship - France 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | May 23, 2026 |
+| Palantir | Forward Deployed Software Engineer, Internship - Poland 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | May 23, 2026 |
+| Palantir | Forward Deployed Software Engineer, Internship - US Government 🇺🇸 | Honolulu, HI | Intern | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | May 23, 2026 |
 | Palantir | Deployment Strategist, Internship - US Government 🇺🇸 | Honolulu, HI | Intern | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | May 23, 2026 |
 | Palantir | Forward Deployed Software Engineer 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0) | May 23, 2026 |
-| Palantir | Forward Deployed Software Engineer - Warp Speed 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18) | May 23, 2026 |
+| Meta | Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸 | Burlingame, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350245449) | May 23, 2026 |
+| Meta | AI Research Engineer - Social Products (Technical Leadership) 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4398688884) | May 23, 2026 |
+| Meta | Research Scientist Intern, Machine Perception for Input and Interaction (PhD) 🇺🇸 | Redmond, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4295617161) | May 23, 2026 |
 | Luma AI | Software Engineer - Product 🇺🇸 | SF Bay Area, CA | - | [Apply](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/4393214814) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Boston, MA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312039282) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | San Francisco, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4324709679) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Menlo Park, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312033417) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312043129) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Bellevue, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312023968) | May 23, 2026 |
+| Meta | AI Research Scientist, Robotics 🇺🇸 | Redmond, WA | - | [Apply](https://www.linkedin.com/jobs/view/4286778495) | May 23, 2026 |
+| Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Bellevue, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4301800816) | May 23, 2026 |
+| Meta | Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸 | Redmond, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4291466172) | May 23, 2026 |
 | Anduril | Electrical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | May 23, 2026 |
 | Uber | Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations 🇺🇸 | Seattle, Washington, United States | PhD | [Apply](https://www.uber.com/careers/list/158984) | May 22, 2026 |
+| Nvidia | Verification and Validation Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1) | May 22, 2026 |
 | Nvidia | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | May 22, 2026 |
 | Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Remote | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 22, 2026 |
-| Nvidia | Verification and Validation Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1) | May 22, 2026 |
 | Nvidia | Field Application Engineer - New College Graduate 2026 🇺🇸 | 4 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580) | May 22, 2026 |
 | DoorDash | DoorDash for Business Support Representative 🇺🇸 | Tempe, AZ | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7768489) | May 22, 2026 |
 | CoreWeave | Operations Engineer, HPC Networking 🇺🇸 | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | - | [Apply](https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006) | May 22, 2026 |
@@ -54,13 +64,15 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Mechanical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007) | May 22, 2026 |
 | Anduril | Maritime Operations Engineer - Mission Autonomy 🇺🇸 | Channel Islands, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007) | May 22, 2026 |
 | Anduril | GSOC Jr Operator 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007) | May 22, 2026 |
+| Anduril | Deployment Systems Technician 🇺🇸 | Waltham, Massachusetts, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062621007?gh_jid=5062621007) | May 22, 2026 |
 | Anduril | Division Operations Associate 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5112754007?gh_jid=5112754007) | May 22, 2026 |
 | Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 22, 2026 |
 | Anduril | Early Career Software Engineer 🇺🇸 | Broomfield, Colorado, United States<br>Costa Mesa, California, United States<br>Fort Collins, Colorado, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | May 22, 2026 |
-| Anduril | Deployment Systems Technician 🇺🇸 | Waltham, Massachusetts, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5062621007?gh_jid=5062621007) | May 22, 2026 |
 | Uber | Graduate 2026 PhD Software Engineer II (AV Labs), United States 🇺🇸 | San Francisco, California, United States / Sunnyvale, California, United States | PhD | [Apply](https://www.uber.com/careers/list/159120) | May 21, 2026 |
 | Uber | Application Developer L3 – Identity & Access Management (IAM) 🇺🇸 | Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/159177) | May 21, 2026 |
 | Stripe | Android Engineer, Terminal Global Payments 🇺🇸 | San Francisco, CA, Seattle, WA | - | [Apply](https://stripe.com/jobs/search?gh_jid=7778627) | May 21, 2026 |
+| Point72 | Summer 2027 Quantitative Developer Internship 🇺🇸 | New York | Bachelors, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) | May 21, 2026 |
+| Point72 | Summer 2027 Quantitative Research Internship 🇺🇸 | New York | PhD Student, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | May 21, 2026 |
 | Point72 | Quantitative Analyst / Software Developer 🇺🇸 | New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) | May 21, 2026 |
 | Point72 | Quantitative Developer Intern 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) | May 21, 2026 |
 | Point72 | Quantitative Portfolio Analyst – 2026 Grad 🇺🇸 | New York, New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002) | May 21, 2026 |
@@ -71,29 +83,27 @@ how to fork, how to add companies, and how filtering works.
 | Point72 | Quantitative Research Intern (NLP) 🇺🇸 | New York | PhD Student, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) | May 21, 2026 |
 | Point72 | Quantitative Software Developer 🇺🇸 | New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) | May 21, 2026 |
 | Point72 | Quantitative Software Developer Intern 🇺🇸 | New York, London, or Paris | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) | May 21, 2026 |
-| Point72 | Summer 2027 Quantitative Developer Internship 🇺🇸 | New York | Bachelors, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) | May 21, 2026 |
-| Point72 | Summer 2027 Quantitative Research Internship 🇺🇸 | New York | PhD Student, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | May 21, 2026 |
+| Point72 | Equity Quantitative Researcher 🇺🇸 | New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002) | May 21, 2026 |
+| Point72 | Fundamental Research Fellowship, Canvas 🇺🇸 | New York, NY | - | [Apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) | May 21, 2026 |
 | Point72 | Machine Learning Engineer 🇺🇸 | New York | PhD Student | [Apply](https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002) | May 21, 2026 |
 | Point72 | Machine Learning Researcher - Intern 🇺🇸 | New York | Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) | May 21, 2026 |
 | Point72 | Market Intelligence Emerging Talent Network 🇺🇸 | New York, NY | - | [Apply](https://boards.greenhouse.io/point72/jobs/6656054002?gh_jid=6656054002) | May 21, 2026 |
 | Point72 | Data Engineer 🇺🇸 | New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) | May 21, 2026 |
 | Point72 | Data Scientist 🇺🇸 | Chicago, New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002) | May 21, 2026 |
-| Point72 | Equity Quantitative Researcher 🇺🇸 | New York | - | [Apply](https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002) | May 21, 2026 |
-| Point72 | Fundamental Research Fellowship, Canvas 🇺🇸 | New York, NY | - | [Apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) | May 21, 2026 |
 | Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581) | May 21, 2026 |
 | Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 21, 2026 |
 | MongoDB | Software Engineer, Code Generation 🇺🇸 | California<br>Colorado<br>Montana<br>Nevada<br>New Mexico<br>Oregon<br>Utah<br>Washington | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7311666) | May 21, 2026 |
 | Lambda Labs | Data Center Mechanical Engineering Intern - 2026 🇺🇸 | San Jose Office (Zanker) | Intern | [Apply](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) | May 21, 2026 |
 | DRW | Trade Systems Engineer 🇺🇸 | Chicago | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6821173) | May 21, 2026 |
-| DoorDash | Systems Engineer 🇺🇸 | San Francisco, CA<br>Oakland, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) | May 21, 2026 |
 | DoorDash | Software Engineer, Backend (All Teams) 🇺🇸 | Los Angeles, CA<br>Sunnyvale, CA<br>San Francisco, CA<br>New York, NY<br>Seattle, WA<br>Ann Arbor, MI | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630445) | May 21, 2026 |
 | DoorDash | Software Engineer, Infrastructure - Autonomy & Robotics 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6367350) | May 21, 2026 |
-| DoorDash | Mechanical Design Engineer — UAV Wire Harness 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7927350) | May 21, 2026 |
+| DoorDash | Systems Engineer 🇺🇸 | San Francisco, CA<br>Oakland, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) | May 21, 2026 |
 | DoorDash | Machine Learning Engineer, Marketplace Optimization 🇺🇸 | San Francisco, CA<br>Sunnyvale, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7580407) | May 21, 2026 |
+| DoorDash | Mechanical Design Engineer — UAV Wire Harness 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7927350) | May 21, 2026 |
 | DoorDash | Electrical Distribution Engineer (Harness / EDS) 🇺🇸 | Oakland, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7779237) | May 21, 2026 |
+| DoorDash | Associate Strategic Account Development Executive - Platform 🇺🇸 | Tempe, AZ<br>Atlanta, GA<br>Phoenix, AZ<br>Houston, TX<br>Dallas, TX Tampa, FL<br>Orlando, FL<br>Raleigh, NC<br>Charlotte, NC<br>Charleston, SC<br>Las Vegas, NV<br>Salt Lake City, UT | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7863361) | May 21, 2026 |
 | DoorDash | Composite & Prototype Engineering Technician 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7650045) | May 21, 2026 |
 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | May 21, 2026 |
-| DoorDash | Associate Strategic Account Development Executive - Platform 🇺🇸 | Tempe, AZ<br>Atlanta, GA<br>Phoenix, AZ<br>Houston, TX<br>Dallas, TX Tampa, FL<br>Orlando, FL<br>Raleigh, NC<br>Charlotte, NC<br>Charleston, SC<br>Las Vegas, NV<br>Salt Lake City, UT | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7863361) | May 21, 2026 |
 | CoreWeave | Software Engineer, Inference AI/ML 🇺🇸 | Sunnyvale, CA / Bellevue, WA | - | [Apply](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) | May 21, 2026 |
 | Anduril | Mission Operations Engineer 🇺🇸 | Atlanta, Georgia, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007) | May 21, 2026 |
 | Anduril | Mission Operations Engineer 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5115435007?gh_jid=5115435007) | May 21, 2026 |
@@ -137,11 +147,11 @@ how to fork, how to add companies, and how filtering works.
 | Google | Engineering Analyst, Trust and Safety Payments 🇺🇸 | Sunnyvale, CA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/143948727982138054) | May 20, 2026 |
 | Google | Silicon Design Verification Engineer 🇺🇸 | Mountain View, CA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86602986070909638) | May 20, 2026 |
 | Anthropic | Research Engineer, Economic Research Data Platform 🇺🇸 | San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5071132008) | May 20, 2026 |
-| Anthropic | Anthropic Fellows Program, AI Safety 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | May 20, 2026 |
 | Anthropic | Anthropic Fellows Program, AI Security 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5030244008) | May 20, 2026 |
 | Anthropic | Anthropic Fellows Program, ML Systems & Performance 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | May 20, 2026 |
 | Anthropic | Anthropic Fellows Program, Reinforcement Learning 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183052008) | May 20, 2026 |
 | Anthropic | Anthropic Fellows Program - The Anthropic Institute Fellows (Economics & Policy) 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) | May 20, 2026 |
+| Anthropic | Anthropic Fellows Program, AI Safety 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | May 20, 2026 |
 | Nvidia | Software Engineer, AI and DL Kernel Libraries - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473) | May 19, 2026 |
 | Nvidia | AI Software Engineer, Kernel Libraries - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472) | May 19, 2026 |
 | Nvidia | Quantum Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | May 19, 2026 |
@@ -161,10 +171,10 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Software R&D Engineer, VLSI Physical Design - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183) | May 14, 2026 |
 | Nvidia | Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108) | May 14, 2026 |
 | Lambda Labs | Security Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Fremont St) | MS Student, BS Student, Intern | [Apply](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6) | May 14, 2026 |
+| Glean | Machine Learning Engineer, Search Quality 🇺🇸 | Mountain View, CA | - | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005) | May 14, 2026 |
 | Glean | Software Engineer, Frontend 🇺🇸 | Mountain View, CA | - | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4006733005) | May 14, 2026 |
 | Glean | Software Engineer, Fullstack 🇺🇸 | Mountain View, CA | - | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4006734005) | May 14, 2026 |
 | Glean | Software Engineer, Product Backend 🇺🇸 | Mountain View, CA | - | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4428090005) | May 14, 2026 |
-| Glean | Machine Learning Engineer, Search Quality 🇺🇸 | Mountain View, CA | - | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005) | May 14, 2026 |
 | Databricks | Counsel, Commercial 🇺🇸 | Bellevue, Washington<br>Denver, Colorado<br>Mountain View, California<br>New York City, New York<br>San Francisco, California<br>Seattle, Washington<br>Washington, D.C. | - | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002) | May 14, 2026 |
 | Together AI | Analytics Engineer — Data Warehouse 🇺🇸 | San Francisco | - | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) | May 13, 2026 |
 | Together AI | Data Warehouse Engineer 🇺🇸 | San Francisco | - | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5074064007) | May 13, 2026 |
