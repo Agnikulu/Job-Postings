@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 251
-- **All-time tracked:** 273
+- **Open positions:** 253
+- **All-time tracked:** 278
 - **Active companies:** 79
-- **Last updated:** `2026-05-23 13:49 UTC`
+- **Last updated:** `2026-05-23 14:49 UTC`
 
 ## Legend
 
@@ -31,9 +31,11 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=4&refId=BCJOD%2B7f6%2BFWzxCzwGurHg%3D%3D&trackingId=WkvKp2S0kX3G13c1Af9aCA%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=2&pageNum=7&refId=ez7UnouVJydHnjr761ffXA%3D%3D&trackingId=624K80mjuVHw3XhuX3Pm6Q%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=K%2FbDLfnrdGIpBfHj339FWg%3D%3D&trackingId=wNUBGEgF99J5UWQKdxX5Yg%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=4&refId=iBj3dPL8xgn%2BlzM8r%2ByZnw%3D%3D&trackingId=eVDVllAcjguBQrmKg3iYXA%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=5&refId=sOJ5l7wzPMl8P2mXHwbzFA%3D%3D&trackingId=71IGD2PmbVOO6sE2aqTepg%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=2&pageNum=7&refId=C0FXeWIX9PDK8vFY7e2BTg%3D%3D&trackingId=7JGQSLJiA5YVQV63ilZfcg%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=9GOP2r3B4f8zO9oXh1HJ8Q%3D%3D&trackingId=PG5mmaUs5XxLXtcjnpP7Fw%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=10&refId=pL3ZeC%2B93ySGWSwhbZG%2Bwg%3D%3D&trackingId=ErITdHpJ5buum3aBl4vb%2BQ%3D%3D) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 23, 2026 |
@@ -285,11 +287,14 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (22)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (25)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
