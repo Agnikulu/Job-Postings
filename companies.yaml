@@ -440,8 +440,8 @@
   category: big_tech
 
 - name: Meta
-  ats: tier3_todo
-  note: "Custom careers site at metacareers.com — meta adapter exists but rate-limited on bootstrap."
+  ats: linkedin
+  linkedin_company_id: "10667"
   category: big_tech
 
 - name: Google
