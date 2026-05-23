@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 250
-- **All-time tracked:** 264
+- **Open positions:** 255
+- **All-time tracked:** 270
 - **Active companies:** 79
-- **Last updated:** `2026-05-23 11:43 UTC`
+- **Last updated:** `2026-05-23 12:43 UTC`
 
 ## Legend
 
@@ -31,8 +31,12 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=1&refId=Zztag318loPouH0Zz%2Byr%2Fg%3D%3D&trackingId=UXnJtIVSu2ZhAAH01o%2Ffng%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=1u9NNXFPOeXWkWyAy6X3Pg%3D%3D&trackingId=fBJjahBmWEAOd7mYgqivdg%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=1&refId=A%2FHOm1Jgt1GD%2FynS1RjESw%3D%3D&trackingId=ZexHWRWLWH8OXQ7cq9GfnA%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=5&refId=2o0ZnxfejW7uU8XsMXh5Lg%3D%3D&trackingId=QvXPeUmyPoxYb%2FTO2w9a9w%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=NmxGK%2FBGnJT2vEXMGDlAkg%3D%3D&trackingId=JhemBPhEQV3nl8HyParcJg%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=6Id6DPNtPFA7DUL9RM2zJw%3D%3D&trackingId=IDTweGKgRpgjmsRGA%2BH2ug%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=BCU2dEAqpvg9ESzkrTuS9A%3D%3D&trackingId=YOlm3tJBpdwwt4Tn2p%2FPiA%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=10&refId=x2IV15rDVJy%2FMvFZMZowgw%3D%3D&trackingId=8QcHRxFmjQpdmJMeClx11w%3D%3D) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 23, 2026 |
@@ -42,6 +46,7 @@ how to fork, how to add companies, and how filtering works.
 | Palantir | Forward Deployed Software Engineer, Internship - France 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f) | May 23, 2026 |
 | Palantir | Forward Deployed Software Engineer, Internship - Poland 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9) | May 23, 2026 |
 | Palantir | Forward Deployed Software Engineer 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0) | May 23, 2026 |
+| Netflix | Software Engineer in Test 5 - Apple Player 🇺🇸 | Los Gatos,California,United States of America | - | [Apply](https://explore.jobs.netflix.net/careers/job/790316003628) | May 23, 2026 |
 | Luma AI | Software Engineer - Product 🇺🇸 | SF Bay Area, CA | - | [Apply](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) | May 23, 2026 |
 | Anduril | Electrical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | May 23, 2026 |
 | Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Remote | PhD, New Grad, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 22, 2026 |
@@ -134,7 +139,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7473686?gh_jid=7473686) | May 20, 2026 |
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | New Grad | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Foundation AI - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7577436?gh_jid=7577436) | May 20, 2026 |
-| Netflix | Software Engineer in Test 5 - Apple Player 🇺🇸 | Los Gatos,California,United States of America | - | [Apply](https://explore.jobs.netflix.net/careers/job/790316003628) | May 20, 2026 |
 | MongoDB | Software Engineer, Developer Productivity 🇺🇸 | New York City | Intern | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7851388) | May 20, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Lambda Labs | Field Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Second St) | MS Student, New Grad, Intern | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) | May 20, 2026 |
@@ -235,6 +239,7 @@ how to fork, how to add companies, and how filtering works.
 | Etched | Thermo-Mech CFD Simulation Intern 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff) | Apr 24, 2026 |
 | Notion | Software Engineer, New Grad 🇺🇸 | San Francisco, California | New Grad | [Apply](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) | Apr 23, 2026 |
 | Adobe | 2026 University Graduate - Research Scientist/Engineer 🇺🇸 | San Francisco | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690) | Apr 23, 2026 |
+| Adobe | Research Scientist 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166575) | Apr 23, 2026 |
 | Adobe | 2026 Intern - Research Scientist/Engineer 🇺🇸 | 7 Locations | New Grad, Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | Apr 23, 2026 |
 | Adobe | 2026 University Graduate - Machine Learning Engineer 🇺🇸 | Seattle | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133) | Apr 23, 2026 |
 | Adobe | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern 🇺🇸 | 3 Locations | New Grad, Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Apr 23, 2026 |
@@ -284,7 +289,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (14)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (15)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
@@ -302,7 +307,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
-| ~~Adobe~~ | ~~Research Scientist 🇺🇸~~ | San Jose | - | Closed | Apr 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 
 </details>
 
