@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 254
-- **All-time tracked:** 289
+- **Open positions:** 252
+- **All-time tracked:** 294
 - **Active companies:** 79
-- **Last updated:** `2026-05-23 17:39 UTC`
+- **Last updated:** `2026-05-23 18:40 UTC`
 
 ## Legend
 
@@ -31,12 +31,11 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=igBHoWwjeqS4eneSg8soXA%3D%3D&trackingId=7lK%2BbOzqC4Lu4Csu%2BlcLnw%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=1&refId=C3JjOPU8ctG08eOwAsjpSg%3D%3D&trackingId=yz6J%2BeECflrN%2FM1XCP5WSw%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=WskXmV7nyC7NweTtsRGQZw%3D%3D&trackingId=qjE2XWPAig%2BWkLweae9l%2BA%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=B8RBOJ2REObucjyFoLUHwQ%3D%3D&trackingId=uCnFicWDc2oMTlTXMsojpQ%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=10&refId=kKbrwGhAbmnbxau3BzEmnA%3D%3D&trackingId=YYRvkJXwdQetiHwimQQAOw%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=11&refId=M7VQgRTSZQgwV%2BtrSM%2FFMg%3D%3D&trackingId=ZMcJUrTO8rIszsoyTcsLdw%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=obrWis5P3p%2Bu2o%2FT8S9s1Q%3D%3D&trackingId=3Iu63tu%2Bp%2BRuEDED7q%2BsBQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=2&refId=OT5D13QZsDV3ACNHQN7fuA%3D%3D&trackingId=W9zMOfmb1cEW4raJD0WzKA%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=4&refId=SuGHQ2TDIse6T9qdZIcD8g%3D%3D&trackingId=zhrGsiCV0TBE6w6d317FJQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=2&pageNum=7&refId=lblhTQT0e%2Ft7CD9F%2BJQyTQ%3D%3D&trackingId=yBgLz2haMjEpdFxdIFHrqQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=cdZTDAkJ8LaFBhSTrura9g%3D%3D&trackingId=XYb8VlcgaeaKgP8mWOnluA%3D%3D) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 23, 2026 |
@@ -137,7 +136,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7473686?gh_jid=7473686) | May 20, 2026 |
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | New Grad | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Foundation AI - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7577436?gh_jid=7577436) | May 20, 2026 |
-| Netflix | Software Engineer in Test 5 - Apple Player 🇺🇸 | Los Gatos,California,United States of America | - | [Apply](https://explore.jobs.netflix.net/careers/job/790316003628) | May 20, 2026 |
 | MongoDB | Software Engineer, Developer Productivity 🇺🇸 | New York City | Intern | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7851388) | May 20, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Lambda Labs | Field Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Second St) | MS Student, New Grad, Intern | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) | May 20, 2026 |
@@ -288,7 +286,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (35)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (42)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
@@ -327,7 +325,14 @@ how to fork, how to add companies, and how filtering works.
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~Microsoft~~ | ~~Technical Support Engineering - Entry Level 🇺🇸~~ | Pune, MH, IN | New Grad | Closed | May 22, 2026 |
+| ~~Netflix~~ | ~~Software Engineer in Test 5 - Apple Player 🇺🇸~~ | Los Gatos,California,United States of America | - | Closed | May 20, 2026 |
 
 </details>
 
