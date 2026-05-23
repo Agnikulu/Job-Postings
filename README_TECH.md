@@ -55,7 +55,7 @@ flowchart TB
 
 ### Pipeline (one run)
 
-1. **Load** `companies.yaml` (101 entries: **79 active**, 22 `tier3_todo`).
+1. **Load** `companies.yaml` (96 entries: **74 active**, 22 `tier3_todo`).
 2. **Fetch** all active companies in parallel (`ATS_SNIPER_FETCH_WORKERS`, default 4).
    - Log `Company: fetched N postings` as each company completes.
    - Optional caps: `ATS_SNIPER_MAX_LIST_PAGES`, `ATS_SNIPER_MAX_JOBS_PER_COMPANY` (set in CI).
@@ -154,7 +154,7 @@ From the latest committed [README.md](README.md) stats (updates every hourly run
 |--------|-------|
 | Open positions (US EC matches in archive) | **251** |
 | All-time URLs tracked in archive | **252** |
-| Active companies in registry | **79** |
+| Active companies in registry | **74** |
 | Last README update | 2026-05-21 17:14 UTC |
 
 Discord alerts only fire for **new** URLs (not already in `seen_jobs.json`). After warm-up, hourly noise drops sharply.
@@ -196,20 +196,18 @@ Source of truth: [`companies.yaml`](companies.yaml). Regenerate this table after
 python scripts/company_portal_links.py
 ```
 
-### Active companies (79)
+### Active companies (74)
 
-<!-- 79 active, 22 tier3_todo -->
+<!-- 74 active, 22 tier3_todo -->
 | Company | Category | ATS | Job board |
 |---------|----------|-----|-----------|
 | Adobe | big_tech | `workday` | [Open board](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced) |
 | Airbnb | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/airbnb) |
 | Apple | big_tech | `apple` | [Open board](https://jobs.apple.com/en-us/search) |
 | Atlassian | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/Atlassian) |
-| BlackLine | big_tech | `jibe` | [Open board](https://careers.blackline.com) |
 | Datadog | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/datadog) |
 | Discord | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/discord) |
 | DoorDash | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/doordashusa) |
-| GitLab | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/gitlab) |
 | Google | big_tech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&target_level=INTERN_AND_APPRENTICE&sort_by=date) |
 | LinkedIn | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Microsoft | big_tech | `microsoft` | [Open board](https://apply.careers.microsoft.com/careers) |
@@ -223,7 +221,6 @@ python scripts/company_portal_links.py
 | Uber | big_tech | `uber` | [Open board](https://www.uber.com/careers/list/) |
 | Benchling | biotech | `ashby` | [Open board](https://jobs.ashbyhq.com/benchling) |
 | Click Therapeutics | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/clicktherapeutics) |
-| Enveda Biosciences | biotech | `lever` | [Open board](https://jobs.lever.co/enveda) |
 | EvolutionaryScale | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/biohub) |
 | Flatiron Health | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/flatironhealth) |
 | Genesis Therapeutics | biotech | `ashby` | [Open board](https://jobs.ashbyhq.com/genesis) |
@@ -245,7 +242,6 @@ python scripts/company_portal_links.py
 | Figma | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/figma) |
 | Hebbia | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/hebbia-ai) |
 | Linear | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/linear) |
-| Neon | enterprise | `lever` | [Open board](https://jobs.lever.co/neon) |
 | Notion | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/notion) |
 | Plaid | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/plaid) |
 | Ramp | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/ramp) |
@@ -268,7 +264,6 @@ python scripts/company_portal_links.py
 | Hugging Face | frontier_ai | `workable` | [Open board](https://apply.workable.com/huggingface) |
 | Lambda Labs | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/lambda) |
 | LangChain | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/langchain) |
-| Mistral AI | frontier_ai | `lever` | [Open board](https://jobs.lever.co/mistral) |
 | Nvidia | frontier_ai | `workday` | [Open board](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite) |
 | Perplexity AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/perplexity) |
 | Pinecone | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/pinecone) |

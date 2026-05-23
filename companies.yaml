@@ -82,11 +82,6 @@
   slug: groq
   category: frontier_ai
 
-- name: Mistral AI
-  ats: lever
-  slug: mistral
-  category: frontier_ai
-
 - name: LangChain
   ats: ashby
   slug: langchain
@@ -325,11 +320,6 @@
   slug: plaid
   category: enterprise
 
-- name: Neon
-  ats: lever
-  slug: neon
-  category: enterprise
-
 - name: ClickHouse
   ats: greenhouse
   slug: clickhouse
@@ -438,10 +428,6 @@
   slug: recursionpharmaceuticals
   category: biotech
 
-- name: Enveda Biosciences
-  ats: lever
-  slug: enveda
-  category: biotech
 
 # =============================================================================
 # Category VI: Elite Big Tech, Infrastructure & High-WLB Publics
@@ -523,20 +509,11 @@
   domain: microsoft.com
   category: big_tech
 
-- name: GitLab
-  ats: greenhouse
-  slug: gitlab
-  category: big_tech
-
 - name: Atlassian
   ats: smartrecruiters
   slug: Atlassian
   category: big_tech
 
-- name: BlackLine
-  ats: jibe
-  careers_host: careers.blackline.com
-  category: big_tech
 
 - name: MongoDB
   ats: greenhouse
