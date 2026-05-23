@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 427
-- **All-time tracked:** 606
+- **Open positions:** 401
+- **All-time tracked:** 613
 - **Active companies:** 79
-- **Last updated:** `2026-05-22 23:44 UTC`
+- **Last updated:** `2026-05-23 01:19 UTC`
 
 ## Legend
 
@@ -31,13 +31,19 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=5&refId=3rVwzz1N2GUM2MdTXJxGAw%3D%3D&trackingId=9UuWd7cexUJ1LKCO7JruaQ%3D%3D) | May 22, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=4&pageNum=6&refId=nelsSbt4vRJ%2BM5PeX3mS6w%3D%3D&trackingId=%2FZX3nC83uzMEyy2XFFvAlA%3D%3D) | May 22, 2026 |
-| Nvidia | Field Application Engineer - New College Graduate 2026 🇺🇸 | 4 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580) | May 22, 2026 |
-| Nvidia | Verification and Validation Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1) | May 22, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=9tIn2vcsipKy6bQsx0jeRA%3D%3D&trackingId=bt6lnBF1LVpoyngxepqWBQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=2&pageNum=7&refId=nr6ZOwdUH3rJm5%2Fhy1%2F18Q%3D%3D&trackingId=VcCMoNEk6rHyvQ7NO%2BaDxw%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=8&refId=WMUjuaWWvhXnh9pxmn%2Ftvw%3D%3D&trackingId=1AxRXlESJA75wJkwC4ZiRQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=9&refId=rT9E2KNy%2FyLbVNButooanA%3D%3D&trackingId=a5B5TgTY5sHAIH9H5WH%2BXQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=10&refId=RfK5STYVoRpm4sFpWIoV6w%3D%3D&trackingId=hz%2F7DsCPYSjCatxvhURDGQ%3D%3D) | May 23, 2026 |
+| Nvidia | Field Application Engineer - New College Graduate 2026 🇺🇸 | 4 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580) | May 23, 2026 |
+| Nvidia | Verification and Validation Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1) | May 23, 2026 |
+| Nvidia | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | May 23, 2026 |
+| Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Remote | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 23, 2026 |
+| Adobe | Software Development Engineer 3 🇺🇸 | 5 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Software-Development-Engineer-3_R164975) | May 23, 2026 |
+| Anduril | Robotics Software Engineer, Behaviors 🇺🇸 | Costa Mesa, California, United States | Masters, Bachelors | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007) | May 22, 2026 |
+| Anduril | Robotics Software Engineer, Verification & Validation 🇺🇸 | Costa Mesa, California, United States | Masters, Bachelors | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007) | May 22, 2026 |
 | Rippling | Software Engineer II, Backend Full Stack - Spend Product 🇺🇸 | New York, NY | - | [Apply](https://ats.rippling.com/rippling/jobs/5b4e74c8-6493-44cb-98fe-2344b4fcd6b5) | May 22, 2026 |
-| Nvidia | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | May 22, 2026 |
-| Nvidia | PhD Data Generation and User Simulation Research Intern — Fall 2026 🇺🇸 | US, CA, Remote | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Data-Generation-and-User-Simulation-Research-Intern---Fall-2026_JR2018317) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556861512) | May 22, 2026 |
 | Scale AI | Mission Software Engineer, Public Sector 🇺🇸 | Colorado Springs, CO<br>Honolulu, HI<br>St. Louis, MO<br>Washington, DC | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4481921005) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556761675) | May 22, 2026 |
@@ -62,6 +68,7 @@ how to fork, how to add companies, and how filtering works.
 | Palantir | Backend Software Engineer - Defense 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5) | May 22, 2026 |
 | Palantir | Forward Deployed Software Engineer 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0) | May 22, 2026 |
 | Palantir | Backend Software Engineer - Infrastructure, Foundations 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c) | May 22, 2026 |
+| Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 22, 2026 |
 | Mistral AI | Software Engineer, Backend (New-York) 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366) | May 22, 2026 |
 | Microsoft | Site Reliability Engineer II 🇺🇸 | Hyderabad, TS, IN / Bengaluru, KA, IN | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556853243) | May 22, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Bengaluru, KA, IN | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556862777) | May 22, 2026 |
@@ -78,10 +85,10 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | GSOC Jr Operator 🇺🇸 | Costa Mesa, California, United States | Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007) | May 22, 2026 |
 | Anduril | Electrical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | Bachelors, Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | May 22, 2026 |
 | Anduril | Division Operations Associate 🇺🇸 | Costa Mesa, California, United States | Bachelors, Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5112754007?gh_jid=5112754007) | May 22, 2026 |
-| Adobe | Software Development Engineer 3 🇺🇸 | 5 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Software-Development-Engineer-3_R164975) | May 22, 2026 |
 | Uber | Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations 🇺🇸 | Seattle, Washington, United States | PhD, Masters, Bachelors | [Apply](https://www.uber.com/careers/list/158984) | May 22, 2026 |
 | Anduril | Early Career Software Engineer 🇺🇸 | Broomfield, Colorado, United States<br>Costa Mesa, California, United States<br>Fort Collins, Colorado, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | May 22, 2026 |
 | Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 22, 2026 |
+| Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581) | May 22, 2026 |
 | Uber | Program Manager, uBecome Intern Experience & Community 🇺🇸 | San Francisco, California, United States | Bachelors, New Grad, Intern | [Apply](https://www.uber.com/careers/list/157992) | May 21, 2026 |
 | Uber | Application Developer L3 – Identity & Access Management (IAM) 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/159177) | May 21, 2026 |
 | Stripe | Android Engineer, Terminal Global Payments 🇺🇸 | San Francisco, CA, Seattle, WA | - | [Apply](https://stripe.com/jobs/search?gh_jid=7778627) | May 21, 2026 |
@@ -96,7 +103,6 @@ how to fork, how to add companies, and how filtering works.
 | Point72 | Fundamental Research Fellowship, Canvas 🇺🇸 | New York, NY | - | [Apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) | May 21, 2026 |
 | Point72 | Data Engineer 🇺🇸 | New York | PhD | [Apply](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) | May 21, 2026 |
 | Point72 | Data Scientist 🇺🇸 | Chicago, New York | PhD, Masters, Bachelors | [Apply](https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002) | May 21, 2026 |
-| Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 21, 2026 |
 | MongoDB | Software Engineer, Code Generation 🇺🇸 | California<br>Colorado<br>Montana<br>Nevada<br>New Mexico<br>Oregon<br>Utah<br>Washington | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7311666) | May 21, 2026 |
 | Lambda Labs | Data Center Mechanical Engineering Intern - 2026 🇺🇸 | San Jose Office (Zanker) | Intern | [Apply](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) | May 21, 2026 |
 | DRW | Trade Systems Engineer 🇺🇸 | Chicago | Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6821173) | May 21, 2026 |
@@ -134,6 +140,7 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Computer Vision Engineer, Space 🇺🇸 | Washington, District of Columbia, United States | PhD, Masters, Bachelors | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) | May 21, 2026 |
 | Anduril | Business Operations Associate, Production 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007) | May 21, 2026 |
 | Anduril | Business Operations Associate 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007) | May 21, 2026 |
+| Adobe | Software Development Engineer 3— Acrobat Web 🇺🇸 | 2 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3--Acrobat-Web_R168301) | May 21, 2026 |
 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) 🇺🇸 | San Francisco, CA | PhD | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | May 21, 2026 |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government 🇺🇸 | Honolulu, HI | Intern | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) | May 21, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 21, 2026 |
@@ -155,7 +162,7 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Early Career Mechanical Engineer 🇺🇸 | Costa Mesa, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) | May 21, 2026 |
 | Anduril | Early Career Electrical Engineer 🇺🇸 | Costa Mesa, California, United States | Masters, Bachelors, New Grad, Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) | May 21, 2026 |
 | Anduril | Early Career Software Engineer 🇺🇸 | Seattle, Washington, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007) | May 21, 2026 |
-| Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581) | May 21, 2026 |
+| Netflix | Software Engineer in Test 5 - Apple Player 🇺🇸 | Los Gatos,California,United States of America | - | [Apply](https://explore.jobs.netflix.net/careers/job/790316003628) | May 20, 2026 |
 | Uber | Software Engineer II - AV Labs 🇺🇸 | Sunnyvale, California, United States | PhD, Masters, Bachelors | [Apply](https://www.uber.com/careers/list/159272) | May 20, 2026 |
 | Uber | Software Engineer II 🇺🇸 | Sunnyvale, California, United States | Masters, Bachelors | [Apply](https://www.uber.com/careers/list/154195) | May 20, 2026 |
 | Stripe | Backend Engineer, Core Technology 🇺🇸 | US-Remote, Chicago | - | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) | May 20, 2026 |
@@ -171,6 +178,7 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Senior Machine Learning Engineer, AI Platform - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7403998?gh_jid=7403998) | May 20, 2026 |
 | Roblox | [2026] Senior Machine Learning Engineer,  Engine Optimization - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7421746?gh_jid=7421746) | May 20, 2026 |
 | Roblox | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7473686?gh_jid=7473686) | May 20, 2026 |
+| Nvidia | Software Engineer, AI and DL Kernel Libraries - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473) | May 20, 2026 |
 | MongoDB | Software Engineer 3, Search Systems Replication & Routing 🇺🇸 | San Francisco | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7235322) | May 20, 2026 |
 | MongoDB | Software Engineer, Developer Productivity 🇺🇸 | New York City | Intern | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7851388) | May 20, 2026 |
 | MongoDB | Software Engineer 3, Atlas Search Systems 🇺🇸 | San Francisco | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7523920) | May 20, 2026 |
@@ -190,7 +198,6 @@ how to fork, how to add companies, and how filtering works.
 | Anthropic | Anthropic Fellows Program, ML Systems & Performance 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | May 20, 2026 |
 | Anthropic | Anthropic Fellows Program, Reinforcement Learning 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183052008) | May 20, 2026 |
 | Anthropic | Anthropic Fellows Program - The Anthropic Institute Fellows (Economics & Policy) 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) | May 20, 2026 |
-| Adobe | Software Development Engineer 3— Acrobat Web 🇺🇸 | 2 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3--Acrobat-Web_R168301) | May 20, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Lambda Labs | Field Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Second St) | Masters, Intern | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) | May 20, 2026 |
 | Roblox | [2026] Applied Scientist - PhD Intern 🇺🇸 | San Mateo, CA, United States | PhD, Intern | [Apply](https://careers.roblox.com/jobs/7142298?gh_jid=7142298) | May 20, 2026 |
@@ -199,48 +206,18 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Data Scientist, Foundation AI - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD, New Grad | [Apply](https://careers.roblox.com/jobs/7577436?gh_jid=7577436) | May 20, 2026 |
 | Stripe | PhD Machine Learning Engineer, Intern 🇺🇸 | San Francisco, New York City, Seattle | PhD, Intern | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) | May 20, 2026 |
 | Stripe | PhD Data Scientist, Intern 🇺🇸 | San Francisco, New York City, Seattle, Chicago | PhD, Intern | [Apply](https://stripe.com/jobs/search?gh_jid=7874965) | May 20, 2026 |
+| Nvidia | Quantum Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | May 20, 2026 |
+| Nvidia | AI Software Engineer, Kernel Libraries - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472) | May 20, 2026 |
 | Pinterest | Software Engineer II, Backend 🇺🇸 | Toronto, ON, CA | Masters, Bachelors | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=5132899) | May 19, 2026 |
-| Nvidia | Software Engineer, AI and DL Kernel Libraries - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473) | May 19, 2026 |
 | Microsoft | Software Engineer II - CoreAI 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556637527) | May 19, 2026 |
 | Microsoft | Software Engineer II - CoreAI 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556638528) | May 19, 2026 |
 | Microsoft | Software Engineer II - CoreAI 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556657543) | May 19, 2026 |
+| Adobe | Research Scientist 🇺🇸 | 3 Locations | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166368) | May 19, 2026 |
 | Microsoft | Research Science PhD Internship Opportunities - Coding Agents 🇺🇸 | Cambridge, England, GB | PhD, Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867906) | May 19, 2026 |
-| Etched | PD Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/09658f43-69ab-4a98-b4fb-02865a3f9f92) | May 19, 2026 |
-| Etched | Firmware Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/0e78a385-c450-4749-9803-0970ce2971a5) | May 19, 2026 |
-| Etched | Core Ops Intern - Spring 2027 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/0f24f73f-7607-466e-bbc0-de039767e9c0) | May 19, 2026 |
-| Etched | DFT Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/15fe0696-ce29-469a-b31e-a206e19302d6) | May 19, 2026 |
-| Etched | Firmware Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/1efd9b58-66fe-4798-a877-776857b4e189) | May 19, 2026 |
-| Etched | Supercomputing Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/20f77518-1699-4184-ac8e-9fa2f614d6fb) | May 19, 2026 |
-| Etched | Chip Simulation Software Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | May 19, 2026 |
-| Etched | Supercomputing Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e) | May 19, 2026 |
-| Etched | Inference Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/2e4d8727-82f1-4887-9389-df5605783bbd) | May 19, 2026 |
-| Etched | Core Ops Intern - Summer 2027 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/30514004-7db4-479d-8512-972946b146f4) | May 19, 2026 |
-| Etched | DV Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/3ea1610a-3dfd-4b51-aeb8-6317e4d6877f) | May 19, 2026 |
-| Etched | PD Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/3ec2bf6a-5ff3-436c-ad3e-6b77ac02ad97) | May 19, 2026 |
-| Etched | DV Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/49009e2e-765a-4c4f-824b-7aea0ade2e8f) | May 19, 2026 |
-| Etched | DFT Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/4d12f517-6282-4775-8044-fe2133ad5eff) | May 19, 2026 |
-| Etched | Infrastructure Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/65348db2-5658-41d0-a833-af222865d979) | May 19, 2026 |
-| Etched | DFT Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/6dca552b-876d-4525-971b-6ee720f267eb) | May 19, 2026 |
-| Etched | Infrastructure Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | May 19, 2026 |
-| Etched | Firmware Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55) | May 19, 2026 |
-| Etched | Electrical Platform Intern - Spring 2027 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/8c1e7aab-3c6d-49a3-8176-d9158acb181f) | May 19, 2026 |
-| Etched | Electrical Platform Intern - Summer 2027 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/9e6737f4-394f-43b1-92ef-b9d4a7986f68) | May 19, 2026 |
-| Etched | ChipSim Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/a06f95bc-adb5-48a2-b9b5-a77695bbd61b) | May 19, 2026 |
-| Etched | Thermo-Mech CFD Simulation Intern - Summer 2027 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/a63c06e0-ae10-467f-a2d2-f222b7016af1) | May 19, 2026 |
-| Etched | Inference Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) | May 19, 2026 |
-| Etched | Mech / Thermal Intern - Fall 2026 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/b1816ce1-fa42-4855-988b-992556414988) | May 19, 2026 |
-| Etched | Supercomputing Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | May 19, 2026 |
-| Etched | PD Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | May 19, 2026 |
-| Etched | Thermo-Mech CFD Simulation Intern - Spring 2027 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/d9f7c735-c20c-4c9f-92e5-ae3d598b1643) | May 19, 2026 |
-| Etched | ChipSim Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/daa8c6c4-97e3-4df4-b8da-e46fe981da1d) | May 19, 2026 |
-| Etched | Infrastructure Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468) | May 19, 2026 |
-| Etched | Mech / Thermal Intern - Summer 2027 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/ec962944-f7ed-4a3e-a251-9d929295a740) | May 19, 2026 |
-| Etched | Core Ops Intern - Fall 2026 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d) | May 19, 2026 |
-| Etched | RTL Intern - Spring 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/f33b89ca-ad74-4a4f-8f15-06c64e954f4d) | May 19, 2026 |
-| Etched | RTL Intern - Summer 2027 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/f66613b6-9942-48ce-a553-c377e44d3118) | May 19, 2026 |
-| Etched | Mech / Thermal Intern - Spring 2027 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/f77c61ff-da01-42ce-9ad6-ab0facbccd5b) | May 19, 2026 |
-| Nvidia | Quantum Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | May 19, 2026 |
-| Nvidia | AI Software Engineer, Kernel Libraries - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472) | May 19, 2026 |
+| Etched | Chip Simulation Software Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) | May 19, 2026 |
+| Etched | Supercomputing Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) | May 19, 2026 |
+| Etched | PD Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | May 19, 2026 |
+| Etched | Core Ops Intern 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d) | May 19, 2026 |
 | Uber | Machine Learning Engineer II - AV Labs 🇺🇸 | Sunnyvale, California, United States | PhD, Masters, Bachelors | [Apply](https://www.uber.com/careers/list/158789) | May 18, 2026 |
 | Uber | Software Engineer II 🇺🇸 | New York, New York, United States | Masters, Bachelors | [Apply](https://www.uber.com/careers/list/154824) | May 18, 2026 |
 | Pinterest | Software Engineer II, Backend 🇺🇸 | San Francisco, CA, US<br>Seattle, WA, US | Bachelors | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=4813946) | May 18, 2026 |
@@ -249,14 +226,15 @@ how to fork, how to add companies, and how filtering works.
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556859896) | May 18, 2026 |
 | Microsoft | Applied AI Engineer II 🇺🇸 | Redmond, WA, US / Atlanta, GA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864775) | May 18, 2026 |
 | Google | Security Engineer II, Uppercase Research 🇺🇸 | Austin, TX, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/75870343834542790) | May 18, 2026 |
-| Adobe | Research Scientist 🇺🇸 | 3 Locations | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166368) | May 18, 2026 |
 | Microsoft | Research Intern - Self-Improving AI 🇺🇸 | Cambridge, MA, US / New York, NY, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867858) | May 18, 2026 |
 | Uber | Software Engineer II- Grocery & Retail 🇺🇸 | San Francisco, California, United States / Sunnyvale, California, United States | Masters | [Apply](https://www.uber.com/careers/list/153449) | May 16, 2026 |
+| Nvidia | Software R&D Engineer, Digital Logic Synthesis - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263) | May 16, 2026 |
 | Uber | Software Engineer II - Uber Eats 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | Masters | [Apply](https://www.uber.com/careers/list/157540) | May 15, 2026 |
 | Uber | Software Engineer II - Middleware - AV Labs 🇺🇸 | Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158889) | May 15, 2026 |
-| Nvidia | Software R&D Engineer, Digital Logic Synthesis - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263) | May 15, 2026 |
 | Datadog | Security Engineer II - Vulnerability Lifecycle 🇺🇸 | New York, New York, USA | PhD, Bachelors | [Apply](https://careers.datadoghq.com/detail/7851502/?gh_jid=7851502) | May 15, 2026 |
 | Datadog | Associate Marketing Data Analyst - Marketing Analytics 🇺🇸 | New York, New York, USA | - | [Apply](https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084) | May 15, 2026 |
+| Nvidia | Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108) | May 15, 2026 |
+| Nvidia | Software R&D Engineer, VLSI Physical Design - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183) | May 15, 2026 |
 | Vercel | Software Engineer, Next.js 🇺🇸 | Hybrid - San Francisco | - | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5993753004) | May 14, 2026 |
 | Uber | Software Engineer II 🇺🇸 | Seattle, Washington, United States | Bachelors | [Apply](https://www.uber.com/careers/list/158659) | May 14, 2026 |
 | Uber | Software Engineer II - Maps & Localization - AV Labs 🇺🇸 | Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158690) | May 14, 2026 |
@@ -282,108 +260,105 @@ how to fork, how to add companies, and how filtering works.
 | Lambda Labs | Security Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Fremont St) | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6) | May 14, 2026 |
 | Pinterest | Master's Fall Machine Learning Internship (ATG - Visual Search) 🇺🇸 | San Francisco, CA, US<br>Palo Alto, CA, US<br>Seattle, WA, US<br>New York, NY, US | Masters, Intern | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) | May 14, 2026 |
 | Pinterest | PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems) 🇺🇸 | San Francisco, CA, US<br>Palo Alto, CA, US<br>Seattle, WA, US<br>New York, NY, US | PhD, Intern | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | May 14, 2026 |
-| Nvidia | Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2018108) | May 14, 2026 |
-| Nvidia | Software R&D Engineer, VLSI Physical Design - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183) | May 14, 2026 |
+| Nvidia | PhD Research Intern, Security and Privacy - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | May 14, 2026 |
 | Uber | Software Engineer II, AV Labs 🇺🇸 | Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/158888) | May 13, 2026 |
 | Together AI | Data Warehouse Engineer 🇺🇸 | San Francisco | New Grad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5074064007) | May 13, 2026 |
 | Together AI | Analytics Engineer — Data Warehouse 🇺🇸 | San Francisco | New Grad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) | May 13, 2026 |
 | Uber | Software Engineer II, Mobile, AV Labs 🇺🇸 | Sunnyvale, California, United States | Bachelors | [Apply](https://www.uber.com/careers/list/158726) | May 13, 2026 |
 | Ramp | Software Engineer, Credit 🇺🇸 | New York, NY (HQ) | - | [Apply](https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40) | May 13, 2026 |
+| Nvidia | DFT Engineer - New College Grad 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865) | May 13, 2026 |
 | Notion | Software Engineer, Agent Dev Velocity 🇺🇸 | San Francisco, California | - | [Apply](https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e) | May 13, 2026 |
 | Microsoft | Software Engineer II, Foundry Agents - CoreAI 🇺🇸 | Redmond, WA, US / Mountain View, CA, US / New York, NY, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556863227) | May 13, 2026 |
 | Microsoft | Software Engineer 2 🇺🇸 | Bengaluru, KA, IN / Hyderabad, TS, IN | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556864867) | May 13, 2026 |
 | Google | Equipment Technician, Vacuum, Semiconductor, Raxium 🇺🇸 | Fremont, CA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/81545552558203590) | May 13, 2026 |
-| Nvidia | PhD Research Intern, Security and Privacy - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | May 13, 2026 |
+| Adobe | Software Development Engineer 3 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3_R164610) | May 13, 2026 |
+| Nvidia | Signal and Power Integrity Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741) | May 13, 2026 |
 | Uber | Machine Learning Engineer II, Pricing 🇺🇸 | Sunnyvale, California, United States / San Francisco, California, United States / Seattle, Washington, United States / New York, New York, United States | PhD, Masters, Bachelors | [Apply](https://www.uber.com/careers/list/146338) | May 12, 2026 |
 | Snowflake | Software Engineer - Snowflake Postgres 🇺🇸 | US-CA-Menlo Park | Masters | [Apply](https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21) | May 12, 2026 |
-| Nvidia | DFT Engineer - New College Grad 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865) | May 12, 2026 |
 | EvolutionaryScale | Group Leader, Immune Cell Reprogramming 🇺🇸 | New York, NY (Hybrid) | PhD, New Grad | [Apply](https://job-boards.greenhouse.io/biohub/jobs/7286324) | May 12, 2026 |
-| Adobe | Software Development Engineer 3 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3_R164610) | May 12, 2026 |
-| Nvidia | Signal and Power Integrity Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741) | May 12, 2026 |
-| Adobe | 2026 Intern - Data Scientist 🇺🇸 | San Jose | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453) | May 11, 2026 |
-| Nvidia | Systems Software Engineer - New College Grad 2026 🇺🇸 | US, OR, Hillsboro | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) | May 11, 2026 |
+| Adobe | 2026 Intern - Data Scientist 🇺🇸 | San Jose | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453) | May 12, 2026 |
+| Nvidia | Systems Software Engineer - New College Grad 2026 🇺🇸 | US, OR, Hillsboro | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) | May 12, 2026 |
 | Uber | Software Engineer II ML, Merchant Intel 8 🇺🇸 | New York, New York, United States | PhD | [Apply](https://www.uber.com/careers/list/156031) | May 08, 2026 |
 | Together AI | Backend Software Engineer — Data Platform & AI Data Products 🇺🇸 | San Francisco | - | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5064263007) | May 08, 2026 |
 | Scale AI | Software Engineer, Frontier AI Infrastructure 🇺🇸 | San Francisco, CA<br>St. Louis, MO<br>New York, NY<br>Washington, DC | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4363623005) | May 08, 2026 |
 | Scale AI | Software Engineer, ARC Team 🇺🇸 | San Francisco, CA<br>St. Louis, MO<br>New York, NY<br>Washington, DC | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4673771005) | May 08, 2026 |
 | Scale AI | Machine Learning Research Engineer, Agents - Enterprise GenAI 🇺🇸 | San Francisco, CA<br>New York, NY | PhD, Masters | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4625344005) | May 08, 2026 |
+| Nvidia | ASIC Physical Design Engineer, Netlisting - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681) | May 08, 2026 |
 | Uber | 2026 Fall Software Engineering Internship, US 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | Masters, Bachelors, Intern | [Apply](https://www.uber.com/careers/list/159161) | May 08, 2026 |
 | Snowflake | Software Engineer Intern (Security) - Fall 2026 🇺🇸 | US-CA-Menlo Park | Intern | [Apply](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) | May 08, 2026 |
+| Nvidia | GPU Verification Engineer - New College Grad 2026 🇺🇸 | US, MA, Westford | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593) | May 08, 2026 |
 | Scale AI | Software Engineer - New Grad 🇺🇸 | San Francisco, CA | New Grad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) | May 08, 2026 |
 | Scale AI | Technical Advisor Specialist (Part-Time Internship) 🇺🇸 | San Francisco, CA | Intern | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | May 08, 2026 |
 | Xaira Therapeutics | AI Research Engineer 🇺🇸 | Seattle, Washington, United States<br>South San Francisco, California, United States | Bachelors | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007) | May 07, 2026 |
 | Xaira Therapeutics | AI in Residence 🇺🇸 | South San Francisco, California, United States | PhD, Masters | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007) | May 07, 2026 |
-| Nvidia | ASIC Physical Design Engineer, Netlisting - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681) | May 07, 2026 |
+| Nvidia | Verification Engineer - New College Grad 2026 🇺🇸 | 3 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2017633) | May 07, 2026 |
 | Google | Optical Validation Engineer, Google Cloud 🇺🇸 | Sunnyvale, CA, USA | Masters, Bachelors | [Apply](https://www.google.com/about/careers/applications/jobs/results/143702138877289158) | May 07, 2026 |
 | DRW | Research Engineer (FICCO) 🇺🇸 | Chicago | Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) | May 07, 2026 |
-| Nvidia | GPU Verification Engineer - New College Grad 2026 🇺🇸 | US, MA, Westford | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593) | May 07, 2026 |
-| Nvidia | Verification Engineer - New College Grad 2026 🇺🇸 | 3 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2017633) | May 06, 2026 |
+| Nvidia | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | May 07, 2026 |
+| Nvidia | Software Engineering Intern, AI Tools - Fall 2026 🇺🇸 | US, CA, Santa Clara | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805) | May 07, 2026 |
 | Google | Hardware Validation Engineer, Cloud Platforms 🇺🇸 | Sunnyvale, CA, USA | PhD, Masters, Bachelors | [Apply](https://www.google.com/about/careers/applications/jobs/results/135325114404086470) | May 06, 2026 |
 | Discord | Data Engineer, Analytics 🇺🇸 | San Francisco Bay Area | - | [Apply](https://job-boards.greenhouse.io/discord/jobs/8371252002) | May 06, 2026 |
 | Anthropic | Anthropic Fellows Program 🇺🇸 | London, UK<br>Ontario, CAN<br>Remote-Friendly, United States<br>San Francisco, CA | Bachelors | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | May 06, 2026 |
-| Nvidia | Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | May 06, 2026 |
-| Nvidia | Software Engineering Intern, AI Tools - Fall 2026 🇺🇸 | US, CA, Santa Clara | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools---Fall-2026_JR2016805) | May 06, 2026 |
+| Nvidia | Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939) | May 06, 2026 |
+| Nvidia | Power Methodology and Modeling Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1) | May 06, 2026 |
 | Uber | Software Engineer II - Grocery & Retail 🇺🇸 | New York, New York, United States | Masters | [Apply](https://www.uber.com/careers/list/156728) | May 05, 2026 |
 | Snowflake | Product Finance Analyst 🇺🇸 | US-CA-Menlo Park | Bachelors, New Grad | [Apply](https://jobs.ashbyhq.com/snowflake/7c4b66d9-71e0-4a43-8e80-d20b5a3efc28) | May 05, 2026 |
+| Nvidia | Formal Verification Intern - Fall 2026 🇺🇸 | 2 Locations | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | May 05, 2026 |
 | DRW | Research Engineer 🇺🇸 | New York City | Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) | May 05, 2026 |
 | DRW | Software Engineer, Research – Cumberland Systematic 🇺🇸 | Chicago | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7283668) | May 05, 2026 |
 | DRW | Software Engineer, Cumberland/FICCO Tools Engineering 🇺🇸 | New York City | Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7392396) | May 05, 2026 |
 | DRW | Software Engineer, Research – Cumberland Systematic 🇺🇸 | New York City | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7743648) | May 05, 2026 |
 | DRW | Quantitative Researcher 🇺🇸 | New York | PhD, Bachelors | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7650182) | May 05, 2026 |
+| Adobe | Junior Software Development Engineer 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Junior-Software-Development-Engineer_R168092) | May 05, 2026 |
 | Inceptive | Internship 🇺🇸 | Palo Alto, CA | Intern | [Apply](https://job-boards.greenhouse.io/inceptive/jobs/5103191007) | May 05, 2026 |
-| Nvidia | Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016939) | May 05, 2026 |
-| Nvidia | Power Methodology and Modeling Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1) | May 05, 2026 |
 | Plaid | Software Engineer, Backend 🇺🇸 | San Francisco HQ | Intern | [Apply](https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b) | May 04, 2026 |
 | Plaid | Software Engineer, Backend 🇺🇸 | Seattle Office | Intern | [Apply](https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d) | May 04, 2026 |
 | Plaid | Software Engineer, Backend 🇺🇸 | New York City Office | Intern | [Apply](https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9) | May 04, 2026 |
-| Nvidia | Formal Verification Intern - Fall 2026 🇺🇸 | 2 Locations | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) | May 04, 2026 |
 | Figma | Software Engineer, Full Stack 🇺🇸 | San Francisco, CA • New York, NY • United States | - | [Apply](https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004) | May 04, 2026 |
-| Adobe | Junior Software Development Engineer 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Junior-Software-Development-Engineer_R168092) | May 04, 2026 |
 | Cognition AI | Research, Post-Training 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10) | May 01, 2026 |
+| Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336) | May 01, 2026 |
 | Uber | Software Engineer II - Fullstack, Grocery 🇺🇸 | Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/154688) | Apr 30, 2026 |
 | Google | Security Engineer, Access Security Team 🇺🇸 | New York, NY, USA | Bachelors | [Apply](https://www.google.com/about/careers/applications/jobs/results/105043434598736582) | Apr 30, 2026 |
 | GitLab | Intermediate Backend Engineer,  SSCS: Supply Chain 🇺🇸 | Remote, India | - | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8480565002) | Apr 30, 2026 |
 | GitLab | Intermediate Backend Engineer, Database Automation (Ruby) 🇺🇸 | Remote, India | - | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8481029002) | Apr 30, 2026 |
-| Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336) | Apr 30, 2026 |
 | Google DeepMind | Frontier AI Research Scientist, DeepMind 🇺🇸 | Mountain View, CA, USA | PhD | [Apply](https://www.google.com/about/careers/applications/jobs/results/110687296503587526) | Apr 29, 2026 |
 | Benchling | Software Engineer, Developer Enablement 🇺🇸 | San Francisco, CA | Intern | [Apply](https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8) | Apr 29, 2026 |
+| Nvidia | Hardware Applications Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940) | Apr 29, 2026 |
+| Nvidia | Applied Machine Learning Engineer, Circuit Design - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517) | Apr 28, 2026 |
 | Google | Data Engineer, Geo 3P and Developer Data Operations 🇺🇸 | Mountain View, CA, USA | Bachelors | [Apply](https://www.google.com/about/careers/applications/jobs/results/86745576837653190) | Apr 28, 2026 |
 | EvolutionaryScale | Group Leader, Immunology 🇺🇸 | New York, NY (Hybrid) | PhD, New Grad | [Apply](https://job-boards.greenhouse.io/biohub/jobs/7535647) | Apr 28, 2026 |
 | Benchling | Software Engineer, Agents 🇺🇸 | San Francisco, CA | - | [Apply](https://jobs.ashbyhq.com/benchling/815d941c-dff6-40cb-8307-57695acb37a7) | Apr 28, 2026 |
+| Adobe | Software Development Engineer - Front End 🇺🇸 | San Francisco | Masters, Bachelors | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Software-Development-Engineer---Front-End_R168188) | Apr 28, 2026 |
 | Airbnb | iOS Software Engineer, Airbnb - New Grad 🇺🇸 | San Francisco, CA, Seattle, WA | New Grad | [Apply](https://careers.airbnb.com/positions/7859317?gh_jid=7859317) | Apr 28, 2026 |
-| Nvidia | Hardware Applications Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Applications-Engineer---New-College-Grad-2026_JR2016940) | Apr 28, 2026 |
 | Ramp | Software Engineer, Engineering Platform 🇺🇸 | New York, NY (HQ) | - | [Apply](https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1) | Apr 27, 2026 |
 | Ramp | Software Engineer, Production Engineering 🇺🇸 | New York, NY (HQ) | - | [Apply](https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24) | Apr 27, 2026 |
-| Nvidia | Applied Machine Learning Engineer, Circuit Design - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517) | Apr 27, 2026 |
-| Adobe | Software Development Engineer - Front End 🇺🇸 | San Francisco | Masters, Bachelors | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Software-Development-Engineer---Front-End_R168188) | Apr 27, 2026 |
 | Uber | Graduate 2026 Software Engineer I, Mobile (iOS) 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | Masters, Bachelors | [Apply](https://www.uber.com/careers/list/158011) | Apr 27, 2026 |
 | Uber | Graduate 2026 Software Engineer I, Mobile (Android) 🇺🇸 | Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | Masters, Bachelors | [Apply](https://www.uber.com/careers/list/158037) | Apr 27, 2026 |
 | Notion | Software Engineer, New Grad (AI) 🇺🇸 | San Francisco, California | New Grad | [Apply](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | Apr 27, 2026 |
+| Nvidia | ASIC Verification Engineer - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573) | Apr 25, 2026 |
 | Figure AI | Electrical Engineering Intern [Fall 2026] 🇺🇸 | San Jose, CA | Bachelors, New Grad, Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) | Apr 25, 2026 |
 | Figure AI | Electrical Interconnect Engineering Intern [Fall 2026] 🇺🇸 | San Jose, CA | Masters, Bachelors, Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676468006) | Apr 25, 2026 |
-| Nvidia | ASIC Verification Engineer - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573) | Apr 24, 2026 |
+| Nvidia | Low Power ASIC Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001) | Apr 25, 2026 |
+| Nvidia | Software Engineering Intern, JAX - Fall 2026 🇺🇸 | US, CA, Santa Clara | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Apr 25, 2026 |
 | Google | Modular Data Center Product Engineer, Design 🇺🇸 | Seattle, WA, USA | Masters, Bachelors | [Apply](https://www.google.com/about/careers/applications/jobs/results/98426115135021766) | Apr 24, 2026 |
+| Adobe | Software Development Engineer 🇺🇸 | San Jose | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Apr 24, 2026 |
 | Physical Intelligence | Mechatronics Intern 🇺🇸 | San Francisco | Intern | [Apply](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) | Apr 24, 2026 |
 | Physical Intelligence | Hardware Systems Intern 🇺🇸 | San Francisco | Intern | [Apply](https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f) | Apr 24, 2026 |
-| Etched | Thermo-Mech CFD Simulation Intern - Fall 2026 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff) | Apr 24, 2026 |
-| Nvidia | Low Power ASIC Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001) | Apr 24, 2026 |
-| Nvidia | Software Engineering Intern, JAX - Fall 2026 🇺🇸 | US, CA, Santa Clara | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Apr 24, 2026 |
+| Etched | Thermo-Mech CFD Simulation Intern 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff) | Apr 24, 2026 |
+| Adobe | Research Scientist 🇺🇸 | San Jose | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166575) | Apr 23, 2026 |
+| Adobe | Research Scientist 🇺🇸 | San Jose | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R167353) | Apr 23, 2026 |
 | Uber | Software Engineer II - iOS, Engagement Growth 🇺🇸 | New York, New York, United States | Bachelors | [Apply](https://www.uber.com/careers/list/155187) | Apr 23, 2026 |
-| Adobe | Software Development Engineer 🇺🇸 | San Jose | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R168026) | Apr 23, 2026 |
+| Adobe | 2026 Intern - Research Scientist/Engineer 🇺🇸 | 7 Locations | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | Apr 23, 2026 |
+| Adobe | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern 🇺🇸 | 3 Locations | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Apr 23, 2026 |
+| Adobe | Machine Learning Engineer 3 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer-3_R157544-1) | Apr 23, 2026 |
+| Adobe | Software Development Engineer 3 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3_R165606-1) | Apr 23, 2026 |
+| Adobe | Security Engineer 3 🇺🇸 | 2 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Security-Engineer-3_R167561) | Apr 23, 2026 |
+| Adobe | Software Development Engineer 🇺🇸 | San Jose | Bachelors | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) | Apr 23, 2026 |
+| Adobe | 2026 AI/ML Intern - Machine Learning Engineer 🇺🇸 | 7 Locations | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | Apr 23, 2026 |
+| Adobe | Research Scientist/Engineer - Photoshop 🇺🇸 | Seattle | PhD, Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Research-Scientist-Engineer_R164613) | Apr 23, 2026 |
+| Adobe | 2026 University Graduate - Research Scientist/Engineer 🇺🇸 | San Francisco | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690) | Apr 23, 2026 |
+| Adobe | 2026 University Graduate - Machine Learning Engineer 🇺🇸 | Seattle | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133) | Apr 23, 2026 |
 | Notion | Software Engineer, New Grad 🇺🇸 | San Francisco, California | New Grad | [Apply](https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555) | Apr 23, 2026 |
-| Adobe | Research Scientist 🇺🇸 | San Jose | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166575) | Apr 22, 2026 |
-| Adobe | Research Scientist 🇺🇸 | San Jose | PhD | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R167353) | Apr 22, 2026 |
-| Adobe | 2026 Intern - Research Scientist/Engineer 🇺🇸 | 7 Locations | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | Apr 22, 2026 |
-| Adobe | 2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern 🇺🇸 | 3 Locations | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Apr 22, 2026 |
-| Adobe | Machine Learning Engineer 3 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer-3_R157544-1) | Apr 22, 2026 |
-| Adobe | Software Development Engineer 3 🇺🇸 | San Jose | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3_R165606-1) | Apr 22, 2026 |
-| Adobe | Data Scientist 🇺🇸 | San Jose | Masters, Bachelors | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Data-Scientist_R165959-1) | Apr 22, 2026 |
-| Adobe | Security Engineer 3 🇺🇸 | 2 Locations | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Security-Engineer-3_R167561) | Apr 22, 2026 |
-| Adobe | Software Development Engineer 🇺🇸 | San Jose | Bachelors | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) | Apr 22, 2026 |
-| Adobe | 2026 AI/ML Intern - Machine Learning Engineer 🇺🇸 | 7 Locations | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493) | Apr 22, 2026 |
-| Adobe | Research Scientist/Engineer - Photoshop 🇺🇸 | Seattle | PhD, Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Research-Scientist-Engineer_R164613) | Apr 22, 2026 |
-| Adobe | 2026 University Graduate - Research Scientist/Engineer 🇺🇸 | San Francisco | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690) | Apr 22, 2026 |
-| Adobe | 2026 University Graduate - Machine Learning Engineer 🇺🇸 | Seattle | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133) | Apr 22, 2026 |
 | Figma | Data Scientist, Core Data -  PhD (2026) 🇺🇸 | New York, NY • United States<br>San Francisco, CA • New York, NY | PhD, Intern | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | Apr 22, 2026 |
 | Google | Security Engineer, Access Risk Intelligence and Security Mitigation 🇺🇸 | New York, NY, USA | Bachelors | [Apply](https://www.google.com/about/careers/applications/jobs/results/74402318644060870) | Apr 21, 2026 |
 | Figure AI | Embedded Software Intern [Fall 2026] 🇺🇸 | San Jose, CA | Bachelors, New Grad, Intern | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4397706006) | Apr 21, 2026 |
@@ -396,7 +371,7 @@ how to fork, how to add companies, and how filtering works.
 | Snowflake | Product Analyst 🇺🇸 | US-CA-Menlo Park | Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/snowflake/7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d) | Apr 14, 2026 |
 | Anthropic | Full-Stack Software Engineer, Reinforcement Learning 🇺🇸 | San Francisco, CA \| New York City, NY | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5186067008) | Apr 14, 2026 |
 | Cursor | Software Engineer, Agent Evaluation and Quality 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693) | Apr 13, 2026 |
-| Etched | DFT Intern - Summer 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | Apr 13, 2026 |
+| Etched | DFT Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d) | Apr 13, 2026 |
 | Databricks | Customer Enablement Specialist 🇺🇸 | Bellevue, Washington | - | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002) | Apr 09, 2026 |
 | Databricks | Customer Enablement Specialist 🇺🇸 | Bellevue, Washington | - | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8431935002) | Apr 09, 2026 |
 | Uber | Graduate 2026 Software Engineer I, US 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | Masters, Bachelors | [Apply](https://www.uber.com/careers/list/158009) | Apr 09, 2026 |
@@ -421,13 +396,12 @@ how to fork, how to add companies, and how filtering works.
 | Cursor | Software Engineer, Bugbot 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a) | Mar 12, 2026 |
 | Cursor | Software Engineer, Enterprise Platform 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7) | Mar 12, 2026 |
 | Figure AI | Mechanical Engineer, Battery 🇺🇸 | San Jose, CA | Masters, Bachelors | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4656559006) | Feb 20, 2026 |
-| Etched | RTL Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | Feb 07, 2026 |
-| Etched | Infrastructure Intern - Summer 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877) | Feb 07, 2026 |
-| Etched | Firmware Intern - Summer 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) | Feb 07, 2026 |
-| Etched | Electrical Platform Intern - Fall 2026 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a) | Feb 07, 2026 |
-| Etched | Supercomputing Intern - Summer 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/982a8ee4-5e1e-43c7-a918-6dac285cdddd) | Feb 07, 2026 |
-| Etched | DV Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb) | Feb 07, 2026 |
-| Etched | Mech / Thermal Intern - Summer 2026 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | Feb 07, 2026 |
+| Etched | RTL Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) | Feb 07, 2026 |
+| Etched | Infrastructure Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877) | Feb 07, 2026 |
+| Etched | Firmware Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) | Feb 07, 2026 |
+| Etched | Electrical Platform Intern 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a) | Feb 07, 2026 |
+| Etched | DV Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb) | Feb 07, 2026 |
+| Etched | Mech / Thermal Intern 🇺🇸 | San Jose | Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229) | Feb 07, 2026 |
 | Google | Hardware Validation Engineer, ML Products, University Graduate 🇺🇸 | Sunnyvale, CA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/jobs/results/107128442041836230) | Jan 27, 2026 |
 | Cursor | Software Engineer, ML Research 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14) | Jan 27, 2026 |
 | Cursor | Software Engineer, ML Infrastructure 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9) | Jan 27, 2026 |
@@ -436,7 +410,7 @@ how to fork, how to add companies, and how filtering works.
 | Cursor | Software Engineer, Data Infrastructure 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/8d07fe0f-34aa-458b-88e8-091469a963dc) | Jan 18, 2026 |
 | Sierra | Software Engineer, Security 🇺🇸 | San Francisco, CA | - | [Apply](https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1) | Jan 07, 2026 |
 | Cursor | Software Engineer, Developer Productivity 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347) | Dec 15, 2025 |
-| Etched | Inference Intern - Fall 2026 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | Dec 08, 2025 |
+| Etched | Inference Intern 🇺🇸 | San Jose | PhD, Masters, Bachelors, Intern | [Apply](https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) | Dec 08, 2025 |
 | Google | Network Operations Residency Program, University Graduate, 2026 Start 🇺🇸 | Thornton, CO, USA | Bachelors, New Grad, Intern | [Apply](https://www.google.com/about/careers/applications/jobs/results/110139330885755590) | Nov 21, 2025 |
 | Clay | Software Engineer, Backend 🇺🇸 | New York | - | [Apply](https://jobs.ashbyhq.com/claylabs/248aa0c7-034f-47d3-a57e-ce16736eeab6) | Nov 21, 2025 |
 | Cursor | Software Engineer, Client Infrastructure 🇺🇸 | San Francisco | - | [Apply](https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64) | Nov 19, 2025 |
@@ -461,11 +435,13 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (179)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (212)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 22, 2026 |
@@ -512,20 +488,49 @@ how to fork, how to add companies, and how filtering works.
 | ~~Microsoft~~ | ~~Software Engineer II 🇺🇸~~ | Hyderabad, TS, IN / Noida, UP, IN / Bengaluru, KA, IN | - | Closed | May 21, 2026 |
 | ~~DoorDash~~ | ~~Software Engineer, Machine Learning - Fraud 🇺🇸~~ | Sunnyvale, CA<br>San Francisco, CA | PhD, Masters | Closed | May 21, 2026 |
 | ~~Microsoft~~ | ~~Stagiaire en opérations critiques / Critical Environment Ops INTERN 🇺🇸~~ | Québec City, QC, CA / Montreal, QC, CA | Intern | Closed | May 21, 2026 |
-| ~~Netflix~~ | ~~Software Engineer in Test 5 - Apple Player 🇺🇸~~ | Los Gatos,California,United States of America | - | Closed | May 20, 2026 |
 | ~~MongoDB~~ | ~~Software Engineer 3, Backup 🇺🇸~~ | New York City | - | Closed | May 20, 2026 |
 | ~~Google~~ | ~~Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸~~ | Atlanta, GA, USA | New Grad | Closed | May 20, 2026 |
 | ~~Roblox~~ | ~~[2026] Design & Creative Fellowship 🇺🇸~~ | San Mateo, CA, United States | - | Closed | May 20, 2026 |
 | ~~Microsoft~~ | ~~Critical Environment Ops INTERN 🇺🇸~~ | ON,CA | Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~GTM Intern - Fall 2026 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~PD Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Firmware Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Core Ops Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~DFT Intern - Fall 2026 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Firmware Intern - Fall 2026 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Supercomputing Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~GTM Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Talent Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Supercomputing Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Inference Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Core Ops Intern - Summer 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~DV Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~PD Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Talent Intern - Summer 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~DV Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~DFT Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Infrastructure Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~DFT Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~GTM Intern - Summer 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Infrastructure Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Firmware Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Talent Intern - Fall 2026 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Electrical Platform Intern - Spring 2027 🇺🇸~~ | San Jose | Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Finance Intern - Summer 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Electrical Platform Intern - Summer 2027 🇺🇸~~ | San Jose | Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~ChipSim Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Finance Intern - Fall 2026 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Thermo-Mech CFD Simulation Intern - Summer 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Inference Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Mech / Thermal Intern - Fall 2026 🇺🇸~~ | San Jose | Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Thermo-Mech CFD Simulation Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~ChipSim Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Infrastructure Intern - Fall 2026 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Etched~~ | ~~Finance Intern - Spring 2027 🇺🇸~~ | San Jose | Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Mech / Thermal Intern - Summer 2027 🇺🇸~~ | San Jose | Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~RTL Intern - Spring 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~RTL Intern - Summer 2027 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | May 19, 2026 |
+| ~~Etched~~ | ~~Mech / Thermal Intern - Spring 2027 🇺🇸~~ | San Jose | Masters, Bachelors, Intern | Closed | May 19, 2026 |
 | ~~Uber~~ | ~~Software Engineer II, U4B Employee Mobility 🇺🇸~~ | San Francisco, California, United States / Sunnyvale, California, United States | Bachelors | Closed | May 18, 2026 |
 | ~~Nvidia~~ | ~~Technical Marketing Engineering Intern, Robotics - Fall 2026 🇺🇸~~ | US, CA, Santa Clara | Intern | Closed | May 18, 2026 |
 | ~~Reddit~~ | ~~iOS Software Engineer, Contributions 🇺🇸~~ | Remote - United States | Bachelors, Intern | Closed | May 14, 2026 |
@@ -547,6 +552,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Microsoft~~ | ~~Research Intern - Socio-Technical Workflow Analysis 🇺🇸~~ | Redmond, WA, US / Cambridge, MA, US | Intern | Closed | Apr 28, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Audio and Acoustics 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Apr 23, 2026 |
 | ~~Figma~~ | ~~Inside Sales Representative - Early Career (2026) 🇺🇸~~ | San Francisco, CA • New York, NY | New Grad | Closed | Apr 23, 2026 |
+| ~~Adobe~~ | ~~Data Scientist 🇺🇸~~ | San Jose | Masters, Bachelors | Closed | Apr 22, 2026 |
 | ~~Nvidia~~ | ~~Deep Learning Architect, LLM Inference - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | New Grad | Closed | Apr 22, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Computer Vision and Deep Learning 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Apr 21, 2026 |
 | ~~Nvidia~~ | ~~AI Chip Design Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | New Grad | Closed | Apr 21, 2026 |
@@ -566,6 +572,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Figure AI~~ | ~~Hardware Reliability Intern [Summer 2026] 🇺🇸~~ | San Jose, CA | Intern | Closed | Mar 31, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - AI Safety and Security 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Mar 05, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Cryptography and Applications 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Feb 20, 2026 |
+| ~~Etched~~ | ~~Supercomputing Intern - Summer 2026 🇺🇸~~ | San Jose | PhD, Masters, Bachelors, Intern | Closed | Feb 07, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Azure Storage 🇺🇸~~ | Redmond, WA, US / Mountain View, CA, US | Intern | Closed | Feb 06, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Applied Speech Research 🇺🇸~~ | Berkeley, CA, US / Burlington, MA, US | Intern | Closed | Feb 04, 2026 |
 | ~~Microsoft~~ | ~~Research Intern - Agentic Programming 🇺🇸~~ | Redmond, WA, US | Intern | Closed | Feb 03, 2026 |
