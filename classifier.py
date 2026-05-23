@@ -58,8 +58,17 @@ def classify_job_fields(
     include = confidence.level == "high_include"
 
     req = extract_requirements_text(description)
-    search_text = " ".join(p for p in (title, req) if p)
-    levels = tuple(extract_education_levels(search_text)) if include else ()
+    levels = (
+        tuple(
+            extract_education_levels(
+                title,
+                requirements_text=req,
+                description=description,
+            )
+        )
+        if include
+        else ()
+    )
 
     result = JobClassification(
         include=include,

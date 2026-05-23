@@ -60,7 +60,8 @@ TITLE_CASES: list[tuple[str, bool, bool]] = [
     ("Compiler Engineer, Early Career", True, True),
     ("Silicon Validation Intern", True, True),
     ("VLSI Physical Design Intern (2026)", True, True),
-    ("Software Engineer II", True, True),
+    ("Software Engineer II", False, True),
+    ("Software Engineer III, Full Stack", False, True),
     ("Junior Backend Engineer", True, True),
     # ---- Negative: non-tech early career ----
     ("Marketing Intern", False, False),
@@ -110,7 +111,7 @@ def test_none_title_is_safe() -> None:
 @pytest.mark.parametrize("title,expected_signal", [
     ("Software Engineer I", "engineer i"),
     ("Software Engineer 1", "engineer 1"),
-    ("Software Engineer II", "engineer ii"),
+    ("Software Engineer II", None),
     ("Member of Technical Staff", "member of technical staff"),
     ("AI Resident", "resident"),
     ("Engineering Residency Program", "residency"),
@@ -258,6 +259,29 @@ def test_classify_title_confidence_hardware_intern() -> None:
     conf = classify_title_confidence("ChipSim Intern - Spring 2027")
     assert conf.level == "high_include"
     assert conf.is_technical is True
+
+
+def test_engineer_ii_excluded_without_new_grad() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer II",
+        "Minimum qualifications: Bachelor's degree. 2+ years of experience.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "experienced level title"
+
+
+def test_technical_support_engineer_1_included() -> None:
+    conf = classify_title_confidence(
+        "Technical Support Engineer 1",
+        "Bachelor's degree. 0-2 years experience supporting production systems.",
+    )
+    assert conf.level == "high_include"
+
+
+def test_tech_fellowship_included() -> None:
+    conf = classify_title_confidence("American Tech Fellowship for Veterans")
+    assert conf.level == "high_include"
+    assert conf.reason == "fellowship program"
 
 
 def test_classify_title_confidence_mts_excluded() -> None:

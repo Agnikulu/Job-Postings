@@ -314,10 +314,10 @@ def test_associate_field_engineer_excluded() -> None:
     assert conf.reason == "non-tech"
 
 
-def test_cursor_open_level_swe_included() -> None:
+def test_cursor_open_level_swe_excluded_without_ec() -> None:
     conf = classify_title_confidence("Software Engineer, Growth", CURSOR_LIKE)
-    assert conf.level == "high_include"
-    assert conf.reason == "open-level technical ic"
+    assert conf.level == "high_exclude"
+    assert conf.reason == "no ec in requirements"
 
 
 def test_bare_swe_still_excluded_without_team_suffix() -> None:

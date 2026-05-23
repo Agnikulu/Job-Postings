@@ -5,7 +5,12 @@ on:
     # Hourly. GitHub Actions free-tier crons are best-effort and typically
     # run with ~5-20 min jitter (sometimes more during platform peaks).
     - cron: "0 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      reset_state:
+        description: Clear archive/seen/stats and rebuild README from scratch
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,6 +44,7 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           PYTHONUNBUFFERED: "1"
           ATS_SNIPER_FETCH_WORKERS: "4"
+          ATS_SNIPER_RESET_STATE: ${{ github.event_name == 'workflow_dispatch' && inputs.reset_state && '1' || '' }}
           # Keep hourly runs inside the job budget (Google can return ~4k jobs at 200 pages).
           ATS_SNIPER_MAX_LIST_PAGES: "60"
           ATS_SNIPER_MAX_JOBS_PER_COMPANY: "1200"

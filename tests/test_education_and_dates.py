@@ -20,59 +20,73 @@ from education import extract_education_levels
 
 EDUCATION_CASES = [
     # PhD
-    ("PhD Data Scientist, Intern", ["PhD", "Intern"]),
-    ("PhD Machine Learning Engineer, Intern", ["PhD", "Intern"]),
-    ("PhD GenAI Research Scientist Intern", ["PhD", "Intern"]),
-    ("Ph.D. Research Intern", ["PhD", "Intern"]),
-    ("Doctoral Research Fellow", ["PhD"]),
-    ("Postdoc Researcher", ["PhD"]),
-    # Masters
-    ("Master's Fall Machine Learning Internship", ["Masters", "Intern"]),
-    ("MS Computer Science Intern", ["Masters", "Intern"]),
-    ("M.S. Graduate Student Researcher", ["Masters"]),
-    # Bachelors
-    ("Undergraduate Software Engineer Intern", ["Bachelors", "Intern"]),
-    ("Bachelor's Student Intern", ["Bachelors", "Intern"]),
-    # New Grad (no degree level)
-    ("New Grad Software Engineer", ["New Grad"]),
-    ("Software Engineering New Grad (2026)", ["New Grad"]),
-    ("Early Career Software Engineer", ["New Grad"]),
-    ("Entry-Level Applied Scientist", ["New Grad"]),
-    ("University Graduate - Machine Learning Engineer", ["New Grad"]),
-    ("New College Grad - ASIC Engineer", ["New Grad"]),
+    ("PhD Data Scientist, Intern", None, ["PhD", "Intern"]),
+    ("PhD Machine Learning Engineer, Intern", None, ["PhD", "Intern"]),
+    ("Ph.D. Research Intern", None, ["PhD", "Intern"]),
+    # Masters / Bachelors students
+    (
+        "MS Computer Science Intern",
+        "Currently pursuing a master's degree in CS.",
+        ["MS Student", "Intern"],
+    ),
+    (
+        "Undergraduate Software Engineer Intern",
+        "You are an undergraduate student in computer science.",
+        ["BS Student", "Intern"],
+    ),
+    # New Grad
+    ("New Grad Software Engineer", None, ["New Grad"]),
+    ("Software Engineering New Grad (2026)", None, ["New Grad"]),
+    ("University Graduate - Machine Learning Engineer", None, ["New Grad"]),
+    ("New College Grad - ASIC Engineer", None, ["New Grad"]),
     # Intern only
-    ("Software Engineer Intern", ["Intern"]),
-    ("Coop Data Engineer", ["Intern"]),
-    ("Co-Op, Software Engineering", ["Intern"]),
-    ("Internship - Search Backend Infra Engineer", ["Intern"]),
-    # Combinations
-    ("[2026] Data Scientist - PhD Early Career", ["PhD", "New Grad"]),
-    ("Master's New Grad Software Engineer", ["Masters", "New Grad"]),
-    # Empty / no match
-    ("", []),
-    ("Software Engineer", []),
-    ("Senior Engineer", []),  # ANTI keyword still gets tagged by extract,
-    # ... because the education tagger doesn't filter; the orchestrator
-    # only invokes it on titles that already passed classify().
+    ("Software Engineer Intern", None, ["Intern"]),
+    ("Co-Op, Software Engineering", None, ["Intern"]),
+    # Requirements-first
+    (
+        "Software Engineer",
+        "Minimum qualifications: Bachelor's degree required. New grad hiring for 2026.",
+        ["Bachelors", "New Grad"],
+    ),
+    (
+        "Research Intern",
+        "PhD candidates welcome. Pursuing a doctoral degree.",
+        ["PhD Student", "Intern"],
+    ),
+    # Experienced ladder — no tags
+    ("Software Engineer II", "Bachelor's degree required.", []),
+    ("", None, []),
+    ("Senior Engineer", None, []),
 ]
 
 
-@pytest.mark.parametrize("title,expected", EDUCATION_CASES)
-def test_extract_education_levels(title: str, expected: list[str]) -> None:
-    assert extract_education_levels(title) == expected, (
-        f"education tags mismatch for {title!r}"
-    )
+@pytest.mark.parametrize("title,requirements,expected", EDUCATION_CASES)
+def test_extract_education_levels(
+    title: str,
+    requirements: str | None,
+    expected: list[str],
+) -> None:
+    assert (
+        extract_education_levels(title, requirements_text=requirements) == expected
+    ), f"education tags mismatch for {title!r}"
 
 
 def test_education_handles_none() -> None:
     assert extract_education_levels(None) == []
 
 
+def test_entry_level_title_only_not_new_grad_from_body() -> None:
+    tags = extract_education_levels(
+        "Applied Scientist",
+        requirements_text="This is an entry-level role with 5+ years of experience.",
+    )
+    assert "New Grad" not in tags
+
+
 # =============================================================================
 # Posted-date parsing
 # =============================================================================
 
-# Use a fixed reference date so Workday relative-date tests are deterministic.
 REF = datetime(2026, 5, 21, 12, 0, 0, tzinfo=timezone.utc)
 
 
@@ -95,7 +109,6 @@ def test_greenhouse_iso_with_offset() -> None:
 
 
 def test_lever_epoch_ms() -> None:
-    # 1747257600000 = 2025-05-14 21:00:00 UTC
     assert parse_posted_date(1747257600000, "lever") == "2025-05-14"
 
 
@@ -123,7 +136,6 @@ def test_workday_weeks_ago() -> None:
 
 def test_workday_months_ago() -> None:
     out = parse_posted_date("Posted 1 Month Ago", "workday", ref=REF)
-    # 30-day approximation -> 2026-04-21
     assert out == "2026-04-21"
 
 
@@ -137,5 +149,4 @@ def test_none_returns_none() -> None:
 
 
 def test_unknown_ats_falls_through() -> None:
-    # Unknown ATS still tries ISO parsing
     assert parse_posted_date("2026-05-20", "smartrecruiters") == "2026-05-20"

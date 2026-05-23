@@ -17,6 +17,8 @@ Pipeline per run:
 Environment overrides:
     DISCORD_WEBHOOK           — Webhook URL (dry-run if unset).
     ATS_SNIPER_ALL_LOCATIONS  — "1" to disable US-only location filter.
+    ATS_SNIPER_RESET_STATE    — "1" to wipe seen_jobs, jobs_archive, and
+                                company_stats before this run (fresh README).
 """
 
 from __future__ import annotations
@@ -69,6 +71,27 @@ def load_registry(path: Path = REGISTRY_PATH) -> list[dict[str, Any]]:
 
 def _us_filter_enabled() -> bool:
     return os.environ.get("ATS_SNIPER_ALL_LOCATIONS", "").strip() != "1"
+
+
+def _reset_state_requested() -> bool:
+    return os.environ.get("ATS_SNIPER_RESET_STATE", "").strip() == "1"
+
+
+def _reset_persisted_state(log: logging.Logger) -> None:
+    """Clear dedupe, archive, and stats so the next run rebuilds from scratch."""
+    log.warning(
+        "ATS_SNIPER_RESET_STATE=1 — clearing seen_jobs, jobs_archive, company_stats"
+    )
+    for path in (STATE_PATH, ARCHIVE_PATH, STATS_PATH):
+        path.write_text("{}\n", encoding="utf-8")
+    LATEST_JOBS_PATH.write_text(
+        "# Latest Job Sniper Run\n\n_State reset; awaiting first scrape._\n",
+        encoding="utf-8",
+    )
+    README_PATH.write_text(
+        render_readme.render(JobsArchive.load(ARCHIVE_PATH)),
+        encoding="utf-8",
+    )
 
 
 def _fetch_workers() -> int:
@@ -145,6 +168,8 @@ def write_latest_jobs_md(
 
 def run() -> int:
     log = logging.getLogger("scraper")
+    if _reset_state_requested():
+        _reset_persisted_state(log)
     state = State.load(STATE_PATH)
     stats = CompanyStats.load(STATS_PATH)
     archive = JobsArchive.load(ARCHIVE_PATH)

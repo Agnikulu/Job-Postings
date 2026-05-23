@@ -129,6 +129,7 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | `ATS_SNIPER_FETCH_WORKERS` | 4 | Parallel company fetch |
 | `ATS_SNIPER_MAX_LIST_PAGES` | 60 | Cap Google/Microsoft/Workday/Apple list depth in CI |
 | `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 1200 | Cap single-response megaboards (e.g. Anduril ~1.9k) |
+| `ATS_SNIPER_RESET_STATE` | — | Set to `1` (or use workflow **reset_state**) to wipe `seen_jobs.json`, `jobs_archive.json`, and `company_stats.json` before the run |
 
 ### 5. State and deduplication
 
@@ -136,6 +137,8 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 |------|------|
 | `seen_jobs.json` | URL → first-seen time; Discord only fires on new URLs |
 | `jobs_archive.json` | All matched jobs ever seen; `is_closed` when URL disappears from a later scrape |
+
+**Fresh start:** Run Actions → **ATS Sniper** → **Run workflow** with **reset_state** checked, or locally `ATS_SNIPER_RESET_STATE=1 python scraper.py`. That clears old README rows and re-notifies every current match once (Discord summary if &gt;50).
 | `company_stats.json` | Per-company posting/match counts; **slug-rot** warning if matches drop to zero |
 | `latest_jobs.md` | Human-readable log of the latest Discord batch |
 
@@ -164,15 +167,17 @@ Rigorous manual labels on **5,393** fetched jobs (up to ~100/company sample), me
 
 | Metric | Regex vs manual |
 |--------|-----------------|
-| Accuracy | **96.9%** |
-| Precision | **51.4%** (137 FP) |
-| Recall | **81.9%** (32 FN) |
-| F1 | **0.63** |
+| Accuracy | **98.7%** |
+| Precision | **81.2%** (32 FP) |
+| Recall | **78.0%** (39 FN) |
+| F1 | **0.80** |
 | Manual includes (ground truth) | 177 (3.3% of jobs) |
 
-**Main false-positive pattern:** `open-level technical ic` — bare `Software Engineer, …` at Cursor, Sierra, Ramp, etc. flagged as EC when manual rubric says experienced IC.
+**Recent filter changes:** exclude mid-level ladder titles (Engineer II/III, L4+), tighten `open-level technical ic` to require real EC signals in requirements, and tag education from the qualifications section (student vs degree-required vs new grad).
 
-**Main false-negative pattern:** explicit EC titles the regex misses (some academies, support engineer L1, technical interns classified as non-tech).
+**Remaining false positives:** mostly `explicit ec technical` on titles that still slip through without YOE in the parsed requirements block.
+
+**Remaining false negatives:** some forward-deployed / bare SWE titles with EC only in unparsed description sections, plus a few intern/support edge cases.
 
 Re-run scoring after filter changes:
 
