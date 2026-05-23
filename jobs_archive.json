@@ -1,1 +1,3434 @@
-{}
+{
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Software-Development-Engineer---Front-End_R168188": {
+    "title": "Software Development Engineer - Front End",
+    "company": "Adobe",
+    "location": "San Francisco",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-27",
+    "first_seen": "2026-05-23T07:35:12+00:00",
+    "last_seen": "2026-05-23T07:35:12+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2026-University-Graduate---Research-Scientist-Engineer_R160690": {
+    "title": "2026 University Graduate - Research Scientist/Engineer",
+    "company": "Adobe",
+    "location": "San Francisco",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:39:09+00:00",
+    "last_seen": "2026-05-23T07:39:09+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Data-Scientist_R165959-1": {
+    "title": "Data Scientist",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:38:28+00:00",
+    "last_seen": "2026-05-23T07:38:28+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Junior-Software-Development-Engineer_R168092": {
+    "title": "Junior Software Development Engineer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-04",
+    "first_seen": "2026-05-23T07:36:56+00:00",
+    "last_seen": "2026-05-23T07:36:56+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166368": {
+    "title": "Research Scientist",
+    "company": "Adobe",
+    "location": "3 Locations",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-23T07:36:13+00:00",
+    "last_seen": "2026-05-23T07:36:13+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R166575": {
+    "title": "Research Scientist",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:39:09+00:00",
+    "last_seen": "2026-05-23T07:39:09+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Research-Scientist_R167353": {
+    "title": "Research Scientist",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:38:01+00:00",
+    "last_seen": "2026-05-23T07:38:01+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R159512": {
+    "title": "Software Development Engineer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:37:50+00:00",
+    "last_seen": "2026-05-23T07:37:50+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R168026": {
+    "title": "Software Development Engineer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:37:22+00:00",
+    "last_seen": "2026-05-23T07:37:22+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706": {
+    "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
+    "company": "Adobe",
+    "location": "3 Locations",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:39:06+00:00",
+    "last_seen": "2026-05-23T07:39:06+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493": {
+    "title": "2026 AI/ML Intern - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "7 Locations",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:37:36+00:00",
+    "last_seen": "2026-05-23T07:37:36+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453": {
+    "title": "2026 Intern - Data Scientist",
+    "company": "Adobe",
+    "location": "San Jose",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-11",
+    "first_seen": "2026-05-23T07:36:35+00:00",
+    "last_seen": "2026-05-23T07:36:35+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317": {
+    "title": "2026 Intern - Research Scientist/Engineer",
+    "company": "Adobe",
+    "location": "7 Locations",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:39:09+00:00",
+    "last_seen": "2026-05-23T07:39:09+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Research-Scientist-Engineer_R164613": {
+    "title": "Research Scientist/Engineer - Photoshop",
+    "company": "Adobe",
+    "location": "Seattle",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:37:34+00:00",
+    "last_seen": "2026-05-23T07:37:34+00:00",
+    "is_closed": false
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133": {
+    "title": "2026 University Graduate - Machine Learning Engineer",
+    "company": "Adobe",
+    "location": "Seattle",
+    "department": null,
+    "category": "big_tech",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:39:09+00:00",
+    "last_seen": "2026-05-23T07:39:09+00:00",
+    "is_closed": false
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556867635": {
+    "title": "Data Center Technicians Intern",
+    "company": "Microsoft",
+    "location": "Middenmeer, NH, NL",
+    "department": "Data Center Technicians",
+    "category": "big_tech",
+    "ats": "microsoft",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:48+00:00",
+    "last_seen": "2026-05-23T07:40:48+00:00",
+    "is_closed": false
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556867858": {
+    "title": "Research Intern - Self-Improving AI",
+    "company": "Microsoft",
+    "location": "Cambridge, MA, US / New York, NY, US",
+    "department": "Applied Sciences",
+    "category": "big_tech",
+    "ats": "microsoft",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-23T07:40:48+00:00",
+    "last_seen": "2026-05-23T07:40:48+00:00",
+    "is_closed": false
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556867906": {
+    "title": "Research Science PhD Internship Opportunities - Coding Agents",
+    "company": "Microsoft",
+    "location": "Cambridge, England, GB",
+    "department": "Research Sciences",
+    "category": "big_tech",
+    "ats": "microsoft",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-19",
+    "first_seen": "2026-05-23T07:40:48+00:00",
+    "last_seen": "2026-05-23T07:40:48+00:00",
+    "is_closed": false
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556867925": {
+    "title": "Technical Support Engineering - Entry Level",
+    "company": "Microsoft",
+    "location": "Pune, MH, IN",
+    "department": "Technical Support Engineering",
+    "category": "big_tech",
+    "ats": "microsoft",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:40:47+00:00",
+    "last_seen": "2026-05-23T07:40:47+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007": {
+    "title": "Mission Operations Engineer, Connected Warfare (Active Clearance)",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Connected Warfare : Edge Compute & Communications Engineering : Mission Operations",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:27+00:00",
+    "last_seen": "2026-05-23T07:39:27+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4182443007?gh_jid=4182443007": {
+    "title": "Mission Operations Engineer, Connected Warfare (Active Clearance)",
+    "company": "Anduril",
+    "location": "Washington, District of Columbia, United States",
+    "department": "Connected Warfare : Edge Compute & Communications Engineering : Mission Operations",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:27+00:00",
+    "last_seen": "2026-05-23T07:39:27+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007": {
+    "title": "Business Operations Associate, Production",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Manufacturing : Manufacturing ",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:15+00:00",
+    "last_seen": "2026-05-23T07:39:15+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4644883007?gh_jid=4644883007": {
+    "title": "Manufacturing Test Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Manufacturing : Manufacturing Engineering : Production Test",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:25+00:00",
+    "last_seen": "2026-05-23T07:39:25+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007": {
+    "title": "Electrical Engineer, Maneuver Dominance",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Maritime & Maneuver Dominance : Maneuver Dominance Engineering : MD - EE",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:18+00:00",
+    "last_seen": "2026-05-23T07:39:18+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007": {
+    "title": "Early Career Software Engineer",
+    "company": "Anduril",
+    "location": "Broomfield, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States",
+    "department": "Software",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007": {
+    "title": "Early Career Mechanical Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Hardware Engineering : Mechanical Engineering ",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007": {
+    "title": "Early Career Electrical Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Hardware Engineering : Electrical Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007": {
+    "title": "Early Career Software Engineer",
+    "company": "Anduril",
+    "location": "Seattle, Washington, United States",
+    "department": "Software",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007": {
+    "title": "GNC Engineer, Space",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "AFS : Space Engineering : GNC & Simulation Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:21+00:00",
+    "last_seen": "2026-05-23T07:39:21+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007": {
+    "title": "GNC Engineer, Space",
+    "company": "Anduril",
+    "location": "Washington, District of Columbia, United States",
+    "department": "AFS : Space Engineering : GNC & Simulation Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:21+00:00",
+    "last_seen": "2026-05-23T07:39:21+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007": {
+    "title": "Business Operations Associate",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Corporate Technology : Business Operations ",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:15+00:00",
+    "last_seen": "2026-05-23T07:39:15+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4988675007?gh_jid=4988675007": {
+    "title": "Mechanical Engineer, Manufacturing Test",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Manufacturing : Manufacturing Engineering : Production Test",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:26+00:00",
+    "last_seen": "2026-05-23T07:39:26+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007": {
+    "title": "Early Career Manufacturing Engineer",
+    "company": "Anduril",
+    "location": "Santa Ana, California, United States",
+    "department": "Manufacturing : Manufacturing Engineering : Manufacturing Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007": {
+    "title": "Computer Vision Engineer, Space",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "AFS : Space Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:16+00:00",
+    "last_seen": "2026-05-23T07:39:16+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007": {
+    "title": "Computer Vision Engineer, Space",
+    "company": "Anduril",
+    "location": "Washington, District of Columbia, United States",
+    "department": "AFS : Space Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:16+00:00",
+    "last_seen": "2026-05-23T07:39:16+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5033583007?gh_jid=5033583007": {
+    "title": "GSOC Operator - SkillBridge",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Core Operations : Security : Security",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:22+00:00",
+    "last_seen": "2026-05-23T07:39:22+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5062621007?gh_jid=5062621007": {
+    "title": "Deployment Systems Technician",
+    "company": "Anduril",
+    "location": "Waltham, Massachusetts, United States",
+    "department": "Mission Systems : Imaging Engineering : Imaging - Deployment Ops",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007": {
+    "title": "Maritime Operations Engineer - Mission Autonomy",
+    "company": "Anduril",
+    "location": "Channel Islands, California, United States",
+    "department": "Hardware Engineering : Hardware Test Operations : Hardware Test Operations",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:25+00:00",
+    "last_seen": "2026-05-23T07:39:25+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007": {
+    "title": "Manufacturing Software Engineer, Intelligence Systems",
+    "company": "Anduril",
+    "location": "Ashville, Ohio, United States",
+    "department": "Manufacturing : Manufacturing Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:25+00:00",
+    "last_seen": "2026-05-23T07:39:25+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5080535007?gh_jid=5080535007": {
+    "title": "Manufacturing Test Engineer, Intelligence Systems",
+    "company": "Anduril",
+    "location": "Ashville, Ohio, United States",
+    "department": "Manufacturing : Manufacturing Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:25+00:00",
+    "last_seen": "2026-05-23T07:39:25+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007": {
+    "title": "Mission Operations Engineer",
+    "company": "Anduril",
+    "location": "Atlanta, Georgia, United States",
+    "department": "Tactical Recon & Strike",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:27+00:00",
+    "last_seen": "2026-05-23T07:39:27+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007": {
+    "title": "GSOC Jr Operator",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Core Operations : Security : Corporate Physical Security",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:22+00:00",
+    "last_seen": "2026-05-23T07:39:22+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5108276007?gh_jid=5108276007": {
+    "title": "Industrial Engineer, Production Controls & Simulation",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Manufacturing : Heavy Metal - Production : Manufacturing Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:22+00:00",
+    "last_seen": "2026-05-23T07:39:22+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007": {
+    "title": "Manufacturing Software Engineer, Intelligence Systems",
+    "company": "Anduril",
+    "location": "Santa Ana, California, United States",
+    "department": "Manufacturing : Manufacturing Engineering : Production Test",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:25+00:00",
+    "last_seen": "2026-05-23T07:39:25+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5112754007?gh_jid=5112754007": {
+    "title": "Division Operations Associate",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Maritime & Maneuver Dominance : Maneuver Dominance Engineering : Business Operations",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:17+00:00",
+    "last_seen": "2026-05-23T07:39:17+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5115435007?gh_jid=5115435007": {
+    "title": "Mission Operations Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Tactical Recon & Strike",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:27+00:00",
+    "last_seen": "2026-05-23T07:39:27+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007": {
+    "title": "Mechanical Engineer, Maneuver Dominance",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Maritime & Maneuver Dominance : Maneuver Dominance Engineering : MD - ME",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:26+00:00",
+    "last_seen": "2026-05-23T07:39:26+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5134986007?gh_jid=5134986007": {
+    "title": "Security Software Engineer",
+    "company": "Anduril",
+    "location": "Costa Mesa, California, United States",
+    "department": "Corporate Technology : Information Security : Product Security",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:34+00:00",
+    "last_seen": "2026-05-23T07:39:34+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5135616007?gh_jid=5135616007": {
+    "title": "Manufacturing Test Engineer, Intelligence Systems (2nd Shift)",
+    "company": "Anduril",
+    "location": "Santa Ana, California, United States",
+    "department": "Manufacturing : Manufacturing Engineering : Manufacturing Engineering",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:25+00:00",
+    "last_seen": "2026-05-23T07:39:25+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/5694259004?gh_jid=5694259004": {
+    "title": "Account Executive, SMB",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY",
+    "department": "Sales",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-15",
+    "first_seen": "2026-05-23T07:40:29+00:00",
+    "last_seen": "2026-05-23T07:40:29+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004": {
+    "title": "Data Scientist, Core Data -  PhD (2026)",
+    "company": "Figma",
+    "location": "New York, NY • United States; San Francisco, CA • New York, NY",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-22",
+    "first_seen": "2026-05-23T07:40:29+00:00",
+    "last_seen": "2026-05-23T07:40:29+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/6656054002?gh_jid=6656054002": {
+    "title": "Market Intelligence Emerging Talent Network",
+    "company": "Point72",
+    "location": "New York, NY",
+    "department": "Market Intelligence ",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:08+00:00",
+    "last_seen": "2026-05-23T07:41:08+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297513002?gh_jid=7297513002": {
+    "title": "Quantitative Researcher - Machine Learning",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002": {
+    "title": "Equity Quantitative Researcher",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:07+00:00",
+    "last_seen": "2026-05-23T07:41:07+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002": {
+    "title": "Summer 2027 Quantitative Developer Internship",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002": {
+    "title": "Quantitative Analyst / Software Developer",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:08+00:00",
+    "last_seen": "2026-05-23T07:41:08+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002": {
+    "title": "Quantitative Researcher - Systematic Credit",
+    "company": "Point72",
+    "location": "Chicago, New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002": {
+    "title": "Summer 2027 Quantitative Research Internship",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002": {
+    "title": "Quantitative Software Developer Intern",
+    "company": "Point72",
+    "location": "New York, London, or Paris",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002": {
+    "title": "Quantitative Research Intern",
+    "company": "Point72",
+    "location": "New York, Seattle",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002": {
+    "title": "Machine Learning Researcher - Intern",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:08+00:00",
+    "last_seen": "2026-05-23T07:41:08+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002": {
+    "title": "Quantitative Researcher Intern",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002": {
+    "title": "Quantitative Developer Intern",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:08+00:00",
+    "last_seen": "2026-05-23T07:41:08+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002": {
+    "title": "Quantitative Software Developer",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002": {
+    "title": "Data Engineer",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:07+00:00",
+    "last_seen": "2026-05-23T07:41:07+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002": {
+    "title": "Quantitative Research Intern (NLP)",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002": {
+    "title": "Quantitative Portfolio Analyst – 2026 Grad",
+    "company": "Point72",
+    "location": "New York, New York",
+    "department": "L/S Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:09+00:00",
+    "last_seen": "2026-05-23T07:41:09+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002": {
+    "title": "Machine Learning Engineer",
+    "company": "Point72",
+    "location": "New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:08+00:00",
+    "last_seen": "2026-05-23T07:41:08+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002": {
+    "title": "Data Scientist",
+    "company": "Point72",
+    "location": "Chicago, New York",
+    "department": "Quant Management",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:07+00:00",
+    "last_seen": "2026-05-23T07:41:07+00:00",
+    "is_closed": false
+  },
+  "https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002": {
+    "title": "Fundamental Research Fellowship, Canvas",
+    "company": "Point72",
+    "location": "New York, NY",
+    "department": "Market Intelligence ",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:07+00:00",
+    "last_seen": "2026-05-23T07:41:07+00:00",
+    "is_closed": false
+  },
+  "https://careers.airbnb.com/positions/7859317?gh_jid=7859317": {
+    "title": "iOS Software Engineer, Airbnb - New Grad",
+    "company": "Airbnb",
+    "location": "San Francisco, CA, Seattle, WA",
+    "department": "Software Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-28",
+    "first_seen": "2026-05-23T07:39:12+00:00",
+    "last_seen": "2026-05-23T07:39:12+00:00",
+    "is_closed": false
+  },
+  "https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084": {
+    "title": "Associate Marketing Data Analyst - Marketing Analytics",
+    "company": "Datadog",
+    "location": "New York, New York, USA",
+    "department": "Marketing Operations",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-15",
+    "first_seen": "2026-05-23T07:40:08+00:00",
+    "last_seen": "2026-05-23T07:40:08+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7142298?gh_jid=7142298": {
+    "title": "[2026] Applied Scientist - PhD Intern",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Internships",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7323437?gh_jid=7323437": {
+    "title": "[2026] Senior Machine Learning Engineer, Multimodal AI, Computer Vision and Graphics - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Full-Time",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7350081?gh_jid=7350081": {
+    "title": "[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Full-Time",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7403998?gh_jid=7403998": {
+    "title": "[2026] Senior Machine Learning Engineer, AI Platform - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Full-Time",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7421746?gh_jid=7421746": {
+    "title": "[2026] Senior Machine Learning Engineer,  Engine Optimization - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7463634?gh_jid=7463634": {
+    "title": "[2026] Data Scientist, Social - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Full-Time",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7473686?gh_jid=7473686": {
+    "title": "[2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Full-Time",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7557909?gh_jid=7557909": {
+    "title": "[2026] Software Engineer, Game Developer",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career FT - Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7577436?gh_jid=7577436": {
+    "title": "[2026] Data Scientist, Foundation AI - PhD Early Career",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Early Career Full-Time",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD Student",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:14+00:00",
+    "last_seen": "2026-05-23T07:41:14+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7888723?gh_jid=7888723": {
+    "title": "Software Engineer, Communication Safety",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Software Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:15+00:00",
+    "last_seen": "2026-05-23T07:41:15+00:00",
+    "is_closed": false
+  },
+  "https://careers.roblox.com/jobs/7943533?gh_jid=7943533": {
+    "title": "Software Engineer, Core Services",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "department": "Software Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:15+00:00",
+    "last_seen": "2026-05-23T07:41:15+00:00",
+    "is_closed": false
+  },
+  "https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006": {
+    "title": "Software Engineer, Inference AI/ML",
+    "company": "CoreWeave",
+    "location": " Sunnyvale, CA / Bellevue, WA",
+    "department": "Technology",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:39:58+00:00",
+    "last_seen": "2026-05-23T07:39:58+00:00",
+    "is_closed": false
+  },
+  "https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006": {
+    "title": "Operations Engineer, HPC Networking",
+    "company": "CoreWeave",
+    "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA ",
+    "department": "Technology",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:39:57+00:00",
+    "last_seen": "2026-05-23T07:39:57+00:00",
+    "is_closed": false
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002": {
+    "title": "PhD GenAI Research Scientist Intern",
+    "company": "Databricks",
+    "location": "San Francisco, California",
+    "department": "University Recruiting",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-23T07:40:03+00:00",
+    "last_seen": "2026-05-23T07:40:03+00:00",
+    "is_closed": false
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002": {
+    "title": "Customer Enablement Specialist",
+    "company": "Databricks",
+    "location": "Bellevue, Washington",
+    "department": "Education & Training",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-23T07:40:00+00:00",
+    "last_seen": "2026-05-23T07:40:00+00:00",
+    "is_closed": false
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8431935002": {
+    "title": "Customer Enablement Specialist",
+    "company": "Databricks",
+    "location": "Bellevue, Washington",
+    "department": "Education & Training",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-23T07:40:00+00:00",
+    "last_seen": "2026-05-23T07:40:00+00:00",
+    "is_closed": false
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002": {
+    "title": "Counsel, Commercial",
+    "company": "Databricks",
+    "location": "Bellevue, Washington; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.",
+    "department": "Legal",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:40:00+00:00",
+    "last_seen": "2026-05-23T07:40:00+00:00",
+    "is_closed": false
+  },
+  "https://explore.jobs.netflix.net/careers/job/790316003628": {
+    "title": "Software Engineer in Test 5 - Apple Player",
+    "company": "Netflix",
+    "location": "Los Gatos,California,United States of America",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "eightfold",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:55+00:00",
+    "last_seen": "2026-05-23T07:40:59+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/4616971008": {
+    "title": "Research Engineer/Research Scientist, Pre-training",
+    "company": "Anthropic",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-08",
+    "first_seen": "2026-05-23T07:39:43+00:00",
+    "last_seen": "2026-05-23T07:39:43+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5023394008": {
+    "title": "Anthropic Fellows Program",
+    "company": "Anthropic",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-06",
+    "first_seen": "2026-05-23T07:39:35+00:00",
+    "last_seen": "2026-05-23T07:39:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5030244008": {
+    "title": "Anthropic Fellows Program, AI Security",
+    "company": "Anthropic",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:39:35+00:00",
+    "last_seen": "2026-05-23T07:39:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5071132008": {
+    "title": "Research Engineer, Economic Research Data Platform",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:39:42+00:00",
+    "last_seen": "2026-05-23T07:39:42+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183044008": {
+    "title": "Anthropic Fellows Program, AI Safety",
+    "company": "Anthropic",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:39:35+00:00",
+    "last_seen": "2026-05-23T07:39:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183051008": {
+    "title": "Anthropic Fellows Program, ML Systems & Performance",
+    "company": "Anthropic",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:39:35+00:00",
+    "last_seen": "2026-05-23T07:39:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183052008": {
+    "title": "Anthropic Fellows Program, Reinforcement Learning",
+    "company": "Anthropic",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:39:35+00:00",
+    "last_seen": "2026-05-23T07:39:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183053008": {
+    "title": "Anthropic Fellows Program - The Anthropic Institute Fellows (Economics & Policy)",
+    "company": "Anthropic",
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "department": "AI Research & Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Bachelors"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:39:35+00:00",
+    "last_seen": "2026-05-23T07:39:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/biohub/jobs/7286324": {
+    "title": "Group Leader, Immune Cell Reprogramming",
+    "company": "EvolutionaryScale",
+    "location": "New York, NY (Hybrid)",
+    "department": "R&D",
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-12",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/biohub/jobs/7535647": {
+    "title": "Group Leader, Immunology",
+    "company": "EvolutionaryScale",
+    "location": "New York, NY (Hybrid)",
+    "department": "R&D",
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-28",
+    "first_seen": "2026-05-23T07:40:28+00:00",
+    "last_seen": "2026-05-23T07:40:28+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/biohub/jobs/7658780": {
+    "title": "Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning",
+    "company": "EvolutionaryScale",
+    "location": "New York, NY (Onsite)",
+    "department": "R&D",
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:28+00:00",
+    "last_seen": "2026-05-23T07:40:28+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/discord/jobs/8371252002": {
+    "title": "Data Engineer, Analytics",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "department": "Data Science & Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-06",
+    "first_seen": "2026-05-23T07:40:12+00:00",
+    "last_seen": "2026-05-23T07:40:12+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/5630445": {
+    "title": "Software Engineer, Backend (All Teams)",
+    "company": "DoorDash",
+    "location": "Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI",
+    "department": "341 Executive Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:20+00:00",
+    "last_seen": "2026-05-23T07:40:20+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/6367350": {
+    "title": "Software Engineer, Infrastructure - Autonomy & Robotics",
+    "company": "DoorDash",
+    "location": "San Francisco, CA",
+    "department": "311 Autonomy",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:20+00:00",
+    "last_seen": "2026-05-23T07:40:20+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7350485": {
+    "title": "Systems Engineer",
+    "company": "DoorDash",
+    "location": "San Francisco, CA; Oakland, CA",
+    "department": "311 Autonomy",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:21+00:00",
+    "last_seen": "2026-05-23T07:40:21+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7580407": {
+    "title": "Machine Learning Engineer, Marketplace Optimization",
+    "company": "DoorDash",
+    "location": "San Francisco, CA; Sunnyvale, CA",
+    "department": "341 Executive Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:17+00:00",
+    "last_seen": "2026-05-23T07:40:17+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7650045": {
+    "title": "Composite & Prototype Engineering Technician",
+    "company": "DoorDash",
+    "location": "San Francisco, CA",
+    "department": "631 Autonomy Operations",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:14+00:00",
+    "last_seen": "2026-05-23T07:40:14+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7768489": {
+    "title": "DoorDash for Business Support Representative",
+    "company": "DoorDash",
+    "location": "Tempe, AZ",
+    "department": "111 Support",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:40:15+00:00",
+    "last_seen": "2026-05-23T07:40:15+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7779237": {
+    "title": "Electrical Distribution Engineer (Harness / EDS)",
+    "company": "DoorDash",
+    "location": "Oakland, CA",
+    "department": "311 Autonomy",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:15+00:00",
+    "last_seen": "2026-05-23T07:40:15+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7848317": {
+    "title": "AI Research Fellowship, (Summer and Fall 2026)",
+    "company": "DoorDash",
+    "location": "San Francisco, CA",
+    "department": "348 University Recruiting Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:13+00:00",
+    "last_seen": "2026-05-23T07:40:13+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7863361": {
+    "title": "Associate Strategic Account Development Executive - Platform",
+    "company": "DoorDash",
+    "location": "Tempe, AZ; Atlanta, GA; Phoenix, AZ; Houston, TX; Dallas, TX Tampa, FL; Orlando, FL; Raleigh, NC; Charlotte, NC; Charleston, SC; Las Vegas, NV; Salt Lake City, UT",
+    "department": "513 Outside Account Development",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:13+00:00",
+    "last_seen": "2026-05-23T07:40:13+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/doordashusa/jobs/7927350": {
+    "title": "Mechanical Design Engineer — UAV Wire Harness",
+    "company": "DoorDash",
+    "location": "San Francisco, CA",
+    "department": "311 Autonomy",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:17+00:00",
+    "last_seen": "2026-05-23T07:40:17+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/drweng/jobs/6821173": {
+    "title": "Trade Systems Engineer",
+    "company": "DRW",
+    "location": "Chicago",
+    "department": "Trading Platform Tech Ops – CHIP Support",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:23+00:00",
+    "last_seen": "2026-05-23T07:40:23+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/drweng/jobs/6973885": {
+    "title": "Research Engineer",
+    "company": "DRW",
+    "location": "New York City",
+    "department": "FICC Options Execution Software Engineering",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-05",
+    "first_seen": "2026-05-23T07:40:22+00:00",
+    "last_seen": "2026-05-23T07:40:22+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/drweng/jobs/7377915": {
+    "title": "Research Engineer (FICCO)",
+    "company": "DRW",
+    "location": "Chicago",
+    "department": "FICC Options Execution Software Engineering",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-23T07:40:22+00:00",
+    "last_seen": "2026-05-23T07:40:22+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/drweng/jobs/7650182": {
+    "title": "Quantitative Researcher",
+    "company": "DRW",
+    "location": "New York",
+    "department": "Equity MidFreq 5",
+    "category": "quant",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-05",
+    "first_seen": "2026-05-23T07:40:22+00:00",
+    "last_seen": "2026-05-23T07:40:22+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4397706006": {
+    "title": "Embedded Software Intern [Fall 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": "Platform Software",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "BS Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-23T07:40:31+00:00",
+    "last_seen": "2026-05-23T07:40:31+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4656559006": {
+    "title": "Mechanical Engineer, Battery",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": "Hardware",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-02-20",
+    "first_seen": "2026-05-23T07:40:32+00:00",
+    "last_seen": "2026-05-23T07:40:32+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4676467006": {
+    "title": "Electrical Engineering Intern [Fall 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": "Electrical",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "BS Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-25",
+    "first_seen": "2026-05-23T07:40:31+00:00",
+    "last_seen": "2026-05-23T07:40:31+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/figureai/jobs/4676468006": {
+    "title": "Electrical Interconnect Engineering Intern [Fall 2026]",
+    "company": "Figure AI",
+    "location": "San Jose, CA",
+    "department": "Hardware",
+    "category": "robotics",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-25",
+    "first_seen": "2026-05-23T07:40:31+00:00",
+    "last_seen": "2026-05-23T07:40:31+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/gleanwork/jobs/4006733005": {
+    "title": "Software Engineer, Frontend",
+    "company": "Glean",
+    "location": "Mountain View, CA",
+    "department": "Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:40:37+00:00",
+    "last_seen": "2026-05-23T07:40:37+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/gleanwork/jobs/4006734005": {
+    "title": "Software Engineer, Fullstack",
+    "company": "Glean",
+    "location": "Mountain View, CA",
+    "department": "Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:40:37+00:00",
+    "last_seen": "2026-05-23T07:40:37+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/gleanwork/jobs/4006735005": {
+    "title": "Machine Learning Engineer, Search Quality",
+    "company": "Glean",
+    "location": "Mountain View, CA",
+    "department": "Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:40:36+00:00",
+    "last_seen": "2026-05-23T07:40:36+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/gleanwork/jobs/4428090005": {
+    "title": "Software Engineer, Product Backend",
+    "company": "Glean",
+    "location": "Mountain View, CA",
+    "department": "Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:40:37+00:00",
+    "last_seen": "2026-05-23T07:40:37+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/inceptive/jobs/5103191007": {
+    "title": "Internship",
+    "company": "Inceptive",
+    "location": "Palo Alto, CA",
+    "department": "Inceptive",
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-05",
+    "first_seen": "2026-05-23T07:40:44+00:00",
+    "last_seen": "2026-05-23T07:40:44+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026": {
+    "title": "Interested in an internship?",
+    "company": "Recursion Pharma",
+    "location": "Remote Opportunity - United States; Salt Lake City, Utah",
+    "department": null,
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-01-20",
+    "first_seen": "2026-05-23T07:41:12+00:00",
+    "last_seen": "2026-05-23T07:41:12+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4605996005": {
+    "title": "Software Engineer - New Grad",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "department": "University",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-23T07:41:18+00:00",
+    "last_seen": "2026-05-23T07:41:18+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4611533005": {
+    "title": "Technical Advisor Specialist (Part-Time Internship)",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "department": "University",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-23T07:41:19+00:00",
+    "last_seen": "2026-05-23T07:41:19+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4625344005": {
+    "title": "Machine Learning Research Engineer, Agents - Enterprise GenAI",
+    "company": "Scale AI",
+    "location": "San Francisco, CA; New York, NY",
+    "department": "Enterprise Engineering",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-23T07:41:17+00:00",
+    "last_seen": "2026-05-23T07:41:17+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/5074064007": {
+    "title": "Data Warehouse Engineer",
+    "company": "Together AI",
+    "location": "San Francisco",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-13",
+    "first_seen": "2026-05-23T07:41:35+00:00",
+    "last_seen": "2026-05-23T07:41:35+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/5101651007": {
+    "title": "Analytics Engineer — Data Warehouse",
+    "company": "Together AI",
+    "location": "San Francisco",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-13",
+    "first_seen": "2026-05-23T07:41:34+00:00",
+    "last_seen": "2026-05-23T07:41:34+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007": {
+    "title": "AI Research Engineer",
+    "company": "Xaira Therapeutics",
+    "location": "Seattle, Washington, United States; South San Francisco, California, United States",
+    "department": "Computational Protein Design",
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-23T07:41:41+00:00",
+    "last_seen": "2026-05-23T07:41:41+00:00",
+    "is_closed": false
+  },
+  "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007": {
+    "title": "AI in Residence",
+    "company": "Xaira Therapeutics",
+    "location": "South San Francisco, California, United States",
+    "department": "BioMedical AI",
+    "category": "biotech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-23T07:41:41+00:00",
+    "last_seen": "2026-05-23T07:41:41+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/benchling/671d4911-7cb5-41da-9bb0-e497fa1874f8": {
+    "title": "Software Engineer, Developer Enablement",
+    "company": "Benchling",
+    "location": "San Francisco, CA",
+    "department": "Engineering",
+    "category": "biotech",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-29",
+    "first_seen": "2026-05-23T07:39:47+00:00",
+    "last_seen": "2026-05-23T07:39:47+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/benchling/c83238cc-1f7c-4216-b2a5-418306ca4d2b": {
+    "title": "Software Engineer, Developer Platform",
+    "company": "Benchling",
+    "location": "San Francisco, CA",
+    "department": "Engineering",
+    "category": "biotech",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-27",
+    "first_seen": "2026-05-23T07:39:47+00:00",
+    "last_seen": "2026-05-23T07:39:47+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10": {
+    "title": "Research, Post-Training",
+    "company": "Cognition AI",
+    "location": "San Francisco",
+    "department": "Research & Development",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-01",
+    "first_seen": "2026-05-23T07:39:53+00:00",
+    "last_seen": "2026-05-23T07:39:53+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff": {
+    "title": "Thermo-Mech CFD Simulation Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-24",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e": {
+    "title": "RTL Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-02-07",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877": {
+    "title": "Infrastructure Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-02-07",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8": {
+    "title": "Chip Simulation Software Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-19",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d": {
+    "title": "DFT Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-13",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc": {
+    "title": "Firmware Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-02-07",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3": {
+    "title": "Inference Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Architecture",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2025-12-08",
+    "first_seen": "2026-05-23T07:40:26+00:00",
+    "last_seen": "2026-05-23T07:40:26+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a": {
+    "title": "Electrical Platform Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-02-07",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71": {
+    "title": "Supercomputing Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Software",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-19",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77": {
+    "title": "PD Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-19",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb": {
+    "title": "DV Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "ASIC",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-02-07",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229": {
+    "title": "Mech / Thermal Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Platform",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-02-07",
+    "first_seen": "2026-05-23T07:40:27+00:00",
+    "last_seen": "2026-05-23T07:40:27+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d": {
+    "title": "Core Ops Intern",
+    "company": "Etched",
+    "location": "San Jose",
+    "department": "Operations",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-19",
+    "first_seen": "2026-05-23T07:40:26+00:00",
+    "last_seen": "2026-05-23T07:40:26+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6": {
+    "title": "Security Engineering Intern - Summer 2026",
+    "company": "Lambda Labs",
+    "location": "San Francisco Office (Fremont St)",
+    "department": "Data Center Business",
+    "category": "frontier_ai",
+    "ats": "ashby",
+    "education_levels": [
+      "MS Student",
+      "BS Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:40:45+00:00",
+    "last_seen": "2026-05-23T07:40:45+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997": {
+    "title": "Data Center Mechanical Engineering Intern - 2026",
+    "company": "Lambda Labs",
+    "location": "San Jose Office (Zanker)",
+    "department": "Data Center Business",
+    "category": "frontier_ai",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:45+00:00",
+    "last_seen": "2026-05-23T07:40:45+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1": {
+    "title": "Field Engineering Intern - Summer 2026",
+    "company": "Lambda Labs",
+    "location": "San Francisco Office (Second St)",
+    "department": "Data Center Business",
+    "category": "frontier_ai",
+    "ats": "ashby",
+    "education_levels": [
+      "MS Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:45+00:00",
+    "last_seen": "2026-05-23T07:40:45+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90": {
+    "title": "Software Engineer Intern (Fall 2026)",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "department": "University",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-06",
+    "first_seen": "2026-05-23T07:41:00+00:00",
+    "last_seen": "2026-05-23T07:41:00+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9": {
+    "title": "Software Engineer, New Grad (AI)",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "department": "University",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-27",
+    "first_seen": "2026-05-23T07:41:01+00:00",
+    "last_seen": "2026-05-23T07:41:01+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555": {
+    "title": "Software Engineer, New Grad",
+    "company": "Notion",
+    "location": "San Francisco, California",
+    "department": "University",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-23",
+    "first_seen": "2026-05-23T07:40:59+00:00",
+    "last_seen": "2026-05-23T07:40:59+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a": {
+    "title": "Mechatronics Intern",
+    "company": "Physical Intelligence",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "category": "robotics",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-24",
+    "first_seen": "2026-05-23T07:41:04+00:00",
+    "last_seen": "2026-05-23T07:41:04+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f": {
+    "title": "Hardware Systems Intern",
+    "company": "Physical Intelligence",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "category": "robotics",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-24",
+    "first_seen": "2026-05-23T07:41:04+00:00",
+    "last_seen": "2026-05-23T07:41:04+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba": {
+    "title": "Research Scientist",
+    "company": "Physical Intelligence",
+    "location": "San Francisco",
+    "department": "AI & Robotics Research",
+    "category": "robotics",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2024-08-24",
+    "first_seen": "2026-05-23T07:41:04+00:00",
+    "last_seen": "2026-05-23T07:41:04+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b": {
+    "title": "Software Engineer, Backend",
+    "company": "Plaid",
+    "location": "San Francisco HQ",
+    "department": "All Departments",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-04",
+    "first_seen": "2026-05-23T07:41:06+00:00",
+    "last_seen": "2026-05-23T07:41:06+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d": {
+    "title": "Software Engineer, Backend",
+    "company": "Plaid",
+    "location": "Seattle Office",
+    "department": "All Departments",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-04",
+    "first_seen": "2026-05-23T07:41:06+00:00",
+    "last_seen": "2026-05-23T07:41:06+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9": {
+    "title": "Software Engineer, Backend",
+    "company": "Plaid",
+    "location": "New York City Office",
+    "department": "All Departments",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-04",
+    "first_seen": "2026-05-23T07:41:06+00:00",
+    "last_seen": "2026-05-23T07:41:06+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f": {
+    "title": "Mobile Engineer, iOS",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2025-07-31",
+    "first_seen": "2026-05-23T07:41:10+00:00",
+    "last_seen": "2026-05-23T07:41:10+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
+    "title": "Software Engineer Internship, Android",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2025-08-07",
+    "first_seen": "2026-05-23T07:41:10+00:00",
+    "last_seen": "2026-05-23T07:41:10+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89": {
+    "title": "University Grad | Software Engineer | Frontend",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2025-08-01",
+    "first_seen": "2026-05-23T07:41:10+00:00",
+    "last_seen": "2026-05-23T07:41:10+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040": {
+    "title": "Mobile Engineer, Android",
+    "company": "Ramp",
+    "location": "New York, NY (HQ)",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2025-07-31",
+    "first_seen": "2026-05-23T07:41:10+00:00",
+    "last_seen": "2026-05-23T07:41:10+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/sierra/c74d600c-235c-4d42-8546-b178b7adefc2": {
+    "title": "Intern, Agent Development (Fall 2026)",
+    "company": "Sierra",
+    "location": "San Francisco, CA",
+    "department": "Early Career",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-03-19",
+    "first_seen": "2026-05-23T07:41:22+00:00",
+    "last_seen": "2026-05-23T07:41:22+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/07e50e24-84ac-4002-ad26-9de1d991362c": {
+    "title": "Software Engineer - Observe",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-20",
+    "first_seen": "2026-05-23T07:41:24+00:00",
+    "last_seen": "2026-05-23T07:41:24+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21": {
+    "title": "Software Engineer - Snowflake Postgres",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-12",
+    "first_seen": "2026-05-23T07:41:25+00:00",
+    "last_seen": "2026-05-23T07:41:25+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/7c4b66d9-71e0-4a43-8e80-d20b5a3efc28": {
+    "title": "Product Finance Analyst",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Finance",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-05",
+    "first_seen": "2026-05-23T07:41:26+00:00",
+    "last_seen": "2026-05-23T07:41:26+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d": {
+    "title": "Product Analyst",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Finance",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-14",
+    "first_seen": "2026-05-23T07:41:24+00:00",
+    "last_seen": "2026-05-23T07:41:24+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7": {
+    "title": "Software Engineer Intern (Security) - Fall 2026",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-23T07:41:25+00:00",
+    "last_seen": "2026-05-23T07:41:25+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/b241904d-7d42-41f0-9674-82e53d964846": {
+    "title": "Analyst, Finance Analytics & AI",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Data Analytics and AI",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-20",
+    "first_seen": "2026-05-23T07:41:24+00:00",
+    "last_seen": "2026-05-23T07:41:24+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/snowflake/bd9d7653-f818-40ba-b98e-cbee8261581a": {
+    "title": "Industry Architect – Advertising & Media",
+    "company": "Snowflake",
+    "location": "US-CA-Remote",
+    "department": "Solution Engineering",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-03",
+    "first_seen": "2026-05-23T07:41:24+00:00",
+    "last_seen": "2026-05-23T07:41:24+00:00",
+    "is_closed": false
+  },
+  "https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi": {
+    "title": "Software Engineer - Product",
+    "company": "Luma AI",
+    "location": "SF Bay Area, CA",
+    "department": "Product Engineering",
+    "category": "robotics",
+    "ats": "gem",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:40:47+00:00",
+    "last_seen": "2026-05-23T07:40:47+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18": {
+    "title": "Forward Deployed Software Engineer - Warp Speed",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:02+00:00",
+    "last_seen": "2026-05-23T07:41:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e": {
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "company": "Palantir",
+    "location": "Honolulu, HI",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:02+00:00",
+    "last_seen": "2026-05-23T07:41:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019": {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "company": "Palantir",
+    "location": "Washington, D.C.",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:03+00:00",
+    "last_seen": "2026-05-23T07:41:03+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:03+00:00",
+    "last_seen": "2026-05-23T07:41:03+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e": {
+    "title": "Deployment Strategist, Internship - US Government",
+    "company": "Palantir",
+    "location": "Honolulu, HI",
+    "department": "Echo",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:02+00:00",
+    "last_seen": "2026-05-23T07:41:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f": {
+    "title": "Forward Deployed Software Engineer, Internship - France",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:02+00:00",
+    "last_seen": "2026-05-23T07:41:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9": {
+    "title": "Forward Deployed Software Engineer, Internship - Poland",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:02+00:00",
+    "last_seen": "2026-05-23T07:41:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0": {
+    "title": "Forward Deployed Software Engineer",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:02+00:00",
+    "last_seen": "2026-05-23T07:41:02+00:00",
+    "is_closed": false
+  },
+  "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d": {
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "company": "Palantir",
+    "location": "New York, NY",
+    "department": "Delta",
+    "category": "big_tech",
+    "ats": "lever",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:41:03+00:00",
+    "last_seen": "2026-05-23T07:41:03+00:00",
+    "is_closed": false
+  },
+  "https://stripe.com/jobs/search?gh_jid=7216664": {
+    "title": "PhD Machine Learning Engineer, Intern",
+    "company": "Stripe",
+    "location": "San Francisco, New York City, Seattle",
+    "department": "5112 General University",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:31+00:00",
+    "last_seen": "2026-05-23T07:41:31+00:00",
+    "is_closed": false
+  },
+  "https://stripe.com/jobs/search?gh_jid=7778627": {
+    "title": "Android Engineer, Terminal Global Payments",
+    "company": "Stripe",
+    "location": "San Francisco, CA, Seattle, WA",
+    "department": "8512 Terminal - Eng",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:27+00:00",
+    "last_seen": "2026-05-23T07:41:27+00:00",
+    "is_closed": false
+  },
+  "https://stripe.com/jobs/search?gh_jid=7874965": {
+    "title": "PhD Data Scientist, Intern",
+    "company": "Stripe",
+    "location": "San Francisco, New York City, Seattle, Chicago",
+    "department": "5112 General University",
+    "category": "enterprise",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:41:31+00:00",
+    "last_seen": "2026-05-23T07:41:31+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/105043434598736582": {
+    "title": "Security Engineer, Access Security Team",
+    "company": "Google",
+    "location": "New York, NY, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-30",
+    "first_seen": "2026-05-23T07:40:39+00:00",
+    "last_seen": "2026-05-23T07:40:39+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/107128442041836230": {
+    "title": "Hardware Validation Engineer, ML Products, University Graduate",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-01-27",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/110139330885755590": {
+    "title": "Network Operations Residency Program, University Graduate, 2026 Start",
+    "company": "Google",
+    "location": "Thornton, CO, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2025-11-21",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/110687296503587526": {
+    "title": "Frontier AI Research Scientist, DeepMind",
+    "company": "Google DeepMind",
+    "location": "Mountain View, CA, USA",
+    "department": "DeepMind",
+    "category": "frontier_ai",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-29",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/118981017938600646": {
+    "title": "Network Operations Residency Program, University Graduate, August 2026 Start",
+    "company": "Google",
+    "location": "Atlanta, GA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:38+00:00",
+    "last_seen": "2026-05-23T07:40:38+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/119519945066193606": {
+    "title": "Product Safety Test Engineer, Platforms",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-16",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/131868960663446214": {
+    "title": "Data Center Technician, Hardware",
+    "company": "Google",
+    "location": "Atlanta, GA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:40:37+00:00",
+    "last_seen": "2026-05-23T07:40:37+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/135325114404086470": {
+    "title": "Hardware Validation Engineer, Cloud Platforms",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-06",
+    "first_seen": "2026-05-23T07:40:39+00:00",
+    "last_seen": "2026-05-23T07:40:39+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/138166347879064262": {
+    "title": "Student Researcher, PhD, Winter/Summer 2026",
+    "company": "Google",
+    "location": "Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [
+      "PhD Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2025-09-29",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/140245524367188678": {
+    "title": "Student Researcher, BS/MS, Winter/Summer 2026",
+    "company": "Google",
+    "location": "Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA / Princeton, NJ, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [
+      "MS Student",
+      "BS Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2025-09-29",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/143702138877289158": {
+    "title": "Optical Validation Engineer, Google Cloud",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-07",
+    "first_seen": "2026-05-23T07:40:39+00:00",
+    "last_seen": "2026-05-23T07:40:39+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/143948727982138054": {
+    "title": "Engineering Analyst, Trust and Safety Payments",
+    "company": "Google",
+    "location": "Sunnyvale, CA, USA",
+    "department": "YouTube",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:38+00:00",
+    "last_seen": "2026-05-23T07:40:38+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/74402318644060870": {
+    "title": "Security Engineer, Access Risk Intelligence and Security Mitigation",
+    "company": "Google",
+    "location": "New York, NY, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-21",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/81545552558203590": {
+    "title": "Equipment Technician, Vacuum, Semiconductor, Raxium",
+    "company": "Google",
+    "location": "Fremont, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-13",
+    "first_seen": "2026-05-23T07:40:38+00:00",
+    "last_seen": "2026-05-23T07:40:38+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/81691848807981766": {
+    "title": "Data Center Technician, Global Server Operations, Hardware Operations",
+    "company": "Google",
+    "location": "Lenoir, NC, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-20",
+    "first_seen": "2026-05-23T07:40:40+00:00",
+    "last_seen": "2026-05-23T07:40:40+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/86602986070909638": {
+    "title": "Silicon Design Verification Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:38+00:00",
+    "last_seen": "2026-05-23T07:40:38+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/86745576837653190": {
+    "title": "Data Engineer, Geo 3P and Developer Data Operations",
+    "company": "Google",
+    "location": "Mountain View, CA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-28",
+    "first_seen": "2026-05-23T07:40:38+00:00",
+    "last_seen": "2026-05-23T07:40:38+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/91739328870261446": {
+    "title": "Data Center Technician I",
+    "company": "Google",
+    "location": "Lincoln, NE, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:40:37+00:00",
+    "last_seen": "2026-05-23T07:40:37+00:00",
+    "is_closed": false
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/98426115135021766": {
+    "title": "Modular Data Center Product Engineer, Design",
+    "company": "Google",
+    "location": "Seattle, WA, USA",
+    "department": "Google",
+    "category": "big_tech",
+    "ats": "google_careers",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-04-24",
+    "first_seen": "2026-05-23T07:40:39+00:00",
+    "last_seen": "2026-05-23T07:40:39+00:00",
+    "is_closed": false
+  },
+  "https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=2&pageNum=7&refId=uPHkYH7vsXdNHtIS13Ptdg%3D%3D&trackingId=7BJsHaQOFvKNHJsWdVcw7Q%3D%3D": {
+    "title": "Fellow, Software Engineering- Infrastructure",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "department": null,
+    "category": "big_tech",
+    "ats": "linkedin",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:40:47+00:00",
+    "last_seen": "2026-05-23T07:40:47+00:00",
+    "is_closed": false
+  },
+  "https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=10&refId=WIb8XJOfCT1VaSbibuy3pg%3D%3D&trackingId=fr1l9Dh%2BPT3P6POWrwt%2FDw%3D%3D": {
+    "title": "Fellow, Software Engineering- Infrastructure",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "department": null,
+    "category": "big_tech",
+    "ats": "linkedin",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:40:47+00:00",
+    "last_seen": "2026-05-23T07:40:47+00:00",
+    "is_closed": false
+  },
+  "https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=2&refId=FhX9DD5IYLyTfygOPy%2F%2B7w%3D%3D&trackingId=LQwTbQABKIiK0P%2FIY5Vjzg%3D%3D": {
+    "title": "Fellow, Software Engineering- Infrastructure",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "department": null,
+    "category": "big_tech",
+    "ats": "linkedin",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:40:47+00:00",
+    "last_seen": "2026-05-23T07:40:47+00:00",
+    "is_closed": false
+  },
+  "https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=3&refId=pPFMu6IbCCMjGgVtyRkThg%3D%3D&trackingId=omolNgns9NR%2Bq7JK%2F8SC%2Bg%3D%3D": {
+    "title": "Fellow, Software Engineering- Infrastructure",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "department": null,
+    "category": "big_tech",
+    "ats": "linkedin",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": null,
+    "first_seen": "2026-05-23T07:40:47+00:00",
+    "last_seen": "2026-05-23T07:40:47+00:00",
+    "is_closed": false
+  },
+  "https://www.mongodb.com/careers/job/?gh_jid=7311666": {
+    "title": "Software Engineer, Code Generation",
+    "company": "MongoDB",
+    "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
+    "department": "PTO App Modernization ENG",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:40:53+00:00",
+    "last_seen": "2026-05-23T07:40:53+00:00",
+    "is_closed": false
+  },
+  "https://www.mongodb.com/careers/job/?gh_jid=7851388": {
+    "title": "Software Engineer, Developer Productivity",
+    "company": "MongoDB",
+    "location": "New York City",
+    "department": "PTO R&D Developer Productivity",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-20",
+    "first_seen": "2026-05-23T07:40:53+00:00",
+    "last_seen": "2026-05-23T07:40:53+00:00",
+    "is_closed": false
+  },
+  "https://www.pinterestcareers.com/jobs/?gh_jid=7253017": {
+    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "MS Student",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:41:05+00:00",
+    "last_seen": "2026-05-23T07:41:05+00:00",
+    "is_closed": false
+  },
+  "https://www.pinterestcareers.com/jobs/?gh_jid=7255640": {
+    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+    "department": "University Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [
+      "PhD",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:41:05+00:00",
+    "last_seen": "2026-05-23T07:41:05+00:00",
+    "is_closed": false
+  },
+  "https://www.pinterestcareers.com/jobs/?gh_jid=7896291": {
+    "title": "Data Scientist II, Experimentation",
+    "company": "Pinterest",
+    "location": "San Francisco, CA, US; Remote, US",
+    "department": "Data Engineering",
+    "category": "big_tech",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-18",
+    "first_seen": "2026-05-23T07:41:04+00:00",
+    "last_seen": "2026-05-23T07:41:04+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/157992": {
+    "title": "Program Manager, uBecome Intern Experience & Community",
+    "company": "Uber",
+    "location": "San Francisco, California, United States",
+    "department": "People & Places",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:38+00:00",
+    "last_seen": "2026-05-23T07:41:38+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158009": {
+    "title": "Graduate 2026 Software Engineer I, US",
+    "company": "Uber",
+    "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-09",
+    "first_seen": "2026-05-23T07:41:39+00:00",
+    "last_seen": "2026-05-23T07:41:39+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158011": {
+    "title": "Graduate 2026 Software Engineer I, Mobile (iOS)",
+    "company": "Uber",
+    "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-27",
+    "first_seen": "2026-05-23T07:41:40+00:00",
+    "last_seen": "2026-05-23T07:41:40+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158037": {
+    "title": "Graduate 2026 Software Engineer I, Mobile (Android)",
+    "company": "Uber",
+    "location": "Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-04-27",
+    "first_seen": "2026-05-23T07:41:39+00:00",
+    "last_seen": "2026-05-23T07:41:39+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158657": {
+    "title": "Software Engineer I",
+    "company": "Uber",
+    "location": "Sunnyvale, California, United States",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-14",
+    "first_seen": "2026-05-23T07:41:36+00:00",
+    "last_seen": "2026-05-23T07:41:36+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/158984": {
+    "title": "Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations",
+    "company": "Uber",
+    "location": "Seattle, Washington, United States",
+    "department": "Data Science",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "PhD",
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-22",
+    "first_seen": "2026-05-23T07:41:36+00:00",
+    "last_seen": "2026-05-23T07:41:36+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/159120": {
+    "title": "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
+    "company": "Uber",
+    "location": "San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:36+00:00",
+    "last_seen": "2026-05-23T07:41:36+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/159161": {
+    "title": "2026 Fall Software Engineering Internship, US",
+    "company": "Uber",
+    "location": "New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States",
+    "department": "University",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [
+      "BS Student",
+      "New Grad",
+      "Intern"
+    ],
+    "is_us": true,
+    "posted_date": "2026-05-08",
+    "first_seen": "2026-05-23T07:41:38+00:00",
+    "last_seen": "2026-05-23T07:41:38+00:00",
+    "is_closed": false
+  },
+  "https://www.uber.com/careers/list/159177": {
+    "title": "Application Developer L3 – Identity & Access Management (IAM)",
+    "company": "Uber",
+    "location": "Sunnyvale, California, United States",
+    "department": "Engineering",
+    "category": "big_tech",
+    "ats": "uber",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-05-21",
+    "first_seen": "2026-05-23T07:41:38+00:00",
+    "last_seen": "2026-05-23T07:41:38+00:00",
+    "is_closed": false
+  }
+}
