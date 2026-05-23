@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 402
-- **All-time tracked:** 625
+- **Open positions:** 396
+- **All-time tracked:** 626
 - **Active companies:** 79
-- **Last updated:** `2026-05-23 05:34 UTC`
+- **Last updated:** `2026-05-23 07:09 UTC`
 
 ## Legend
 
@@ -31,12 +31,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=0&refId=vq%2BfqLVyWia8rRPYIJGv2A%3D%3D&trackingId=n89F91BdB4cdLMYO%2F70rVw%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=3&refId=dYyRJbBnhbsvv9kIpwk9zg%3D%3D&trackingId=YudUeLi%2Bl9ZCHlW%2B1%2Bfz2Q%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=6&refId=L3EoTNBv8RN0kllYoxSYPw%3D%3D&trackingId=dxRlQkUe7EuJq9E97MVhzA%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=2&pageNum=7&refId=ZNUTJ69Nq%2B8GosBb3pznpg%3D%3D&trackingId=Uabz16OGr8gyb9xIJsPUhg%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=9&refId=2FV9uXGPndQBYhiEuShcbg%3D%3D&trackingId=6f8mUtpCwGS1o0VEs29jyw%3D%3D) | May 23, 2026 |
-| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=10&refId=2YthVeJ4vWk70iitpYHfzQ%3D%3D&trackingId=n5mcvRaQdkT5MVOQ1PXTAQ%3D%3D) | May 23, 2026 |
+| LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/fellow-software-engineering-infrastructure-at-linkedin-4393214814?position=3&pageNum=7&refId=j1RwZ2n9jIY%2BhK73KTnVRQ%3D%3D&trackingId=XSFg23OX2XUxBhxhfzauxA%3D%3D) | May 23, 2026 |
 | Nvidia | Field Application Engineer - New College Graduate 2026 🇺🇸 | 4 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580) | May 23, 2026 |
 | Nvidia | Verification and Validation Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1) | May 23, 2026 |
 | Nvidia | PhD Software Engineering Intern, Decision Intelligence - Fall 2026 🇺🇸 | US, CA, Santa Clara | PhD, Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | May 23, 2026 |
@@ -186,7 +181,6 @@ how to fork, how to add companies, and how filtering works.
 | Microsoft | Software Engineer 2 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556749568) | May 20, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556753717) | May 20, 2026 |
 | Microsoft | Quantum Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556761664) | May 20, 2026 |
-| Microsoft | Software Engineer 2 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556866801) | May 20, 2026 |
 | Microsoft | Backend Software Engineer II 🇺🇸 | Barcelona, CT, ES / Madrid, MD, ES | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867876) | May 20, 2026 |
 | Microsoft | Software Engineer II 🇺🇸 | Redmond, WA, US | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556868080) | May 20, 2026 |
 | Google | Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸 | Atlanta, GA, USA | Bachelors, New Grad, Intern | [Apply](https://www.google.com/about/careers/applications/jobs/results/118981017938600646) | May 20, 2026 |
@@ -436,11 +430,17 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (223)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (230)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
+| ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
 | ~~LinkedIn~~ | ~~Fellow, Software Engineering- Infrastructure 🇺🇸~~ | Mountain View, CA | - | Closed | May 23, 2026 |
@@ -501,6 +501,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~DoorDash~~ | ~~Software Engineer, Machine Learning - Fraud 🇺🇸~~ | Sunnyvale, CA<br>San Francisco, CA | PhD, Masters | Closed | May 21, 2026 |
 | ~~Microsoft~~ | ~~Stagiaire en opérations critiques / Critical Environment Ops INTERN 🇺🇸~~ | Québec City, QC, CA / Montreal, QC, CA | Intern | Closed | May 21, 2026 |
 | ~~MongoDB~~ | ~~Software Engineer 3, Backup 🇺🇸~~ | New York City | - | Closed | May 20, 2026 |
+| ~~Microsoft~~ | ~~Software Engineer 2 🇺🇸~~ | Redmond, WA, US | - | Closed | May 20, 2026 |
 | ~~Google~~ | ~~Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸~~ | Atlanta, GA, USA | New Grad | Closed | May 20, 2026 |
 | ~~Roblox~~ | ~~[2026] Design & Creative Fellowship 🇺🇸~~ | San Mateo, CA, United States | - | Closed | May 20, 2026 |
 | ~~Microsoft~~ | ~~Critical Environment Ops INTERN 🇺🇸~~ | ON,CA | Intern | Closed | May 19, 2026 |
