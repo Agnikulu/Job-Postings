@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 272
+- **Open positions:** 271
 - **All-time tracked:** 280
 - **Active companies:** 75
-- **Last updated:** `2026-05-23 22:35 UTC`
+- **Last updated:** `2026-05-23 23:37 UTC`
 
 ## Legend
 
@@ -32,21 +32,21 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
 | Meta | AI Research Engineer - Social Products (Technical Leadership) 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4398690521) | May 23, 2026 |
-| Meta | AI Research Scientist, CoreML - Monetization AI 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4246321800) | May 23, 2026 |
-| Meta | Fundamental AI Researcher - FAIR 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4403707999) | May 23, 2026 |
 | Meta | AI Research Scientist, VLM (vision language models) 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4120822597) | May 23, 2026 |
-| Meta | AI Research Scientist, Robotics 🇺🇸 | Burlingame, CA | - | [Apply](https://www.linkedin.com/jobs/view/4352083580) | May 23, 2026 |
 | Meta | AI Research Scientist, CoreML - Monetization AI 🇺🇸 | Sunnyvale, CA | - | [Apply](https://www.linkedin.com/jobs/view/4203648310) | May 23, 2026 |
-| Meta | Research Scientist, Artificial Intelligence 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4414305064) | May 23, 2026 |
-| Meta | Research Engineer, Monetization AI 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4396274000) | May 23, 2026 |
-| Meta | AI Research Scientist, Robotics 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4412091270) | May 23, 2026 |
-| Meta | AI Research Engineer 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4395566472) | May 23, 2026 |
-| Meta | Research Engineer, Monetization AI 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4389190085) | May 23, 2026 |
+| Meta | AI Research Scientist, CoreML - Monetization AI 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4246321800) | May 23, 2026 |
 | Meta | AI Research Scientist, Robotics 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4350076150) | May 23, 2026 |
-| Meta | Software Engineer, AI Native 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4383089383) | May 23, 2026 |
-| Meta | AI Research Scientist, VLM (vision language models) 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4402459139) | May 23, 2026 |
-| Meta | AI Research Scientist — Agentic AI for Materials Discovery 🇺🇸 | Pasadena, CA | - | [Apply](https://www.linkedin.com/jobs/view/4407263878) | May 23, 2026 |
+| Meta | AI Research Scientist, Robotics 🇺🇸 | Burlingame, CA | - | [Apply](https://www.linkedin.com/jobs/view/4352083580) | May 23, 2026 |
 | Meta | Research Engineer, Monetization AI 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4358010312) | May 23, 2026 |
+| Meta | Software Engineer, AI Native 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4383089383) | May 23, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4389190085) | May 23, 2026 |
+| Meta | AI Research Engineer 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4395566472) | May 23, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4396274000) | May 23, 2026 |
+| Meta | AI Research Scientist, VLM (vision language models) 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4402459139) | May 23, 2026 |
+| Meta | Fundamental AI Researcher - FAIR 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4403707999) | May 23, 2026 |
+| Meta | AI Research Scientist — Agentic AI for Materials Discovery 🇺🇸 | Pasadena, CA | - | [Apply](https://www.linkedin.com/jobs/view/4407263878) | May 23, 2026 |
+| Meta | AI Research Scientist, Robotics 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4412091270) | May 23, 2026 |
+| Meta | Research Scientist, Artificial Intelligence 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4414305064) | May 23, 2026 |
 | Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Menlo Park, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4302643436) | May 23, 2026 |
 | Meta | Research Engineer, Monetization AI 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4356760986) | May 23, 2026 |
 | Meta | Research Scientist Intern PhD, Applied Research 🇺🇸 | Menlo Park, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350155408) | May 23, 2026 |
@@ -161,7 +161,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7473686?gh_jid=7473686) | May 20, 2026 |
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | - | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Foundation AI - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7577436?gh_jid=7577436) | May 20, 2026 |
-| Netflix | Software Engineer in Test 5 - Apple Player 🇺🇸 | Los Gatos,California,United States of America | - | [Apply](https://explore.jobs.netflix.net/careers/job/790316003628) | May 20, 2026 |
 | MongoDB | Software Engineer, Developer Productivity 🇺🇸 | New York City | - | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7851388) | May 20, 2026 |
 | Microsoft | Data Center Technicians Intern 🇺🇸 | Middenmeer, NH, NL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867635) | May 20, 2026 |
 | Lambda Labs | Field Engineering Intern - Summer 2026 🇺🇸 | San Francisco Office (Second St) | MS Student, Intern | [Apply](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) | May 20, 2026 |
@@ -306,7 +305,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (8)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (9)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
@@ -319,6 +318,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Meta~~ | ~~Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸~~ | Redmond, WA | PhD, Intern | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | Bellevue, WA | Intern | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | Seattle, WA | Intern | Closed | May 23, 2026 |
+| ~~Netflix~~ | ~~Software Engineer in Test 5 - Apple Player 🇺🇸~~ | Los Gatos,California,United States of America | - | Closed | May 20, 2026 |
 
 </details>
 
