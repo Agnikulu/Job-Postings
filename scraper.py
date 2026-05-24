@@ -26,6 +26,7 @@ from __future__ import annotations
 import logging
 import os
 import sys
+import time
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import replace
@@ -38,7 +39,7 @@ import yaml
 import notifier
 import render_readme
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
-from fetch_limits import cap_job_list
+from fetch_limits import cap_job_list, linkedin_company_delay_sec
 from company_stats import CompanyStats
 from date_parser import parse_posted_date
 from classifier import classify_job
@@ -188,34 +189,46 @@ def run() -> int:
 
     active = [c for c in companies if c.get("ats") != "tier3_todo"]
     skipped_tier3 = len(companies) - len(active)
+    linkedin_active = [c for c in active if c.get("ats") == "linkedin"]
+    other_active = [c for c in active if c.get("ats") != "linkedin"]
     workers = _fetch_workers()
-    log.info("Fetching %d companies (%d parallel workers)", len(active), workers)
+    log.info(
+        "Fetching %d companies (%d parallel workers; %d LinkedIn serial)",
+        len(active),
+        workers,
+        len(linkedin_active),
+    )
+
+    def _record_fetch(name: str, jobs: list[Job] | None, err: str | None) -> None:
+        nonlocal failed
+        if err or jobs is None:
+            log.warning("%s: %s", name, err)
+            failed += 1
+            stats.record(name, postings=0, matches=0)
+            return
+        log.info("%s: fetched %d postings", name, len(jobs))
+        fetched.append((name, jobs))
 
     fetched: list[tuple[str, list[Job]]] = []
     if workers <= 1:
-        for company in active:
+        for company in other_active:
             name, jobs, err = _fetch_company_jobs(company)
             if err == "tier3":
                 continue
-            if err or jobs is None:
-                log.warning("%s: %s", name, err)
-                failed += 1
-                stats.record(name, postings=0, matches=0)
-                continue
-            log.info("%s: fetched %d postings", name, len(jobs))
-            fetched.append((name, jobs))
+            _record_fetch(name, jobs, err)
     else:
         with ThreadPoolExecutor(max_workers=workers) as pool:
-            futs = {pool.submit(_fetch_company_jobs, c): c for c in active}
+            futs = {pool.submit(_fetch_company_jobs, c): c for c in other_active}
             for fut in as_completed(futs):
                 name, jobs, err = fut.result()
-                if err or jobs is None:
-                    log.warning("%s: %s", name, err)
-                    failed += 1
-                    stats.record(name, postings=0, matches=0)
-                    continue
-                log.info("%s: fetched %d postings", name, len(jobs))
-                fetched.append((name, jobs))
+                _record_fetch(name, jobs, err)
+
+    li_delay = linkedin_company_delay_sec()
+    for i, company in enumerate(linkedin_active):
+        if i and li_delay:
+            time.sleep(li_delay)
+        name, jobs, err = _fetch_company_jobs(company)
+        _record_fetch(name, jobs, err)
 
     for name, jobs in sorted(fetched, key=lambda x: x[0].lower()):
         succeeded += 1

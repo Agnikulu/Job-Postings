@@ -30,4 +30,5 @@ review.csv
 
 # Eval artifacts (regenerable; keep under testing/eval/ if needed locally)
 testing/eval/*.jsonl
+!testing/eval/eval_gold.jsonl
 testing/eval/batches/

@@ -13,7 +13,11 @@ from __future__ import annotations
 import re
 
 from description_signals import extract_requirements_text
-from filters import has_explicit_ec_title, is_experienced_level_title
+from filters import (
+    has_explicit_ec_title,
+    is_experienced_level_title,
+    is_hard_experienced_ladder,
+)
 
 # --- Student / in-progress (requirements-first) --------------------------------
 
@@ -78,11 +82,14 @@ _INTERN = re.compile(r"\b(intern(ship)?|co-?op)\b", re.IGNORECASE)
 
 _NEW_GRAD = re.compile(
     r"\b("
-    r"new[\s-]?grad(?:uate)?|new\s+college\s+grad|ncg|"
+    r"new[\s-]?grad(?:uate)?|new\s+college\s+grad(?:uate)?|ncg|"
+    r"college\s+grad(?:uate)?(?:\s+20[2-9][0-9])?|"
     r"university\s+graduate|recent\s+graduate|"
     r"graduating\s+(?:in\s+)?(?:20[2-9][0-9]|spring|fall|summer|winter)|"
     r"expected\s+graduation|class\s+of\s+20[2-9][0-9]|"
-    r"college\s+grad\s+20[2-9][0-9]"
+    r"college\s+grad\s+20[2-9][0-9]|"
+    r"seeking\s+(?:20[2-9][0-9]\s*(?:&\s*20[2-9][0-9])?\s+)?grads?|"
+    r"(?:20[2-9][0-9]\s+grads?|grads?\s+(?:for\s+)?20[2-9][0-9])"
     r")\b",
     re.IGNORECASE,
 )
@@ -90,9 +97,16 @@ _NEW_GRAD = re.compile(
 # Title-only cues (avoid tagging "entry-level" IC roles as New Grad from body alone).
 _TITLE_NEW_GRAD = re.compile(
     r"\b("
-    r"new[\s-]?grad(?:uate)?|new\s+college\s+grad|university\s+graduate|"
-    r"early[\s-]career|entry[\s-]level|campus"
+    r"new[\s-]?grad(?:uate)?|new\s+college\s+grad(?:uate)?|university\s+graduate|"
+    r"early[\s-]career|entry[\s-]level|campus|"
+    r"seeking\s+(?:20[2-9][0-9]\s*(?:&\s*20[2-9][0-9])?\s+)?grads?|"
+    r"(?:20[2-9][0-9]\s+grads?|grads?\s+(?:for\s+)?20[2-9][0-9])"
     r")\b",
+    re.IGNORECASE,
+)
+
+_TITLE_EARLY_CAREER = re.compile(
+    r"\b(engineer\s+i\b|engineer\s+1\b)\b",
     re.IGNORECASE,
 )
 
@@ -169,6 +183,9 @@ def _scan_student_and_required(req: str, title: str) -> list[str]:
     if _INTERN.search(title):
         tags.append("Intern")
 
+    if _TITLE_EARLY_CAREER.search(title) and "New Grad" not in tags:
+        tags.append("Early Career")
+
     return tags
 
 
@@ -180,6 +197,8 @@ def extract_education_levels(
 ) -> list[str]:
     """Return ordered education tags for a matched posting."""
     title_text = (title or "").strip()
+    if is_hard_experienced_ladder(title_text):
+        return []
     if is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text):
         return []
 
@@ -193,16 +212,21 @@ def extract_education_levels(
     tags = _scan_student_and_required(req, title_text)
 
     if not tags and title_text:
+        skip_degree_tags = is_hard_experienced_ladder(title_text) or (
+            is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text)
+        )
         if _TITLE_INTERN.search(title_text):
             tags.append("Intern")
-        if _TITLE_NEW_GRAD.search(title_text):
+        if _TITLE_NEW_GRAD.search(title_text) and not skip_degree_tags:
             tags.append("New Grad")
-        if _TITLE_PHD.search(title_text):
+        if _TITLE_PHD.search(title_text) and not skip_degree_tags:
             tags.append("PhD")
-        if _TITLE_MASTERS.search(title_text):
+        if _TITLE_MASTERS.search(title_text) and not skip_degree_tags:
             tags.append("Masters")
-        if _TITLE_BACHELORS.search(title_text):
+        if _TITLE_BACHELORS.search(title_text) and not skip_degree_tags:
             tags.append("Bachelors")
+        if _TITLE_EARLY_CAREER.search(title_text) and "New Grad" not in tags:
+            tags.append("Early Career")
 
     order = (
         "PhD Student",
@@ -212,6 +236,7 @@ def extract_education_levels(
         "Masters",
         "Bachelors",
         "New Grad",
+        "Early Career",
         "Intern",
     )
     rank = {name: i for i, name in enumerate(order)}

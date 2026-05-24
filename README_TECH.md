@@ -101,18 +101,25 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 
 **Coinbase** uses a custom adapter against `coinbase.com/api/v2/careers` (falls back to private Greenhouse slug `cdpjobs`). Both endpoints are currently returning errors from Coinbase's side; the adapter is wired for when they recover.
 
-### 2. Regex classifier (`filters.py`)
+### 2. Regex classifier (`filters.py` + `classifier.py`)
 
-Two-stage logic:
+Pipeline entry point: **`classify_job()`** in `classifier.py` (prefilter → `classify_title_confidence` → education tags → US gate).
 
+Two-stage logic in `filters.py`:
+
+- **`is_obvious_reject(title)`** — conservative title prefilter (`_OBVIOUS_NON_TECH` checked before `_PREFILTER_NEVER_REJECT` so `Junior Clinical…` is not saved by `junior`).
 - **`should_fetch_description(title)`** — skip per-job detail HTTP when title-only classification is already decisive (major speed win on Google/Microsoft/Workday).
 - **`classify_title_confidence(title, description)`** — include/exclude with reasons (open-level IC, intern, new grad, MTS, HFC fellowships, non-tech intern exclusions, etc.).
 
-**Include signals (examples):** intern, new grad, university graduate, early career, campus, PhD early-career tracks, open-level SWE titles without senior YOE in description.
+**Include signals (examples):** intern, new grad, university graduate, early career, campus, PhD early-career tracks, open-level SWE titles only when description has EC/YOE signals (not bare `2026` in title alone).
 
-**Hard excludes (examples):** senior, staff, principal, director, manager, VP, non-technical intern titles, expert/HFC fellowships misclassified as EC.
+**Hard excludes (examples):** senior, staff, principal, director, manager, VP, non-technical intern titles, expert/HFC fellowships, experienced ladder titles (Engineer II/III, Scientist II, Level 4+, P2–P9) even when title also says `Graduate 2026`, safe non-tech prefilter hits (counsel, equipment technician, quant portfolio analyst, operations associate, etc.).
 
-**US locations:** `is_us_location()` + optional description fallback; ambiguous locations can pass through for manual review.
+**US locations:** `is_us_location()` + optional description fallback; ambiguous `Remote` / `N Locations` return false in strict mode.
+
+**Education tags (`education.py`):** requirements-first tags (Intern, New Grad, Early Career for Engineer I, degree paths). `is_hard_experienced_ladder(title)` suppresses all tags on mid-level cohort branding (e.g. `Graduate 2026 … Engineer II`).
+
+**Posted dates (`date_parser.py`):** normalizes ATS fields to `YYYY-MM-DD`. LinkedIn list cards: relative (`2 days ago`, `yesterday`) and absolute (`May 24, 2026`). Archive `upsert` overwrites `posted_date` when the ATS provides one (fixes first-run `first_seen` clustering).
 
 ### 3. Google Careers sidebar filters
 
@@ -133,10 +140,15 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | Setting | Value | Purpose |
 |---------|-------|---------|
 | `timeout-minutes` | 45 | Avoid 20m kill mid-run (fetch + classify all companies) |
-| `ATS_SNIPER_FETCH_WORKERS` | 4 | Parallel company fetch |
+| `ATS_SNIPER_FETCH_WORKERS` | 4 | Parallel company fetch (non-LinkedIn only; LinkedIn is always serial) |
+| `ATS_SNIPER_LINKEDIN_DELAY_SEC` | 6 | Pause between LinkedIn company fetches |
+| `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 0.75 | Pause between LinkedIn search pages |
+| `ATS_SNIPER_EVAL_FETCH_WORKERS` | 4 | Parallel workers for eval fetch (non-LinkedIn) |
 | `ATS_SNIPER_MAX_LIST_PAGES` | 60 | Cap Google/Microsoft/Workday/Apple list depth in CI |
 | `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 1200 | Cap single-response megaboards (e.g. Anduril ~1.9k) |
 | `ATS_SNIPER_RESET_STATE` | — | Set to `1` (or use workflow **reset_state**) to wipe `seen_jobs.json`, `jobs_archive.json`, and `company_stats.json` before the run |
+
+**LinkedIn HTTP 429:** The guest jobs API rate-limits aggressively when many companies are hit at once. The scraper fetches all `linkedin` registry entries **one at a time** with backoff on 429. If you still see warnings, wait 15–30 minutes, re-run, or raise `ATS_SNIPER_LINKEDIN_DELAY_SEC` (e.g. `10`). For eval LinkedIn backfill only: `python testing/scripts/_retry_linkedin_eval.py` (8s between companies).
 
 ### 5. State and deduplication
 
@@ -144,10 +156,12 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 |------|------|
 | `seen_jobs.json` | URL → first-seen time; Discord only fires on new URLs |
 | `jobs_archive.json` | All matched jobs ever seen; `is_closed` when URL disappears from a later scrape |
-
-**Fresh start:** Run Actions → **ATS Sniper** → **Run workflow** with **reset_state** checked, or locally `ATS_SNIPER_RESET_STATE=1 python scraper.py`. That clears old README rows and re-notifies every current match once (Discord summary if &gt;50).
 | `company_stats.json` | Per-company posting/match counts; **slug-rot** warning if matches drop to zero |
 | `latest_jobs.md` | Human-readable log of the latest Discord batch |
+
+**Archive self-heal:** Each run only `upsert`s URLs that still pass classify. Jobs that no longer match are not touched that run; `close_unseen()` marks them `is_closed` when their company is scraped successfully. README open table drops them on the next render.
+
+**Fresh start:** Run Actions → **ATS Sniper** → **Run workflow** with **reset_state** checked, or locally `ATS_SNIPER_RESET_STATE=1 python scraper.py`. That clears old README rows and re-notifies every current match once (Discord summary if &gt;50).
 
 ---
 
@@ -170,29 +184,34 @@ Discord alerts only fire for **new** URLs (not already in `seen_jobs.json`). Aft
 
 ### Manual eval vs regex (`testing/eval/`)
 
-Per-ATS ground-truth labels on **2,186** pre-filter jobs (up to **200/ATS adapter**), in `cursor_eval_labels.jsonl`. Labels use the comprehensive early-career technical rubric (`_llm_eval_label.py`) with human review corrections on disagreements.
+Two modes:
 
-| Metric | Old eval (5,393 jobs) | **New eval (2,186 jobs)** |
-|--------|----------------------|---------------------------|
-| Accuracy | 98.7% | **99.7%** |
-| Precision | 81.3% (31 FP) | **87.8%** (6 FP) |
-| Recall | 76.3% (42 FN) | **100.0%** (0 FN) |
-| F1 | 0.79 | **0.93** |
-| Manual includes (ground truth) | 177 (3.3%) | **44** (2.0%) |
+1. **Regression** — per-ATS sample (`fetch --per-ats 200`) with labels in `cursor_eval_labels.jsonl`.
+2. **Discovery** — biased sample (`fetch-discovery`) overweighting regex positives, borderline titles, and new adapters; outputs `eval_recommendations.md` with grouped FP/FN fixes.
 
-**Dataset coverage:** 13 ATS types sampled; most at 200 jobs (apple 81, gem 98, workable 7, smartrecruiters 0 — adapter has no postings). LinkedIn bucket filled via Snap after rate-limit retries.
-
-**Remaining false positives (6):** Google DeepMind/Google senior research & hardware verification roles tagged `explicit ec technical`; Snap DevOps Engineer Level 4; Uber Graduate PhD SE II / Scientist II cohort titles.
-
-Re-fetch, label, and score:
+Track **precision on regex-positive** jobs (not accuracy — most rows are true negatives). Gold regressions: `testing/eval/eval_gold.jsonl` + `pytest tests/test_eval_regression.py`.
 
 ```bash
+# Full local run (deterministic labels, no API key)
+set ATS_SNIPER_EVAL_DETERMINISTIC=1
+python testing/scripts/_cursor_manual_eval.py run --per-ats 80
+
+# Or step-by-step
 python testing/scripts/_cursor_manual_eval.py fetch --per-ats 200
 python testing/scripts/_llm_eval_label.py label
 python testing/scripts/_cursor_manual_eval.py rescore
 python testing/scripts/_cursor_manual_eval.py score
+python testing/scripts/_cursor_manual_eval.py sync-gold
 python testing/scripts/_eval_metrics.py
+pytest tests/test_eval_regression.py -q
+
+# Discovery-only (after fetch)
+python testing/scripts/_cursor_manual_eval.py fetch-discovery --max-jobs 600
+python testing/scripts/_cursor_manual_eval.py discovery-label
+python testing/scripts/_cursor_manual_eval.py discovery-score
 ```
+
+Reports: `cursor_eval_report.json`, `cursor_eval_discovery_report.json`, `eval_recommendations.md`.
 
 ---
 
@@ -339,6 +358,8 @@ serverless-ats-sniper/
 ├── companies.yaml            # Company registry
 ├── filters.py                # Regex + description signals
 ├── description_signals.py    # Requirement parsing helpers
+├── education.py              # Education column tags
+├── date_parser.py            # Posted-date normalization
 ├── classifier.py             # classify_job() wrapper
 ├── state.py / jobs_archive.py / company_stats.py
 ├── notifier.py / render_readme.py
@@ -429,5 +450,6 @@ pytest -q
 
 - Greenhouse list fetch without full `content=true` for every job (Anduril-scale boards)
 - Monitor Coinbase careers API (`/api/v2/careers`) recovery; GH slug `cdpjobs` currently 404
-- Tighter open-level IC precision (eval-driven regex tweaks)
 - Optional `google_location: United States` on main Google entry
+- Safe `_OBVIOUS_NON_TECH` expansions from eval discovery (content moderation, robot teleop ops, etc.)
+- LinkedIn `linkedin_company_id` audit when listings look cross-employer

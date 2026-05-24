@@ -317,6 +317,93 @@ def test_data_center_technician_excluded() -> None:
     assert conf.level == "high_exclude"
 
 
+# --- Production precision fixes (2026-05) ------------------------------------
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
+        "Graduate 2026 PhD Scientist II (Economists Only), Reservations",
+        "DevOps Engineer, Level 4",
+        "Engineering Business Analyst - P2 - (Hybrid)",
+        "HWIL Mechanical Engineer - P2",
+        "Raytheon Full Time 2026 - Power & Analog Design Engineer II",
+    ],
+)
+def test_cohort_branding_does_not_save_ladder_levels(title: str) -> None:
+    conf = classify_title_confidence(
+        title,
+        "New grads welcome. PhD preferred. Bachelor's degree required.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason in {"experienced level title", "non-tech"}
+
+
+def test_open_level_team_swe_excluded_without_strong_ec() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer, Starlink Network",
+        "Bachelor's degree in Computer Science or related field.",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_open_level_team_swe_included_with_new_grad_in_title() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer, New Grad - Starlink",
+        "Bachelor's degree required.",
+    )
+    assert conf.level == "high_include"
+
+
+def test_bare_swe_with_early_years_still_included() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer",
+        "Qualifications:\n1-3 years of experience building web applications.\n"
+        "Bachelor's degree in Computer Science preferred.",
+    )
+    assert conf.level == "high_include"
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Counsel, Commercial",
+        "Founder's Office, Applied AI",
+        "Administrative Generalist",
+        "DoorDash for Business Support Representative",
+        "Associate Strategic Account Development Executive - Platform",
+        "Division Operations Associate",
+        "Deployment Systems Technician",
+        "Junior Clinical Trials Data Specialist",
+        "IT Services Technician",
+        "Enterprise AI Associate",
+        "Associate Marketing Data Analyst - Marketing Analytics",
+        "GSOC Operator",
+        "Equipment Technician, Vacuum, Semiconductor",
+        "Quantitative Portfolio Analyst – 2026 Grad",
+        "Equity Quantitative Researcher",
+        "Fundamental Research Fellowship, Canvas",
+    ],
+)
+def test_safe_non_tech_prefilter(title: str) -> None:
+    assert is_obvious_reject(title) is True
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Associate Software Engineer - Seeking 2025 & 2026 Grads",
+        "Quantitative Software Developer",
+        "Quantitative Research Intern",
+        "Quantitative Developer Intern",
+        "Support Engineer",
+    ],
+)
+def test_safe_prefilter_does_not_drop_viable_eng(title: str) -> None:
+    assert is_obvious_reject(title) is False
+
+
 def test_classify_title_confidence_mts_excluded() -> None:
     conf = classify_title_confidence(
         "Member of Technical Staff (Backend Software Engineer)",

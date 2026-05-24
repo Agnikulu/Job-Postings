@@ -44,7 +44,7 @@ how to fork, how to add companies, and how filtering works.
 LEGEND = """## Legend
 
 - **Role flag** -> Country (currently US-only, `\U0001F1FA\U0001F1F8`).
-- **Education** -> Tags from job requirements (e.g. `{PhD, PhD Student, Masters, Bachelors, New Grad, Intern}`).
+- **Education** -> Tags from job requirements (e.g. `{PhD, PhD Student, Masters, Bachelors, New Grad, Early Career, Intern}`).
 - **Apply** -> Direct link to the company's job board posting.
 - **Date Posted** -> When the company posted the role (parsed from each ATS).
    Falls back to when our scraper first observed the URL.

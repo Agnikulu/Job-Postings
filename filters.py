@@ -196,11 +196,26 @@ _EXPERIENCED_LEVEL_TITLE = re.compile(
     r"\b("
     r"engineer\s+(?:i{2,4}|ii|iii|iv|v)\b|"
     r"engineer\s+[2-9]\b|"
+    r"scientist\s+(?:ii|iii|iv|2|3)\b|"
     r"(?:software|machine\s+learning|ml|data|security|site\s+reliability|sre|"
     r"backend|frontend|full[\s-]?stack|platform|infrastructure|applied|research|"
     r"quantitative|cloud|mobile|android|ios)\s+engineer\s+(?:i{2,4}|ii|iii|iv)\b|"
     r"engineer\s+(?:i{2,4}|ii|iii|iv)\s*[-,/]|"
-    r"\bL[4-9]\b|\bP[4-9]\b"
+    r"\blevel\s+(?:4|5|6|7|8|9)\b|"
+    r"\bL[4-9]\b|\bP[2-9]\b"
+    r")\b",
+    re.IGNORECASE,
+)
+
+# Cohort branding (e.g. "Graduate 2026 … Engineer II") must not override ladder levels.
+_HARD_EXPERIENCED_LADDER = _EXPERIENCED_LEVEL_TITLE
+
+_OPEN_LEVEL_EXPLICIT_EC = re.compile(
+    r"\b("
+    r"intern(ship)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad(?:uate)?|"
+    r"university\s+graduate|recent\s+graduate|early[\s-]career|"
+    r"entry[\s-]level|campus\s+(?:hire|recruiting|program)|"
+    r"apprentice|trainee|engineer\s+i\b|engineer\s+1\b"
     r")\b",
     re.IGNORECASE,
 )
@@ -336,7 +351,28 @@ _OBVIOUS_NON_TECH = re.compile(
     r"field\s+(?:service|operations)\s+engineer(?:\s+i+\b)?|"
     r"network\s+operations\s+(?:center\s+)?(?:technician|engineer|specialist)|"
     r"lab\s+technician|laboratory\s+technician|"
-    r"manufacturing\s+technician|production\s+technician|quality\s+technician"
+    r"manufacturing\s+technician|production\s+technician|quality\s+technician|"
+    # Legal / admin / sales (unambiguous non-engineering)
+    r"\bcounsel\b|"
+    r"founder'?s?\s+office|"
+    r"administrative\s+generalist|"
+    r"(?:support|customer\s+service)\s+representative|"
+    r"strategic\s+account\s+development\s+executive|"
+    r"account\s+development\s+executive|"
+    r"(?:business|division)\s+operations\s+associate|"
+    r"deployment\s+systems\s+technician|"
+    r"clinical\s+trials?\s+data\s+specialist|"
+    r"\bit\s+services\s+technician\b|"
+    r"enterprise\s+ai\s+associate|"
+    r"associate\s+marketing\s+data\s+analyst|"
+    r"engineering\s+business\s+analyst|"
+    r"\bgsoc\s+operator\b|"
+    r"equipment\s+technician|"
+    # Finance / quant research (not software-dev hiring) — keep *intern* / *developer* paths
+    r"fundamental\s+research\s+fellowship|"
+    r"market\s+intelligence\s+emerging\s+talent|"
+    r"quantitative\s+portfolio\s+analyst|"
+    r"equity\s+quantitative\s+researcher"
     r")\b",
     re.IGNORECASE,
 )
@@ -367,11 +403,11 @@ def is_obvious_reject(title: str | None) -> bool:
         return True
     text = title.strip()
 
-    if _PREFILTER_NEVER_REJECT.search(text):
-        return False
-
     if _OBVIOUS_NON_TECH.search(text):
         return True
+
+    if _PREFILTER_NEVER_REJECT.search(text):
+        return False
 
     if _PREFILTER_EARLY_CAREER.search(text):
         return False
@@ -491,6 +527,13 @@ def is_experienced_level_title(title: str | None) -> bool:
     return bool(_EXPERIENCED_LEVEL_TITLE.search(title.strip()))
 
 
+def is_hard_experienced_ladder(title: str | None) -> bool:
+    """Ladder level that excludes even when title also has cohort year (2026, Graduate)."""
+    if not title or not title.strip():
+        return False
+    return bool(_HARD_EXPERIENCED_LADDER.search(title.strip()))
+
+
 def has_explicit_ec_title(title: str | None) -> bool:
     """Title explicitly marks intern / new grad / university hire / Engineer I."""
     if not title or not title.strip():
@@ -558,14 +601,12 @@ def _qualifies_open_level_ic(
         if body.has_senior_exp or body.has_min_years_req:
             if not qualifying_early_years(positive, title, ec_friendly_header=ec_header):
                 return False
-    if has_explicit_ec_title(title):
+    if _OPEN_LEVEL_EXPLICIT_EC.search(title):
         return True
     if _strong_ec(desc_sig) and (
         _PREFILTER_EARLY_CAREER.search(positive)
         or qualifying_early_years(positive, title, ec_friendly_header=ec_header)
     ):
-        return True
-    if qualifying_early_years(positive, title, ec_friendly_header=ec_header):
         return True
     return False
 
@@ -663,6 +704,9 @@ def classify_title_confidence(
     elif _CUSTOMER_FACING_ENG.search(title_text):
         return TitleConfidence("high_exclude", False, "non-tech")
 
+    if is_hard_experienced_ladder(title_text):
+        return TitleConfidence("high_exclude", True, "experienced level title")
+
     if is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text):
         return TitleConfidence("high_exclude", True, "experienced level title")
 
@@ -724,19 +768,22 @@ def classify_title_confidence(
     if re.search(r"\barchitect\b", title_text, re.IGNORECASE) and not desc_sig.has_strong_ec:
         return TitleConfidence("high_exclude", False, "senior keyword")
 
+    _ec_friendly_header = ec_friendly_requirements_header(desc_sig.requirements_text)
+    _early_years = qualifying_early_years(
+        positive_text,
+        title_text,
+        ec_friendly_header=_ec_friendly_header,
+    )
     has_target = bool(
         _title_ec_target(title_text)
         or (req_text and TARGET.search(req_text))
         or _strong_ec(desc_sig)
-        or qualifying_early_years(
-            positive_text,
-            title_text,
-            ec_friendly_header=ec_friendly_requirements_header(
-                desc_sig.requirements_text
-            ),
-        )
+        or (_early_years and not _is_open_level_ic_title(title_text))
     )
     has_weak = bool(WEAK_EARLY_CAREER_SIGNALS.search(positive_text))
+
+    if is_hard_experienced_ladder(title_text):
+        return TitleConfidence("high_exclude", True, "experienced level title")
 
     if is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text):
         return TitleConfidence("high_exclude", True, "experienced level title")

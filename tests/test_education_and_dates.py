@@ -39,6 +39,18 @@ EDUCATION_CASES = [
     ("Software Engineering New Grad (2026)", None, ["New Grad"]),
     ("University Graduate - Machine Learning Engineer", None, ["New Grad"]),
     ("New College Grad - ASIC Engineer", None, ["New Grad"]),
+    (
+        "Field Application Engineer - New College Graduate 2026",
+        None,
+        ["New Grad"],
+    ),
+    (
+        "Associate Software Engineer - Seeking 2025 & 2026 Grads",
+        None,
+        ["New Grad"],
+    ),
+    ("Machine Learning Engineer I", None, ["Early Career"]),
+    ("Graduate 2026 PhD Software Engineer II", None, []),
     # Intern only
     ("Software Engineer Intern", None, ["Intern"]),
     ("Co-Op, Software Engineering", None, ["Intern"]),
@@ -176,3 +188,21 @@ def test_none_returns_none() -> None:
 
 def test_unknown_ats_falls_through() -> None:
     assert parse_posted_date("2026-05-20", "smartrecruiters") == "2026-05-20"
+
+
+@pytest.mark.parametrize(
+    "text,expected",
+    [
+        ("2 days ago", "2026-05-19"),
+        ("1 week ago", "2026-05-14"),
+        ("Yesterday", "2026-05-20"),
+        ("Just now", "2026-05-21"),
+        ("May 24, 2026", "2026-05-24"),
+    ],
+)
+def test_linkedin_relative_and_absolute(text: str, expected: str) -> None:
+    assert parse_posted_date(text, "linkedin", ref=REF) == expected
+
+
+def test_linkedin_unparseable_returns_none() -> None:
+    assert parse_posted_date("Recently", "linkedin", ref=REF) is None

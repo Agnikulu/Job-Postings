@@ -9,19 +9,20 @@ from __future__ import annotations
 import html
 import logging
 import re
+import time
 from dataclasses import replace
 from typing import Any
 
 import requests
 from tenacity import (
     retry,
-    retry_if_exception_type,
+    retry_if_exception,
     stop_after_attempt,
     wait_exponential,
 )
 
 from adapters.description_fetch import fetch_linkedin_description, map_descriptions_parallel
-from fetch_limits import max_list_pages
+from fetch_limits import linkedin_page_delay_sec, max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -31,7 +32,7 @@ log = logging.getLogger(__name__)
 SEARCH_URL = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 PAGE_SIZE = 10
 MAX_PAGES = 200
-DETAIL_WORKERS = 6
+DETAIL_WORKERS = 3
 DEFAULT_COMPANY_ID = "1337"
 
 
@@ -46,11 +47,27 @@ def _browser_headers() -> dict[str, str]:
     }
 
 
+def _retryable_request_error(exc: BaseException) -> bool:
+    if isinstance(exc, requests.HTTPError):
+        return exc.response.status_code in {429, 500, 502, 503}
+    return isinstance(exc, requests.RequestException)
+
+
+def _sleep_for_rate_limit(resp: requests.Response) -> None:
+    retry_after = resp.headers.get("Retry-After")
+    if retry_after and retry_after.isdigit():
+        pause = min(int(retry_after), 120)
+    else:
+        pause = 30
+    log.warning("LinkedIn: HTTP 429, sleeping %ss before retry", pause)
+    time.sleep(pause)
+
+
 @retry(
     reraise=True,
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=2, max=10),
-    retry=retry_if_exception_type(requests.RequestException),
+    stop=stop_after_attempt(6),
+    wait=wait_exponential(multiplier=2, min=4, max=60),
+    retry=retry_if_exception(_retryable_request_error),
 )
 def _get_page(company_id: str, start: int, location: str) -> str:
     resp = requests.get(
@@ -59,6 +76,9 @@ def _get_page(company_id: str, start: int, location: str) -> str:
         headers=_browser_headers(),
         timeout=DEFAULT_TIMEOUT,
     )
+    if resp.status_code == 429:
+        _sleep_for_rate_limit(resp)
+        resp.raise_for_status()
     resp.raise_for_status()
     return resp.text
 
@@ -99,16 +119,24 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     company_id = str(company.get("linkedin_company_id") or DEFAULT_COMPANY_ID)
     location = company.get("search_location") or "United States"
+    page_delay = linkedin_page_delay_sec()
 
     all_raw: list[dict[str, str]] = []
     for page in range(max_list_pages(MAX_PAGES)):
         start = page * PAGE_SIZE
+        if page and page_delay:
+            time.sleep(page_delay)
         try:
             page_jobs = _parse_page(_get_page(company_id, start, location))
         except requests.HTTPError as e:
-            raise AdapterError(
-                f"LinkedIn HTTP {e.response.status_code} for {name} start={start}"
-            ) from e
+            code = e.response.status_code if e.response is not None else "?"
+            if code == 429:
+                log.warning(
+                    "LinkedIn HTTP 429 for %s start=%s (retries exhausted)",
+                    name,
+                    start,
+                )
+            raise AdapterError(f"LinkedIn HTTP {code} for {name} start={start}") from e
         except requests.RequestException as e:
             raise AdapterError(f"LinkedIn network error for {name}: {e}") from e
 
