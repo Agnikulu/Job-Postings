@@ -10,9 +10,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from adapters.gem import fetch as fetch_gem
 from adapters.jibe import fetch as fetch_jibe
+from adapters.recruitee import fetch as fetch_recruitee
 from adapters.rippling import fetch as fetch_rippling
+from adapters.coinbase import fetch as fetch_coinbase
 from adapters.smartrecruiters import fetch as fetch_smartrecruiters
 from adapters.uber import fetch as fetch_uber
+from adapters.wiz import fetch as fetch_wiz
 from adapters.workable import fetch as fetch_workable
 
 
@@ -147,3 +150,86 @@ def test_smartrecruiters_fetch_maps_fields() -> None:
     assert jobs[0].title == "Sr. SW Engineer"
     assert jobs[0].posted_at == "2026-04-23T16:54:54.835Z"
     assert "744000122509268" in jobs[0].url
+
+
+def test_recruitee_fetch_maps_fields() -> None:
+    payload = {
+        "offers": [
+            {
+                "id": 12345,
+                "slug": "software-engineer",
+                "title": "Software Engineer",
+                "location": "Oslo, Norway",
+                "published_at": "2026-01-15",
+                "description": "<p>Build robots.</p>",
+                "requirements": "<p>BS in CS.</p>",
+            }
+        ]
+    }
+    company = {"name": "1X Technologies", "slug": "1x", "category": "robotics"}
+    with patch("adapters.recruitee._get", return_value=payload):
+        jobs = fetch_recruitee(company)
+    assert len(jobs) == 1
+    assert jobs[0].title == "Software Engineer"
+    assert jobs[0].url == "https://1x.recruitee.com/o/software-engineer"
+    assert jobs[0].ats == "recruitee"
+    assert jobs[0].description is not None
+
+
+def test_wiz_fetch_maps_fields() -> None:
+    payload = {
+        "allJobPostings": [
+            {
+                "id": "4615162006",
+                "title": "Backend Engineer",
+                "location": "Tel Aviv",
+                "department": "Engineering",
+                "team": "Platform",
+                "content": "<p>Build cloud security.</p>",
+                "applyUrl": "https://www.wiz.io/careers/job/4615162006/:title?gh_jid=4615162006#app",
+            }
+        ]
+    }
+    company = {"name": "Wiz", "category": "frontier_ai"}
+    with patch("adapters.wiz._load_postings", return_value=payload["allJobPostings"]):
+        jobs = fetch_wiz(company)
+    assert len(jobs) == 1
+    assert jobs[0].title == "Backend Engineer"
+    assert jobs[0].ats == "wiz"
+    assert jobs[0].url == "https://www.wiz.io/careers/job/4615162006/backend-engineer?gh_jid=4615162006"
+    assert jobs[0].department == "Platform"
+    assert jobs[0].description is not None
+
+
+def test_coinbase_fetch_maps_fields() -> None:
+    payload = {
+        "data": {
+            "departments": [
+                {
+                    "name": "Engineering",
+                    "jobs": [
+                        {
+                            "id": "6685678006",
+                            "title": "Software Engineer",
+                            "location": {"name": "Remote - USA"},
+                            "content": "<p>Build crypto systems.</p>",
+                            "updated_at": "2026-03-01T00:00:00Z",
+                        }
+                    ],
+                }
+            ]
+        }
+    }
+    company = {
+        "name": "Coinbase",
+        "greenhouse_slug": "cdpjobs",
+        "category": "enterprise",
+    }
+    with patch("adapters.coinbase._get_json", return_value=payload):
+        jobs = fetch_coinbase(company)
+    assert len(jobs) == 1
+    assert jobs[0].title == "Software Engineer"
+    assert jobs[0].ats == "coinbase"
+    assert jobs[0].url == "https://www.coinbase.com/careers/positions/6685678006"
+    assert jobs[0].department == "Engineering"
+    assert jobs[0].description is not None

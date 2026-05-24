@@ -77,49 +77,109 @@ def _regex_include(
     return result.include, result.reason or "", result.source
 
 
-def cmd_fetch(*, per_company: int, max_companies: int | None) -> None:
+def cmd_fetch(
+    *,
+    per_company: int,
+    max_companies: int | None,
+    per_ats: int | None = None,
+) -> None:
     companies = [c for c in load_registry() if c.get("ats") != "tier3_todo"]
     if max_companies:
         companies = companies[:max_companies]
 
-    log(f"Fetching {len(companies)} companies, up to {per_company} jobs each...")
+    if per_ats:
+        log(f"Fetching up to {per_ats} jobs per ATS type across {len(companies)} companies...")
+    else:
+        log(f"Fetching {len(companies)} companies, up to {per_company} jobs each...")
     t0 = time.time()
     rows: list[dict] = []
-    ok = fail = 0
 
-    with cf.ThreadPoolExecutor(max_workers=8) as pool:
-        futs = {pool.submit(fetch_company, c, limit=per_company): c for c in companies}
-        done = 0
-        for fut in cf.as_completed(futs):
-            name, jobs, err = fut.result()
-            done += 1
-            if err:
-                fail += 1
-                log(f"  [{done}/{len(companies)}] FAIL {name}: {err}")
-                continue
-            ok += 1
-            for j in jobs:
-                if not j.url:
+    if per_ats:
+        by_ats: dict[str, list[dict]] = defaultdict(list)
+        ats_companies: dict[str, list[dict]] = defaultdict(list)
+        for c in companies:
+            ats_companies[c["ats"]].append(c)
+
+        with cf.ThreadPoolExecutor(max_workers=8) as pool:
+            futs = {
+                pool.submit(fetch_company, c, limit=per_ats): c
+                for c in companies
+            }
+            done = 0
+            for fut in cf.as_completed(futs):
+                company = futs[fut]
+                ats = company["ats"]
+                name, jobs, err = fut.result()
+                done += 1
+                if err:
+                    log(f"  [{done}/{len(companies)}] FAIL {name}: {err}")
                     continue
-                regex_inc, regex_reason, regex_source = _regex_include(
-                    j.company, j.title, j.location, j.description, j.url
+                for j in jobs:
+                    if not j.url:
+                        continue
+                    if len(by_ats[ats]) >= per_ats:
+                        continue
+                    regex_inc, regex_reason, regex_source = _regex_include(
+                        j.company, j.title, j.location, j.description, j.url
+                    )
+                    desc = j.description or ""
+                    by_ats[ats].append(
+                        {
+                            "company": j.company,
+                            "ats": j.ats,
+                            "title": j.title,
+                            "location": j.location,
+                            "url": j.url,
+                            "desc_len": len(desc),
+                            "description": desc[:8000],
+                            "regex_include": regex_inc,
+                            "regex_reason": regex_reason,
+                            "regex_source": regex_source,
+                        }
+                    )
+                log(
+                    f"  [{done}/{len(companies)}] {name}: {len(jobs)} jobs "
+                    f"({ats} bucket {len(by_ats[ats])}/{per_ats})"
                 )
-                desc = j.description or ""
-                rows.append(
-                    {
-                        "company": j.company,
-                        "ats": j.ats,
-                        "title": j.title,
-                        "location": j.location,
-                        "url": j.url,
-                        "desc_len": len(desc),
-                        "description": desc[:4500],
-                        "regex_include": regex_inc,
-                        "regex_reason": regex_reason,
-                        "regex_source": regex_source,
-                    }
-                )
-            log(f"  [{done}/{len(companies)}] {name}: {len(jobs)} jobs")
+
+        for ats in sorted(by_ats):
+            rows.extend(by_ats[ats][:per_ats])
+            log(f"  ATS {ats}: {min(len(by_ats[ats]), per_ats)} jobs collected")
+    else:
+        ok = fail = 0
+        with cf.ThreadPoolExecutor(max_workers=8) as pool:
+            futs = {pool.submit(fetch_company, c, limit=per_company): c for c in companies}
+            done = 0
+            for fut in cf.as_completed(futs):
+                name, jobs, err = fut.result()
+                done += 1
+                if err:
+                    fail += 1
+                    log(f"  [{done}/{len(companies)}] FAIL {name}: {err}")
+                    continue
+                ok += 1
+                for j in jobs:
+                    if not j.url:
+                        continue
+                    regex_inc, regex_reason, regex_source = _regex_include(
+                        j.company, j.title, j.location, j.description, j.url
+                    )
+                    desc = j.description or ""
+                    rows.append(
+                        {
+                            "company": j.company,
+                            "ats": j.ats,
+                            "title": j.title,
+                            "location": j.location,
+                            "url": j.url,
+                            "desc_len": len(desc),
+                            "description": desc[:8000],
+                            "regex_include": regex_inc,
+                            "regex_reason": regex_reason,
+                            "regex_source": regex_source,
+                        }
+                    )
+                log(f"  [{done}/{len(companies)}] {name}: {len(jobs)} jobs")
 
     with JOBS_PATH.open("w", encoding="utf-8") as fh:
         for row in rows:
@@ -271,13 +331,18 @@ def main() -> int:
     sub = p.add_subparsers(dest="cmd", required=True)
     f = sub.add_parser("fetch")
     f.add_argument("--per-company", type=int, default=50)
+    f.add_argument("--per-ats", type=int, default=None, help="Cap jobs per ATS adapter type")
     f.add_argument("--max-companies", type=int, default=None)
     sub.add_parser("score")
     sub.add_parser("rescore")
     args = p.parse_args()
     random.seed(42)
     if args.cmd == "fetch":
-        cmd_fetch(per_company=args.per_company, max_companies=args.max_companies)
+        cmd_fetch(
+            per_company=args.per_company,
+            max_companies=args.max_companies,
+            per_ats=args.per_ats,
+        )
     elif args.cmd == "rescore":
         cmd_rescore()
     else:

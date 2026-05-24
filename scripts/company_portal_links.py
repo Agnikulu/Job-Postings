@@ -41,6 +41,12 @@ def portal_url(entry: dict) -> str:
         return "https://www.uber.com/careers/list/"
     if ats == "smartrecruiters":
         return f"https://careers.smartrecruiters.com/{entry['slug']}"
+    if ats == "recruitee":
+        return f"https://{entry['slug']}.recruitee.com"
+    if ats == "wiz":
+        return "https://www.wiz.io/careers"
+    if ats == "coinbase":
+        return "https://www.coinbase.com/careers/positions"
     if ats == "eightfold":
         return f"https://{entry['careers_host']}"
     if ats == "jibe":

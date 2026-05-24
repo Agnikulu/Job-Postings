@@ -37,6 +37,10 @@ query JobBoardList($boardId: String!) {
 """
 RIP = "https://ats.rippling.com/{slug}/jobs"
 SR = "https://api.smartrecruiters.com/v1/companies/{slug}/postings"
+RC = "https://{slug}.recruitee.com/api/offers"
+WIZ = "https://www.wiz.io/api/fetch-jobs-data"
+CB = "https://www.coinbase.com/api/v2/careers"
+CB_GH = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
 EF = "https://{host}/api/apply/v2/jobs"
 MS = "https://apply.careers.microsoft.com/api/pcsx/search"
 LI = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
@@ -307,6 +311,48 @@ def _check_meta() -> tuple[int, int]:
         return 0, 0
 
 
+def _check_wiz() -> tuple[int, int]:
+    try:
+        r = requests.get(WIZ, headers=DEFAULT_HEADERS, timeout=15)
+        count = 0
+        if r.ok:
+            payload = r.json()
+            if isinstance(payload, dict):
+                count = len(payload.get("allJobPostings") or [])
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_coinbase(company: dict[str, Any]) -> tuple[int, int]:
+    slug = company.get("greenhouse_slug") or company.get("slug") or "cdpjobs"
+    headers = {
+        **DEFAULT_HEADERS,
+        "Accept": "application/json",
+        "CB-CLIENT": "CoinbaseWeb",
+        "cb-version": "2021-01-11",
+        "Referer": "https://www.coinbase.com/careers/positions",
+    }
+    try:
+        r = requests.get(CB, headers=headers, timeout=15)
+        if r.ok:
+            payload = r.json()
+            departments = (payload.get("data") or {}).get("departments") or []
+            count = sum(len(d.get("jobs") or []) for d in departments if isinstance(d, dict))
+            if count:
+                return r.status_code, count
+        gh = requests.get(
+            CB_GH.format(slug=slug),
+            headers=headers,
+            timeout=15,
+        )
+        if gh.ok:
+            return gh.status_code, len(gh.json().get("jobs") or [])
+        return r.status_code, 0
+    except requests.RequestException:
+        return 0, 0
+
+
 def _check_linkedin(company: dict[str, Any]) -> tuple[int, int]:
     company_id = company.get("linkedin_company_id") or "1337"
     location = company.get("search_location") or "United States"
@@ -404,6 +450,12 @@ def main() -> int:
             status, count = _check_meta()
         elif ats == "linkedin":
             status, count = _check_linkedin(company)
+        elif ats == "recruitee":
+            status, count = _check_get(RC.format(slug=company["slug"]))
+        elif ats == "wiz":
+            status, count = _check_wiz()
+        elif ats == "coinbase":
+            status, count = _check_coinbase(company)
         else:
             print(f"{name:35} {ats:12} UNKNOWN")
             bad.append(name)

@@ -7,6 +7,7 @@ Adding a new ATS is just: write a new module, then add it to ADAPTER_REGISTRY.
 from .apple import fetch as fetch_apple
 from .ashby import fetch as fetch_ashby
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
+from .coinbase import fetch as fetch_coinbase
 from .eightfold import fetch as fetch_eightfold
 from .gem import fetch as fetch_gem
 from .google_careers import fetch as fetch_google_careers
@@ -16,11 +17,13 @@ from .lever import fetch as fetch_lever
 from .linkedin import fetch as fetch_linkedin
 from .meta import fetch as fetch_meta
 from .microsoft import fetch as fetch_microsoft
+from .recruitee import fetch as fetch_recruitee
 from .rippling import fetch as fetch_rippling
 from .smartrecruiters import fetch as fetch_smartrecruiters
 from .uber import fetch as fetch_uber
 from .workable import fetch as fetch_workable
 from .workday import fetch as fetch_workday
+from .wiz import fetch as fetch_wiz
 
 ADAPTER_REGISTRY = {
     "greenhouse": fetch_greenhouse,
@@ -39,6 +42,9 @@ ADAPTER_REGISTRY = {
     "apple": fetch_apple,
     "meta": fetch_meta,
     "linkedin": fetch_linkedin,
+    "recruitee": fetch_recruitee,
+    "wiz": fetch_wiz,
+    "coinbase": fetch_coinbase,
 }
 
 __all__ = [

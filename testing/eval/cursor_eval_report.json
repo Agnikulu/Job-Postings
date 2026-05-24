@@ -1,865 +1,98 @@
 {
-  "labeled": 5393,
+  "labeled": 2186,
   "unlabeled": 0,
   "overall": {
-    "tp": 135,
-    "fp": 31,
-    "tn": 5185,
-    "fn": 42,
-    "accuracy": 0.9865,
-    "precision": 0.8133,
-    "recall": 0.7627,
-    "f1": 0.7872
+    "tp": 43,
+    "fp": 6,
+    "tn": 2137,
+    "fn": 0,
+    "accuracy": 0.9973,
+    "precision": 0.8776,
+    "recall": 1.0,
+    "f1": 0.9348
   },
   "by_company": {
-    "Adobe": {
-      "tn": 99,
-      "tp": 1
-    },
-    "Airbnb": {
-      "tn": 98,
-      "tp": 2
-    },
-    "Anduril": {
-      "tn": 97,
-      "fn": 1,
-      "fp": 2
-    },
-    "Anthropic": {
-      "tn": 98,
-      "tp": 2
+    "Anyscale": {
+      "tn": 1
     },
     "Apple": {
-      "tn": 82
-    },
-    "Benchling": {
-      "tn": 45,
-      "tp": 1
-    },
-    "BlackLine": {
-      "tn": 100
-    },
-    "Clay": {
       "tn": 81
     },
-    "Click Therapeutics": {
-      "tn": 7
-    },
-    "ClickHouse": {
-      "tn": 100
-    },
-    "Cognition AI": {
-      "tn": 58,
-      "fp": 1
-    },
-    "Cohere": {
-      "tn": 97,
-      "tp": 3
-    },
-    "Confluent": {
-      "tn": 52
-    },
-    "CoreWeave": {
-      "tn": 99,
+    "CrowdStrike": {
+      "tn": 199,
       "tp": 1
     },
     "Cursor": {
-      "tn": 90
-    },
-    "DRW": {
-      "tn": 92,
-      "fp": 2,
-      "tp": 4,
-      "fn": 2
-    },
-    "Databricks": {
-      "tn": 99,
-      "fp": 1
-    },
-    "Datadog": {
-      "tn": 96,
-      "tp": 4
-    },
-    "Discord": {
-      "tn": 74,
-      "fp": 1,
-      "fn": 1
-    },
-    "DoorDash": {
-      "tn": 93,
-      "fp": 1,
-      "tp": 2,
-      "fn": 4
-    },
-    "ElevenLabs": {
-      "tn": 100
-    },
-    "Enveda Biosciences": {
-      "tn": 4
-    },
-    "Etched": {
-      "tn": 64,
-      "tp": 31,
-      "fn": 5
-    },
-    "EvolutionaryScale": {
-      "tn": 28,
-      "tp": 1,
-      "fn": 5
-    },
-    "Figma": {
-      "tn": 99,
-      "tp": 1
-    },
-    "Figure AI": {
-      "tn": 94,
-      "tp": 4,
-      "fn": 1,
-      "fp": 1
-    },
-    "Flatiron Health": {
-      "tn": 17,
-      "tp": 3
-    },
-    "Genesis Therapeutics": {
-      "tn": 30
-    },
-    "GitLab": {
-      "tn": 100
+      "tn": 87
     },
     "Glean": {
-      "tn": 96,
-      "tp": 2,
-      "fn": 1,
-      "fp": 1
+      "tn": 29
     },
     "Google": {
-      "tn": 94,
-      "fp": 2,
-      "tp": 3,
-      "fn": 1
+      "tn": 125,
+      "tp": 13,
+      "fp": 2
     },
     "Google DeepMind": {
-      "tn": 60,
+      "tn": 58,
       "fp": 1
     },
     "Groq": {
       "tn": 3
     },
-    "Harvey": {
-      "tn": 100
-    },
-    "Headway": {
-      "tn": 76,
-      "fn": 1
-    },
-    "Hebbia": {
-      "tn": 33
-    },
     "Hugging Face": {
       "tn": 7
-    },
-    "Inceptive": {
-      "tn": 5,
-      "tp": 1
-    },
-    "Insitro": {
-      "tn": 10
     },
     "Lambda Labs": {
       "tn": 30,
       "tp": 3
     },
     "LangChain": {
-      "tn": 98
-    },
-    "Linear": {
-      "tn": 23
-    },
-    "LinkedIn": {
-      "tn": 95,
-      "tp": 5
+      "tn": 21
     },
     "Luma AI": {
       "tn": 55,
       "tp": 1
     },
     "Microsoft": {
-      "tn": 95,
-      "tp": 4,
-      "fn": 1
-    },
-    "Mistral AI": {
-      "tn": 97,
-      "tp": 3
-    },
-    "MongoDB": {
-      "tn": 97,
-      "fn": 3
-    },
-    "Neon": {
-      "tn": 14
+      "tn": 190,
+      "tp": 10
     },
     "Netflix": {
-      "tn": 100
-    },
-    "Notion": {
-      "tn": 96,
-      "fp": 1,
-      "tp": 3
-    },
-    "Nvidia": {
-      "tn": 93,
-      "tp": 7
-    },
-    "Palantir": {
-      "tn": 92,
-      "tp": 7,
-      "fn": 1
-    },
-    "Pathos AI": {
-      "tn": 2
+      "tn": 200
     },
     "Perplexity AI": {
-      "tn": 56,
-      "tp": 4,
-      "fn": 1
-    },
-    "Physical Intelligence": {
-      "tn": 20,
-      "tp": 2,
-      "fp": 1
-    },
-    "Pinecone": {
-      "tn": 7
-    },
-    "Pinterest": {
-      "tn": 93,
-      "fn": 6,
-      "tp": 1
-    },
-    "Plaid": {
-      "tn": 77,
-      "tp": 3
-    },
-    "Point72": {
-      "tn": 79,
-      "tp": 11,
-      "fp": 7,
-      "fn": 3
-    },
-    "Ramp": {
-      "tn": 97,
-      "tp": 3
-    },
-    "Recursion Pharma": {
-      "tn": 37,
-      "tp": 2
-    },
-    "Reddit": {
-      "tn": 99,
-      "fp": 1
+      "tn": 55,
+      "tp": 4
     },
     "Retool": {
       "tn": 39
     },
     "Rippling": {
-      "tn": 100
-    },
-    "Roblox": {
-      "tn": 95,
-      "fp": 3,
-      "fn": 2
-    },
-    "Runway ML": {
-      "tn": 33,
-      "fn": 1
+      "tn": 200
     },
     "Scale AI": {
-      "tn": 97,
-      "fn": 1,
-      "tp": 2
+      "tn": 168,
+      "tp": 3
     },
-    "Sierra": {
-      "tn": 99,
-      "tp": 1
-    },
-    "Snowflake": {
-      "tn": 96,
-      "tp": 2,
-      "fp": 2
-    },
-    "Stripe": {
-      "tn": 99,
+    "Snap": {
+      "tn": 199,
       "fp": 1
     },
-    "Together AI": {
-      "tn": 53,
-      "fp": 2
-    },
     "Uber": {
-      "tn": 96,
-      "tp": 3,
-      "fn": 1
+      "tn": 195,
+      "fp": 2,
+      "tp": 3
     },
-    "Vercel": {
-      "tn": 79
-    },
-    "Warp": {
-      "tn": 8
+    "Veeva Systems": {
+      "tn": 194,
+      "tp": 5
     },
     "Waymo": {
       "tn": 1
-    },
-    "Xaira Therapeutics": {
-      "tn": 14,
-      "tp": 2
-    },
-    "Zocdoc": {
-      "tn": 47
     }
   },
   "disagreements": [
-    {
-      "bucket": "fn",
-      "company": "Scale AI",
-      "title": "[Annotations] Operations Associate",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4655244005",
-      "regex_include": false,
-      "regex_reason": "associate title",
-      "manual_include": true,
-      "manual_reason": "weak ec title + ec requirements"
-    },
-    {
-      "bucket": "fn",
-      "company": "Glean",
-      "title": "Accounting Apprentice",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4694878005",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Glean",
-      "title": "Machine Learning Engineer, Search Quality",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006735005",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Perplexity AI",
-      "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
-      "url": "https://jobs.ashbyhq.com/perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5",
-      "regex_include": false,
-      "regex_reason": "experienced mts title",
-      "manual_include": true,
-      "manual_reason": "MTS new-grad welcome"
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "title": "Trading Systems Engineer",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/6776683",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "DRW",
-      "title": "Prediction Markets Trader",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7520816",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "title": "Trade Systems Engineer",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/6821173",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "DRW",
-      "title": "Junior Strategy and Operations Analyst, Flow Macro (European Market Hours)",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7560394",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Cognition AI",
-      "title": "Research, Post-Training",
-      "url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10",
-      "regex_include": true,
-      "regex_reason": "post-training program",
-      "manual_include": false,
-      "manual_reason": "no ec signal in requirements"
-    },
-    {
-      "bucket": "fp",
-      "company": "Together AI",
-      "title": "Analytics Engineer — Data Warehouse",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5101651007",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Together AI",
-      "title": "Data Warehouse Engineer",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5074064007",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Cubist Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Cubist Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297555002?gh_jid=7297555002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Point72",
-      "title": "Point72 Academy 2026 Investment Analyst Program for Experienced Professionals – Hong Kong",
-      "url": "https://boards.greenhouse.io/point72/jobs/8538913002?gh_jid=8538913002",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Cubist Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Quantitative Researcher - Systematic Credit",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Quantitative Analyst / Software Developer",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Point72",
-      "title": "2026 Finance Summer Internship, Warsaw (Payroll)",
-      "url": "https://boards.greenhouse.io/point72/jobs/8505843002?gh_jid=8505843002",
-      "regex_include": false,
-      "regex_reason": "non-technical intern",
-      "manual_include": true,
-      "manual_reason": "technical intern"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Mission Control Specialist",
-      "url": "https://boards.greenhouse.io/point72/jobs/8479488002?gh_jid=8479488002",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "technical but not early-career"
-    },
-    {
-      "bucket": "fn",
-      "company": "Point72",
-      "title": "Point72 Academy 2026 Investment Analyst Program for Experienced Professionals - UK",
-      "url": "https://boards.greenhouse.io/point72/jobs/8500397002?gh_jid=8500397002",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "title": "Quantitative Software Developer",
-      "url": "https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Runway ML",
-      "title": "Creative Support Specialist",
-      "url": "https://jobs.ashbyhq.com/runway-ml/2ca5c5d1-725d-4c44-907b-5d808ec248fe",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "strong ec in requirements"
-    },
-    {
-      "bucket": "fn",
-      "company": "Etched",
-      "title": "Finance Intern - Fall 2026",
-      "url": "https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "technical intern"
-    },
-    {
-      "bucket": "fn",
-      "company": "Etched",
-      "title": "Talent Intern - Spring 2027",
-      "url": "https://jobs.ashbyhq.com/etched/2425e245-6e16-49ca-be54-fb36941af55a",
-      "regex_include": false,
-      "regex_reason": "non-technical intern",
-      "manual_include": true,
-      "manual_reason": "technical intern"
-    },
-    {
-      "bucket": "fn",
-      "company": "Etched",
-      "title": "Talent Intern - Summer 2026",
-      "url": "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75",
-      "regex_include": false,
-      "regex_reason": "non-technical intern",
-      "manual_include": true,
-      "manual_reason": "technical intern"
-    },
-    {
-      "bucket": "fn",
-      "company": "Etched",
-      "title": "Finance Intern - Summer 2027",
-      "url": "https://jobs.ashbyhq.com/etched/9b060f41-4607-494b-bdcf-57b1e74754ff",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "technical intern"
-    },
-    {
-      "bucket": "fn",
-      "company": "Etched",
-      "title": "Finance Intern - Spring 2027",
-      "url": "https://jobs.ashbyhq.com/etched/e882eeaf-a34b-4f59-98f3-282cbd444508",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "technical intern"
-    },
-    {
-      "bucket": "fp",
-      "company": "Notion",
-      "title": "Software Engineer, Data Platform",
-      "url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "technical but not early-career"
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "title": "Operations Associate, Apprenticeship",
-      "url": "https://stripe.com/jobs/search?gh_jid=7236933",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Physical Intelligence",
-      "title": "Research Scientist",
-      "url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba",
-      "regex_include": true,
-      "regex_reason": "research open level",
-      "manual_include": false,
-      "manual_reason": "technical but not early-career"
-    },
-    {
-      "bucket": "fn",
-      "company": "Figure AI",
-      "title": "Staff Reinforcement Learning Engineer – Whole Body Control",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4671442006",
-      "regex_include": false,
-      "regex_reason": "senior keyword",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
-      "bucket": "fp",
-      "company": "Figure AI",
-      "title": "Mechanical Engineer, Battery",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4656559006",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "EvolutionaryScale",
-      "title": "Postdoctoral Fellow - Immune Cell Dynamics - Optogenetics",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7779105",
-      "regex_include": false,
-      "regex_reason": "senior/management",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "EvolutionaryScale",
-      "title": "Postdoctoral Fellow, Live Tissue Omics",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7769739",
-      "regex_include": false,
-      "regex_reason": "senior/management",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "EvolutionaryScale",
-      "title": "Postdoctoral Fellow, Single-Cell Genomics",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7769713",
-      "regex_include": false,
-      "regex_reason": "senior/management",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "EvolutionaryScale",
-      "title": "Postdoctoral Fellow, Single-Cell Method Development",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7922556",
-      "regex_include": false,
-      "regex_reason": "senior/management",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "EvolutionaryScale",
-      "title": "Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/7658780",
-      "regex_include": false,
-      "regex_reason": "senior/management",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Databricks",
-      "title": "Customer Enablement Specialist",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431935002",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "technical but not early-career"
-    },
-    {
-      "bucket": "fn",
-      "company": "Headway",
-      "title": "Staff Product Designer, Group Practices",
-      "url": "https://jobs.ashbyhq.com/headway/3e71f549-4318-48ff-9be6-57ffc5f3aece",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
-      "bucket": "fp",
-      "company": "Roblox",
-      "title": "[2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career",
-      "url": "https://careers.roblox.com/jobs/7473686?gh_jid=7473686",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Roblox",
-      "title": "[2026] Design & Creative Fellowship",
-      "url": "https://careers.roblox.com/jobs/7779304?gh_jid=7779304",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Roblox",
-      "title": "[SkillBridge] Information Security Fellowship",
-      "url": "https://careers.roblox.com/jobs/7535858?gh_jid=7535858",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Roblox",
-      "title": "[2026] Senior Machine Learning Engineer, Multimodal AI, Computer Vision and Graphics - PhD Early Career",
-      "url": "https://careers.roblox.com/jobs/7323437?gh_jid=7323437",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Roblox",
-      "title": "[2026] Applied Scientist - PhD Intern",
-      "url": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Anduril",
-      "title": "Quality Inspector",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5133851007?gh_jid=5133851007",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "strong ec in requirements"
-    },
-    {
-      "bucket": "fp",
-      "company": "Anduril",
-      "title": "Software Engineer, Manufacturing Test (Roadrunner)",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5123245007?gh_jid=5123245007",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Anduril",
-      "title": "Contractor Special Security Officer",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5141080007?gh_jid=5141080007",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "technical but not early-career"
-    },
-    {
-      "bucket": "fn",
-      "company": "Pinterest",
-      "title": "Security Software Engineer II, Security Operations",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7816431",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Pinterest",
-      "title": "Security Software Engineer II, Corporate Security",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494666",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Pinterest",
-      "title": "Software Engineer II, ML Platform, tvScientific",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782571",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Pinterest",
-      "title": "Software Engineer II, Backend",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4813946",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Pinterest",
-      "title": "Security Software Engineer II, Detection and Response",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7770914",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Pinterest",
-      "title": "Software Engineer II, Backend",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5132899",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "Uber",
-      "title": "Data Engineer II",
-      "url": "https://www.uber.com/careers/list/157965",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
     {
       "bucket": "fp",
       "company": "Google DeepMind",
@@ -871,180 +104,50 @@
       "manual_reason": "senior experience required"
     },
     {
-      "bucket": "fn",
-      "company": "Palantir",
-      "title": "Forward Deployed Engineer - Mixed Reality",
-      "url": "https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
       "bucket": "fp",
-      "company": "Snowflake",
-      "title": "Product Analyst",
-      "url": "https://jobs.ashbyhq.com/snowflake/7c53d7f5-1a7f-4fdb-a8c1-b59060d9551d",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "title": "Software Engineer - Snowflake Postgres",
-      "url": "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21",
+      "company": "Google",
+      "title": "Silicon Design Verification Engineer, TPU, Google Cloud",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/108403426169103046",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "MongoDB",
-      "title": "Software Engineer 3",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7744404",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "MongoDB",
-      "title": "Software Engineer 3, Customer Observability",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7717350",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fn",
-      "company": "MongoDB",
-      "title": "Software Engineer 3, Search Systems Replication & Routing",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7235322",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
-    },
-    {
-      "bucket": "fp",
-      "company": "Discord",
-      "title": "Data Engineer, Analytics",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8371252002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "Discord",
-      "title": "Product Designer, Ads",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8445676002",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "qualifying early years"
-    },
-    {
-      "bucket": "fp",
-      "company": "Reddit",
-      "title": "iOS Software Engineer, Contributions",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7896378",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fp",
-      "company": "DoorDash",
-      "title": "Software Engineer, Machine Learning - Fraud",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5516835",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "senior experience required"
-    },
-    {
-      "bucket": "fn",
-      "company": "DoorDash",
-      "title": "Associate, Dasher & Logistics - Product Operations Strategy & Operations",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7776087",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
-      "bucket": "fn",
-      "company": "DoorDash",
-      "title": "Operations Specialist, Autonomy Tech Support, Labs",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7812074",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
-      "bucket": "fn",
-      "company": "DoorDash",
-      "title": "Service Technician, Service Operations, Labs",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7491310",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "ec keyword in title/requirements"
-    },
-    {
-      "bucket": "fn",
-      "company": "DoorDash",
-      "title": "Associate, Lifecycle Marketing, Retail",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7898797",
-      "regex_include": false,
-      "regex_reason": "ec but non-technical title",
-      "manual_include": true,
-      "manual_reason": "strong ec in requirements"
-    },
-    {
-      "bucket": "fn",
-      "company": "Microsoft",
-      "title": "Technical Support Engineer - Entry Level",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864608",
-      "regex_include": false,
-      "regex_reason": "non-tech",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
     },
     {
       "bucket": "fp",
       "company": "Google",
-      "title": "Software Engineer, GKE, PhD, Early Careers",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/111178526677181126",
+      "title": "Equipment Technician, Vacuum, Semiconductor, Raxium",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/81545552558203590",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "senior experience required"
     },
     {
-      "bucket": "fn",
-      "company": "Google",
-      "title": "Software Engineer II, Google Pay and Wallet",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/96370233475769030",
-      "regex_include": false,
-      "regex_reason": "experienced level title",
-      "manual_include": true,
-      "manual_reason": "explicit ec title"
+      "bucket": "fp",
+      "company": "Snap",
+      "title": "DevOps Engineer, Level 4",
+      "url": "https://www.linkedin.com/jobs/view/4387257229",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "senior experience required"
     },
     {
       "bucket": "fp",
-      "company": "Google",
-      "title": "Research Scientist, Google Research",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/107328491954807494",
+      "company": "Uber",
+      "title": "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
+      "url": "https://www.uber.com/careers/list/159120",
+      "regex_include": true,
+      "regex_reason": "explicit ec technical",
+      "manual_include": false,
+      "manual_reason": "experienced engineer level"
+    },
+    {
+      "bucket": "fp",
+      "company": "Uber",
+      "title": "Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations",
+      "url": "https://www.uber.com/careers/list/158984",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,

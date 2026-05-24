@@ -20,7 +20,7 @@ flowchart TB
 
   subgraph fetch [Parallel fetch - 4 workers]
     YAML[companies.yaml]
-    ADAPT[ATS adapters x15]
+    ADAPT[ATS adapters x18]
     YAML --> ADAPT
     ADAPT --> GH[Greenhouse / Ashby / Lever]
     ADAPT --> WD[Workday / Microsoft / Apple]
@@ -55,7 +55,7 @@ flowchart TB
 
 ### Pipeline (one run)
 
-1. **Load** `companies.yaml` (129 entries: **102 active**, 27 `tier3_todo`).
+1. **Load** `companies.yaml` (**111 active** companies; no `tier3_todo` entries).
 2. **Fetch** all active companies in parallel (`ATS_SNIPER_FETCH_WORKERS`, default 4).
    - Log `Company: fetched N postings` as each company completes.
    - Optional caps: `ATS_SNIPER_MAX_LIST_PAGES`, `ATS_SNIPER_MAX_JOBS_PER_COMPANY` (set in CI).
@@ -76,12 +76,16 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 
 | ATS | Adapter | Active companies | Fetch pattern |
 |-----|---------|------------------|---------------|
-| Greenhouse | `greenhouse.py` | 30 | Single JSON list (`?content=true`) |
-| Ashby | `ashby.py` | 27 | Single public API |
-| Lever | `lever.py` | 4 | Single JSON list |
+| Greenhouse | `greenhouse.py` | 39 | Single JSON list (`?content=true`) |
+| Ashby | `ashby.py` | 35 | Single public API |
+| Lever | `lever.py` | 5 | Single JSON list |
 | Google Careers | `google_careers.py` | 4 | Paginated HTML embedded JSON |
-| Workday | `workday.py` | 2 | POST pagination (20/page) |
+| Workday | `workday.py` | 5 | POST pagination (20/page) |
+| LinkedIn | `linkedin.py` | 10 | Guest search API |
 | Gem | `gem.py` | 3 | GraphQL job board |
+| Recruitee | `recruitee.py` | 1 | Public offers API |
+| Wiz | `wiz.py` | 1 | Next.js careers JSON proxy |
+| Coinbase | `coinbase.py` | 1 | Careers REST API + GH fallback |
 | Microsoft | `microsoft.py` | 1 | PCSX search API (50/page) |
 | Apple | `apple.py` | 1 | HTML search pages |
 | Uber | `uber.py` | 1 | Careers search API |
@@ -90,9 +94,12 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Rippling | `rippling.py` | 1 | Public jobs API |
 | SmartRecruiters | `smartrecruiters.py` | 1 | Offset pagination |
 | Jibe | `jibe.py` | 1 | Paginated JSON |
-| LinkedIn | `linkedin.py` | 1 | Guest search API |
 
-`meta` adapter exists in code but **Meta** remains `tier3_todo` in the registry (rate limits on cold bootstrap).
+**Meta** uses the LinkedIn adapter (`linkedin_company_id: 10667`) because metacareers.com blocks datacenter IPs.
+
+**Wiz** uses a custom adapter against `wiz.io/api/fetch-jobs-data`.
+
+**Coinbase** uses a custom adapter against `coinbase.com/api/v2/careers` (falls back to private Greenhouse slug `cdpjobs`). Both endpoints are currently returning errors from Coinbase's side; the adapter is wired for when they recover.
 
 ### 2. Regex classifier (`filters.py`)
 
@@ -163,27 +170,28 @@ Discord alerts only fire for **new** URLs (not already in `seen_jobs.json`). Aft
 
 ### Manual eval vs regex (`testing/eval/`)
 
-Rigorous manual labels on **5,393** fetched jobs (up to ~100/company sample), merged in `cursor_eval_labels.jsonl`:
+Per-ATS ground-truth labels on **2,186** pre-filter jobs (up to **200/ATS adapter**), in `cursor_eval_labels.jsonl`. Labels use the comprehensive early-career technical rubric (`_llm_eval_label.py`) with human review corrections on disagreements.
 
-| Metric | Regex vs manual |
-|--------|-----------------|
-| Accuracy | **98.7%** |
-| Precision | **81.3%** (31 FP) |
-| Recall | **76.3%** (42 FN) |
-| F1 | **0.79** |
-| Manual includes (ground truth) | 177 (3.3% of jobs) |
+| Metric | Old eval (5,393 jobs) | **New eval (2,186 jobs)** |
+|--------|----------------------|---------------------------|
+| Accuracy | 98.7% | **99.7%** |
+| Precision | 81.3% (31 FP) | **87.8%** (6 FP) |
+| Recall | 76.3% (42 FN) | **100.0%** (0 FN) |
+| F1 | 0.79 | **0.93** |
+| Manual includes (ground truth) | 177 (3.3%) | **44** (2.0%) |
 
-**Recent filter changes:** exclude mid-level ladder titles (Engineer II/III, L4+), tighten `open-level technical ic` to require real EC signals in requirements, and tag education from the qualifications section (student vs degree-required vs new grad).
+**Dataset coverage:** 13 ATS types sampled; most at 200 jobs (apple 81, gem 98, workable 7, smartrecruiters 0 — adapter has no postings). LinkedIn bucket filled via Snap after rate-limit retries.
 
-**Remaining false positives (31):** mostly `explicit ec technical` / `implicit ec technical` on experienced IC titles (Research Scientist, Quant Researcher) whose descriptions have strong entry-level signals but whose titles don't say "new grad / intern". Also bare SWE titles at companies like Snowflake/Discord where the description implies new-grad but the title is level-less.
+**Remaining false positives (6):** Google DeepMind/Google senior research & hardware verification roles tagged `explicit ec technical`; Snap DevOps Engineer Level 4; Uber Graduate PhD SE II / Scientist II cohort titles.
 
-**Remaining false negatives (42):** (a) Engineer II/III and Software Engineer 3 across Pinterest, MongoDB, Google — excluded by experienced-level title guard but sometimes used for new-grad cohorts; (b) non-technical EC roles (ops, finance, talent interns) that fall outside the tech-domain scope; (c) forward-deployed / support-engineer edge cases; (d) postdoctoral fellows at ML companies, intentionally excluded as out-of-scope for new-grad targeting.
-
-Re-run scoring after filter changes:
+Re-fetch, label, and score:
 
 ```bash
+python testing/scripts/_cursor_manual_eval.py fetch --per-ats 200
+python testing/scripts/_llm_eval_label.py label
 python testing/scripts/_cursor_manual_eval.py rescore
 python testing/scripts/_cursor_manual_eval.py score
+python testing/scripts/_eval_metrics.py
 ```
 
 ---
@@ -196,9 +204,9 @@ Source of truth: [`companies.yaml`](companies.yaml). Regenerate this table after
 python scripts/company_portal_links.py
 ```
 
-### Active companies (102)
+### Active companies (111)
 
-<!-- 102 active, 27 tier3_todo -->
+<!-- 111 active, 0 tier3_todo -->
 | Company | Category | ATS | Job board |
 |---------|----------|-----|-----------|
 | AMD | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -242,6 +250,8 @@ python scripts/company_portal_links.py
 | Isomorphic Labs | biotech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?company=Isomorphic+Labs) |
 | Pathos AI | biotech | `ashby` | [Open board](https://jobs.ashbyhq.com/pathos) |
 | Recursion Pharma | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/recursionpharmaceuticals) |
+| Tempus AI | biotech | `workday` | [Open board](https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers) |
+| Verily | biotech | `workday` | [Open board](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers) |
 | Xaira Therapeutics | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/xairatherapeutics) |
 | Zocdoc | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/zocdoc) |
 | Anyscale | enterprise | `lever` | [Open board](https://jobs.lever.co/anyscale) |
@@ -249,6 +259,7 @@ python scripts/company_portal_links.py
 | ClickHouse | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/clickhouse) |
 | Cloudflare | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/cloudflare) |
 | Cognition AI | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/cognition) |
+| Coinbase | enterprise | `coinbase` | [Open board](https://www.coinbase.com/careers/positions) |
 | Confluent | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/confluent) |
 | Databricks | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/databricks) |
 | Decagon | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/decagon) |
@@ -284,15 +295,20 @@ python scripts/company_portal_links.py
 | Hugging Face | frontier_ai | `workable` | [Open board](https://apply.workable.com/huggingface) |
 | Lambda Labs | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/lambda) |
 | LangChain | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/langchain) |
+| Magic AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/magic.dev) |
 | Mercor | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/mercor) |
 | Nvidia | frontier_ai | `workday` | [Open board](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite) |
+| OpenAI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/openai) |
 | Perplexity AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/perplexity) |
 | Pinecone | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/pinecone) |
 | Reka AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/reka) |
 | Scale AI | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/scaleai) |
+| Wiz | frontier_ai | `wiz` | [Open board](https://www.wiz.io/careers) |
 | World Labs | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/worldlabs) |
+| xAI | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/xai) |
 | DRW | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/drweng) |
 | Point72 | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/point72) |
+| 1X Technologies | robotics | `recruitee` | [Open board](https://1x.recruitee.com) |
 | Anduril | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/andurilindustries) |
 | Applied Intuition | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/appliedintuition) |
 | Apptronik | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/apptronik) |
@@ -302,39 +318,13 @@ python scripts/company_portal_links.py
 | Physical Intelligence | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/physicalintelligence) |
 | Shield AI | robotics | `lever` | [Open board](https://jobs.lever.co/shieldai) |
 | Skydio | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/skydio) |
+| SpaceX | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/spacex) |
 | Waymo | robotics | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?company=Waymo) |
 
 ### Tier 3 - tracked, not scraped yet
 
 | Company | Category | Notes |
 |---------|----------|-------|
-| 1X Technologies | robotics | Recruitee careers at 1x.recruitee.com ù no adapter yet. |
-| Balyasny Asset Mgt. | quant | Salesforce Experience Cloud at bambusdev.my.site.com ù guest auth token required. |
-| Bloomberg | quant | Custom careers site at careers.bloomberg.com ù blocks automated access. |
-| Citadel | quant | Bespoke careers portal at citadel.com/careers. |
-| Citadel Securities | quant | Bespoke careers portal at citadelsecurities.com/careers. |
-| Coinbase | enterprise | Greenhouse board is not exposed via public API; careers at coinbase.com/careers. |
-| D.E. Shaw | quant | Custom careers site at deshaw.com/careers. |
-| Five Rings | quant | Custom careers site at fiverings.com/careers. |
-| HRT | quant | Custom careers site at hudsonrivertrading.com/careers. |
-| Headlands Technologies | quant | Custom careers site at headlandstech.com/careers. |
-| IMC Trading | quant | Custom careers site at imc.com/us/careers. |
-| Jane Street | quant | Custom careers site at janestreet.com/join-jane-street. |
-| Jump Trading | quant | Custom careers site at jumptrading.com/careers. |
-| Magic AI | frontier_ai | Custom careers site at magic.dev/careers ù no public ATS API. |
-| Millennium | quant | Custom careers site at mlp.com/careers. |
-| OpenAI | frontier_ai | Custom careers site at openai.com/careers/search. |
-| Optiver | quant | Custom careers site at optiver.com. |
-| PDT Partners | quant | Custom careers site at pdtpartners.com. |
-| Radix Trading | quant | Custom careers site at radixtrading.com. |
-| SpaceX | robotics | Custom careers site at spacex.com/careers. |
-| Tempus AI | biotech | Custom careers site at tempus.com/careers ù no public ATS API. |
-| Tower Research | quant | Custom careers site at tower-research.com/open-positions. |
-| Two Sigma | quant | Bespoke careers portal at careers.twosigma.com. |
-| Verily | biotech | Custom Alphabet careers site ù no public ATS API. |
-| Wiz | frontier_ai | Custom careers site at wiz.io/careers ù no public Greenhouse/Ashby board. |
-| WorldQuant | quant | Custom careers site at worldquant.com/career-listing. |
-| xAI | frontier_ai | Custom careers site at x.ai/careers ù needs bespoke adapter. |
 
 ---
 
@@ -438,7 +428,6 @@ pytest -q
 ## Roadmap
 
 - Greenhouse list fetch without full `content=true` for every job (Anduril-scale boards)
-- Enable Meta with warmed `meta_title_cache.json` in repo
-- Tier-3 quant/AI custom site adapters (OpenAI, Jane Street, etc.)
+- Monitor Coinbase careers API (`/api/v2/careers`) recovery; GH slug `cdpjobs` currently 404
 - Tighter open-level IC precision (eval-driven regex tweaks)
 - Optional `google_location: United States` on main Google entry

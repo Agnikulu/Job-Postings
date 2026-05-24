@@ -3,7 +3,7 @@
 # Schema:
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
-#                rippling | gem | uber | smartrecruiters | tier3_todo
+#                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | linkedin
 #     slug:      Company slug for Greenhouse/Lever/Ashby/Workable/Gem/Rippling.
 #     careers_host: (jibe) Hostname for Jibe-powered career sites.
 #     locale:    (uber) Locale code for the careers search API (default: en).
@@ -31,8 +31,8 @@
   category: frontier_ai
 
 - name: xAI
-  ats: tier3_todo
-  note: "Custom careers site at x.ai/careers — needs bespoke adapter."
+  ats: greenhouse
+  slug: xai
   category: frontier_ai
 
 - name: Anthropic
@@ -41,8 +41,8 @@
   category: frontier_ai
 
 - name: OpenAI
-  ats: tier3_todo
-  note: "Custom careers site at openai.com/careers/search."
+  ats: ashby
+  slug: openai
   category: frontier_ai
 
 - name: Google DeepMind
@@ -133,117 +133,26 @@
   category: frontier_ai
 
 - name: Wiz
-  ats: tier3_todo
-  note: "Custom careers site at wiz.io/careers — no public Greenhouse/Ashby board."
+  ats: wiz
   category: frontier_ai
 
 - name: Magic AI
-  ats: tier3_todo
-  note: "Custom careers site at magic.dev/careers — no public ATS API."
+  ats: ashby
+  slug: magic.dev
   category: frontier_ai
 
 # =============================================================================
-# Category II: Elite Quantitative Finance & Proprietary Trading
+# Category II: Quantitative Finance (Greenhouse-only)
 # =============================================================================
-
-- name: Jane Street
-  ats: tier3_todo
-  note: "Custom careers site at janestreet.com/join-jane-street."
-  category: quant
-
-- name: Citadel
-  ats: tier3_todo
-  note: "Bespoke careers portal at citadel.com/careers."
-  category: quant
-
-- name: Citadel Securities
-  ats: tier3_todo
-  note: "Bespoke careers portal at citadelsecurities.com/careers."
-  category: quant
-
-- name: HRT
-  ats: tier3_todo
-  note: "Custom careers site at hudsonrivertrading.com/careers."
-  category: quant
-
-- name: Five Rings
-  ats: tier3_todo
-  note: "Custom careers site at fiverings.com/careers."
-  category: quant
-
-- name: Radix Trading
-  ats: tier3_todo
-  note: "Custom careers site at radixtrading.com."
-  category: quant
-
-- name: PDT Partners
-  ats: tier3_todo
-  note: "Custom careers site at pdtpartners.com."
-  category: quant
-
-- name: Jump Trading
-  ats: tier3_todo
-  note: "Custom careers site at jumptrading.com/careers."
-  category: quant
-
-- name: IMC Trading
-  ats: tier3_todo
-  note: "Custom careers site at imc.com/us/careers."
-  category: quant
-
-- name: Optiver
-  ats: tier3_todo
-  note: "Custom careers site at optiver.com."
-  category: quant
-
-- name: Two Sigma
-  ats: tier3_todo
-  note: "Bespoke careers portal at careers.twosigma.com."
-  category: quant
-
-- name: D.E. Shaw
-  ats: tier3_todo
-  note: "Custom careers site at deshaw.com/careers."
-  category: quant
 
 - name: DRW
   ats: greenhouse
   slug: drweng
   category: quant
 
-- name: Headlands Technologies
-  ats: tier3_todo
-  note: "Custom careers site at headlandstech.com/careers."
-  category: quant
-
-- name: Millennium
-  ats: tier3_todo
-  note: "Custom careers site at mlp.com/careers."
-  category: quant
-
 - name: Point72
   ats: greenhouse
   slug: point72
-  category: quant
-
-- name: Bloomberg
-  ats: tier3_todo
-  note: "Custom careers site at careers.bloomberg.com — blocks automated access."
-  category: quant
-
-- name: WorldQuant
-  ats: tier3_todo
-  note: "Custom careers site at worldquant.com/career-listing."
-  category: quant
-
-- name: Tower Research
-  ats: tier3_todo
-  note: "Custom careers site at tower-research.com/open-positions."
-  category: quant
-
-- name: Balyasny Asset Mgt.
-  ats: tier3_todo
-  note: "Salesforce Experience Cloud at bambusdev.my.site.com — guest auth token required."
   category: quant
 
 # =============================================================================
@@ -391,8 +300,8 @@
   category: enterprise
 
 - name: Coinbase
-  ats: tier3_todo
-  note: "Greenhouse board is not exposed via public API; careers at coinbase.com/careers."
+  ats: coinbase
+  greenhouse_slug: cdpjobs
   category: enterprise
 
 # =============================================================================
@@ -425,8 +334,8 @@
   category: robotics
 
 - name: SpaceX
-  ats: tier3_todo
-  note: "Custom careers site at spacex.com/careers."
+  ats: greenhouse
+  slug: spacex
   category: robotics
 
 - name: Applied Intuition
@@ -455,8 +364,8 @@
   category: robotics
 
 - name: 1X Technologies
-  ats: tier3_todo
-  note: "Recruitee careers at 1x.recruitee.com — no adapter yet."
+  ats: recruitee
+  slug: 1x
   category: robotics
 
 # =============================================================================
@@ -534,13 +443,17 @@
   category: biotech
 
 - name: Verily
-  ats: tier3_todo
-  note: "Custom Alphabet careers site — no public ATS API."
+  ats: workday
+  tenant: verily
+  wd_pod: wd1
+  site: Verily_Careers
   category: biotech
 
 - name: Tempus AI
-  ats: tier3_todo
-  note: "Custom careers site at tempus.com/careers — no public ATS API."
+  ats: workday
+  tenant: tempus
+  wd_pod: wd5
+  site: Tempus_Careers
   category: biotech
 
 
