@@ -1,7 +1,7 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-24 09:35 UTC  
-**New matches this run:** 529  
+**Run timestamp:** 2026-05-24 10:46 UTC  
+**New matches this run:** 622  
 **Location filter:** US-only
 
 
@@ -199,38 +199,111 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Space Lasers Engineer, Satellites (Starlink)](https://boards.greenhouse.io/spacex/jobs/8479578002?gh_jid=8479578002) - *Redmond, WA*
 - **[TECH]** [Spaceport Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8464867002?gh_jid=8464867002) - *Starbase, TX*
 
-## Anduril - 30 new (30 technical)
+## Meta - 56 new (56 technical)
 
-- **[TECH]** [Business Operations Associate](https://boards.greenhouse.io/andurilindustries/jobs/4951316007?gh_jid=4951316007) - *Costa Mesa, California, United States*
-- **[TECH]** [Business Operations Associate, Production](https://boards.greenhouse.io/andurilindustries/jobs/4619191007?gh_jid=4619191007) - *Costa Mesa, California, United States*
-- **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) - *Costa Mesa, California, United States*
-- **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) - *Washington, District of Columbia, United States*
-- **[TECH]** [Deployment Systems Technician](https://boards.greenhouse.io/andurilindustries/jobs/5062621007?gh_jid=5062621007) - *Waltham, Massachusetts, United States*
-- **[TECH]** [Division Operations Associate](https://boards.greenhouse.io/andurilindustries/jobs/5112754007?gh_jid=5112754007) - *Costa Mesa, California, United States*
-- **[TECH]** [Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) - *Costa Mesa, California, United States*
-- **[TECH]** [Early Career Manufacturing Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) - *Santa Ana, California, United States*
-- **[TECH]** [Early Career Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) - *Costa Mesa, California, United States*
-- **[TECH]** [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) - *Broomfield, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States*
-- **[TECH]** [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007) - *Seattle, Washington, United States*
-- **[TECH]** [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) - *Costa Mesa, California, United States*
-- **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007) - *Costa Mesa, California, United States*
-- **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007) - *Washington, District of Columbia, United States*
-- **[TECH]** [GSOC Jr Operator](https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007) - *Costa Mesa, California, United States*
-- **[TECH]** [GSOC Operator - SkillBridge](https://boards.greenhouse.io/andurilindustries/jobs/5033583007?gh_jid=5033583007) - *Costa Mesa, California, United States*
-- **[TECH]** [Industrial Engineer, Production Controls & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5108276007?gh_jid=5108276007) - *Costa Mesa, California, United States*
-- **[TECH]** [Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007) - *Ashville, Ohio, United States*
-- **[TECH]** [Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) - *Santa Ana, California, United States*
-- **[TECH]** [Manufacturing Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4644883007?gh_jid=4644883007) - *Costa Mesa, California, United States*
-- **[TECH]** [Manufacturing Test Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5080535007?gh_jid=5080535007) - *Ashville, Ohio, United States*
-- **[TECH]** [Manufacturing Test Engineer, Intelligence Systems (2nd Shift)](https://boards.greenhouse.io/andurilindustries/jobs/5135616007?gh_jid=5135616007) - *Santa Ana, California, United States*
-- **[TECH]** [Maritime Operations Engineer - Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007) - *Channel Islands, California, United States*
-- **[TECH]** [Mechanical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007) - *Costa Mesa, California, United States*
-- **[TECH]** [Mechanical Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4988675007?gh_jid=4988675007) - *Costa Mesa, California, United States*
-- **[TECH]** [Mission Operations Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007) - *Atlanta, Georgia, United States*
-- **[TECH]** [Mission Operations Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5115435007?gh_jid=5115435007) - *Costa Mesa, California, United States*
-- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4182443007?gh_jid=4182443007) - *Washington, District of Columbia, United States*
-- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007) - *Costa Mesa, California, United States*
-- **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134986007?gh_jid=5134986007) - *Costa Mesa, California, United States*
+- **[TECH]** [AI Research Engineer](https://www.linkedin.com/jobs/view/4395566473) - *New York, NY*
+- **[TECH]** [AI Research Engineer](https://www.linkedin.com/jobs/view/4395568334) - *United States*
+- **[TECH]** [AI Research Engineer](https://www.linkedin.com/jobs/view/4395557838) - *Bellevue, WA*
+- **[TECH]** [AI Research Engineer - Social Products (Technical Leadership)](https://www.linkedin.com/jobs/view/4398690521) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist - FAIR Social Intelligence](https://www.linkedin.com/jobs/view/4385460823) - *Seattle, WA*
+- **[TECH]** [AI Research Scientist - FAIR Social Intelligence](https://www.linkedin.com/jobs/view/4385462659) - *Bellevue, WA*
+- **[TECH]** [AI Research Scientist - Meta Superintelligence Labs](https://www.linkedin.com/jobs/view/4392258741) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist ? Agentic AI for Materials Discovery](https://www.linkedin.com/jobs/view/4407278745) - *Redmond, WA*
+- **[TECH]** [AI Research Scientist, Audio-Visual Understanding, FAIR](https://www.linkedin.com/jobs/view/4363129229) - *New York, NY*
+- **[TECH]** [AI Research Scientist, Computer Vision](https://www.linkedin.com/jobs/view/4395568335) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4246321800) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4203648310) - *Sunnyvale, CA*
+- **[TECH]** [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4376247897) - *New York, NY*
+- **[TECH]** [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4381263168) - *New York, NY*
+- **[TECH]** [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4376250675) - *Sunnyvale, CA*
+- **[TECH]** [AI Research Scientist, CoreML - Monetization AI](https://www.linkedin.com/jobs/view/4376251687) - *Bellevue, WA*
+- **[TECH]** [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4286775701) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4352143392) - *New York, NY*
+- **[TECH]** [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4412091270) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4350076150) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist, Robotics](https://www.linkedin.com/jobs/view/4350215410) - *Redmond, WA*
+- **[TECH]** [AI Research Scientist, Text Data Research - MSL FAIR](https://www.linkedin.com/jobs/view/4350145392) - *Bellevue, WA*
+- **[TECH]** [AI Research Scientist, Text Data Research - MSL FAIR](https://www.linkedin.com/jobs/view/4356683926) - *Menlo Park, CA*
+- **[TECH]** [AI Research Scientist, Text Data Research - MSL FAIR](https://www.linkedin.com/jobs/view/4356753724) - *Seattle, WA*
+- **[TECH]** [AI Research Scientist, VLM (vision language models)](https://www.linkedin.com/jobs/view/4402459139) - *Menlo Park, CA*
+- **[TECH]** [Hardware Electrical Engineer](https://www.linkedin.com/jobs/view/4404145493) - *Sunnyvale, CA*
+- **[TECH]** [Network Engineer, Operations & Support](https://www.linkedin.com/jobs/view/4402869643) - *Santa Clara, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4396274000) - *New York, NY*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4385710308) - *New York, NY*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4389190085) - *New York, NY*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4385703626) - *Seattle, WA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4357053206) - *Sunnyvale, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4382031436) - *Menlo Park, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4382035319) - *Menlo Park, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4405519448) - *United States*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4389186308) - *Boston, MA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4382038118) - *Bellevue, WA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4356840765) - *Sunnyvale, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4356672076) - *Burlingame, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4356649709) - *Menlo Park, CA*
+- **[TECH]** [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4356760986) - *Bellevue, WA*
+- **[TECH]** [Research Engineer, MRS AI](https://www.linkedin.com/jobs/view/4397535789) - *New York, NY*
+- **[TECH]** [Research Engineer, MRS AI](https://www.linkedin.com/jobs/view/4397544590) - *Menlo Park, CA*
+- **[TECH]** [Research Scientist Intern PhD, Applied Research](https://www.linkedin.com/jobs/view/4350195363) - *New York, NY*
+- **[TECH]** [Research Scientist Intern PhD, Applied Research](https://www.linkedin.com/jobs/view/4350155408) - *Menlo Park, CA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312031471) - *New York, NY*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312039282) - *Boston, MA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4324709679) - *San Francisco, CA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312033417) - *Menlo Park, CA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312043129) - *Seattle, WA*
+- **[TECH]** [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.linkedin.com/jobs/view/4295617161) - *Redmond, WA*
+- **[TECH]** [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.linkedin.com/jobs/view/4301800816) - *Bellevue, WA*
+- **[TECH]** [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.linkedin.com/jobs/view/4302643436) - *Menlo Park, CA*
+- **[TECH]** [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.linkedin.com/jobs/view/4324778842) - *Seattle, WA*
+- **[TECH]** [Research Scientist Intern, Robotic Control Policy (PhD)](https://www.linkedin.com/jobs/view/4350245449) - *Burlingame, CA*
+- **[TECH]** [Research Scientist, Artificial Intelligence](https://www.linkedin.com/jobs/view/4414305064) - *Menlo Park, CA*
+
+## Amazon Web Services (AWS) - 44 new (44 technical)
+
+- **[TECH]** [(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://www.linkedin.com/jobs/view/4402899470) - *Cupertino, CA*
+- **[TECH]** [(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://www.linkedin.com/jobs/view/4403201384) - *Seattle, WA*
+- **[TECH]** [(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://www.linkedin.com/jobs/view/4402890706) - *Austin, TX*
+- **[TECH]** [C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems](https://www.linkedin.com/jobs/view/4409539612) - *Cupertino, CA*
+- **[TECH]** [Data Engineer I, AWS WW Field Enablement, Analytics and Product Operations](https://www.linkedin.com/jobs/view/4414974522) - *Seattle, WA*
+- **[TECH]** [Front-End Engineer, EC2 Core Platform](https://www.linkedin.com/jobs/view/4401512967) - *Seattle, WA*
+- **[TECH]** [Network Development Engineer Intern - Fall 2026](https://www.linkedin.com/jobs/view/4340741422) - *Cupertino, CA*
+- **[TECH]** [Network Development Engineer Intern - Fall 2026](https://www.linkedin.com/jobs/view/4340771195) - *Arlington, VA*
+- **[TECH]** [Network Development Engineer Intern - Fall 2026](https://www.linkedin.com/jobs/view/4340331747) - *Herndon, VA*
+- **[TECH]** [Network Development Engineer Intern - Fall Intern](https://www.linkedin.com/jobs/view/4370383843) - *Seattle, WA*
+- **[TECH]** [Network Development Engineer Intern - Fall Intern](https://www.linkedin.com/jobs/view/4370500224) - *Arlington, VA*
+- **[TECH]** [Software Dev Engineer, Amazon Connect](https://www.linkedin.com/jobs/view/4418453055) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345225752) - *Cupertino, CA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345165722) - *New York, United States*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4412762417) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4410557977) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4410562840) - *Cupertino, CA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4415533071) - *New York, United States*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4410566783) - *Brooklyn, NY*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4413767529) - *Cupertino, CA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4413747862) - *New York, NY*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345175711) - *New York, United States*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4415529192) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4405889860) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345165721) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4413757679) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345195550) - *Cupertino, CA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345295614) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4414961886) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4412774044) - *Arlington, VA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4415865670) - *East Palo Alto, CA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4415844711) - *East Palo Alto, CA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4410576155) - *Carle Place, NY*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4345275551) - *Arlington, VA*
+- **[TECH]** [Software Development Engineer](https://www.linkedin.com/jobs/view/4413752719) - *Arlington, VA*
+- **[TECH]** [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.linkedin.com/jobs/view/4411283596) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer, Amazon Quick Suite](https://www.linkedin.com/jobs/view/4416993518) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer, Amazon S3](https://www.linkedin.com/jobs/view/4416976790) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4410259624) - *Brooklyn, NY*
+- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4413686816) - *Brooklyn, NY*
+- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4412413253) - *Cupertino, CA*
+- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4408246778) - *Seattle, WA*
+- **[TECH]** [Software Engineer, Graviton Software, Annapurna Labs](https://www.linkedin.com/jobs/view/4400306872) - *Austin, TX*
+- **[TECH]** [Software Engineer- AI/ML, AWS Neuron](https://www.linkedin.com/jobs/view/4316841545) - *Cupertino, CA*
 
 ## Nvidia - 30 new (30 technical)
 
@@ -268,55 +341,80 @@ Grouped by company (sorted by match count):
 ## Boston Dynamics - 28 new (28 technical)
 
 - **[TECH]** [2026  Raytheon Full Time- Software Engineer I -(Onsite)](https://www.linkedin.com/jobs/view/4410555171) - *Huntsville, AL*
-- **[TECH]** [2026 ADGE Mechanical Engineer II](https://www.linkedin.com/jobs/view/4388361903) - *Tewksbury, MA*
-- **[TECH]** [2026 Full-time - Manufacturing Engineer - Onsite (MA)](https://www.linkedin.com/jobs/view/4418648970) - *Andover, MA*
-- **[TECH]** [2026 Full-time - Software Engineer I  (Space and RF Sensors) - Onsite](https://www.linkedin.com/jobs/view/4416134422) - *Fort Wayne, IN*
 - **[TECH]** [2026 Fulltime - Raytheon Power Electronics & Controls Electrical Engineer I(Onsite)](https://www.linkedin.com/jobs/view/4384129405) - *Huntsville, AL*
 - **[TECH]** [2026 Fulltime- Reliability Engineering I- Onsite](https://www.linkedin.com/jobs/view/4415347363) - *Tewksbury, MA*
-- **[TECH]** [2026 Raytheon Part Time Co-op - Software  Engineer (Remote)](https://www.linkedin.com/jobs/view/4418084528) - *Dulles, VA*
+- **[TECH]** [2026 Fulltime-Raytheon Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4410554206) - *McKinney, TX*
+- **[TECH]** [2026 Raytheon Full Time Embedded Software Engineer I](https://www.linkedin.com/jobs/view/4418090416) - *Indianapolis, IN*
+- **[TECH]** [2026 Raytheon Part Time -Systems Engineer Co-op (Remote)](https://www.linkedin.com/jobs/view/4411969435) - *Richardson, TX*
 - **[TECH]** [2026 Raytheon Part Time Co-op - Software  Engineer (Remote)](https://www.linkedin.com/jobs/view/4418093361) - *Aurora, CO*
 - **[TECH]** [2026 Raytheon Part Time Co-op - Software  Engineer (Remote)](https://www.linkedin.com/jobs/view/4418089486) - *State College, PA*
-- **[TECH]** [2026 Systems Engineer I - Onsite - San Diego, CA](https://www.linkedin.com/jobs/view/4417704016) - *San Diego, CA*
 - **[TECH]** [2026-Fulltime- Systems Engineer I ? Onsite McKinney, Texas](https://www.linkedin.com/jobs/view/4418654885) - *McKinney, TX*
+- **[TECH]** [2027 Mission Systems Operations - Systems Engineer I - Onsite](https://www.linkedin.com/jobs/view/4417490375) - *Alexandria, VA*
 - **[TECH]** [Chemicals and Materials Engineer I](https://www.linkedin.com/jobs/view/4411982062) - *Tucson, AZ*
 - **[TECH]** [Digital Hardware Engineer I](https://www.linkedin.com/jobs/view/4413950168) - *Huntsville, AL*
+- **[TECH]** [Electrical Computer Aided Designer Engineer (ECAD) 1](https://www.linkedin.com/jobs/view/4409495679) - *Tucson, AZ*
 - **[TECH]** [Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4399844979) - *Marlborough, MA*
-- **[TECH]** [Engineering Business Analyst - P2 - (Hybrid)](https://www.linkedin.com/jobs/view/4405261890) - *Woburn, MA*
-- **[TECH]** [Engineering Business Analyst - P2 - (Hybrid)](https://www.linkedin.com/jobs/view/4405269278) - *Andover, MA*
-- **[TECH]** [Full Time Raytheon 2026 - Multi-Product Power & Digital FPGA Engineer II](https://www.linkedin.com/jobs/view/4416143174) - *McKinney, TX*
+- **[TECH]** [Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4417483711) - *Portsmouth, RI*
+- **[TECH]** [Electrical Engineers II, Power & Analog, Design & Production Support ? Actively Growing Our Engineering Team!](https://www.linkedin.com/jobs/view/4390339202) - *Tucson, AZ*
 - **[TECH]** [Full Time Raytheon 2026 - Power & Digital Electrical Engineer I](https://www.linkedin.com/jobs/view/4399215612) - *Fort Wayne, IN*
-- **[TECH]** [GS Systems Integration and Test Engineer (P3)](https://www.linkedin.com/jobs/view/4418089482) - *Tucson, AZ*
-- **[TECH]** [HWIL Mechanical Engineer - P2](https://www.linkedin.com/jobs/view/4400535636) - *Tucson, AZ*
-- **[TECH]** [Mechanical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4417483701) - *Marlborough, MA*
-- **[TECH]** [Mechanical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4418086582) - *Portsmouth, RI*
+- **[TECH]** [Junior Network Administrator, McKinney, TX Onsite](https://www.linkedin.com/jobs/view/4409785431) - *McKinney, TX*
 - **[TECH]** [Mechanical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4418084525) - *Tewksbury, MA*
+- **[TECH]** [Mechanical Engineers II, Design ? Actively Growing our Engineering Team!](https://www.linkedin.com/jobs/view/4410556168) - *Tucson, AZ*
+- **[TECH]** [Program Controls Financial Analyst (Entry level) *HYBRID*](https://www.linkedin.com/jobs/view/4416649058) - *Andover, MA*
+- **[TECH]** [Program Supplier Quality Engineer](https://www.linkedin.com/jobs/view/4386722727) - *Tucson, AZ*
 - **[TECH]** [Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I](https://www.linkedin.com/jobs/view/4402914277) - *Tewksbury, MA*
-- **[TECH]** [Raytheon Full Time 2026 - Power & Analog Design Engineer II](https://www.linkedin.com/jobs/view/4418666068) - *McKinney, TX*
+- **[TECH]** [Raytheon Full Time 2026 - Production Support Electrical Engineer I](https://www.linkedin.com/jobs/view/4405643119) - *Plano, TX*
 - **[TECH]** [Raytheon Full Time 2026 - RF Mechanical Engineer I](https://www.linkedin.com/jobs/view/4417496270) - *Tucson, AZ*
 - **[TECH]** [Raytheon Full Time 2026 - RF Systems Engineer I](https://www.linkedin.com/jobs/view/4402923167) - *Forest, MS*
+- **[TECH]** [Raytheon Full Time 2026 - Semiconductor Foundry Engineer I](https://www.linkedin.com/jobs/view/4401707304) - *Andover, MA*
 - **[TECH]** [Systems Safety Engineer](https://www.linkedin.com/jobs/view/4418653995) - *Tewksbury, MA*
 
-## Point72 - 19 new (19 technical)
+## Anduril - 25 new (25 technical)
 
-- **[TECH]** [Data Engineer](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) - *New York*
-- **[TECH]** [Data Scientist](https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002) - *Chicago, New York*
-- **[TECH]** [Equity Quantitative Researcher](https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002) - *New York*
-- **[TECH]** [Fundamental Research Fellowship, Canvas](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) - *New York, NY*
-- **[TECH]** [Machine Learning Engineer](https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002) - *New York*
-- **[TECH]** [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) - *New York*
-- **[TECH]** [Market Intelligence Emerging Talent Network](https://boards.greenhouse.io/point72/jobs/6656054002?gh_jid=6656054002) - *New York, NY*
-- **[TECH]** [Quantitative Analyst / Software Developer](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) - *New York*
-- **[TECH]** [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - *New York*
-- **[TECH]** [Quantitative Portfolio Analyst ? 2026 Grad](https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002) - *New York, New York*
-- **[TECH]** [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) - *New York, Seattle*
-- **[TECH]** [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) - *New York*
-- **[TECH]** [Quantitative Researcher - Machine Learning](https://boards.greenhouse.io/point72/jobs/7297513002?gh_jid=7297513002) - *New York*
-- **[TECH]** [Quantitative Researcher - Systematic Credit](https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002) - *Chicago, New York*
-- **[TECH]** [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) - *New York*
-- **[TECH]** [Quantitative Software Developer](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) - *New York*
-- **[TECH]** [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) - *New York, London, or Paris*
-- **[TECH]** [Summer 2027 Quantitative Developer Internship](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) - *New York*
-- **[TECH]** [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) - *New York*
+- **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) - *Costa Mesa, California, United States*
+- **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) - *Washington, District of Columbia, United States*
+- **[TECH]** [Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) - *Costa Mesa, California, United States*
+- **[TECH]** [Early Career Manufacturing Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) - *Santa Ana, California, United States*
+- **[TECH]** [Early Career Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) - *Costa Mesa, California, United States*
+- **[TECH]** [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) - *Broomfield, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States*
+- **[TECH]** [Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007) - *Seattle, Washington, United States*
+- **[TECH]** [Electrical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) - *Costa Mesa, California, United States*
+- **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007) - *Costa Mesa, California, United States*
+- **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007) - *Washington, District of Columbia, United States*
+- **[TECH]** [GSOC Jr Operator](https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007) - *Costa Mesa, California, United States*
+- **[TECH]** [Industrial Engineer, Production Controls & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5108276007?gh_jid=5108276007) - *Costa Mesa, California, United States*
+- **[TECH]** [Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007) - *Ashville, Ohio, United States*
+- **[TECH]** [Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) - *Santa Ana, California, United States*
+- **[TECH]** [Manufacturing Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4644883007?gh_jid=4644883007) - *Costa Mesa, California, United States*
+- **[TECH]** [Manufacturing Test Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5080535007?gh_jid=5080535007) - *Ashville, Ohio, United States*
+- **[TECH]** [Manufacturing Test Engineer, Intelligence Systems (2nd Shift)](https://boards.greenhouse.io/andurilindustries/jobs/5135616007?gh_jid=5135616007) - *Santa Ana, California, United States*
+- **[TECH]** [Maritime Operations Engineer - Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007) - *Channel Islands, California, United States*
+- **[TECH]** [Mechanical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007) - *Costa Mesa, California, United States*
+- **[TECH]** [Mechanical Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4988675007?gh_jid=4988675007) - *Costa Mesa, California, United States*
+- **[TECH]** [Mission Operations Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007) - *Atlanta, Georgia, United States*
+- **[TECH]** [Mission Operations Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5115435007?gh_jid=5115435007) - *Costa Mesa, California, United States*
+- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4182443007?gh_jid=4182443007) - *Washington, District of Columbia, United States*
+- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007) - *Costa Mesa, California, United States*
+- **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134986007?gh_jid=5134986007) - *Costa Mesa, California, United States*
+
+## Tesla - 16 new (16 technical)
+
+- **[TECH]** [Associate Civil Engineer](https://www.linkedin.com/jobs/view/4418645220) - *Austin, TX*
+- **[TECH]** [Associate Environmental Engineer](https://www.linkedin.com/jobs/view/4418456588) - *Sparks, NV*
+- **[TECH]** [Associate Facilities Engineer](https://www.linkedin.com/jobs/view/4418449681) - *Fremont, CA*
+- **[TECH]** [Associate Facilities Operations Engineer](https://www.linkedin.com/jobs/view/4418643244) - *Sparks, NV*
+- **[TECH]** [Associate Industrial Engineer](https://www.linkedin.com/jobs/view/4418445871) - *Lathrop, CA*
+- **[TECH]** [Associate Mechanical Design Engineer](https://www.linkedin.com/jobs/view/4418642284) - *Brooklyn Park, MN*
+- **[TECH]** [Industrial Engineer, Outbound Flow & Optimization](https://www.linkedin.com/jobs/view/4418656210) - *Austin, TX*
+- **[TECH]** [Internship, Data Analyst, Energy (Fall 2026)](https://www.linkedin.com/jobs/view/4416576546) - *Fremont, CA*
+- **[TECH]** [Internship, Data Engineer, Energy (Fall 2026)](https://www.linkedin.com/jobs/view/4416582555) - *Palo Alto, CA*
+- **[TECH]** [Internship, Electrical Engineer, Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4416576548) - *Palo Alto, CA*
+- **[TECH]** [Internship, Operational Automation Engineer, Residential Energy (Fall 2026)](https://www.linkedin.com/jobs/view/4416586495) - *Draper, UT*
+- **[TECH]** [Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Fall 2026)](https://www.linkedin.com/jobs/view/4416582553) - *Palo Alto, CA*
+- **[TECH]** [Internship, Software Engineer, Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4416589514) - *Palo Alto, CA*
+- **[TECH]** [Mechanical Design Engineer, Chassis, Semi](https://www.linkedin.com/jobs/view/4418659179) - *Fremont, CA*
+- **[TECH]** [Professional Engineering Trainee, PEAK Program (Summer 2026)](https://www.linkedin.com/jobs/view/4418646216) - *Fremont, CA*
+- **[TECH]** [Supplier Industrialization Engineer, Closures & Mechatronics](https://www.linkedin.com/jobs/view/4418460491) - *Fremont, CA*
 
 ## Adobe - 15 new (15 technical)
 
@@ -336,23 +434,23 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R159512) - *San Jose*
 - **[TECH]** [Software Development Engineer - Front End](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Software-Development-Engineer---Front-End_R168188) - *San Francisco*
 
-## Google - 15 new (15 technical)
+## Point72 - 15 new (15 technical)
 
-- **[TECH]** [Data Engineer, Geo 3P and Developer Data Operations](https://www.google.com/about/careers/applications/jobs/results/86745576837653190) - *Mountain View, CA, USA*
-- **[TECH]** [Engineering Analyst, Trust and Safety Payments](https://www.google.com/about/careers/applications/jobs/results/143948727982138054) - *Sunnyvale, CA, USA*
-- **[TECH]** [Equipment Technician, Vacuum, Semiconductor, Raxium](https://www.google.com/about/careers/applications/jobs/results/81545552558203590) - *Fremont, CA, USA*
-- **[TECH]** [Hardware Validation Engineer, Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/135325114404086470) - *Sunnyvale, CA, USA*
-- **[TECH]** [Hardware Validation Engineer, ML Products, University Graduate](https://www.google.com/about/careers/applications/jobs/results/107128442041836230) - *Sunnyvale, CA, USA*
-- **[TECH]** [Modular Data Center Product Engineer, Design](https://www.google.com/about/careers/applications/jobs/results/98426115135021766) - *Seattle, WA, USA*
-- **[TECH]** [Network Operations Residency Program, University Graduate, 2026 Start](https://www.google.com/about/careers/applications/jobs/results/110139330885755590) - *Thornton, CO, USA*
-- **[TECH]** [Network Operations Residency Program, University Graduate, August 2026 Start](https://www.google.com/about/careers/applications/jobs/results/118981017938600646) - *Atlanta, GA, USA*
-- **[TECH]** [Optical Validation Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/143702138877289158) - *Sunnyvale, CA, USA*
-- **[TECH]** [Product Safety Test Engineer, Platforms](https://www.google.com/about/careers/applications/jobs/results/119519945066193606) - *Sunnyvale, CA, USA*
-- **[TECH]** [Security Engineer, Access Risk Intelligence and Security Mitigation](https://www.google.com/about/careers/applications/jobs/results/74402318644060870) - *New York, NY, USA*
-- **[TECH]** [Security Engineer, Access Security Team](https://www.google.com/about/careers/applications/jobs/results/105043434598736582) - *New York, NY, USA*
-- **[TECH]** [Silicon Design Verification Engineer](https://www.google.com/about/careers/applications/jobs/results/86602986070909638) - *Mountain View, CA, USA*
-- **[TECH]** [Student Researcher, BS/MS, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) - *Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA / Princeton, NJ, USA*
-- **[TECH]** [Student Researcher, PhD, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) - *Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA*
+- **[TECH]** [Data Engineer](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) - *New York*
+- **[TECH]** [Data Scientist](https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002) - *Chicago, New York*
+- **[TECH]** [Machine Learning Engineer](https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002) - *New York*
+- **[TECH]** [Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) - *New York*
+- **[TECH]** [Quantitative Analyst / Software Developer](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) - *New York*
+- **[TECH]** [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) - *New York*
+- **[TECH]** [Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) - *New York, Seattle*
+- **[TECH]** [Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) - *New York*
+- **[TECH]** [Quantitative Researcher - Machine Learning](https://boards.greenhouse.io/point72/jobs/7297513002?gh_jid=7297513002) - *New York*
+- **[TECH]** [Quantitative Researcher - Systematic Credit](https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002) - *Chicago, New York*
+- **[TECH]** [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) - *New York*
+- **[TECH]** [Quantitative Software Developer](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) - *New York*
+- **[TECH]** [Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) - *New York, London, or Paris*
+- **[TECH]** [Summer 2027 Quantitative Developer Internship](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) - *New York*
+- **[TECH]** [Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) - *New York*
 
 ## Etched - 13 new (13 technical)
 
@@ -369,6 +467,22 @@ Grouped by company (sorted by match count):
 - **[TECH]** [RTL Intern](https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) - *San Jose*
 - **[TECH]** [Supercomputing Intern](https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) - *San Jose*
 - **[TECH]** [Thermo-Mech CFD Simulation Intern](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff) - *San Jose*
+
+## Google - 13 new (13 technical)
+
+- **[TECH]** [Data Engineer, Geo 3P and Developer Data Operations](https://www.google.com/about/careers/applications/jobs/results/86745576837653190) - *Mountain View, CA, USA*
+- **[TECH]** [Engineering Analyst, Trust and Safety Payments](https://www.google.com/about/careers/applications/jobs/results/143948727982138054) - *Sunnyvale, CA, USA*
+- **[TECH]** [Hardware Validation Engineer, Cloud Platforms](https://www.google.com/about/careers/applications/jobs/results/135325114404086470) - *Sunnyvale, CA, USA*
+- **[TECH]** [Hardware Validation Engineer, ML Products, University Graduate](https://www.google.com/about/careers/applications/jobs/results/107128442041836230) - *Sunnyvale, CA, USA*
+- **[TECH]** [Network Operations Residency Program, University Graduate, 2026 Start](https://www.google.com/about/careers/applications/jobs/results/110139330885755590) - *Thornton, CO, USA*
+- **[TECH]** [Network Operations Residency Program, University Graduate, August 2026 Start](https://www.google.com/about/careers/applications/jobs/results/118981017938600646) - *Atlanta, GA, USA*
+- **[TECH]** [Optical Validation Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/143702138877289158) - *Sunnyvale, CA, USA*
+- **[TECH]** [Product Safety Test Engineer, Platforms](https://www.google.com/about/careers/applications/jobs/results/119519945066193606) - *Sunnyvale, CA, USA*
+- **[TECH]** [Security Engineer, Access Risk Intelligence and Security Mitigation](https://www.google.com/about/careers/applications/jobs/results/74402318644060870) - *New York, NY, USA*
+- **[TECH]** [Security Engineer, Access Security Team](https://www.google.com/about/careers/applications/jobs/results/105043434598736582) - *New York, NY, USA*
+- **[TECH]** [Silicon Design Verification Engineer](https://www.google.com/about/careers/applications/jobs/results/86602986070909638) - *Mountain View, CA, USA*
+- **[TECH]** [Student Researcher, BS/MS, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) - *Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA / Princeton, NJ, USA*
+- **[TECH]** [Student Researcher, PhD, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) - *Mountain View, CA, USA / Ann Arbor, MI, USA / Atlanta, GA, USA / Austin, TX, USA / Cambridge, MA, USA / Chicago, IL, USA / Irvine, CA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / Madison, WI, USA / New York, NY, USA / Palo Alto, CA, USA / Pittsburgh, PA, USA / Goleta, CA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Francisco, CA, USA / Sunnyvale, CA, USA / Washington D.C., DC, USA*
 
 ## OpenAI - 12 new (12 technical)
 
@@ -413,19 +527,6 @@ Grouped by company (sorted by match count):
 - **[TECH]** [[2026] Software Engineer, Game Developer](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) - *San Mateo, CA, United States*
 - **[TECH]** [Software Engineer, Communication Safety](https://careers.roblox.com/jobs/7888723?gh_jid=7888723) - *San Mateo, CA, United States*
 - **[TECH]** [Software Engineer, Core Services](https://careers.roblox.com/jobs/7943533?gh_jid=7943533) - *San Mateo, CA, United States*
-
-## DoorDash - 10 new (10 technical)
-
-- **[TECH]** [AI Research Fellowship, (Summer and Fall 2026)](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) - *San Francisco, CA*
-- **[TECH]** [Associate Strategic Account Development Executive - Platform](https://job-boards.greenhouse.io/doordashusa/jobs/7863361) - *Tempe, AZ; Atlanta, GA; Phoenix, AZ; Houston, TX; Dallas, TX Tampa, FL; Orlando, FL; Raleigh, NC; Charlotte, NC; Charleston, SC; Las Vegas, NV; Salt Lake City, UT*
-- **[TECH]** [Composite & Prototype Engineering Technician](https://job-boards.greenhouse.io/doordashusa/jobs/7650045) - *San Francisco, CA*
-- **[TECH]** [DoorDash for Business Support Representative](https://job-boards.greenhouse.io/doordashusa/jobs/7768489) - *Tempe, AZ*
-- **[TECH]** [Electrical Distribution Engineer (Harness / EDS)](https://job-boards.greenhouse.io/doordashusa/jobs/7779237) - *Oakland, CA*
-- **[TECH]** [Machine Learning Engineer, Marketplace Optimization](https://job-boards.greenhouse.io/doordashusa/jobs/7580407) - *San Francisco, CA; Sunnyvale, CA*
-- **[TECH]** [Mechanical Design Engineer ? UAV Wire Harness](https://job-boards.greenhouse.io/doordashusa/jobs/7927350) - *San Francisco, CA*
-- **[TECH]** [Software Engineer, Backend (All Teams)](https://job-boards.greenhouse.io/doordashusa/jobs/5630445) - *Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI*
-- **[TECH]** [Software Engineer, Infrastructure - Autonomy & Robotics](https://job-boards.greenhouse.io/doordashusa/jobs/6367350) - *San Francisco, CA*
-- **[TECH]** [Systems Engineer](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) - *San Francisco, CA; Oakland, CA*
 
 ## Shield AI - 10 new (10 technical)
 
@@ -475,16 +576,16 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Research Engineer, Economic Research Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5071132008) - *San Francisco, CA*
 - **[TECH]** [Research Engineer/Research Scientist, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4616971008) - *Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY*
 
-## Uber - 8 new (8 technical)
+## DoorDash - 8 new (8 technical)
 
-- **[TECH]** [2026 Fall Software Engineering Internship, US](https://www.uber.com/careers/list/159161) - *New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
-- **[TECH]** [Application Developer L3 ? Identity & Access Management (IAM)](https://www.uber.com/careers/list/159177) - *Sunnyvale, California, United States*
-- **[TECH]** [Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations](https://www.uber.com/careers/list/158984) - *Seattle, Washington, United States*
-- **[TECH]** [Graduate 2026 PhD Software Engineer II (AV Labs), United States](https://www.uber.com/careers/list/159120) - *San Francisco, California, United States / Sunnyvale, California, United States*
-- **[TECH]** [Graduate 2026 Software Engineer I, Mobile (Android)](https://www.uber.com/careers/list/158037) - *Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
-- **[TECH]** [Graduate 2026 Software Engineer I, Mobile (iOS)](https://www.uber.com/careers/list/158011) - *New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
-- **[TECH]** [Graduate 2026 Software Engineer I, US](https://www.uber.com/careers/list/158009) - *New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
-- **[TECH]** [Software Engineer I](https://www.uber.com/careers/list/158657) - *Sunnyvale, California, United States*
+- **[TECH]** [AI Research Fellowship, (Summer and Fall 2026)](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) - *San Francisco, CA*
+- **[TECH]** [Composite & Prototype Engineering Technician](https://job-boards.greenhouse.io/doordashusa/jobs/7650045) - *San Francisco, CA*
+- **[TECH]** [Electrical Distribution Engineer (Harness / EDS)](https://job-boards.greenhouse.io/doordashusa/jobs/7779237) - *Oakland, CA*
+- **[TECH]** [Machine Learning Engineer, Marketplace Optimization](https://job-boards.greenhouse.io/doordashusa/jobs/7580407) - *San Francisco, CA; Sunnyvale, CA*
+- **[TECH]** [Mechanical Design Engineer ? UAV Wire Harness](https://job-boards.greenhouse.io/doordashusa/jobs/7927350) - *San Francisco, CA*
+- **[TECH]** [Software Engineer, Backend (All Teams)](https://job-boards.greenhouse.io/doordashusa/jobs/5630445) - *Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI*
+- **[TECH]** [Software Engineer, Infrastructure - Autonomy & Robotics](https://job-boards.greenhouse.io/doordashusa/jobs/6367350) - *San Francisco, CA*
+- **[TECH]** [Systems Engineer](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) - *San Francisco, CA; Oakland, CA*
 
 ## Snowflake - 6 new (6 technical)
 
@@ -495,28 +596,14 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Software Engineer - Snowflake Postgres](https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21) - *US-CA-Menlo Park*
 - **[TECH]** [Software Engineer Intern (Security) - Fall 2026](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7) - *US-CA-Menlo Park*
 
-## xAI - 5 new (5 technical)
+## Uber - 6 new (6 technical)
 
-- **[TECH]** [Data Engineer](https://job-boards.greenhouse.io/xai/jobs/5120884007) - *Palo Alto, CA*
-- **[TECH]** [IT Services Technician](https://job-boards.greenhouse.io/xai/jobs/5033593007) - *Palo Alto, CA*
-- **[TECH]** [Member of Technical Staff](https://job-boards.greenhouse.io/xai/jobs/5044403007) - *Memphis, TN*
-- **[TECH]** [Network Engineer](https://job-boards.greenhouse.io/xai/jobs/4870731007) - *Memphis, TN*
-- **[TECH]** [Security Engineer - Detection & Response](https://job-boards.greenhouse.io/xai/jobs/5008186007) - *New York, NY; Palo Alto, CA*
-
-## Zillow - 5 new (5 technical)
-
-- **[TECH]** [AI Applied Scientist - PhD Intern, Foundational AQ & EQ](https://www.linkedin.com/jobs/view/4305147733) - *United States*
-- **[TECH]** [AI Applied Scientist - PhD Intern, Foundational IQ](https://www.linkedin.com/jobs/view/4305155577) - *United States*
-- **[TECH]** [Applied Scientist, New Construction](https://www.linkedin.com/jobs/view/4370817385) - *United States*
-- **[TECH]** [Machine Learning Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4385528913) - *United States*
-- **[TECH]** [Machine Learning Engineer, Zillow Shopping AI](https://www.linkedin.com/jobs/view/4341008321) - *United States*
-
-## Databricks - 4 new (4 technical)
-
-- **[TECH]** [Counsel, Commercial](https://databricks.com/company/careers/open-positions/job?gh_jid=8463179002) - *Bellevue, Washington; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.*
-- **[TECH]** [Customer Enablement Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8431935002) - *Bellevue, Washington*
-- **[TECH]** [Customer Enablement Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002) - *Bellevue, Washington*
-- **[TECH]** [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) - *San Francisco, California*
+- **[TECH]** [2026 Fall Software Engineering Internship, US](https://www.uber.com/careers/list/159161) - *New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
+- **[TECH]** [Application Developer L3 ? Identity & Access Management (IAM)](https://www.uber.com/careers/list/159177) - *Sunnyvale, California, United States*
+- **[TECH]** [Graduate 2026 Software Engineer I, Mobile (Android)](https://www.uber.com/careers/list/158037) - *Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
+- **[TECH]** [Graduate 2026 Software Engineer I, Mobile (iOS)](https://www.uber.com/careers/list/158011) - *New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
+- **[TECH]** [Graduate 2026 Software Engineer I, US](https://www.uber.com/careers/list/158009) - *New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States*
+- **[TECH]** [Software Engineer I](https://www.uber.com/careers/list/158657) - *Sunnyvale, California, United States*
 
 ## DRW - 4 new (4 technical)
 
@@ -546,12 +633,12 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Software Engineer Internship, Android](https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b) - *New York, NY (HQ)*
 - **[TECH]** [University Grad | Software Engineer | Frontend](https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89) - *New York, NY (HQ)*
 
-## Robinhood - 4 new (4 technical)
+## xAI - 4 new (4 technical)
 
-- **[TECH]** [Android Engineer](https://boards.greenhouse.io/robinhood/jobs/7776330?t=gh_src=&gh_jid=7776330) - *Menlo Park, CA*
-- **[TECH]** [Android Engineer](https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758) - *New York, NY*
-- **[TECH]** [Software Engineer, Backend](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) - *Menlo Park, CA*
-- **[TECH]** [Support Engineer](https://boards.greenhouse.io/robinhood/jobs/7847491?t=gh_src=&gh_jid=7847491) - *Westlake, TX*
+- **[TECH]** [Data Engineer](https://job-boards.greenhouse.io/xai/jobs/5120884007) - *Palo Alto, CA*
+- **[TECH]** [Member of Technical Staff](https://job-boards.greenhouse.io/xai/jobs/5044403007) - *Memphis, TN*
+- **[TECH]** [Network Engineer](https://job-boards.greenhouse.io/xai/jobs/4870731007) - *Memphis, TN*
+- **[TECH]** [Security Engineer - Detection & Response](https://job-boards.greenhouse.io/xai/jobs/5008186007) - *New York, NY; Palo Alto, CA*
 
 ## 1X Technologies - 3 new (3 technical)
 
@@ -559,17 +646,17 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Materials and Process Innovation Engineer](https://1x.recruitee.com/o/materials-and-process-innovation-engineer) - *San Carlos, United States*
 - **[TECH]** [Mechanical Engineer - Hand Motors and Actuators](https://1x.recruitee.com/o/mechanical-engineer-hand-motors-and-actuators) - *San Carlos, United States*
 
+## Databricks - 3 new (3 technical)
+
+- **[TECH]** [Customer Enablement Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8431935002) - *Bellevue, Washington*
+- **[TECH]** [Customer Enablement Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8431927002) - *Bellevue, Washington*
+- **[TECH]** [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) - *San Francisco, California*
+
 ## Lambda Labs - 3 new (3 technical)
 
 - **[TECH]** [Data Center Mechanical Engineering Intern - 2026](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) - *San Jose Office (Zanker)*
 - **[TECH]** [Field Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) - *San Francisco Office (Second St)*
 - **[TECH]** [Security Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6) - *San Francisco Office (Fremont St)*
-
-## Mercor - 3 new (3 technical)
-
-- **[TECH]** [Administrative Generalist](https://jobs.ashbyhq.com/mercor/5bef09c2-fc72-4f20-8bd3-1b221cfa89d0) - *San Francisco*
-- **[TECH]** [Data Scientist](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152) - *San Francisco*
-- **[TECH]** [Enterprise AI Associate](https://jobs.ashbyhq.com/mercor/50a58426-2e97-43a5-99b1-d0d9cdc88100) - *San Francisco*
 
 ## Microsoft - 3 new (3 technical)
 
@@ -589,17 +676,17 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Mechatronics Intern](https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a) - *San Francisco*
 - **[TECH]** [Research Scientist](https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba) - *San Francisco*
 
-## Pinterest - 3 new (3 technical)
-
-- **[TECH]** [Data Scientist II, Experimentation](https://www.pinterestcareers.com/jobs/?gh_jid=7896291) - *San Francisco, CA, US; Remote, US*
-- **[TECH]** [Master's Fall Machine Learning Internship (ATG - Visual Search)](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) - *San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US*
-- **[TECH]** [PhD Fall Machine Learning Intern (ATG ? Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) - *San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US*
-
 ## Plaid - 3 new (3 technical)
 
 - **[TECH]** [Software Engineer, Backend](https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b) - *San Francisco HQ*
 - **[TECH]** [Software Engineer, Backend](https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d) - *Seattle Office*
 - **[TECH]** [Software Engineer, Backend](https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9) - *New York City Office*
+
+## Robinhood - 3 new (3 technical)
+
+- **[TECH]** [Android Engineer](https://boards.greenhouse.io/robinhood/jobs/7776330?t=gh_src=&gh_jid=7776330) - *Menlo Park, CA*
+- **[TECH]** [Android Engineer](https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758) - *New York, NY*
+- **[TECH]** [Support Engineer](https://boards.greenhouse.io/robinhood/jobs/7847491?t=gh_src=&gh_jid=7847491) - *Westlake, TX*
 
 ## Scale AI - 3 new (3 technical)
 
@@ -607,17 +694,28 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) - *San Francisco, CA*
 - **[TECH]** [Technical Advisor Specialist (Part-Time Internship)](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) - *San Francisco, CA*
 
+## Snap - 3 new (3 technical)
+
+- **[TECH]** [Security Engineer, Level 3](https://www.linkedin.com/jobs/view/4377039978) - *Bellevue, WA*
+- **[TECH]** [Security Engineer, Level 3](https://www.linkedin.com/jobs/view/4377053302) - *Palo Alto, CA*
+- **[TECH]** [Security Engineer, Level 3](https://www.linkedin.com/jobs/view/4382377612) - *Los Angeles, CA*
+
 ## Stripe - 3 new (3 technical)
 
 - **[TECH]** [Android Engineer, Terminal Global Payments](https://stripe.com/jobs/search?gh_jid=7778627) - *San Francisco, CA, Seattle, WA*
 - **[TECH]** [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965) - *San Francisco, New York City, Seattle, Chicago*
 - **[TECH]** [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=7216664) - *San Francisco, New York City, Seattle*
 
-## Tempus AI - 3 new (3 technical)
+## Zillow - 3 new (3 technical)
 
-- **[TECH]** [Data Scientist II, Real World Evidence (RWE), Pharma R&D](https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Boston/Data-Scientist-II--Real-World-Evidence--RWE---Pharma-R-D_JR202501065) - *4 Locations*
-- **[TECH]** [Engineer I - Laboratory Automation](https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Engineer-I---Laboratory-Automation_JR202600414) - *Chicago*
-- **[TECH]** [Junior Clinical Trials Data Specialist](https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Remote---Illinois/Junior-Clinical-Trials-Data-Specialist_JR202600459) - *Remote - Illinois*
+- **[TECH]** [Applied Scientist, New Construction](https://www.linkedin.com/jobs/view/4370817385) - *United States*
+- **[TECH]** [Machine Learning Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4385528913) - *United States*
+- **[TECH]** [Machine Learning Engineer, Zillow Shopping AI](https://www.linkedin.com/jobs/view/4341008321) - *United States*
+
+## AMD - 2 new (2 technical)
+
+- **[TECH]** [Intern - RF Engineering (Summer 2026)](https://www.linkedin.com/jobs/view/4414943750) - *West Union, SC*
+- **[TECH]** [L3 Application Support Engineer](https://www.linkedin.com/jobs/view/4405873854) - *Austin, TX*
 
 ## Apptronik - 2 new (2 technical)
 
@@ -634,10 +732,10 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Operations Engineer, HPC Networking](https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006) - *Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA *
 - **[TECH]** [Software Engineer, Inference AI/ML](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) - * Sunnyvale, CA / Bellevue, WA*
 
-## MongoDB - 2 new (2 technical)
+## Pinterest - 2 new (2 technical)
 
-- **[TECH]** [Software Engineer, Code Generation](https://www.mongodb.com/careers/job/?gh_jid=7311666) - *California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington*
-- **[TECH]** [Software Engineer, Developer Productivity](https://www.mongodb.com/careers/job/?gh_jid=7851388) - *New York City*
+- **[TECH]** [Master's Fall Machine Learning Internship (ATG - Visual Search)](https://www.pinterestcareers.com/jobs/?gh_jid=7253017) - *San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US*
+- **[TECH]** [PhD Fall Machine Learning Intern (ATG ? Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) - *San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US*
 
 ## Replit - 2 new (2 technical)
 
@@ -662,18 +760,6 @@ Grouped by company (sorted by match count):
 
 - **[TECH]** [Research, Post-Training](https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10) - *San Francisco*
 
-## CrowdStrike - 1 new (1 technical)
-
-- **[TECH]** [GenAI Engineering Intern  - SkillBridge (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/GenAI-Engineering-Intern----SkillBridge--Remote-_R26742) - *USA - Remote*
-
-## Datadog - 1 new (1 technical)
-
-- **[TECH]** [Associate Marketing Data Analyst - Marketing Analytics](https://careers.datadoghq.com/detail/7837084/?gh_jid=7837084) - *New York, New York, USA*
-
-## Decagon - 1 new (1 technical)
-
-- **[TECH]** [Founder's Office, Applied AI](https://jobs.ashbyhq.com/decagon/c2ea9bd2-7a20-4fbb-b301-5e587415baeb) - *San Francisco*
-
 ## Discord - 1 new (1 technical)
 
 - **[TECH]** [Data Engineer, Analytics](https://job-boards.greenhouse.io/discord/jobs/8371252002) - *San Francisco Bay Area*
@@ -686,10 +772,6 @@ Grouped by company (sorted by match count):
 
 - **[TECH]** [Support Engineer](https://job-boards.greenhouse.io/fireworksai/jobs/4009077009) - *San Mateo, CA*
 
-## Generate Biomedicines - 1 new (1 technical)
-
-- **[TECH]** [Scientist I / Scientist II, Computational Protein Generation](https://generatebiomedicines.com/open-positions?gh_jid=4673101006) - *Somerville, MA*
-
 ## Google DeepMind - 1 new (1 technical)
 
 - **[TECH]** [Frontier AI Research Scientist, DeepMind](https://www.google.com/about/careers/applications/jobs/results/110687296503587526) - *Mountain View, CA, USA*
@@ -698,9 +780,25 @@ Grouped by company (sorted by match count):
 
 - **[TECH]** [Internship](https://job-boards.greenhouse.io/inceptive/jobs/5103191007) - *Palo Alto, CA*
 
+## LinkedIn - 1 new (1 technical)
+
+- **[TECH]** [Fellow, Software Engineering- Infrastructure](https://www.linkedin.com/jobs/view/4393214814) - *Mountain View, CA*
+
 ## Luma AI - 1 new (1 technical)
 
 - **[TECH]** [Software Engineer - Product](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) - *SF Bay Area, CA*
+
+## Mercor - 1 new (1 technical)
+
+- **[TECH]** [Data Scientist](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152) - *San Francisco*
+
+## MongoDB - 1 new (1 technical)
+
+- **[TECH]** [Software Engineer, Developer Productivity](https://www.mongodb.com/careers/job/?gh_jid=7851388) - *New York City*
+
+## Netflix - 1 new (1 technical)
+
+- **[TECH]** [Software Engineer in Test 5 - Apple Player](https://explore.jobs.netflix.net/careers/job/790316003628) - *Los Gatos,California,United States of America*
 
 ## Recursion Pharma - 1 new (1 technical)
 
@@ -713,3 +811,7 @@ Grouped by company (sorted by match count):
 ## Spotify - 1 new (1 technical)
 
 - **[TECH]** [Machine Learning Engineer I, Personalization , Minesweeper](https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1) - *New York, NY*
+
+## Tempus AI - 1 new (1 technical)
+
+- **[TECH]** [Engineer I - Laboratory Automation](https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Engineer-I---Laboratory-Automation_JR202600414) - *Chicago*
