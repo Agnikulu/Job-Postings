@@ -112,6 +112,36 @@
   slug: cohere
   category: frontier_ai
 
+- name: Mercor
+  ats: ashby
+  slug: mercor
+  category: frontier_ai
+
+- name: Fireworks AI
+  ats: greenhouse
+  slug: fireworksai
+  category: frontier_ai
+
+- name: World Labs
+  ats: greenhouse
+  slug: worldlabs
+  category: frontier_ai
+
+- name: Reka AI
+  ats: ashby
+  slug: reka
+  category: frontier_ai
+
+- name: Wiz
+  ats: tier3_todo
+  note: "Custom careers site at wiz.io/careers — no public Greenhouse/Ashby board."
+  category: frontier_ai
+
+- name: Magic AI
+  ats: tier3_todo
+  note: "Custom careers site at magic.dev/careers — no public ATS API."
+  category: frontier_ai
+
 # =============================================================================
 # Category II: Elite Quantitative Finance & Proprietary Trading
 # =============================================================================
@@ -325,6 +355,46 @@
   slug: clickhouse
   category: enterprise
 
+- name: Decagon
+  ats: ashby
+  slug: decagon
+  category: enterprise
+
+- name: Replit
+  ats: ashby
+  slug: replit
+  category: enterprise
+
+- name: Modal Labs
+  ats: ashby
+  slug: modal
+  category: enterprise
+
+- name: Anyscale
+  ats: lever
+  slug: anyscale
+  category: enterprise
+
+- name: Robinhood
+  ats: greenhouse
+  slug: robinhood
+  category: enterprise
+
+- name: Cloudflare
+  ats: greenhouse
+  slug: cloudflare
+  category: enterprise
+
+- name: Veeva Systems
+  ats: lever
+  slug: veeva
+  category: enterprise
+
+- name: Coinbase
+  ats: tier3_todo
+  note: "Greenhouse board is not exposed via public API; careers at coinbase.com/careers."
+  category: enterprise
+
 # =============================================================================
 # Category IV: Applied Embodied AI and Cyber-Physical Robotics
 # =============================================================================
@@ -357,6 +427,36 @@
 - name: SpaceX
   ats: tier3_todo
   note: "Custom careers site at spacex.com/careers."
+  category: robotics
+
+- name: Applied Intuition
+  ats: greenhouse
+  slug: appliedintuition
+  category: robotics
+
+- name: Apptronik
+  ats: greenhouse
+  slug: apptronik
+  category: robotics
+
+- name: Skydio
+  ats: ashby
+  slug: skydio
+  category: robotics
+
+- name: Shield AI
+  ats: lever
+  slug: shieldai
+  category: robotics
+
+- name: Boston Dynamics
+  ats: linkedin
+  linkedin_company_id: "1505"
+  category: robotics
+
+- name: 1X Technologies
+  ats: tier3_todo
+  note: "Recruitee careers at 1x.recruitee.com — no adapter yet."
   category: robotics
 
 # =============================================================================
@@ -426,6 +526,21 @@
 - name: Recursion Pharma
   ats: greenhouse
   slug: recursionpharmaceuticals
+  category: biotech
+
+- name: Generate Biomedicines
+  ats: greenhouse
+  slug: generatebiomedicines
+  category: biotech
+
+- name: Verily
+  ats: tier3_todo
+  note: "Custom Alphabet careers site — no public ATS API."
+  category: biotech
+
+- name: Tempus AI
+  ats: tier3_todo
+  note: "Custom careers site at tempus.com/careers — no public ATS API."
   category: biotech
 
 
@@ -533,4 +648,56 @@
 - name: DoorDash
   ats: greenhouse
   slug: doordashusa
+  category: big_tech
+
+- name: Lyft
+  ats: greenhouse
+  slug: lyft
+  category: big_tech
+
+- name: Spotify
+  ats: lever
+  slug: spotify
+  category: big_tech
+
+- name: CrowdStrike
+  ats: workday
+  tenant: crowdstrike
+  wd_pod: wd5
+  site: crowdstrikecareers
+  category: big_tech
+
+- name: Snap
+  ats: linkedin
+  linkedin_company_id: "15191764"
+  category: big_tech
+
+- name: Palo Alto Networks
+  ats: linkedin
+  linkedin_company_id: "30086"
+  category: big_tech
+
+- name: Amazon Web Services (AWS)
+  ats: linkedin
+  linkedin_company_id: "2382910"
+  category: big_tech
+
+- name: AMD
+  ats: linkedin
+  linkedin_company_id: "7550"
+  category: big_tech
+
+- name: Tesla
+  ats: linkedin
+  linkedin_company_id: "15564"
+  category: big_tech
+
+- name: Zillow
+  ats: linkedin
+  linkedin_company_id: "13990"
+  category: big_tech
+
+- name: Shopify
+  ats: linkedin
+  linkedin_company_id: "784652"
   category: big_tech
