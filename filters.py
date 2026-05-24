@@ -136,7 +136,43 @@ _FELLOWSHIP_TITLE = re.compile(
     re.IGNORECASE,
 )
 
+# Corporate research fellowship programs (Anthropic Fellows, etc.) — not EC hires.
+_CORPORATE_FELLOWS_PROGRAM = re.compile(
+    r"\b(?:anthropic\s+)?fellows?\s+program\b",
+    re.IGNORECASE,
+)
+
 _POST_TRAINING = re.compile(r"\bpost-?training\b", re.IGNORECASE)
+
+_POST_TRAINING_IC_TITLE = re.compile(
+    r"\b(?:"
+    r"research\s+(?:scientist|engineer)|researcher|"
+    r"(?:software|machine\s+learning|ml)\s+engineer|"
+    r"member\s+of\s+technical\s+staff|\bmts\b"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_NETWORK_ENGINEER_TITLE = re.compile(
+    r"\bnetwork\s+engineer\b",
+    re.IGNORECASE,
+)
+
+_PHYSICAL_DESIGN_ENGINEER = re.compile(
+    r"\bphysical\s+design\s+engineer\b",
+    re.IGNORECASE,
+)
+
+_TECHNICAL_ADVISOR = re.compile(r"\btechnical\s+advisor\b", re.IGNORECASE)
+
+_RESEARCH_EC_TITLE_MARKER = re.compile(
+    r"\b(?:"
+    r"intern(ship)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
+    r"university|campus|student\s+researcher|"
+    r"phd\s+(?:research\s+)?intern|(?:research\s+)?intern,\s*phd"
+    r")\b",
+    re.IGNORECASE,
+)
 
 _EXPERT_FELLOWSHIP = re.compile(
     r"\b(?:human\s+frontier\s+collective|\bhfc\b)\b",
@@ -154,8 +190,81 @@ _NON_TECH_INTERN = re.compile(
     r"gtm|go[\s-]?to[\s-]?market|business\s+program\s+management|"
     r"solution\s+area\s+specialist|lifecycle\s+marketing|"
     r"finance|accounting|marketing|sales|hr|human\s+resources|"
-    r"recruiting|talent|business\s+development"
+    r"recruiting|talent|business\s+development|"
+    r"technical\s+advisor|"
+    r"customer\s+advocacy|core\s+ops"
     r")\b",
+    re.IGNORECASE,
+)
+
+_TRADE_SYSTEMS_ENGINEER = re.compile(
+    r"\b(?:"
+    r"trade\s+systems?\s+engineer|"
+    r"options\s+trading\s+systems?\s+engineer|"
+    r"prediction\s+markets\s+.*\s+engineer"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_NEW_COLLEGE_GRAD_TITLE = re.compile(
+    r"\bnew\s+college\s+grad(?:uate)?\b",
+    re.IGNORECASE,
+)
+
+_SPACEX_SWE_FAMILY_TITLE = re.compile(
+    r"^(?:"
+    r"AI\s+Software\s+Engineer|"
+    r"Application\s+Software\s+Engineer|"
+    r"Embedded(?:\s+Security)?\s+Software\s+Engineer|"
+    r"(?:Backend|Frontend|Full\s+Stack)\s+Software\s+Engineer|"
+    r"Software\s+Engineer|"
+    r"Network\s+Software\s+Integration\s+Engineer"
+    r")(?:\s|\(|$)",
+    re.IGNORECASE,
+)
+
+_SPACEX_NON_SWE_ENGINEER = re.compile(
+    r"\b(?:"
+    r"build(?:\s+reliability)?\s+engineer|"
+    r"automation(?:\s+&\s+controls)?\s+engineer|"
+    r"automation\s+engineer|"
+    r"manufacturing\s+engineer|"
+    r"production\s+engineer|"
+    r"mechanical\s+engineer|"
+    r"avionics\s+systems?\s+engineer|"
+    r"antenna\s+engineer|"
+    r"controls\s+specialist|"
+    r"accounts\s+payable"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_SPACEX_DOMINANT_2YR_ALT = re.compile(
+    r"\bOR\s+2\+?\s*years?\s+of\s+professional\s+experience\b",
+    re.IGNORECASE,
+)
+
+_SPACEX_OR_SENIOR_EXPERIENCE_ALT = re.compile(
+    r"\bOR\s+(?:2|3|4|5)\+?\s*years?\s+of\s+professional\s+experience\b",
+    re.IGNORECASE,
+)
+
+_SPACEX_SWE_TITLE_LOOSE = re.compile(
+    r"(?:^|.*\b)(?:"
+    r"software\s+engineer(?:\s*[,(]|\s*\(|$)|"
+    r"(?:full\s+stack|embedded|flight|security|site\s+reliability|platform|satellite)\s+"
+    r"(?:(?:software|systems)\s+)?engineer|"
+    r"software\s+infrastructure\s+engineer|"
+    r"network\s+software\s+integration\s+engineer|"
+    r"application\s+software\s+engineer|"
+    r"ai\s+software\s+engineer|"
+    r"welding\s+build\s+engineer"
+    r")",
+    re.IGNORECASE,
+)
+
+_AI_RESEARCH_FELLOWSHIP = re.compile(
+    r"\bAI\s+Research\s+Fellowship\b",
     re.IGNORECASE,
 )
 
@@ -372,7 +481,15 @@ _OBVIOUS_NON_TECH = re.compile(
     r"fundamental\s+research\s+fellowship|"
     r"market\s+intelligence\s+emerging\s+talent|"
     r"quantitative\s+portfolio\s+analyst|"
-    r"equity\s+quantitative\s+researcher"
+    r"equity\s+quantitative\s+researcher|"
+    r"trade\s+systems?\s+engineer|"
+    r"options\s+trading\s+systems?\s+engineer|"
+    r"writing\s+specialist|"
+    r"technical\s+advisor|"
+    r"investment\s+analyst|"
+    r"mission\s+control\s+specialist|"
+    r"customer\s+enablement\s+specialist|"
+    r"field\s+application\s+engineer"
     r")\b",
     re.IGNORECASE,
 )
@@ -608,6 +725,8 @@ def _qualifies_open_level_ic(
         or qualifying_early_years(positive, title, ec_friendly_header=ec_header)
     ):
         return True
+    if qualifying_early_years(positive, title, ec_friendly_header=ec_header):
+        return True
     return False
 
 
@@ -627,6 +746,159 @@ def _is_expert_fellowship(title: str, description: str | None) -> bool:
         re.search(r"\bfellow\b", title or "", re.IGNORECASE)
         or _FELLOWSHIP_TITLE.search(title or "")
     )
+
+
+def _title_has_research_ec_marker(title: str) -> bool:
+    if has_explicit_ec_title(title):
+        return True
+    return bool(_RESEARCH_EC_TITLE_MARKER.search(title))
+
+
+def _is_experienced_research_ic(title: str, desc_sig: DescriptionSignals) -> bool:
+    if not _RESEARCH_EC_TITLE.search(title):
+        return False
+    if _title_has_research_ec_marker(title):
+        return False
+    return bool(desc_sig.has_senior_exp or desc_sig.has_min_years_req)
+
+
+def _is_experienced_physical_design_ic(
+    title: str,
+    desc_sig: DescriptionSignals,
+    positive: str,
+) -> bool:
+    if not _PHYSICAL_DESIGN_ENGINEER.search(title):
+        return False
+    if re.search(
+        r"\bintern(ship)?\b|co-?op\b|new\s+college\s+grad",
+        title,
+        re.IGNORECASE,
+    ):
+        return False
+    ec_header = ec_friendly_requirements_header(desc_sig.requirements_text)
+    return not qualifying_early_years(
+        positive,
+        title,
+        ec_friendly_header=ec_header,
+    )
+
+
+def _is_generic_internship_program_title(title: str) -> bool:
+    """Regional or generic internship programs without a technical role name."""
+    if not re.search(r"\binternship\s+program\b", title, re.IGNORECASE):
+        return False
+    if DOMAIN.search(title) or _HARDWARE_INTERN.search(title):
+        return False
+    return True
+
+
+def _is_spacex_posting(company: str | None, url: str | None) -> bool:
+    if company and company.strip().lower() == "spacex":
+        return True
+    return bool(url and "spacex" in url.lower())
+
+
+def _title_has_spacex_ec_marker(title: str) -> bool:
+    return bool(
+        re.search(
+            r"\b(?:intern(ship)?|co-?op|new\s+graduate|level\s+i\b|engineer\s+i\b)\b",
+            title,
+            re.IGNORECASE,
+        )
+    )
+
+
+def _is_spacex_swe_title(title: str) -> bool:
+    text = (title or "").strip()
+    if not text or _SPACEX_NON_SWE_ENGINEER.search(text):
+        return False
+    if _SPACEX_SWE_FAMILY_TITLE.search(text):
+        return True
+    return bool(_SPACEX_SWE_TITLE_LOOSE.search(text))
+
+
+def _qualifies_spacex_swe_early(
+    title: str,
+    description: str | None,
+    positive: str,
+    desc_sig: DescriptionSignals,
+    *,
+    company: str | None,
+    url: str | None,
+) -> bool:
+    """SpaceX SWE-family roles with 1+ yr / in-lieu-of-degree / BS entry bars (recall-first)."""
+    if not _is_spacex_posting(company, url):
+        return False
+    if not _is_spacex_swe_title(title):
+        return False
+    if _title_has_spacex_ec_marker(title):
+        return True
+    if not description or not description.strip():
+        return False
+    blob = f"{title}\n{description}"
+    ec_header = ec_friendly_requirements_header(desc_sig.requirements_text)
+    if _SPACEX_OR_SENIOR_EXPERIENCE_ALT.search(blob) and re.search(
+        r"\bOR\s+3\+?\s*years?\b", blob, re.IGNORECASE
+    ):
+        return False
+    if qualifying_early_years(
+        blob, title, ec_friendly_header=ec_header
+    ) or qualifying_early_years(positive, title, ec_friendly_header=ec_header):
+        if _SPACEX_DOMINANT_2YR_ALT.search(blob) and not (
+            re.search(r"1\+?\s*years?", positive, re.IGNORECASE)
+            or re.search(r"1\+?\s*years?", blob, re.IGNORECASE)
+        ):
+            return False
+        return True
+    if (
+        desc_sig.has_bachelors_req
+        and not desc_sig.has_senior_exp
+        and not desc_sig.has_min_years_req
+        and not _SPACEX_OR_SENIOR_EXPERIENCE_ALT.search(blob)
+    ):
+        if re.search(
+            r"\b(?:BASIC\s+QUALIFICATIONS|MINIMUM\s+QUALIFICATIONS)\b",
+            blob,
+            re.IGNORECASE,
+        ):
+            return True
+    return False
+
+
+def _qualifies_entry_level_research_or_ds(
+    title: str,
+    desc_sig: DescriptionSignals,
+    positive: str,
+) -> bool:
+    """BS/MS research or DS roles without senior YOE bars (Meta-style entry postings)."""
+    if not (
+        _RESEARCH_EC_TITLE.search(title)
+        or re.search(r"\bdata\s+scientist\b", title, re.IGNORECASE)
+    ):
+        return False
+    if _title_has_research_ec_marker(title) or has_explicit_ec_title(title):
+        return False
+    if is_experienced_level_title(title) or is_hard_experienced_ladder(title):
+        return False
+    if desc_sig.has_senior_exp or desc_sig.has_min_years_req:
+        return False
+    if re.search(
+        r"\b(?:3|4|5)\+?\s*years?\s+of\s+(?:professional\s+)?experience\b",
+        positive,
+        re.IGNORECASE,
+    ):
+        return False
+    return bool(desc_sig.has_bachelors_req and desc_sig.requirements_text)
+
+
+def _is_spacex_non_swe_excluded(title: str, *, company: str | None, url: str | None) -> bool:
+    if not _is_spacex_posting(company, url):
+        return False
+    if _title_has_spacex_ec_marker(title):
+        return False
+    if has_explicit_ec_title(title):
+        return False
+    return bool(_SPACEX_NON_SWE_ENGINEER.search(title))
 
 
 def _is_technical_intern(
@@ -662,6 +934,9 @@ class TitleConfidence:
 def classify_title_confidence(
     title: str | None,
     description: str | None = None,
+    *,
+    company: str | None = None,
+    url: str | None = None,
 ) -> TitleConfidence:
     """Classify title confidence for hybrid regex + LLM routing.
 
@@ -695,6 +970,25 @@ def classify_title_confidence(
     if _FINANCE_TRADER.search(title_text):
         return TitleConfidence("high_exclude", False, "non-tech")
 
+    if _TRADE_SYSTEMS_ENGINEER.search(title_text):
+        return TitleConfidence("high_exclude", False, "non-tech")
+
+    if _is_spacex_non_swe_excluded(title_text, company=company, url=url):
+        return TitleConfidence("high_exclude", True, "spacex non-swe role")
+
+    if _qualifies_spacex_swe_early(
+        title_text,
+        description,
+        positive_text,
+        desc_sig,
+        company=company,
+        url=url,
+    ):
+        return TitleConfidence("high_include", True, "spacex early swe credential")
+
+    if _AI_RESEARCH_FELLOWSHIP.search(title_text):
+        return TitleConfidence("high_include", True, "technical fellowship")
+
     if _ENTRY_SUPPORT_ENGINEER.search(title_text):
         pass
     elif _FORWARD_DEPLOYED_ENGINEER.search(title_text) and (
@@ -725,7 +1019,7 @@ def classify_title_confidence(
         return TitleConfidence("high_exclude", False, "senior keyword")
 
     if re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
-        if _NON_TECH_INTERN.search(title_text):
+        if _TECHNICAL_ADVISOR.search(title_text) or _NON_TECH_INTERN.search(title_text):
             return TitleConfidence("high_exclude", False, "non-technical intern")
         if not title_tech:
             if _is_technical_intern(title_text, description, desc_sig):
@@ -737,36 +1031,46 @@ def classify_title_confidence(
             return TitleConfidence("high_include", True, "technical intern program")
         return TitleConfidence("high_exclude", False, "non-technical intern")
 
-    if _FELLOWSHIP_TITLE.search(title_text) or _TECH_FELLOWSHIP_TITLE.search(title_text):
-        if _TECH_FELLOWSHIP_TITLE.search(title_text):
-            return TitleConfidence("high_include", True, "fellowship program")
+    if _TECH_FELLOWSHIP_TITLE.search(title_text):
+        return TitleConfidence("high_include", True, "fellowship program")
+
+    if _CORPORATE_FELLOWS_PROGRAM.search(title_text):
+        return TitleConfidence("high_exclude", False, "corporate fellowship program")
+
+    if _FELLOWSHIP_TITLE.search(title_text):
         if re.search(r"\b(?:information\s+security|security\s+engineering)\b", title_text, re.I):
             if _strong_ec(desc_sig) or desc_sig.has_ec:
                 return TitleConfidence("high_include", True, "technical fellowship")
-        if desc_sig.has_senior_exp or desc_sig.has_min_years_req:
-            return TitleConfidence("high_exclude", True, "experienced fellowship")
-        if is_tech and _strong_ec(desc_sig):
-            if not DOMAIN.search(title_text) and not desc_sig.has_tech_field:
-                return TitleConfidence("high_exclude", False, "non-tech")
-            return TitleConfidence("high_include", True, "fellowship program")
+        return TitleConfidence("high_exclude", False, "corporate fellowship program")
 
     if _POST_TRAINING.search(title_text) and is_tech:
-        if _SENIOR_POST_TRAINING_TITLE.search(title_text) and not re.search(
-            r"\bintern(ship)?\b", title_text, re.IGNORECASE
-        ):
+        if not re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
             return TitleConfidence("high_exclude", True, "senior post-training role")
-        if _POST_TRAINING.search(positive_text) or (
-            description and _POST_TRAINING.search(description)
-        ):
-            return TitleConfidence("high_include", True, "post-training program")
+
+    if (
+        _NETWORK_ENGINEER_TITLE.search(title_text)
+        and not re.search(r"\bintern(ship)?\b|co-?op\b", title_text, re.IGNORECASE)
+    ):
+        return TitleConfidence("high_exclude", True, "non-ec network engineer")
 
     if re.search(r"\binternship\s+program\b", title_text, re.IGNORECASE) and not title_tech:
+        if _is_generic_internship_program_title(title_text):
+            return TitleConfidence("high_exclude", False, "non-technical intern")
         if _is_technical_intern(title_text, description, desc_sig):
             return TitleConfidence("high_include", True, "technical intern program")
         return TitleConfidence("high_exclude", False, "non-technical intern")
 
-    if re.search(r"\barchitect\b", title_text, re.IGNORECASE) and not desc_sig.has_strong_ec:
-        return TitleConfidence("high_exclude", False, "senior keyword")
+    if re.search(r"\barchitect\b", title_text, re.IGNORECASE):
+        if _NEW_COLLEGE_GRAD_TITLE.search(title_text):
+            pass
+        elif not desc_sig.has_strong_ec:
+            return TitleConfidence("high_exclude", False, "senior keyword")
+
+    if _is_experienced_physical_design_ic(title_text, desc_sig, positive_text):
+        return TitleConfidence("high_exclude", True, "experienced hardware ic")
+
+    if _is_experienced_research_ic(title_text, desc_sig):
+        return TitleConfidence("high_exclude", True, "experienced research role")
 
     _ec_friendly_header = ec_friendly_requirements_header(desc_sig.requirements_text)
     _early_years = qualifying_early_years(
@@ -904,8 +1208,6 @@ def classify_title_confidence(
 
     if is_tech and (
         desc_sig.has_bachelors_req
-        and not desc_sig.has_senior_exp
-        and not desc_sig.has_min_years_req
         and desc_sig.requirements_text
         and _RESEARCH_EC_TITLE.search(title_text)
     ):
@@ -916,18 +1218,36 @@ def classify_title_confidence(
             re.IGNORECASE,
         ):
             return TitleConfidence("high_exclude", True, "senior experience required")
-        return TitleConfidence("high_include", True, "research degree requirements")
+        if not _title_has_research_ec_marker(title_text):
+            if desc_sig.has_senior_exp or desc_sig.has_min_years_req:
+                return TitleConfidence("high_exclude", True, "experienced research role")
+        elif not desc_sig.has_senior_exp and not desc_sig.has_min_years_req:
+            return TitleConfidence("high_include", True, "research degree requirements")
 
     if is_tech and _RESEARCH_EC_TITLE.search(title_text):
         if description and re.search(r"\bat all levels\b", description, re.IGNORECASE):
-            return TitleConfidence("high_include", True, "research open level")
+            if _title_has_research_ec_marker(title_text):
+                return TitleConfidence("high_include", True, "research open level")
 
     if is_tech:
+        if _qualifies_entry_level_research_or_ds(title_text, desc_sig, positive_text):
+            return TitleConfidence("high_include", True, "entry-level research or ds")
         if _qualifies_open_level_ic(title_text, desc_sig, description, positive_text):
             return TitleConfidence("high_include", True, "open-level technical ic")
         if desc_sig.requirements_text and not desc_sig.has_ec:
             return TitleConfidence("high_exclude", True, "no ec in requirements")
         if not description or not description.strip():
+            if (
+                has_explicit_ec_title(title_text)
+                and title_tech
+                and not _RESEARCH_EC_TITLE.search(title_text)
+            ):
+                return TitleConfidence("high_include", True, "title-only ec technical")
+            if (
+                _RESEARCH_EC_TITLE.search(title_text)
+                and not _title_has_research_ec_marker(title_text)
+            ):
+                return TitleConfidence("high_exclude", True, "experienced research role")
             return TitleConfidence("high_exclude", True, "no description")
         if not desc_sig.requirements_text:
             body = scan_full_description(description)
@@ -961,6 +1281,14 @@ _DESCRIPTION_NOT_NEEDED_REASONS = frozenset({
     "experienced mts title",
     "experienced mts role",
     "senior post-training role",
+    "corporate fellowship program",
+    "non-ec network engineer",
+    "experienced hardware ic",
+    "experienced research role",
+    "spacex non-swe role",
+    "spacex early swe credential",
+    "entry-level research or ds",
+    "title-only ec technical",
     "minimum experience required",
     "senior experience required",
     "ec but non-technical title",

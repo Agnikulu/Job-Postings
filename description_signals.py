@@ -225,6 +225,21 @@ _RESEARCH_TITLE = re.compile(
     re.IGNORECASE,
 )
 
+_SOFTWARE_FAMILY_TITLE = re.compile(
+    r"\b(?:(?:application|embedded|ai|backend|frontend|full[\s-]?stack|wireless)\s+)?"
+    r"(?:software\s+engineer|network\s+software\s+integration\s+engineer)\b",
+    re.IGNORECASE,
+)
+
+_SPACEX_CREDENTIAL_BAR = re.compile(
+    r"(?:"
+    r"1\+?\s*years?(?:\s+of)?(?:\s+[\w/]+\s+){0,8}(?:experience|building)|"
+    r"in\s+lieu\s+of\s+a\s+degree|"
+    r"including\s+internship"
+    r")",
+    re.IGNORECASE,
+)
+
 _MOBILE_ENGINEER_TITLE = re.compile(
     r"\b(?:mobile|android|ios)\s+engineer\b",
     re.IGNORECASE,
@@ -514,9 +529,12 @@ def qualifying_early_years(
     ec_friendly_header: bool = False,
 ) -> bool:
     """Low years-of-experience bars that count as EC only in friendly contexts."""
+    title_text = title or ""
+    if text and _SOFTWARE_FAMILY_TITLE.search(title_text):
+        if _EARLY_YEARS_EC.search(text) or _SPACEX_CREDENTIAL_BAR.search(text):
+            return True
     if not text or not _EARLY_YEARS_EC.search(text):
         return False
-    title_text = title or ""
     if _RESEARCH_TITLE.search(title_text):
         return True
     if _MOBILE_ENGINEER_TITLE.search(title_text):

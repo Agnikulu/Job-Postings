@@ -6,6 +6,9 @@ Regression (frozen labels, full per-ATS sample):
     python _cursor_manual_eval.py rescore
     python _cursor_manual_eval.py score
 
+Full corpus (all postings from every company — use before hand-labeling):
+    python _cursor_manual_eval.py fetch-full
+
 Discovery (borderline + regex-positive biased sample, actionable report):
     python _cursor_manual_eval.py fetch-discovery --max-jobs 600
     python _cursor_manual_eval.py discovery-label
@@ -128,6 +131,7 @@ def _regex_include(
         location=location,
         url=url,
         description=description,
+        # Eval scores regex title/description logic; production still applies US gate.
         us_only=False,
     )
     return result.include, result.reason or "", result.source
@@ -222,6 +226,15 @@ def _write_jsonl(path: Path, rows: list[dict]) -> None:
             fh.write(json.dumps(row, ensure_ascii=False) + "\n")
 
 
+def _append_jsonl(path: Path, rows: list[dict]) -> None:
+    if not rows:
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a", encoding="utf-8") as fh:
+        for row in rows:
+            fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+
 def cmd_fetch(
     *,
     per_company: int,
@@ -238,6 +251,10 @@ def cmd_fetch(
         log(f"Fetching {len(companies)} companies, up to {per_company} jobs each...")
     t0 = time.time()
     rows: list[dict] = []
+    incremental = bool(os.environ.get("ATS_SNIPER_EVAL_FETCH_INCREMENTAL", "").strip() in {"1", "true", "yes"})
+    if incremental:
+        JOBS_PATH.parent.mkdir(parents=True, exist_ok=True)
+        JOBS_PATH.write_text("", encoding="utf-8")
 
     if per_ats:
         by_ats: dict[str, list[dict]] = defaultdict(list)
@@ -273,21 +290,40 @@ def cmd_fetch(
             if err:
                 log(f"  [{done}/{len(companies)}] FAIL {name}: {err}")
                 continue
+            batch: list[dict] = []
             for j in jobs:
                 if not j.url:
                     continue
                 inc, reason, source = _regex_include(
                     j.company, j.title, j.location, j.description, j.url
                 )
-                rows.append(_job_row(j, regex_inc=inc, regex_reason=reason, regex_source=source))
-            log(f"  [{done}/{len(companies)}] {name}: {len(jobs)} jobs")
+                row = _job_row(j, regex_inc=inc, regex_reason=reason, regex_source=source)
+                rows.append(row)
+                batch.append(row)
+            if incremental and batch:
+                _append_jsonl(JOBS_PATH, batch)
+            log(
+                f"  [{done}/{len(companies)}] {name}: {len(jobs)} jobs "
+                f"(corpus {len(rows)} total)"
+            )
 
-    _write_jsonl(JOBS_PATH, rows)
+    if not incremental or not rows:
+        _write_jsonl(JOBS_PATH, rows)
     regex_inc = sum(1 for r in rows if r["regex_include"])
     log(
         f"Done in {(time.time()-t0)/60:.1f} min — {len(rows)} jobs "
         f"({regex_inc} regex includes) → {JOBS_PATH.name}"
     )
+
+
+def cmd_fetch_full(*, max_companies: int | None = None) -> None:
+    """Fetch every posting from every active company (no per-ATS cap).
+
+    Typical size: ~8k–25k jobs depending on board sizes. Writes incrementally
+  so progress survives long runs (LinkedIn serial + large Greenhouse boards).
+    """
+    os.environ["ATS_SNIPER_EVAL_FETCH_INCREMENTAL"] = "1"
+    cmd_fetch(per_company=1_000_000, max_companies=max_companies, per_ats=None)
 
 
 def cmd_fetch_discovery(*, max_jobs: int, pool_per_company: int, max_companies: int | None) -> None:
@@ -685,6 +721,12 @@ def main() -> int:
     f.add_argument("--per-ats", type=int, default=None)
     f.add_argument("--max-companies", type=int, default=None)
 
+    ff = sub.add_parser(
+        "fetch-full",
+        help="All jobs from all companies (~8k–25k); incremental write to cursor_eval_jobs.jsonl",
+    )
+    ff.add_argument("--max-companies", type=int, default=None)
+
     fd = sub.add_parser("fetch-discovery")
     fd.add_argument("--max-jobs", type=int, default=600)
     fd.add_argument("--pool-per-company", type=int, default=60)
@@ -713,6 +755,9 @@ def main() -> int:
     args = p.parse_args()
     random.seed(42)
 
+    if args.cmd == "fetch-full":
+        cmd_fetch_full(max_companies=getattr(args, "max_companies", None))
+        return 0
     if args.cmd == "fetch":
         cmd_fetch(
             per_company=args.per_company,

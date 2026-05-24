@@ -48,13 +48,16 @@ def classify_job_fields(
     us_only: bool = True,
 ) -> JobClassification:
     """Classify a single posting by title, description, and location."""
-    del company, url  # reserved for future company-specific rules
-
     if is_obvious_reject(title):
         return _prefilter_reject(title or "")
 
     resolved_location = (location or "").strip()
-    confidence = classify_title_confidence(title, description)
+    confidence = classify_title_confidence(
+        title,
+        description,
+        company=company,
+        url=url,
+    )
     include = confidence.level == "high_include"
 
     req = extract_requirements_text(description)

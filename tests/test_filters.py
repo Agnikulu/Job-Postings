@@ -449,3 +449,181 @@ def test_full_description_domain_does_not_inflate_borderline() -> None:
 ])
 def test_is_location_ambiguous(location: str, expected: bool) -> None:
     assert is_location_ambiguous(location) is expected
+
+
+# --- Eval-driven precision fixes (2026-05) ------------------------------------
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Writing Specialist",
+        "Technical Advisor Specialist (Part-Time Internship)",
+        "2027 Point72 Academy Investment Analyst Summer Internship Program",
+        "Mission Control Specialist",
+        "Customer Enablement Specialist",
+        "Field Application Engineer - New College Graduate 2026",
+        "Anthropic Fellows Program",
+        "Anthropic Fellows Program, AI Safety",
+        "UK Internship Program",
+        "Network Engineer",
+        "Software Engineer, Post-Training Research",
+        "Researcher, Agent Post-Training",
+    ],
+)
+def test_eval_precision_excludes(title: str) -> None:
+    conf = classify_title_confidence(
+        title,
+        "Minimum qualifications: 5+ years of experience. PhD required.",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_anthropic_fellows_not_included_with_ec_requirements() -> None:
+    conf = classify_title_confidence(
+        "Anthropic Fellows Program",
+        "New grads welcome. Bachelor's degree required.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "corporate fellowship program"
+
+
+def test_tech_fellowship_still_included() -> None:
+    conf = classify_title_confidence("American Tech Fellowship for Veterans")
+    assert conf.level == "high_include"
+
+
+def test_physical_design_excluded_without_ec_bar() -> None:
+    conf = classify_title_confidence(
+        "Physical Design Engineer",
+        "Minimum qualifications: Bachelor's degree. 4+ years in physical design.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "experienced hardware ic"
+
+
+def test_physical_design_intern_still_included() -> None:
+    conf = classify_title_confidence(
+        "Physical Design Engineer Intern - Fall 2026",
+        "Currently enrolled in a Bachelor's program.",
+    )
+    assert conf.level == "high_include"
+
+
+def test_research_engineer_excluded_with_senior_yoe() -> None:
+    conf = classify_title_confidence(
+        "Research Engineer, Pretraining",
+        "Minimum qualifications: PhD plus 3 years of ML research experience.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "experienced research role"
+
+
+def test_research_intern_still_included() -> None:
+    conf = classify_title_confidence(
+        "Research Scientist Intern - Summer 2026",
+        "Currently pursuing a PhD in Computer Science.",
+    )
+    assert conf.level == "high_include"
+
+
+def test_network_ops_residency_not_blocked() -> None:
+    conf = classify_title_confidence(
+        "Network Operations Residency Program, University Graduate, 2026 Start",
+        "Bachelor's degree required. No prior experience required.",
+    )
+    assert conf.reason != "non-ec network engineer"
+
+
+def test_nvidia_ncg_architect_not_senior_keyword() -> None:
+    conf = classify_title_confidence(
+        "GPU System and Scheduling Architect - New College Grad 2026",
+        "Bachelor's or Master's degree. New college grad hiring.",
+    )
+    assert conf.level != "high_exclude" or conf.reason != "senior keyword"
+
+
+def test_spacex_application_swe_included_with_bar() -> None:
+    desc = (
+        "Bachelor's degree; OR 2+ years of professional experience building software "
+        "in lieu of a degree. 1+ years of experience in full stack development."
+    )
+    conf = classify_title_confidence(
+        "Application Software Engineer",
+        desc,
+        company="SpaceX",
+    )
+    assert conf.level == "high_include"
+    assert conf.reason == "spacex early swe credential"
+
+
+def test_spacex_build_engineer_excluded() -> None:
+    conf = classify_title_confidence(
+        "Build Engineer (Starship)",
+        "1+ years of experience in manufacturing environments.",
+        company="SpaceX",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "spacex non-swe role"
+
+
+def test_spacex_comma_swe_requires_early_bar() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer, Starlink Network",
+        "Bachelor's degree in computer science required.",
+        company="SpaceX",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_research_engineer_pretraining_excluded() -> None:
+    conf = classify_title_confidence(
+        "Research Engineer, Pretraining",
+        "Minimum qualifications: PhD plus 3 years of ML research experience.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "experienced research role"
+
+
+def test_spacex_comma_swe_included_with_bachelor_qual() -> None:
+    desc = (
+        "BASIC QUALIFICATIONS: Bachelor's degree in computer science and "
+        "1+ year of industry and/or internship experience."
+    )
+    conf = classify_title_confidence(
+        "Software Engineer, Starlink Growth",
+        desc,
+        company="SpaceX",
+    )
+    assert conf.level == "high_include"
+
+
+def test_spacex_embedded_with_or_3yr_excluded() -> None:
+    desc = (
+        "BASIC QUALIFICATIONS: Bachelor's degree and 1+ years of experience; "
+        "OR 3+ years of professional experience in software engineering."
+    )
+    conf = classify_title_confidence(
+        "Embedded Software Engineer (Starlink)",
+        desc,
+        company="SpaceX",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_meta_entry_research_engineer_included() -> None:
+    conf = classify_title_confidence(
+        "Research Engineer, Monetization AI",
+        "Minimum qualifications: Bachelor's degree in CS. "
+        "We are looking for strong engineers to join our team.",
+    )
+    assert conf.level == "high_include"
+    assert conf.reason == "entry-level research or ds"
+
+
+def test_doordash_ai_research_fellowship_included() -> None:
+    conf = classify_title_confidence(
+        "AI Research Fellowship, (Summer and Fall 2026)",
+        "Undergraduate or graduate students pursuing technical degrees.",
+    )
+    assert conf.level == "high_include"

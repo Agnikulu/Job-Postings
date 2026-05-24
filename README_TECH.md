@@ -192,11 +192,17 @@ Two modes:
 Track **precision on regex-positive** jobs (not accuracy — most rows are true negatives). Gold regressions: `testing/eval/eval_gold.jsonl` + `pytest tests/test_eval_regression.py`.
 
 ```bash
+# Full corpus for hand-labeling (all postings, ~8k–25k jobs; 30–90 min)
+python testing/scripts/_cursor_manual_eval.py fetch-full
+
+# Regression sample (capped per ATS type — NOT the full corpus)
+python testing/scripts/_cursor_manual_eval.py fetch --per-ats 200
+
 # Full local run (deterministic labels, no API key)
 set ATS_SNIPER_EVAL_DETERMINISTIC=1
 python testing/scripts/_cursor_manual_eval.py run --per-ats 80
 
-# Or step-by-step
+# Or step-by-step (sample eval)
 python testing/scripts/_cursor_manual_eval.py fetch --per-ats 200
 python testing/scripts/_llm_eval_label.py label
 python testing/scripts/_cursor_manual_eval.py rescore
