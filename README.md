@@ -14,10 +14,10 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 258
-- **All-time tracked:** 283
+- **Open positions:** 263
+- **All-time tracked:** 292
 - **Active companies:** 75
-- **Last updated:** `2026-05-24 01:20 UTC`
+- **Last updated:** `2026-05-24 03:31 UTC`
 
 ## Legend
 
@@ -31,19 +31,22 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| Meta | Research Engineer, Monetization AI 🇺🇸 | Sunnyvale, CA | - | [Apply](https://www.linkedin.com/jobs/view/4356840765) | May 24, 2026 |
-| Meta | Research Engineer, Monetization AI 🇺🇸 | Burlingame, CA | - | [Apply](https://www.linkedin.com/jobs/view/4356672076) | May 24, 2026 |
-| Meta | AI Research Engineer 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4395566473) | May 24, 2026 |
-| Meta | AI Research Scientist, VLM (vision language models) 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4120822597) | May 23, 2026 |
-| Meta | Research Engineer, Monetization AI 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4358010312) | May 23, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | Sunnyvale, CA | - | [Apply](https://www.linkedin.com/jobs/view/4355681487) | May 24, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | United States | - | [Apply](https://www.linkedin.com/jobs/view/4405519448) | May 24, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | Boston, MA | - | [Apply](https://www.linkedin.com/jobs/view/4389186308) | May 24, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4356649709) | May 24, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | San Francisco, CA | - | [Apply](https://www.linkedin.com/jobs/view/4404138808) | May 24, 2026 |
+| Meta | Research Engineer, Monetization AI 🇺🇸 | Burlingame, CA | - | [Apply](https://www.linkedin.com/jobs/view/4389176662) | May 24, 2026 |
+| Meta | AI Research Scientist, CoreML - Monetization AI 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4376251687) | May 24, 2026 |
+| Meta | Network Engineer, Operations & Support 🇺🇸 | El Paso, TX | - | [Apply](https://www.linkedin.com/jobs/view/4405194613) | May 24, 2026 |
+| Meta | Hardware Test & Automation Engineer 🇺🇸 | Redmond, WA | - | [Apply](https://www.linkedin.com/jobs/view/4403760434) | May 24, 2026 |
 | Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Menlo Park, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4302643436) | May 23, 2026 |
-| Meta | Research Engineer, Monetization AI 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4356760986) | May 23, 2026 |
 | Meta | Research Scientist Intern PhD, Applied Research 🇺🇸 | Menlo Park, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350155408) | May 23, 2026 |
-| Meta | Software Engineer, Machine Learning 🇺🇸 | United States | - | [Apply](https://www.linkedin.com/jobs/view/4255818024) | May 23, 2026 |
 | Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Seattle, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4324778842) | May 23, 2026 |
-| Meta | Research Scientist Intern PhD, Applied Research 🇺🇸 | New York, NY | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350195363) | May 23, 2026 |
 | Meta | AI Research Scientist, Audio-Visual Understanding, FAIR 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4363129229) | May 23, 2026 |
+| Meta | AI Research Scientist, Robotics 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4286775701) | May 23, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | New York, NY | Intern | [Apply](https://www.linkedin.com/jobs/view/4312031471) | May 23, 2026 |
+| Meta | AI Research Scientist, Robotics 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4352143392) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | Washington, D.C. | Intern | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) | May 23, 2026 |
 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial 🇺🇸 | New York, NY | Intern | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) | May 23, 2026 |
@@ -59,18 +62,21 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Field Application Engineer - New College Graduate 2026 🇺🇸 | 4 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Field-Application-Engineer---New-College-Graduate-2026_JR2018580) | May 23, 2026 |
 | Meta | Research Scientist Intern, Machine Perception for Input and Interaction (PhD) 🇺🇸 | Redmond, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4295617161) | May 23, 2026 |
 | Meta | Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸 | Burlingame, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350245449) | May 23, 2026 |
-| Meta | AI Research Engineer - Social Products (Technical Leadership) 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4398688884) | May 23, 2026 |
 | Luma AI | Software Engineer - Product 🇺🇸 | SF Bay Area, CA | - | [Apply](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) | May 23, 2026 |
+| Meta | Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸 | Redmond, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4291466172) | May 23, 2026 |
 | Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Bellevue, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4301800816) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Bellevue, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312023968) | May 23, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Menlo Park, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312033417) | May 23, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Boston, MA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312039282) | May 23, 2026 |
+| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312043129) | May 23, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | San Francisco, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4324709679) | May 23, 2026 |
+| CoreWeave | Software Engineer, Inference AI/ML 🇺🇸 | Sunnyvale, CA / Bellevue, WA | - | [Apply](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) | May 23, 2026 |
+| CoreWeave | Operations Engineer, HPC Networking 🇺🇸 | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | - | [Apply](https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006) | May 23, 2026 |
 | Anduril | Electrical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | May 23, 2026 |
 | Uber | Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), Reservations 🇺🇸 | Seattle, Washington, United States | PhD | [Apply](https://www.uber.com/careers/list/158984) | May 22, 2026 |
 | Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581) | May 22, 2026 |
 | Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 22, 2026 |
 | DoorDash | DoorDash for Business Support Representative 🇺🇸 | Tempe, AZ | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7768489) | May 22, 2026 |
-| CoreWeave | Operations Engineer, HPC Networking 🇺🇸 | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | - | [Apply](https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006) | May 22, 2026 |
 | Anduril | Security Software Engineer 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5134986007?gh_jid=5134986007) | May 22, 2026 |
 | Anduril | Mechanical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007) | May 22, 2026 |
 | Anduril | Maritime Operations Engineer - Mission Autonomy 🇺🇸 | Channel Islands, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5069872007?gh_jid=5069872007) | May 22, 2026 |
@@ -113,7 +119,6 @@ how to fork, how to add companies, and how filtering works.
 | DoorDash | Composite & Prototype Engineering Technician 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7650045) | May 21, 2026 |
 | DoorDash | Associate Strategic Account Development Executive - Platform 🇺🇸 | Tempe, AZ<br>Atlanta, GA<br>Phoenix, AZ<br>Houston, TX<br>Dallas, TX Tampa, FL<br>Orlando, FL<br>Raleigh, NC<br>Charlotte, NC<br>Charleston, SC<br>Las Vegas, NV<br>Salt Lake City, UT | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7863361) | May 21, 2026 |
 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) 🇺🇸 | San Francisco, CA | - | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) | May 21, 2026 |
-| CoreWeave | Software Engineer, Inference AI/ML 🇺🇸 | Sunnyvale, CA / Bellevue, WA | - | [Apply](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) | May 21, 2026 |
 | Anduril | Mission Operations Engineer, Connected Warfare (Active Clearance) 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007) | May 21, 2026 |
 | Anduril | Mission Operations Engineer, Connected Warfare (Active Clearance) 🇺🇸 | Washington, District of Columbia, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4182443007?gh_jid=4182443007) | May 21, 2026 |
 | Anduril | Mission Operations Engineer 🇺🇸 | Atlanta, Georgia, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007) | May 21, 2026 |
@@ -292,16 +297,21 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (25)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (29)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~Meta~~ | ~~Research Engineer, Monetization AI 🇺🇸~~ | Burlingame, CA | - | Closed | May 24, 2026 |
+| ~~Meta~~ | ~~Research Engineer, Monetization AI 🇺🇸~~ | Sunnyvale, CA | - | Closed | May 24, 2026 |
+| ~~Meta~~ | ~~AI Research Engineer 🇺🇸~~ | New York, NY | - | Closed | May 24, 2026 |
 | ~~Meta~~ | ~~AI Research Engineer - Social Products (Technical Leadership) 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
+| ~~Meta~~ | ~~AI Research Scientist, VLM (vision language models) 🇺🇸~~ | Bellevue, WA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, CoreML - Monetization AI 🇺🇸~~ | Sunnyvale, CA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, CoreML - Monetization AI 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, Robotics 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, Robotics 🇺🇸~~ | Burlingame, CA | - | Closed | May 23, 2026 |
+| ~~Meta~~ | ~~Research Engineer, Monetization AI 🇺🇸~~ | Bellevue, WA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Software Engineer, AI Native 🇺🇸~~ | New York, NY | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Research Engineer, Monetization AI 🇺🇸~~ | New York, NY | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Engineer 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
@@ -312,15 +322,14 @@ how to fork, how to add companies, and how filtering works.
 | ~~Meta~~ | ~~AI Research Scientist, Robotics 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Research Scientist, Artificial Intelligence 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Software Engineer, Machine Learning 🇺🇸~~ | Bellevue, WA | - | Closed | May 23, 2026 |
+| ~~Meta~~ | ~~Research Engineer, Monetization AI 🇺🇸~~ | Bellevue, WA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, CoreML - Monetization AI 🇺🇸~~ | Bellevue, WA | - | Closed | May 23, 2026 |
+| ~~Meta~~ | ~~Software Engineer, Machine Learning 🇺🇸~~ | United States | - | Closed | May 23, 2026 |
+| ~~Meta~~ | ~~Research Scientist Intern PhD, Applied Research 🇺🇸~~ | New York, NY | PhD, Intern | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, Media Data Research - MSL FAIR 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~Research Scientist, Artificial Intelligence 🇺🇸~~ | San Francisco, CA | - | Closed | May 23, 2026 |
-| ~~Meta~~ | ~~AI Research Scientist, Robotics 🇺🇸~~ | Menlo Park, CA | - | Closed | May 23, 2026 |
-| ~~Meta~~ | ~~AI Research Scientist, Robotics 🇺🇸~~ | New York, NY | - | Closed | May 23, 2026 |
+| ~~Meta~~ | ~~AI Research Engineer - Social Products (Technical Leadership) 🇺🇸~~ | Bellevue, WA | - | Closed | May 23, 2026 |
 | ~~Meta~~ | ~~AI Research Scientist, Robotics 🇺🇸~~ | Redmond, WA | - | Closed | May 23, 2026 |
-| ~~Meta~~ | ~~Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸~~ | Redmond, WA | PhD, Intern | Closed | May 23, 2026 |
-| ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | Bellevue, WA | Intern | Closed | May 23, 2026 |
-| ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | Seattle, WA | Intern | Closed | May 23, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Apple Player 🇺🇸~~ | Los Gatos,California,United States of America | - | Closed | May 20, 2026 |
 
 </details>
