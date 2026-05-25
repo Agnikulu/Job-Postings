@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-25 10:00 UTC  
+**Run timestamp:** 2026-05-25 11:59 UTC  
 **New matches this run:** 2  
 **Location filter:** US-only
 
@@ -8,10 +8,7 @@
 Grouped by company (sorted by match count):
 
 
-## Amazon Web Services (AWS) - 1 new (1 technical)
+## Meta - 2 new (2 technical)
 
-- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4408246778) - *Seattle, WA*
-
-## Meta - 1 new (1 technical)
-
-- **[TECH]** [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4255809904) - *Sunnyvale, CA*
+- **[TECH]** [Fundamental AI Researcher - FAIR](https://www.linkedin.com/jobs/view/4403726002) - *Seattle, WA*
+- **[TECH]** [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4261119736) - *Santa Clara, CA*
