@@ -1,22 +1,26 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-25 06:07 UTC  
-**New matches this run:** 4  
+**Run timestamp:** 2026-05-25 08:27 UTC  
+**New matches this run:** 5  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Meta - 2 new (2 technical)
+## Amazon Web Services (AWS) - 2 new (2 technical)
 
-- **[TECH]** [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4255818024) - *United States*
-- **[TECH]** [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4255814153) - *Menlo Park, CA*
+- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4410259624) - *Brooklyn, NY*
+- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4412412352) - *Brooklyn, NY*
 
-## Nvidia - 1 new (1 technical)
+## Meta - 1 new (1 technical)
 
-- **[TECH]** [System Software Engineer - Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2018651) - *6 Locations*
+- **[TECH]** [Hardware Electrical Engineer](https://www.linkedin.com/jobs/view/4404145493) - *Sunnyvale, CA*
 
-## SpaceX - 1 new (1 technical)
+## Microsoft - 1 new (1 technical)
 
-- **[TECH]** [Aerodynamics Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002) - *Starbase, TX*
+- **[TECH]** [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556638637) - *Bengaluru, KA, IN*
+
+## Tesla - 1 new (1 technical)
+
+- **[TECH]** [Industrial Engineer, Outbound Flow & Optimization](https://www.linkedin.com/jobs/view/4418656210) - *Austin, TX*
