@@ -131,8 +131,8 @@ def _regex_include(
         location=location,
         url=url,
         description=description,
-        # Eval scores regex title/description logic; production still applies US gate.
-        us_only=False,
+        # Match production: title/description classify + US location gate.
+        us_only=True,
     )
     return result.include, result.reason or "", result.source
 

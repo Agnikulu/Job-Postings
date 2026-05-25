@@ -281,10 +281,10 @@ def test_technical_support_engineer_1_included() -> None:
     assert conf.level == "high_include"
 
 
-def test_tech_fellowship_included() -> None:
+def test_veterans_tech_fellowship_excluded() -> None:
     conf = classify_title_confidence("American Tech Fellowship for Veterans")
-    assert conf.level == "high_include"
-    assert conf.reason == "fellowship program"
+    assert conf.level == "high_exclude"
+    assert conf.reason == "corporate fellowship program"
 
 
 def test_group_leader_excluded() -> None:
@@ -488,9 +488,6 @@ def test_anthropic_fellows_not_included_with_ec_requirements() -> None:
     assert conf.reason == "corporate fellowship program"
 
 
-def test_tech_fellowship_still_included() -> None:
-    conf = classify_title_confidence("American Tech Fellowship for Veterans")
-    assert conf.level == "high_include"
 
 
 def test_physical_design_excluded_without_ec_bar() -> None:
@@ -516,7 +513,7 @@ def test_research_engineer_excluded_with_senior_yoe() -> None:
         "Minimum qualifications: PhD plus 3 years of ML research experience.",
     )
     assert conf.level == "high_exclude"
-    assert conf.reason == "experienced research role"
+    assert conf.reason == "senior post-training role"
 
 
 def test_research_intern_still_included() -> None:
@@ -582,7 +579,7 @@ def test_research_engineer_pretraining_excluded() -> None:
         "Minimum qualifications: PhD plus 3 years of ML research experience.",
     )
     assert conf.level == "high_exclude"
-    assert conf.reason == "experienced research role"
+    assert conf.reason == "senior post-training role"
 
 
 def test_spacex_comma_swe_included_with_bachelor_qual() -> None:
@@ -627,3 +624,39 @@ def test_doordash_ai_research_fellowship_included() -> None:
         "Undergraduate or graduate students pursuing technical degrees.",
     )
     assert conf.level == "high_include"
+
+
+def test_cumberland_swe_excluded() -> None:
+    conf = classify_title_confidence(
+        "Software Engineer, Cumberland/FICCO Tools Engineering",
+        "Bachelor's degree. 2+ years of software development experience.",
+    )
+    assert conf.level == "high_exclude"
+
+
+def test_pretraining_research_title_excluded() -> None:
+    conf = classify_title_confidence(
+        "Research Engineer / Research Scientist, Pre-training",
+        "Bachelor's degree in CS.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "senior post-training role"
+
+
+def test_trade_compliance_intern_excluded() -> None:
+    conf = classify_title_confidence(
+        "Global Trade Compliance Intern (Summer 2026)",
+        "Undergraduate student in business or supply chain.",
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "non-technical intern"
+
+
+def test_uk_internship_program_excluded() -> None:
+    conf = classify_title_confidence(
+        "UK Internship Program",
+        "Summer internships across our London office.",
+    )
+    assert conf.level == "high_exclude"
+
+

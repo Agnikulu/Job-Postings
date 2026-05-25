@@ -48,7 +48,7 @@ def test_eval_metrics_not_below_baseline() -> None:
             location=job.get("location"),
             url=job.get("url"),
             description=job.get("description"),
-            us_only=False,
+            us_only=True,
         )
         predicted = result.include
         expected = bool(lab["manual_include"])

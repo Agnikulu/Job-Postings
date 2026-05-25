@@ -1,8 +1,8 @@
 {
-  "precision": 0.406,
-  "recall": 0.964,
-  "tp": 405,
-  "fp": 593,
-  "fn": 15,
-  "note": "Floor for regression: neither metric may drop more than 0.005 below these values after classifier changes."
+  "precision": 0.529,
+  "recall": 0.95,
+  "tp": 399,
+  "fp": 355,
+  "fn": 21,
+  "note": "Floor for regression: neither metric may drop more than 0.005 below these values. Eval uses us_only=True (production-aligned)."
 }

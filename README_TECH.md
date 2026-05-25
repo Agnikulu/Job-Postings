@@ -184,12 +184,30 @@ Discord alerts only fire for **new** URLs (not already in `seen_jobs.json`). Aft
 
 ### Manual eval vs regex (`testing/eval/`)
 
-Two modes:
+Hand-labeled corpus: `cursor_eval_jobs.jsonl` + `cursor_eval_labels.jsonl` (~25k URLs). Classifier changes are tuned against **precision on regex-positive** rows (TP/(TP+FP)), not accuracy (most rows are true negatives).
+
+**Production-aligned scoring:** `rescore` and `score` call `classify_job_fields(..., us_only=True)` — same US location gate as live Discord alerts. Eval metrics below use that gate.
+
+| Metric (full labeled corpus) | Value |
+|------------------------------|-------|
+| Precision (regex+) | **52.9%** (399 TP / 754 includes) |
+| Recall | **95.0%** (399 / 420 manual includes) |
+| FP / FN | 355 / 21 |
+
+Floors are locked in `testing/eval/eval_baseline.json`; CI-style check:
+
+```bash
+pytest tests/test_eval_metrics_floor.py -q   # ~2 min, full corpus
+```
+
+**Regression guards:** `testing/eval/eval_gold.jsonl` (must-keep include/exclude cases) + `pytest tests/test_eval_regression.py -q`.
+
+**Recent safe precision rules** (in `filters.py`, recall-neutral on gold): Cumberland/FICCO quant titles, pre-/post-training research titles, economic-research / FICCO research blocks, non-tech intern patterns (compliance, coordinator, trade compliance), UK generic internship program, veterans tech fellowship.
+
+Two eval modes:
 
 1. **Regression** — per-ATS sample (`fetch --per-ats 200`) with labels in `cursor_eval_labels.jsonl`.
 2. **Discovery** — biased sample (`fetch-discovery`) overweighting regex positives, borderline titles, and new adapters; outputs `eval_recommendations.md` with grouped FP/FN fixes.
-
-Track **precision on regex-positive** jobs (not accuracy — most rows are true negatives). Gold regressions: `testing/eval/eval_gold.jsonl` + `pytest tests/test_eval_regression.py`.
 
 ```bash
 # Full corpus for hand-labeling (all postings, ~8k–25k jobs; 30–90 min)
@@ -209,7 +227,7 @@ python testing/scripts/_cursor_manual_eval.py rescore
 python testing/scripts/_cursor_manual_eval.py score
 python testing/scripts/_cursor_manual_eval.py sync-gold
 python testing/scripts/_eval_metrics.py
-pytest tests/test_eval_regression.py -q
+pytest tests/test_eval_regression.py tests/test_eval_metrics_floor.py -q
 
 # Discovery-only (after fetch)
 python testing/scripts/_cursor_manual_eval.py fetch-discovery --max-jobs 600

@@ -8,40 +8,43 @@
     "fn_ok": false
   },
   "overall": {
-    "tp": 405,
-    "fp": 593,
-    "tn": 24871,
-    "fn": 15,
-    "regex_positive": 998,
-    "accuracy": 0.9765,
-    "precision": 0.4058,
-    "recall": 0.9643,
-    "f1": 0.5712,
-    "precision_on_regex_positive": 0.4058
+    "tp": 399,
+    "fp": 355,
+    "tn": 25109,
+    "fn": 21,
+    "regex_positive": 754,
+    "accuracy": 0.9855,
+    "precision": 0.5292,
+    "recall": 0.95,
+    "f1": 0.6797,
+    "precision_on_regex_positive": 0.5292
   },
   "fp_by_regex_reason": {
-    "explicit ec technical": 322,
-    "entry-level research or ds": 34,
-    "implicit ec technical": 41,
-    "explicit ec technical (requirements)": 115,
-    "open-level technical ic": 40,
-    "technical intern": 30,
+    "explicit ec technical": 170,
+    "implicit ec technical": 22,
+    "explicit ec technical (requirements)": 99,
+    "open-level technical ic": 23,
     "spacex early swe credential": 10,
-    "fellowship program": 1
+    "technical intern": 4,
+    "entry-level research or ds": 27
   },
   "fn_by_manual_reason": {
     "SpaceX Level I SWE/embedded role (bachelor + internship/1yr bar)": 12,
+    "Fall 2026 engineering/software intern or co-op (US sites)": 3,
     "SpaceX early SWE bar (BS + 1yr including internship)": 1,
     "Welding Build Engineer (Starship); ec keyword in title/requirements": 1,
-    "Graduate 2026 PhD Software Engineer II (AV Labs…; explicit ec title": 1
+    "Graduate 2026 PhD Software Engineer II (AV Labs…; explicit ec title": 1,
+    "2026 AI/ML Intern - Machine Learning Engineer; early-career technical US role (hand-reviewed)": 1,
+    "2026 AI/ML Intern - Machine Learning Engineer/Researche; early-career technical US role (hand-reviewed)": 1,
+    "2026 Intern - Research Scientist/Engineer; early-career technical US role (hand-reviewed)": 1
   },
   "by_ats": {
     "apple": {
       "tn": 81
     },
     "ashby": {
-      "tn": 3287,
-      "fp": 45,
+      "tn": 3305,
+      "fp": 27,
       "tp": 30
     },
     "eightfold": {
@@ -53,19 +56,19 @@
       "fp": 1
     },
     "google_careers": {
-      "tn": 445,
-      "fp": 51,
+      "tn": 486,
+      "fp": 10,
       "tp": 5
     },
     "greenhouse": {
-      "tn": 9730,
-      "tp": 174,
-      "fp": 291,
-      "fn": 14
+      "tn": 9804,
+      "tp": 171,
+      "fp": 217,
+      "fn": 17
     },
     "lever": {
-      "tn": 1726,
-      "fp": 29,
+      "tn": 1748,
+      "fp": 7,
       "tp": 25
     },
     "linkedin": {
@@ -74,8 +77,8 @@
       "fp": 71
     },
     "microsoft": {
-      "tn": 1415,
-      "fp": 19,
+      "tn": 1424,
+      "fp": 10,
       "tp": 73
     },
     "recruitee": {
@@ -87,10 +90,10 @@
       "tn": 429
     },
     "uber": {
-      "tn": 900,
+      "tn": 915,
       "tp": 4,
-      "fp": 17,
-      "fn": 1
+      "fn": 1,
+      "fp": 2
     },
     "wiz": {
       "tn": 172
@@ -99,9 +102,10 @@
       "tn": 7
     },
     "workday": {
-      "tn": 3731,
-      "fp": 67,
-      "tp": 42
+      "tn": 3790,
+      "fp": 8,
+      "tp": 39,
+      "fn": 3
     }
   },
   "by_company": {
@@ -116,23 +120,22 @@
       "tp": 1
     },
     "Adobe": {
-      "tn": 1189,
-      "fp": 7,
-      "tp": 7
+      "tn": 1191,
+      "fp": 5,
+      "tp": 4,
+      "fn": 3
     },
     "Airbnb": {
-      "tn": 236,
-      "fp": 1,
+      "tn": 237,
       "tp": 1
     },
     "Anduril": {
-      "tn": 1912,
-      "fp": 40,
+      "tn": 1913,
+      "fp": 39,
       "tp": 8
     },
     "Anthropic": {
-      "tn": 387,
-      "fp": 4
+      "tn": 391
     },
     "Anyscale": {
       "tn": 1
@@ -141,8 +144,8 @@
       "tn": 81
     },
     "Applied Intuition": {
-      "tn": 199,
-      "fp": 9
+      "tn": 200,
+      "fp": 8
     },
     "Apptronik": {
       "tn": 79,
@@ -164,15 +167,13 @@
       "tn": 169
     },
     "Cloudflare": {
-      "tn": 128,
-      "fp": 14
+      "tn": 142
     },
     "Cognition AI": {
       "tn": 59
     },
     "Cohere": {
-      "tn": 123,
-      "fp": 5
+      "tn": 128
     },
     "Confluent": {
       "tn": 52
@@ -183,25 +184,22 @@
       "tp": 1
     },
     "CrowdStrike": {
-      "tn": 465,
-      "fp": 4,
+      "tn": 469,
       "tp": 1
     },
     "Cursor": {
       "tn": 87
     },
     "DRW": {
-      "tn": 119,
-      "fp": 15
-    },
-    "Databricks": {
-      "tn": 774,
-      "tp": 1,
+      "tn": 130,
       "fp": 4
     },
+    "Databricks": {
+      "tn": 778,
+      "tp": 1
+    },
     "Datadog": {
-      "tn": 404,
-      "fp": 9
+      "tn": 413
     },
     "Decagon": {
       "tn": 110
@@ -239,8 +237,7 @@
       "fp": 1
     },
     "Flatiron Health": {
-      "tn": 16,
-      "fp": 3
+      "tn": 19
     },
     "Generate Biomedicines": {
       "tn": 17
@@ -253,9 +250,9 @@
       "fp": 5
     },
     "Google": {
-      "tn": 386,
-      "fp": 50,
-      "tp": 5
+      "tn": 427,
+      "tp": 5,
+      "fp": 9
     },
     "Google DeepMind": {
       "tn": 58,
@@ -303,8 +300,7 @@
       "fp": 1
     },
     "Lyft": {
-      "tn": 125,
-      "fp": 1
+      "tn": 126
     },
     "Magic AI": {
       "tn": 10
@@ -319,16 +315,16 @@
       "fp": 50
     },
     "Microsoft": {
-      "tn": 1415,
-      "fp": 19,
+      "tn": 1424,
+      "fp": 10,
       "tp": 73
     },
     "Modal Labs": {
       "tn": 31
     },
     "MongoDB": {
-      "tn": 411,
-      "fp": 6,
+      "tn": 416,
+      "fp": 1,
       "tp": 1
     },
     "Netflix": {
@@ -340,9 +336,9 @@
       "tp": 3
     },
     "Nvidia": {
-      "tn": 1911,
+      "tn": 1964,
       "tp": 34,
-      "fp": 55
+      "fp": 2
     },
     "OpenAI": {
       "tn": 694,
@@ -350,8 +346,8 @@
       "tp": 1
     },
     "Palantir": {
-      "tn": 212,
-      "fp": 8,
+      "tn": 217,
+      "fp": 3,
       "tp": 6
     },
     "Palo Alto Networks": {
@@ -362,8 +358,7 @@
       "tn": 2
     },
     "Perplexity AI": {
-      "tn": 55,
-      "fp": 4
+      "tn": 59
     },
     "Physical Intelligence": {
       "tn": 21,
@@ -381,8 +376,8 @@
       "fp": 4
     },
     "Point72": {
-      "tn": 214,
-      "fp": 17,
+      "tn": 225,
+      "fp": 6,
       "tp": 9
     },
     "Ramp": {
@@ -391,8 +386,8 @@
       "tp": 2
     },
     "Recursion Pharma": {
-      "tn": 35,
-      "fp": 2
+      "tn": 36,
+      "fp": 1
     },
     "Reddit": {
       "tn": 161
@@ -428,9 +423,8 @@
       "tp": 1
     },
     "Shield AI": {
-      "tn": 300,
-      "tp": 10,
-      "fp": 1
+      "tn": 301,
+      "tp": 10
     },
     "Shopify": {
       "tn": 4
@@ -440,8 +434,8 @@
       "tp": 1
     },
     "Skydio": {
-      "tn": 95,
-      "fp": 9,
+      "tn": 97,
+      "fp": 7,
       "tp": 2
     },
     "Snap": {
@@ -449,24 +443,23 @@
       "tp": 4
     },
     "Snowflake": {
-      "tn": 398,
-      "fp": 11,
+      "tn": 405,
+      "fp": 4,
       "tp": 1
     },
     "SpaceX": {
-      "tn": 1420,
-      "tp": 139,
-      "fp": 115,
-      "fn": 14
+      "tn": 1421,
+      "tp": 136,
+      "fp": 114,
+      "fn": 17
     },
     "Spotify": {
-      "tn": 199,
-      "fp": 2,
+      "tn": 201,
       "tp": 1
     },
     "Stripe": {
-      "tn": 485,
-      "fp": 9,
+      "tn": 492,
+      "fp": 2,
       "tp": 2
     },
     "Tempus AI": {
@@ -483,14 +476,14 @@
       "fp": 2
     },
     "Uber": {
-      "tn": 900,
+      "tn": 915,
       "tp": 4,
-      "fp": 17,
-      "fn": 1
+      "fn": 1,
+      "fp": 2
     },
     "Veeva Systems": {
-      "tn": 1014,
-      "fp": 18,
+      "tn": 1028,
+      "fp": 4,
       "tp": 8
     },
     "Vercel": {
@@ -564,54 +557,6 @@
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "Software Engineer Data requires BS plus 1+ years app dev; no intern/new-grad EC targeting vs uncertain bar",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Anthropic",
-      "ats": "greenhouse",
-      "title": "Research Engineer, Economic Research Data Platform",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "research IC role without early-career targeting (typical senior bar)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Anthropic",
-      "ats": "greenhouse",
-      "title": "Research Engineer, Pretraining",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Anthropic",
-      "ats": "greenhouse",
-      "title": "Research Engineer / Research Scientist, Pre-training",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Anthropic",
-      "ats": "greenhouse",
-      "title": "Research Engineer/Research Scientist, Pre-training",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "experienced IC bar in description, not intern/new-grad/0-2yr",
       "has_description": true
     },
     {
@@ -736,54 +681,6 @@
     },
     {
       "bucket": "fp",
-      "company": "Perplexity AI",
-      "ats": "ashby",
-      "title": "Internship - Search Machine Learning Engineer",
-      "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Internship - Search Machine Learning Engineer located in Belgrade—non-US-only, excluded",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Perplexity AI",
-      "ats": "ashby",
-      "title": "Internship - Search Backend Infra Engineer",
-      "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Internship - Search Backend Infra Engineer located in Belgrade—non-US-only, excluded",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Perplexity AI",
-      "ats": "ashby",
-      "title": "UK Internship Program",
-      "url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "UK Internship Program located in London—non-US-only, excluded",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Perplexity AI",
-      "ats": "ashby",
-      "title": "Internship - Search Machine Learning Engineer",
-      "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Internship - Search Machine Learning Engineer located in London—non-US-only, excluded",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Lambda Labs",
       "ats": "ashby",
       "title": "Data Center Mechanical Engineering Intern - 2026",
@@ -882,114 +779,6 @@
       "bucket": "fp",
       "company": "DRW",
       "ats": "greenhouse",
-      "title": "Research Engineer (FICCO)",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7377915",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "Research Engineer (FICCO); experienced quant platform role, 2+ years implied; regex_include overridden",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Research Engineer (FICCO)",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7097016",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Research Engineer (FICCO), Greenwich; experienced quant platform role, 2+ years implied; regex_include overridden",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Research Engineer (FICCO)",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7377981",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "Research Engineer (FICCO), London; experienced quant engineering, non-US EC; regex_include overridden",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Cumberland/FICCO Tools Engineering",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7728094",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Software Engineer - Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Cumberland/FICCO Tools Engineering",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7797373",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Software Engineer - Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Cumberland/FICCO Tools Engineering",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7797389",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Software Engineer - Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Cumberland/FICCO Tools Engineering",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7713717",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Software Engineer - Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer, Cumberland/FICCO Tools Engineering",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7288315",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "Software Engineer, Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer, Cumberland/FICCO Tools Engineering",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7392396",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "Software Engineer, Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
       "title": "Software Engineer - Prediction Markets (Python)",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7713854",
       "regex_include": true,
@@ -1012,126 +801,6 @@
     },
     {
       "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Prediction Markets (Python)",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7728164",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Software Engineer - Prediction Markets (Python); Qualifications: A minimum of 2+ years' experience in Python, with the ability to work comfortably across multiple programming languages A track record of working directly with end customers, scopin...",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "DRW",
-      "ats": "greenhouse",
-      "title": "Trading Systems Engineer",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/6776683",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "Trading Systems Engineer, Singapore; trade support/SRE, non-US; regex_include overridden",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "2026 Technology Internship – Software Engineer",
-      "url": "https://boards.greenhouse.io/point72/jobs/8406727002?gh_jid=8406727002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Poland)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "2026 Warsaw Market Intelligence – Platform DevOps Internship",
-      "url": "https://boards.greenhouse.io/point72/jobs/8425028002?gh_jid=8425028002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Poland)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "2026 Warsaw MI Data – Web Scraping Internship",
-      "url": "https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Poland)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Cubist Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7666631002?gh_jid=7666631002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Hong Kong)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Cubist Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7046019002?gh_jid=7046019002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Singapore)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Cubist Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297555002?gh_jid=7297555002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Hong Kong)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Hong Kong)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Cubist Quantitative Researcher Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Singapore)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Point72",
       "ats": "greenhouse",
       "title": "Data Engineer",
@@ -1140,18 +809,6 @@
       "regex_reason": "explicit ec technical (requirements)",
       "manual_include": false,
       "manual_reason": "requires 3+ years experience, not early-career",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Data Scientist",
-      "url": "https://boards.greenhouse.io/point72/jobs/8372529002?gh_jid=8372529002",
-      "regex_include": true,
-      "regex_reason": "entry-level research or ds",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (UK)",
       "has_description": true
     },
     {
@@ -1176,30 +833,6 @@
       "regex_reason": "explicit ec technical (requirements)",
       "manual_include": false,
       "manual_reason": "requires 3+ years experience, not early-career",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Quantitative Researcher",
-      "url": "https://boards.greenhouse.io/point72/jobs/7752293002?gh_jid=7752293002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (UK)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Point72",
-      "ats": "greenhouse",
-      "title": "Quantitative Researcher - Intern",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (UK)",
       "has_description": true
     },
     {
@@ -1240,66 +873,6 @@
     },
     {
       "bucket": "fp",
-      "company": "Cohere",
-      "ats": "ashby",
-      "title": "Software Engineer, Collect",
-      "url": "https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Canada)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cohere",
-      "ats": "ashby",
-      "title": "Software Engineer Intern (Fall / Winter 2026)",
-      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Canada)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cohere",
-      "ats": "ashby",
-      "title": "Research Internship (Fall, 2026)",
-      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Canada)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cohere",
-      "ats": "ashby",
-      "title": "Research Internship Reinforcement Learning (Summer)",
-      "url": "https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (France)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cohere",
-      "ats": "ashby",
-      "title": "Machine Learning Intern/Co-op  (Fall, 2026)",
-      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location (Canada)",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Together AI",
       "ats": "greenhouse",
       "title": "Analytics Engineer — Data Warehouse",
@@ -1326,18 +899,6 @@
       "bucket": "fp",
       "company": "Stripe",
       "ats": "greenhouse",
-      "title": "Android Engineer, Terminal",
-      "url": "https://stripe.com/jobs/search?gh_jid=7543559",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
       "title": "Android Engineer, Terminal Global Payments",
       "url": "https://stripe.com/jobs/search?gh_jid=7778627",
       "regex_include": true,
@@ -1350,132 +911,12 @@
       "bucket": "fp",
       "company": "Stripe",
       "ats": "greenhouse",
-      "title": "Integration Engineer (AUNZ)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7703911",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
-      "title": "Operations Associate, Apprenticeship",
-      "url": "https://stripe.com/jobs/search?gh_jid=7236933",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7285974",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
       "title": "Software Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=7926587",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "technical but not early-career",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
-      "title": "Software Engineering, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=7176977",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=7532256",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Stripe",
-      "ats": "greenhouse",
-      "title": "Tech Operations Associate, New Grad (Mexico)",
-      "url": "https://stripe.com/jobs/search?gh_jid=7718947",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Databricks",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Backend",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Databricks",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Backend",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Databricks",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Fullstack",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029677002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Databricks",
-      "ats": "greenhouse",
-      "title": "Software Engineering New Grad (2026)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": true
     },
     {
@@ -1636,174 +1077,6 @@
     },
     {
       "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Data Science Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7914511?gh_jid=7914511",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "DCSC Automation Coordinator Intern",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7751595?gh_jid=7751595",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Global Trade Compliance Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "GRC Team Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Internal Audit Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7652742?gh_jid=7652742",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Machine Learning Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7914628?gh_jid=7914628",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Network Engineering Intern (July to December 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7929538?gh_jid=7929538",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Network Engineering Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "People Operations Intern (July to December 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7855832?gh_jid=7855832",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "People Team Business Partner intern (July to December 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7855864?gh_jid=7855864",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Public Policy Intern, APJC (July to December 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7863831?gh_jid=7863831",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582150?gh_jid=7582150",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Security Engineer Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "title": "Threat Detection and Incident Response Intern (Summer 2026)",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Veeva Systems",
       "ats": "lever",
       "title": "Associate Automation Engineer - RTSM",
@@ -1830,92 +1103,8 @@
       "bucket": "fp",
       "company": "Veeva Systems",
       "ats": "lever",
-      "title": "Associate Automation Platform Engineer",
-      "url": "https://jobs.lever.co/veeva/ce96672d-3ef3-4af8-8965-6638e6011107",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
       "title": "Associate Quality Engineer",
       "url": "https://jobs.lever.co/veeva/79e78774-d044-4a48-9130-d8e18e2d7876",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Quality Engineer",
-      "url": "https://jobs.lever.co/veeva/a940d8b4-2869-4611-ae8e-8d277d6a17b6",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Quality Engineer - Infrastructure",
-      "url": "https://jobs.lever.co/veeva/afa6b08b-1a32-4fd3-a03a-155f795b42e7",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Software Engineer - Release Engineer",
-      "url": "https://jobs.lever.co/veeva/90e4e761-8dce-407c-a8bb-73781cc8b0d0",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Software Engineer - Seeking 2025 & 2026 Grads",
-      "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Software Engineer - Test Automation",
-      "url": "https://jobs.lever.co/veeva/d0704c83-8c0f-4545-8a40-eb48bcfec299",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Software Engineer - Test Automation (Infra)",
-      "url": "https://jobs.lever.co/veeva/026b7ed5-d247-4b64-974f-b90d8940584b",
       "regex_include": true,
       "regex_reason": "implicit ec technical",
       "manual_include": false,
@@ -1930,90 +1119,6 @@
       "url": "https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d",
       "regex_include": true,
       "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Software Engineer In Test",
-      "url": "https://jobs.lever.co/veeva/eea03b21-0e9e-467b-957d-31ba416b4016",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Associate Software Engineer in Test - Tooling & Infrastructure",
-      "url": "https://jobs.lever.co/veeva/8d86a229-0d65-46a4-838f-3e4da21960f9",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Implementation Consultant Intern",
-      "url": "https://jobs.lever.co/veeva/bd55ddbb-577f-4961-aeeb-c3736af0b110",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Intern Business Consulting",
-      "url": "https://jobs.lever.co/veeva/561872bd-8a76-43b6-bf20-a1d05caa4223",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Intern Technical Consultant",
-      "url": "https://jobs.lever.co/veeva/87ae81ed-831f-4bc3-b12b-bf9a77f954c0",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Intern: Software Engineer in Test",
-      "url": "https://jobs.lever.co/veeva/02b4428c-240e-456a-80d2-59ef8e6a013c",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "title": "Technology Consulting Intern (Hungary) - Entry-Level",
-      "url": "https://jobs.lever.co/veeva/f7cea665-3f74-4f37-8e49-80e4d0805c3a",
-      "regex_include": true,
-      "regex_reason": "technical intern",
       "manual_include": false,
       "manual_reason": "non-US-only location",
       "has_description": true
@@ -2472,18 +1577,6 @@
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "requires 2+ years experience without intern/new-grad signal",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Anduril",
-      "ats": "greenhouse",
-      "title": "Software Engineer, Full Stack",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050721007?gh_jid=5050721007",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only or unclear US eligibility",
       "has_description": true
     },
     {
@@ -3003,15 +2096,39 @@
       "has_description": true
     },
     {
-      "bucket": "fp",
+      "bucket": "fn",
       "company": "SpaceX",
       "ats": "greenhouse",
-      "title": "Fall 2026 Business Operations Internship/Co-op",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8403205002?gh_jid=8403205002",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "experienced IC; no intern/new-grad/Engineer I/0-2yr signal in qualifications",
+      "title": "Fall 2026 Engineering Internship/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8403206002?gh_jid=8403206002",
+      "regex_include": false,
+      "regex_reason": "non-US location",
+      "manual_include": true,
+      "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
+      "has_description": true
+    },
+    {
+      "bucket": "fn",
+      "company": "SpaceX",
+      "ats": "greenhouse",
+      "title": "Fall 2026 Graduate Engineer Internship/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8403223002?gh_jid=8403223002",
+      "regex_include": false,
+      "regex_reason": "non-US location",
+      "manual_include": true,
+      "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
+      "has_description": true
+    },
+    {
+      "bucket": "fn",
+      "company": "SpaceX",
+      "ats": "greenhouse",
+      "title": "Fall 2026 Software Engineering Internship/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002",
+      "regex_include": false,
+      "regex_reason": "non-US location",
+      "manual_include": true,
+      "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
       "has_description": true
     },
     {
@@ -4086,18 +3203,6 @@
       "bucket": "fp",
       "company": "Applied Intuition",
       "ats": "greenhouse",
-      "title": "Autonomous Vehicle Test Engineer",
-      "url": "https://boards.greenhouse.io/appliedintuition/jobs/4466953005?gh_jid=4466953005",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Autonomous Vehicle Test Engineer; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Applied Intuition",
-      "ats": "greenhouse",
       "title": "Software Engineer - AI Engineering",
       "url": "https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005",
       "regex_include": true,
@@ -4194,18 +3299,6 @@
       "bucket": "fp",
       "company": "Skydio",
       "ats": "ashby",
-      "title": "PhD Autonomy Engineer Intern - Planning & Controls (Reinforcement Learning)",
-      "url": "https://jobs.ashbyhq.com/skydio/f8225008-00b5-415e-9a48-c9b6eba9363c",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "PhD Autonomy Engineer Intern - Planning & Contr…; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Skydio",
-      "ats": "ashby",
       "title": "PhD Autonomy Engineer Intern - Deep Learning or Computer Vision",
       "url": "https://jobs.ashbyhq.com/skydio/8d3979a8-c791-4825-8cf4-9b25479b9519",
       "regex_include": true,
@@ -4278,18 +3371,6 @@
       "bucket": "fp",
       "company": "Skydio",
       "ats": "ashby",
-      "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
-      "url": "https://jobs.ashbyhq.com/skydio/6280ab1d-147d-4f39-8618-a216c18ce0f9",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Autonomy Engineer Intern - Deep Learning (Compu…; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Skydio",
-      "ats": "ashby",
       "title": "Middleware Software Engineer Intern - Fall 2026",
       "url": "https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
       "regex_include": true,
@@ -4336,18 +3417,6 @@
     },
     {
       "bucket": "fp",
-      "company": "Shield AI",
-      "ats": "lever",
-      "title": "Computer Vision Engineer (C++)",
-      "url": "https://jobs.lever.co/shieldai/2cfe6692-a266-4d27-8832-ef652fa57ee4",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "Computer Vision Engineer (C++); non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Inceptive",
       "ats": "greenhouse",
       "title": "Internship",
@@ -4356,42 +3425,6 @@
       "regex_reason": "technical intern",
       "manual_include": false,
       "manual_reason": "Internship; wet-lab bio research intern not SWE/ML IC hire",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Flatiron Health",
-      "ats": "greenhouse",
-      "title": "Communications & Events Associate",
-      "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7855278",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "Communications & Events Associate; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Flatiron Health",
-      "ats": "greenhouse",
-      "title": "Communications & Events Associate (m/f/d)",
-      "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7873832",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "Communications & Events Associate (m/f/d); non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Flatiron Health",
-      "ats": "greenhouse",
-      "title": "Software Engineer (Contractor)",
-      "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7681161",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Software Engineer (Contractor); non-US-only location",
       "has_description": true
     },
     {
@@ -4416,18 +3449,6 @@
       "regex_reason": "technical intern",
       "manual_include": false,
       "manual_reason": "Interested in an internship?; general talent pool not specific EC role",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Recursion Pharma",
-      "ats": "greenhouse",
-      "title": "Research Associate - Biology Automation",
-      "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7826711",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "Research Associate - Biology Automation; non-US-only location",
       "has_description": true
     },
     {
@@ -4575,54 +3596,6 @@
       "has_description": true
     },
     {
-      "bucket": "fp",
-      "company": "Airbnb",
-      "ats": "greenhouse",
-      "title": "Communications Intern, LATAM",
-      "url": "https://careers.airbnb.com/positions/7900153?gh_jid=7900153",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "Communications Intern, LATAM; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Operations Internship, Madrid",
-      "url": "https://www.uber.com/careers/list/159597",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "2026 Operations Internship, Madrid; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Operations Internship, Berlin",
-      "url": "https://www.uber.com/careers/list/156982",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "2026 Operations Internship, Berlin; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "Junior Data Scientist",
-      "url": "https://www.uber.com/careers/list/157970",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Junior Data Scientist; non-US-only location",
-      "has_description": true
-    },
-    {
       "bucket": "fn",
       "company": "Uber",
       "ats": "uber",
@@ -4632,78 +3605,6 @@
       "regex_reason": "experienced level title",
       "manual_include": true,
       "manual_reason": "Graduate 2026 PhD Software Engineer II (AV Labs…; explicit ec title",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "COE Team Lead I - Eats Special Projects",
-      "url": "https://www.uber.com/careers/list/158909",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "COE Team Lead I - Eats Special Projects; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Account Management Intern, Zurich",
-      "url": "https://www.uber.com/careers/list/157962",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "2026 Account Management Intern, Zurich; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Account Management Intern, Berlin",
-      "url": "https://www.uber.com/careers/list/159069",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "2026 Account Management Intern, Berlin; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Operations Internship, Amsterdam",
-      "url": "https://www.uber.com/careers/list/155319",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "2026 Operations Internship, Amsterdam; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Account Management Internship, Warsaw",
-      "url": "https://www.uber.com/careers/list/156769",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "2026 Account Management Internship, Warsaw; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "Graduate 2026 Software Engineer I, Chile",
-      "url": "https://www.uber.com/careers/list/159399",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Graduate 2026 Software Engineer I, Chile; non-US-only location",
       "has_description": true
     },
     {
@@ -4722,240 +3623,12 @@
       "bucket": "fp",
       "company": "Uber",
       "ats": "uber",
-      "title": "2026 Graduate PhD Software Engineer - Aarhus University",
-      "url": "https://www.uber.com/careers/list/157767",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Account Management Intern, Paris",
-      "url": "https://www.uber.com/careers/list/158946",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "Graduate 2026 Software Engineer I, TOR",
-      "url": "https://www.uber.com/careers/list/158014",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 PhD Research Intern, India",
-      "url": "https://www.uber.com/careers/list/157463",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
       "title": "Graduate 2026 Software Engineer I, Mobile (Android)",
       "url": "https://www.uber.com/careers/list/158037",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "senior experience required",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Operations Internship, Brazil",
-      "url": "https://www.uber.com/careers/list/151082",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Uber",
-      "ats": "uber",
-      "title": "2026 Account Management Intern, Chile",
-      "url": "https://www.uber.com/careers/list/154807",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "IT Support Technician Intern",
-      "url": "https://careers.datadoghq.com/detail/7826176/?gh_jid=7826176",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Software Engineer - Early Career",
-      "url": "https://careers.datadoghq.com/detail/7646452/?gh_jid=7646452",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1",
-      "url": "https://careers.datadoghq.com/detail/7812351/?gh_jid=7812351",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1",
-      "url": "https://careers.datadoghq.com/detail/7948503/?gh_jid=7948503",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1",
-      "url": "https://careers.datadoghq.com/detail/7813863/?gh_jid=7813863",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1 - 2",
-      "url": "https://careers.datadoghq.com/detail/6883301/?gh_jid=6883301",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1 - 2",
-      "url": "https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1 (Mexico City)",
-      "url": "https://careers.datadoghq.com/detail/7905762/?gh_jid=7905762",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "title": "Technical Support Engineer 1 (Sao Paulo)",
-      "url": "https://careers.datadoghq.com/detail/7919302/?gh_jid=7919302",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Silicon Design Verification Engineer",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84348961464165062",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Developer II, Site Reliability Development",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/122976230877078214",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Student Researcher, 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/103667844620657350",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Network Operations Residency Program, University Graduate, 2026 Start",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/127757644021539526",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": true
     },
     {
@@ -4986,30 +3659,6 @@
       "bucket": "fp",
       "company": "Google",
       "ats": "google_careers",
-      "title": "Customer Engineer Associate, Platform, Google Cloud",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/110914304852533958",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Fullstack, Multiplataform (English, Spanish)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/103818580792877766",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
       "title": "Data Engineer, Geo 3P and Developer Data Operations",
       "url": "https://www.google.com/about/careers/applications/jobs/results/86745576837653190",
       "regex_include": true,
@@ -5017,186 +3666,6 @@
       "manual_include": false,
       "manual_reason": "Data Engineer; 1 year min experience not EC new grad",
       "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Camera HAL/Pixel Camera System Software",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/134465337113354950",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Laptops and Tablets Audio",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/101714802732081862",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Silicon Engineer, Platform and Devices, University Graduate, 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/73379279982731974",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "SoC ATE Test Engineer",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/133140605990511302",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Junior SOC Design Verification Engineer, Google Cloud",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/86819538321973958",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Security Engineer, Enterprise Data Protection Team",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/130736094319649478",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Information Security Engineer, Early Career, Product Security",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/73177450879558342",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Development Apprenticeship, Engineering, October 2026 Start",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/113010970447487686",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Engineering Productivity, Pixel Tools",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/89028004063126214",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Junior Emulation Engineer, University Graduate, Google Cloud",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/96203691823899334",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Silicon Design Verification Engineer, TPU, Google Cloud",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/108403426169103046",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Student Researcher, 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/104185201348747974",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Google Ads",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/133393281064018630",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Android Apps, Pixel",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/106313684061430470",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Junior CPU Design Verification Engineer, Google Cloud",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/115028928619258566",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
     },
     {
       "bucket": "fp",
@@ -5214,30 +3683,6 @@
       "bucket": "fp",
       "company": "Google",
       "ats": "google_careers",
-      "title": "Customer Engineer, Agentic Workplace Transformation, Google Workspace, Gemini Enterprise (English, Mandarin)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/111871689570034374",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "System Lab Engineer, Google Cloud, University Graduate",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/121717953635721926",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
       "title": "Optical Validation Engineer, Google Cloud",
       "url": "https://www.google.com/about/careers/applications/jobs/results/143702138877289158",
       "regex_include": true,
@@ -5250,60 +3695,12 @@
       "bucket": "fp",
       "company": "Google",
       "ats": "google_careers",
-      "title": "Network Test Engineer, Global Network Technologies",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/127461458781840070",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Water Treatment Technician, Data Centers",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/140119534857003718",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "IT Infrastructure Engineer I (Technicien Systèmes et Réseaux)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/86460588577694406",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
       "title": "Security Engineer, Access Security Team",
       "url": "https://www.google.com/about/careers/applications/jobs/results/105043434598736582",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "Security Engineer; 1 year min not EC new grad",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Silicon Validation and Automation Engineer",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/85614308221690566",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": true
     },
     {
@@ -5340,246 +3737,6 @@
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "Product safety test; 1 year min not EC new grad",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineering PhD Intern, Summer 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/137863361692869318",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Engineering Analyst, Trust and Safety, YouTube",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/90756171127759558",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Modem System Software",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/97282000271876806",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Research Software Engineer, Google Research",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/127218283102249670",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Device Based Experiences, Google Wallet",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/99346110014726854",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Hardware Engineer, Cloud Platforms, Early Career",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/105654740515201734",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Silicon Engineering Intern, PhD, Summer 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/109578244679705286",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/107900969756304070",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Student Researcher, PhD, Winter/Summer 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/97480706799608518",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Student Researcher, BS/MS, Winter/Summer 2026",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/123358125276177094",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Mobile Software Engineer, Multiplatform, Early Careers",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/123365080841495238",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Early Career (For Women in Tech Candidates)",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/80313547497579206",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Software Engineer, Compilers, Runtimes and Toolchains, Early Career",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/111182182432547526",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Google",
-      "ats": "google_careers",
-      "title": "Early Career Software Engineer, People with Disabilities",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/136778768644481734",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
-      "title": "Software Engineer Intern (Backend) - Warsaw 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/38f79cb1-c366-4bc5-9965-cc679ee730a4",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
-      "title": "Software Engineer Intern - Berlin (2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
-      "title": "Software Engineer Intern (AI/ML) - 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
-      "title": "Research Intern (AI) - 2026",
-      "url": "https://jobs.ashbyhq.com/snowflake/e2412cd5-19dd-44f8-addd-c9ef3c99ff82",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
-      "title": "Software Engineer - Ecosystem team",
-      "url": "https://jobs.ashbyhq.com/snowflake/10495197-9600-4590-9863-83f31f93a200",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
-      "title": "Field Marketing Working Student - Munich",
-      "url": "https://jobs.ashbyhq.com/snowflake/e2178b92-95c6-4b96-a2ee-a529a3a066fe",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": true
     },
     {
@@ -5622,18 +3779,6 @@
       "bucket": "fp",
       "company": "Snowflake",
       "ats": "ashby",
-      "title": "Software Engineer Intern - Zurich (2026)",
-      "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Snowflake",
-      "ats": "ashby",
       "title": "Software Engineer - Snowflake Postgres",
       "url": "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21",
       "regex_include": true,
@@ -5646,60 +3791,12 @@
       "bucket": "fp",
       "company": "Palantir",
       "ats": "lever",
-      "title": "American Tech Fellowship for Veterans",
-      "url": "https://jobs.lever.co/palantir/b88cd6e1-22b7-49d6-b215-1ca262a05728",
-      "regex_include": true,
-      "regex_reason": "fellowship program",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Palantir",
-      "ats": "lever",
-      "title": "Deployment Strategist, Internship",
-      "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0",
-      "regex_include": true,
-      "regex_reason": "technical intern",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Palantir",
-      "ats": "lever",
       "title": "Deployment Strategist, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e",
       "regex_include": true,
       "regex_reason": "technical intern",
       "manual_include": false,
       "manual_reason": "Deployment Strategist internship; consulting not SWE",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Palantir",
-      "ats": "lever",
-      "title": "Forward Deployed Software Engineer",
-      "url": "https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Palantir",
-      "ats": "lever",
-      "title": "Forward Deployed Software Engineer",
-      "url": "https://jobs.lever.co/palantir/bf718bd3-b2ef-451e-8033-cb4d2d9c094b",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": true
     },
     {
@@ -5728,18 +3825,6 @@
     },
     {
       "bucket": "fp",
-      "company": "Palantir",
-      "ats": "lever",
-      "title": "Forward Deployed Software Engineer, Internship",
-      "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Netflix",
       "ats": "eightfold",
       "title": "Software Engineer in Test 5 - Apple Player",
@@ -5754,72 +3839,12 @@
       "bucket": "fp",
       "company": "MongoDB",
       "ats": "greenhouse",
-      "title": "Consulting Engineer",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746692",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "MongoDB",
-      "ats": "greenhouse",
       "title": "Software Engineer, Code Generation",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=7311666",
       "regex_include": true,
       "regex_reason": "open-level technical ic",
       "manual_include": false,
       "manual_reason": "SWE Code Generation; 2+ years professional experience required",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "MongoDB",
-      "ats": "greenhouse",
-      "title": "Software Engineer, Code Generation",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7311708",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "MongoDB",
-      "ats": "greenhouse",
-      "title": "Software Engineering Internship - Summer 2026/2027",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7768470",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "MongoDB",
-      "ats": "greenhouse",
-      "title": "Technical Services Engineer",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7746718",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "MongoDB",
-      "ats": "greenhouse",
-      "title": "Technical Services Engineer",
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=7904729",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": true
     },
     {
@@ -5920,42 +3945,6 @@
     },
     {
       "bucket": "fp",
-      "company": "Lyft",
-      "ats": "greenhouse",
-      "title": "Data Scientist, Algorithms - Driver Incentives",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8503986002?gh_jid=8503986002",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Data Scientist, Algorithms - Driver Incentives; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Spotify",
-      "ats": "lever",
-      "title": "Associate Data Scientist - User Fraud",
-      "url": "https://jobs.lever.co/spotify/6b8e77f1-666d-4241-a988-f1ad78272ec1",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Associate Data Scientist - User Fraud; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Spotify",
-      "ats": "lever",
-      "title": "Data Engineer I - Revenue",
-      "url": "https://jobs.lever.co/spotify/5d36b6f4-e89d-4a01-985c-59a184080440",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Data Engineer I - Revenue; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
       "company": "Adobe",
       "ats": "workday",
       "title": "Software Development Engineer - Front End",
@@ -5991,6 +3980,18 @@
       "has_description": true
     },
     {
+      "bucket": "fn",
+      "company": "Adobe",
+      "ats": "workday",
+      "title": "2026 AI/ML Intern - Machine Learning Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
+      "regex_include": false,
+      "regex_reason": "non-US location",
+      "manual_include": true,
+      "manual_reason": "2026 AI/ML Intern - Machine Learning Engineer; early-career technical US role (hand-reviewed)",
+      "has_description": false
+    },
+    {
       "bucket": "fp",
       "company": "Adobe",
       "ats": "workday",
@@ -6006,18 +4007,6 @@
       "bucket": "fp",
       "company": "Adobe",
       "ats": "workday",
-      "title": "2026 Working Student - Creative",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Hamburg/XMLNAME-2026-Working-Student---Creative_R166710",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "2026 Working Student - Creative; non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Adobe",
-      "ats": "workday",
       "title": "Data Scientist",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Data-Scientist_R165959-1",
       "regex_include": true,
@@ -6027,63 +4016,27 @@
       "has_description": true
     },
     {
-      "bucket": "fp",
+      "bucket": "fn",
       "company": "Adobe",
       "ats": "workday",
-      "title": "Er: 2026 Intern - Research Scientist / Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Er--2026-Intern---Research-Scientist---Engineer_R162130",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Er: 2026 Intern - Research Scientist / Engineer; non-US-only location",
+      "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+      "regex_include": false,
+      "regex_reason": "non-US location",
+      "manual_include": true,
+      "manual_reason": "2026 AI/ML Intern - Machine Learning Engineer/Researche; early-career technical US role (hand-reviewed)",
       "has_description": false
     },
     {
-      "bucket": "fp",
-      "company": "CrowdStrike",
+      "bucket": "fn",
+      "company": "Adobe",
       "ats": "workday",
-      "title": "Junior Software Engineer in Test/Automation (Hybrid, ROU)",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Bucharest/SDET-Cloud---Bucharest--Hybrid-_R27565",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Junior Software Engineer in Test/Automation (Hybri; non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "CrowdStrike",
-      "ats": "workday",
-      "title": "Security Research Intern - Active Directory & Identity Security",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Security-Research-Intern---Active-Directory---Identity-Security_R28843",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Security Research Intern - Active Directory & Iden; non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "CrowdStrike",
-      "ats": "workday",
-      "title": "Engineer I - Front End, Data Visualization (Hybrid)",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Canada---Toronto/Engineer-II---Front-End--Remote--CAN-_R26171",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Engineer I - Front End, Data Visualization (Hybrid; non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "CrowdStrike",
-      "ats": "workday",
-      "title": "Intelligence Intern - Applied Research Cell (Remote)",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Intelligence-Intern---Applied-Research-Cell--Remote-_R25250",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Security/intelligence intern; non-US remote",
+      "title": "2026 Intern - Research Scientist/Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
+      "regex_include": false,
+      "regex_reason": "non-US location",
+      "manual_include": true,
+      "manual_reason": "2026 Intern - Research Scientist/Engineer; early-career technical US role (hand-reviewed)",
       "has_description": false
     },
     {
@@ -6102,72 +4055,12 @@
       "bucket": "fp",
       "company": "Microsoft",
       "ats": "microsoft",
-      "title": "Data Center Technicians Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862263",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Data Center Technicians Intern; non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
       "title": "Research Science PhD Internship Opportunities - Coding Agents",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867906",
       "regex_include": true,
       "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "Research Science PhD Internship Opportunities - Co; non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Data Center Technicians Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866657",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "Data Center Technicians Intern; non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866895",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Data Center Technicians Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866124",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Data Center Technicians Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862844",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
       "has_description": false
     },
     {
@@ -6198,58 +4091,10 @@
       "bucket": "fp",
       "company": "Microsoft",
       "ats": "microsoft",
-      "title": "PHD Research Sciences INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556835496",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Data Center Technicians Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859187",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
       "title": "Cambridge Residency Programme - Experimental Materials Scientist",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856965",
       "regex_include": true,
       "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Solution Engineering - Intern Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749488",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Microsoft",
-      "ats": "microsoft",
-      "title": "Research Sciences INTERN",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
       "manual_include": false,
       "manual_reason": "non-US-only location",
       "has_description": false
@@ -6330,402 +4175,6 @@
       "bucket": "fp",
       "company": "Nvidia",
       "ats": "workday",
-      "title": "Machine Learning Intern - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016445",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Engineer, AI and DL Kernel Libraries - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Design Engineer - SONiC Group",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Design-Engineer---SONiC-Group_JR2005323",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Network and System Verification Engineer, E2E",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Network-and-System-Verification-Engineer--E2E_JR2018102",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Engineer - NVLink GPU Networking",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Engineer---NVLink-GPU-Networking_JR2016557",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Engineer, DOCA SDK",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--DOCA-SDK_JR2017953",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software R&D Engineer, Digital Logic Synthesis - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Data Processing Developer Technology Intern - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Data-Processing-Developer-Technology-Intern---2026_JR2006379",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "AI Developer Technology Engineer Intern, CUDA - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--CUDA---2026_JR2006910",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Power Architect - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2026_JR2017842",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Machine Learning Intern - AI Agents Conversational AI",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---AI-Agents-Conversational-AI_JR2017298",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Machine Learning Intern - Multimodal Models Generative AI",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Machine Learning Intern - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016444",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Silicon Solution Intern - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Solution-Intern---2026_JR2007088",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Verification Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2017633",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Firmware Engineer - Ethernet Switching",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Firmware-Engineer---Ethernet-Switching_JR2014611",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Formal Verification Intern - Fall 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Machine Learning Applications and Compiler Engineer, LPX - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2017194",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Network and System Verification Engineer, E2E",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Network-and-System-Verification-Engineer--E2E_JR2006471",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Formal Verification Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Formal-Verification-Engineer_JR2017178",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "ASIC Design Engineer - Circuits",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer---Circuits_JR2016640",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Formal Verification Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Formal-Verification-Engineer_JR1987671",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Formal Verification Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Formal-Verification-Engineer_JR2016320",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Applied Research PhD Student, Foundation Models for Materials Science",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Applied-Research-PhD-Student--Foundation-Models-for-Materials-Science_JR2016738",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Solutions Architect, Data Processing - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Data-Processing---New-College-Grad-2026_JR2017017",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "ASIC Verification Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Firmware QA Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Firmware-QA-Engineer_JR2016448",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "System Software Engineer, GPU Development Tools",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer--GPU-Development-Tools_JR2016503-1",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Board Design Engineer, LDE - New College Graduate",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Board-Design-Engineer--LDE---New-College-Graduate_JR2016978-1",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Perf Engineering Intern - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2026_JR2014608",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
       "title": "System Software Engineer - Tegra",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081",
       "regex_include": true,
@@ -6733,246 +4182,6 @@
       "manual_include": false,
       "manual_reason": "experienced IC bar in description, not intern/new-grad/0-2yr",
       "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Research Scientist, 3D Computer Vision",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Research-Scientist--3D-Computer-Vision_JR2015448",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical (requirements)",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Operation Planning Engineer (RDSS Intern)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Operation-Planning-Engineer--RDSS-Intern-_JR2006625",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Engineer, Cloud Platforms",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2016410",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Engineering Intern, Automation Infra - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Automation-Infra---2026_JR2015793",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Research Scientist - New College Grad 2025",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Research-Scientist---New-College-Grad-2025_JR1998091-1",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "ASIC Verification Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/ASIC-Verification-Engineer---New-College-Grad-2026_JR2016248",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "SDK Eth Software Engineer, Networking",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SDK-Eth-Software-Engineer--Networking_JR2013956",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Research Scientist, Circuits - PhD New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Software Engineer - Networking",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer---Networking_JR2015541",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "AI and FSI Developer Technology Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Developer-Technology-Engineer--Financial-Sector---New-College-Grad-2026_JR2013803",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Formal Verification Engineer",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Formal-Verification-Engineer_JR2015931",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "System Software Engineer, GPU Development Tools",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--GPU-Development-Tools_JR2015188",
-      "regex_include": true,
-      "regex_reason": "open-level technical ic",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US-only location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "System Software Intern, Embedded Power Management - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2026_JR2015501-1",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Signal and Power Integrity Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "uncertain US location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Robotics Research Intern - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Research-Intern---2026_JR2014561",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Firmware Engineer – Ethernet Switching",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer---Ethernet-Switching_JR2013842",
-      "regex_include": true,
-      "regex_reason": "implicit ec technical",
-      "manual_include": false,
-      "manual_reason": "uncertain US location",
-      "has_description": true
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Solution Architecture Intern, AI in Industry - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Solution-Architecture-Intern--AI-in-Industry---2026_JR2014186",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "uncertain US location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "Performance Engineer Intern, Deep Learning and HPC - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineer-Intern--Deep-Learning-and-HPC---2026_JR2008053",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US location",
-      "has_description": false
-    },
-    {
-      "bucket": "fp",
-      "company": "Nvidia",
-      "ats": "workday",
-      "title": "System Software Engineering Intern, Systems Infrastructure - Summer 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Systems-Infrastructure--Summer-2026_JR2006824",
-      "regex_include": true,
-      "regex_reason": "explicit ec technical",
-      "manual_include": false,
-      "manual_reason": "non-US location",
-      "has_description": false
     },
     {
       "bucket": "fp",
@@ -7831,7 +5040,7 @@
     {
       "type": "fix_false_positive",
       "regex_reason": "explicit ec technical",
-      "count": 322,
+      "count": 170,
       "action": "Tighten filters for 'explicit ec technical' (e.g. senior level, YOE bar, non-dev titles).",
       "samples": [
         {
@@ -7875,7 +5084,7 @@
     {
       "type": "fix_false_positive",
       "regex_reason": "explicit ec technical (requirements)",
-      "count": 115,
+      "count": 99,
       "action": "Tighten filters for 'explicit ec technical (requirements)' (e.g. senior level, YOE bar, non-dev titles).",
       "samples": [
         {
@@ -7892,18 +5101,6 @@
         },
         {
           "bucket": "fp",
-          "company": "DRW",
-          "ats": "greenhouse",
-          "title": "Trading Systems Engineer",
-          "url": "https://job-boards.greenhouse.io/drweng/jobs/6776683",
-          "regex_include": true,
-          "regex_reason": "explicit ec technical (requirements)",
-          "manual_include": false,
-          "manual_reason": "Trading Systems Engineer, Singapore; trade support/SRE, non-US; regex_include overridden",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
           "company": "Point72",
           "ats": "greenhouse",
           "title": "Data Engineer",
@@ -7913,13 +5110,113 @@
           "manual_include": false,
           "manual_reason": "requires 3+ years experience, not early-career",
           "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "Point72",
+          "ats": "greenhouse",
+          "title": "Machine Learning Engineer",
+          "url": "https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002",
+          "regex_include": true,
+          "regex_reason": "explicit ec technical (requirements)",
+          "manual_include": false,
+          "manual_reason": "full-time ML engineer role without intern/new-grad track (PhD-level expectations)",
+          "has_description": true
+        }
+      ]
+    },
+    {
+      "type": "fix_false_positive",
+      "regex_reason": "entry-level research or ds",
+      "count": 27,
+      "action": "Tighten filters for 'entry-level research or ds' (e.g. senior level, YOE bar, non-dev titles).",
+      "samples": [
+        {
+          "bucket": "fp",
+          "company": "Xaira Therapeutics",
+          "ats": "greenhouse",
+          "title": "AI Research Engineer",
+          "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5084981007",
+          "regex_include": true,
+          "regex_reason": "entry-level research or ds",
+          "manual_include": false,
+          "manual_reason": "AI Research Engineer; minimum 5+ years industry ML experience",
+          "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "Adobe",
+          "ats": "workday",
+          "title": "Data Scientist",
+          "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Data-Scientist_R165959-1",
+          "regex_include": true,
+          "regex_reason": "entry-level research or ds",
+          "manual_include": false,
+          "manual_reason": "Data Scientist; 3 years in description",
+          "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "Meta",
+          "ats": "linkedin",
+          "title": "AI Research Scientist, CoreML - Monetization AI",
+          "url": "https://www.linkedin.com/jobs/view/4246321800",
+          "regex_include": true,
+          "regex_reason": "entry-level research or ds",
+          "manual_include": false,
+          "manual_reason": "PhD + industry/postdoc researcher bar, not EC hire",
+          "has_description": true
+        }
+      ]
+    },
+    {
+      "type": "fix_false_positive",
+      "regex_reason": "open-level technical ic",
+      "count": 23,
+      "action": "Tighten filters for 'open-level technical ic' (e.g. senior level, YOE bar, non-dev titles).",
+      "samples": [
+        {
+          "bucket": "fp",
+          "company": "Glean",
+          "ats": "greenhouse",
+          "title": "Software Engineer, Billing & Revenue Platform",
+          "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4675862005",
+          "regex_include": true,
+          "regex_reason": "open-level technical ic",
+          "manual_include": false,
+          "manual_reason": "Software Engineer, Billing & Revenue Platform in Mountain View, CA has no early-career eligibility; expects experienced builders",
+          "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "CoreWeave",
+          "ats": "greenhouse",
+          "title": "Software Engineer, Observability",
+          "url": "https://coreweave.com/careers/job?4587675006&board=coreweave&gh_jid=4587675006",
+          "regex_include": true,
+          "regex_reason": "open-level technical ic",
+          "manual_include": false,
+          "manual_reason": "Software Engineer, Observability; help optimize performance across large-scale infrastructure. You will also participate in on-call rotations and contribute to continuous improvements based on real-world system behavior. Who You Ar...",
+          "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "Ramp",
+          "ats": "ashby",
+          "title": "Software Engineer, Core Product",
+          "url": "https://jobs.ashbyhq.com/ramp/5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
+          "regex_include": true,
+          "regex_reason": "open-level technical ic",
+          "manual_include": false,
+          "manual_reason": "technical but not early-career",
+          "has_description": true
         }
       ]
     },
     {
       "type": "fix_false_positive",
       "regex_reason": "implicit ec technical",
-      "count": 41,
+      "count": 22,
       "action": "Tighten filters for 'implicit ec technical' (e.g. senior level, YOE bar, non-dev titles).",
       "samples": [
         {
@@ -7954,138 +5251,6 @@
           "url": "https://jobs.lever.co/veeva/48287009-b3b3-49b8-bc20-affe6be39fd2",
           "regex_include": true,
           "regex_reason": "implicit ec technical",
-          "manual_include": false,
-          "manual_reason": "non-US-only location",
-          "has_description": true
-        }
-      ]
-    },
-    {
-      "type": "fix_false_positive",
-      "regex_reason": "open-level technical ic",
-      "count": 40,
-      "action": "Tighten filters for 'open-level technical ic' (e.g. senior level, YOE bar, non-dev titles).",
-      "samples": [
-        {
-          "bucket": "fp",
-          "company": "Glean",
-          "ats": "greenhouse",
-          "title": "Software Engineer, Billing & Revenue Platform",
-          "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4675862005",
-          "regex_include": true,
-          "regex_reason": "open-level technical ic",
-          "manual_include": false,
-          "manual_reason": "Software Engineer, Billing & Revenue Platform in Mountain View, CA has no early-career eligibility; expects experienced builders",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
-          "company": "CoreWeave",
-          "ats": "greenhouse",
-          "title": "Software Engineer, Observability",
-          "url": "https://coreweave.com/careers/job?4587675006&board=coreweave&gh_jid=4587675006",
-          "regex_include": true,
-          "regex_reason": "open-level technical ic",
-          "manual_include": false,
-          "manual_reason": "Software Engineer, Observability; help optimize performance across large-scale infrastructure. You will also participate in on-call rotations and contribute to continuous improvements based on real-world system behavior. Who You Ar...",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
-          "company": "DRW",
-          "ats": "greenhouse",
-          "title": "Software Engineer, Cumberland/FICCO Tools Engineering",
-          "url": "https://job-boards.greenhouse.io/drweng/jobs/7288315",
-          "regex_include": true,
-          "regex_reason": "open-level technical ic",
-          "manual_include": false,
-          "manual_reason": "Software Engineer, Cumberland/FICCO Tools Engineering; Qualifications: A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages A track record of working directly with end customers, scoping ...",
-          "has_description": true
-        }
-      ]
-    },
-    {
-      "type": "fix_false_positive",
-      "regex_reason": "entry-level research or ds",
-      "count": 34,
-      "action": "Tighten filters for 'entry-level research or ds' (e.g. senior level, YOE bar, non-dev titles).",
-      "samples": [
-        {
-          "bucket": "fp",
-          "company": "Anthropic",
-          "ats": "greenhouse",
-          "title": "Research Engineer, Economic Research Data Platform",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
-          "regex_include": true,
-          "regex_reason": "entry-level research or ds",
-          "manual_include": false,
-          "manual_reason": "research IC role without early-career targeting (typical senior bar)",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
-          "company": "Anthropic",
-          "ats": "greenhouse",
-          "title": "Research Engineer, Pretraining",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
-          "regex_include": true,
-          "regex_reason": "entry-level research or ds",
-          "manual_include": false,
-          "manual_reason": "non-US-only location",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
-          "company": "Anthropic",
-          "ats": "greenhouse",
-          "title": "Research Engineer / Research Scientist, Pre-training",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008",
-          "regex_include": true,
-          "regex_reason": "entry-level research or ds",
-          "manual_include": false,
-          "manual_reason": "non-US-only location",
-          "has_description": true
-        }
-      ]
-    },
-    {
-      "type": "fix_false_positive",
-      "regex_reason": "technical intern",
-      "count": 30,
-      "action": "Tighten filters for 'technical intern' (e.g. senior level, YOE bar, non-dev titles).",
-      "samples": [
-        {
-          "bucket": "fp",
-          "company": "Perplexity AI",
-          "ats": "ashby",
-          "title": "UK Internship Program",
-          "url": "https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763",
-          "regex_include": true,
-          "regex_reason": "technical intern",
-          "manual_include": false,
-          "manual_reason": "UK Internship Program located in London—non-US-only, excluded",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
-          "company": "Cloudflare",
-          "ats": "greenhouse",
-          "title": "DCSC Automation Coordinator Intern",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/7751595?gh_jid=7751595",
-          "regex_include": true,
-          "regex_reason": "technical intern",
-          "manual_include": false,
-          "manual_reason": "non-US-only location",
-          "has_description": true
-        },
-        {
-          "bucket": "fp",
-          "company": "Cloudflare",
-          "ats": "greenhouse",
-          "title": "Global Trade Compliance Intern (Summer 2026)",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
-          "regex_include": true,
-          "regex_reason": "technical intern",
           "manual_include": false,
           "manual_reason": "non-US-only location",
           "has_description": true
@@ -8138,20 +5303,44 @@
     },
     {
       "type": "fix_false_positive",
-      "regex_reason": "fellowship program",
-      "count": 1,
-      "action": "Tighten filters for 'fellowship program' (e.g. senior level, YOE bar, non-dev titles).",
+      "regex_reason": "technical intern",
+      "count": 4,
+      "action": "Tighten filters for 'technical intern' (e.g. senior level, YOE bar, non-dev titles).",
       "samples": [
         {
           "bucket": "fp",
-          "company": "Palantir",
-          "ats": "lever",
-          "title": "American Tech Fellowship for Veterans",
-          "url": "https://jobs.lever.co/palantir/b88cd6e1-22b7-49d6-b215-1ca262a05728",
+          "company": "Skydio",
+          "ats": "ashby",
+          "title": "Supply Chain Intern",
+          "url": "https://jobs.ashbyhq.com/skydio/2d21f482-3224-4906-a1bb-6a64436774cb",
           "regex_include": true,
-          "regex_reason": "fellowship program",
+          "regex_reason": "technical intern",
           "manual_include": false,
-          "manual_reason": "non-US-only location",
+          "manual_reason": "Supply Chain Intern; operations not early-career SWE/ML IC",
+          "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "Inceptive",
+          "ats": "greenhouse",
+          "title": "Internship",
+          "url": "https://job-boards.greenhouse.io/inceptive/jobs/5103191007",
+          "regex_include": true,
+          "regex_reason": "technical intern",
+          "manual_include": false,
+          "manual_reason": "Internship; wet-lab bio research intern not SWE/ML IC hire",
+          "has_description": true
+        },
+        {
+          "bucket": "fp",
+          "company": "Recursion Pharma",
+          "ats": "greenhouse",
+          "title": "Interested in an internship?",
+          "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026",
+          "regex_include": true,
+          "regex_reason": "technical intern",
+          "manual_include": false,
+          "manual_reason": "Interested in an internship?; general talent pool not specific EC role",
           "has_description": true
         }
       ]
@@ -8196,6 +5385,50 @@
           "regex_reason": "senior experience required",
           "manual_include": true,
           "manual_reason": "SpaceX Level I SWE/embedded role (bachelor + internship/1yr bar)",
+          "has_description": true
+        }
+      ]
+    },
+    {
+      "type": "fix_false_negative",
+      "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
+      "count": 3,
+      "action": "Broaden or add signal for cases labeled 'Fall 2026 engineering/software intern or co-op (US sites)'.",
+      "samples": [
+        {
+          "bucket": "fn",
+          "company": "SpaceX",
+          "ats": "greenhouse",
+          "title": "Fall 2026 Engineering Internship/Co-op",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8403206002?gh_jid=8403206002",
+          "regex_include": false,
+          "regex_reason": "non-US location",
+          "manual_include": true,
+          "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
+          "has_description": true
+        },
+        {
+          "bucket": "fn",
+          "company": "SpaceX",
+          "ats": "greenhouse",
+          "title": "Fall 2026 Graduate Engineer Internship/Co-op",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8403223002?gh_jid=8403223002",
+          "regex_include": false,
+          "regex_reason": "non-US location",
+          "manual_include": true,
+          "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
+          "has_description": true
+        },
+        {
+          "bucket": "fn",
+          "company": "SpaceX",
+          "ats": "greenhouse",
+          "title": "Fall 2026 Software Engineering Internship/Co-op",
+          "url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002",
+          "regex_include": false,
+          "regex_reason": "non-US location",
+          "manual_include": true,
+          "manual_reason": "Fall 2026 engineering/software intern or co-op (US sites)",
           "has_description": true
         }
       ]
@@ -8257,6 +5490,66 @@
           "manual_include": true,
           "manual_reason": "Graduate 2026 PhD Software Engineer II (AV Labs…; explicit ec title",
           "has_description": true
+        }
+      ]
+    },
+    {
+      "type": "fix_false_negative",
+      "manual_reason": "2026 AI/ML Intern - Machine Learning Engineer; early-career technical US role (hand-reviewed)",
+      "count": 1,
+      "action": "Broaden or add signal for cases labeled '2026 AI/ML Intern - Machine Learning Engineer; early-career technical US role (hand-reviewed)'.",
+      "samples": [
+        {
+          "bucket": "fn",
+          "company": "Adobe",
+          "ats": "workday",
+          "title": "2026 AI/ML Intern - Machine Learning Engineer",
+          "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
+          "regex_include": false,
+          "regex_reason": "non-US location",
+          "manual_include": true,
+          "manual_reason": "2026 AI/ML Intern - Machine Learning Engineer; early-career technical US role (hand-reviewed)",
+          "has_description": false
+        }
+      ]
+    },
+    {
+      "type": "fix_false_negative",
+      "manual_reason": "2026 AI/ML Intern - Machine Learning Engineer/Researche; early-career technical US role (hand-reviewed)",
+      "count": 1,
+      "action": "Broaden or add signal for cases labeled '2026 AI/ML Intern - Machine Learning Engineer/Researche; early-career technical US role (hand-reviewed)'.",
+      "samples": [
+        {
+          "bucket": "fn",
+          "company": "Adobe",
+          "ats": "workday",
+          "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
+          "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+          "regex_include": false,
+          "regex_reason": "non-US location",
+          "manual_include": true,
+          "manual_reason": "2026 AI/ML Intern - Machine Learning Engineer/Researche; early-career technical US role (hand-reviewed)",
+          "has_description": false
+        }
+      ]
+    },
+    {
+      "type": "fix_false_negative",
+      "manual_reason": "2026 Intern - Research Scientist/Engineer; early-career technical US role (hand-reviewed)",
+      "count": 1,
+      "action": "Broaden or add signal for cases labeled '2026 Intern - Research Scientist/Engineer; early-career technical US role (hand-reviewed)'.",
+      "samples": [
+        {
+          "bucket": "fn",
+          "company": "Adobe",
+          "ats": "workday",
+          "title": "2026 Intern - Research Scientist/Engineer",
+          "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
+          "regex_include": false,
+          "regex_reason": "non-US location",
+          "manual_include": true,
+          "manual_reason": "2026 Intern - Research Scientist/Engineer; early-career technical US role (hand-reviewed)",
+          "has_description": false
         }
       ]
     }

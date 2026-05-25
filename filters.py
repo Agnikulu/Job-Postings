@@ -144,6 +144,27 @@ _CORPORATE_FELLOWS_PROGRAM = re.compile(
 
 _POST_TRAINING = re.compile(r"\bpost-?training\b", re.IGNORECASE)
 
+_PRE_TRAINING = re.compile(r"\bpre-?training\b|\bpretraining\b", re.IGNORECASE)
+
+# Quant / prop-trading platform eng (DRW Cumberland/FICCO) — not EC SWE targets.
+_QUANT_PLATFORM_TITLE = re.compile(r"\b(?:cumberland|ficco)\b", re.IGNORECASE)
+
+# Research titles that eval labels exclude; avoid entry-level-research false includes.
+_NON_ENTRY_RESEARCH_TITLE = re.compile(
+    r"\b(?:economic\s+research|pre-?training|pretraining)\b|\bFICCO\b",
+    re.IGNORECASE,
+)
+
+_UK_GENERIC_INTERN_PROGRAM = re.compile(
+    r"\bUK\s+Internship\s+Program\b",
+    re.IGNORECASE,
+)
+
+_VETERANS_TECH_FELLOWSHIP = re.compile(
+    r"\b(?:american\s+tech\s+fellowship|tech(?:nology)?\s+fellowship\s+for\s+veterans)\b",
+    re.IGNORECASE,
+)
+
 _POST_TRAINING_IC_TITLE = re.compile(
     r"\b(?:"
     r"research\s+(?:scientist|engineer)|researcher|"
@@ -192,7 +213,9 @@ _NON_TECH_INTERN = re.compile(
     r"finance|accounting|marketing|sales|hr|human\s+resources|"
     r"recruiting|talent|business\s+development|"
     r"technical\s+advisor|"
-    r"customer\s+advocacy|core\s+ops"
+    r"customer\s+advocacy|core\s+ops|"
+    r"trade\s+compliance|global\s+trade\s+compliance|"
+    r"compliance|coordinator"
     r")\b",
     re.IGNORECASE,
 )
@@ -871,6 +894,8 @@ def _qualifies_entry_level_research_or_ds(
     positive: str,
 ) -> bool:
     """BS/MS research or DS roles without senior YOE bars (Meta-style entry postings)."""
+    if _NON_ENTRY_RESEARCH_TITLE.search(title) or _QUANT_PLATFORM_TITLE.search(title):
+        return False
     if not (
         _RESEARCH_EC_TITLE.search(title)
         or re.search(r"\bdata\s+scientist\b", title, re.IGNORECASE)
@@ -973,6 +998,9 @@ def classify_title_confidence(
     if _TRADE_SYSTEMS_ENGINEER.search(title_text):
         return TitleConfidence("high_exclude", False, "non-tech")
 
+    if _QUANT_PLATFORM_TITLE.search(title_text):
+        return TitleConfidence("high_exclude", False, "non-tech")
+
     if _is_spacex_non_swe_excluded(title_text, company=company, url=url):
         return TitleConfidence("high_exclude", True, "spacex non-swe role")
 
@@ -1031,6 +1059,12 @@ def classify_title_confidence(
             return TitleConfidence("high_include", True, "technical intern program")
         return TitleConfidence("high_exclude", False, "non-technical intern")
 
+    if _VETERANS_TECH_FELLOWSHIP.search(title_text):
+        return TitleConfidence("high_exclude", False, "corporate fellowship program")
+
+    if _UK_GENERIC_INTERN_PROGRAM.search(title_text):
+        return TitleConfidence("high_exclude", False, "non-technical intern")
+
     if _TECH_FELLOWSHIP_TITLE.search(title_text):
         return TitleConfidence("high_include", True, "fellowship program")
 
@@ -1046,6 +1080,15 @@ def classify_title_confidence(
     if _POST_TRAINING.search(title_text) and is_tech:
         if not re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
             return TitleConfidence("high_exclude", True, "senior post-training role")
+
+    if _PRE_TRAINING.search(title_text) and is_tech:
+        if not re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
+            return TitleConfidence("high_exclude", True, "senior post-training role")
+
+    if _NON_ENTRY_RESEARCH_TITLE.search(title_text) and (
+        title_tech or _RESEARCH_EC_TITLE.search(title_text)
+    ):
+        return TitleConfidence("high_exclude", True, "experienced research role")
 
     if (
         _NETWORK_ENGINEER_TITLE.search(title_text)
