@@ -15,9 +15,9 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 644
-- **All-time tracked:** 694
+- **All-time tracked:** 698
 - **Active companies:** 111
-- **Last updated:** `2026-05-25 03:50 UTC`
+- **Last updated:** `2026-05-25 06:07 UTC`
 
 ## Legend
 
@@ -31,8 +31,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
-| Tesla | Application Support Engineer, Factory Software 🇺🇸 | Fremont, CA | - | [Apply](https://www.linkedin.com/jobs/view/4418699673) | May 25, 2026 |
-| Tesla | Mechanical Design Engineer, Chassis 🇺🇸 | Austin, TX | - | [Apply](https://www.linkedin.com/jobs/view/4418906630) | May 25, 2026 |
+| SpaceX | Aerodynamics Engineer (Starship) 🇺🇸 | Starbase, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002) | May 25, 2026 |
+| Nvidia | System Software Engineer - Performance 🇺🇸 | 6 Locations | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2018651) | May 25, 2026 |
 | Veeva Systems | Associate Automation Engineer - RTSM 🇺🇸 | Pennsylvania - Philadelphia | - | [Apply](https://jobs.lever.co/veeva/21f44b64-3f46-47ea-bf53-3db0f8e4199b) | May 25, 2026 |
 | Veeva Systems | Associate Software Engineer in Test 🇺🇸 | California - Pleasanton | - | [Apply](https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d) | May 25, 2026 |
 | Veeva Systems | Associate Automation Engineer - RTSM 🇺🇸 | North Carolina - Raleigh | - | [Apply](https://jobs.lever.co/veeva/48287009-b3b3-49b8-bc20-affe6be39fd2) | May 25, 2026 |
@@ -67,20 +67,15 @@ how to fork, how to add companies, and how filtering works.
 | Palantir | Forward Deployed Software Engineer 🇺🇸 | New York, NY | - | [Apply](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0) | May 25, 2026 |
 | Luma AI | Software Engineer - Product 🇺🇸 | SF Bay Area, CA | - | [Apply](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) | May 25, 2026 |
 | Boston Dynamics | 2026 Full-time - Manufacturing Engineer - Onsite (MA) 🇺🇸 | Andover, MA | - | [Apply](https://www.linkedin.com/jobs/view/4418648970) | May 25, 2026 |
-| Boston Dynamics | Systems Safety Engineer 🇺🇸 | Tewksbury, MA | - | [Apply](https://www.linkedin.com/jobs/view/4418653995) | May 25, 2026 |
-| Boston Dynamics | 2026-Fulltime- Systems Engineer I – Onsite McKinney, Texas 🇺🇸 | McKinney, TX | Early Career | [Apply](https://www.linkedin.com/jobs/view/4418654885) | May 25, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Arlington, VA | - | [Apply](https://www.linkedin.com/jobs/view/4345560761) | May 25, 2026 |
 | 1X Technologies | AI Residency 🇺🇸 | San Carlos, United States | - | [Apply](https://1x.recruitee.com/o/ai-resident) | May 25, 2026 |
 | 1X Technologies | Materials and Process Innovation Engineer 🇺🇸 | San Carlos, United States | PhD | [Apply](https://1x.recruitee.com/o/materials-and-process-innovation-engineer) | May 25, 2026 |
 | 1X Technologies | Mechanical Engineer - Hand Motors and Actuators 🇺🇸 | San Carlos, United States | - | [Apply](https://1x.recruitee.com/o/mechanical-engineer-hand-motors-and-actuators) | May 25, 2026 |
 | Tesla | Manufacturing Engineer, Material Flow Simulation 🇺🇸 | Austin, TX | - | [Apply](https://www.linkedin.com/jobs/view/4418663151) | May 24, 2026 |
-| Tesla | Associate Mechanical Design Engineer 🇺🇸 | Brooklyn Park, MN | - | [Apply](https://www.linkedin.com/jobs/view/4418642284) | May 24, 2026 |
 | Tesla | Associate Civil Engineer 🇺🇸 | Austin, TX | - | [Apply](https://www.linkedin.com/jobs/view/4418645220) | May 24, 2026 |
 | Amazon Web Services (AWS) | C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4409539612) | May 24, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4345225752) | May 24, 2026 |
 | Tesla | Associate Facilities Operations Engineer 🇺🇸 | Sparks, NV | - | [Apply](https://www.linkedin.com/jobs/view/4418643244) | May 24, 2026 |
 | Tesla | Industrial Engineer, People & Site Flow Design 🇺🇸 | Austin, TX | - | [Apply](https://www.linkedin.com/jobs/view/4418644227) | May 24, 2026 |
-| Tesla | Mechanical Design Engineer, Chassis, Semi 🇺🇸 | Fremont, CA | - | [Apply](https://www.linkedin.com/jobs/view/4418659179) | May 24, 2026 |
 | Microsoft | Security Research Intern - AI Focus 🇺🇸 | Herzliya, Tel Aviv District, IL | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556862170) | May 24, 2026 |
 | Boston Dynamics | Coyote Test Engineer 🇺🇸 | Tucson, AZ | - | [Apply](https://www.linkedin.com/jobs/view/4409498694) | May 24, 2026 |
 | Anduril | Security Software Engineer - Endpoint Security 🇺🇸 | Boston, Massachusetts, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5086960007?gh_jid=5086960007) | May 24, 2026 |
@@ -91,7 +86,6 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Security Software Engineer - Endpoint Security 🇺🇸 | Ashville, Ohio, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5086967007?gh_jid=5086967007) | May 24, 2026 |
 | Anduril | Electrical Engineer, Maneuver Dominance 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4687724007?gh_jid=4687724007) | May 24, 2026 |
 | Amazon Web Services (AWS) | Software Engineer- AI/ML, AWS Neuron 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4316841545) | May 24, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer, Internet Monitoring 🇺🇸 | Santa Clara, CA | - | [Apply](https://www.linkedin.com/jobs/view/4400503903) | May 24, 2026 |
 | Tesla | Associate Environmental Engineer 🇺🇸 | Sparks, NV | - | [Apply](https://www.linkedin.com/jobs/view/4418456588) | May 23, 2026 |
 | Zillow | Machine Learning Engineer, Zillow Shopping AI 🇺🇸 | United States | - | [Apply](https://www.linkedin.com/jobs/view/4341008321) | May 23, 2026 |
 | Tesla | Associate Facilities Engineer 🇺🇸 | Fremont, CA | - | [Apply](https://www.linkedin.com/jobs/view/4418449681) | May 23, 2026 |
@@ -109,10 +103,14 @@ how to fork, how to add companies, and how filtering works.
 | Boston Dynamics | 2026 Raytheon Full Time Embedded Software Engineer I 🇺🇸 | Indianapolis, IN | Early Career | [Apply](https://www.linkedin.com/jobs/view/4418090416) | May 23, 2026 |
 | Boston Dynamics | 2026 Raytheon Part Time Co-op - Software  Engineer (Remote) 🇺🇸 | Aurora, CO | Intern | [Apply](https://www.linkedin.com/jobs/view/4418093361) | May 23, 2026 |
 | Boston Dynamics | Electrical Engineer I (Onsite) 🇺🇸 | Marlborough, MA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4399844979) | May 23, 2026 |
+| Boston Dynamics | Mechanical Engineer I (Onsite) 🇺🇸 | Tewksbury, MA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4418084525) | May 23, 2026 |
 | Boston Dynamics | Mechanical Engineer I (Onsite) 🇺🇸 | Portsmouth, RI | Early Career | [Apply](https://www.linkedin.com/jobs/view/4418086582) | May 23, 2026 |
 | Amazon Web Services (AWS) | Software Dev Engineer, Amazon Connect 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4418453055) | May 23, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4345165722) | May 23, 2026 |
 | Tesla | Internship, Data Analyst, Energy (Fall 2026) 🇺🇸 | Fremont, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4416576546) | May 22, 2026 |
 | Tesla | Internship, Data Engineer, Energy (Fall 2026) 🇺🇸 | Palo Alto, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4416582555) | May 22, 2026 |
+| Tesla | Internship, Software Engineer, Energy Engineering (Fall 2026) 🇺🇸 | Palo Alto, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4416589514) | May 22, 2026 |
+| Tesla | Internship, Energy Optimization Software (Fall 2026) 🇺🇸 | Austin, TX | Intern | [Apply](https://www.linkedin.com/jobs/view/4416579591) | May 22, 2026 |
 | Tesla | Internship, Software Engineer, IT Apps (Fall 2026) 🇺🇸 | Fremont, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4416580546) | May 22, 2026 |
 | Tesla | Internship, Process Engineer, Energy (Fall 2026) 🇺🇸 | Austin, TX | Intern | [Apply](https://www.linkedin.com/jobs/view/4416588529) | May 22, 2026 |
 | SpaceX | Software Engineer (Thermal & Fluid Analysis) 🇺🇸 | Starbase, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002) | May 22, 2026 |
@@ -120,6 +118,7 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer, Flight Software (Starship) 🇺🇸 | Hawthorne, CA | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8562450002?gh_jid=8562450002) | May 22, 2026 |
 | SpaceX | Propulsion Engineer, Thermal & Fluid Analysis (Starship) 🇺🇸 | Starbase, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8562385002?gh_jid=8562385002) | May 22, 2026 |
 | SpaceX | Hardware Reliability Engineer, PCB Manufacturing (Starlink) 🇺🇸 | Bastrop, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8487667002?gh_jid=8487667002) | May 22, 2026 |
+| Snap | Security Engineer, Level 3 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4377039978) | May 22, 2026 |
 | Robinhood | Software Engineer, Backend 🇺🇸 | Menlo Park, CA | - | [Apply](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) | May 22, 2026 |
 | Robinhood | Support Engineer 🇺🇸 | Westlake, TX | - | [Apply](https://boards.greenhouse.io/robinhood/jobs/7847491?t=gh_src=&gh_jid=7847491) | May 22, 2026 |
 | Robinhood | Android Engineer 🇺🇸 | New York, NY | - | [Apply](https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758) | May 22, 2026 |
@@ -127,9 +126,9 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581) | May 22, 2026 |
 | Nvidia | Quantum Error Correction Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) | May 22, 2026 |
 | Boston Dynamics | 2027 Mission Systems Operations - Systems Engineer I - Onsite 🇺🇸 | Alexandria, VA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4417490375) | May 22, 2026 |
+| Boston Dynamics | Raytheon Full Time 2026 - Technical Support Engineer I 🇺🇸 | McKinney, TX | Early Career | [Apply](https://www.linkedin.com/jobs/view/4417493284) | May 22, 2026 |
 | Boston Dynamics | Electrical Engineer I (Onsite) 🇺🇸 | Portsmouth, RI | Early Career | [Apply](https://www.linkedin.com/jobs/view/4417483711) | May 22, 2026 |
 | Boston Dynamics | 2026 Full-time - Software Engineer I (Space and RF Sensors) - Onsite 🇺🇸 | Fort Wayne, IN | Early Career | [Apply](https://www.linkedin.com/jobs/view/4417705023) | May 22, 2026 |
-| Boston Dynamics | Full Time Raytheon 2026 - Power & Digital Electrical Engineer I 🇺🇸 | Fort Wayne, IN | Early Career | [Apply](https://www.linkedin.com/jobs/view/4399215612) | May 22, 2026 |
 | Boston Dynamics | 2026 Raytheon Part Time Co-op-Java Software Engineer (Remote) 🇺🇸 | State College, PA | Intern | [Apply](https://www.linkedin.com/jobs/view/4408246106) | May 22, 2026 |
 | Boston Dynamics | Mechanical Engineer I (Onsite) 🇺🇸 | Marlborough, MA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4417483701) | May 22, 2026 |
 | Anduril | Robotics Software Engineer, Verification & Validation 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007) | May 22, 2026 |
@@ -143,10 +142,8 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Early Career Software Engineer 🇺🇸 | Broomfield, Colorado, United States<br>Costa Mesa, California, United States<br>Fort Collins, Colorado, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | May 22, 2026 |
 | Anduril | Early Career Manufacturing Engineer 🇺🇸 | Santa Ana, California, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) | May 22, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer, AWS 🇺🇸 | Brooklyn, NY | - | [Apply](https://www.linkedin.com/jobs/view/4413686816) | May 22, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer, AWS 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4413693629) | May 22, 2026 |
 | Amazon Web Services (AWS) | Network Development Engineer Intern - Fall 2026 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4340731344) | May 22, 2026 |
 | Amazon Web Services (AWS) | Network Development Engineer Intern - Fall 2026 🇺🇸 | Arlington, VA | Intern | [Apply](https://www.linkedin.com/jobs/view/4340771195) | May 22, 2026 |
-| Amazon Web Services (AWS) | Network Development Engineer Intern - Fall 2026 🇺🇸 | Cupertino, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4340741422) | May 22, 2026 |
 | xAI | Software Engineer - Data 🇺🇸 | Palo Alto, CA | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5124616007) | May 21, 2026 |
 | Uber | Application Developer L3 – Identity & Access Management (IAM) 🇺🇸 | Sunnyvale, California, United States | - | [Apply](https://www.uber.com/careers/list/159177) | May 21, 2026 |
 | Stripe | Software Engineer 🇺🇸 | New York, NY | - | [Apply](https://stripe.com/jobs/search?gh_jid=7926587) | May 21, 2026 |
@@ -166,6 +163,7 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Facilities Engineer, Launch Infrastructure 🇺🇸 | Cape Canaveral, FL | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8491778002?gh_jid=8491778002) | May 21, 2026 |
 | SpaceX | Facilities Engineer, Mechanical (Starlink) 🇺🇸 | Bastrop, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8540341002?gh_jid=8540341002) | May 21, 2026 |
 | SpaceX | Design Verification Engineer (Silicon Engineering) 🇺🇸 | Austin, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8559067002?gh_jid=8559067002) | May 21, 2026 |
+| Snap | Security Engineer, Level 3 🇺🇸 | Palo Alto, CA | - | [Apply](https://www.linkedin.com/jobs/view/4377053302) | May 21, 2026 |
 | Skydio | Middleware Software Engineer Intern - Fall 2026 🇺🇸 | US CA San Mateo | Intern | [Apply](https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915) | May 21, 2026 |
 | Point72 | Summer 2027 Quantitative Developer Internship 🇺🇸 | New York | Bachelors, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) | May 21, 2026 |
 | Point72 | Summer 2027 Quantitative Research Internship 🇺🇸 | New York | PhD Student, Intern | [Apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) | May 21, 2026 |
@@ -220,9 +218,7 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Early Career Software Engineer 🇺🇸 | Seattle, Washington, United States | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4824364007?gh_jid=4824364007) | May 21, 2026 |
 | Anduril | Computer Vision Engineer, Space 🇺🇸 | Costa Mesa, California, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) | May 21, 2026 |
 | Anduril | Computer Vision Engineer, Space 🇺🇸 | Washington, District of Columbia, United States | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) | May 21, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer, Training & Certifications 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4399242871) | May 21, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer, Amazon S3 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4416976790) | May 20, 2026 |
-| Boston Dynamics | Program Controls Financial Analyst (Entry level) *HYBRID* 🇺🇸 | Andover, MA | New Grad | [Apply](https://www.linkedin.com/jobs/view/4416649058) | May 20, 2026 |
 | Stripe | PhD Machine Learning Engineer, Intern 🇺🇸 | San Francisco, New York City, Seattle | PhD, New Grad, Intern | [Apply](https://stripe.com/jobs/search?gh_jid=7216664) | May 20, 2026 |
 | Stripe | PhD Data Scientist, Intern 🇺🇸 | San Francisco, New York City, Seattle, Chicago | PhD, New Grad, Intern | [Apply](https://stripe.com/jobs/search?gh_jid=7874965) | May 20, 2026 |
 | SpaceX | Software Engineer (Starshield) 🇺🇸 | Redmond, WA | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8501199002?gh_jid=8501199002) | May 20, 2026 |
@@ -248,7 +244,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7473686?gh_jid=7473686) | May 20, 2026 |
 | Roblox | [2026] Software Engineer, Game Developer 🇺🇸 | San Mateo, CA, United States | - | [Apply](https://careers.roblox.com/jobs/7557909?gh_jid=7557909) | May 20, 2026 |
 | Roblox | [2026] Data Scientist, Foundation AI - PhD Early Career 🇺🇸 | San Mateo, CA, United States | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/7577436?gh_jid=7577436) | May 20, 2026 |
-| Palo Alto Networks | AI Financial Analyst 🇺🇸 | Santa Clara, CA | New Grad | [Apply](https://www.linkedin.com/jobs/view/4405174256) | May 20, 2026 |
 | Nvidia | AI Software Engineer, Kernel Libraries - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472) | May 20, 2026 |
 | Nvidia | Software Engineer, AI and DL Kernel Libraries - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-and-DL-Kernel-Libraries---New-College-Grad-2026_JR2018473) | May 20, 2026 |
 | Nvidia | Quantum Research Scientist Intern - Fall 2026 🇺🇸 | US, CA, Remote | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244) | May 20, 2026 |
@@ -258,6 +253,7 @@ how to fork, how to add companies, and how filtering works.
 | Google | Network Operations Residency Program, University Graduate, August 2026 Start 🇺🇸 | Atlanta, GA, USA | New Grad | [Apply](https://www.google.com/about/careers/applications/jobs/results/118981017938600646) | May 20, 2026 |
 | Google | Engineering Analyst, Trust and Safety Payments 🇺🇸 | Sunnyvale, CA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/143948727982138054) | May 20, 2026 |
 | Google | Silicon Design Verification Engineer 🇺🇸 | Mountain View, CA, USA | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86602986070909638) | May 20, 2026 |
+| Amazon Web Services (AWS) | Network Development Engineer Intern - Fall 2026 🇺🇸 | Herndon, VA | Intern | [Apply](https://www.linkedin.com/jobs/view/4340331747) | May 20, 2026 |
 | Zillow | AI Applied Scientist - PhD Intern, Evaluation Systems and Metrics 🇺🇸 | United States | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4305146798) | May 19, 2026 |
 | Zillow | Machine Learning Engineer, Agentic AI 🇺🇸 | United States | - | [Apply](https://www.linkedin.com/jobs/view/4385528913) | May 19, 2026 |
 | SpaceX | Software Engineer, CDN  (Starlink) 🇺🇸 | Redmond, WA | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8448505002?gh_jid=8448505002) | May 19, 2026 |
@@ -269,26 +265,28 @@ how to fork, how to add companies, and how filtering works.
 | Etched | PD Intern 🇺🇸 | San Jose | Intern | [Apply](https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) | May 19, 2026 |
 | Zillow | AI Applied Scientist - PhD Intern, Foundational IQ 🇺🇸 | United States | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4305155577) | May 18, 2026 |
 | Meta | Fundamental AI Researcher - FAIR 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4403288993) | May 18, 2026 |
-| Boston Dynamics | Low Observable Material Engineer 🇺🇸 | Tucson, AZ | - | [Apply](https://www.linkedin.com/jobs/view/4413959016) | May 18, 2026 |
 | Boston Dynamics | Low Observable Materials Engineer 🇺🇸 | Tucson, AZ | - | [Apply](https://www.linkedin.com/jobs/view/4413936972) | May 18, 2026 |
+| Boston Dynamics | Low Observable Material Engineer 🇺🇸 | Tucson, AZ | - | [Apply](https://www.linkedin.com/jobs/view/4413959016) | May 18, 2026 |
 | Boston Dynamics | 2026 Fulltime- Reliability Engineering I- Onsite 🇺🇸 | Tewksbury, MA | - | [Apply](https://www.linkedin.com/jobs/view/4415347363) | May 18, 2026 |
 | AMD | L3 Application Support Engineer 🇺🇸 | Austin, TX | - | [Apply](https://www.linkedin.com/jobs/view/4405873854) | May 18, 2026 |
 | Amazon Web Services (AWS) | (Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation 🇺🇸 | Cupertino, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4402899470) | May 18, 2026 |
 | Meta | Hardware Test & Automation Engineer 🇺🇸 | Redmond, WA | - | [Apply](https://www.linkedin.com/jobs/view/4403760434) | May 18, 2026 |
-| Amazon Web Services (AWS) | Non-Destructive Testing Engineer 🇺🇸 | Manassas, VA | - | [Apply](https://www.linkedin.com/jobs/view/4382600438) | May 18, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Carle Place, NY | - | [Apply](https://www.linkedin.com/jobs/view/4413770473) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer, AWS 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4415356578) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Arlington, VA | - | [Apply](https://www.linkedin.com/jobs/view/4415531120) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4412755878) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4412762417) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4412763398) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4413756688) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4415533071) | May 18, 2026 |
 | xAI | Security Engineer - Detection & Response 🇺🇸 | New York, NY<br>Palo Alto, CA | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5008186007) | May 18, 2026 |
 | Zillow | AI Applied Scientist - PhD Intern, Next-Gen Agentic and Multi-Modal Home Exploration Experience 🇺🇸 | United States | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4305141989) | May 18, 2026 |
 | Zillow | AI Applied Scientist - PhD Intern, Foundational AQ & EQ 🇺🇸 | United States | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4305147733) | May 18, 2026 |
 | xAI | Member of Technical Staff 🇺🇸 | Memphis, TN | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5044403007) | May 18, 2026 |
 | xAI | Data Engineer 🇺🇸 | Palo Alto, CA | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5120884007) | May 18, 2026 |
 | SpaceX | Development Test Engineer, Structures (Starship) 🇺🇸 | Starbase, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8551872002?gh_jid=8551872002) | May 18, 2026 |
+| Snap | Security Engineer, Level 3 🇺🇸 | Los Angeles, CA | - | [Apply](https://www.linkedin.com/jobs/view/4382377612) | May 18, 2026 |
 | Plaid | Software Engineer - Product Security 🇺🇸 | New York City Office | - | [Apply](https://jobs.ashbyhq.com/plaid/675be915-3aed-4fe2-8f8b-f56dde88cf8a) | May 18, 2026 |
 | Microsoft | Research Intern - Self-Improving AI 🇺🇸 | Cambridge, MA, US / New York, NY, US | Intern | [Apply](https://apply.careers.microsoft.com/careers/job/1970393556867858) | May 18, 2026 |
-| Meta | Software Engineer, AI Native 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4383089383) | May 18, 2026 |
 | Meta | Fundamental AI Researcher - FAIR 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4403707999) | May 18, 2026 |
 | LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | - | [Apply](https://www.linkedin.com/jobs/view/4393214814) | May 18, 2026 |
 | Boston Dynamics | 2026 Fulltime - Raytheon Power Electronics & Controls Electrical Engineer I(Onsite) 🇺🇸 | Huntsville, AL | Early Career | [Apply](https://www.linkedin.com/jobs/view/4384129405) | May 18, 2026 |
@@ -298,15 +296,16 @@ how to fork, how to add companies, and how filtering works.
 | Amazon Web Services (AWS) | (Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation 🇺🇸 | Austin, TX | Intern | [Apply](https://www.linkedin.com/jobs/view/4402890706) | May 18, 2026 |
 | AMD | L3 Application Support Engineer 🇺🇸 | North Carolina, United States | - | [Apply](https://www.linkedin.com/jobs/view/4405884201) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer, DC Assistant Development 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4413975037) | May 18, 2026 |
-| AMD | Intern - RF Engineering (Summer 2026) 🇺🇸 | West Union, SC | Intern | [Apply](https://www.linkedin.com/jobs/view/4414943750) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer, AWS 🇺🇸 | Brooklyn, NY | - | [Apply](https://www.linkedin.com/jobs/view/4415369240) | May 18, 2026 |
-| Amazon Web Services (AWS) | (Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4403201384) | May 18, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Arlington, VA | - | [Apply](https://www.linkedin.com/jobs/view/4412774044) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Arlington, VA | - | [Apply](https://www.linkedin.com/jobs/view/4413752719) | May 18, 2026 |
+| Amazon Web Services (AWS) | Data Engineer I, AWS WW Field Enablement, Analytics and Product Operations 🇺🇸 | Seattle, WA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4414974522) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | East Palo Alto, CA | - | [Apply](https://www.linkedin.com/jobs/view/4415850736) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | East Palo Alto, CA | - | [Apply](https://www.linkedin.com/jobs/view/4415855737) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | East Palo Alto, CA | - | [Apply](https://www.linkedin.com/jobs/view/4415865670) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4405889860) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4413747862) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4413757679) | May 18, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4413767529) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4414965686) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4415514908) | May 18, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4415529192) | May 18, 2026 |
@@ -346,45 +345,47 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Systems Software Engineer - New College Grad 2026 🇺🇸 | US, OR, Hillsboro | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) | May 12, 2026 |
 | Fireworks AI | Support Engineer 🇺🇸 | San Mateo, CA | - | [Apply](https://job-boards.greenhouse.io/fireworksai/jobs/4009077009) | May 12, 2026 |
 | Adobe | 2026 Intern - Data Scientist 🇺🇸 | San Jose | Intern | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453) | May 12, 2026 |
+| Meta | Software Engineer, Machine Learning 🇺🇸 | United States | - | [Apply](https://www.linkedin.com/jobs/view/4255818024) | May 11, 2026 |
+| Meta | Software Engineer, Machine Learning 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4255814153) | May 11, 2026 |
 | Meta | Software Engineer, Machine Learning 🇺🇸 | Austin, TX | - | [Apply](https://www.linkedin.com/jobs/view/4255809898) | May 11, 2026 |
-| Meta | Software Engineer, Machine Learning 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4350255427) | May 11, 2026 |
 | Meta | Software Engineer, Machine Learning 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4255810908) | May 11, 2026 |
 | Meta | Software Engineer, Machine Learning 🇺🇸 | San Mateo, CA | - | [Apply](https://www.linkedin.com/jobs/view/4255812821) | May 11, 2026 |
+| Meta | Software Engineer, Machine Learning 🇺🇸 | New York, NY | - | [Apply](https://www.linkedin.com/jobs/view/4350255427) | May 11, 2026 |
+| Meta | Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸 | Burlingame, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350245449) | May 11, 2026 |
 | Boston Dynamics | 2026 Raytheon Part Time -Systems Engineer Co-op (Remote) 🇺🇸 | Richardson, TX | Intern | [Apply](https://www.linkedin.com/jobs/view/4411969435) | May 11, 2026 |
 | Boston Dynamics | Mechanical Engineers II, Design – Actively Growing our Engineering Team! 🇺🇸 | Tucson, AZ | - | [Apply](https://www.linkedin.com/jobs/view/4410556168) | May 11, 2026 |
-| Amazon Web Services (AWS) | Machine Learning Engineer, AWS Applied AI Solution 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4381958807) | May 11, 2026 |
+| Amazon Web Services (AWS) | Network Development Engineer Intern - Fall Intern 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4370383843) | May 11, 2026 |
 | Amazon Web Services (AWS) | Network Development Engineer Intern - Fall Intern 🇺🇸 | Cupertino, CA | Intern | [Apply](https://www.linkedin.com/jobs/view/4370389530) | May 11, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4410556994) | May 11, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4410557977) | May 11, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4410562840) | May 11, 2026 |
 | SpaceX | New Graduate Engineer, Mechanical (Starlink) 🇺🇸 | Redmond, WA | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8542046002?gh_jid=8542046002) | May 11, 2026 |
 | SpaceX | Mechanical Design Engineer, Gateways (Starlink) 🇺🇸 | Bastrop, TX | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8542789002?gh_jid=8542789002) | May 11, 2026 |
 | SpaceX | Data & Control Systems Technician (Starship Launch Hardware) 🇺🇸 | Cape Canaveral, FL | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8543809002?gh_jid=8543809002) | May 11, 2026 |
-| Snap | Embedded Software Engineer, Level 3 🇺🇸 | San Diego, CA | - | [Apply](https://www.linkedin.com/jobs/view/4369994145) | May 11, 2026 |
 | Nvidia | GPU System and Scheduling Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1) | May 11, 2026 |
 | Meta | Research Scientist Intern, Machine Perception for Input and Interaction (PhD) 🇺🇸 | Redmond, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4295617161) | May 11, 2026 |
 | Meta | Research Scientist Intern PhD, Applied Research 🇺🇸 | Menlo Park, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350155408) | May 11, 2026 |
+| Meta | Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸 | Redmond, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4291466172) | May 11, 2026 |
+| Meta | Production Engineering 🇺🇸 | United States | - | [Apply](https://www.linkedin.com/jobs/view/4301092859) | May 11, 2026 |
 | Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Bellevue, WA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4301800816) | May 11, 2026 |
 | Meta | Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸 | Menlo Park, CA | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4302643436) | May 11, 2026 |
-| Meta | Research Scientist Intern PhD, Applied Research 🇺🇸 | New York, NY | PhD, Intern | [Apply](https://www.linkedin.com/jobs/view/4350195363) | May 11, 2026 |
+| Meta | Software Engineer, AI Native 🇺🇸 | Menlo Park, CA | - | [Apply](https://www.linkedin.com/jobs/view/4378153850) | May 11, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Bellevue, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312023968) | May 11, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | New York, NY | Intern | [Apply](https://www.linkedin.com/jobs/view/4312031471) | May 11, 2026 |
-| Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Boston, MA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312039282) | May 11, 2026 |
 | Meta | Research Scientist Intern, AI Alignment 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4312043129) | May 11, 2026 |
 | DRW | Software Engineer - Prediction Markets (Python) 🇺🇸 | Chicago | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7713854) | May 11, 2026 |
 | Boston Dynamics | Electrical Engineers II, Power & Analog, Design & Production Support – Actively Growing Our Engineering Team! 🇺🇸 | Tucson, AZ | - | [Apply](https://www.linkedin.com/jobs/view/4390339202) | May 11, 2026 |
-| Boston Dynamics | Raytheon Full Time 2026 - RF Systems Engineer I 🇺🇸 | Forest, MS | Early Career | [Apply](https://www.linkedin.com/jobs/view/4402923167) | May 11, 2026 |
 | Boston Dynamics | 2026 Fulltime-Raytheon Electrical Engineer I (Onsite) 🇺🇸 | McKinney, TX | Early Career | [Apply](https://www.linkedin.com/jobs/view/4410554206) | May 11, 2026 |
 | Boston Dynamics | 2026  Raytheon Full Time- Software Engineer I -(Onsite) 🇺🇸 | Huntsville, AL | Early Career | [Apply](https://www.linkedin.com/jobs/view/4410555171) | May 11, 2026 |
 | Boston Dynamics | Raytheon Full Time 2026 - Semiconductor Foundry Engineer I 🇺🇸 | Andover, MA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4401707304) | May 11, 2026 |
 | Boston Dynamics | Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I 🇺🇸 | Tewksbury, MA | Early Career | [Apply](https://www.linkedin.com/jobs/view/4402914277) | May 11, 2026 |
-| Boston Dynamics | Junior Network Administrator, McKinney, TX Onsite 🇺🇸 | McKinney, TX | - | [Apply](https://www.linkedin.com/jobs/view/4409785431) | May 11, 2026 |
-| Amazon Web Services (AWS) | C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4410910437) | May 11, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer, AWS 🇺🇸 | Cupertino, CA | - | [Apply](https://www.linkedin.com/jobs/view/4412413253) | May 11, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer, AWS 🇺🇸 | New York, United States | - | [Apply](https://www.linkedin.com/jobs/view/4412463662) | May 11, 2026 |
-| Amazon Web Services (AWS) | Front-End Engineer, EC2 Core Platform 🇺🇸 | Seattle, WA | - | [Apply](https://www.linkedin.com/jobs/view/4401512967) | May 11, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Arlington, VA | - | [Apply](https://www.linkedin.com/jobs/view/4410559997) | May 11, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Carle Place, NY | - | [Apply](https://www.linkedin.com/jobs/view/4410576155) | May 11, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer, AI Upgrades & Transformation 🇺🇸 | East Palo Alto, CA | - | [Apply](https://www.linkedin.com/jobs/view/4412406435) | May 11, 2026 |
 | Amazon Web Services (AWS) | Network Development Engineer Intern - Fall Intern 🇺🇸 | Herndon, VA | Intern | [Apply](https://www.linkedin.com/jobs/view/4370387705) | May 11, 2026 |
 | Amazon Web Services (AWS) | Network Development Engineer Intern - Fall Intern 🇺🇸 | Arlington, VA | Intern | [Apply](https://www.linkedin.com/jobs/view/4370500224) | May 11, 2026 |
-| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Bellevue, WA | - | [Apply](https://www.linkedin.com/jobs/view/4410562839) | May 11, 2026 |
+| Amazon Web Services (AWS) | Software Development Engineer 🇺🇸 | Brooklyn, NY | - | [Apply](https://www.linkedin.com/jobs/view/4410566783) | May 11, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) 🇺🇸 | Seattle, WA | Intern | [Apply](https://www.linkedin.com/jobs/view/4411283596) | May 11, 2026 |
 | Uber | 2026 Fall Software Engineering Internship, US 🇺🇸 | New York, New York, United States / Seattle, Washington, United States / San Francisco, California, United States / Sunnyvale, California, United States | BS Student, Intern | [Apply](https://www.uber.com/careers/list/159161) | May 08, 2026 |
 | SpaceX | New Graduate Engineer, Electrical - Satellites (Starlink) 🇺🇸 | Redmond, WA | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8541336002?gh_jid=8541336002) | May 08, 2026 |
@@ -605,7 +606,6 @@ how to fork, how to add companies, and how filtering works.
 | Notion | Software Engineer, New Grad (AI) 🇺🇸 | San Francisco, California | New Grad | [Apply](https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9) | Apr 27, 2026 |
 | Nvidia | System Software Engineer - Tegra 🇺🇸 | US, CA, Santa Clara | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Tegra_JR2007081) | Apr 25, 2026 |
 | Nvidia | Deep Learning Architect, LLM Inference - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2016950) | Apr 25, 2026 |
-| Nvidia | ASIC Verification Engineer - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573) | Apr 25, 2026 |
 | Nvidia | Solutions Architect, Data Processing - New College Grad 2026 🇺🇸 | 2 Locations | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--Data-Processing---New-College-Grad-2026_JR2017017) | Apr 25, 2026 |
 | Nvidia | Low Power ASIC Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017001) | Apr 25, 2026 |
 | Nvidia | Software Engineering Intern, JAX - Fall 2026 🇺🇸 | US, CA, Santa Clara | Intern | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | Apr 25, 2026 |
@@ -678,61 +678,65 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (50)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (54)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Education | Apply | Date Posted |
 |---------|------|----------|-----------|-------|-------------|
+| ~~Tesla~~ | ~~Application Support Engineer, Factory Software 🇺🇸~~ | Fremont, CA | - | Closed | May 25, 2026 |
+| ~~Tesla~~ | ~~Mechanical Design Engineer, Chassis 🇺🇸~~ | Austin, TX | - | Closed | May 25, 2026 |
 | ~~Tesla~~ | ~~Professional Engineering Trainee, PEAK Program (Summer 2026) 🇺🇸~~ | Fremont, CA | - | Closed | May 25, 2026 |
 | ~~Tesla~~ | ~~Associate Shift Engineer, Cell Tabless 🇺🇸~~ | Austin, TX | - | Closed | May 25, 2026 |
+| ~~Boston Dynamics~~ | ~~Systems Safety Engineer 🇺🇸~~ | Tewksbury, MA | - | Closed | May 25, 2026 |
+| ~~Boston Dynamics~~ | ~~2026-Fulltime- Systems Engineer I – Onsite McKinney, Texas 🇺🇸~~ | McKinney, TX | Early Career | Closed | May 25, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Arlington, VA | - | Closed | May 25, 2026 |
+| ~~Tesla~~ | ~~Associate Mechanical Design Engineer 🇺🇸~~ | Brooklyn Park, MN | - | Closed | May 24, 2026 |
 | ~~Tesla~~ | ~~Associate Controls Engineer 🇺🇸~~ | Austin, TX | - | Closed | May 24, 2026 |
 | ~~Tesla~~ | ~~Supplier Industrialization Engineer, Closures & Mechatronics 🇺🇸~~ | Fremont, CA | - | Closed | May 24, 2026 |
+| ~~Tesla~~ | ~~Mechanical Design Engineer, Chassis, Semi 🇺🇸~~ | Fremont, CA | - | Closed | May 24, 2026 |
 | ~~Boston Dynamics~~ | ~~Electrical Computer Aided Designer Engineer (ECAD) 1 🇺🇸~~ | Tucson, AZ | - | Closed | May 24, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer, Internet Monitoring 🇺🇸~~ | Santa Clara, CA | - | Closed | May 24, 2026 |
 | ~~Boston Dynamics~~ | ~~2026 Fulltime- RF Electrical Engineer I- Onsite 🇺🇸~~ | Marlborough, MA | Early Career | Closed | May 23, 2026 |
-| ~~Boston Dynamics~~ | ~~Mechanical Engineer I (Onsite) 🇺🇸~~ | Tewksbury, MA | Early Career | Closed | May 23, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | New York, United States | - | Closed | May 23, 2026 |
-| ~~Tesla~~ | ~~Internship, Software Engineer, Energy Engineering (Fall 2026) 🇺🇸~~ | Palo Alto, CA | Intern | Closed | May 22, 2026 |
 | ~~Tesla~~ | ~~Internship, Operational Automation Engineer, Residential Energy (Fall 2026) 🇺🇸~~ | Draper, UT | Intern | Closed | May 22, 2026 |
 | ~~Tesla~~ | ~~Internship, Electrical Engineer, Energy Engineering (Fall 2026) 🇺🇸~~ | Palo Alto, CA | Intern | Closed | May 22, 2026 |
-| ~~Tesla~~ | ~~Internship, Energy Optimization Software (Fall 2026) 🇺🇸~~ | Austin, TX | Intern | Closed | May 22, 2026 |
 | ~~Tesla~~ | ~~Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Fall 2026) 🇺🇸~~ | Palo Alto, CA | Intern | Closed | May 22, 2026 |
-| ~~Snap~~ | ~~Security Engineer, Level 3 🇺🇸~~ | Bellevue, WA | - | Closed | May 22, 2026 |
-| ~~Boston Dynamics~~ | ~~Raytheon Full Time 2026 - Technical Support Engineer I 🇺🇸~~ | McKinney, TX | Early Career | Closed | May 22, 2026 |
 | ~~Boston Dynamics~~ | ~~Raytheon Full Time 2026 - RF Mechanical Engineer I 🇺🇸~~ | Tucson, AZ | Early Career | Closed | May 22, 2026 |
+| ~~Boston Dynamics~~ | ~~Full Time Raytheon 2026 - Power & Digital Electrical Engineer I 🇺🇸~~ | Fort Wayne, IN | Early Career | Closed | May 22, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer, AWS 🇺🇸~~ | New York, United States | - | Closed | May 22, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Network Development Engineer Intern - Fall 2026 🇺🇸~~ | Cupertino, CA | Intern | Closed | May 22, 2026 |
 | ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer, Amazon Quick Suite 🇺🇸~~ | Seattle, WA | - | Closed | May 21, 2026 |
-| ~~Snap~~ | ~~Security Engineer, Level 3 🇺🇸~~ | Palo Alto, CA | - | Closed | May 21, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer, Training & Certifications 🇺🇸~~ | Seattle, WA | - | Closed | May 21, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Apple Player 🇺🇸~~ | Los Gatos,California,United States of America | - | Closed | May 20, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Network Development Engineer Intern - Fall 2026 🇺🇸~~ | Herndon, VA | Intern | Closed | May 20, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer, AWS 🇺🇸~~ | Seattle, WA | - | Closed | May 18, 2026 |
+| ~~Boston Dynamics~~ | ~~Program Controls Financial Analyst (Entry level) *HYBRID* 🇺🇸~~ | Andover, MA | New Grad | Closed | May 20, 2026 |
+| ~~Palo Alto Networks~~ | ~~AI Financial Analyst 🇺🇸~~ | Santa Clara, CA | New Grad | Closed | May 20, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Non-Destructive Testing Engineer 🇺🇸~~ | Manassas, VA | - | Closed | May 18, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Carle Place, NY | - | Closed | May 18, 2026 |
+| ~~Meta~~ | ~~Software Engineer, AI Native 🇺🇸~~ | New York, NY | - | Closed | May 18, 2026 |
+| ~~AMD~~ | ~~Intern - RF Engineering (Summer 2026) 🇺🇸~~ | West Union, SC | Intern | Closed | May 18, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation 🇺🇸~~ | Seattle, WA | Intern | Closed | May 18, 2026 |
 | ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Arlington, VA | - | Closed | May 18, 2026 |
 | ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Seattle, WA | - | Closed | May 18, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | New York, United States | - | Closed | May 18, 2026 |
-| ~~Snap~~ | ~~Security Engineer, Level 3 🇺🇸~~ | Los Angeles, CA | - | Closed | May 18, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Arlington, VA | - | Closed | May 18, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Seattle, WA | - | Closed | May 18, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Data Engineer I, AWS WW Field Enablement, Analytics and Product Operations 🇺🇸~~ | Seattle, WA | Early Career | Closed | May 18, 2026 |
 | ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | East Palo Alto, CA | - | Closed | May 18, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | East Palo Alto, CA | - | Closed | May 18, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Cupertino, CA | - | Closed | May 18, 2026 |
-| ~~Meta~~ | ~~Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸~~ | Burlingame, CA | PhD, Intern | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Research Scientist Intern, Monetization Generative AI - LLM (PhD) 🇺🇸~~ | Seattle, WA | PhD, Intern | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Software Engineer, AI Native 🇺🇸~~ | Bellevue, WA | - | Closed | May 11, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Network Development Engineer Intern - Fall Intern 🇺🇸~~ | Seattle, WA | Intern | Closed | May 11, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Seattle, WA | - | Closed | May 11, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Cupertino, CA | - | Closed | May 11, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Machine Learning Engineer, AWS Applied AI Solution 🇺🇸~~ | Seattle, WA | - | Closed | May 11, 2026 |
 | ~~Zillow~~ | ~~Applied Scientist, New Construction 🇺🇸~~ | United States | - | Closed | May 11, 2026 |
-| ~~Meta~~ | ~~Research Scientist Intern, Robotic Control Policy (PhD) 🇺🇸~~ | Redmond, WA | PhD, Intern | Closed | May 11, 2026 |
-| ~~Meta~~ | ~~Production Engineering 🇺🇸~~ | United States | - | Closed | May 11, 2026 |
-| ~~Meta~~ | ~~Software Engineer, AI Native 🇺🇸~~ | Menlo Park, CA | - | Closed | May 11, 2026 |
+| ~~Snap~~ | ~~Embedded Software Engineer, Level 3 🇺🇸~~ | San Diego, CA | - | Closed | May 11, 2026 |
+| ~~Meta~~ | ~~Research Scientist Intern PhD, Applied Research 🇺🇸~~ | New York, NY | PhD, Intern | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Software Engineer, Machine Learning 🇺🇸~~ | Redmond, WA | - | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Software Engineer, Machine Learning 🇺🇸~~ | Burlingame, CA | - | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | Menlo Park, CA | Intern | Closed | May 11, 2026 |
+| ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | Boston, MA | Intern | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Research Scientist Intern, AI Alignment 🇺🇸~~ | San Francisco, CA | Intern | Closed | May 11, 2026 |
 | ~~Meta~~ | ~~Software Engineer, Machine Learning 🇺🇸~~ | San Francisco, CA | - | Closed | May 11, 2026 |
+| ~~Boston Dynamics~~ | ~~Raytheon Full Time 2026 - RF Systems Engineer I 🇺🇸~~ | Forest, MS | Early Career | Closed | May 11, 2026 |
+| ~~Boston Dynamics~~ | ~~Junior Network Administrator, McKinney, TX Onsite 🇺🇸~~ | McKinney, TX | - | Closed | May 11, 2026 |
 | ~~Boston Dynamics~~ | ~~Chemicals and Materials Engineer I 🇺🇸~~ | Tucson, AZ | Early Career | Closed | May 11, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Arlington, VA | - | Closed | May 11, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Carle Place, NY | - | Closed | May 11, 2026 |
-| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Brooklyn, NY | - | Closed | May 11, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems 🇺🇸~~ | Cupertino, CA | - | Closed | May 11, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer, AWS 🇺🇸~~ | New York, United States | - | Closed | May 11, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Front-End Engineer, EC2 Core Platform 🇺🇸~~ | Seattle, WA | - | Closed | May 11, 2026 |
+| ~~Amazon Web Services (AWS)~~ | ~~Software Development Engineer 🇺🇸~~ | Bellevue, WA | - | Closed | May 11, 2026 |
+| ~~Nvidia~~ | ~~ASIC Verification Engineer - New College Grad 2026 🇺🇸~~ | 2 Locations | New Grad | Closed | Apr 25, 2026 |
 
 </details>
 
