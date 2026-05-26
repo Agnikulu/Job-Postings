@@ -1,28 +1,22 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-26 17:44 UTC  
-**New matches this run:** 7  
+**Run timestamp:** 2026-05-26 19:27 UTC  
+**New matches this run:** 4  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Amazon Web Services (AWS) - 4 new (4 technical)
+## Uber - 2 new (2 technical)
 
-- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4410261539) - *New York, United States*
-- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4410262516) - *New York, NY*
-- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4410268380) - *Seattle, WA*
-- **[TECH]** [Software Development Engineer, AWS Compute Services](https://www.linkedin.com/jobs/view/4239755575) - *Austin, TX*
+- **[TECH]** [Data Center Engineer, Electrical](https://www.uber.com/careers/list/159160) - *San Francisco, California, United States*
+- **[TECH]** [Data Center Engineer, Structured Cabling & Physical Network](https://www.uber.com/careers/list/159171) - *Sunnyvale, California, United States*
 
-## Lambda Labs - 1 new (1 technical)
+## Amazon Web Services (AWS) - 1 new (1 technical)
 
-- **[TECH]** [Data Center Electrical Modeling Intern - 2026](https://jobs.ashbyhq.com/lambda/9c964b0d-984b-4220-a1ee-ea237a4f14ea) - *San Jose Office (Zanker)*
+- **[TECH]** [Software Development Engineer, AWS Compute Services](https://www.linkedin.com/jobs/view/4239758111) - *Sunnyvale, CA*
 
-## Roblox - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Software Engineer, Monetization Products](https://careers.roblox.com/jobs/7947219?gh_jid=7947219) - *San Mateo, CA, United States*
-
-## SpaceX - 1 new (1 technical)
-
-- **[TECH]** [Fire Protection Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8552269002?gh_jid=8552269002) - *Redmond, WA*
+- **[TECH]** [Compiler Engineer, Compute Front-End - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compiler-Engineer---Compute-Front-End--New-College-Grad-2026_JR2013488) - *3 Locations*
