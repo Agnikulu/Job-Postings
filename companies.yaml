@@ -553,8 +553,8 @@
   category: big_tech
 
 - name: LinkedIn
-  ats: linkedin
-  linkedin_company_id: "1337"
+  ats: greenhouse
+  slug: linkedin
   category: big_tech
 
 - name: Microsoft

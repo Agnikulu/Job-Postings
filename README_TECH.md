@@ -147,7 +147,7 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 
 | Setting | Value | Purpose |
 |---------|-------|---------|
-| `timeout-minutes` | 45 | Avoid 20m kill mid-run (fetch + classify all companies) |
+| `timeout-minutes` | 59 | Avoid killing long runs mid-scrape (fetch + classify all companies) |
 | `ATS_SNIPER_FETCH_WORKERS` | 8 | Parallel company fetch (non-LinkedIn only; LinkedIn is always serial) |
 | `ATS_SNIPER_LINKEDIN_DELAY_SEC` | 6 | Pause between LinkedIn company fetches |
 | `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 0.75 | Pause between LinkedIn search pages |
@@ -294,7 +294,7 @@ python scripts/company_portal_links.py
 | Google | big_tech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&target_level=INTERN_AND_APPRENTICE&sort_by=date) |
 | Instacart | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/instacart) |
 | Intuit | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
-| LinkedIn | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| LinkedIn | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/linkedin) |
 | Lyft | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/lyft) |
 | Marvell | big_tech | `workday` | [Open board](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers) |
 | Meta | big_tech | `meta` | [Open board](https://www.metacareers.com/jobs) |
