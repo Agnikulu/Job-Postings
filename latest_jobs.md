@@ -1,17 +1,22 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-28 11:57 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-05-28 14:04 UTC  
+**New matches this run:** 4  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Boston Dynamics - 1 new (1 technical)
+## Tesla - 2 new (2 technical)
 
-- **[TECH]** [Jr. Systems Administrator](https://www.linkedin.com/jobs/view/4409585559) - *Tucson, AZ*
+- **[TECH]** [Frontend Software Engineer, Energy Residential](https://www.linkedin.com/jobs/view/4420204917) - *Fremont, CA*
+- **[TECH]** [Internship, Mechanical Design Engineer, Optimus (Fall 2026)](https://www.linkedin.com/jobs/view/4420210802) - *Palo Alto, CA*
 
-## Tesla - 1 new (1 technical)
+## Meta - 1 new (1 technical)
 
-- **[TECH]** [Internship, Mechanical Design Engineer, Vehicle Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420209928) - *Fremont, CA*
+- **[TECH]** [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.linkedin.com/jobs/view/4340853542) - *Seattle, WA*
+
+## SpaceX - 1 new (1 technical)
+
+- **[TECH]** [Data Engineer (Starlink Growth)](https://boards.greenhouse.io/spacex/jobs/8564400002?gh_jid=8564400002) - *Redmond, WA*
