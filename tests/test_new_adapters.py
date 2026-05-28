@@ -298,6 +298,50 @@ def test_amazon_jobs_fetch_maps_fields() -> None:
     assert "Seattle" in jobs[0].location
 
 
+def test_amazon_jobs_parallel_merge_preserves_order() -> None:
+    def fake_page(session, offset: int, base_query: str) -> dict:
+        if offset == 0:
+            return {
+                "hits": 150,
+                "jobs": [
+                    {"id_icims": i, "title": f"Role {i}", "job_path": f"/en/jobs/{i}"}
+                    for i in range(1, 101)
+                ],
+            }
+        if offset == 100:
+            return {
+                "jobs": [
+                    {"id_icims": i, "title": f"Role {i}", "job_path": f"/en/jobs/{i}"}
+                    for i in range(101, 151)
+                ],
+            }
+        return {"jobs": []}
+
+    company = {"name": "Amazon Web Services (AWS)", "category": "big_tech"}
+    with patch("adapters.amazon_jobs._get_page", side_effect=fake_page):
+        jobs = fetch_amazon_jobs(company)
+    assert len(jobs) == 150
+    assert jobs[0].id == "1"
+    assert jobs[-1].id == "150"
+
+
+def test_meta_skips_sitemap_when_state_blocked(tmp_path, monkeypatch) -> None:
+    from adapters import meta as meta_mod
+
+    state_file = tmp_path / "meta_careers_state.json"
+    state_file.write_text('{"sitemap_blocked": true}', encoding="utf-8")
+    monkeypatch.setattr(meta_mod, "STATE_PATH", state_file)
+
+    company = {
+        "name": "Meta",
+        "linkedin_company_id": "10667",
+        "category": "big_tech",
+    }
+    with patch.object(meta_mod, "_fetch_linkedin_fallback", return_value=[]) as li:
+        meta_mod.fetch(company)
+    li.assert_called_once()
+
+
 def test_meta_falls_back_to_linkedin_when_blocked() -> None:
     from adapters.meta import fetch as fetch_meta
 

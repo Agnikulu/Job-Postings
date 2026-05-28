@@ -7,6 +7,7 @@ Supports optional base_query (e.g. "Amazon Web Services" for AWS-only listings).
 from __future__ import annotations
 
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any
 
 import requests
@@ -20,6 +21,7 @@ from tenacity import (
 from text_util import normalize_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
+from .http_util import http_session
 
 log = logging.getLogger(__name__)
 
@@ -27,11 +29,12 @@ SEARCH_URL = "https://www.amazon.jobs/en/search.json"
 JOB_BASE = "https://www.amazon.jobs"
 PAGE_SIZE = 100
 MAX_PAGES = 100
+# Parallel offset fetches (independent pages; merge sorted by offset).
+PAGE_WORKERS = 6
 
 
 def _headers() -> dict[str, str]:
     return {
-        **DEFAULT_HEADERS,
         "Accept": "application/json",
         "Referer": "https://www.amazon.jobs/en/search",
     }
@@ -43,15 +46,95 @@ def _headers() -> dict[str, str]:
     wait=wait_exponential(multiplier=1, min=2, max=10),
     retry=retry_if_exception_type(requests.RequestException),
 )
-def _get_page(offset: int, base_query: str) -> dict[str, Any]:
+def _get_page(
+    session: requests.Session,
+    offset: int,
+    base_query: str,
+) -> dict[str, Any]:
     params: dict[str, Any] = {"offset": offset, "result_limit": PAGE_SIZE}
     if base_query:
         params["base_query"] = base_query
-    resp = requests.get(
-        SEARCH_URL, params=params, headers=_headers(), timeout=DEFAULT_TIMEOUT
-    )
+    resp = session.get(SEARCH_URL, params=params, timeout=DEFAULT_TIMEOUT)
     resp.raise_for_status()
     return resp.json()
+
+
+def _page_offsets(first_payload: dict[str, Any]) -> list[int] | None:
+    """Offsets for remaining pages after offset 0, or None if total is unknown."""
+    first_jobs = first_payload.get("jobs") or []
+    if not first_jobs or len(first_jobs) < PAGE_SIZE:
+        return []
+    hits = first_payload.get("hits")
+    try:
+        total = int(hits)
+    except (TypeError, ValueError):
+        return None
+    max_offset = min(total, MAX_PAGES * PAGE_SIZE)
+    return list(range(PAGE_SIZE, max_offset, PAGE_SIZE))
+
+
+def _fetch_remaining_serial(
+    session: requests.Session,
+    base_query: str,
+    offset: int,
+) -> list[dict[str, Any]]:
+    """Same stop rules as the original serial pagination loop."""
+    merged: list[dict[str, Any]] = []
+    for _ in range(1, MAX_PAGES):
+        payload = _get_page(session, offset, base_query)
+        page_jobs = payload.get("jobs") or []
+        if not page_jobs:
+            break
+        merged.extend(page_jobs)
+        offset += len(page_jobs)
+        if len(page_jobs) < PAGE_SIZE:
+            break
+    return merged
+
+
+def _fetch_all_raw(session: requests.Session, base_query: str) -> list[dict[str, Any]]:
+    first = _get_page(session, 0, base_query)
+    first_jobs = list(first.get("jobs") or [])
+    if not first_jobs:
+        return []
+    if len(first_jobs) < PAGE_SIZE:
+        return first_jobs
+
+    extra_offsets = _page_offsets(first)
+    if extra_offsets is None:
+        return first_jobs + _fetch_remaining_serial(
+            session, base_query, len(first_jobs)
+        )
+    if not extra_offsets:
+        return first_jobs
+
+    pages: list[tuple[int, list[dict[str, Any]]]] = [(0, first_jobs)]
+
+    def _fetch_offset(offset: int) -> tuple[int, list[dict[str, Any]]]:
+        with http_session({**DEFAULT_HEADERS, **_headers()}) as worker_session:
+            payload = _get_page(worker_session, offset, base_query)
+        return offset, list(payload.get("jobs") or [])
+
+    with ThreadPoolExecutor(max_workers=PAGE_WORKERS) as pool:
+        futures = [pool.submit(_fetch_offset, off) for off in extra_offsets]
+        for future in as_completed(futures):
+            pages.append(future.result())
+
+    merged = _merge_pages(pages)
+    # If API total was stale, continue serially from the next offset.
+    if merged and len(merged) % PAGE_SIZE == 0 and len(merged) < MAX_PAGES * PAGE_SIZE:
+        tail = _fetch_remaining_serial(session, base_query, len(merged))
+        if tail:
+            merged.extend(tail)
+    return merged
+
+
+def _merge_pages(pages: list[tuple[int, list[dict[str, Any]]]]) -> list[dict[str, Any]]:
+    pages.sort(key=lambda item: item[0])
+    merged: list[dict[str, Any]] = []
+    for _offset, jobs in pages:
+        merged.extend(jobs)
+    return merged
 
 
 def _job_url(raw: dict[str, Any]) -> str:
@@ -77,27 +160,16 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         company.get("amazon_query") or company.get("base_query") or ""
     ).strip()
 
-    all_raw: list[dict[str, Any]] = []
-    offset = 0
-    for _ in range(MAX_PAGES):
-        try:
-            payload = _get_page(offset, base_query)
-        except requests.HTTPError as e:
-            raise AdapterError(
-                f"Amazon Jobs HTTP {e.response.status_code} for {name} offset={offset}"
-            ) from e
-        except requests.RequestException as e:
-            raise AdapterError(f"Amazon Jobs network error for {name}: {e}") from e
-        except ValueError as e:
-            raise AdapterError(f"Amazon Jobs invalid JSON for {name}") from e
-
-        page_jobs = payload.get("jobs") or []
-        if not page_jobs:
-            break
-        all_raw.extend(page_jobs)
-        offset += len(page_jobs)
-        if len(page_jobs) < PAGE_SIZE:
-            break
+    try:
+        with http_session({**DEFAULT_HEADERS, **_headers()}) as session:
+            all_raw = _fetch_all_raw(session, base_query)
+    except requests.HTTPError as e:
+        code = e.response.status_code if e.response is not None else "?"
+        raise AdapterError(f"Amazon Jobs HTTP {code} for {name}") from e
+    except requests.RequestException as e:
+        raise AdapterError(f"Amazon Jobs network error for {name}: {e}") from e
+    except ValueError as e:
+        raise AdapterError(f"Amazon Jobs invalid JSON for {name}") from e
 
     jobs: list[Job] = []
     for raw in all_raw:

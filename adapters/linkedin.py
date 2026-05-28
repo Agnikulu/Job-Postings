@@ -26,6 +26,7 @@ from fetch_limits import linkedin_page_delay_sec, max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
+from .http_util import http_session
 
 log = logging.getLogger(__name__)
 
@@ -69,11 +70,15 @@ def _sleep_for_rate_limit(resp: requests.Response) -> None:
     wait=wait_exponential(multiplier=2, min=4, max=60),
     retry=retry_if_exception(_retryable_request_error),
 )
-def _get_page(company_id: str, start: int, location: str) -> str:
-    resp = requests.get(
+def _get_page(
+    session: requests.Session,
+    company_id: str,
+    start: int,
+    location: str,
+) -> str:
+    resp = session.get(
         SEARCH_URL,
         params={"f_C": company_id, "location": location, "start": start},
-        headers=_browser_headers(),
         timeout=DEFAULT_TIMEOUT,
     )
     if resp.status_code == 429:
@@ -122,37 +127,40 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     page_delay = linkedin_page_delay_sec()
 
     all_raw: list[dict[str, str]] = []
-    for page in range(max_list_pages(MAX_PAGES)):
-        start = page * PAGE_SIZE
-        if page and page_delay:
-            time.sleep(page_delay)
-        try:
-            page_jobs = _parse_page(_get_page(company_id, start, location))
-        except requests.HTTPError as e:
-            code = e.response.status_code if e.response is not None else "?"
-            if code == 429:
-                log.warning(
-                    "LinkedIn HTTP 429 for %s start=%s (retries exhausted)",
-                    name,
-                    start,
+    with http_session(_browser_headers()) as session:
+        for page in range(max_list_pages(MAX_PAGES)):
+            start = page * PAGE_SIZE
+            if page and page_delay:
+                time.sleep(page_delay)
+            try:
+                page_jobs = _parse_page(
+                    _get_page(session, company_id, start, location)
                 )
-            # Guest search often returns 400 once start exceeds the index cap
-            # (e.g. Intuit/Qualcomm with very large US catalogs).
-            if code == 400 and all_raw:
-                log.warning(
-                    "LinkedIn HTTP 400 for %s start=%s; stopping pagination at %d jobs",
-                    name,
-                    start,
-                    len(all_raw),
-                )
-                break
-            raise AdapterError(f"LinkedIn HTTP {code} for {name} start={start}") from e
-        except requests.RequestException as e:
-            raise AdapterError(f"LinkedIn network error for {name}: {e}") from e
+            except requests.HTTPError as e:
+                code = e.response.status_code if e.response is not None else "?"
+                if code == 429:
+                    log.warning(
+                        "LinkedIn HTTP 429 for %s start=%s (retries exhausted)",
+                        name,
+                        start,
+                    )
+                # Guest search often returns 400 once start exceeds the index cap
+                # (e.g. Intuit/Qualcomm with very large US catalogs).
+                if code == 400 and all_raw:
+                    log.warning(
+                        "LinkedIn HTTP 400 for %s start=%s; stopping pagination at %d jobs",
+                        name,
+                        start,
+                        len(all_raw),
+                    )
+                    break
+                raise AdapterError(f"LinkedIn HTTP {code} for {name} start={start}") from e
+            except requests.RequestException as e:
+                raise AdapterError(f"LinkedIn network error for {name}: {e}") from e
 
-        if not page_jobs:
-            break
-        all_raw.extend(page_jobs)
+            if not page_jobs:
+                break
+            all_raw.extend(page_jobs)
 
     jobs: list[Job] = []
     for raw in all_raw:

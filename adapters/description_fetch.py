@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import logging
 import re
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any, Callable, TypeVar
@@ -25,6 +26,26 @@ log = logging.getLogger(__name__)
 K = TypeVar("K")
 V = TypeVar("V")
 
+_thread_local = threading.local()
+
+
+def _json_session() -> requests.Session:
+    session = getattr(_thread_local, "json_session", None)
+    if session is None:
+        session = requests.Session()
+        session.headers.update({**DEFAULT_HEADERS, "Accept": "application/json"})
+        _thread_local.json_session = session
+    return session
+
+
+def _html_session() -> requests.Session:
+    session = getattr(_thread_local, "html_session", None)
+    if session is None:
+        session = requests.Session()
+        session.headers.update({**DEFAULT_HEADERS, "Accept": "text/html,application/json,*/*"})
+        _thread_local.html_session = session
+    return session
+
 _GOOGLE_DETAIL_DS0 = re.compile(
     r"AF_initDataCallback\(\{key:\s*'ds:0',\s*hash:\s*'\d+',\s*data:(.*?),\s*sideChannel:",
     re.DOTALL,
@@ -44,10 +65,11 @@ def _get_json(
     referer: str | None = None,
     timeout: float = DEFAULT_TIMEOUT,
 ) -> dict[str, Any]:
-    headers = {**DEFAULT_HEADERS, "Accept": "application/json"}
+    session = _json_session()
+    headers: dict[str, str] = {}
     if referer:
         headers["Referer"] = referer
-    resp = requests.get(url, headers=headers, timeout=timeout)
+    resp = session.get(url, headers=headers or None, timeout=timeout)
     resp.raise_for_status()
     payload = resp.json()
     if not isinstance(payload, dict):
@@ -62,10 +84,11 @@ def _get_json(
     retry=retry_if_exception_type(requests.RequestException),
 )
 def _get_html(url: str, *, referer: str | None = None) -> str:
-    headers = {**DEFAULT_HEADERS, "Accept": "text/html,application/json,*/*"}
+    session = _html_session()
+    headers: dict[str, str] = {}
     if referer:
         headers["Referer"] = referer
-    resp = requests.get(url, headers=headers, timeout=DEFAULT_TIMEOUT)
+    resp = session.get(url, headers=headers or None, timeout=DEFAULT_TIMEOUT)
     resp.raise_for_status()
     return resp.text
 

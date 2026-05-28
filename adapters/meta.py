@@ -30,6 +30,7 @@ log = logging.getLogger(__name__)
 
 SITEMAP_URL = "https://www.metacareers.com/jobs/sitemap.xml"
 CACHE_PATH = Path(__file__).resolve().parent.parent / "meta_title_cache.json"
+STATE_PATH = Path(__file__).resolve().parent.parent / "meta_careers_state.json"
 _OG_TITLE_RE = re.compile(r'<meta property="og:title" content="([^"]+)"')
 _DETAIL_DELAY_SEC = 0.85
 _BATCH_SIZE = 20
@@ -91,6 +92,40 @@ def _load_cache() -> dict[str, str]:
 
 def _save_cache(cache: dict[str, str]) -> None:
     CACHE_PATH.write_text(json.dumps(cache, indent=2, sort_keys=True), encoding="utf-8")
+
+
+def _load_state() -> dict[str, Any]:
+    if not STATE_PATH.exists():
+        return {}
+    try:
+        payload = json.loads(STATE_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    return payload if isinstance(payload, dict) else {}
+
+
+def _save_state(state: dict[str, Any]) -> None:
+    STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True), encoding="utf-8")
+
+
+def _sitemap_blocked() -> bool:
+    return bool(_load_state().get("sitemap_blocked"))
+
+
+def _mark_sitemap_blocked() -> None:
+    state = _load_state()
+    if state.get("sitemap_blocked"):
+        return
+    state["sitemap_blocked"] = True
+    _save_state(state)
+
+
+def _clear_sitemap_blocked() -> None:
+    state = _load_state()
+    if not state.get("sitemap_blocked"):
+        return
+    state.pop("sitemap_blocked", None)
+    _save_state(state)
 
 
 @retry(
@@ -184,10 +219,14 @@ def _fetch_missing_titles(
 
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
+    if _sitemap_blocked() and company.get("linkedin_company_id"):
+        return _fetch_linkedin_fallback(company)
     try:
         entries = _get_sitemap_entries()
+        _clear_sitemap_blocked()
     except requests.HTTPError as e:
         if _blocked_status(e) in {400, 403} and company.get("linkedin_company_id"):
+            _mark_sitemap_blocked()
             return _fetch_linkedin_fallback(company)
         raise AdapterError(
             f"Meta HTTP {e.response.status_code} fetching sitemap for {name}"

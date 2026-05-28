@@ -97,7 +97,9 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | SmartRecruiters | `smartrecruiters.py` | 1 | Offset pagination |
 | Jibe | `jibe.py` | 1 | Paginated JSON |
 
-**Meta** uses the `meta` adapter (metacareers.com jobs sitemap + title cache). Requires browser headers (not `DEFAULT_HEADERS`). Some networks/datacenter IPs get HTTP 400 from metacareers; when that happens and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta).
+**Meta** uses the `meta` adapter (metacareers.com jobs sitemap + title cache). Requires browser headers (not `DEFAULT_HEADERS`). Some networks/datacenter IPs get HTTP 400 from metacareers; when that happens and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta). After the first block, `meta_careers_state.json` skips the sitemap probe on later runs.
+
+**HTTP performance:** List/detail adapters reuse `requests.Session` (TCP/TLS). Amazon Jobs fetches search pages in parallel when the API reports `hits`. Workday/LinkedIn detail fetches use per-thread sessions during parallel description enrichment.
 
 **Amazon Jobs** (`amazon_jobs`) hits `amazon.jobs/en/search.json`. AWS entry uses `amazon_query: Amazon Web Services` (~5k roles). Retail Amazon could use the same adapter without a query.
 
@@ -146,7 +148,7 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | Setting | Value | Purpose |
 |---------|-------|---------|
 | `timeout-minutes` | 45 | Avoid 20m kill mid-run (fetch + classify all companies) |
-| `ATS_SNIPER_FETCH_WORKERS` | 4 | Parallel company fetch (non-LinkedIn only; LinkedIn is always serial) |
+| `ATS_SNIPER_FETCH_WORKERS` | 8 | Parallel company fetch (non-LinkedIn only; LinkedIn is always serial) |
 | `ATS_SNIPER_LINKEDIN_DELAY_SEC` | 6 | Pause between LinkedIn company fetches |
 | `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 0.75 | Pause between LinkedIn search pages |
 | `ATS_SNIPER_EVAL_FETCH_WORKERS` | 4 | Parallel workers for eval fetch (non-LinkedIn) |

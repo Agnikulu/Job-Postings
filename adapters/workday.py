@@ -31,6 +31,7 @@ from fetch_limits import max_list_pages
 from filters import should_fetch_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
+from .http_util import http_session
 
 log = logging.getLogger(__name__)
 
@@ -50,9 +51,12 @@ DETAIL_DELAY_SEC = 0.02
     wait=wait_exponential(multiplier=1, min=2, max=10),
     retry=retry_if_exception_type(requests.RequestException),
 )
-def _post_page(url: str, offset: int) -> dict[str, Any]:
-    headers = {**DEFAULT_HEADERS, "Content-Type": "application/json"}
-    resp = requests.post(
+def _post_page(
+    session: requests.Session,
+    url: str,
+    offset: int,
+) -> dict[str, Any]:
+    resp = session.post(
         url,
         json={
             "appliedFacets": {},
@@ -60,7 +64,6 @@ def _post_page(url: str, offset: int) -> dict[str, Any]:
             "offset": offset,
             "searchText": "",
         },
-        headers=headers,
         timeout=DEFAULT_TIMEOUT,
     )
     resp.raise_for_status()
@@ -107,23 +110,25 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     url, site_base, cxs_base = _workday_endpoints(company)
 
     all_raw: list[dict[str, Any]] = []
-    for page in range(max_list_pages(MAX_PAGES)):
-        offset = page * PAGE_SIZE
-        try:
-            payload = _post_page(url, offset)
-        except requests.HTTPError as e:
-            raise AdapterError(
-                f"Workday HTTP {e.response.status_code} for {name} at offset {offset}"
-            ) from e
-        except requests.RequestException as e:
-            raise AdapterError(f"Workday network error for {name}: {e}") from e
-        except ValueError as e:
-            raise AdapterError(f"Workday returned invalid JSON for {name}") from e
+    list_headers = {**DEFAULT_HEADERS, "Content-Type": "application/json"}
+    with http_session(list_headers) as session:
+        for page in range(max_list_pages(MAX_PAGES)):
+            offset = page * PAGE_SIZE
+            try:
+                payload = _post_page(session, url, offset)
+            except requests.HTTPError as e:
+                raise AdapterError(
+                    f"Workday HTTP {e.response.status_code} for {name} at offset {offset}"
+                ) from e
+            except requests.RequestException as e:
+                raise AdapterError(f"Workday network error for {name}: {e}") from e
+            except ValueError as e:
+                raise AdapterError(f"Workday returned invalid JSON for {name}") from e
 
-        page_jobs = payload.get("jobPostings") or []
-        all_raw.extend(page_jobs)
-        if len(page_jobs) < PAGE_SIZE:
-            break
+            page_jobs = payload.get("jobPostings") or []
+            all_raw.extend(page_jobs)
+            if len(page_jobs) < PAGE_SIZE:
+                break
 
     jobs: list[Job] = []
     descriptions: dict[str, str | None] = {}
