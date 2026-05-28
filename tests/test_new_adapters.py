@@ -13,6 +13,7 @@ from adapters.jibe import fetch as fetch_jibe
 from adapters.recruitee import fetch as fetch_recruitee
 from adapters.rippling import fetch as fetch_rippling
 from adapters.coinbase import fetch as fetch_coinbase
+from adapters.snyk import fetch as fetch_snyk
 from adapters.smartrecruiters import fetch as fetch_smartrecruiters
 from adapters.uber import fetch as fetch_uber
 from adapters.wiz import fetch as fetch_wiz
@@ -233,3 +234,29 @@ def test_coinbase_fetch_maps_fields() -> None:
     assert jobs[0].url == "https://www.coinbase.com/careers/positions/6685678006"
     assert jobs[0].department == "Engineering"
     assert jobs[0].description is not None
+
+
+def test_snyk_fetch_maps_fields() -> None:
+    payload = [
+        {
+            "url": "https://snyk.wd103.myworkdayjobs.com/External/job/US/Software-Engineer_JR100001",
+            "title": "Software Engineer",
+            "jobRequisitionId": "JR100001",
+            "jobPostingID": "JOB_POSTING-3-1",
+            "locations": {"@_Descriptor": "United States - Boston Office"},
+            "Job_Requisition_group": {
+                "department": {"@_Descriptor": "Engineering"},
+                "departmentID": "DPT_Engineering",
+            },
+        }
+    ]
+    company = {"name": "Snyk", "category": "big_tech"}
+    with patch("adapters.snyk._get_payload", return_value=payload):
+        jobs = fetch_snyk(company)
+    assert len(jobs) == 1
+    assert jobs[0].title == "Software Engineer"
+    assert jobs[0].ats == "snyk"
+    assert jobs[0].id == "JR100001"
+    assert jobs[0].location == "United States - Boston Office"
+    assert jobs[0].department == "Engineering"
+    assert "workdayjobs.com" in jobs[0].url

@@ -8,6 +8,7 @@ from .apple import fetch as fetch_apple
 from .ashby import fetch as fetch_ashby
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 from .coinbase import fetch as fetch_coinbase
+from .snyk import fetch as fetch_snyk
 from .eightfold import fetch as fetch_eightfold
 from .gem import fetch as fetch_gem
 from .google_careers import fetch as fetch_google_careers
@@ -45,6 +46,7 @@ ADAPTER_REGISTRY = {
     "recruitee": fetch_recruitee,
     "wiz": fetch_wiz,
     "coinbase": fetch_coinbase,
+    "snyk": fetch_snyk,
 }
 
 __all__ = [

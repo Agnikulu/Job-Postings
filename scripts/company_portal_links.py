@@ -47,6 +47,8 @@ def portal_url(entry: dict) -> str:
         return "https://www.wiz.io/careers"
     if ats == "coinbase":
         return "https://www.coinbase.com/careers/positions"
+    if ats == "snyk":
+        return "https://snyk.io/careers/all-jobs/"
     if ats == "eightfold":
         return f"https://{entry['careers_host']}"
     if ats == "jibe":

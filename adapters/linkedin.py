@@ -136,6 +136,16 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     name,
                     start,
                 )
+            # Guest search often returns 400 once start exceeds the index cap
+            # (e.g. Intuit/Qualcomm with very large US catalogs).
+            if code == 400 and all_raw:
+                log.warning(
+                    "LinkedIn HTTP 400 for %s start=%s; stopping pagination at %d jobs",
+                    name,
+                    start,
+                    len(all_raw),
+                )
+                break
             raise AdapterError(f"LinkedIn HTTP {code} for {name} start={start}") from e
         except requests.RequestException as e:
             raise AdapterError(f"LinkedIn network error for {name}: {e}") from e

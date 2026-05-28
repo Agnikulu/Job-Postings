@@ -3,7 +3,8 @@
 # Schema:
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
-#                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | linkedin
+#                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | snyk |
+#                linkedin
 #     slug:      Company slug for Greenhouse/Lever/Ashby/Workable/Gem/Rippling.
 #     careers_host: (jibe) Hostname for Jibe-powered career sites.
 #     locale:    (uber) Locale code for the careers search API (default: en).
@@ -613,4 +614,124 @@
 - name: Shopify
   ats: linkedin
   linkedin_company_id: "784652"
+  category: big_tech
+
+- name: Broadcom
+  ats: workday
+  tenant: broadcom
+  wd_pod: wd1
+  site: External_Career
+  category: big_tech
+
+- name: Brex
+  ats: greenhouse
+  slug: brex
+  category: big_tech
+
+- name: Affirm
+  ats: greenhouse
+  slug: affirm
+  category: big_tech
+
+- name: Duolingo
+  ats: greenhouse
+  slug: duolingo
+  category: big_tech
+
+- name: GitHub
+  ats: linkedin
+  linkedin_company_id: "1855"
+  category: big_tech
+
+- name: ServiceNow
+  ats: smartrecruiters
+  slug: ServiceNow
+  category: big_tech
+
+- name: Instacart
+  ats: greenhouse
+  slug: instacart
+  category: big_tech
+
+- name: Arm Holdings
+  ats: linkedin
+  linkedin_company_id: "4472"
+  category: big_tech
+
+- name: Qualcomm
+  ats: linkedin
+  linkedin_company_id: "2017"
+  category: big_tech
+
+- name: Marvell
+  ats: workday
+  tenant: marvell
+  wd_pod: wd1
+  site: MarvellCareers
+  category: big_tech
+
+- name: Intuit
+  ats: linkedin
+  linkedin_company_id: "1666"
+  category: big_tech
+
+- name: Okta
+  ats: greenhouse
+  slug: okta
+  category: big_tech
+
+- name: Zscaler
+  ats: greenhouse
+  slug: zscaler
+  category: big_tech
+
+- name: Arista Networks
+  ats: smartrecruiters
+  slug: AristaNetworks
+  category: big_tech
+
+- name: SentinelOne
+  ats: greenhouse
+  slug: sentinellabs
+  category: big_tech
+
+- name: Rubrik
+  ats: greenhouse
+  slug: rubrik
+  category: big_tech
+
+- name: dbt Labs
+  ats: greenhouse
+  slug: dbtlabsinc
+  category: big_tech
+
+- name: Aurora Innovation
+  ats: greenhouse
+  slug: aurorainnovation
+  category: big_tech
+
+- name: Zoox
+  ats: linkedin
+  linkedin_company_id: "17998520"
+  category: big_tech
+
+- name: Chime
+  ats: greenhouse
+  slug: chime
+  category: big_tech
+
+- name: Fivetran
+  ats: greenhouse
+  slug: fivetran
+  category: big_tech
+
+- name: Etsy
+  ats: workday
+  tenant: etsy
+  wd_pod: wd5
+  site: Etsy_Careers
+  category: big_tech
+
+- name: Snyk
+  ats: snyk
   category: big_tech

@@ -210,6 +210,16 @@ Two eval modes:
 2. **Discovery** — biased sample (`fetch-discovery`) overweighting regex positives, borderline titles, and new adapters; outputs `eval_recommendations.md` with grouped FP/FN fixes.
 
 ```bash
+# Relabel script-heuristic batches with agent hand-label rubric (US + EC + technical)
+python testing/scripts/_agent_hand_label.py relabel-script --archive
+python testing/scripts/_agent_hand_label.py merge
+
+# Score all agent_batches labels (25,884 jobs; incl. agent_rubric_v2 + legacy Cursor batches)
+python testing/scripts/_cursor_manual_eval.py rescore
+python testing/scripts/_cursor_manual_eval.py score-agent-only
+# Legacy Cursor-only slice (245 batches / ~8.6k jobs): score-agent-only --legacy-cursor-only
+# -> cursor_eval_agent_report.json, eval_agent_recommendations.md
+
 # Full corpus for hand-labeling (all postings, ~8k–25k jobs; 30–90 min)
 python testing/scripts/_cursor_manual_eval.py fetch-full
 
@@ -247,40 +257,63 @@ Source of truth: [`companies.yaml`](companies.yaml). Regenerate this table after
 python scripts/company_portal_links.py
 ```
 
-### Active companies (111)
+### Active companies (134)
 
-<!-- 111 active, 0 tier3_todo -->
+<!-- 134 active, 0 tier3_todo -->
 | Company | Category | ATS | Job board |
 |---------|----------|-----|-----------|
 | AMD | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Adobe | big_tech | `workday` | [Open board](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced) |
+| Affirm | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/affirm) |
 | Airbnb | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/airbnb) |
 | Amazon Web Services (AWS) | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Apple | big_tech | `apple` | [Open board](https://jobs.apple.com/en-us/search) |
+| Arista Networks | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/AristaNetworks) |
+| Arm Holdings | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Atlassian | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/Atlassian) |
+| Aurora Innovation | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/aurorainnovation) |
+| Brex | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/brex) |
+| Broadcom | big_tech | `workday` | [Open board](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) |
+| Chime | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/chime) |
 | CrowdStrike | big_tech | `workday` | [Open board](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) |
 | Datadog | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/datadog) |
 | Discord | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/discord) |
 | DoorDash | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/doordashusa) |
+| Duolingo | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/duolingo) |
+| Etsy | big_tech | `workday` | [Open board](https://etsy.wd5.myworkdayjobs.com/en-US/Etsy_Careers) |
+| Fivetran | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/fivetran) |
+| GitHub | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Google | big_tech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&target_level=INTERN_AND_APPRENTICE&sort_by=date) |
+| Instacart | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/instacart) |
+| Intuit | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | LinkedIn | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Lyft | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/lyft) |
+| Marvell | big_tech | `workday` | [Open board](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers) |
 | Meta | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Microsoft | big_tech | `microsoft` | [Open board](https://apply.careers.microsoft.com/careers) |
 | MongoDB | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/mongodb) |
 | Netflix | big_tech | `eightfold` | [Open board](https://explore.jobs.netflix.net) |
+| Okta | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/okta) |
 | Palantir | big_tech | `lever` | [Open board](https://jobs.lever.co/palantir) |
 | Palo Alto Networks | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Pinterest | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/pinterest) |
+| Qualcomm | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Reddit | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/reddit) |
 | Roblox | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/roblox) |
+| Rubrik | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/rubrik) |
+| SentinelOne | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/sentinellabs) |
+| ServiceNow | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/ServiceNow) |
 | Shopify | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Snap | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Snowflake | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/snowflake) |
+| Snyk | big_tech | `snyk` | [Open board](https://snyk.io/careers/all-jobs/) |
 | Spotify | big_tech | `lever` | [Open board](https://jobs.lever.co/spotify) |
 | Tesla | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Uber | big_tech | `uber` | [Open board](https://www.uber.com/careers/list/) |
 | Zillow | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Zoox | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Zscaler | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/zscaler) |
+| dbt Labs | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/dbtlabsinc) |
 | Benchling | biotech | `ashby` | [Open board](https://jobs.ashbyhq.com/benchling) |
 | Click Therapeutics | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/clicktherapeutics) |
 | EvolutionaryScale | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/biohub) |

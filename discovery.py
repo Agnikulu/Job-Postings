@@ -41,6 +41,7 @@ RC = "https://{slug}.recruitee.com/api/offers"
 WIZ = "https://www.wiz.io/api/fetch-jobs-data"
 CB = "https://www.coinbase.com/api/v2/careers"
 CB_GH = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
+SNYK_JOBS = "https://snyk.io/api/next/jobs"
 EF = "https://{host}/api/apply/v2/jobs"
 MS = "https://apply.careers.microsoft.com/api/pcsx/search"
 LI = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
@@ -353,6 +354,30 @@ def _check_coinbase(company: dict[str, Any]) -> tuple[int, int]:
         return 0, 0
 
 
+def _check_snyk() -> tuple[int, int]:
+    try:
+        r = requests.get(
+            SNYK_JOBS,
+            headers={
+                **DEFAULT_HEADERS,
+                "Accept": "application/json",
+                "Referer": "https://snyk.io/careers/all-jobs/",
+            },
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            try:
+                body = r.json()
+                if body.get("success"):
+                    count = len(body.get("data") or [])
+            except ValueError:
+                count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
 def _check_linkedin(company: dict[str, Any]) -> tuple[int, int]:
     company_id = company.get("linkedin_company_id") or "1337"
     location = company.get("search_location") or "United States"
@@ -456,6 +481,8 @@ def main() -> int:
             status, count = _check_wiz()
         elif ats == "coinbase":
             status, count = _check_coinbase(company)
+        elif ats == "snyk":
+            status, count = _check_snyk()
         else:
             print(f"{name:35} {ats:12} UNKNOWN")
             bad.append(name)
