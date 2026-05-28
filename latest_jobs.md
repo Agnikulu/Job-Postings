@@ -1,29 +1,26 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-28 03:52 UTC  
-**New matches this run:** 14  
+**Run timestamp:** 2026-05-28 06:04 UTC  
+**New matches this run:** 11  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Tesla - 13 new (13 technical)
+## Tesla - 9 new (9 technical)
 
-- **[TECH]** [Internship, Data Engineer, Fleet Analytics (Fall 2026)](https://www.linkedin.com/jobs/view/4420225240) - *Palo Alto, CA*
-- **[TECH]** [Internship, Engineering Automation Software Engineer, Vehicle Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420210899) - *Palo Alto, CA*
-- **[TECH]** [Internship, Frontend Engineer, Applications Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420210818) - *Fremont, CA*
-- **[TECH]** [Internship, Fullstack Engineer, AI Tooling (Fall 2026)](https://www.linkedin.com/jobs/view/4420206928) - *Palo Alto, CA*
-- **[TECH]** [Internship, Fullstack Engineer, Build Infrastructure (Fall 2026)](https://www.linkedin.com/jobs/view/4420224209) - *Palo Alto, CA*
-- **[TECH]** [Internship, Fullstack Engineer, Infrastructure Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420219567) - *Fremont, CA*
-- **[TECH]** [Internship, Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure (Fall 2026)](https://www.linkedin.com/jobs/view/4420216788) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Developer, Integration Platforms (Fall 2026)](https://www.linkedin.com/jobs/view/4420219546) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, AI Inference (Summer 2026)](https://www.linkedin.com/jobs/view/4420225150) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, Data Platforms (Fall 2026)](https://www.linkedin.com/jobs/view/4420214757) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, Integration Tools (Fall 2026)](https://www.linkedin.com/jobs/view/4420225148) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, Service Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420223263) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, Update Systems (Fall 2026)](https://www.linkedin.com/jobs/view/4420217657) - *Palo Alto, CA*
+- **[TECH]** [Frontend Software Engineer, Energy Charging](https://www.linkedin.com/jobs/view/4420223215) - *Fremont, CA*
+- **[TECH]** [Internship, Android Engineer, Mobile Software (Fall 2026)](https://www.linkedin.com/jobs/view/4420228003) - *Palo Alto, CA*
+- **[TECH]** [Internship, Embedded Software Engineer, AI Platforms (Fall 2026)](https://www.linkedin.com/jobs/view/4420228040) - *Palo Alto, CA*
+- **[TECH]** [Internship, Fullstack C++ Engineer, Vehicle User Interface (Fall 2026)](https://www.linkedin.com/jobs/view/4420207940) - *Palo Alto, CA*
+- **[TECH]** [Internship, Fullstack Software Engineer, Fleetnet (Fall 2026)](https://www.linkedin.com/jobs/view/4420221517) - *Palo Alto, CA*
+- **[TECH]** [Internship, Industrial Engineer, Supply Chain (Fall 2026)](https://www.linkedin.com/jobs/view/4420216682) - *Fremont, CA*
+- **[TECH]** [Internship, Robotics Modeling & Simulation Engineer, Optimus (Fall 2026)](https://www.linkedin.com/jobs/view/4420211804) - *Palo Alto, CA*
+- **[TECH]** [Internship, Software Engineer, Vehicle UI Development (Fall 2026)](https://www.linkedin.com/jobs/view/4420212736) - *Palo Alto, CA*
+- **[TECH]** [Internship, Software Integration Engineer, Optimus (Fall 2026)](https://www.linkedin.com/jobs/view/4420224218) - *Palo Alto, CA*
 
-## Amazon Web Services (AWS) - 1 new (1 technical)
+## Amazon Web Services (AWS) - 2 new (2 technical)
 
-- **[TECH]** [Software Development Engineer, AWS](https://www.linkedin.com/jobs/view/4413699469) - *Santa Clara, CA*
+- **[TECH]** [Full Stack Engineer, Developer Agents and Experiences](https://www.linkedin.com/jobs/view/4397377672) - *Seattle, WA*
+- **[TECH]** [Software Development Engineer, Amazon Connect](https://www.linkedin.com/jobs/view/4419977909) - *Seattle, WA*
