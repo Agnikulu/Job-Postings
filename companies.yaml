@@ -133,6 +133,16 @@
   slug: reka
   category: frontier_ai
 
+- name: Cerebras
+  ats: greenhouse
+  slug: cerebrassystems
+  category: frontier_ai
+
+- name: Crusoe
+  ats: ashby
+  slug: Crusoe
+  category: frontier_ai
+
 - name: Wiz
   ats: wiz
   category: frontier_ai
@@ -303,6 +313,16 @@
 - name: Coinbase
   ats: coinbase
   greenhouse_slug: cdpjobs
+  category: enterprise
+
+- name: Pure Storage
+  ats: greenhouse
+  slug: purestorage
+  category: enterprise
+
+- name: Baseten
+  ats: ashby
+  slug: baseten
   category: enterprise
 
 # =============================================================================
@@ -730,6 +750,11 @@
   tenant: etsy
   wd_pod: wd5
   site: Etsy_Careers
+  category: big_tech
+
+- name: Samsara
+  ats: greenhouse
+  slug: samsara
   category: big_tech
 
 - name: Snyk

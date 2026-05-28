@@ -257,9 +257,9 @@ Source of truth: [`companies.yaml`](companies.yaml). Regenerate this table after
 python scripts/company_portal_links.py
 ```
 
-### Active companies (134)
+### Active companies (139)
 
-<!-- 134 active, 0 tier3_todo -->
+<!-- 139 active, 0 tier3_todo -->
 | Company | Category | ATS | Job board |
 |---------|----------|-----|-----------|
 | AMD | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -301,6 +301,7 @@ python scripts/company_portal_links.py
 | Reddit | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/reddit) |
 | Roblox | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/roblox) |
 | Rubrik | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/rubrik) |
+| Samsara | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/samsara) |
 | SentinelOne | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/sentinellabs) |
 | ServiceNow | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/ServiceNow) |
 | Shopify | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -331,6 +332,7 @@ python scripts/company_portal_links.py
 | Xaira Therapeutics | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/xairatherapeutics) |
 | Zocdoc | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/zocdoc) |
 | Anyscale | enterprise | `lever` | [Open board](https://jobs.lever.co/anyscale) |
+| Baseten | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/baseten) |
 | Clay | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/claylabs) |
 | ClickHouse | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/clickhouse) |
 | Cloudflare | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/cloudflare) |
@@ -347,6 +349,7 @@ python scripts/company_portal_links.py
 | Modal Labs | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/modal) |
 | Notion | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/notion) |
 | Plaid | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/plaid) |
+| Pure Storage | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/purestorage) |
 | Ramp | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/ramp) |
 | Replit | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/replit) |
 | Retool | enterprise | `gem` | [Open board](https://jobs.gem.com/retool) |
@@ -360,8 +363,10 @@ python scripts/company_portal_links.py
 | Vercel | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/vercel) |
 | Warp | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/warp) |
 | Anthropic | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/anthropic) |
+| Cerebras | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/cerebrassystems) |
 | Cohere | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/cohere) |
 | CoreWeave | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/coreweave) |
+| Crusoe | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/Crusoe) |
 | Cursor | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/cursor) |
 | Fireworks AI | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/fireworksai) |
 | Glean | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/gleanwork) |
