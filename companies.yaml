@@ -4,7 +4,11 @@
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
 #                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | snyk |
-#                linkedin
+#                amazon_jobs | meta | linkedin
+#     # Workday (myworkdaysite.com hosts, e.g. Snap):
+#     workday_cxs_host, workday_public_base
+#     # amazon_jobs:
+#     amazon_query (optional search string, e.g. "Amazon Web Services")
 #     slug:      Company slug for Greenhouse/Lever/Ashby/Workable/Gem/Rippling.
 #     careers_host: (jibe) Hostname for Jibe-powered career sites.
 #     locale:    (uber) Locale code for the careers search API (default: en).
@@ -489,7 +493,7 @@
   category: big_tech
 
 - name: Meta
-  ats: linkedin
+  ats: meta
   linkedin_company_id: "10667"
   category: big_tech
 
@@ -602,8 +606,12 @@
   category: big_tech
 
 - name: Snap
-  ats: linkedin
-  linkedin_company_id: "15191764"
+  ats: workday
+  tenant: snapchat
+  wd_pod: wd1
+  site: snap
+  workday_cxs_host: wd1.myworkdaysite.com
+  workday_public_base: https://wd1.myworkdaysite.com/recruiting/snapchat/snap
   category: big_tech
 
 - name: Palo Alto Networks
@@ -612,8 +620,8 @@
   category: big_tech
 
 - name: Amazon Web Services (AWS)
-  ats: linkedin
-  linkedin_company_id: "2382910"
+  ats: amazon_jobs
+  amazon_query: Amazon Web Services
   category: big_tech
 
 - name: AMD

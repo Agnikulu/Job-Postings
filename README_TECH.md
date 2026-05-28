@@ -86,6 +86,8 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Recruitee | `recruitee.py` | 1 | Public offers API |
 | Wiz | `wiz.py` | 1 | Next.js careers JSON proxy |
 | Coinbase | `coinbase.py` | 1 | Careers REST API + GH fallback |
+| Amazon Jobs | `amazon_jobs.py` | 1 | amazon.jobs search.json |
+| Meta | `meta.py` | 1 | metacareers sitemap + title cache |
 | Microsoft | `microsoft.py` | 1 | PCSX search API (50/page) |
 | Apple | `apple.py` | 1 | HTML search pages |
 | Uber | `uber.py` | 1 | Careers search API |
@@ -95,7 +97,11 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | SmartRecruiters | `smartrecruiters.py` | 1 | Offset pagination |
 | Jibe | `jibe.py` | 1 | Paginated JSON |
 
-**Meta** uses the LinkedIn adapter (`linkedin_company_id: 10667`) because metacareers.com blocks datacenter IPs.
+**Meta** uses the `meta` adapter (metacareers.com jobs sitemap + title cache). Requires browser headers (not `DEFAULT_HEADERS`). Some networks/datacenter IPs get HTTP 400 from metacareers; when that happens and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta).
+
+**Amazon Jobs** (`amazon_jobs`) hits `amazon.jobs/en/search.json`. AWS entry uses `amazon_query: Amazon Web Services` (~5k roles). Retail Amazon could use the same adapter without a query.
+
+**Tesla** has no public JSON/Greenhouse board; `tesla.com/careers` returns 403 (Akamai). Stays on LinkedIn (`15564`).
 
 **Wiz** uses a custom adapter against `wiz.io/api/fetch-jobs-data`.
 
@@ -266,7 +272,7 @@ python scripts/company_portal_links.py
 | Adobe | big_tech | `workday` | [Open board](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced) |
 | Affirm | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/affirm) |
 | Airbnb | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/airbnb) |
-| Amazon Web Services (AWS) | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Amazon Web Services (AWS) | big_tech | `amazon_jobs` | [Open board](https://www.amazon.jobs/en/search) |
 | Apple | big_tech | `apple` | [Open board](https://jobs.apple.com/en-us/search) |
 | Arista Networks | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/AristaNetworks) |
 | Arm Holdings | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -289,7 +295,7 @@ python scripts/company_portal_links.py
 | LinkedIn | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Lyft | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/lyft) |
 | Marvell | big_tech | `workday` | [Open board](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers) |
-| Meta | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Meta | big_tech | `meta` | [Open board](https://www.metacareers.com/jobs) |
 | Microsoft | big_tech | `microsoft` | [Open board](https://apply.careers.microsoft.com/careers) |
 | MongoDB | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/mongodb) |
 | Netflix | big_tech | `eightfold` | [Open board](https://explore.jobs.netflix.net) |
@@ -305,7 +311,7 @@ python scripts/company_portal_links.py
 | SentinelOne | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/sentinellabs) |
 | ServiceNow | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/ServiceNow) |
 | Shopify | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
-| Snap | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Snap | big_tech | `workday` | [Open board](https://wd1.myworkdaysite.com/recruiting/snapchat/snap) |
 | Snowflake | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/snowflake) |
 | Snyk | big_tech | `snyk` | [Open board](https://snyk.io/careers/all-jobs/) |
 | Spotify | big_tech | `lever` | [Open board](https://jobs.lever.co/spotify) |

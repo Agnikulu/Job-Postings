@@ -6,13 +6,18 @@ import sys
 from pathlib import Path
 from unittest.mock import patch
 
+import requests
+
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from adapters.base import Job
 
 from adapters.gem import fetch as fetch_gem
 from adapters.jibe import fetch as fetch_jibe
 from adapters.recruitee import fetch as fetch_recruitee
 from adapters.rippling import fetch as fetch_rippling
 from adapters.coinbase import fetch as fetch_coinbase
+from adapters.amazon_jobs import fetch as fetch_amazon_jobs
 from adapters.snyk import fetch as fetch_snyk
 from adapters.smartrecruiters import fetch as fetch_smartrecruiters
 from adapters.uber import fetch as fetch_uber
@@ -260,3 +265,81 @@ def test_snyk_fetch_maps_fields() -> None:
     assert jobs[0].location == "United States - Boston Office"
     assert jobs[0].department == "Engineering"
     assert "workdayjobs.com" in jobs[0].url
+
+
+def test_amazon_jobs_fetch_maps_fields() -> None:
+    payload = {
+        "jobs": [
+            {
+                "id_icims": 1234567,
+                "id": "uuid-1",
+                "title": "Solutions Architect, Amazon Web Services",
+                "job_path": "/en/jobs/1234567/solutions-architect-aws",
+                "city": "Seattle",
+                "state": "WA",
+                "country_code": "USA",
+                "job_category": "aws",
+                "posted_date": "2026-04-01",
+                "description": "<p>Build with customers.</p>",
+            }
+        ]
+    }
+    company = {
+        "name": "Amazon Web Services (AWS)",
+        "amazon_query": "Amazon Web Services",
+        "category": "big_tech",
+    }
+    with patch("adapters.amazon_jobs._get_page", return_value=payload):
+        jobs = fetch_amazon_jobs(company)
+    assert len(jobs) == 1
+    assert jobs[0].title.startswith("Solutions Architect")
+    assert jobs[0].ats == "amazon_jobs"
+    assert jobs[0].url == "https://www.amazon.jobs/en/jobs/1234567/solutions-architect-aws"
+    assert "Seattle" in jobs[0].location
+
+
+def test_meta_falls_back_to_linkedin_when_blocked() -> None:
+    from adapters.meta import fetch as fetch_meta
+
+    company = {
+        "name": "Meta",
+        "linkedin_company_id": "10667",
+        "category": "big_tech",
+    }
+    err = requests.HTTPError("400")
+    err.response = type("R", (), {"status_code": 400})()
+    fake_jobs = [
+        Job(
+            id="1",
+            company="Meta",
+            title="Software Engineer",
+            location="Menlo Park, CA",
+            url="https://www.linkedin.com/jobs/view/1",
+            posted_at=None,
+            department=None,
+            ats="linkedin",
+            category="big_tech",
+        )
+    ]
+    with (
+        patch("adapters.meta._get_sitemap_entries", side_effect=err),
+        patch("adapters.meta.linkedin_adapter.fetch", return_value=fake_jobs) as li_fetch,
+    ):
+        jobs = fetch_meta(company)
+    li_fetch.assert_called_once()
+    assert jobs == fake_jobs
+
+
+def test_workday_myworkdaysite_host() -> None:
+    from adapters.workday import _workday_endpoints
+
+    company = {
+        "tenant": "snapchat",
+        "wd_pod": "wd1",
+        "site": "snap",
+        "workday_cxs_host": "wd1.myworkdaysite.com",
+        "workday_public_base": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap",
+    }
+    jobs_url, site_base, cxs_base = _workday_endpoints(company)
+    assert "myworkdaysite.com" in jobs_url
+    assert site_base.endswith("/recruiting/snapchat/snap")

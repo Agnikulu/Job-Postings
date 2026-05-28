@@ -4,6 +4,7 @@ Each adapter exposes a single `fetch(company: dict) -> list[Job]` function.
 Adding a new ATS is just: write a new module, then add it to ADAPTER_REGISTRY.
 """
 
+from .amazon_jobs import fetch as fetch_amazon_jobs
 from .apple import fetch as fetch_apple
 from .ashby import fetch as fetch_ashby
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -47,6 +48,7 @@ ADAPTER_REGISTRY = {
     "wiz": fetch_wiz,
     "coinbase": fetch_coinbase,
     "snyk": fetch_snyk,
+    "amazon_jobs": fetch_amazon_jobs,
 }
 
 __all__ = [

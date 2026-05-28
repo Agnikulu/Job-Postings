@@ -25,7 +25,8 @@ from scraper import load_registry
 GH = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
 LV = "https://api.lever.co/v0/postings/{slug}?mode=json"
 AS = "https://api.ashbyhq.com/posting-api/job-board/{slug}"
-WD = "https://{tenant}.{wd_pod}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
+WD = "https://{tenant}.{wd_pod}.{wd_host}/wday/cxs/{tenant}/{site}/jobs"
+AMAZON_JOBS = "https://www.amazon.jobs/en/search.json"
 WK = "https://apply.workable.com/api/v1/widget/accounts/{slug}"
 GEM = "https://jobs.gem.com/api/public/graphql"
 GEM_QUERY = """
@@ -301,9 +302,37 @@ def _check_apple() -> tuple[int, int]:
         return 0, 0
 
 
-def _check_meta() -> tuple[int, int]:
+def _check_amazon_jobs(company: dict[str, Any]) -> tuple[int, int]:
+    base_query = str(
+        company.get("amazon_query") or company.get("base_query") or ""
+    ).strip()
     try:
-        r = requests.get(META_SITEMAP, headers=DEFAULT_HEADERS, timeout=15)
+        params: dict[str, Any] = {"offset": 0, "result_limit": 10}
+        if base_query:
+            params["base_query"] = base_query
+        r = requests.get(
+            AMAZON_JOBS,
+            params=params,
+            headers={**DEFAULT_HEADERS, "Accept": "application/json"},
+            timeout=15,
+        )
+        count = len(r.json().get("jobs") or []) if r.ok else 0
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_meta() -> tuple[int, int]:
+    headers = {
+        **DEFAULT_HEADERS,
+        "Accept": "application/xml,text/xml,*/*",
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        ),
+    }
+    try:
+        r = requests.get(META_SITEMAP, headers=headers, timeout=15)
         count = 0
         if r.ok:
             count = r.text.count("<loc>https://www.metacareers.com/profile/job_details/")
@@ -403,10 +432,19 @@ def _check_linkedin(company: dict[str, Any]) -> tuple[int, int]:
         return 0, 0
 
 
+def _workday_jobs_url(company: dict[str, Any]) -> str:
+    tenant = company["tenant"]
+    site = company["site"]
+    cxs_host = (company.get("workday_cxs_host") or "").strip()
+    if cxs_host:
+        return f"https://{cxs_host}/wday/cxs/{tenant}/{site}/jobs"
+    wd_pod = company.get("wd_pod") or "wd5"
+    wd_host = company.get("workday_wd_host") or "myworkdayjobs.com"
+    return WD.format(tenant=tenant, wd_pod=wd_pod, site=site, wd_host=wd_host)
+
+
 def _check_workday(company: dict[str, Any]) -> tuple[int, int]:
-    url = WD.format(
-        tenant=company["tenant"], wd_pod=company["wd_pod"], site=company["site"]
-    )
+    url = _workday_jobs_url(company)
     try:
         r = requests.post(
             url,
@@ -471,6 +509,8 @@ def main() -> int:
             status, count = _check_microsoft(company)
         elif ats == "apple":
             status, count = _check_apple()
+        elif ats == "amazon_jobs":
+            status, count = _check_amazon_jobs(company)
         elif ats == "meta":
             status, count = _check_meta()
         elif ats == "linkedin":

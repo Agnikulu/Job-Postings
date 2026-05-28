@@ -34,9 +34,8 @@ from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
 
-BASE_URL = (
-    "https://{tenant}.{wd_pod}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
-)
+DEFAULT_WD_HOST = "myworkdayjobs.com"
+BASE_URL = "https://{tenant}.{wd_pod}.{wd_host}/wday/cxs/{tenant}/{site}/jobs"
 PAGE_SIZE = 20
 # 250 pages × 20 = 5000 postings max per company.
 # Real-world ceiling so far: Nvidia ~2000, Adobe ~1200 — both safely under.
@@ -68,19 +67,44 @@ def _post_page(url: str, offset: int) -> dict[str, Any]:
     return resp.json()
 
 
+def _workday_endpoints(company: dict[str, Any]) -> tuple[str, str, str]:
+    """Return (jobs_post_url, public_site_base, cxs_base)."""
+    tenant = company["tenant"]
+    site = company["site"]
+    cxs_host = (company.get("workday_cxs_host") or "").strip()
+    if cxs_host:
+        jobs_url = f"https://{cxs_host}/wday/cxs/{tenant}/{site}/jobs"
+        cxs_base = f"https://{cxs_host}/wday/cxs/{tenant}/{site}"
+        public_base = (company.get("workday_public_base") or "").strip()
+        site_base = public_base or f"https://{cxs_host}/en-US/{site}"
+        return jobs_url, site_base, cxs_base
+
+    wd_pod = company["wd_pod"]
+    wd_host = company.get("workday_wd_host") or DEFAULT_WD_HOST
+    jobs_url = BASE_URL.format(
+        tenant=tenant, wd_pod=wd_pod, site=site, wd_host=wd_host
+    )
+    site_base = f"https://{tenant}.{wd_pod}.{wd_host}/en-US/{site}"
+    cxs_base = f"https://{tenant}.{wd_pod}.{wd_host}/wday/cxs/{tenant}/{site}"
+    return jobs_url, site_base, cxs_base
+
+
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     tenant = company.get("tenant")
     wd_pod = company.get("wd_pod")
     site = company.get("site")
-    if not (tenant and wd_pod and site):
+    cxs_host = (company.get("workday_cxs_host") or "").strip()
+    if not (tenant and site):
         raise AdapterError(
-            f"Workday adapter requires 'tenant', 'wd_pod', and 'site' for {name}"
+            f"Workday adapter requires 'tenant' and 'site' for {name}"
+        )
+    if not cxs_host and not wd_pod:
+        raise AdapterError(
+            f"Workday adapter requires 'wd_pod' for {name} (or set workday_cxs_host)"
         )
 
-    url = BASE_URL.format(tenant=tenant, wd_pod=wd_pod, site=site)
-    site_base = f"https://{tenant}.{wd_pod}.myworkdayjobs.com/en-US/{site}"
-    cxs_base = f"https://{tenant}.{wd_pod}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
+    url, site_base, cxs_base = _workday_endpoints(company)
 
     all_raw: list[dict[str, Any]] = []
     for page in range(max_list_pages(MAX_PAGES)):

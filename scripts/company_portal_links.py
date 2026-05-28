@@ -27,9 +27,14 @@ def portal_url(entry: dict) -> str:
     if ats == "ashby":
         return f"https://jobs.ashbyhq.com/{entry['slug']}"
     if ats == "workday":
+        if entry.get("workday_public_base"):
+            return str(entry["workday_public_base"])
         tenant = entry["tenant"]
         pod = entry.get("wd_pod", "wd5")
         site = entry["site"]
+        cxs_host = entry.get("workday_cxs_host") or f"{tenant}.{pod}.myworkdayjobs.com"
+        if entry.get("workday_cxs_host"):
+            return f"https://{cxs_host}/recruiting/{tenant}/{site}"
         return f"https://{tenant}.{pod}.myworkdayjobs.com/en-US/{site}"
     if ats == "workable":
         return f"https://apply.workable.com/{entry['slug']}"
@@ -49,6 +54,10 @@ def portal_url(entry: dict) -> str:
         return "https://www.coinbase.com/careers/positions"
     if ats == "snyk":
         return "https://snyk.io/careers/all-jobs/"
+    if ats == "amazon_jobs":
+        return "https://www.amazon.jobs/en/search"
+    if ats == "meta":
+        return "https://www.metacareers.com/jobs"
     if ats == "eightfold":
         return f"https://{entry['careers_host']}"
     if ats == "jibe":

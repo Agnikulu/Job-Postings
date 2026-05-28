@@ -23,7 +23,8 @@ from tenacity import (
     wait_exponential,
 )
 
-from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
+from . import linkedin as linkedin_adapter
+from .base import DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
 
@@ -36,21 +37,46 @@ _BATCH_PAUSE_SEC = 8.0
 _MAX_DETAIL_ATTEMPTS = 8
 
 
-def _detail_headers() -> dict[str, str]:
+def _browser_headers() -> dict[str, str]:
+    # Do not merge DEFAULT_HEADERS — metacareers rejects the bot User-Agent.
     return {
-        **DEFAULT_HEADERS,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
         ),
     }
 
 
+def _detail_headers() -> dict[str, str]:
+    return _browser_headers()
+
+
 def _retryable_request_error(exc: BaseException) -> bool:
     if isinstance(exc, requests.HTTPError):
-        return exc.response.status_code in {400, 429, 500, 502, 503}
+        return exc.response.status_code in {429, 500, 502, 503}
     return isinstance(exc, requests.RequestException)
+
+
+def _blocked_status(exc: BaseException) -> int | None:
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return exc.response.status_code
+    return None
+
+
+def _fetch_linkedin_fallback(company: dict[str, Any]) -> list[Job]:
+    company_id = company.get("linkedin_company_id")
+    if not company_id:
+        raise AdapterError(
+            f"Meta metacareers blocked and no linkedin_company_id for {company.get('name', '?')}"
+        )
+    log.warning(
+        "Meta: metacareers unreachable; using LinkedIn company %s",
+        company_id,
+    )
+    li_company = {**company, "ats": "linkedin"}
+    return linkedin_adapter.fetch(li_company)
 
 
 def _load_cache() -> dict[str, str]:
@@ -74,7 +100,11 @@ def _save_cache(cache: dict[str, str]) -> None:
     retry=retry_if_exception(_retryable_request_error),
 )
 def _get_sitemap_entries() -> list[tuple[str, str | None]]:
-    resp = requests.get(SITEMAP_URL, headers=DEFAULT_HEADERS, timeout=DEFAULT_TIMEOUT)
+    session = requests.Session()
+    session.headers.update(_browser_headers())
+    # Warm session cookies; some edges require a prior /jobs visit.
+    session.get("https://www.metacareers.com/jobs", timeout=DEFAULT_TIMEOUT)
+    resp = session.get(SITEMAP_URL, timeout=DEFAULT_TIMEOUT)
     resp.raise_for_status()
     root = ET.fromstring(resp.content)
     ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
@@ -157,6 +187,8 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     try:
         entries = _get_sitemap_entries()
     except requests.HTTPError as e:
+        if _blocked_status(e) in {400, 403} and company.get("linkedin_company_id"):
+            return _fetch_linkedin_fallback(company)
         raise AdapterError(
             f"Meta HTTP {e.response.status_code} fetching sitemap for {name}"
         ) from e
