@@ -2,10 +2,15 @@
   "1X Technologies": {
     "last_postings": 104,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:43:41+00:00",
+    "last_run": "2026-05-29T01:40:47+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:43:41+00:00",
+        "postings": 104,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:40:47+00:00",
         "postings": 104,
         "matches": 3
       }
@@ -14,23 +19,33 @@
   "AMD": {
     "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:48:34+00:00",
+    "last_run": "2026-05-29T01:46:44+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:48:34+00:00",
+        "postings": 600,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:46:44+00:00",
         "postings": 600,
         "matches": 0
       }
     ]
   },
   "Adobe": {
-    "last_postings": 1199,
+    "last_postings": 1200,
     "last_matches": 9,
-    "last_run": "2026-05-29T00:48:21+00:00",
+    "last_run": "2026-05-29T01:46:32+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:48:21+00:00",
         "postings": 1199,
+        "matches": 9
+      },
+      {
+        "ts": "2026-05-29T01:46:32+00:00",
+        "postings": 1200,
         "matches": 9
       }
     ]
@@ -38,10 +53,15 @@
   "Affirm": {
     "last_postings": 167,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:48:23+00:00",
+    "last_run": "2026-05-29T01:46:33+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:48:23+00:00",
+        "postings": 167,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:46:33+00:00",
         "postings": 167,
         "matches": 4
       }
@@ -50,10 +70,15 @@
   "Airbnb": {
     "last_postings": 239,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:48:25+00:00",
+    "last_run": "2026-05-29T01:46:35+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:48:25+00:00",
+        "postings": 239,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:46:35+00:00",
         "postings": 239,
         "matches": 1
       }
@@ -62,10 +87,15 @@
   "Amazon Web Services (AWS)": {
     "last_postings": 1200,
     "last_matches": 5,
-    "last_run": "2026-05-29T00:48:34+00:00",
+    "last_run": "2026-05-29T01:46:44+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:48:34+00:00",
+        "postings": 1200,
+        "matches": 5
+      },
+      {
+        "ts": "2026-05-29T01:46:44+00:00",
         "postings": 1200,
         "matches": 5
       }
@@ -74,10 +104,15 @@
   "Anduril": {
     "last_postings": 1200,
     "last_matches": 42,
-    "last_run": "2026-05-29T00:48:54+00:00",
+    "last_run": "2026-05-29T01:47:04+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:48:54+00:00",
+        "postings": 1200,
+        "matches": 42
+      },
+      {
+        "ts": "2026-05-29T01:47:04+00:00",
         "postings": 1200,
         "matches": 42
       }
@@ -86,10 +121,15 @@
   "Anthropic": {
     "last_postings": 389,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:04+00:00",
+    "last_run": "2026-05-29T01:47:14+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:04+00:00",
+        "postings": 389,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:14+00:00",
         "postings": 389,
         "matches": 0
       }
@@ -98,10 +138,15 @@
   "Anyscale": {
     "last_postings": 1,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:04+00:00",
+    "last_run": "2026-05-29T01:47:14+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:04+00:00",
+        "postings": 1,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:14+00:00",
         "postings": 1,
         "matches": 0
       }
@@ -110,10 +155,15 @@
   "Apple": {
     "last_postings": 81,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:04+00:00",
+    "last_run": "2026-05-29T01:47:14+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:04+00:00",
+        "postings": 81,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:14+00:00",
         "postings": 81,
         "matches": 0
       }
@@ -122,10 +172,15 @@
   "Applied Intuition": {
     "last_postings": 228,
     "last_matches": 14,
-    "last_run": "2026-05-29T00:49:08+00:00",
+    "last_run": "2026-05-29T01:47:18+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:08+00:00",
+        "postings": 228,
+        "matches": 14
+      },
+      {
+        "ts": "2026-05-29T01:47:18+00:00",
         "postings": 228,
         "matches": 14
       }
@@ -134,10 +189,15 @@
   "Apptronik": {
     "last_postings": 86,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:49:08+00:00",
+    "last_run": "2026-05-29T01:47:19+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:08+00:00",
+        "postings": 86,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:47:19+00:00",
         "postings": 86,
         "matches": 2
       }
@@ -146,10 +206,15 @@
   "Arista Networks": {
     "last_postings": 257,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:49:08+00:00",
+    "last_run": "2026-05-29T01:47:19+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:08+00:00",
+        "postings": 257,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:47:19+00:00",
         "postings": 257,
         "matches": 4
       }
@@ -158,10 +223,15 @@
   "Arm Holdings": {
     "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:12+00:00",
+    "last_run": "2026-05-29T01:47:23+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:12+00:00",
+        "postings": 600,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:23+00:00",
         "postings": 600,
         "matches": 0
       }
@@ -170,10 +240,15 @@
   "Atlassian": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:12+00:00",
+    "last_run": "2026-05-29T01:47:23+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:12+00:00",
+        "postings": 0,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:23+00:00",
         "postings": 0,
         "matches": 0
       }
@@ -182,10 +257,15 @@
   "Aurora Innovation": {
     "last_postings": 161,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:49:13+00:00",
+    "last_run": "2026-05-29T01:47:25+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:13+00:00",
+        "postings": 161,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:47:25+00:00",
         "postings": 161,
         "matches": 2
       }
@@ -194,10 +274,15 @@
   "Baseten": {
     "last_postings": 62,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:14+00:00",
+    "last_run": "2026-05-29T01:47:25+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:14+00:00",
+        "postings": 62,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:25+00:00",
         "postings": 62,
         "matches": 0
       }
@@ -206,10 +291,15 @@
   "Benchling": {
     "last_postings": 46,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:49:14+00:00",
+    "last_run": "2026-05-29T01:47:26+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:14+00:00",
+        "postings": 46,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:47:26+00:00",
         "postings": 46,
         "matches": 3
       }
@@ -218,23 +308,33 @@
   "Boston Dynamics": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:14+00:00",
+    "last_run": "2026-05-29T01:47:26+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:14+00:00",
+        "postings": 0,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:26+00:00",
         "postings": 0,
         "matches": 0
       }
     ]
   },
   "Brex": {
-    "last_postings": 220,
+    "last_postings": 219,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:16+00:00",
+    "last_run": "2026-05-29T01:47:27+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:16+00:00",
         "postings": 220,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:47:27+00:00",
+        "postings": 219,
         "matches": 0
       }
     ]
@@ -242,23 +342,33 @@
   "Broadcom": {
     "last_postings": 362,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:49:48+00:00",
+    "last_run": "2026-05-29T01:48:07+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:48+00:00",
+        "postings": 362,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:48:07+00:00",
         "postings": 362,
         "matches": 2
       }
     ]
   },
   "Cerebras": {
-    "last_postings": 92,
+    "last_postings": 93,
     "last_matches": 13,
-    "last_run": "2026-05-29T00:49:50+00:00",
+    "last_run": "2026-05-29T01:48:08+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:50+00:00",
         "postings": 92,
+        "matches": 13
+      },
+      {
+        "ts": "2026-05-29T01:48:08+00:00",
+        "postings": 93,
         "matches": 13
       }
     ]
@@ -266,10 +376,15 @@
   "Chime": {
     "last_postings": 70,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:49:50+00:00",
+    "last_run": "2026-05-29T01:48:09+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:50+00:00",
+        "postings": 70,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:48:09+00:00",
         "postings": 70,
         "matches": 2
       }
@@ -278,10 +393,15 @@
   "Clay": {
     "last_postings": 80,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:52+00:00",
+    "last_run": "2026-05-29T01:48:10+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:52+00:00",
+        "postings": 80,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:10+00:00",
         "postings": 80,
         "matches": 0
       }
@@ -290,10 +410,15 @@
   "Click Therapeutics": {
     "last_postings": 7,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:52+00:00",
+    "last_run": "2026-05-29T01:48:10+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:52+00:00",
+        "postings": 7,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:10+00:00",
         "postings": 7,
         "matches": 0
       }
@@ -302,10 +427,15 @@
   "ClickHouse": {
     "last_postings": 166,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:54+00:00",
+    "last_run": "2026-05-29T01:48:12+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:54+00:00",
+        "postings": 166,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:12+00:00",
         "postings": 166,
         "matches": 0
       }
@@ -314,10 +444,15 @@
   "Cloudflare": {
     "last_postings": 144,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:55+00:00",
+    "last_run": "2026-05-29T01:48:13+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:55+00:00",
+        "postings": 144,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:13+00:00",
         "postings": 144,
         "matches": 0
       }
@@ -326,10 +461,15 @@
   "Cognition AI": {
     "last_postings": 60,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:56+00:00",
+    "last_run": "2026-05-29T01:48:14+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:56+00:00",
+        "postings": 60,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:14+00:00",
         "postings": 60,
         "matches": 0
       }
@@ -338,10 +478,15 @@
   "Cohere": {
     "last_postings": 130,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:57+00:00",
+    "last_run": "2026-05-29T01:48:16+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:57+00:00",
+        "postings": 130,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:16+00:00",
         "postings": 130,
         "matches": 0
       }
@@ -350,10 +495,15 @@
   "Coinbase": {
     "last_postings": 1,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:57+00:00",
+    "last_run": "2026-05-29T01:48:16+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:57+00:00",
+        "postings": 1,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:16+00:00",
         "postings": 1,
         "matches": 0
       }
@@ -362,10 +512,15 @@
   "Confluent": {
     "last_postings": 50,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:49:58+00:00",
+    "last_run": "2026-05-29T01:48:16+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:49:58+00:00",
+        "postings": 50,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:48:16+00:00",
         "postings": 50,
         "matches": 0
       }
@@ -374,23 +529,33 @@
   "CoreWeave": {
     "last_postings": 238,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:50:01+00:00",
+    "last_run": "2026-05-29T01:48:19+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:50:01+00:00",
+        "postings": 238,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:48:19+00:00",
         "postings": 238,
         "matches": 3
       }
     ]
   },
   "CrowdStrike": {
-    "last_postings": 448,
+    "last_postings": 450,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:50:49+00:00",
+    "last_run": "2026-05-29T01:49:16+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:50:49+00:00",
         "postings": 448,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:49:16+00:00",
+        "postings": 450,
         "matches": 1
       }
     ]
@@ -398,10 +563,15 @@
   "Crusoe": {
     "last_postings": 324,
     "last_matches": 6,
-    "last_run": "2026-05-29T00:50:53+00:00",
+    "last_run": "2026-05-29T01:49:20+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:50:53+00:00",
+        "postings": 324,
+        "matches": 6
+      },
+      {
+        "ts": "2026-05-29T01:49:20+00:00",
         "postings": 324,
         "matches": 6
       }
@@ -410,10 +580,15 @@
   "Cursor": {
     "last_postings": 84,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:50:54+00:00",
+    "last_run": "2026-05-29T01:49:21+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:50:54+00:00",
+        "postings": 84,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:21+00:00",
         "postings": 84,
         "matches": 0
       }
@@ -422,23 +597,33 @@
   "DRW": {
     "last_postings": 137,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:51:13+00:00",
+    "last_run": "2026-05-29T01:49:40+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:13+00:00",
+        "postings": 137,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:49:40+00:00",
         "postings": 137,
         "matches": 4
       }
     ]
   },
   "Databricks": {
-    "last_postings": 770,
+    "last_postings": 769,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:50:59+00:00",
+    "last_run": "2026-05-29T01:49:26+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:50:59+00:00",
         "postings": 770,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:49:26+00:00",
+        "postings": 769,
         "matches": 1
       }
     ]
@@ -446,10 +631,15 @@
   "Datadog": {
     "last_postings": 422,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:02+00:00",
+    "last_run": "2026-05-29T01:49:29+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:02+00:00",
+        "postings": 422,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:29+00:00",
         "postings": 422,
         "matches": 0
       }
@@ -458,10 +648,15 @@
   "Decagon": {
     "last_postings": 109,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:02+00:00",
+    "last_run": "2026-05-29T01:49:29+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:02+00:00",
+        "postings": 109,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:29+00:00",
         "postings": 109,
         "matches": 0
       }
@@ -470,10 +665,15 @@
   "Discord": {
     "last_postings": 75,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:51:03+00:00",
+    "last_run": "2026-05-29T01:49:30+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:03+00:00",
+        "postings": 75,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:49:30+00:00",
         "postings": 75,
         "matches": 1
       }
@@ -482,10 +682,15 @@
   "DoorDash": {
     "last_postings": 450,
     "last_matches": 8,
-    "last_run": "2026-05-29T00:51:11+00:00",
+    "last_run": "2026-05-29T01:49:38+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:11+00:00",
+        "postings": 450,
+        "matches": 8
+      },
+      {
+        "ts": "2026-05-29T01:49:38+00:00",
         "postings": 450,
         "matches": 8
       }
@@ -494,10 +699,15 @@
   "Duolingo": {
     "last_postings": 64,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:51:13+00:00",
+    "last_run": "2026-05-29T01:49:40+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:13+00:00",
+        "postings": 64,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:49:40+00:00",
         "postings": 64,
         "matches": 2
       }
@@ -506,34 +716,49 @@
   "ElevenLabs": {
     "last_postings": 147,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:15+00:00",
+    "last_run": "2026-05-29T01:49:42+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:15+00:00",
+        "postings": 147,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:42+00:00",
         "postings": 147,
         "matches": 0
       }
     ]
   },
   "Etched": {
-    "last_postings": 0,
-    "last_matches": 0,
-    "last_run": "2026-05-29T00:18:57+00:00",
+    "last_postings": 99,
+    "last_matches": 12,
+    "last_run": "2026-05-29T01:49:44+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:18:57+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:44+00:00",
+        "postings": 99,
+        "matches": 12
       }
     ]
   },
   "Etsy": {
     "last_postings": 43,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:15+00:00",
+    "last_run": "2026-05-29T01:49:44+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:15+00:00",
+        "postings": 43,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:44+00:00",
         "postings": 43,
         "matches": 0
       }
@@ -542,10 +767,15 @@
   "EvolutionaryScale": {
     "last_postings": 35,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:15+00:00",
+    "last_run": "2026-05-29T01:49:44+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:15+00:00",
+        "postings": 35,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:44+00:00",
         "postings": 35,
         "matches": 0
       }
@@ -554,10 +784,15 @@
   "Figma": {
     "last_postings": 160,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:51:17+00:00",
+    "last_run": "2026-05-29T01:49:46+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:17+00:00",
+        "postings": 160,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:49:46+00:00",
         "postings": 160,
         "matches": 1
       }
@@ -566,10 +801,15 @@
   "Figure AI": {
     "last_postings": 112,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:51:19+00:00",
+    "last_run": "2026-05-29T01:49:48+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:19+00:00",
+        "postings": 112,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:49:48+00:00",
         "postings": 112,
         "matches": 4
       }
@@ -578,10 +818,15 @@
   "Fireworks AI": {
     "last_postings": 30,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:19+00:00",
+    "last_run": "2026-05-29T01:49:48+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:19+00:00",
+        "postings": 30,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:48+00:00",
         "postings": 30,
         "matches": 0
       }
@@ -590,10 +835,15 @@
   "Fivetran": {
     "last_postings": 138,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:20+00:00",
+    "last_run": "2026-05-29T01:49:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:20+00:00",
+        "postings": 138,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:49+00:00",
         "postings": 138,
         "matches": 0
       }
@@ -602,10 +852,15 @@
   "Flatiron Health": {
     "last_postings": 20,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:20+00:00",
+    "last_run": "2026-05-29T01:49:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:20+00:00",
+        "postings": 20,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:49+00:00",
         "postings": 20,
         "matches": 0
       }
@@ -614,10 +869,15 @@
   "Generate Biomedicines": {
     "last_postings": 19,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:20+00:00",
+    "last_run": "2026-05-29T01:49:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:20+00:00",
+        "postings": 19,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:49+00:00",
         "postings": 19,
         "matches": 0
       }
@@ -626,10 +886,15 @@
   "Genesis Therapeutics": {
     "last_postings": 30,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:20+00:00",
+    "last_run": "2026-05-29T01:49:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:20+00:00",
+        "postings": 30,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:49+00:00",
         "postings": 30,
         "matches": 0
       }
@@ -637,24 +902,34 @@
   },
   "GitHub": {
     "last_postings": 408,
-    "last_matches": 2,
-    "last_run": "2026-05-29T00:51:21+00:00",
+    "last_matches": 3,
+    "last_run": "2026-05-29T01:49:50+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:21+00:00",
         "postings": 408,
         "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:49:50+00:00",
+        "postings": 408,
+        "matches": 3
       }
     ]
   },
   "Glean": {
-    "last_postings": 171,
+    "last_postings": 172,
     "last_matches": 7,
-    "last_run": "2026-05-29T00:51:23+00:00",
+    "last_run": "2026-05-29T01:49:52+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:23+00:00",
         "postings": 171,
+        "matches": 7
+      },
+      {
+        "ts": "2026-05-29T01:49:52+00:00",
+        "postings": 172,
         "matches": 7
       }
     ]
@@ -662,10 +937,15 @@
   "Google": {
     "last_postings": 455,
     "last_matches": 14,
-    "last_run": "2026-05-29T00:51:25+00:00",
+    "last_run": "2026-05-29T01:49:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:25+00:00",
+        "postings": 455,
+        "matches": 14
+      },
+      {
+        "ts": "2026-05-29T01:49:54+00:00",
         "postings": 455,
         "matches": 14
       }
@@ -674,10 +954,15 @@
   "Google DeepMind": {
     "last_postings": 70,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:25+00:00",
+    "last_run": "2026-05-29T01:49:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:25+00:00",
+        "postings": 70,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:54+00:00",
         "postings": 70,
         "matches": 0
       }
@@ -686,10 +971,15 @@
   "Groq": {
     "last_postings": 3,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:25+00:00",
+    "last_run": "2026-05-29T01:49:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:25+00:00",
+        "postings": 3,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:54+00:00",
         "postings": 3,
         "matches": 0
       }
@@ -698,10 +988,15 @@
   "Harvey": {
     "last_postings": 249,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:27+00:00",
+    "last_run": "2026-05-29T01:49:56+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:27+00:00",
+        "postings": 249,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:56+00:00",
         "postings": 249,
         "matches": 0
       }
@@ -710,10 +1005,15 @@
   "Headway": {
     "last_postings": 75,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:27+00:00",
+    "last_run": "2026-05-29T01:49:56+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:27+00:00",
+        "postings": 75,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:56+00:00",
         "postings": 75,
         "matches": 0
       }
@@ -722,10 +1022,15 @@
   "Hebbia": {
     "last_postings": 32,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:28+00:00",
+    "last_run": "2026-05-29T01:49:57+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:28+00:00",
+        "postings": 32,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:57+00:00",
         "postings": 32,
         "matches": 0
       }
@@ -734,10 +1039,15 @@
   "Hugging Face": {
     "last_postings": 6,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:28+00:00",
+    "last_run": "2026-05-29T01:49:57+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:28+00:00",
+        "postings": 6,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:57+00:00",
         "postings": 6,
         "matches": 0
       }
@@ -746,10 +1056,15 @@
   "Inceptive": {
     "last_postings": 6,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:51:28+00:00",
+    "last_run": "2026-05-29T01:49:57+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:28+00:00",
+        "postings": 6,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:49:57+00:00",
         "postings": 6,
         "matches": 1
       }
@@ -758,10 +1073,15 @@
   "Insitro": {
     "last_postings": 10,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:28+00:00",
+    "last_run": "2026-05-29T01:49:57+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:28+00:00",
+        "postings": 10,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:57+00:00",
         "postings": 10,
         "matches": 0
       }
@@ -770,10 +1090,15 @@
   "Instacart": {
     "last_postings": 129,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:51:29+00:00",
+    "last_run": "2026-05-29T01:49:58+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:29+00:00",
+        "postings": 129,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:49:58+00:00",
         "postings": 129,
         "matches": 2
       }
@@ -782,10 +1107,15 @@
   "Intuit": {
     "last_postings": 600,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:51:29+00:00",
+    "last_run": "2026-05-29T01:49:58+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:29+00:00",
+        "postings": 600,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:49:58+00:00",
         "postings": 600,
         "matches": 4
       }
@@ -794,10 +1124,15 @@
   "Isomorphic Labs": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:29+00:00",
+    "last_run": "2026-05-29T01:49:58+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:29+00:00",
+        "postings": 0,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:58+00:00",
         "postings": 0,
         "matches": 0
       }
@@ -806,23 +1141,33 @@
   "Lambda Labs": {
     "last_postings": 33,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:51:29+00:00",
+    "last_run": "2026-05-29T01:49:58+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:29+00:00",
+        "postings": 33,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:49:58+00:00",
         "postings": 33,
         "matches": 4
       }
     ]
   },
   "LangChain": {
-    "last_postings": 97,
+    "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:31+00:00",
+    "last_run": "2026-05-29T01:13:17+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:31+00:00",
         "postings": 97,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:13:17+00:00",
+        "postings": 0,
         "matches": 0
       }
     ]
@@ -830,10 +1175,15 @@
   "Linear": {
     "last_postings": 26,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:31+00:00",
+    "last_run": "2026-05-29T01:49:59+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:31+00:00",
+        "postings": 26,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:59+00:00",
         "postings": 26,
         "matches": 0
       }
@@ -842,10 +1192,15 @@
   "LinkedIn": {
     "last_postings": 53,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:31+00:00",
+    "last_run": "2026-05-29T01:49:59+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:31+00:00",
+        "postings": 53,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:59+00:00",
         "postings": 53,
         "matches": 0
       }
@@ -854,10 +1209,15 @@
   "Luma AI": {
     "last_postings": 57,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:51:31+00:00",
+    "last_run": "2026-05-29T01:49:59+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:31+00:00",
+        "postings": 57,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:49:59+00:00",
         "postings": 57,
         "matches": 1
       }
@@ -866,10 +1226,15 @@
   "Lyft": {
     "last_postings": 128,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:32+00:00",
+    "last_run": "2026-05-29T01:50:00+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:32+00:00",
+        "postings": 128,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:50:00+00:00",
         "postings": 128,
         "matches": 0
       }
@@ -878,10 +1243,15 @@
   "Magic AI": {
     "last_postings": 10,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:32+00:00",
+    "last_run": "2026-05-29T01:50:00+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:32+00:00",
+        "postings": 10,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:50:00+00:00",
         "postings": 10,
         "matches": 0
       }
@@ -890,10 +1260,15 @@
   "Marvell": {
     "last_postings": 670,
     "last_matches": 13,
-    "last_run": "2026-05-29T00:52:04+00:00",
+    "last_run": "2026-05-29T01:50:31+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:04+00:00",
+        "postings": 670,
+        "matches": 13
+      },
+      {
+        "ts": "2026-05-29T01:50:31+00:00",
         "postings": 670,
         "matches": 13
       }
@@ -902,10 +1277,15 @@
   "Mercor": {
     "last_postings": 58,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:52:05+00:00",
+    "last_run": "2026-05-29T01:50:31+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:05+00:00",
+        "postings": 58,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:50:31+00:00",
         "postings": 58,
         "matches": 1
       }
@@ -913,35 +1293,50 @@
   },
   "Meta": {
     "last_postings": 600,
-    "last_matches": 16,
-    "last_run": "2026-05-29T00:52:06+00:00",
+    "last_matches": 19,
+    "last_run": "2026-05-29T01:50:33+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:06+00:00",
         "postings": 600,
         "matches": 16
+      },
+      {
+        "ts": "2026-05-29T01:50:33+00:00",
+        "postings": 600,
+        "matches": 19
       }
     ]
   },
   "Microsoft": {
     "last_postings": 600,
-    "last_matches": 4,
-    "last_run": "2026-05-29T00:52:07+00:00",
+    "last_matches": 3,
+    "last_run": "2026-05-29T01:50:34+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:07+00:00",
         "postings": 600,
         "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:50:34+00:00",
+        "postings": 600,
+        "matches": 3
       }
     ]
   },
   "Modal Labs": {
     "last_postings": 29,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:52:07+00:00",
+    "last_run": "2026-05-29T01:50:34+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:07+00:00",
+        "postings": 29,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:50:34+00:00",
         "postings": 29,
         "matches": 0
       }
@@ -950,10 +1345,15 @@
   "MongoDB": {
     "last_postings": 429,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:52:10+00:00",
+    "last_run": "2026-05-29T01:50:37+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:10+00:00",
+        "postings": 429,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:50:37+00:00",
         "postings": 429,
         "matches": 3
       }
@@ -962,10 +1362,15 @@
   "Netflix": {
     "last_postings": 570,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:52:11+00:00",
+    "last_run": "2026-05-29T01:50:39+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:11+00:00",
+        "postings": 570,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:50:39+00:00",
         "postings": 570,
         "matches": 0
       }
@@ -974,10 +1379,15 @@
   "Notion": {
     "last_postings": 142,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:52:13+00:00",
+    "last_run": "2026-05-29T01:50:41+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:52:13+00:00",
+        "postings": 142,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:50:41+00:00",
         "postings": 142,
         "matches": 3
       }
@@ -986,23 +1396,33 @@
   "Nvidia": {
     "last_postings": 1200,
     "last_matches": 36,
-    "last_run": "2026-05-29T00:56:47+00:00",
+    "last_run": "2026-05-29T01:55:13+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:56:47+00:00",
+        "postings": 1200,
+        "matches": 36
+      },
+      {
+        "ts": "2026-05-29T01:55:13+00:00",
         "postings": 1200,
         "matches": 36
       }
     ]
   },
   "Okta": {
-    "last_postings": 365,
+    "last_postings": 363,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:56:49+00:00",
+    "last_run": "2026-05-29T01:55:14+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:56:49+00:00",
         "postings": 365,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:14+00:00",
+        "postings": 363,
         "matches": 0
       }
     ]
@@ -1010,10 +1430,15 @@
   "OpenAI": {
     "last_postings": 708,
     "last_matches": 5,
-    "last_run": "2026-05-29T00:57:04+00:00",
+    "last_run": "2026-05-29T01:55:30+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:04+00:00",
+        "postings": 708,
+        "matches": 5
+      },
+      {
+        "ts": "2026-05-29T01:55:30+00:00",
         "postings": 708,
         "matches": 5
       }
@@ -1022,10 +1447,15 @@
   "Palantir": {
     "last_postings": 221,
     "last_matches": 9,
-    "last_run": "2026-05-29T00:57:06+00:00",
+    "last_run": "2026-05-29T01:55:32+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:06+00:00",
+        "postings": 221,
+        "matches": 9
+      },
+      {
+        "ts": "2026-05-29T01:55:32+00:00",
         "postings": 221,
         "matches": 9
       }
@@ -1034,10 +1464,15 @@
   "Palo Alto Networks": {
     "last_postings": 600,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:06+00:00",
+    "last_run": "2026-05-29T01:55:32+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:06+00:00",
+        "postings": 600,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:55:32+00:00",
         "postings": 600,
         "matches": 1
       }
@@ -1046,10 +1481,15 @@
   "Pathos AI": {
     "last_postings": 2,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:06+00:00",
+    "last_run": "2026-05-29T01:55:32+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:06+00:00",
+        "postings": 2,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:32+00:00",
         "postings": 2,
         "matches": 0
       }
@@ -1058,34 +1498,49 @@
   "Perplexity AI": {
     "last_postings": 59,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:07+00:00",
+    "last_run": "2026-05-29T01:55:33+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:07+00:00",
+        "postings": 59,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:33+00:00",
         "postings": 59,
         "matches": 0
       }
     ]
   },
   "Physical Intelligence": {
-    "last_postings": 24,
-    "last_matches": 2,
-    "last_run": "2026-05-29T00:57:07+00:00",
+    "last_postings": 0,
+    "last_matches": 0,
+    "last_run": "2026-05-29T01:15:11+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:07+00:00",
         "postings": 24,
         "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:15:11+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Pinecone": {
     "last_postings": 7,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:07+00:00",
+    "last_run": "2026-05-29T01:55:33+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:07+00:00",
+        "postings": 7,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:33+00:00",
         "postings": 7,
         "matches": 0
       }
@@ -1094,10 +1549,15 @@
   "Pinterest": {
     "last_postings": 178,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:57:09+00:00",
+    "last_run": "2026-05-29T01:55:34+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:09+00:00",
+        "postings": 178,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:55:34+00:00",
         "postings": 178,
         "matches": 2
       }
@@ -1106,10 +1566,15 @@
   "Plaid": {
     "last_postings": 90,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:57:09+00:00",
+    "last_run": "2026-05-29T01:55:35+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:09+00:00",
+        "postings": 90,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:55:35+00:00",
         "postings": 90,
         "matches": 4
       }
@@ -1118,47 +1583,67 @@
   "Point72": {
     "last_postings": 240,
     "last_matches": 15,
-    "last_run": "2026-05-29T00:57:13+00:00",
+    "last_run": "2026-05-29T01:55:38+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:13+00:00",
+        "postings": 240,
+        "matches": 15
+      },
+      {
+        "ts": "2026-05-29T01:55:38+00:00",
         "postings": 240,
         "matches": 15
       }
     ]
   },
   "Pure Storage": {
-    "last_postings": 350,
+    "last_postings": 349,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:16+00:00",
+    "last_run": "2026-05-29T01:55:42+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:16+00:00",
         "postings": 350,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:55:42+00:00",
+        "postings": 349,
         "matches": 1
       }
     ]
   },
   "Qualcomm": {
     "last_postings": 600,
-    "last_matches": 0,
-    "last_run": "2026-05-29T00:57:16+00:00",
+    "last_matches": 60,
+    "last_run": "2026-05-29T01:55:47+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:16+00:00",
         "postings": 600,
         "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:47+00:00",
+        "postings": 600,
+        "matches": 60
       }
     ]
   },
   "Ramp": {
-    "last_postings": 121,
+    "last_postings": 118,
     "last_matches": 6,
-    "last_run": "2026-05-29T00:57:18+00:00",
+    "last_run": "2026-05-29T01:55:48+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:18+00:00",
         "postings": 121,
+        "matches": 6
+      },
+      {
+        "ts": "2026-05-29T01:55:48+00:00",
+        "postings": 118,
         "matches": 6
       }
     ]
@@ -1166,10 +1651,15 @@
   "Recursion Pharma": {
     "last_postings": 36,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:19+00:00",
+    "last_run": "2026-05-29T01:55:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:19+00:00",
+        "postings": 36,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:55:49+00:00",
         "postings": 36,
         "matches": 1
       }
@@ -1178,10 +1668,15 @@
   "Reddit": {
     "last_postings": 155,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:20+00:00",
+    "last_run": "2026-05-29T01:55:50+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:20+00:00",
+        "postings": 155,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:50+00:00",
         "postings": 155,
         "matches": 0
       }
@@ -1190,10 +1685,15 @@
   "Reka AI": {
     "last_postings": 6,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:20+00:00",
+    "last_run": "2026-05-29T01:55:50+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:20+00:00",
+        "postings": 6,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:50+00:00",
         "postings": 6,
         "matches": 0
       }
@@ -1202,10 +1702,15 @@
   "Replit": {
     "last_postings": 88,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:57:21+00:00",
+    "last_run": "2026-05-29T01:55:51+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:21+00:00",
+        "postings": 88,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:55:51+00:00",
         "postings": 88,
         "matches": 2
       }
@@ -1214,10 +1719,15 @@
   "Retool": {
     "last_postings": 40,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:21+00:00",
+    "last_run": "2026-05-29T01:55:52+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:21+00:00",
+        "postings": 40,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:52+00:00",
         "postings": 40,
         "matches": 0
       }
@@ -1226,10 +1736,15 @@
   "Rippling": {
     "last_postings": 425,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:21+00:00",
+    "last_run": "2026-05-29T01:55:52+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:21+00:00",
+        "postings": 425,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:52+00:00",
         "postings": 425,
         "matches": 0
       }
@@ -1238,10 +1753,15 @@
   "Robinhood": {
     "last_postings": 129,
     "last_matches": 4,
-    "last_run": "2026-05-29T00:57:23+00:00",
+    "last_run": "2026-05-29T01:55:53+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:23+00:00",
+        "postings": 129,
+        "matches": 4
+      },
+      {
+        "ts": "2026-05-29T01:55:53+00:00",
         "postings": 129,
         "matches": 4
       }
@@ -1250,10 +1770,15 @@
   "Roblox": {
     "last_postings": 266,
     "last_matches": 13,
-    "last_run": "2026-05-29T00:57:24+00:00",
+    "last_run": "2026-05-29T01:55:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:24+00:00",
+        "postings": 266,
+        "matches": 13
+      },
+      {
+        "ts": "2026-05-29T01:55:54+00:00",
         "postings": 266,
         "matches": 13
       }
@@ -1262,10 +1787,15 @@
   "Rubrik": {
     "last_postings": 121,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:25+00:00",
+    "last_run": "2026-05-29T01:55:55+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:25+00:00",
+        "postings": 121,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:55+00:00",
         "postings": 121,
         "matches": 0
       }
@@ -1274,10 +1804,15 @@
   "Runway ML": {
     "last_postings": 35,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:26+00:00",
+    "last_run": "2026-05-29T01:55:56+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:26+00:00",
+        "postings": 35,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:55:56+00:00",
         "postings": 35,
         "matches": 0
       }
@@ -1286,10 +1821,15 @@
   "Samsara": {
     "last_postings": 325,
     "last_matches": 6,
-    "last_run": "2026-05-29T00:57:31+00:00",
+    "last_run": "2026-05-29T01:56:01+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:31+00:00",
+        "postings": 325,
+        "matches": 6
+      },
+      {
+        "ts": "2026-05-29T01:56:01+00:00",
         "postings": 325,
         "matches": 6
       }
@@ -1298,10 +1838,15 @@
   "Scale AI": {
     "last_postings": 168,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:57:33+00:00",
+    "last_run": "2026-05-29T01:56:03+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:33+00:00",
+        "postings": 168,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:56:03+00:00",
         "postings": 168,
         "matches": 2
       }
@@ -1310,23 +1855,33 @@
   "SentinelOne": {
     "last_postings": 119,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:34+00:00",
+    "last_run": "2026-05-29T01:56:04+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:34+00:00",
+        "postings": 119,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:56:04+00:00",
         "postings": 119,
         "matches": 1
       }
     ]
   },
   "ServiceNow": {
-    "last_postings": 490,
+    "last_postings": 491,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:57:34+00:00",
+    "last_run": "2026-05-29T01:56:04+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:34+00:00",
         "postings": 490,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:56:04+00:00",
+        "postings": 491,
         "matches": 3
       }
     ]
@@ -1334,23 +1889,33 @@
   "Shield AI": {
     "last_postings": 328,
     "last_matches": 10,
-    "last_run": "2026-05-29T00:57:35+00:00",
+    "last_run": "2026-05-29T01:56:05+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:35+00:00",
+        "postings": 328,
+        "matches": 10
+      },
+      {
+        "ts": "2026-05-29T01:56:05+00:00",
         "postings": 328,
         "matches": 10
       }
     ]
   },
   "Shopify": {
-    "last_postings": 4,
+    "last_postings": 240,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:57:35+00:00",
+    "last_run": "2026-05-29T01:56:06+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:35+00:00",
         "postings": 4,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:56:06+00:00",
+        "postings": 240,
         "matches": 0
       }
     ]
@@ -1358,10 +1923,15 @@
   "Sierra": {
     "last_postings": 121,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:38+00:00",
+    "last_run": "2026-05-29T01:56:09+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:38+00:00",
+        "postings": 121,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:56:09+00:00",
         "postings": 121,
         "matches": 1
       }
@@ -1370,10 +1940,15 @@
   "Skydio": {
     "last_postings": 114,
     "last_matches": 9,
-    "last_run": "2026-05-29T00:57:39+00:00",
+    "last_run": "2026-05-29T01:56:10+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:39+00:00",
+        "postings": 114,
+        "matches": 9
+      },
+      {
+        "ts": "2026-05-29T01:56:10+00:00",
         "postings": 114,
         "matches": 9
       }
@@ -1382,10 +1957,15 @@
   "Snap": {
     "last_postings": 131,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:40+00:00",
+    "last_run": "2026-05-29T01:56:11+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:40+00:00",
+        "postings": 131,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:56:11+00:00",
         "postings": 131,
         "matches": 1
       }
@@ -1394,10 +1974,15 @@
   "Snowflake": {
     "last_postings": 411,
     "last_matches": 6,
-    "last_run": "2026-05-29T00:57:42+00:00",
+    "last_run": "2026-05-29T01:56:13+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:42+00:00",
+        "postings": 411,
+        "matches": 6
+      },
+      {
+        "ts": "2026-05-29T01:56:13+00:00",
         "postings": 411,
         "matches": 6
       }
@@ -1406,10 +1991,15 @@
   "Snyk": {
     "last_postings": 81,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:57:42+00:00",
+    "last_run": "2026-05-29T01:56:13+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:57:42+00:00",
+        "postings": 81,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:56:13+00:00",
         "postings": 81,
         "matches": 1
       }
@@ -1418,35 +2008,50 @@
   "SpaceX": {
     "last_postings": 1200,
     "last_matches": 208,
-    "last_run": "2026-05-29T00:58:03+00:00",
+    "last_run": "2026-05-29T01:56:34+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:03+00:00",
+        "postings": 1200,
+        "matches": 208
+      },
+      {
+        "ts": "2026-05-29T01:56:34+00:00",
         "postings": 1200,
         "matches": 208
       }
     ]
   },
   "Spotify": {
-    "last_postings": 191,
+    "last_postings": 192,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:58:03+00:00",
+    "last_run": "2026-05-29T01:56:34+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:03+00:00",
         "postings": 191,
         "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:56:34+00:00",
+        "postings": 192,
+        "matches": 1
       }
     ]
   },
   "Stripe": {
-    "last_postings": 477,
+    "last_postings": 476,
     "last_matches": 3,
-    "last_run": "2026-05-29T00:58:10+00:00",
+    "last_run": "2026-05-29T01:56:41+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:10+00:00",
         "postings": 477,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:56:41+00:00",
+        "postings": 476,
         "matches": 3
       }
     ]
@@ -1454,10 +2059,15 @@
   "Tempus AI": {
     "last_postings": 114,
     "last_matches": 1,
-    "last_run": "2026-05-29T00:58:29+00:00",
+    "last_run": "2026-05-29T01:57:03+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:29+00:00",
+        "postings": 114,
+        "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:57:03+00:00",
         "postings": 114,
         "matches": 1
       }
@@ -1465,36 +2075,51 @@
   },
   "Tesla": {
     "last_postings": 600,
-    "last_matches": 34,
-    "last_run": "2026-05-29T00:58:32+00:00",
+    "last_matches": 33,
+    "last_run": "2026-05-29T01:57:05+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:32+00:00",
         "postings": 600,
         "matches": 34
+      },
+      {
+        "ts": "2026-05-29T01:57:05+00:00",
+        "postings": 600,
+        "matches": 33
       }
     ]
   },
   "Together AI": {
     "last_postings": 56,
     "last_matches": 2,
-    "last_run": "2026-05-29T00:58:33+00:00",
+    "last_run": "2026-05-29T01:57:06+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:33+00:00",
+        "postings": 56,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:57:06+00:00",
         "postings": 56,
         "matches": 2
       }
     ]
   },
   "Uber": {
-    "last_postings": 863,
+    "last_postings": 856,
     "last_matches": 7,
-    "last_run": "2026-05-29T00:58:36+00:00",
+    "last_run": "2026-05-29T01:57:09+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:36+00:00",
         "postings": 863,
+        "matches": 7
+      },
+      {
+        "ts": "2026-05-29T01:57:09+00:00",
+        "postings": 856,
         "matches": 7
       }
     ]
@@ -1502,10 +2127,15 @@
   "Veeva Systems": {
     "last_postings": 1025,
     "last_matches": 9,
-    "last_run": "2026-05-29T00:58:40+00:00",
+    "last_run": "2026-05-29T01:57:13+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:40+00:00",
+        "postings": 1025,
+        "matches": 9
+      },
+      {
+        "ts": "2026-05-29T01:57:13+00:00",
         "postings": 1025,
         "matches": 9
       }
@@ -1514,10 +2144,15 @@
   "Vercel": {
     "last_postings": 76,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:58:41+00:00",
+    "last_run": "2026-05-29T01:57:14+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:58:41+00:00",
+        "postings": 76,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:57:14+00:00",
         "postings": 76,
         "matches": 0
       }
@@ -1526,23 +2161,33 @@
   "Verily": {
     "last_postings": 1200,
     "last_matches": 0,
-    "last_run": "2026-05-29T01:01:33+00:00",
+    "last_run": "2026-05-29T01:59:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:33+00:00",
+        "postings": 1200,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:59:49+00:00",
         "postings": 1200,
         "matches": 0
       }
     ]
   },
   "Warp": {
-    "last_postings": 10,
+    "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-05-29T01:01:33+00:00",
+    "last_run": "2026-05-29T01:14:32+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:33+00:00",
         "postings": 10,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:14:32+00:00",
+        "postings": 0,
         "matches": 0
       }
     ]
@@ -1550,10 +2195,15 @@
   "Waymo": {
     "last_postings": 1,
     "last_matches": 0,
-    "last_run": "2026-05-29T01:01:33+00:00",
+    "last_run": "2026-05-29T01:59:49+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:33+00:00",
+        "postings": 1,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:59:49+00:00",
         "postings": 1,
         "matches": 0
       }
@@ -1562,10 +2212,15 @@
   "Wiz": {
     "last_postings": 167,
     "last_matches": 0,
-    "last_run": "2026-05-29T01:01:34+00:00",
+    "last_run": "2026-05-29T01:59:50+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:34+00:00",
+        "postings": 167,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:59:50+00:00",
         "postings": 167,
         "matches": 0
       }
@@ -1574,10 +2229,15 @@
   "World Labs": {
     "last_postings": 12,
     "last_matches": 0,
-    "last_run": "2026-05-29T01:01:34+00:00",
+    "last_run": "2026-05-29T01:59:50+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:34+00:00",
+        "postings": 12,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:59:50+00:00",
         "postings": 12,
         "matches": 0
       }
@@ -1586,10 +2246,15 @@
   "Xaira Therapeutics": {
     "last_postings": 15,
     "last_matches": 2,
-    "last_run": "2026-05-29T01:01:38+00:00",
+    "last_run": "2026-05-29T01:59:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:38+00:00",
+        "postings": 15,
+        "matches": 2
+      },
+      {
+        "ts": "2026-05-29T01:59:54+00:00",
         "postings": 15,
         "matches": 2
       }
@@ -1598,10 +2263,15 @@
   "Zillow": {
     "last_postings": 153,
     "last_matches": 7,
-    "last_run": "2026-05-29T01:01:38+00:00",
+    "last_run": "2026-05-29T01:59:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:38+00:00",
+        "postings": 153,
+        "matches": 7
+      },
+      {
+        "ts": "2026-05-29T01:59:54+00:00",
         "postings": 153,
         "matches": 7
       }
@@ -1610,35 +2280,50 @@
   "Zocdoc": {
     "last_postings": 47,
     "last_matches": 0,
-    "last_run": "2026-05-29T01:01:38+00:00",
+    "last_run": "2026-05-29T01:59:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:38+00:00",
+        "postings": 47,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:59:54+00:00",
         "postings": 47,
         "matches": 0
       }
     ]
   },
   "Zoox": {
-    "last_postings": 230,
-    "last_matches": 1,
-    "last_run": "2026-05-29T01:01:39+00:00",
+    "last_postings": 600,
+    "last_matches": 0,
+    "last_run": "2026-05-29T01:59:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:39+00:00",
         "postings": 230,
         "matches": 1
+      },
+      {
+        "ts": "2026-05-29T01:59:54+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Zscaler": {
-    "last_postings": 341,
+    "last_postings": 343,
     "last_matches": 6,
-    "last_run": "2026-05-29T01:01:41+00:00",
+    "last_run": "2026-05-29T01:59:57+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:41+00:00",
         "postings": 341,
+        "matches": 6
+      },
+      {
+        "ts": "2026-05-29T01:59:57+00:00",
+        "postings": 343,
         "matches": 6
       }
     ]
@@ -1646,10 +2331,15 @@
   "dbt Labs": {
     "last_postings": 38,
     "last_matches": 0,
-    "last_run": "2026-05-29T00:51:02+00:00",
+    "last_run": "2026-05-29T01:49:29+00:00",
     "history": [
       {
         "ts": "2026-05-29T00:51:02+00:00",
+        "postings": 38,
+        "matches": 0
+      },
+      {
+        "ts": "2026-05-29T01:49:29+00:00",
         "postings": 38,
         "matches": 0
       }
@@ -1658,10 +2348,15 @@
   "xAI": {
     "last_postings": 224,
     "last_matches": 3,
-    "last_run": "2026-05-29T01:01:38+00:00",
+    "last_run": "2026-05-29T01:59:54+00:00",
     "history": [
       {
         "ts": "2026-05-29T01:01:38+00:00",
+        "postings": 224,
+        "matches": 3
+      },
+      {
+        "ts": "2026-05-29T01:59:54+00:00",
         "postings": 224,
         "matches": 3
       }
