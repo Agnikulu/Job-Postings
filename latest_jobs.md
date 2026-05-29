@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-29 16:03 UTC  
+**Run timestamp:** 2026-05-29 19:50 UTC  
 **New matches this run:** 4  
 **Location filter:** US-only
 
@@ -8,15 +8,18 @@
 Grouped by company (sorted by match count):
 
 
-## Qualcomm - 2 new (2 technical)
+## Adobe - 1 new (1 technical)
 
-- **[TECH]** [Compiler Software Engineer](https://www.linkedin.com/jobs/view/4325378819) - *Austin, TX*
-- **[TECH]** [Compute Hardware Applications Engineer](https://www.linkedin.com/jobs/view/4409337867) - *San Diego, CA*
+- **[TECH]** [Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R167723) - *San Jose*
 
-## GitHub - 1 new (1 technical)
+## Marvell - 1 new (1 technical)
 
-- **[TECH]** [Data Engineer 1](https://www.linkedin.com/jobs/view/4413316823) - *Austin, TX*
+- **[TECH]** [Analog Design Intern - Master's Degree (Quarter Schools / Fall 2026 Start Dates)](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1) - *Westlake Village, CA*
 
-## Tesla - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Internship, Software Engineer, Simulation Platform (Fall 2026)](https://www.linkedin.com/jobs/view/4420218583) - *Palo Alto, CA*
+- **[TECH]** [Software Engineer, TensorRT Specialized Platforms - New College Grad 2025](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870) - *US, CA, Santa Clara*
+
+## SpaceX - 1 new (1 technical)
+
+- **[TECH]** [Software Engineer](https://boards.greenhouse.io/spacex/jobs/8563110002?gh_jid=8563110002) - *McGregor, TX*
