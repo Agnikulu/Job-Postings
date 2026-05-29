@@ -1,31 +1,22 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-29 14:06 UTC  
-**New matches this run:** 13  
+**Run timestamp:** 2026-05-29 16:03 UTC  
+**New matches this run:** 4  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Qualcomm - 8 new (8 technical)
+## Qualcomm - 2 new (2 technical)
 
-- **[TECH]** [ASIC Design Verification Engineer (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4323544322) - *Santa Clara, CA*
-- **[TECH]** [Camera Systems Engineer](https://www.linkedin.com/jobs/view/4314211651) - *San Diego, CA*
-- **[TECH]** [CPU Server Compiler Engineer](https://www.linkedin.com/jobs/view/4323161422) - *San Diego, CA*
-- **[TECH]** [Customer Engineer - AI / ML](https://www.linkedin.com/jobs/view/4405758614) - *San Diego, CA*
-- **[TECH]** [Failure Analysis Engineer - Nanoprobing (2nd Shift)](https://www.linkedin.com/jobs/view/4413560946) - *San Diego, CA*
-- **[TECH]** [GPU High-Level Modelling](https://www.linkedin.com/jobs/view/4321119631) - *San Diego, CA*
-- **[TECH]** [Radio Frequency Hardware Engineer](https://www.linkedin.com/jobs/view/4409340778) - *San Diego, CA*
-- **[TECH]** [Security Software Engineer](https://www.linkedin.com/jobs/view/4389583877) - *San Diego, CA*
+- **[TECH]** [Compiler Software Engineer](https://www.linkedin.com/jobs/view/4325378819) - *Austin, TX*
+- **[TECH]** [Compute Hardware Applications Engineer](https://www.linkedin.com/jobs/view/4409337867) - *San Diego, CA*
 
-## Tesla - 4 new (4 technical)
+## GitHub - 1 new (1 technical)
 
-- **[TECH]** [Internship, Android Engineer, Mobile Software (Fall 2026)](https://www.linkedin.com/jobs/view/4420228003) - *Palo Alto, CA*
-- **[TECH]** [Internship, Engineering Automation Software Engineer, Vehicle Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420210899) - *Palo Alto, CA*
-- **[TECH]** [Internship, Fullstack C++ Engineer, Vehicle User Interface (Fall 2026)](https://www.linkedin.com/jobs/view/4420207940) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, Integration Tools (Fall 2026)](https://www.linkedin.com/jobs/view/4420225148) - *Palo Alto, CA*
+- **[TECH]** [Data Engineer 1](https://www.linkedin.com/jobs/view/4413316823) - *Austin, TX*
 
-## Google - 1 new (1 technical)
+## Tesla - 1 new (1 technical)
 
-- **[TECH]** [ASIC Design Verification Engineer, Google Cloud](https://www.google.com/about/careers/applications/jobs/results/77174102632080070) - *Sunnyvale, CA, USA*
+- **[TECH]** [Internship, Software Engineer, Simulation Platform (Fall 2026)](https://www.linkedin.com/jobs/view/4420218583) - *Palo Alto, CA*
