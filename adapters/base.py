@@ -50,7 +50,7 @@ class AdapterError(Exception):
     """
 
 
-DEFAULT_TIMEOUT = 20
+DEFAULT_TIMEOUT = 30
 DEFAULT_HEADERS = {
     "User-Agent": (
         "serverless-ats-sniper/1.0 "

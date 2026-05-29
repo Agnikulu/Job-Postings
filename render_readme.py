@@ -2,7 +2,7 @@
 
 Produces a Vansh-style table of all open positions:
 
-  | Company | Role | Location | Education | Apply | Date Posted |
+  | Company | Role | Location | Source | Education | Apply | Date Posted |
 
 Sort order:
   1. Open positions before closed.
@@ -25,13 +25,15 @@ from jobs_archive import JobsArchive
 ARCHIVE_PATH = Path(__file__).parent / "jobs_archive.json"
 README_PATH = Path(__file__).parent / "README.md"
 COMPANIES_PATH = Path(__file__).parent / "companies.yaml"
+STATS_PATH = Path(__file__).parent / "company_stats.json"
 
 INTRO = """# Serverless ATS Job Sniper
 
 An auto-updated list of **early-career engineering roles** scraped hourly
-from the public ATS APIs of top tech companies (Greenhouse, Lever, Ashby,
-Workday). Filtered for entry-level, internship, new-grad, and university
-graduate positions. US-only by default.
+from public job boards: Greenhouse, Lever, Ashby, Workday, SmartRecruiters,
+Microsoft Careers, Google Careers, Amazon Jobs, Uber, LinkedIn guest search,
+and other company-specific APIs. Filtered for entry-level, internship,
+new-grad, and university graduate positions. US-only by default.
 
 Built on a free GitHub Actions cron with zero servers and zero ongoing
 costs. State (`seen_jobs.json`, `jobs_archive.json`, `company_stats.json`)
@@ -44,6 +46,7 @@ how to fork, how to add companies, and how filtering works.
 LEGEND = """## Legend
 
 - **Role flag** -> Country (currently US-only, `\U0001F1FA\U0001F1F8`).
+- **Source** -> Which adapter fetched the row (`greenhouse`, `linkedin`, `workday`, etc.).
 - **Education** -> Tags from job requirements (e.g. `{PhD, PhD Student, Masters, Bachelors, New Grad, Early Career, Intern}`).
 - **Apply** -> Direct link to the company's job board posting.
 - **Date Posted** -> When the company posted the role (parsed from each ATS).
@@ -89,10 +92,11 @@ def _row(entry: dict[str, Any]) -> str:
 
     posted = entry.get("posted_date") or _date_from_iso(entry.get("first_seen"))
     posted_display = _format_short_date(posted) if posted else "-"
+    source = (entry.get("ats") or "-").replace("|", "\\|").strip()
 
     return (
-        f"| {company} | {title} | {location} | {education} | {apply_cell} | "
-        f"{posted_display} |"
+        f"| {company} | {title} | {location} | {source} | {education} | "
+        f"{apply_cell} | {posted_display} |"
     )
 
 
@@ -122,6 +126,26 @@ def _sort_key(entry: dict[str, Any]) -> tuple:
     )
 
 
+def _load_fetch_stats() -> tuple[int, int] | None:
+    """Sum last-run postings/matches from company_stats.json."""
+    if not STATS_PATH.exists():
+        return None
+    try:
+        data = json.loads(STATS_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return None
+    if not isinstance(data, dict):
+        return None
+    postings = 0
+    matches = 0
+    for row in data.values():
+        if not isinstance(row, dict):
+            continue
+        postings += int(row.get("last_postings") or 0)
+        matches += int(row.get("last_matches") or 0)
+    return postings, matches
+
+
 def _count_active_companies() -> int:
     """Quick read of companies.yaml to count active (non-tier3) companies."""
     if not COMPANIES_PATH.exists():
@@ -145,20 +169,32 @@ def render(archive: JobsArchive) -> str:
     n_total = len(entries)
     n_companies = _count_active_companies()
 
+    fetch_stats = _load_fetch_stats()
+
     out: list[str] = [INTRO]
-    out.append(
-        f"## Stats\n\n"
-        f"- **Open positions:** {n_open}\n"
-        f"- **All-time tracked:** {n_total}\n"
-        f"- **Active companies:** {n_companies}\n"
-        f"- **Last updated:** `{now}`\n"
-    )
+    stats_lines = [
+        f"- **Open positions:** {n_open}",
+        f"- **All-time tracked:** {n_total}",
+        f"- **Active companies:** {n_companies}",
+    ]
+    if fetch_stats:
+        fetched, matched = fetch_stats
+        stats_lines.append(
+            f"- **Last run (raw / matched):** {fetched} postings fetched, "
+            f"{matched} passed filters"
+        )
+    stats_lines.append(f"- **Last updated:** `{now}`")
+    out.append("## Stats\n\n" + "\n".join(stats_lines) + "\n")
     out.append(LEGEND)
 
     out.append("## Open positions\n")
     if open_entries:
-        out.append("| Company | Role | Location | Education | Apply | Date Posted |")
-        out.append("|---------|------|----------|-----------|-------|-------------|")
+        out.append(
+            "| Company | Role | Location | Source | Education | Apply | Date Posted |"
+        )
+        out.append(
+            "|---------|------|----------|--------|-----------|-------|-------------|"
+        )
         out.extend(_row(e) for e in open_entries)
         out.append("")
     else:
@@ -169,8 +205,12 @@ def render(archive: JobsArchive) -> str:
             f"\n<details>\n<summary><b>Closed positions ({len(closed_entries)})"
             "</b> &mdash; click to expand</summary>\n"
         )
-        out.append("\n| Company | Role | Location | Education | Apply | Date Posted |")
-        out.append("|---------|------|----------|-----------|-------|-------------|")
+        out.append(
+            "\n| Company | Role | Location | Source | Education | Apply | Date Posted |"
+        )
+        out.append(
+            "|---------|------|----------|--------|-----------|-------|-------------|"
+        )
         out.extend(_row(e) for e in closed_entries)
         out.append("\n</details>\n")
 

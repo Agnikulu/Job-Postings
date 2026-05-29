@@ -21,6 +21,7 @@ from filters import (
     is_location_ambiguous,
     is_obvious_reject,
     is_us_location,
+    is_us_location_with_description,
     obvious_reject_reason,
 )
 
@@ -203,6 +204,25 @@ def test_is_us_location(location: str, expected: bool) -> None:
 
 def test_is_us_location_none() -> None:
     assert is_us_location(None) is False
+
+
+@pytest.mark.parametrize(
+    "location,description,expected",
+    [
+        ("Remote Poland", "United States remote work eligible", False),
+        ("Berlin, BE, DE", "US-based team", False),
+        ("Herzliya, Tel Aviv District, IL", "Remote US", False),
+        ("Remote", "Work from anywhere in the United States", True),
+        ("San Francisco, CA; Toronto", None, True),
+        ("Remote - United States", None, True),
+    ],
+)
+def test_is_us_location_with_description(
+    location: str | None,
+    description: str | None,
+    expected: bool,
+) -> None:
+    assert is_us_location_with_description(location, description) is expected
 
 
 # =============================================================================

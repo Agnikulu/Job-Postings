@@ -138,3 +138,18 @@ def test_linkedin_fetch_maps_fields() -> None:
     assert len(jobs) == 1
     assert jobs[0].title == "Software Engineer"
     assert jobs[0].location == "Sunnyvale, CA"
+
+
+def test_linkedin_strips_leading_hash_from_title() -> None:
+    html = """
+    <div data-entity-urn="urn:li:jobPosting:99999">
+      <a class="base-card__full-link" href="https://www.linkedin.com/jobs/view/99999">link</a>
+      <h3 class="base-search-card__title">#Product Software Engineer</h3>
+      <span class="job-search-card__location">San Diego, CA</span>
+    </div>
+    """
+    company = {"name": "Qualcomm", "linkedin_company_id": "2017", "category": "big_tech"}
+    with patch("adapters.linkedin._get_page", side_effect=[html, ""]):
+        jobs = fetch_linkedin(company)
+    assert len(jobs) == 1
+    assert jobs[0].title == "Product Software Engineer"

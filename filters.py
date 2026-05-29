@@ -1567,6 +1567,12 @@ def is_us_location_from_description(description: str | None) -> bool:
         US_INDICATOR.search(snippet) or US_CITY.search(snippet)
     ):
         return True
+    if US_INDICATOR.search(snippet) and re.search(
+        r"\b(?:work\s+from|based\s+in|located\s+in)\b",
+        snippet,
+        re.IGNORECASE,
+    ):
+        return True
     return False
 
 
@@ -1575,6 +1581,16 @@ def is_us_location_with_description(
     description: str | None = None,
 ) -> bool:
     """US check using location string, with description fallback for bare Remote."""
+    if location and location.strip():
+        text = location.strip()
+        if NON_US_INDICATOR.search(text):
+            has_us_strong = bool(
+                US_INDICATOR.search(text)
+                or US_CITY.search(text)
+                or _REMOTE_US.search(text)
+            )
+            if not has_us_strong:
+                return False
     if is_us_location(location):
         return True
     if is_location_ambiguous(location):

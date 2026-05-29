@@ -37,6 +37,11 @@ DETAIL_WORKERS = 3
 DEFAULT_COMPANY_ID = "1337"
 
 
+def _normalize_title(title: str) -> str:
+    """Strip LinkedIn list-card artifacts (leading #, whitespace)."""
+    return title.lstrip("#").strip()
+
+
 def _browser_headers() -> dict[str, str]:
     return {
         **DEFAULT_HEADERS,
@@ -100,7 +105,8 @@ def _parse_page(text: str) -> list[dict[str, str]]:
         link_match = re.search(r'base-card__full-link[^>]*href="([^"]+)"', card)
         loc_match = re.search(r"job-search-card__location[^>]*>\s*([^<]+)", card)
         time_match = re.search(r"job-search-card__listdate[^>]*>\s*([^<]+)", card)
-        title = html.unescape(title_match.group(1).strip()) if title_match else ""
+        raw_title = html.unescape(title_match.group(1).strip()) if title_match else ""
+        title = _normalize_title(raw_title) if raw_title else ""
         raw_url = html.unescape(link_match.group(1).strip()) if link_match else ""
         # Use a canonical URL (no tracking query params) so the same job
         # posted at different pagination offsets deduplicates correctly.
