@@ -1,7 +1,7 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-28 23:55 UTC  
-**New matches this run:** 705  
+**Run timestamp:** 2026-05-29 01:01 UTC  
+**New matches this run:** 637  
 **Location filter:** US-only
 
 
@@ -12,9 +12,9 @@ Grouped by company (sorted by match count):
 
 - **[TECH]** [Aerodynamics Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8558715002?gh_jid=8558715002) - *Starbase, TX*
 - **[TECH]** [AI Software Engineer (Vehicle Engineering)](https://boards.greenhouse.io/spacex/jobs/8559015002?gh_jid=8559015002) - *Hawthorne, CA*
-- **[TECH]** [Application Software Engineer](https://boards.greenhouse.io/spacex/jobs/8402778002?gh_jid=8402778002) - *Redmond, WA*
 - **[TECH]** [Application Software Engineer](https://boards.greenhouse.io/spacex/jobs/8494238002?gh_jid=8494238002) - *Hawthorne, CA*
 - **[TECH]** [Application Software Engineer](https://boards.greenhouse.io/spacex/jobs/8494240002?gh_jid=8494240002) - *Bastrop, TX*
+- **[TECH]** [Application Software Engineer](https://boards.greenhouse.io/spacex/jobs/8402778002?gh_jid=8402778002) - *Redmond, WA*
 - **[TECH]** [Application Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8420526002?gh_jid=8420526002) - *Starbase, TX*
 - **[TECH]** [Application Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8530277002?gh_jid=8530277002) - *Hawthorne, CA*
 - **[TECH]** [Aviation Certification Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8403060002?gh_jid=8403060002) - *Woodinville, WA*
@@ -60,14 +60,14 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Flight Software Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8556909002?gh_jid=8556909002) - *Redmond, WA*
 - **[TECH]** [Flight Software Infrastructure Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8477451002?gh_jid=8477451002) - *Redmond, WA*
 - **[TECH]** [Fluids Systems Engineer, Solar Cell Factory (Starlink)](https://boards.greenhouse.io/spacex/jobs/8346155002?gh_jid=8346155002) - *Bastrop, TX*
-- **[TECH]** [Full Stack Software Engineer (Application Software)](https://boards.greenhouse.io/spacex/jobs/8495180002?gh_jid=8495180002) - *Bastrop, TX*
 - **[TECH]** [Full Stack Software Engineer (Application Software)](https://boards.greenhouse.io/spacex/jobs/8495131002?gh_jid=8495131002) - *Hawthorne, CA*
+- **[TECH]** [Full Stack Software Engineer (Application Software)](https://boards.greenhouse.io/spacex/jobs/8495180002?gh_jid=8495180002) - *Bastrop, TX*
 - **[TECH]** [Full Stack Software Engineer (Build Reliability)](https://boards.greenhouse.io/spacex/jobs/8555791002?gh_jid=8555791002) - *Hawthorne, CA*
 - **[TECH]** [Full Stack Software Engineer (Components)](https://boards.greenhouse.io/spacex/jobs/8421359002?gh_jid=8421359002) - *Hawthorne, CA*
 - **[TECH]** [Full Stack Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8501225002?gh_jid=8501225002) - *Palo Alto, CA*
 - **[TECH]** [Full Stack Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8365490002?gh_jid=8365490002) - *Hawthorne, CA*
-- **[TECH]** [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002) - *Hawthorne, CA*
 - **[TECH]** [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553080002?gh_jid=8553080002) - *Starbase, TX*
+- **[TECH]** [Full Stack Software Engineer, Data](https://boards.greenhouse.io/spacex/jobs/8553026002?gh_jid=8553026002) - *Hawthorne, CA*
 - **[TECH]** [Full Stack Software Engineer, Data (Starlink)](https://boards.greenhouse.io/spacex/jobs/8540435002?gh_jid=8540435002) - *Hawthorne, CA*
 - **[TECH]** [GNC Software Engineer - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8560746002?gh_jid=8560746002) - *Hawthorne, CA*
 - **[TECH]** [Hardware Development Engineer, Gateway Failure Analysis (Starlink)](https://boards.greenhouse.io/spacex/jobs/8440611002?gh_jid=8440611002) - *Bastrop, TX*
@@ -103,8 +103,8 @@ Grouped by company (sorted by match count):
 - **[TECH]** [New Graduate Engineer, Propulsion (Raptor)](https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002) - *Hawthorne, CA*
 - **[TECH]** [New Graduate Engineer, Propulsion (Starship)](https://boards.greenhouse.io/spacex/jobs/8497447002?gh_jid=8497447002) - *Starbase, TX*
 - **[TECH]** [New Graduate Engineer, Software](https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002) - *Hawthorne, CA*
-- **[TECH]** [New Graduate Engineer, Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) - *Redmond, WA*
 - **[TECH]** [New Graduate Engineer, Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002) - *Sunnyvale, CA*
+- **[TECH]** [New Graduate Engineer, Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002) - *Redmond, WA*
 - **[TECH]** [New Graduate Engineer, Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002) - *Bastrop, TX*
 - **[TECH]** [Operations Engineer (Facilities)](https://boards.greenhouse.io/spacex/jobs/8551671002?gh_jid=8551671002) - *Hawthorne, CA*
 - **[TECH]** [Operations Engineer (Raptor)](https://boards.greenhouse.io/spacex/jobs/8402855002?gh_jid=8402855002) - *Hawthorne, CA*
@@ -132,57 +132,57 @@ Grouped by company (sorted by match count):
 - **[TECH]** [RF Silicon Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8439627002?gh_jid=8439627002) - *Redmond, WA*
 - **[TECH]** [RF Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002) - *Hawthorne, CA*
 - **[TECH]** [RF Systems Analysis Engineer, Regulatory (Starlink)](https://boards.greenhouse.io/spacex/jobs/8389697002?gh_jid=8389697002) - *Washington, DC*
-- **[TECH]** [Security Engineer (Blue Team)](https://boards.greenhouse.io/spacex/jobs/8426411002?gh_jid=8426411002) - *Hawthorne, CA*
 - **[TECH]** [Security Engineer (Blue Team)](https://boards.greenhouse.io/spacex/jobs/8426423002?gh_jid=8426423002) - *Redmond, WA*
+- **[TECH]** [Security Engineer (Blue Team)](https://boards.greenhouse.io/spacex/jobs/8426411002?gh_jid=8426411002) - *Hawthorne, CA*
+- **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/spacex/jobs/8380536002?gh_jid=8380536002) - *Redmond, WA*
 - **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/spacex/jobs/8420836002?gh_jid=8420836002) - *Bastrop, TX*
 - **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/spacex/jobs/8380527002?gh_jid=8380527002) - *Hawthorne, CA*
-- **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/spacex/jobs/8380536002?gh_jid=8380536002) - *Redmond, WA*
+- **[TECH]** [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543784002?gh_jid=8543784002) - *Redmond, WA*
 - **[TECH]** [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8445643002?gh_jid=8445643002) - *Hawthorne, CA*
 - **[TECH]** [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543817002?gh_jid=8543817002) - *Hawthorne, CA*
-- **[TECH]** [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543784002?gh_jid=8543784002) - *Redmond, WA*
 - **[TECH]** [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8479234002?gh_jid=8479234002) - *Bastrop, TX*
 - **[TECH]** [Security Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8543668002?gh_jid=8543668002) - *Redmond, WA*
-- **[TECH]** [Security Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8483982002?gh_jid=8483982002) - *Palo Alto, CA*
 - **[TECH]** [Security Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8392887002?gh_jid=8392887002) - *Hawthorne, CA*
 - **[TECH]** [Security Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8483980002?gh_jid=8483980002) - *Washington, DC*
-- **[TECH]** [Security Software Engineer, Applied Computing (Starshield)](https://boards.greenhouse.io/spacex/jobs/8483747002?gh_jid=8483747002) - *Palo Alto, CA*
+- **[TECH]** [Security Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8483982002?gh_jid=8483982002) - *Palo Alto, CA*
 - **[TECH]** [Security Software Engineer, Applied Computing (Starshield)](https://boards.greenhouse.io/spacex/jobs/8440980002?gh_jid=8440980002) - *Hawthorne, CA*
 - **[TECH]** [Security Software Engineer, Applied Computing (Starshield)](https://boards.greenhouse.io/spacex/jobs/8441008002?gh_jid=8441008002) - *Washington, DC*
+- **[TECH]** [Security Software Engineer, Applied Computing (Starshield)](https://boards.greenhouse.io/spacex/jobs/8483747002?gh_jid=8483747002) - *Palo Alto, CA*
 - **[TECH]** [Simulation Software Engineer (Application Software)](https://boards.greenhouse.io/spacex/jobs/8488034002?gh_jid=8488034002) - *Hawthorne, CA*
 - **[TECH]** [SMT Process Engineer](https://boards.greenhouse.io/spacex/jobs/8558345002?gh_jid=8558345002) - *Bastrop, TX*
 - **[TECH]** [Software Engineer (Components)](https://boards.greenhouse.io/spacex/jobs/8557032002?gh_jid=8557032002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer (Flight Reliability)](https://boards.greenhouse.io/spacex/jobs/8512876002?gh_jid=8512876002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558857002?gh_jid=8558857002) - *Redmond, WA*
-- **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002) - *Bastrop, TX*
-- **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8560537002?gh_jid=8560537002) - *Starbase, TX*
-- **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558859002?gh_jid=8558859002) - *Palo Alto, CA*
 - **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558858002?gh_jid=8558858002) - *Sunnyvale, CA*
 - **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8495882002?gh_jid=8495882002) - *Hawthorne, CA*
+- **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8558859002?gh_jid=8558859002) - *Palo Alto, CA*
+- **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8560537002?gh_jid=8560537002) - *Starbase, TX*
+- **[TECH]** [Software Engineer (Platform Team)](https://boards.greenhouse.io/spacex/jobs/8560546002?gh_jid=8560546002) - *Bastrop, TX*
 - **[TECH]** [Software Engineer (Special Projects) - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8568970002?gh_jid=8568970002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer (Starlink Ground Network)](https://boards.greenhouse.io/spacex/jobs/8342599002?gh_jid=8342599002) - *Redmond, WA*
 - **[TECH]** [Software Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002) - *Redmond, WA*
 - **[TECH]** [Software Engineer (Starlink Mobile)](https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002) - *Sunnyvale, CA*
 - **[TECH]** [Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8525359002?gh_jid=8525359002) - *Redmond, WA*
-- **[TECH]** [Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8385191002?gh_jid=8385191002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8501199002?gh_jid=8501199002) - *Redmond, WA*
+- **[TECH]** [Software Engineer (Starshield)](https://boards.greenhouse.io/spacex/jobs/8385191002?gh_jid=8385191002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer (Starshield) - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8387886002?gh_jid=8387886002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer (Thermal & Fluid Analysis)](https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002) - *Starbase, TX*
 - **[TECH]** [Software Engineer (Vehicle Engineering)](https://boards.greenhouse.io/spacex/jobs/8397542002?gh_jid=8397542002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Additive Manufacturing (Raptor)](https://boards.greenhouse.io/spacex/jobs/8327721002?gh_jid=8327721002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Beam Planning (Starlink)](https://boards.greenhouse.io/spacex/jobs/8450082002?gh_jid=8450082002) - *Redmond, WA*
 - **[TECH]** [Software Engineer, Beam Planning (Starlink)](https://boards.greenhouse.io/spacex/jobs/8530316002?gh_jid=8530316002) - *Sunnyvale, CA*
-- **[TECH]** [Software Engineer, C++ (Starlink)](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) - *Sunnyvale, CA*
 - **[TECH]** [Software Engineer, C++ (Starlink)](https://boards.greenhouse.io/spacex/jobs/8477124002?gh_jid=8477124002) - *Redmond, WA*
+- **[TECH]** [Software Engineer, C++ (Starlink)](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) - *Sunnyvale, CA*
 - **[TECH]** [Software Engineer, C++ - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8377056002?gh_jid=8377056002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, CDN  (Starlink)](https://boards.greenhouse.io/spacex/jobs/8448505002?gh_jid=8448505002) - *Redmond, WA*
 - **[TECH]** [Software Engineer, Components Test (Starshield)](https://boards.greenhouse.io/spacex/jobs/8391434002?gh_jid=8391434002) - *Hawthorne, CA*
-- **[TECH]** [Software Engineer, Continuous Integration (Starship)](https://boards.greenhouse.io/spacex/jobs/8533853002?gh_jid=8533853002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Continuous Integration (Starship)](https://boards.greenhouse.io/spacex/jobs/8533859002?gh_jid=8533859002) - *Starbase, TX*
+- **[TECH]** [Software Engineer, Continuous Integration (Starship)](https://boards.greenhouse.io/spacex/jobs/8533853002?gh_jid=8533853002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Data (Starlink)](https://boards.greenhouse.io/spacex/jobs/8476427002?gh_jid=8476427002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Data - Top Secret Clearance](https://boards.greenhouse.io/spacex/jobs/8397673002?gh_jid=8397673002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Data - Top Secret Clearance (Starlink)](https://boards.greenhouse.io/spacex/jobs/8449846002?gh_jid=8449846002) - *Hawthorne, CA*
-- **[TECH]** [Software Engineer, Design Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8466837002?gh_jid=8466837002) - *Starbase, TX*
 - **[TECH]** [Software Engineer, Design Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8466905002?gh_jid=8466905002) - *Hawthorne, CA*
+- **[TECH]** [Software Engineer, Design Software (Starship)](https://boards.greenhouse.io/spacex/jobs/8466837002?gh_jid=8466837002) - *Starbase, TX*
 - **[TECH]** [Software Engineer, Development Test (Starlink)](https://boards.greenhouse.io/spacex/jobs/8532395002?gh_jid=8532395002) - *Redmond, WA*
 - **[TECH]** [Software Engineer, Embedded Software (Starlink)](https://boards.greenhouse.io/spacex/jobs/8552752002?gh_jid=8552752002) - *Redmond, WA*
 - **[TECH]** [Software Engineer, Embedded Software (Starshield)](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) - *Hawthorne, CA*
@@ -206,11 +206,11 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Software Engineer, Satellite Operations (Starshield)](https://boards.greenhouse.io/spacex/jobs/8382088002?gh_jid=8382088002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Simulation](https://boards.greenhouse.io/spacex/jobs/8443290002?gh_jid=8443290002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Simulations (Application Software)](https://boards.greenhouse.io/spacex/jobs/8487534002?gh_jid=8487534002) - *Hawthorne, CA*
-- **[TECH]** [Software Engineer, Starlink Growth](https://boards.greenhouse.io/spacex/jobs/8403929002?gh_jid=8403929002) - *Bastrop, TX*
 - **[TECH]** [Software Engineer, Starlink Growth](https://boards.greenhouse.io/spacex/jobs/8403855002?gh_jid=8403855002) - *Redmond, WA*
+- **[TECH]** [Software Engineer, Starlink Growth](https://boards.greenhouse.io/spacex/jobs/8403929002?gh_jid=8403929002) - *Bastrop, TX*
 - **[TECH]** [Software Engineer, Starlink Growth](https://boards.greenhouse.io/spacex/jobs/8403945002?gh_jid=8403945002) - *Sunnyvale, CA*
-- **[TECH]** [Software Engineer, Starlink Network](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002) - *Sunnyvale, CA*
 - **[TECH]** [Software Engineer, Starlink Network](https://boards.greenhouse.io/spacex/jobs/8477137002?gh_jid=8477137002) - *Redmond, WA*
+- **[TECH]** [Software Engineer, Starlink Network](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002) - *Sunnyvale, CA*
 - **[TECH]** [Software Engineer, Telemetry (Starlink)](https://boards.greenhouse.io/spacex/jobs/8451998002?gh_jid=8451998002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Telemetry - Top Secret Clearance (Starlink)](https://boards.greenhouse.io/spacex/jobs/8533686002?gh_jid=8533686002) - *Hawthorne, CA*
 - **[TECH]** [Software Engineer, Tracking (Starshield)](https://boards.greenhouse.io/spacex/jobs/8414648002?gh_jid=8414648002) - *Hawthorne, CA*
@@ -221,8 +221,8 @@ Grouped by company (sorted by match count):
 
 ## Anduril - 42 new (42 technical)
 
-- **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) - *Washington, District of Columbia, United States*
 - **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) - *Costa Mesa, California, United States*
+- **[TECH]** [Computer Vision Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) - *Washington, District of Columbia, United States*
 - **[TECH]** [DevOps Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5146861007?gh_jid=5146861007) - *Reston, Virginia, United States*
 - **[TECH]** [Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007) - *Costa Mesa, California, United States*
 - **[TECH]** [Early Career Manufacturing Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5009798007?gh_jid=5009798007) - *Santa Ana, California, United States*
@@ -232,8 +232,8 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Flight Software Engineer, Embedded C/C++, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007) - *Costa Mesa, California, United States*
 - **[TECH]** [Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Advanced Effects](https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007) - *Costa Mesa, California, United States*
 - **[TECH]** [Flight Test Engineer, Ghost](https://boards.greenhouse.io/andurilindustries/jobs/5146974007?gh_jid=5146974007) - *San Clemente, California, United States*
-- **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007) - *Washington, District of Columbia, United States*
 - **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007) - *Costa Mesa, California, United States*
+- **[TECH]** [GNC Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007) - *Washington, District of Columbia, United States*
 - **[TECH]** [GSOC Jr Operator](https://boards.greenhouse.io/andurilindustries/jobs/5103111007?gh_jid=5103111007) - *Costa Mesa, California, United States*
 - **[TECH]** [Industrial Engineer, Production Controls & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5108276007?gh_jid=5108276007) - *Costa Mesa, California, United States*
 - **[TECH]** [Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) - *Santa Ana, California, United States*
@@ -245,24 +245,24 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Mechanical Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5116599007?gh_jid=5116599007) - *Costa Mesa, California, United States*
 - **[TECH]** [Mechanical Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4988675007?gh_jid=4988675007) - *Costa Mesa, California, United States*
 - **[TECH]** [Mission Operations Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5115435007?gh_jid=5115435007) - *Costa Mesa, California, United States*
-- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007) - *Costa Mesa, California, United States*
 - **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4182443007?gh_jid=4182443007) - *Washington, District of Columbia, United States*
+- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007) - *Costa Mesa, California, United States*
 - **[TECH]** [Robotics Software Engineer, Behaviors](https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007) - *Costa Mesa, California, United States*
 - **[TECH]** [Robotics Software Engineer, Sensor Integration](https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007) - *Costa Mesa, California, United States*
 - **[TECH]** [Robotics Software Engineer, Verification & Validation](https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007) - *Costa Mesa, California, United States*
 - **[TECH]** [Security Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134986007?gh_jid=5134986007) - *Costa Mesa, California, United States*
+- **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086925007?gh_jid=5086925007) - *Washington, District of Columbia, United States*
 - **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5002794007?gh_jid=5002794007) - *Costa Mesa, California, United States*
 - **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086919007?gh_jid=5086919007) - *Atlanta, Georgia, United States*
-- **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086925007?gh_jid=5086925007) - *Washington, District of Columbia, United States*
-- **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086896007?gh_jid=5086896007) - *Boston, Massachusetts, United States*
-- **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086936007?gh_jid=5086936007) - *Ashville, Ohio, United States*
 - **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5002792007?gh_jid=5002792007) - *Seattle, Washington, United States*
+- **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086936007?gh_jid=5086936007) - *Ashville, Ohio, United States*
+- **[TECH]** [Security Software Engineer - Crypto Services](https://boards.greenhouse.io/andurilindustries/jobs/5086896007?gh_jid=5086896007) - *Boston, Massachusetts, United States*
+- **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086967007?gh_jid=5086967007) - *Ashville, Ohio, United States*
 - **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086958007?gh_jid=5086958007) - *Seattle, Washington, United States*
 - **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086960007?gh_jid=5086960007) - *Boston, Massachusetts, United States*
-- **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086967007?gh_jid=5086967007) - *Ashville, Ohio, United States*
-- **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086964007?gh_jid=5086964007) - *Atlanta, Georgia, United States*
 - **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086962007?gh_jid=5086962007) - *Washington, District of Columbia, United States*
 - **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5002801007?gh_jid=5002801007) - *Costa Mesa, California, United States*
+- **[TECH]** [Security Software Engineer - Endpoint Security](https://boards.greenhouse.io/andurilindustries/jobs/5086964007?gh_jid=5086964007) - *Atlanta, Georgia, United States*
 
 ## Nvidia - 36 new (36 technical)
 
@@ -303,116 +303,53 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Verification and Validation Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Verification-and-Validation-Engineer---New-College-Grad-2026_JR2018584-1) - *US, TX, Austin*
 - **[TECH]** [Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2017633) - *3 Locations*
 
-## Tesla - 33 new (33 technical)
+## Tesla - 34 new (34 technical)
 
 - **[TECH]** [Associate Civil Engineer](https://www.linkedin.com/jobs/view/4418645220) - *Austin, TX*
 - **[TECH]** [Associate Environmental Engineer](https://www.linkedin.com/jobs/view/4418456588) - *Sparks, NV*
 - **[TECH]** [Associate Mechanical Design Engineer](https://www.linkedin.com/jobs/view/4418642284) - *Brooklyn Park, MN*
 - **[TECH]** [Embedded Software Engineer, Optimus](https://www.linkedin.com/jobs/view/4420222420) - *Palo Alto, CA*
 - **[TECH]** [Frontend Software Engineer, Energy Charging](https://www.linkedin.com/jobs/view/4420223215) - *Fremont, CA*
-- **[TECH]** [Industrial Engineer, Outbound Flow & Optimization](https://www.linkedin.com/jobs/view/4418656210) - *Austin, TX*
-- **[TECH]** [Industrial Engineer, Service Distribution](https://www.linkedin.com/jobs/view/4419557756) - *San Bernardino, CA*
+- **[TECH]** [Frontend Software Engineer, Energy Residential](https://www.linkedin.com/jobs/view/4420204917) - *Fremont, CA*
 - **[TECH]** [Internship, Data Analyst, Energy (Fall 2026)](https://www.linkedin.com/jobs/view/4416576546) - *Fremont, CA*
 - **[TECH]** [Internship, Data Engineer, Energy (Fall 2026)](https://www.linkedin.com/jobs/view/4416582555) - *Palo Alto, CA*
 - **[TECH]** [Internship, Data Engineer, Fleet Analytics (Fall 2026)](https://www.linkedin.com/jobs/view/4420225240) - *Palo Alto, CA*
 - **[TECH]** [Internship, Data Engineer, Fleet Data, Self Driving (Fall 2026)](https://www.linkedin.com/jobs/view/4420224285) - *Palo Alto, CA*
-- **[TECH]** [Internship, Engineering Automation Software Engineer, Vehicle Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420210899) - *Palo Alto, CA*
 - **[TECH]** [Internship, Frontend Engineer, Applications Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420210818) - *Fremont, CA*
 - **[TECH]** [Internship, Fullstack Engineer, AI Tooling (Fall 2026)](https://www.linkedin.com/jobs/view/4420206928) - *Palo Alto, CA*
 - **[TECH]** [Internship, Fullstack Engineer, Build Infrastructure (Fall 2026)](https://www.linkedin.com/jobs/view/4420224209) - *Palo Alto, CA*
 - **[TECH]** [Internship, Fullstack Engineer, Infrastructure Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420219567) - *Fremont, CA*
 - **[TECH]** [Internship, Fullstack Software Engineer, Fleetnet (Fall 2026)](https://www.linkedin.com/jobs/view/4420221517) - *Palo Alto, CA*
 - **[TECH]** [Internship, Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure (Fall 2026)](https://www.linkedin.com/jobs/view/4420216788) - *Palo Alto, CA*
+- **[TECH]** [Internship, Industrial Engineer, Supply Chain (Fall 2026)](https://www.linkedin.com/jobs/view/4420216682) - *Fremont, CA*
+- **[TECH]** [Internship, Materials Engineer, Cell Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420221537) - *Hutto, TX*
 - **[TECH]** [Internship, Mechanical Design Engineer, Optimus (Fall 2026)](https://www.linkedin.com/jobs/view/4420210802) - *Palo Alto, CA*
+- **[TECH]** [Internship, Mechanical Design Engineer, Vehicle Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420209928) - *Fremont, CA*
 - **[TECH]** [Internship, Process Engineer, Energy (Fall 2026)](https://www.linkedin.com/jobs/view/4416588529) - *Austin, TX*
 - **[TECH]** [Internship, Software Developer, Integration Platforms (Fall 2026)](https://www.linkedin.com/jobs/view/4420219546) - *Palo Alto, CA*
 - **[TECH]** [Internship, Software Engineer, Data Platforms (Fall 2026)](https://www.linkedin.com/jobs/view/4420214757) - *Palo Alto, CA*
 - **[TECH]** [Internship, Software Engineer, Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4416589514) - *Palo Alto, CA*
-- **[TECH]** [Internship, Software Engineer, Integration Tools (Fall 2026)](https://www.linkedin.com/jobs/view/4420225148) - *Palo Alto, CA*
 - **[TECH]** [Internship, Software Engineer, IT Apps (Fall 2026)](https://www.linkedin.com/jobs/view/4416580546) - *Fremont, CA*
 - **[TECH]** [Internship, Software Engineer, Service Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4420223263) - *Palo Alto, CA*
 - **[TECH]** [Internship, Software Engineer, Update Systems (Fall 2026)](https://www.linkedin.com/jobs/view/4420217657) - *Palo Alto, CA*
 - **[TECH]** [Internship, Software Engineer, Vehicle UI Development (Fall 2026)](https://www.linkedin.com/jobs/view/4420212736) - *Palo Alto, CA*
-- **[TECH]** [Manufacturing Engineer, Material Flow Simulation](https://www.linkedin.com/jobs/view/4418663151) - *Austin, TX*
+- **[TECH]** [Internship, Software QA Engineer, Vehicle Software (Fall 2026)](https://www.linkedin.com/jobs/view/4420227013) - *Palo Alto, CA*
 - **[TECH]** [Mechanical Design Engineer, Chassis](https://www.linkedin.com/jobs/view/4419556787) - *Palo Alto, CA*
+- **[TECH]** [Mechanical Design Engineer, Chassis](https://www.linkedin.com/jobs/view/4418906630) - *Austin, TX*
 - **[TECH]** [Mechanical Design Engineer, Chassis, Semi](https://www.linkedin.com/jobs/view/4418659179) - *Fremont, CA*
 - **[TECH]** [Mechanical Design Engineer, Chassis, Semi](https://www.linkedin.com/jobs/view/4420225025) - *Sparks, NV*
 - **[TECH]** [Quality Engineer, Plastics](https://www.linkedin.com/jobs/view/4419577276) - *Sparks, NV*
 
-## Qualcomm - 29 new (29 technical)
+## Meta - 16 new (16 technical)
 
-- **[TECH]** [#Embedded Software Development Engineer](https://www.linkedin.com/jobs/view/4379197487) - *San Diego, CA*
-- **[TECH]** [#Product Software Engineer](https://www.linkedin.com/jobs/view/4409928575) - *San Diego, CA*
-- **[TECH]** [#Security Software Engineer](https://www.linkedin.com/jobs/view/4389583877) - *San Diego, CA*
-- **[TECH]** [#Software Engineer ? Engineer](https://www.linkedin.com/jobs/view/4408325482) - *San Diego, CA*
-- **[TECH]** [#Sotware Engineer](https://www.linkedin.com/jobs/view/4400759619) - *Santa Clara, CA*
-- **[TECH]** [AR / VR Architecture Power and performance systems engineer](https://www.linkedin.com/jobs/view/4393875186) - *San Diego, CA*
-- **[TECH]** [ASIC Design Engineer](https://www.linkedin.com/jobs/view/4384262419) - *Santa Clara, CA*
-- **[TECH]** [ASIC Design Verification Engineer (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4413562934) - *Austin, TX*
-- **[TECH]** [Camera DV Engineer](https://www.linkedin.com/jobs/view/4314215481) - *San Diego, CA*
-- **[TECH]** [Camera Firmware Engineer](https://www.linkedin.com/jobs/view/4288068456) - *San Diego, CA*
-- **[TECH]** [CI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4418813166) - *Raleigh, NC*
-- **[TECH]** [Compiler Software Engineer](https://www.linkedin.com/jobs/view/4325378819) - *Austin, TX*
-- **[TECH]** [Customer Engineer - AI / ML](https://www.linkedin.com/jobs/view/4405758614) - *San Diego, CA*
-- **[TECH]** [Developer Relations Engineer ? Qualcomm Terrestrial Positioning Service (TPS)](https://www.linkedin.com/jobs/view/4403820733) - *Austin, TX*
-- **[TECH]** [Embedded Real Time Operating System Software Engineer (QuRT OS, Zephyr)](https://www.linkedin.com/jobs/view/4325467266) - *San Diego, CA*
-- **[TECH]** [Embedded Software Development Engineer](https://www.linkedin.com/jobs/view/4413562932) - *San Diego, CA*
-- **[TECH]** [Embedded Systems Software Engineer](https://www.linkedin.com/jobs/view/4412478354) - *San Diego, CA*
-- **[TECH]** [GPU High-Level Modelling](https://www.linkedin.com/jobs/view/4321119631) - *San Diego, CA*
-- **[TECH]** [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4410499438) - *San Diego, CA*
-- **[TECH]** [Machine Learning Researcher](https://www.linkedin.com/jobs/view/4343956138) - *San Diego, CA*
-- **[TECH]** [Modem HW Design Engineer ? AI Driven Next Gen Modem Hardware Development](https://www.linkedin.com/jobs/view/4409351753) - *Boxborough, MA*
-- **[TECH]** [Modem Integration & Test Engineer (Automation + AI/ML)](https://www.linkedin.com/jobs/view/4415198079) - *San Diego, CA*
-- **[TECH]** [Modem Machine Learning Engineer](https://www.linkedin.com/jobs/view/4415077400) - *San Diego, CA*
-- **[TECH]** [RF/Analog IC Design Engineer](https://www.linkedin.com/jobs/view/4380437726) - *Santa Clara, CA*
-- **[TECH]** [RFIC Design Engineer](https://www.linkedin.com/jobs/view/4417158427) - *San Diego, CA*
-- **[TECH]** [Software Engineer (University Grad)](https://www.linkedin.com/jobs/view/4327871460) - *Boulder, CO*
-- **[TECH]** [Software Engineer - Camera (Multiple Levels Available)](https://www.linkedin.com/jobs/view/4322660811) - *San Diego, CA*
-- **[TECH]** [Software Engineer, AI Tools ? Delegate](https://www.linkedin.com/jobs/view/4411899960) - *Raleigh, NC*
-- **[TECH]** [System Integration & Test Engineer - Top Secret Clearance Preferred (San Diego CA)](https://www.linkedin.com/jobs/view/4395990776) - *San Diego, CA*
-
-## Boston Dynamics - 25 new (25 technical)
-
-- **[TECH]** [2026 Fulltime - Raytheon Power Electronics & Controls Electrical Engineer I(Onsite)](https://www.linkedin.com/jobs/view/4384129405) - *Huntsville, AL*
-- **[TECH]** [2026 Fulltime- RF Electrical Engineer I- Onsite](https://www.linkedin.com/jobs/view/4418079685) - *Marlborough, MA*
-- **[TECH]** [2026 Radar Systems Engineer I? Onsite](https://www.linkedin.com/jobs/view/4419816852) - *El Segundo, CA*
-- **[TECH]** [2026 Raytheon Part Time -Systems Engineer Co-op (Remote)](https://www.linkedin.com/jobs/view/4411969435) - *Richardson, TX*
-- **[TECH]** [2026 Raytheon Part Time Co-op - Software  Engineer (Remote)](https://www.linkedin.com/jobs/view/4418084528) - *Dulles, VA*
-- **[TECH]** [2026 Raytheon Part Time Co-op - Software  Engineer (Remote)](https://www.linkedin.com/jobs/view/4418093361) - *Aurora, CO*
-- **[TECH]** [2026 Raytheon Part Time Co-op - Software  Engineer (Remote)](https://www.linkedin.com/jobs/view/4418089486) - *State College, PA*
-- **[TECH]** [Chemicals and Materials Engineer I](https://www.linkedin.com/jobs/view/4411982062) - *Tucson, AZ*
-- **[TECH]** [Digital Hardware Engineer I](https://www.linkedin.com/jobs/view/4413950168) - *Huntsville, AL*
-- **[TECH]** [Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4399844979) - *Marlborough, MA*
-- **[TECH]** [Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4399845923) - *Tucson, AZ*
-- **[TECH]** [Electrical Engineers II, Power & Analog, Design & Production Support ? Actively Growing Our Engineering Team!](https://www.linkedin.com/jobs/view/4390339202) - *Tucson, AZ*
-- **[TECH]** [Jr. Systems Administrator](https://www.linkedin.com/jobs/view/4409585559) - *Tucson, AZ*
-- **[TECH]** [Junior Network Administrator, McKinney, TX Onsite](https://www.linkedin.com/jobs/view/4409785431) - *McKinney, TX*
-- **[TECH]** [Low Observable Materials Engineer](https://www.linkedin.com/jobs/view/4413934988) - *Tucson, AZ*
-- **[TECH]** [Mechanical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4418084525) - *Tewksbury, MA*
-- **[TECH]** [Mechanical Engineers II, Design ? Actively Growing our Engineering Team!](https://www.linkedin.com/jobs/view/4410556168) - *Tucson, AZ*
-- **[TECH]** [Program Supplier Quality Engineer](https://www.linkedin.com/jobs/view/4386722727) - *Tucson, AZ*
-- **[TECH]** [Raytheon Full Time 2026 - Digital Electronics Electrical Engineer I](https://www.linkedin.com/jobs/view/4402914277) - *Tewksbury, MA*
-- **[TECH]** [Raytheon Full Time 2026 - Production Support Electrical Engineer I](https://www.linkedin.com/jobs/view/4405643119) - *Plano, TX*
-- **[TECH]** [Raytheon Full Time 2026 - RF Design Engineer I](https://www.linkedin.com/jobs/view/4419816849) - *Tucson, AZ*
-- **[TECH]** [Raytheon Full Time 2026 - Semiconductor Foundry Engineer I](https://www.linkedin.com/jobs/view/4401707304) - *Andover, MA*
-- **[TECH]** [Raytheon Full-time Digital Design Hardware Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4419827546) - *El Segundo, CA*
-- **[TECH]** [Raytheon Full-time Radio Frequency (RF) Production Support Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4419816848) - *El Segundo, CA*
-- **[TECH]** [Raytheon Full-time RF/Microwave Antenna Electrical Engineer I (Onsite)](https://www.linkedin.com/jobs/view/4419831048) - *El Segundo, CA*
-
-## Meta - 21 new (21 technical)
-
-- **[TECH]** [Fundamental AI Researcher - FAIR](https://www.linkedin.com/jobs/view/4403707999) - *New York, NY*
-- **[TECH]** [Fundamental AI Researcher - FAIR](https://www.linkedin.com/jobs/view/4403288993) - *Menlo Park, CA*
-- **[TECH]** [Hardware Electrical Engineer](https://www.linkedin.com/jobs/view/4404145493) - *Sunnyvale, CA*
-- **[TECH]** [Hardware Test & Automation Engineer](https://www.linkedin.com/jobs/view/4403760434) - *Redmond, WA*
 - **[TECH]** [Research Scientist Intern PhD, Applied Research](https://www.linkedin.com/jobs/view/4350195363) - *New York, NY*
 - **[TECH]** [Research Scientist Intern PhD, Applied Research](https://www.linkedin.com/jobs/view/4350155408) - *Menlo Park, CA*
 - **[TECH]** [Research Scientist Intern PhD, Applied Research](https://www.linkedin.com/jobs/view/4350323654) - *Bellevue, WA*
 - **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312031471) - *New York, NY*
 - **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312039282) - *Boston, MA*
 - **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4324709679) - *San Francisco, CA*
-- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312033417) - *Menlo Park, CA*
 - **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312043129) - *Seattle, WA*
+- **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312033417) - *Menlo Park, CA*
 - **[TECH]** [Research Scientist Intern, AI Alignment](https://www.linkedin.com/jobs/view/4312023968) - *Bellevue, WA*
 - **[TECH]** [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.linkedin.com/jobs/view/4340853542) - *Seattle, WA*
 - **[TECH]** [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.linkedin.com/jobs/view/4295617161) - *Redmond, WA*
@@ -421,7 +358,6 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.linkedin.com/jobs/view/4324778842) - *Seattle, WA*
 - **[TECH]** [Research Scientist Intern, Robotic Control Policy (PhD)](https://www.linkedin.com/jobs/view/4291466172) - *Redmond, WA*
 - **[TECH]** [Research Scientist Intern, Robotic Control Policy (PhD)](https://www.linkedin.com/jobs/view/4350245449) - *Burlingame, CA*
-- **[TECH]** [Software Engineer, AI Native](https://www.linkedin.com/jobs/view/4376614472) - *Bellevue, WA*
 
 ## Point72 - 15 new (15 technical)
 
@@ -523,21 +459,6 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Software Engineer, Monetization Products](https://careers.roblox.com/jobs/7947219?gh_jid=7947219) - *San Mateo, CA, United States*
 - **[TECH]** [Software Engineer, User Sharing](https://careers.roblox.com/jobs/7767204?gh_jid=7767204) - *San Mateo, CA, United States*
 
-## Etched - 12 new (12 technical)
-
-- **[TECH]** [Chip Simulation Software Intern](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8) - *San Jose*
-- **[TECH]** [DFT Intern](https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d) - *San Jose*
-- **[TECH]** [DV Intern](https://jobs.ashbyhq.com/etched/dacedaca-c4ca-4964-85a7-8df1738005bb) - *San Jose*
-- **[TECH]** [Electrical Platform Intern](https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a) - *San Jose*
-- **[TECH]** [Firmware Intern](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc) - *San Jose*
-- **[TECH]** [Inference Intern](https://jobs.ashbyhq.com/etched/6f23713f-5409-45b7-aae8-adb8710cdbc3) - *San Jose*
-- **[TECH]** [Infrastructure Intern](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877) - *San Jose*
-- **[TECH]** [Mech / Thermal Intern](https://jobs.ashbyhq.com/etched/f05e3218-5ec7-41d1-bc99-bb7014422229) - *San Jose*
-- **[TECH]** [PD Intern](https://jobs.ashbyhq.com/etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77) - *San Jose*
-- **[TECH]** [RTL Intern](https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e) - *San Jose*
-- **[TECH]** [Supercomputing Intern](https://jobs.ashbyhq.com/etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71) - *San Jose*
-- **[TECH]** [Thermo-Mech CFD Simulation Intern](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff) - *San Jose*
-
 ## Shield AI - 10 new (10 technical)
 
 - **[TECH]** [Associate Engineer, Manufacturing (R4637)](https://jobs.lever.co/shieldai/78842190-deba-4864-9ef9-272009cb15a4) - *Dallas, Texas*
@@ -604,11 +525,11 @@ Grouped by company (sorted by match count):
 - **[TECH]** [AI Research Fellowship, (Summer and Fall 2026)](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) - *San Francisco, CA*
 - **[TECH]** [Composite & Prototype Engineering Technician](https://job-boards.greenhouse.io/doordashusa/jobs/7650045) - *San Francisco, CA*
 - **[TECH]** [Electrical Distribution Engineer (Harness / EDS)](https://job-boards.greenhouse.io/doordashusa/jobs/7779237) - *Oakland, CA*
+- **[TECH]** [Lead Systems Engineer, Labs](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) - *San Francisco, CA; Oakland, CA*
 - **[TECH]** [Machine Learning Engineer, Marketplace Optimization](https://job-boards.greenhouse.io/doordashusa/jobs/7580407) - *San Francisco, CA; Sunnyvale, CA*
 - **[TECH]** [Mechanical Design Engineer ? UAV Wire Harness](https://job-boards.greenhouse.io/doordashusa/jobs/7927350) - *San Francisco, CA*
 - **[TECH]** [Software Engineer, Backend (All Teams)](https://job-boards.greenhouse.io/doordashusa/jobs/5630445) - *Los Angeles, CA; Sunnyvale, CA; San Francisco, CA; New York, NY; Seattle, WA; Ann Arbor, MI*
 - **[TECH]** [Software Engineer, Infrastructure - Autonomy & Robotics](https://job-boards.greenhouse.io/doordashusa/jobs/6367350) - *San Francisco, CA*
-- **[TECH]** [Systems Engineer](https://job-boards.greenhouse.io/doordashusa/jobs/7350485) - *San Francisco, CA; Oakland, CA*
 
 ## Glean - 7 new (7 technical)
 
@@ -685,14 +606,6 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Site Reliability Engineer Federal- SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5046050007) - *Remote - Virginia, USA*
 - **[TECH]** [Site Reliability Engineer-SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5045817007) - *Remote - USA*
 
-## Affirm - 5 new (5 technical)
-
-- **[TECH]** [Analyst I, Full Stack (Core Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7726627003) - *Remote US*
-- **[TECH]** [Software Engineer I, Back-end (Repayment Scheduling)](https://job-boards.greenhouse.io/affirm/jobs/7710970003) - *Remote Poland*
-- **[TECH]** [Software Engineer I, Full-Stack (Home and Search Experience)](https://job-boards.greenhouse.io/affirm/jobs/7685236003) - *Remote US*
-- **[TECH]** [Software Engineer, Early Career](https://job-boards.greenhouse.io/affirm/jobs/7485068003) - *San Francisco, California, United States*
-- **[TECH]** [Software Engineering Apprentice, Full-Stack](https://job-boards.greenhouse.io/affirm/jobs/7647925003) - *Remote US*
-
 ## Amazon Web Services (AWS) - 5 new (5 technical)
 
 - **[TECH]** [2026 Fall Quantum Applied Science Internship, Center for Quantum Computing](https://www.amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) - *Pasadena, CA, USA*
@@ -701,14 +614,6 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Quantum Research Scientist, Processor Test & Measurement, AWS Center for Quantum Computing](https://www.amazon.jobs/en/jobs/3175531/quantum-research-scientist-processor-test-measurement-aws-center-for-quantum-computing) - *Pasadena, CA, USA*
 - **[TECH]** [Software Development Engineer Apprentice - Military Veterans](https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans) - *Seattle, WA, USA*
 
-## Microsoft - 5 new (5 technical)
-
-- **[TECH]** [AI for Science Internship - Machine Learning Intern](https://apply.careers.microsoft.com/careers/job/1970393556869781) - *Berlin, BE, DE*
-- **[TECH]** [Data Center Technicians Intern](https://apply.careers.microsoft.com/careers/job/1970393556867635) - *Middenmeer, NH, NL*
-- **[TECH]** [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) - *Cambridge, MA, US / New York, NY, US*
-- **[TECH]** [Research Science PhD Internship Opportunities - Coding Agents](https://apply.careers.microsoft.com/careers/job/1970393556867906) - *Cambridge, England, GB*
-- **[TECH]** [Security Research Intern - AI Focus](https://apply.careers.microsoft.com/careers/job/1970393556862170) - *Herzliya, Tel Aviv District, IL*
-
 ## OpenAI - 5 new (5 technical)
 
 - **[TECH]** [Infrastructure Partnership Delivery Lead ? Stargate](https://jobs.ashbyhq.com/openai/176b9de4-a5cf-4655-987c-872da1f5fe57) - *Remote - US*
@@ -716,6 +621,13 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Performance Modeling Engineer ~2](https://jobs.ashbyhq.com/openai/4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb) - *San Francisco*
 - **[TECH]** [Research Engineer / Machine Learning Engineer - Applied Voice](https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409) - *San Francisco*
 - **[TECH]** [RTL & Co-design Engineer (junior)](https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849) - *San Francisco*
+
+## Affirm - 4 new (4 technical)
+
+- **[TECH]** [Analyst I, Full Stack (Core Analytics)](https://job-boards.greenhouse.io/affirm/jobs/7726627003) - *Remote US*
+- **[TECH]** [Software Engineer I, Full-Stack (Home and Search Experience)](https://job-boards.greenhouse.io/affirm/jobs/7685236003) - *Remote US*
+- **[TECH]** [Software Engineer, Early Career](https://job-boards.greenhouse.io/affirm/jobs/7485068003) - *San Francisco, California, United States*
+- **[TECH]** [Software Engineering Apprentice, Full-Stack](https://job-boards.greenhouse.io/affirm/jobs/7647925003) - *Remote US*
 
 ## Arista Networks - 4 new (4 technical)
 
@@ -738,12 +650,26 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Embedded Software Intern [Fall 2026]](https://job-boards.greenhouse.io/figureai/jobs/4397706006) - *San Jose, CA*
 - **[TECH]** [Mechanical Engineer, Battery](https://job-boards.greenhouse.io/figureai/jobs/4656559006) - *San Jose, CA*
 
+## Intuit - 4 new (4 technical)
+
+- **[TECH]** [Software Engineer 1](https://www.linkedin.com/jobs/view/4401727507) - *New York, NY*
+- **[TECH]** [Software Engineer 1](https://www.linkedin.com/jobs/view/4401741037) - *Mountain View, CA*
+- **[TECH]** [Software Engineer 1](https://www.linkedin.com/jobs/view/4401737123) - *San Diego, CA*
+- **[TECH]** [Software Engineer 1](https://www.linkedin.com/jobs/view/4401726620) - *Atlanta, GA*
+
 ## Lambda Labs - 4 new (4 technical)
 
 - **[TECH]** [Data Center Electrical Modeling Intern - 2026](https://jobs.ashbyhq.com/lambda/9c964b0d-984b-4220-a1ee-ea237a4f14ea) - *San Francisco Office (Fremont St)*
 - **[TECH]** [Data Center Mechanical Engineering Intern - 2026](https://jobs.ashbyhq.com/lambda/62fcad14-b225-427c-ad86-6bb52377a997) - *San Jose Office (Zanker)*
 - **[TECH]** [Field Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/lambda/e0e555b9-a009-43c4-bd64-57e74cfd67f1) - *San Francisco Office (Second St)*
 - **[TECH]** [Security Engineering Intern - Summer 2026](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6) - *San Francisco Office (Fremont St)*
+
+## Microsoft - 4 new (4 technical)
+
+- **[TECH]** [Applied Science: PhD Microsoft AI Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556868271) - *Redmond, WA, US*
+- **[TECH]** [Data Center Technicians Intern](https://apply.careers.microsoft.com/careers/job/1970393556867635) - *Middenmeer, NH, NL*
+- **[TECH]** [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) - *Cambridge, MA, US / New York, NY, US*
+- **[TECH]** [Research Science PhD Internship Opportunities - Coding Agents](https://apply.careers.microsoft.com/careers/job/1970393556867906) - *Cambridge, England, GB*
 
 ## Plaid - 4 new (4 technical)
 
@@ -807,11 +733,6 @@ Grouped by company (sorted by match count):
 - **[TECH]** [Member of Technical Staff](https://job-boards.greenhouse.io/xai/jobs/5044403007) - *Memphis, TN*
 - **[TECH]** [Software Engineer - Data](https://job-boards.greenhouse.io/xai/jobs/5124616007) - *Palo Alto, CA*
 
-## AMD - 2 new (2 technical)
-
-- **[TECH]** [L3 Application Support Engineer](https://www.linkedin.com/jobs/view/4405873854) - *Austin, TX*
-- **[TECH]** [L3 Application Support Engineer](https://www.linkedin.com/jobs/view/4405884201) - *North Carolina, United States*
-
 ## Apptronik - 2 new (2 technical)
 
 - **[TECH]** [Junior Electrical Engineer - HRI](https://boards.greenhouse.io/apptronik/jobs/5996199004?gh_jid=5996199004) - *Austin, TX*
@@ -836,6 +757,11 @@ Grouped by company (sorted by match count):
 
 - **[TECH]** [Staff Product Designer](https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002) - *New York, NY*
 - **[TECH]** [Staff Product Designer](https://careers.duolingo.com/jobs/8200009002?gh_jid=8200009002) - *Pittsburgh, PA*
+
+## GitHub - 2 new (2 technical)
+
+- **[TECH]** [Full Stack Java Engineer](https://www.linkedin.com/jobs/view/4399315994) - *Southlake, TX*
+- **[TECH]** [Specialist, Software Developer](https://www.linkedin.com/jobs/view/4414346601) - *Southlake, TX*
 
 ## Instacart - 2 new (2 technical)
 
@@ -892,14 +818,6 @@ Grouped by company (sorted by match count):
 
 - **[TECH]** [Data Scientist, Core Data -  PhD (2026)](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) - *New York, NY ? United States; San Francisco, CA ? New York, NY*
 
-## Fireworks AI - 1 new (1 technical)
-
-- **[TECH]** [Support Engineer](https://job-boards.greenhouse.io/fireworksai/jobs/4009077009) - *San Mateo, CA*
-
-## GitHub - 1 new (1 technical)
-
-- **[TECH]** [Specialist, Software Developer](https://www.linkedin.com/jobs/view/4414346601) - *Southlake, TX*
-
 ## Inceptive - 1 new (1 technical)
 
 - **[TECH]** [Internship](https://job-boards.greenhouse.io/inceptive/jobs/5103191007) - *Palo Alto, CA*
@@ -907,6 +825,14 @@ Grouped by company (sorted by match count):
 ## Luma AI - 1 new (1 technical)
 
 - **[TECH]** [Software Engineer - Product](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) - *SF Bay Area, CA*
+
+## Mercor - 1 new (1 technical)
+
+- **[TECH]** [Data Scientist](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152) - *San Francisco*
+
+## Palo Alto Networks - 1 new (1 technical)
+
+- **[TECH]** [AI Financial Analyst](https://www.linkedin.com/jobs/view/4405174256) - *Santa Clara, CA*
 
 ## Pure Storage - 1 new (1 technical)
 
