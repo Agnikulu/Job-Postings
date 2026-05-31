@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-05-30 22:59 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-05-31 00:00 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Anthropic - 1 new (1 technical)
-
-- **[TECH]** [Data Scientist, Marketing](https://job-boards.greenhouse.io/anthropic/jobs/5161402008) - *New York City, NY | Seattle, WA; San Francisco, CA*
