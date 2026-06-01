@@ -1,25 +1,22 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-01 21:06 UTC  
-**New matches this run:** 7  
+**Run timestamp:** 2026-06-01 22:40 UTC  
+**New matches this run:** 4  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## SpaceX - 4 new (4 technical)
+## SpaceX - 2 new (2 technical)
 
-- **[TECH]** [Chemical Engineer, PCB (Starlink)](https://boards.greenhouse.io/spacex/jobs/8562076002?gh_jid=8562076002) - *Bastrop, TX*
-- **[TECH]** [Financial Systems Analyst](https://boards.greenhouse.io/spacex/jobs/8571649002?gh_jid=8571649002) - *Hawthorne, CA*
-- **[TECH]** [Software Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569125002?gh_jid=8569125002) - *Starbase, TX*
-- **[TECH]** [Software Engineer (Starship)](https://boards.greenhouse.io/spacex/jobs/8569160002?gh_jid=8569160002) - *Hawthorne, CA*
+- **[TECH]** [Data Engineer (Starlink Network Analytics, Wi-Fi)](https://boards.greenhouse.io/spacex/jobs/8573711002?gh_jid=8573711002) - *Redmond, WA*
+- **[TECH]** [Financial Analyst](https://boards.greenhouse.io/spacex/jobs/8574100002?gh_jid=8574100002) - *Austin, TX*
 
-## Palantir - 2 new (2 technical)
+## Marvell - 1 new (1 technical)
 
-- **[TECH]** [Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial](https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4) - *Washington, D.C.*
-- **[TECH]** [Year at Palantir - Software Engineer, Internship](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) - *New York, NY*
+- **[TECH]** [Systems Application Engineer - Early Career](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267) - *Santa Clara, CA*
 
-## Nvidia - 1 new (1 technical)
+## Tesla - 1 new (1 technical)
 
-- **[TECH]** [Deep Learning Computer Architect - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Computer-Architect---New-College-Grad-2026_JR2019178) - *2 Locations*
+- **[TECH]** [Analytics Engineer, Thermal & Chassis](https://www.linkedin.com/jobs/view/4422147196) - *Palo Alto, CA*
