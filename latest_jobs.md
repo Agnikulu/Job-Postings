@@ -1,17 +1,18 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-02 00:08 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-06-02 03:56 UTC  
+**New matches this run:** 3  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Marvell - 1 new (1 technical)
+## xAI - 2 new (2 technical)
 
-- **[TECH]** [Application Engineer - Early Career](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703) - *Santa Clara, CA*
+- **[TECH]** [Security Engineer - Detection & Response](https://job-boards.greenhouse.io/xai/jobs/5008186007) - *New York, NY; Palo Alto, CA*
+- **[TECH]** [Software Engineer, Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) - *Palo Alto, CA*
 
-## Tesla - 1 new (1 technical)
+## SpaceX - 1 new (1 technical)
 
-- **[TECH]** [Process Engineer, Production Control](https://www.linkedin.com/jobs/view/4422153008) - *Austin, TX*
+- **[TECH]** [Software Engineer, Hardware Test & Automation (Starshield)](https://boards.greenhouse.io/spacex/jobs/8574243002?gh_jid=8574243002) - *Hawthorne, CA*
