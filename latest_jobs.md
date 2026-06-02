@@ -1,25 +1,17 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-02 16:11 UTC  
-**New matches this run:** 4  
+**Run timestamp:** 2026-06-02 18:17 UTC  
+**New matches this run:** 2  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Arista Networks - 1 new (1 technical)
+## Microsoft - 1 new (1 technical)
 
-- **[TECH]** [Advisory/ Resident Systems Engineer - (Mandarin required)](https://jobs.smartrecruiters.com/AristaNetworks/744000129780941) - *San Jose, CA, United States*
+- **[TECH]** [AI for Science Residency - Machine Learning Resident](https://apply.careers.microsoft.com/careers/job/1970393556871066) - *Berlin, BE, DE / Cambridge, England, GB / Amsterdam, NH, NL*
 
-## Meta - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4351751274) - *San Francisco, CA*
-
-## Qualcomm - 1 new (1 technical)
-
-- **[TECH]** [Associate Support Engineer - Data Center/Server Technology](https://www.linkedin.com/jobs/view/4423933504) - *San Diego, CA*
-
-## Robinhood - 1 new (1 technical)
-
-- **[TECH]** [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/7975558?t=gh_src=&gh_jid=7975558) - *Menlo Park, CA*
+- **[TECH]** [Low Power ASIC Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2017005) - *US, CA, Santa Clara*
