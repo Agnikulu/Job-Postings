@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-05 00:03 UTC  
+**Run timestamp:** 2026-06-05 03:55 UTC  
 **New matches this run:** 3  
 **Location filter:** US-only
 
@@ -8,14 +8,11 @@
 Grouped by company (sorted by match count):
 
 
-## Benchling - 1 new (1 technical)
+## Tesla - 2 new (2 technical)
 
-- **[TECH]** [Detection and Response Engineer](https://jobs.ashbyhq.com/benchling/5cd7777c-e419-4328-b5a0-80921d035427) - *San Francisco, CA*
+- **[TECH]** [Internship, Software Engineer, AI Hardware Infrastructure (Fall 2026)](https://www.linkedin.com/jobs/view/4422661291) - *Palo Alto, CA*
+- **[TECH]** [Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4423087934) - *Palo Alto, CA*
 
-## Google - 1 new (1 technical)
+## Flatiron Health - 1 new (1 technical)
 
-- **[TECH]** [UX Researcher, Core, Data UX, AI Foundations](https://www.google.com/about/careers/applications/jobs/results/138014522093773510) - *San Jose, CA, USA / Kirkland, WA, USA / New York, NY, USA / Seattle, WA, USA*
-
-## Nvidia - 1 new (1 technical)
-
-- **[TECH]** [Software R&D Engineer, VLSI Physical Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) - *US, TX, Austin*
+- **[TECH]** [Associate Research Scientist, Knowledge Management](https://flatiron.com/careers/open-positions/job?gh_jid=7980232) - *Durham office*
