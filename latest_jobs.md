@@ -1,21 +1,19 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-09 15:55 UTC  
-**New matches this run:** 3  
+**Run timestamp:** 2026-06-09 17:40 UTC  
+**New matches this run:** 4  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Microsoft - 1 new (1 technical)
+## Qualcomm - 3 new (3 technical)
 
-- **[TECH]** [Cambridge Residency Programme - Researcher in Agentic AI Systems & Infrastructure](https://apply.careers.microsoft.com/careers/job/1970393556668245) - *Cambridge, England, GB*
-
-## Qualcomm - 1 new (1 technical)
-
-- **[TECH]** [Product Software Engineer](https://www.linkedin.com/jobs/view/4425843232) - *San Diego, CA*
+- **[TECH]** [Embedded Software Engineer ? Device Driver Development](https://www.linkedin.com/jobs/view/4425829354) - *San Diego, CA*
+- **[TECH]** [System Level Test Engineer](https://www.linkedin.com/jobs/view/4425850072) - *San Diego, CA*
+- **[TECH]** [System Level Test Engineer](https://www.linkedin.com/jobs/view/4425841267) - *San Diego, CA*
 
 ## SpaceX - 1 new (1 technical)
 
-- **[TECH]** [New Graduate Engineer, Launch & Test (Starship)](https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002) - *Starbase, TX*
+- **[TECH]** [New Graduate Engineer, ASIC Design (Starshield)](https://boards.greenhouse.io/spacex/jobs/8583065002?gh_jid=8583065002) - *Hawthorne, CA*
