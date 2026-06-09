@@ -1,22 +1,28 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-09 21:23 UTC  
-**New matches this run:** 4  
+**Run timestamp:** 2026-06-09 22:16 UTC  
+**New matches this run:** 10  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Nvidia - 2 new (2 technical)
+## SpaceX - 8 new (8 technical)
 
-- **[TECH]** [Agentic AI Solution Engineering Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Agentic-AI-Solution-Engineering-Intern---Fall-2026_JR2019390) - *US, TX, Austin*
-- **[TECH]** [Cloud Distributed Systems Backend Intern, GeForce NOW - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665) - *US, CA, Santa Clara*
+- **[TECH]** [Embedded Software Engineer, Laser Mesh Routing (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578936002?gh_jid=8578936002) - *Redmond, WA*
+- **[TECH]** [Embedded Software Engineer, Laser Mesh Routing (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578934002?gh_jid=8578934002) - *Palo Alto, CA*
+- **[TECH]** [Software Engineer, Beam Planning (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002) - *Palo Alto, CA*
+- **[TECH]** [Software Engineer, Beam Planning (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578929002?gh_jid=8578929002) - *Redmond, WA*
+- **[TECH]** [Software Engineer, High Performance Computing (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002) - *Palo Alto, CA*
+- **[TECH]** [Software Engineer, High Performance Computing (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002) - *Redmond, WA*
+- **[TECH]** [Software Engineer, Low Latency Computing (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578923002?gh_jid=8578923002) - *Redmond, WA*
+- **[TECH]** [Software Engineer, Low Latency Computing (Starlink)](https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002) - *Palo Alto, CA*
 
-## Anduril - 1 new (1 technical)
+## Notion - 1 new (1 technical)
 
-- **[TECH]** [Mission Operations Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4362383007?gh_jid=4362383007) - *Honolulu, Hawaii, United States*
+- **[TECH]** [Software Engineer, Security](https://jobs.ashbyhq.com/notion/def3f337-5593-491c-b34d-e0b53f2a5cac) - *San Francisco, California*
 
-## Tempus AI - 1 new (1 technical)
+## Roblox - 1 new (1 technical)
 
-- **[TECH]** [Associate IAM Engineer](https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Associate-IAM-Engineer_JR202600549) - *Chicago*
+- **[TECH]** [Software Engineer, Storage](https://careers.roblox.com/jobs/7991654?gh_jid=7991654) - *San Mateo, CA, United States*
