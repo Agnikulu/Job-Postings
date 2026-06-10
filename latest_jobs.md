@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-10 10:00 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-06-10 11:54 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Etched - 1 new (1 technical)
-
-- **[TECH]** [SI/PI Intern](https://jobs.ashbyhq.com/etched/ce683632-421a-4ef9-8664-b253356969a3) - *San Jose*
