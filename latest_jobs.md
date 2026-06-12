@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-11 23:14 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-06-12 00:08 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Anduril - 1 new (1 technical)
-
-- **[TECH]** [2026 Early Career Finance Coordinator](https://boards.greenhouse.io/andurilindustries/jobs/5161421007?gh_jid=5161421007) - *Costa Mesa, California, United States*
