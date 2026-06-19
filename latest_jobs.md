@@ -1,14 +1,18 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-19 14:42 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-06-19 16:38 UTC  
+**New matches this run:** 3  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Qualcomm - 2 new (2 technical)
+## GitHub - 2 new (2 technical)
 
-- **[TECH]** [CPU Post-Silicon Validation Engineer](https://www.linkedin.com/jobs/view/4429656881) - *Santa Clara, CA*
-- **[TECH]** [Engineer Technician Intermediate](https://www.linkedin.com/jobs/view/4429655865) - *San Diego, CA*
+- **[TECH]** [Software Engineer- Investment Research and Data](https://www.linkedin.com/jobs/view/4428241989) - *Chicago, IL*
+- **[TECH]** [Software Engineer- Investment Research and Data](https://www.linkedin.com/jobs/view/4428246963) - *San Francisco, CA*
+
+## Qualcomm - 1 new (1 technical)
+
+- **[TECH]** [CPU Systems RTL Engineer](https://www.linkedin.com/jobs/view/4429650986) - *Santa Clara, CA*
