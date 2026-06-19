@@ -1,14 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-19 11:09 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-06-19 12:57 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Meta - 2 new (2 technical)
-
-- **[TECH]** [Data Center Production Operations Engineer](https://www.linkedin.com/jobs/view/4428231757) - *Mesa, AZ*
-- **[TECH]** [Linguistic Engineer](https://www.linkedin.com/jobs/view/4428218889) - *Burlingame, CA*
