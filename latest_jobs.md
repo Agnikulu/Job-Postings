@@ -1,17 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-24 22:06 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-06-24 23:06 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Broadcom - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Software Engineer](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Software-Engineer_R025018) - *USA-CA San Jose Innovation Drive*
-
-## Marvell - 1 new (1 technical)
-
-- **[TECH]** [Digital Design Engineer](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Irvine-CA/Digital-Design-Engineer_2602855) - *Irvine, CA*
+- **[TECH]** [PhD Research Intern, System Software and I/O Architecture - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) - *3 Locations*
