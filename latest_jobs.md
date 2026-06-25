@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-25 19:25 UTC  
+**Run timestamp:** 2026-06-25 20:08 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## SpaceX - 1 new (1 technical)
+## Uber - 1 new (1 technical)
 
-- **[TECH]** [Optical Test Engineer (Integration & Test)](https://boards.greenhouse.io/spacex/jobs/8605055002?gh_jid=8605055002) - *Redmond, WA*
+- **[TECH]** [Software Engineer I](https://www.uber.com/careers/list/159863) - *Sunnyvale, California, United States*
