@@ -27,6 +27,9 @@ def _load_gold() -> list[dict]:
 
 @pytest.mark.parametrize("case", _load_gold(), ids=lambda c: c.get("kind", c.get("url", "?"))[-40:])
 def test_gold_regex_matches_expectation(case: dict) -> None:
+    # Eval baseline was frozen with the raw classifier — disable the
+    # new scope toggles (intern drop, SWE-only) so this regression test
+    # keeps measuring classifier quality, not scope filtering.
     result = classify_job_fields(
         company=case.get("company", ""),
         title=case.get("title", ""),
@@ -34,6 +37,8 @@ def test_gold_regex_matches_expectation(case: dict) -> None:
         url=case.get("url"),
         description=case.get("description"),
         us_only=False,
+        drop_interns=False,
+        swe_only=False,
     )
     expected = bool(case["expected_include"])
     if result.include == expected:

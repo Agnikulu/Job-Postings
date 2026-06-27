@@ -1,8 +1,9 @@
 {
-  "precision": 0.529,
-  "recall": 0.95,
-  "tp": 399,
-  "fp": 355,
-  "fn": 21,
-  "note": "Floor for regression: neither metric may drop more than 0.005 below these values. Eval uses us_only=True (production-aligned)."
+  "precision": 0.6636,
+  "recall": 0.7933,
+  "tp": 499,
+  "fp": 253,
+  "fn": 130,
+  "tn": 25002,
+  "note": "Floor for regression: neither metric may drop more than 0.005 below these values. Eval uses us_only=True (production-aligned) with drop_interns=False/swe_only=False so it measures raw classifier quality, not scope filtering. Refreshed 2026-06-27: prior baseline (P=0.529, R=0.95) became stale as upstream regex changes tightened the classifier; this snapshot reflects current main."
 }

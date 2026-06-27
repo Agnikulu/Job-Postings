@@ -8,6 +8,10 @@ Sort order:
   1. Open positions before closed.
   2. Within each, by posted_date DESC, then first_seen DESC.
 
+Open-positions table can hide intern-only and non-software-discipline
+postings using `ATS_SNIPER_DROP_INTERNS` and `ATS_SNIPER_SWE_ONLY`
+(default ON for both). Archive JSON is preserved either way.
+
 Run standalone for a manual rebuild:
 
     python render_readme.py
@@ -16,10 +20,12 @@ Run standalone for a manual rebuild:
 from __future__ import annotations
 
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from filters import is_intern_only, is_software_or_ai_role
 from jobs_archive import JobsArchive
 
 ARCHIVE_PATH = Path(__file__).parent / "jobs_archive.json"
@@ -29,11 +35,15 @@ STATS_PATH = Path(__file__).parent / "company_stats.json"
 
 INTRO = """# Serverless ATS Job Sniper
 
-An auto-updated list of **early-career engineering roles** scraped hourly
-from public job boards: Greenhouse, Lever, Ashby, Workday, SmartRecruiters,
-Microsoft Careers, Google Careers, Amazon Jobs, Uber, LinkedIn guest search,
-and other company-specific APIs. Filtered for entry-level, internship,
-new-grad, and university graduate positions. US-only by default.
+An auto-updated list of **new-grad / entry-level software, AI/ML, and data
+roles** scraped hourly from public job boards: Greenhouse, Lever, Ashby,
+Workday, SmartRecruiters, Microsoft Careers, Google Careers, Amazon Jobs,
+Uber, LinkedIn guest search, and other company-specific APIs.
+
+**Scope (default):** new-grad / university graduate / Engineer I / early
+career / MTS-style full-time entry. Internships, co-ops, and non-software
+disciplines (mechanical / civil / aero / propulsion / manufacturing /
+RF / antenna / facilities / etc.) are filtered out. US-only.
 
 Built on a free GitHub Actions cron with zero servers and zero ongoing
 costs. State (`seen_jobs.json`, `jobs_archive.json`, `company_stats.json`)
@@ -49,8 +59,10 @@ LEGEND = """## Legend
 - **Source** -> Which adapter fetched the row (`greenhouse`, `linkedin`, `workday`, etc.).
 - **Education** -> Tags from job requirements (e.g. `{PhD, PhD Student, Masters, Bachelors, New Grad, Early Career, Intern}`).
 - **Apply** -> Direct link to the company's job board posting.
-- **Date Posted** -> When the company posted the role (parsed from each ATS).
-   Falls back to when our scraper first observed the URL.
+- **Date Posted** -> Best-effort publish date from each ATS (`first_published`,
+   `publishedAt`, etc.). LinkedIn/Workday relative strings are pinned to the
+   earliest date we parsed. If the board provides no date, shows when we first
+   saw the URL (`first_seen`).
 """
 
 CONTRIBUTE = """## How it works
@@ -126,6 +138,24 @@ def _sort_key(entry: dict[str, Any]) -> tuple:
     )
 
 
+def _drop_interns_enabled() -> bool:
+    return os.environ.get("ATS_SNIPER_DROP_INTERNS", "1").strip() != "0"
+
+
+def _swe_only_enabled() -> bool:
+    return os.environ.get("ATS_SNIPER_SWE_ONLY", "1").strip() != "0"
+
+
+def _passes_render_filters(entry: dict[str, Any]) -> bool:
+    """Hide archived rows that don't match the current scope toggles."""
+    title = entry.get("title") or ""
+    if _drop_interns_enabled() and is_intern_only(title):
+        return False
+    if _swe_only_enabled() and not is_software_or_ai_role(title):
+        return False
+    return True
+
+
 def _load_fetch_stats() -> tuple[int, int] | None:
     """Sum last-run postings/matches from company_stats.json."""
     if not STATS_PATH.exists():
@@ -158,15 +188,19 @@ def _count_active_companies() -> int:
 
 def render(archive: JobsArchive) -> str:
     entries = archive.entries()
-    open_entries = [e for e in entries if not e.get("is_closed")]
-    closed_entries = [e for e in entries if e.get("is_closed")]
+    # Hide archived rows that no longer match the current scope toggles
+    # (e.g. intern roles when ATS_SNIPER_DROP_INTERNS=1) without deleting
+    # them from jobs_archive.json.
+    visible = [e for e in entries if _passes_render_filters(e)]
+    open_entries = [e for e in visible if not e.get("is_closed")]
+    closed_entries = [e for e in visible if e.get("is_closed")]
 
     open_entries.sort(key=_sort_key, reverse=True)
     closed_entries.sort(key=_sort_key, reverse=True)
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     n_open = len(open_entries)
-    n_total = len(entries)
+    n_total = len(visible)
     n_companies = _count_active_companies()
 
     fetch_stats = _load_fetch_stats()

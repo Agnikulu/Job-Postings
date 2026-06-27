@@ -18,8 +18,10 @@ from filters import (
     classify,
     classify_title_confidence,
     diagnose_weak_signal,
+    is_intern_only,
     is_location_ambiguous,
     is_obvious_reject,
+    is_software_or_ai_role,
     is_us_location,
     is_us_location_with_description,
     obvious_reject_reason,
@@ -680,3 +682,116 @@ def test_uk_internship_program_excluded() -> None:
     assert conf.level == "high_exclude"
 
 
+
+# =============================================================================
+# Intern-only post-filter
+# =============================================================================
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Software Engineer Intern",
+        "ML Engineer Intern (Summer 2026)",
+        "AI Research Intern",
+        "Quantitative Research Intern",
+        "Co-Op, Software Engineering",
+        "Internship, Software Engineer, Data Platforms (Fall 2026)",
+        "Forward Deployed Software Engineer, Internship - US Government",
+        "Embedded Software Internship",
+        "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    ],
+)
+def test_is_intern_only_drops_pure_intern_titles(title: str) -> None:
+    assert is_intern_only(title) is True
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        # No intern marker at all
+        "Software Engineer, New Grad",
+        "Machine Learning Engineer, New Grad 2026",
+        "Associate Software Engineer - Seeking 2025 & 2026 Grads",
+        "Engineer I, Backend",
+        "Software Engineer",  # bare title; not intern-only
+        "Member of Technical Staff",
+        # Combo titles: intern AND new-grad / NCG present
+        "Software Engineer, Internship & New Grad",
+        "Forward Deployed Software Engineer (Internship / NCG)",
+        "Backend Engineer, Internship & University Graduate",
+        "Software Engineer I, Internship Bridge Program",
+    ],
+)
+def test_is_intern_only_keeps_full_time_and_combos(title: str) -> None:
+    assert is_intern_only(title) is False
+
+
+# =============================================================================
+# Software / AI-only post-filter
+# =============================================================================
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Software Engineer, New Grad",
+        "Machine Learning Engineer I",
+        "Backend Software Engineer (University Graduate, 2027)",
+        "Full-Stack Engineer, New Grad",
+        "Embedded Software Engineer, Satellite Antenna (Starlink)",
+        "Software Engineer (Thermal & Fluid Analysis)",
+        "Firmware Engineer Intern",
+        "ASIC Verification Engineer, New Grad",
+        "GPU Software Engineer, Compiler",
+        "Data Scientist - Early Career",
+        "Applied Scientist, New Grad",
+        "Research Engineer, Monetization AI",
+        "Member of Technical Staff",
+        "Forward Deployed Software Engineer",
+        "Compiler Engineer, Early Career",
+        "AI Research Fellowship",
+    ],
+)
+def test_is_software_or_ai_role_accepts_sw_titles(title: str) -> None:
+    assert is_software_or_ai_role(title) is True
+
+
+@pytest.mark.parametrize(
+    "title",
+    [
+        # Pure hardware / mech / aero / civil
+        "Mechanical Engineer, Maneuver Dominance",
+        "Mechanisms Engineer (Starship)",
+        "New Graduate Engineer, Electrical",
+        "New Graduate Engineer, Mechanical (Starlink)",
+        "Civil/Structural Engineer",
+        "Aerodynamics Engineer (Starship)",
+        "Propulsion Engineer (Raptor Test)",
+        "RF Engineer (Starlink)",
+        "RF Systems Analysis Engineer, Regulatory (Starlink)",
+        "Antenna Engineer",
+        "Avionics Systems Engineer",
+        "Manufacturing Test Engineer",
+        "Industrial Engineer, Production Controls & Simulation",
+        "Facilities Engineer, Launch Infrastructure",
+        "Hardware Reliability Engineer (Starlink Aviation)",
+        "PCB Engineer I",
+        "Electrical Engineer I (SD)",
+        "Power Electronics - Thermal Engineer I",
+        "Chemical Process Engineer (Starship Launch Systems)",
+        "Materials Engineer, Polymers",
+        "Process Engineer, Solar Cells",
+        "Quality Engineer, Manufacturing",
+        "Spaceport Engineer (Starship)",
+        "Space Lasers Engineer (Starshield)",
+        "Data & Control Systems Engineer",
+        "Operations Engineer, Environmental Health & Safety",
+        "Product Safety Test Engineer, Platforms",
+        "Aviation Certification Engineer (Starlink)",
+        "Critical Lift & Transport Engineer (Falcon)",
+        "Build Reliability Engineer",
+    ],
+)
+def test_is_software_or_ai_role_rejects_non_sw_titles(title: str) -> None:
+    assert is_software_or_ai_role(title) is False

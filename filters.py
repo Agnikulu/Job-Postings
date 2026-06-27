@@ -1390,6 +1390,243 @@ def diagnose_weak_signal(title: str) -> str | None:
 
 
 # =============================================================================
+# New-grad-only / SWE-only post-filters
+# =============================================================================
+
+# Strong "this is an internship" markers.
+_INTERN_TITLE = re.compile(
+    r"\b(intern(?:ship)?|co-?op)\b",
+    re.IGNORECASE,
+)
+
+# New-grad / full-time entry-level markers that should keep a posting alive
+# even if the title also mentions "Intern" (combo postings such as
+# "Year at Palantir - Forward Deployed Software Engineer, Internship — NCG").
+_FULLTIME_EC_MARKER = re.compile(
+    r"\b("
+    r"new[\s-]?grad(?:uate)?|"
+    r"new\s+college\s+grad(?:uate)?|\bncg\b|"
+    r"university\s+graduate|university\s+hire|"
+    r"recent\s+graduate|"
+    r"early[\s-]career(?:s)?|"
+    r"entry[\s-]level|"
+    r"engineer\s+i\b|engineer\s+1\b|"
+    r"associate\s+(?:software|machine\s+learning|ml|data|research|product|"
+    r"applied|platform|systems?|backend|frontend|full[\s-]?stack)\s+"
+    r"(?:engineer|scientist|developer|researcher)|"
+    r"member\s+of\s+technical\s+staff|\bmts\b|"
+    r"seeking\s+(?:20[2-9][0-9]\s*(?:&\s*20[2-9][0-9])?\s+)?grads?|"
+    r"(?:20[2-9][0-9]\s+grads?|grads?\s+(?:for\s+)?20[2-9][0-9])"
+    r")\b",
+    re.IGNORECASE,
+)
+
+# Cohort year by itself (e.g. "Software Engineer 2026") is a weak FT signal —
+# treat as full-time only when paired with non-intern title context.
+_COHORT_YEAR_ONLY = re.compile(r"\b202[5-9]\b", re.IGNORECASE)
+
+# Software / AI / ML / data / CS-flavored hardware-software domain.
+# Deliberately narrower than the broader DOMAIN regex: excludes pure
+# mechanical / civil / aero / propulsion / manufacturing / RF / antenna /
+# avionics / fluid / thermal-only / chemical / materials roles that share
+# the "engineer" suffix but aren't CS/SWE targets.
+SOFTWARE_DOMAIN = re.compile(
+    r"\b("
+    # Core software
+    r"software|swe|sde|sdet|developer|"
+    r"backend|front[\s-]?end|frontend|full[\s-]?stack|"
+    r"mobile\s+(?:engineer|developer)|android\s+(?:engineer|developer)|"
+    r"ios\s+(?:engineer|developer)|web\s+(?:engineer|developer)|"
+    # Infrastructure / platform / systems-software
+    r"infrastructure\s+engineer|platform\s+engineer|devops|sre|"
+    r"site\s+reliability|cloud\s+(?:engineer|infrastructure)|"
+    r"distributed\s+systems|operating\s+systems?|kernel\s+(?:engineer|developer)|"
+    r"compiler|build\s+reliability\s+engineer|"
+    # Data / ML / AI
+    r"machine[\s-]learning|\bml\b|\bmle\b|"
+    r"data\s+(?:scientist|engineer|analyst|platform|infrastructure|science)|"
+    r"\bai\b|artificial\s+intelligence|"
+    r"applied\s+(?:scientist|research(?:\s+engineer)?)|"
+    r"research\s+(?:scientist|engineer)|"
+    r"deep\s+learning|inference|\bllm\b|generative|"
+    # CS / research
+    r"computer\s+science|\bcs\b|quant(?:itative)?|"
+    # Software-flavored hardware roles (silicon SW, ASIC verif, GPU SW)
+    r"silicon\s+software|"
+    r"chip\s*sim(?:ulation)?|asic\s+software|"
+    r"firmware|embedded\s+(?:software|systems?|security)|"
+    r"verification\s+(?:engineer|software)|"
+    r"\bdft\b\s+(?:engineer|verification)|"
+    r"\bdv\b\s+engineer|"
+    r"gpu\s+(?:software|architecture|scheduling|kernel)|cuda|"
+    # SW-style flavors of "Engineer"
+    r"systems\s+software|application\s+software|flight\s+software|"
+    r"network\s+software|product\s+engineer|"
+    r"forward\s+deployed\s+(?:software\s+)?engineer|"
+    r"solutions?\s+(?:software\s+)?engineer|"
+    r"support\s+engineer|"
+    r"member\s+of\s+technical\s+staff|\bmts\b|"
+    r"engineering\s+resident(?:cy)?|ai\s+resident(?:cy)?"
+    r")\b",
+    re.IGNORECASE,
+)
+
+# Generic "Engineer I" / "Engineer 1" cue — software-positive ONLY when no
+# explicit non-software discipline is present in the same title.
+_GENERIC_ENGINEER_I = re.compile(
+    r"\bengineer(?:ing)?\s+(?:i|1)\b",
+    re.IGNORECASE,
+)
+
+# Disciplines that are clearly NOT CS/SWE/MLE/data — used as a strong veto
+# even when a title contains a generic "Engineer" or "Engineering" token.
+# Software-flavored variants (e.g. "Embedded Software Engineer, Antenna")
+# bypass this veto because they hit SOFTWARE_DOMAIN first.
+NON_SOFTWARE_DOMAIN = re.compile(
+    r"\b("
+    r"mechanical|civil|structural|geotechnical|aerodynamic(?:s)?|aerospace|"
+    r"propulsion|combustion|fluid(?:s)?|hydraulic|thermal|optical|laser|"
+    r"chemical|polymer|metallurg(?:ical|y)|materials\s+(?:engineer|scientist)|"
+    r"manufacturing|production|industrial|process\s+(?:engineer|engineering)|"
+    r"facilities|fire\s+protection|launch|recovery|spaceport|"
+    r"avionics|antenna|microwave|\brf\b|"
+    r"electrical(?:\s+engineer|\s+engineering|\s+on-orbit)?|"
+    r"electronics\s+(?:engineer|engineering)?|"
+    r"pcb(?:a)?|"
+    r"hardware\s+(?:reliability|test|development|design|build|integration)|"
+    r"controls?\s+(?:engineer|specialist|systems?)|"
+    r"control\s+systems?|"
+    r"automation\s+(?:engineer|controls)|"
+    r"welding|machinist|cnc|tooling|fixture|harness|wiring|"
+    r"safety\s+engineer|quality\s+engineer|"
+    r"nde|ndt|land\s+development|"
+    r"propellant|engine\s+test|test\s+technician|production\s+technician|"
+    r"physical\s+design\s+engineer|silicon\s+package|ic\s+package|"
+    r"device\s+physics|baw\s+(?:device|filter)|"
+    r"aviation\s+certification|certification\s+engineer|"
+    r"facility|maintenance\s+engineer|equipment\s+reliability|"
+    r"mech(?:atronics)?|"
+    r"battery|cell\s+(?:engineer|integration)|"
+    r"satellite\s+(?:antenna|integration|production)|"
+    r"vehicle\s+engineering(?!\s+software)|"
+    r"product(?:ion)?\s+test|"
+    r"mission\s+(?:assurance|operations)|"
+    r"data\s+center\s+(?:engineer|technician)|"
+    r"new\s+graduate\s+engineer,\s+(?:mechanical|electrical|chemical|civil|"
+    r"aerospace|aero|industrial|materials|propulsion|structural|controls?|"
+    r"systems(?!\s+software))|"
+    r"mechanisms?\s+engineer|"
+    r"spaceport\s+engineer|"
+    r"development\s+test\s+engineer|"
+    r"design\s+(?:verification\s+)?engineer\s*\(?\s*(?:structures|hardware)\b|"
+    r"data\s+&\s+control\s+systems|"
+    r"design\s+criteria\s+engineer|"
+    r"space\s+lasers?\s+engineer|"
+    r"radiation\s+(?:effects|hardness)|"
+    r"satellite\s+(?:engineer|operations)(?!\s+software)|"
+    r"city\s+engineer|"
+    r"telecom\s+engineer|"
+    r"network\s+engineer(?!\s+software)|"
+    r"network\s+operations|"
+    r"site\s+(?:engineer|technician)|"
+    r"failure\s+analysis|"
+    r"power\s+(?:electronics|systems?)\s+(?:engineer|specialist)|"
+    r"chassis|powertrain|drivetrain|"
+    r"reliability\s+engineer(?:\s+\([^)]*hardware[^)]*\))?|"
+    r"flight\s+test|"
+    r"critical\s+lift|"
+    r"layout\s+(?:engineer|design)|analog|mixed[\s-]?signal\s+(?:engineer|design)|"
+    r"semiconductor\s+(?:device|equipment|process)|"
+    # Operations / safety / EHS / generic non-engineering
+    r"operations\s+engineer|"
+    r"environmental\s+health|"
+    r"product\s+safety|"
+    r"safety\s+test\s+engineer|"
+    r"trust\s+and\s+safety(?!\s+(?:software|engineering))"
+    r")\b",
+    re.IGNORECASE,
+)
+
+
+def is_intern_only(title: str | None) -> bool:
+    """True when the title is an internship/co-op WITHOUT a full-time
+    early-career marker.
+
+    Combo titles like "Software Engineer, Internship & New Grad" or
+    "Forward Deployed SWE Internship - NCG" keep their non-intern path
+    alive and return False here.
+    """
+    if not title:
+        return False
+    text = title.strip()
+    if not text:
+        return False
+    if not _INTERN_TITLE.search(text):
+        return False
+    if _FULLTIME_EC_MARKER.search(text):
+        return False
+    return True
+
+
+def is_software_or_ai_role(title: str | None) -> bool:
+    """True when the title looks like a CS/SWE/MLE/data/AI/research role.
+
+    Returns False for pure mechanical / civil / aero / electrical-hardware /
+    manufacturing / materials / propulsion / RF / antenna / avionics /
+    facilities / process / production roles even if their title contains
+    "Engineer" or "Engineering".
+
+    Software-flavored variants of hardware roles (e.g. "Embedded Software
+    Engineer, Antenna") still pass because the explicit SW noun beats the
+    hardware vertical.
+    """
+    if not title:
+        return False
+    text = title.strip()
+    if not text:
+        return False
+
+    has_sw = bool(SOFTWARE_DOMAIN.search(text))
+    has_non_sw = bool(NON_SOFTWARE_DOMAIN.search(text))
+
+    if has_sw and not has_non_sw:
+        return True
+    if has_sw and has_non_sw:
+        # Both signals appear. The hardware vertical wins unless the title
+        # carries an explicit software noun (not a bare "engineering" or
+        # "support" token) — e.g. "Embedded Software Engineer, Antenna"
+        # passes but "Mechanical Engineer, Software Tools" does not.
+        explicit_sw = re.search(
+            r"\b("
+            r"software\s+(?:engineer|developer|engineering)|"
+            r"\bsde\b|\bswe\b|\bsdet\b|"
+            r"backend\s+engineer|frontend\s+engineer|full[\s-]?stack\s+engineer|"
+            r"machine\s+learning\s+engineer|\bml\s+engineer|\bmle\b|"
+            r"data\s+(?:scientist|engineer|analyst)|"
+            r"applied\s+scientist|research\s+(?:scientist|engineer)|"
+            r"firmware\s+engineer|embedded\s+(?:software|security)\s+engineer|"
+            r"silicon\s+software|gpu\s+software|"
+            r"compiler\s+engineer|cuda|"
+            r"member\s+of\s+technical\s+staff|\bmts\b"
+            r")\b",
+            text,
+            re.IGNORECASE,
+        )
+        return bool(explicit_sw)
+
+    if has_non_sw:
+        return False
+
+    # No discipline signal at all — accept short SW-ish titles that hit
+    # the broader DOMAIN regex but did not match SOFTWARE_DOMAIN above
+    # (e.g. "New Grad Engineer" with the vertical buried in description).
+    # Be conservative: reject if a generic "Engineer I/1" is the only cue.
+    if _GENERIC_ENGINEER_I.search(text):
+        return False
+    return bool(DOMAIN.search(text))
+
+
+# =============================================================================
 # Location filter (US-only by default)
 # =============================================================================
 

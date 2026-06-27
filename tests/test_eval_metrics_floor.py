@@ -49,6 +49,10 @@ def test_eval_metrics_not_below_baseline() -> None:
             url=job.get("url"),
             description=job.get("description"),
             us_only=True,
+            # Baseline metrics measure raw classifier output; opt out of
+            # the new scope toggles (intern drop, SWE-only narrowing).
+            drop_interns=False,
+            swe_only=False,
         )
         predicted = result.include
         expected = bool(lab["manual_include"])
