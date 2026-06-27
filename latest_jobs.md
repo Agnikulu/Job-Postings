@@ -1,9 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-27 16:04 UTC  
-**New matches this run:** 0  
+**Run timestamp:** 2026-06-27 17:02 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
-_No new early-career roles since the last run._
+Grouped by company (sorted by match count):
 
+
+## Meta - 1 new (1 technical)
+
+- **[TECH]** [Hardware Electrical Engineer](https://www.linkedin.com/jobs/view/4430688190) - *New York, NY*
