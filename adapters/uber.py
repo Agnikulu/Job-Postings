@@ -117,7 +117,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     title=str(raw.get("title", "")).strip(),
                     location=_format_location(raw),
                     url=JOB_URL.format(job_id=job_id),
-                    posted_at=raw.get("updatedDate") or raw.get("creationDate"),
+                    posted_at=raw.get("creationDate") or raw.get("updatedDate"),
                     department=raw.get("department"),
                     description=normalize_description(raw.get("description")),
                     ats="uber",

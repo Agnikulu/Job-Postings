@@ -127,7 +127,7 @@ Two-stage logic in `filters.py`:
 
 **Education tags (`education.py`):** requirements-first tags (Intern, New Grad, Early Career for Engineer I, degree paths). `is_hard_experienced_ladder(title)` suppresses all tags on mid-level cohort branding (e.g. `Graduate 2026 … Engineer II`).
 
-**Posted dates (`date_parser.py`):** normalizes ATS fields to `YYYY-MM-DD`. LinkedIn list cards: relative (`2 days ago`, `yesterday`) and absolute (`May 24, 2026`). Archive `upsert` overwrites `posted_date` when the ATS provides one (fixes first-run `first_seen` clustering).
+**Posted dates (`date_parser.py`):** normalizes ATS fields to `YYYY-MM-DD`. Greenhouse/Lever/Ashby use publish timestamps (`first_published`, `publishedAt`, `createdAt`), not last-updated. LinkedIn/Workday list cards often use relative text (`2 days ago`) recomputed each run; archive `upsert` keeps the **earliest** parsed `posted_date` so hourly scrapes do not push old jobs to today. Missing dates fall back to `first_seen` in the README.
 
 ### 3. Google Careers sidebar filters
 

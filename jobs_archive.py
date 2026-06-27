@@ -39,6 +39,15 @@ from adapters import Job
 log = logging.getLogger(__name__)
 
 
+def _earlier_iso_date(a: str | None, b: str | None) -> str | None:
+    """Return the earlier of two YYYY-MM-DD strings (stable posted date)."""
+    if not a:
+        return b
+    if not b:
+        return a
+    return a if a <= b else b
+
+
 class JobsArchive:
     """Persistent record of every job we've ever seen."""
 
@@ -78,12 +87,14 @@ class JobsArchive:
                 last_seen=now,
                 is_closed=False,
             )
-            # Always trust the ATS-provided posted_date when one is available
-            # (it's the canonical source). This is critical for the first
-            # post-deploy run: every URL gets first_seen=today, so without
-            # this overwrite the entire table would say "May 21, 2026".
+            # Keep the earliest ATS-derived posted_date. Relative LinkedIn /
+            # Workday strings are recomputed each run from "now", so overwriting
+            # with the latest parse would push old listings toward today.
             if job.posted_date:
-                existing["posted_date"] = job.posted_date
+                existing["posted_date"] = _earlier_iso_date(
+                    existing.get("posted_date"),
+                    job.posted_date,
+                )
         else:
             self._data[job.url] = {
                 "title": job.title,

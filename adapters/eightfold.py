@@ -102,7 +102,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     title=str(raw.get("name") or raw.get("posting_name") or "").strip(),
                     location=str(location or ""),
                     url=str(url),
-                    posted_at=_epoch_to_iso(raw.get("t_update") or raw.get("t_create")),
+                    posted_at=_epoch_to_iso(raw.get("t_create") or raw.get("t_update")),
                     department=raw.get("department"),
                     ats="eightfold",
                     category=company.get("category", "uncategorized"),

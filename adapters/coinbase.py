@@ -203,7 +203,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     title=html.unescape(title),
                     location=_location_name(raw),
                     url=_job_url(raw),
-                    posted_at=raw.get("updated_at") or raw.get("first_published"),
+                    posted_at=raw.get("first_published") or raw.get("updated_at"),
                     department=_department_name(raw),
                     ats="coinbase",
                     category=company.get("category", "uncategorized"),

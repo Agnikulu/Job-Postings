@@ -206,3 +206,31 @@ def test_linkedin_relative_and_absolute(text: str, expected: str) -> None:
 
 def test_linkedin_unparseable_returns_none() -> None:
     assert parse_posted_date("Recently", "linkedin", ref=REF) is None
+
+
+def test_archive_keeps_earlier_posted_date() -> None:
+    from dataclasses import replace
+
+    from adapters.base import Job
+    from jobs_archive import JobsArchive, _earlier_iso_date
+
+    assert _earlier_iso_date("2026-05-14", "2026-05-30") == "2026-05-14"
+    assert _earlier_iso_date(None, "2026-05-30") == "2026-05-30"
+
+    arch = JobsArchive(path=Path(__file__).parent / "_tmp_archive_test.json")
+    job = Job(
+        id="1",
+        company="TestCo",
+        title="Engineer Intern 2026",
+        location="US",
+        url="https://example.com/j/1",
+        posted_at="May 14, 2026",
+        department=None,
+        ats="linkedin",
+        category="test",
+        posted_date="2026-05-14",
+    )
+    arch.upsert(job)
+    arch.upsert(replace(job, posted_date="2026-05-30"))
+    assert arch._data[job.url]["posted_date"] == "2026-05-14"
+    arch.path.unlink(missing_ok=True)
