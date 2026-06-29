@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-06-29 21:13 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-06-29 22:06 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Apptronik - 1 new (1 technical)
-
-- **[TECH]** [Robotics Test Engineer](https://boards.greenhouse.io/apptronik/jobs/5988482004?gh_jid=5988482004) - *Onsite - Austin, TX*
