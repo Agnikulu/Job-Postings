@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-07 03:43 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-07-07 05:57 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Tesla - 1 new (1 technical)
-
-- **[TECH]** [Autonomous Vehicle Robot Engineering Technician, Hardware](https://www.linkedin.com/jobs/view/4437470579) - *Sparks, NV*
