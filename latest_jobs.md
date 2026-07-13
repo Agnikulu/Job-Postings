@@ -1,9 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-13 18:14 UTC  
-**New matches this run:** 0  
+**Run timestamp:** 2026-07-13 20:08 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
-_No new early-career roles since the last run._
+Grouped by company (sorted by match count):
 
+
+## Pure Storage - 1 new (1 technical)
+
+- **[TECH]** [AI Transformation Coordinator](https://job-boards.greenhouse.io/purestorage/jobs/8060240) - *Santa Clara, California*
