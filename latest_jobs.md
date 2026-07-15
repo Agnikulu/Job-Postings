@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-15 11:09 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-07-15 12:04 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Intuit - 1 new (1 technical)
-
-- **[TECH]** [Software Engineer I - Credit Karma](https://www.linkedin.com/jobs/view/4440968106) - *Charlotte, NC*
