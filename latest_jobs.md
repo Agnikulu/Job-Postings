@@ -1,14 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-16 15:15 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-07-16 17:09 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Qualcomm - 2 new (2 technical)
-
-- **[TECH]** [Associate Attorney, Data](https://www.linkedin.com/jobs/view/4440751428) - *San Diego, CA*
-- **[TECH]** [Software Engineer - WLAN](https://www.linkedin.com/jobs/view/4440753355) - *Santa Clara, CA*
