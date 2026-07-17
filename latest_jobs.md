@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-17 18:58 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-07-17 20:01 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Microsoft - 1 new (1 technical)
-
-- **[TECH]** [Software Engineer- Manufacturing & Sourcing](https://apply.careers.microsoft.com/careers/job/1970393556939007) - *Redmond, WA, US*
