@@ -1,14 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-18 16:01 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-07-18 16:58 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## GitHub - 2 new (2 technical)
+## Qualcomm - 1 new (1 technical)
 
-- **[TECH]** [Software Engineer](https://www.linkedin.com/jobs/view/4439610878) - *Austin, TX*
-- **[TECH]** [Software Engineer](https://www.linkedin.com/jobs/view/4439618679) - *Southlake, TX*
+- **[TECH]** [Engineering Technician, Intermediate](https://www.linkedin.com/jobs/view/4441722821) - *San Diego, CA*
