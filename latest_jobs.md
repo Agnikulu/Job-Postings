@@ -1,13 +1,14 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-22 15:30 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-07-22 16:12 UTC  
+**New matches this run:** 2  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Qualcomm - 1 new (1 technical)
+## SpaceX - 2 new (2 technical)
 
-- **[TECH]** [Software Engineer](https://www.linkedin.com/jobs/view/4443140913) - *San Diego, CA*
+- **[TECH]** [Full Stack Software Engineer, Manufacturing](https://boards.greenhouse.io/spacex/jobs/8645130002?gh_jid=8645130002) - *Hawthorne, CA*
+- **[TECH]** [Full Stack Software Engineer, Safety & Training](https://boards.greenhouse.io/spacex/jobs/8645132002?gh_jid=8645132002) - *Hawthorne, CA*
