@@ -2,13 +2,8 @@
   "1X Technologies": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:55:27+00:00",
+    "last_run": "2026-07-27T20:59:25+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:03:42+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:00:46+00:00",
         "postings": 0,
@@ -123,19 +118,19 @@
         "ts": "2026-07-27T19:55:27+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T20:59:25+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "AMD": {
-    "last_postings": 71,
+    "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:58:45+00:00",
+    "last_run": "2026-07-27T21:02:50+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:07+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:03:35+00:00",
         "postings": 600,
@@ -250,19 +245,19 @@
         "ts": "2026-07-27T19:58:45+00:00",
         "postings": 71,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:02:50+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Adobe": {
-    "last_postings": 837,
+    "last_postings": 838,
     "last_matches": 3,
-    "last_run": "2026-07-27T19:58:36+00:00",
+    "last_run": "2026-07-27T21:02:38+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:05:55+00:00",
-        "postings": 838,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:03:23+00:00",
         "postings": 838,
@@ -377,19 +372,19 @@
         "ts": "2026-07-27T19:58:36+00:00",
         "postings": 837,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:02:38+00:00",
+        "postings": 838,
+        "matches": 3
       }
     ]
   },
   "Affirm": {
-    "last_postings": 175,
+    "last_postings": 178,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:58:37+00:00",
+    "last_run": "2026-07-27T21:02:40+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:05:56+00:00",
-        "postings": 174,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:03:25+00:00",
         "postings": 174,
@@ -504,19 +499,19 @@
         "ts": "2026-07-27T19:58:37+00:00",
         "postings": 175,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:02:40+00:00",
+        "postings": 178,
+        "matches": 0
       }
     ]
   },
   "Airbnb": {
-    "last_postings": 190,
+    "last_postings": 191,
     "last_matches": 2,
-    "last_run": "2026-07-27T19:58:39+00:00",
+    "last_run": "2026-07-27T21:02:41+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:05:58+00:00",
-        "postings": 196,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:03:26+00:00",
         "postings": 196,
@@ -631,19 +626,19 @@
         "ts": "2026-07-27T19:58:39+00:00",
         "postings": 190,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:02:41+00:00",
+        "postings": 191,
+        "matches": 2
       }
     ]
   },
   "Amazon Web Services (AWS)": {
     "last_postings": 1200,
     "last_matches": 5,
-    "last_run": "2026-07-27T19:58:45+00:00",
+    "last_run": "2026-07-27T21:02:50+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:07+00:00",
-        "postings": 1200,
-        "matches": 5
-      },
       {
         "ts": "2026-07-26T12:03:35+00:00",
         "postings": 1200,
@@ -758,19 +753,19 @@
         "ts": "2026-07-27T19:58:45+00:00",
         "postings": 1200,
         "matches": 5
+      },
+      {
+        "ts": "2026-07-27T21:02:50+00:00",
+        "postings": 1200,
+        "matches": 5
       }
     ]
   },
   "Anduril": {
     "last_postings": 1200,
     "last_matches": 16,
-    "last_run": "2026-07-27T19:59:01+00:00",
+    "last_run": "2026-07-27T21:03:12+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:29+00:00",
-        "postings": 1200,
-        "matches": 17
-      },
       {
         "ts": "2026-07-26T12:03:58+00:00",
         "postings": 1200,
@@ -885,19 +880,19 @@
         "ts": "2026-07-27T19:59:01+00:00",
         "postings": 1200,
         "matches": 16
+      },
+      {
+        "ts": "2026-07-27T21:03:12+00:00",
+        "postings": 1200,
+        "matches": 16
       }
     ]
   },
   "Anthropic": {
     "last_postings": 417,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:08+00:00",
+    "last_run": "2026-07-27T21:03:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:39+00:00",
-        "postings": 418,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:08+00:00",
         "postings": 418,
@@ -1010,6 +1005,11 @@
       },
       {
         "ts": "2026-07-27T19:59:08+00:00",
+        "postings": 417,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:23+00:00",
         "postings": 417,
         "matches": 0
       }
@@ -1018,13 +1018,8 @@
   "Anyscale": {
     "last_postings": 1,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:08+00:00",
+    "last_run": "2026-07-27T21:03:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:39+00:00",
-        "postings": 1,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:08+00:00",
         "postings": 1,
@@ -1137,21 +1132,21 @@
       },
       {
         "ts": "2026-07-27T19:59:08+00:00",
+        "postings": 1,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:23+00:00",
         "postings": 1,
         "matches": 0
       }
     ]
   },
   "Apple": {
-    "last_postings": 82,
+    "last_postings": 81,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:08+00:00",
+    "last_run": "2026-07-27T21:03:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:39+00:00",
-        "postings": 82,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:08+00:00",
         "postings": 82,
@@ -1265,6 +1260,11 @@
       {
         "ts": "2026-07-27T19:59:08+00:00",
         "postings": 82,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:23+00:00",
+        "postings": 81,
         "matches": 0
       }
     ]
@@ -1272,13 +1272,8 @@
   "Applied Intuition": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:34:12+00:00",
+    "last_run": "2026-07-27T20:36:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T10:36:17+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T11:31:25+00:00",
         "postings": 0,
@@ -1393,19 +1388,19 @@
         "ts": "2026-07-27T19:34:12+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T20:36:01+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Apptronik": {
-    "last_postings": 90,
+    "last_postings": 91,
     "last_matches": 1,
-    "last_run": "2026-07-27T19:59:09+00:00",
+    "last_run": "2026-07-27T21:03:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:40+00:00",
-        "postings": 92,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:04:09+00:00",
         "postings": 92,
@@ -1519,6 +1514,11 @@
       {
         "ts": "2026-07-27T19:59:09+00:00",
         "postings": 90,
+        "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:03:23+00:00",
+        "postings": 91,
         "matches": 1
       }
     ]
@@ -1526,13 +1526,8 @@
   "Arista Networks": {
     "last_postings": 240,
     "last_matches": 3,
-    "last_run": "2026-07-27T19:59:09+00:00",
+    "last_run": "2026-07-27T21:03:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:40+00:00",
-        "postings": 240,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:04:09+00:00",
         "postings": 240,
@@ -1647,19 +1642,19 @@
         "ts": "2026-07-27T19:59:09+00:00",
         "postings": 240,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:03:23+00:00",
+        "postings": 240,
+        "matches": 3
       }
     ]
   },
   "Arm Holdings": {
-    "last_postings": 99,
+    "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:09+00:00",
+    "last_run": "2026-07-27T21:03:24+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:40+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:09+00:00",
         "postings": 96,
@@ -1774,19 +1769,19 @@
         "ts": "2026-07-27T19:59:09+00:00",
         "postings": 99,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:24+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Atlassian": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:09+00:00",
+    "last_run": "2026-07-27T21:03:24+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:40+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:09+00:00",
         "postings": 0,
@@ -1901,19 +1896,19 @@
         "ts": "2026-07-27T19:59:09+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:24+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Aurora Innovation": {
-    "last_postings": 140,
+    "last_postings": 141,
     "last_matches": 2,
-    "last_run": "2026-07-27T19:59:10+00:00",
+    "last_run": "2026-07-27T21:03:25+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:41+00:00",
-        "postings": 141,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:04:10+00:00",
         "postings": 141,
@@ -2028,19 +2023,19 @@
         "ts": "2026-07-27T19:59:10+00:00",
         "postings": 140,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:03:25+00:00",
+        "postings": 141,
+        "matches": 2
       }
     ]
   },
   "Baseten": {
     "last_postings": 68,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:10+00:00",
+    "last_run": "2026-07-27T21:03:26+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:42+00:00",
-        "postings": 68,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:11+00:00",
         "postings": 68,
@@ -2155,19 +2150,19 @@
         "ts": "2026-07-27T19:59:10+00:00",
         "postings": 68,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:26+00:00",
+        "postings": 68,
+        "matches": 0
       }
     ]
   },
   "Benchling": {
     "last_postings": 50,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:11+00:00",
+    "last_run": "2026-07-27T21:03:26+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:43+00:00",
-        "postings": 53,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:12+00:00",
         "postings": 53,
@@ -2282,19 +2277,19 @@
         "ts": "2026-07-27T19:59:11+00:00",
         "postings": 50,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:26+00:00",
+        "postings": 50,
+        "matches": 0
       }
     ]
   },
   "Boston Dynamics": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:11+00:00",
+    "last_run": "2026-07-27T21:03:26+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:43+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:12+00:00",
         "postings": 0,
@@ -2409,19 +2404,19 @@
         "ts": "2026-07-27T19:59:11+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:26+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Brex": {
     "last_postings": 279,
     "last_matches": 4,
-    "last_run": "2026-07-27T19:59:12+00:00",
+    "last_run": "2026-07-27T21:03:28+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:06:44+00:00",
-        "postings": 279,
-        "matches": 4
-      },
       {
         "ts": "2026-07-26T12:04:13+00:00",
         "postings": 279,
@@ -2536,19 +2531,19 @@
         "ts": "2026-07-27T19:59:12+00:00",
         "postings": 279,
         "matches": 4
+      },
+      {
+        "ts": "2026-07-27T21:03:28+00:00",
+        "postings": 279,
+        "matches": 4
       }
     ]
   },
   "Broadcom": {
     "last_postings": 348,
     "last_matches": 1,
-    "last_run": "2026-07-27T19:59:45+00:00",
+    "last_run": "2026-07-27T21:03:55+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:17+00:00",
-        "postings": 349,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:04:53+00:00",
         "postings": 349,
@@ -2663,19 +2658,19 @@
         "ts": "2026-07-27T19:59:45+00:00",
         "postings": 348,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:03:55+00:00",
+        "postings": 348,
+        "matches": 1
       }
     ]
   },
   "Cerebras": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:34:08+00:00",
+    "last_run": "2026-07-27T20:35:58+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T10:36:13+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T11:31:22+00:00",
         "postings": 0,
@@ -2790,19 +2785,19 @@
         "ts": "2026-07-27T19:34:08+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T20:35:58+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Chime": {
     "last_postings": 66,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:46+00:00",
+    "last_run": "2026-07-27T21:03:56+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:18+00:00",
-        "postings": 67,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:54+00:00",
         "postings": 67,
@@ -2917,19 +2912,19 @@
         "ts": "2026-07-27T19:59:46+00:00",
         "postings": 66,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:56+00:00",
+        "postings": 66,
+        "matches": 0
       }
     ]
   },
   "Clay": {
     "last_postings": 68,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:47+00:00",
+    "last_run": "2026-07-27T21:03:57+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:19+00:00",
-        "postings": 70,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:55+00:00",
         "postings": 70,
@@ -3044,19 +3039,19 @@
         "ts": "2026-07-27T19:59:47+00:00",
         "postings": 68,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:57+00:00",
+        "postings": 68,
+        "matches": 0
       }
     ]
   },
   "Click Therapeutics": {
-    "last_postings": 5,
+    "last_postings": 4,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:47+00:00",
+    "last_run": "2026-07-27T21:03:57+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:19+00:00",
-        "postings": 5,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:55+00:00",
         "postings": 5,
@@ -3171,19 +3166,19 @@
         "ts": "2026-07-27T19:59:47+00:00",
         "postings": 5,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:57+00:00",
+        "postings": 4,
+        "matches": 0
       }
     ]
   },
   "ClickHouse": {
     "last_postings": 172,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:48+00:00",
+    "last_run": "2026-07-27T21:03:59+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:21+00:00",
-        "postings": 171,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:56+00:00",
         "postings": 171,
@@ -3298,19 +3293,19 @@
         "ts": "2026-07-27T19:59:48+00:00",
         "postings": 172,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:03:59+00:00",
+        "postings": 172,
+        "matches": 0
       }
     ]
   },
   "Cloudflare": {
-    "last_postings": 277,
+    "last_postings": 278,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:50+00:00",
+    "last_run": "2026-07-27T21:04:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:23+00:00",
-        "postings": 271,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:04:59+00:00",
         "postings": 271,
@@ -3425,19 +3420,19 @@
         "ts": "2026-07-27T19:59:50+00:00",
         "postings": 277,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:01+00:00",
+        "postings": 278,
+        "matches": 0
       }
     ]
   },
   "Cognition AI": {
     "last_postings": 78,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:51+00:00",
+    "last_run": "2026-07-27T21:04:02+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:24+00:00",
-        "postings": 78,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:05:00+00:00",
         "postings": 78,
@@ -3552,19 +3547,19 @@
         "ts": "2026-07-27T19:59:51+00:00",
         "postings": 78,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:02+00:00",
+        "postings": 78,
+        "matches": 0
       }
     ]
   },
   "Cohere": {
     "last_postings": 138,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:52+00:00",
+    "last_run": "2026-07-27T21:04:04+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:25+00:00",
-        "postings": 137,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:05:02+00:00",
         "postings": 137,
@@ -3679,19 +3674,19 @@
         "ts": "2026-07-27T19:59:52+00:00",
         "postings": 138,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:04+00:00",
+        "postings": 138,
+        "matches": 0
       }
     ]
   },
   "Coinbase": {
     "last_postings": 155,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:52+00:00",
+    "last_run": "2026-07-27T21:04:04+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:25+00:00",
-        "postings": 156,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:05:02+00:00",
         "postings": 156,
@@ -3804,6 +3799,11 @@
       },
       {
         "ts": "2026-07-27T19:59:52+00:00",
+        "postings": 155,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:04+00:00",
         "postings": 155,
         "matches": 0
       }
@@ -3812,13 +3812,8 @@
   "Confluent": {
     "last_postings": 35,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:59:52+00:00",
+    "last_run": "2026-07-27T21:04:04+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:26+00:00",
-        "postings": 35,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:05:02+00:00",
         "postings": 35,
@@ -3933,19 +3928,19 @@
         "ts": "2026-07-27T19:59:52+00:00",
         "postings": 35,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:04+00:00",
+        "postings": 35,
+        "matches": 0
       }
     ]
   },
   "CoreWeave": {
     "last_postings": 293,
     "last_matches": 3,
-    "last_run": "2026-07-27T19:59:55+00:00",
+    "last_run": "2026-07-27T21:04:08+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:07:29+00:00",
-        "postings": 288,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:05:06+00:00",
         "postings": 288,
@@ -4060,19 +4055,19 @@
         "ts": "2026-07-27T19:59:55+00:00",
         "postings": 293,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:04:08+00:00",
+        "postings": 293,
+        "matches": 3
       }
     ]
   },
   "CrowdStrike": {
     "last_postings": 408,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:00:43+00:00",
+    "last_run": "2026-07-27T21:04:48+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:03+00:00",
-        "postings": 405,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:05:57+00:00",
         "postings": 405,
@@ -4187,19 +4182,19 @@
         "ts": "2026-07-27T20:00:43+00:00",
         "postings": 408,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:04:48+00:00",
+        "postings": 408,
+        "matches": 1
       }
     ]
   },
   "Crusoe": {
     "last_postings": 359,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:00:47+00:00",
+    "last_run": "2026-07-27T21:04:52+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:07+00:00",
-        "postings": 359,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:01+00:00",
         "postings": 359,
@@ -4314,19 +4309,19 @@
         "ts": "2026-07-27T20:00:47+00:00",
         "postings": 359,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:52+00:00",
+        "postings": 359,
+        "matches": 0
       }
     ]
   },
   "Cursor": {
     "last_postings": 122,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:00:47+00:00",
+    "last_run": "2026-07-27T21:04:53+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:08+00:00",
-        "postings": 120,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:02+00:00",
         "postings": 120,
@@ -4441,19 +4436,19 @@
         "ts": "2026-07-27T20:00:47+00:00",
         "postings": 122,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:53+00:00",
+        "postings": 122,
+        "matches": 0
       }
     ]
   },
   "DRW": {
     "last_postings": 164,
     "last_matches": 6,
-    "last_run": "2026-07-27T20:01:01+00:00",
+    "last_run": "2026-07-27T21:05:12+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:27+00:00",
-        "postings": 164,
-        "matches": 6
-      },
       {
         "ts": "2026-07-26T12:06:22+00:00",
         "postings": 164,
@@ -4568,19 +4563,19 @@
         "ts": "2026-07-27T20:01:01+00:00",
         "postings": 164,
         "matches": 6
+      },
+      {
+        "ts": "2026-07-27T21:05:12+00:00",
+        "postings": 164,
+        "matches": 6
       }
     ]
   },
   "Databricks": {
     "last_postings": 799,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:00:50+00:00",
+    "last_run": "2026-07-27T21:04:57+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:12+00:00",
-        "postings": 800,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:07+00:00",
         "postings": 800,
@@ -4695,19 +4690,19 @@
         "ts": "2026-07-27T20:00:50+00:00",
         "postings": 799,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:04:57+00:00",
+        "postings": 799,
+        "matches": 0
       }
     ]
   },
   "Datadog": {
-    "last_postings": 423,
+    "last_postings": 424,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:00:52+00:00",
+    "last_run": "2026-07-27T21:05:00+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:15+00:00",
-        "postings": 418,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:09+00:00",
         "postings": 418,
@@ -4822,19 +4817,19 @@
         "ts": "2026-07-27T20:00:52+00:00",
         "postings": 423,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:00+00:00",
+        "postings": 424,
+        "matches": 1
       }
     ]
   },
   "Decagon": {
     "last_postings": 116,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:00:53+00:00",
+    "last_run": "2026-07-27T21:05:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:16+00:00",
-        "postings": 118,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:06:10+00:00",
         "postings": 118,
@@ -4949,19 +4944,19 @@
         "ts": "2026-07-27T20:00:53+00:00",
         "postings": 116,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:05:01+00:00",
+        "postings": 116,
+        "matches": 2
       }
     ]
   },
   "Discord": {
-    "last_postings": 48,
+    "last_postings": 46,
     "last_matches": 3,
-    "last_run": "2026-07-27T20:00:53+00:00",
+    "last_run": "2026-07-27T21:05:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:16+00:00",
-        "postings": 50,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:06:10+00:00",
         "postings": 50,
@@ -5076,19 +5071,19 @@
         "ts": "2026-07-27T20:00:53+00:00",
         "postings": 48,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:05:01+00:00",
+        "postings": 46,
+        "matches": 3
       }
     ]
   },
   "DoorDash": {
-    "last_postings": 473,
+    "last_postings": 470,
     "last_matches": 7,
-    "last_run": "2026-07-27T20:01:00+00:00",
+    "last_run": "2026-07-27T21:05:11+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:26+00:00",
-        "postings": 482,
-        "matches": 7
-      },
       {
         "ts": "2026-07-26T12:06:20+00:00",
         "postings": 482,
@@ -5203,19 +5198,19 @@
         "ts": "2026-07-27T20:01:00+00:00",
         "postings": 473,
         "matches": 7
+      },
+      {
+        "ts": "2026-07-27T21:05:11+00:00",
+        "postings": 470,
+        "matches": 7
       }
     ]
   },
   "Duolingo": {
     "last_postings": 59,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:01+00:00",
+    "last_run": "2026-07-27T21:05:13+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:28+00:00",
-        "postings": 60,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:22+00:00",
         "postings": 60,
@@ -5330,19 +5325,19 @@
         "ts": "2026-07-27T20:01:01+00:00",
         "postings": 59,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:13+00:00",
+        "postings": 59,
+        "matches": 0
       }
     ]
   },
   "ElevenLabs": {
     "last_postings": 212,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:03+00:00",
+    "last_run": "2026-07-27T21:05:15+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:31+00:00",
-        "postings": 215,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:25+00:00",
         "postings": 215,
@@ -5457,19 +5452,19 @@
         "ts": "2026-07-27T20:01:03+00:00",
         "postings": 212,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:15+00:00",
+        "postings": 212,
+        "matches": 0
       }
     ]
   },
   "Etched": {
     "last_postings": 103,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:04+00:00",
+    "last_run": "2026-07-27T21:05:17+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:32+00:00",
-        "postings": 102,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:27+00:00",
         "postings": 102,
@@ -5584,19 +5579,19 @@
         "ts": "2026-07-27T20:01:04+00:00",
         "postings": 103,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:17+00:00",
+        "postings": 103,
+        "matches": 0
       }
     ]
   },
   "Etsy": {
-    "last_postings": 36,
+    "last_postings": 35,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:04+00:00",
+    "last_run": "2026-07-27T21:05:17+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:32+00:00",
-        "postings": 39,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:27+00:00",
         "postings": 39,
@@ -5711,19 +5706,19 @@
         "ts": "2026-07-27T20:01:04+00:00",
         "postings": 36,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:17+00:00",
+        "postings": 35,
+        "matches": 0
       }
     ]
   },
   "EvolutionaryScale": {
     "last_postings": 18,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:05+00:00",
+    "last_run": "2026-07-27T21:05:17+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:32+00:00",
-        "postings": 21,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:27+00:00",
         "postings": 21,
@@ -5838,19 +5833,19 @@
         "ts": "2026-07-27T20:01:05+00:00",
         "postings": 18,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:17+00:00",
+        "postings": 18,
+        "matches": 0
       }
     ]
   },
   "Figma": {
     "last_postings": 176,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:06+00:00",
+    "last_run": "2026-07-27T21:05:19+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:34+00:00",
-        "postings": 174,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:29+00:00",
         "postings": 174,
@@ -5965,19 +5960,19 @@
         "ts": "2026-07-27T20:01:06+00:00",
         "postings": 176,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:19+00:00",
+        "postings": 176,
+        "matches": 1
       }
     ]
   },
   "Figure AI": {
     "last_postings": 122,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:07+00:00",
+    "last_run": "2026-07-27T21:05:20+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:36+00:00",
-        "postings": 122,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:30+00:00",
         "postings": 122,
@@ -6092,19 +6087,19 @@
         "ts": "2026-07-27T20:01:07+00:00",
         "postings": 122,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:20+00:00",
+        "postings": 122,
+        "matches": 1
       }
     ]
   },
   "Fireworks AI": {
     "last_postings": 48,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:08+00:00",
+    "last_run": "2026-07-27T21:05:21+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:36+00:00",
-        "postings": 46,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:31+00:00",
         "postings": 46,
@@ -6219,19 +6214,19 @@
         "ts": "2026-07-27T20:01:08+00:00",
         "postings": 48,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:21+00:00",
+        "postings": 48,
+        "matches": 1
       }
     ]
   },
   "Fivetran": {
-    "last_postings": 194,
+    "last_postings": 199,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:09+00:00",
+    "last_run": "2026-07-27T21:05:22+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:38+00:00",
-        "postings": 195,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:32+00:00",
         "postings": 195,
@@ -6346,19 +6341,19 @@
         "ts": "2026-07-27T20:01:09+00:00",
         "postings": 194,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:22+00:00",
+        "postings": 199,
+        "matches": 0
       }
     ]
   },
   "Flatiron Health": {
     "last_postings": 34,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:09+00:00",
+    "last_run": "2026-07-27T21:05:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:38+00:00",
-        "postings": 33,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:33+00:00",
         "postings": 33,
@@ -6473,19 +6468,19 @@
         "ts": "2026-07-27T20:01:09+00:00",
         "postings": 34,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:23+00:00",
+        "postings": 34,
+        "matches": 1
       }
     ]
   },
   "Generate Biomedicines": {
     "last_postings": 15,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:09+00:00",
+    "last_run": "2026-07-27T21:05:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:38+00:00",
-        "postings": 14,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:33+00:00",
         "postings": 14,
@@ -6600,19 +6595,19 @@
         "ts": "2026-07-27T20:01:09+00:00",
         "postings": 15,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:23+00:00",
+        "postings": 15,
+        "matches": 1
       }
     ]
   },
   "Genesis Therapeutics": {
     "last_postings": 42,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:09+00:00",
+    "last_run": "2026-07-27T21:05:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:39+00:00",
-        "postings": 42,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:33+00:00",
         "postings": 42,
@@ -6727,19 +6722,19 @@
         "ts": "2026-07-27T20:01:09+00:00",
         "postings": 42,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:23+00:00",
+        "postings": 42,
+        "matches": 0
       }
     ]
   },
   "GitHub": {
-    "last_postings": 473,
+    "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:10+00:00",
+    "last_run": "2026-07-27T21:05:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:39+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:34+00:00",
         "postings": 545,
@@ -6854,19 +6849,19 @@
         "ts": "2026-07-27T20:01:10+00:00",
         "postings": 473,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:23+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Glean": {
     "last_postings": 107,
     "last_matches": 3,
-    "last_run": "2026-07-27T20:01:11+00:00",
+    "last_run": "2026-07-27T21:05:25+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:40+00:00",
-        "postings": 113,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:06:35+00:00",
         "postings": 113,
@@ -6981,19 +6976,19 @@
         "ts": "2026-07-27T20:01:11+00:00",
         "postings": 107,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:05:25+00:00",
+        "postings": 107,
+        "matches": 3
       }
     ]
   },
   "Google": {
-    "last_postings": 420,
+    "last_postings": 419,
     "last_matches": 5,
-    "last_run": "2026-07-27T20:01:13+00:00",
+    "last_run": "2026-07-27T21:05:27+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:43+00:00",
-        "postings": 442,
-        "matches": 5
-      },
       {
         "ts": "2026-07-26T12:06:38+00:00",
         "postings": 442,
@@ -7108,19 +7103,19 @@
         "ts": "2026-07-27T20:01:13+00:00",
         "postings": 420,
         "matches": 5
+      },
+      {
+        "ts": "2026-07-27T21:05:27+00:00",
+        "postings": 419,
+        "matches": 5
       }
     ]
   },
   "Google DeepMind": {
     "last_postings": 90,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:13+00:00",
+    "last_run": "2026-07-27T21:05:27+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:43+00:00",
-        "postings": 97,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:38+00:00",
         "postings": 97,
@@ -7235,19 +7230,19 @@
         "ts": "2026-07-27T20:01:13+00:00",
         "postings": 90,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:27+00:00",
+        "postings": 90,
+        "matches": 0
       }
     ]
   },
   "Groq": {
     "last_postings": 1,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:13+00:00",
+    "last_run": "2026-07-27T21:05:27+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:43+00:00",
-        "postings": 1,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:38+00:00",
         "postings": 1,
@@ -7362,19 +7357,19 @@
         "ts": "2026-07-27T20:01:13+00:00",
         "postings": 1,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:27+00:00",
+        "postings": 1,
+        "matches": 0
       }
     ]
   },
   "Harvey": {
     "last_postings": 349,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:15+00:00",
+    "last_run": "2026-07-27T21:05:31+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:46+00:00",
-        "postings": 349,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:41+00:00",
         "postings": 349,
@@ -7489,19 +7484,19 @@
         "ts": "2026-07-27T20:01:15+00:00",
         "postings": 349,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:31+00:00",
+        "postings": 349,
+        "matches": 0
       }
     ]
   },
   "Headway": {
     "last_postings": 63,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:15+00:00",
+    "last_run": "2026-07-27T21:05:31+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:46+00:00",
-        "postings": 63,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:42+00:00",
         "postings": 63,
@@ -7616,19 +7611,19 @@
         "ts": "2026-07-27T20:01:15+00:00",
         "postings": 63,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:31+00:00",
+        "postings": 63,
+        "matches": 0
       }
     ]
   },
   "Hebbia": {
     "last_postings": 26,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:16+00:00",
+    "last_run": "2026-07-27T21:05:31+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:47+00:00",
-        "postings": 26,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:42+00:00",
         "postings": 26,
@@ -7743,19 +7738,19 @@
         "ts": "2026-07-27T20:01:16+00:00",
         "postings": 26,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:31+00:00",
+        "postings": 26,
+        "matches": 0
       }
     ]
   },
   "Hugging Face": {
     "last_postings": 7,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:16+00:00",
+    "last_run": "2026-07-27T21:05:32+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:47+00:00",
-        "postings": 7,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:43+00:00",
         "postings": 7,
@@ -7870,19 +7865,19 @@
         "ts": "2026-07-27T20:01:16+00:00",
         "postings": 7,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:32+00:00",
+        "postings": 7,
+        "matches": 0
       }
     ]
   },
   "Inceptive": {
     "last_postings": 9,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:16+00:00",
+    "last_run": "2026-07-27T21:05:32+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:47+00:00",
-        "postings": 9,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:43+00:00",
         "postings": 9,
@@ -7997,19 +7992,19 @@
         "ts": "2026-07-27T20:01:16+00:00",
         "postings": 9,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:32+00:00",
+        "postings": 9,
+        "matches": 0
       }
     ]
   },
   "Insitro": {
     "last_postings": 13,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:16+00:00",
+    "last_run": "2026-07-27T21:05:32+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:47+00:00",
-        "postings": 13,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:43+00:00",
         "postings": 13,
@@ -8124,19 +8119,19 @@
         "ts": "2026-07-27T20:01:16+00:00",
         "postings": 13,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:32+00:00",
+        "postings": 13,
+        "matches": 0
       }
     ]
   },
   "Instacart": {
-    "last_postings": 124,
+    "last_postings": 126,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:16+00:00",
+    "last_run": "2026-07-27T21:05:33+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:48+00:00",
-        "postings": 122,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:44+00:00",
         "postings": 122,
@@ -8251,19 +8246,19 @@
         "ts": "2026-07-27T20:01:16+00:00",
         "postings": 124,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:33+00:00",
+        "postings": 126,
+        "matches": 0
       }
     ]
   },
   "Intuit": {
     "last_postings": 600,
-    "last_matches": 60,
-    "last_run": "2026-07-27T20:01:17+00:00",
+    "last_matches": 5,
+    "last_run": "2026-07-27T21:05:33+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:48+00:00",
-        "postings": 600,
-        "matches": 5
-      },
       {
         "ts": "2026-07-26T12:06:44+00:00",
         "postings": 600,
@@ -8378,19 +8373,19 @@
         "ts": "2026-07-27T20:01:17+00:00",
         "postings": 600,
         "matches": 60
+      },
+      {
+        "ts": "2026-07-27T21:05:33+00:00",
+        "postings": 600,
+        "matches": 5
       }
     ]
   },
   "Isomorphic Labs": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:17+00:00",
+    "last_run": "2026-07-27T21:05:33+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:48+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:44+00:00",
         "postings": 0,
@@ -8503,6 +8498,11 @@
       },
       {
         "ts": "2026-07-27T20:01:17+00:00",
+        "postings": 0,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:33+00:00",
         "postings": 0,
         "matches": 0
       }
@@ -8511,13 +8511,8 @@
   "Lambda Labs": {
     "last_postings": 48,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:17+00:00",
+    "last_run": "2026-07-27T21:05:33+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:48+00:00",
-        "postings": 45,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:44+00:00",
         "postings": 45,
@@ -8632,19 +8627,19 @@
         "ts": "2026-07-27T20:01:17+00:00",
         "postings": 48,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:33+00:00",
+        "postings": 48,
+        "matches": 0
       }
     ]
   },
   "LangChain": {
-    "last_postings": 84,
-    "last_matches": 0,
-    "last_run": "2026-07-27T20:01:18+00:00",
+    "last_postings": 85,
+    "last_matches": 1,
+    "last_run": "2026-07-27T21:05:34+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:49+00:00",
-        "postings": 85,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:45+00:00",
         "postings": 85,
@@ -8759,19 +8754,19 @@
         "ts": "2026-07-27T20:01:18+00:00",
         "postings": 84,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:34+00:00",
+        "postings": 85,
+        "matches": 1
       }
     ]
   },
   "Linear": {
     "last_postings": 25,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:18+00:00",
+    "last_run": "2026-07-27T21:05:34+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:49+00:00",
-        "postings": 25,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:45+00:00",
         "postings": 25,
@@ -8886,19 +8881,19 @@
         "ts": "2026-07-27T20:01:18+00:00",
         "postings": 25,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:34+00:00",
+        "postings": 25,
+        "matches": 0
       }
     ]
   },
   "LinkedIn": {
     "last_postings": 53,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:18+00:00",
+    "last_run": "2026-07-27T21:05:34+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:50+00:00",
-        "postings": 53,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:45+00:00",
         "postings": 53,
@@ -9013,19 +9008,19 @@
         "ts": "2026-07-27T20:01:18+00:00",
         "postings": 53,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:34+00:00",
+        "postings": 53,
+        "matches": 0
       }
     ]
   },
   "Luma AI": {
     "last_postings": 51,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:18+00:00",
+    "last_run": "2026-07-27T21:05:34+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:50+00:00",
-        "postings": 51,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:06:45+00:00",
         "postings": 51,
@@ -9140,19 +9135,19 @@
         "ts": "2026-07-27T20:01:18+00:00",
         "postings": 51,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:05:34+00:00",
+        "postings": 51,
+        "matches": 1
       }
     ]
   },
   "Lyft": {
     "last_postings": 158,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:19+00:00",
+    "last_run": "2026-07-27T21:05:36+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:51+00:00",
-        "postings": 156,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:47+00:00",
         "postings": 156,
@@ -9267,19 +9262,19 @@
         "ts": "2026-07-27T20:01:19+00:00",
         "postings": 158,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:36+00:00",
+        "postings": 158,
+        "matches": 0
       }
     ]
   },
   "Magic AI": {
     "last_postings": 11,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:01:19+00:00",
+    "last_run": "2026-07-27T21:05:36+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:08:51+00:00",
-        "postings": 11,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:06:47+00:00",
         "postings": 11,
@@ -9394,19 +9389,19 @@
         "ts": "2026-07-27T20:01:19+00:00",
         "postings": 11,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:05:36+00:00",
+        "postings": 11,
+        "matches": 0
       }
     ]
   },
   "Marvell": {
     "last_postings": 536,
     "last_matches": 3,
-    "last_run": "2026-07-27T20:01:56+00:00",
+    "last_run": "2026-07-27T21:06:14+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:22+00:00",
-        "postings": 541,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:07:33+00:00",
         "postings": 541,
@@ -9521,19 +9516,19 @@
         "ts": "2026-07-27T20:01:56+00:00",
         "postings": 536,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:06:14+00:00",
+        "postings": 536,
+        "matches": 3
       }
     ]
   },
   "Mercor": {
-    "last_postings": 73,
+    "last_postings": 74,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:01:57+00:00",
+    "last_run": "2026-07-27T21:06:15+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:23+00:00",
-        "postings": 73,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:07:34+00:00",
         "postings": 73,
@@ -9648,19 +9643,19 @@
         "ts": "2026-07-27T20:01:57+00:00",
         "postings": 73,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:06:15+00:00",
+        "postings": 74,
+        "matches": 1
       }
     ]
   },
   "Meta": {
     "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:02:01+00:00",
+    "last_run": "2026-07-27T21:06:20+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:32+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:07:40+00:00",
         "postings": 600,
@@ -9775,19 +9770,19 @@
         "ts": "2026-07-27T20:02:01+00:00",
         "postings": 600,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:06:20+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Microsoft": {
     "last_postings": 600,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:02:01+00:00",
+    "last_run": "2026-07-27T21:06:21+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:33+00:00",
-        "postings": 600,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:07:41+00:00",
         "postings": 600,
@@ -9902,19 +9897,19 @@
         "ts": "2026-07-27T20:02:01+00:00",
         "postings": 600,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:06:21+00:00",
+        "postings": 600,
+        "matches": 1
       }
     ]
   },
   "Modal Labs": {
     "last_postings": 32,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:02:01+00:00",
+    "last_run": "2026-07-27T21:06:21+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:33+00:00",
-        "postings": 32,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:07:41+00:00",
         "postings": 32,
@@ -10029,19 +10024,19 @@
         "ts": "2026-07-27T20:02:01+00:00",
         "postings": 32,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:06:21+00:00",
+        "postings": 32,
+        "matches": 0
       }
     ]
   },
   "MongoDB": {
     "last_postings": 402,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:02:04+00:00",
+    "last_run": "2026-07-27T21:06:24+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:36+00:00",
-        "postings": 401,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:07:44+00:00",
         "postings": 401,
@@ -10156,19 +10151,19 @@
         "ts": "2026-07-27T20:02:04+00:00",
         "postings": 402,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:06:24+00:00",
+        "postings": 402,
+        "matches": 2
       }
     ]
   },
   "Netflix": {
     "last_postings": 480,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:02:04+00:00",
+    "last_run": "2026-07-27T21:06:24+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:36+00:00",
-        "postings": 480,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:07:44+00:00",
         "postings": 480,
@@ -10283,19 +10278,19 @@
         "ts": "2026-07-27T20:02:04+00:00",
         "postings": 480,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:06:24+00:00",
+        "postings": 480,
+        "matches": 0
       }
     ]
   },
   "Notion": {
     "last_postings": 117,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:02:05+00:00",
+    "last_run": "2026-07-27T21:06:26+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:09:38+00:00",
-        "postings": 127,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:07:46+00:00",
         "postings": 127,
@@ -10410,19 +10405,19 @@
         "ts": "2026-07-27T20:02:05+00:00",
         "postings": 117,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:06:26+00:00",
+        "postings": 117,
+        "matches": 2
       }
     ]
   },
   "Nvidia": {
     "last_postings": 1200,
     "last_matches": 28,
-    "last_run": "2026-07-27T20:06:19+00:00",
+    "last_run": "2026-07-27T21:09:49+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:12:41+00:00",
-        "postings": 1200,
-        "matches": 28
-      },
       {
         "ts": "2026-07-26T12:11:08+00:00",
         "postings": 1200,
@@ -10537,19 +10532,19 @@
         "ts": "2026-07-27T20:06:19+00:00",
         "postings": 1200,
         "matches": 28
+      },
+      {
+        "ts": "2026-07-27T21:09:49+00:00",
+        "postings": 1200,
+        "matches": 28
       }
     ]
   },
   "Okta": {
     "last_postings": 361,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:20+00:00",
+    "last_run": "2026-07-27T21:09:51+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:12:43+00:00",
-        "postings": 352,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:10+00:00",
         "postings": 352,
@@ -10664,19 +10659,19 @@
         "ts": "2026-07-27T20:06:20+00:00",
         "postings": 361,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:09:51+00:00",
+        "postings": 361,
+        "matches": 0
       }
     ]
   },
   "OpenAI": {
-    "last_postings": 752,
+    "last_postings": 754,
     "last_matches": 3,
-    "last_run": "2026-07-27T20:06:33+00:00",
+    "last_run": "2026-07-27T21:10:08+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:01+00:00",
-        "postings": 753,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:11:27+00:00",
         "postings": 753,
@@ -10791,19 +10786,19 @@
         "ts": "2026-07-27T20:06:33+00:00",
         "postings": 752,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:10:08+00:00",
+        "postings": 754,
+        "matches": 3
       }
     ]
   },
   "Palantir": {
     "last_postings": 287,
     "last_matches": 20,
-    "last_run": "2026-07-27T20:06:35+00:00",
+    "last_run": "2026-07-27T21:10:10+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:03+00:00",
-        "postings": 287,
-        "matches": 20
-      },
       {
         "ts": "2026-07-26T12:11:29+00:00",
         "postings": 287,
@@ -10918,19 +10913,19 @@
         "ts": "2026-07-27T20:06:35+00:00",
         "postings": 287,
         "matches": 20
+      },
+      {
+        "ts": "2026-07-27T21:10:10+00:00",
+        "postings": 287,
+        "matches": 20
       }
     ]
   },
   "Palo Alto Networks": {
     "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:35+00:00",
+    "last_run": "2026-07-27T21:10:10+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:03+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:30+00:00",
         "postings": 600,
@@ -11045,19 +11040,19 @@
         "ts": "2026-07-27T20:06:35+00:00",
         "postings": 600,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:10+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Pathos AI": {
     "last_postings": 2,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:35+00:00",
+    "last_run": "2026-07-27T21:10:10+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:03+00:00",
-        "postings": 2,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:30+00:00",
         "postings": 2,
@@ -11172,19 +11167,19 @@
         "ts": "2026-07-27T20:06:35+00:00",
         "postings": 2,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:10+00:00",
+        "postings": 2,
+        "matches": 0
       }
     ]
   },
   "Perplexity AI": {
     "last_postings": 87,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:36+00:00",
+    "last_run": "2026-07-27T21:10:11+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:04+00:00",
-        "postings": 86,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:31+00:00",
         "postings": 86,
@@ -11299,19 +11294,19 @@
         "ts": "2026-07-27T20:06:36+00:00",
         "postings": 87,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:11+00:00",
+        "postings": 87,
+        "matches": 0
       }
     ]
   },
   "Physical Intelligence": {
     "last_postings": 24,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:36+00:00",
+    "last_run": "2026-07-27T21:10:11+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:04+00:00",
-        "postings": 24,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:31+00:00",
         "postings": 24,
@@ -11424,6 +11419,11 @@
       },
       {
         "ts": "2026-07-27T20:06:36+00:00",
+        "postings": 24,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:11+00:00",
         "postings": 24,
         "matches": 0
       }
@@ -11432,13 +11432,8 @@
   "Pinecone": {
     "last_postings": 5,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:36+00:00",
+    "last_run": "2026-07-27T21:10:11+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:04+00:00",
-        "postings": 5,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:31+00:00",
         "postings": 5,
@@ -11553,19 +11548,19 @@
         "ts": "2026-07-27T20:06:36+00:00",
         "postings": 5,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:11+00:00",
+        "postings": 5,
+        "matches": 0
       }
     ]
   },
   "Pinterest": {
-    "last_postings": 199,
+    "last_postings": 198,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:06:37+00:00",
+    "last_run": "2026-07-27T21:10:13+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:06+00:00",
-        "postings": 202,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:11:33+00:00",
         "postings": 202,
@@ -11680,19 +11675,19 @@
         "ts": "2026-07-27T20:06:37+00:00",
         "postings": 199,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:10:13+00:00",
+        "postings": 198,
+        "matches": 1
       }
     ]
   },
   "Plaid": {
     "last_postings": 115,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:06:38+00:00",
+    "last_run": "2026-07-27T21:10:14+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:07+00:00",
-        "postings": 115,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:11:34+00:00",
         "postings": 115,
@@ -11807,19 +11802,19 @@
         "ts": "2026-07-27T20:06:38+00:00",
         "postings": 115,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:10:14+00:00",
+        "postings": 115,
+        "matches": 2
       }
     ]
   },
   "Point72": {
     "last_postings": 229,
     "last_matches": 6,
-    "last_run": "2026-07-27T20:06:40+00:00",
+    "last_run": "2026-07-27T21:10:17+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:09+00:00",
-        "postings": 231,
-        "matches": 6
-      },
       {
         "ts": "2026-07-26T12:11:37+00:00",
         "postings": 231,
@@ -11934,19 +11929,19 @@
         "ts": "2026-07-27T20:06:40+00:00",
         "postings": 229,
         "matches": 6
+      },
+      {
+        "ts": "2026-07-27T21:10:17+00:00",
+        "postings": 229,
+        "matches": 6
       }
     ]
   },
   "Pure Storage": {
     "last_postings": 317,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:06:43+00:00",
+    "last_run": "2026-07-27T21:10:20+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:13+00:00",
-        "postings": 319,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:11:41+00:00",
         "postings": 319,
@@ -12061,19 +12056,19 @@
         "ts": "2026-07-27T20:06:43+00:00",
         "postings": 317,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:10:20+00:00",
+        "postings": 317,
+        "matches": 1
       }
     ]
   },
   "Qualcomm": {
     "last_postings": 600,
-    "last_matches": 60,
-    "last_run": "2026-07-27T20:06:47+00:00",
+    "last_matches": 0,
+    "last_run": "2026-07-27T21:10:22+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:16+00:00",
-        "postings": 600,
-        "matches": 60
-      },
       {
         "ts": "2026-07-26T12:11:45+00:00",
         "postings": 600,
@@ -12188,19 +12183,19 @@
         "ts": "2026-07-27T20:06:47+00:00",
         "postings": 600,
         "matches": 60
+      },
+      {
+        "ts": "2026-07-27T21:10:22+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Ramp": {
-    "last_postings": 119,
+    "last_postings": 118,
     "last_matches": 5,
-    "last_run": "2026-07-27T20:06:48+00:00",
+    "last_run": "2026-07-27T21:10:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:18+00:00",
-        "postings": 118,
-        "matches": 5
-      },
       {
         "ts": "2026-07-26T12:11:46+00:00",
         "postings": 118,
@@ -12314,6 +12309,11 @@
       {
         "ts": "2026-07-27T20:06:48+00:00",
         "postings": 119,
+        "matches": 5
+      },
+      {
+        "ts": "2026-07-27T21:10:23+00:00",
+        "postings": 118,
         "matches": 5
       }
     ]
@@ -12321,13 +12321,8 @@
   "Recursion Pharma": {
     "last_postings": 21,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:48+00:00",
+    "last_run": "2026-07-27T21:10:23+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:18+00:00",
-        "postings": 21,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:46+00:00",
         "postings": 21,
@@ -12442,19 +12437,19 @@
         "ts": "2026-07-27T20:06:48+00:00",
         "postings": 21,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:23+00:00",
+        "postings": 21,
+        "matches": 0
       }
     ]
   },
   "Reddit": {
-    "last_postings": 193,
+    "last_postings": 191,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:06:49+00:00",
+    "last_run": "2026-07-27T21:10:25+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:19+00:00",
-        "postings": 194,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:11:47+00:00",
         "postings": 194,
@@ -12569,19 +12564,19 @@
         "ts": "2026-07-27T20:06:49+00:00",
         "postings": 193,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:10:25+00:00",
+        "postings": 191,
+        "matches": 1
       }
     ]
   },
   "Reka AI": {
     "last_postings": 7,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:49+00:00",
+    "last_run": "2026-07-27T21:10:25+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:19+00:00",
-        "postings": 6,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:48+00:00",
         "postings": 6,
@@ -12696,19 +12691,19 @@
         "ts": "2026-07-27T20:06:49+00:00",
         "postings": 7,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:25+00:00",
+        "postings": 7,
+        "matches": 0
       }
     ]
   },
   "Replit": {
     "last_postings": 92,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:50+00:00",
+    "last_run": "2026-07-27T21:10:26+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:20+00:00",
-        "postings": 92,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:49+00:00",
         "postings": 92,
@@ -12823,19 +12818,19 @@
         "ts": "2026-07-27T20:06:50+00:00",
         "postings": 92,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:26+00:00",
+        "postings": 92,
+        "matches": 0
       }
     ]
   },
   "Retool": {
     "last_postings": 38,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:06:50+00:00",
+    "last_run": "2026-07-27T21:10:26+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:21+00:00",
-        "postings": 37,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:11:49+00:00",
         "postings": 37,
@@ -12950,19 +12945,19 @@
         "ts": "2026-07-27T20:06:50+00:00",
         "postings": 38,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:10:26+00:00",
+        "postings": 38,
+        "matches": 1
       }
     ]
   },
   "Rippling": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:34:07+00:00",
+    "last_run": "2026-07-27T20:35:55+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T10:36:11+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T11:31:19+00:00",
         "postings": 0,
@@ -13077,19 +13072,19 @@
         "ts": "2026-07-27T19:34:07+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T20:35:55+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Robinhood": {
     "last_postings": 121,
     "last_matches": 3,
-    "last_run": "2026-07-27T20:06:51+00:00",
+    "last_run": "2026-07-27T21:10:28+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:22+00:00",
-        "postings": 119,
-        "matches": 3
-      },
       {
         "ts": "2026-07-26T12:11:50+00:00",
         "postings": 119,
@@ -13204,19 +13199,19 @@
         "ts": "2026-07-27T20:06:51+00:00",
         "postings": 121,
         "matches": 3
+      },
+      {
+        "ts": "2026-07-27T21:10:28+00:00",
+        "postings": 121,
+        "matches": 3
       }
     ]
   },
   "Roblox": {
     "last_postings": 217,
     "last_matches": 6,
-    "last_run": "2026-07-27T20:06:52+00:00",
+    "last_run": "2026-07-27T21:10:28+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:23+00:00",
-        "postings": 217,
-        "matches": 6
-      },
       {
         "ts": "2026-07-26T12:11:51+00:00",
         "postings": 217,
@@ -13331,19 +13326,19 @@
         "ts": "2026-07-27T20:06:52+00:00",
         "postings": 217,
         "matches": 6
+      },
+      {
+        "ts": "2026-07-27T21:10:28+00:00",
+        "postings": 217,
+        "matches": 6
       }
     ]
   },
   "Rubrik": {
     "last_postings": 103,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:52+00:00",
+    "last_run": "2026-07-27T21:10:29+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:24+00:00",
-        "postings": 103,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:52+00:00",
         "postings": 103,
@@ -13458,19 +13453,19 @@
         "ts": "2026-07-27T20:06:52+00:00",
         "postings": 103,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:29+00:00",
+        "postings": 103,
+        "matches": 0
       }
     ]
   },
   "Runway ML": {
     "last_postings": 43,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:53+00:00",
+    "last_run": "2026-07-27T21:10:30+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:24+00:00",
-        "postings": 43,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:53+00:00",
         "postings": 43,
@@ -13585,19 +13580,19 @@
         "ts": "2026-07-27T20:06:53+00:00",
         "postings": 43,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:30+00:00",
+        "postings": 43,
+        "matches": 0
       }
     ]
   },
   "Samsara": {
     "last_postings": 329,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:06:57+00:00",
+    "last_run": "2026-07-27T21:10:36+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:30+00:00",
-        "postings": 326,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:11:58+00:00",
         "postings": 326,
@@ -13712,19 +13707,19 @@
         "ts": "2026-07-27T20:06:57+00:00",
         "postings": 329,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:36+00:00",
+        "postings": 329,
+        "matches": 0
       }
     ]
   },
   "Scale AI": {
     "last_postings": 206,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:06:59+00:00",
+    "last_run": "2026-07-27T21:10:39+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:33+00:00",
-        "postings": 204,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:12:01+00:00",
         "postings": 204,
@@ -13839,19 +13834,19 @@
         "ts": "2026-07-27T20:06:59+00:00",
         "postings": 206,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:10:39+00:00",
+        "postings": 206,
+        "matches": 1
       }
     ]
   },
   "SentinelOne": {
     "last_postings": 222,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:00+00:00",
+    "last_run": "2026-07-27T21:10:40+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:34+00:00",
-        "postings": 229,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:02+00:00",
         "postings": 229,
@@ -13966,19 +13961,19 @@
         "ts": "2026-07-27T20:07:00+00:00",
         "postings": 222,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:40+00:00",
+        "postings": 222,
+        "matches": 0
       }
     ]
   },
   "ServiceNow": {
     "last_postings": 449,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:07:00+00:00",
+    "last_run": "2026-07-27T21:10:40+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:34+00:00",
-        "postings": 452,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:12:02+00:00",
         "postings": 452,
@@ -14093,19 +14088,19 @@
         "ts": "2026-07-27T20:07:00+00:00",
         "postings": 449,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:10:40+00:00",
+        "postings": 449,
+        "matches": 1
       }
     ]
   },
   "Shield AI": {
     "last_postings": 422,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:01+00:00",
+    "last_run": "2026-07-27T21:10:41+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:35+00:00",
-        "postings": 434,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:03+00:00",
         "postings": 434,
@@ -14220,19 +14215,19 @@
         "ts": "2026-07-27T20:07:01+00:00",
         "postings": 422,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:41+00:00",
+        "postings": 422,
+        "matches": 0
       }
     ]
   },
   "Shopify": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:01+00:00",
+    "last_run": "2026-07-27T21:10:41+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:35+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:03+00:00",
         "postings": 0,
@@ -14347,19 +14342,19 @@
         "ts": "2026-07-27T20:07:01+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:41+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "Sierra": {
     "last_postings": 168,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:05+00:00",
+    "last_run": "2026-07-27T21:10:46+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:40+00:00",
-        "postings": 167,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:08+00:00",
         "postings": 167,
@@ -14474,19 +14469,19 @@
         "ts": "2026-07-27T20:07:05+00:00",
         "postings": 168,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:46+00:00",
+        "postings": 168,
+        "matches": 0
       }
     ]
   },
   "Skydio": {
     "last_postings": 109,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:05+00:00",
+    "last_run": "2026-07-27T21:10:47+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:41+00:00",
-        "postings": 111,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:09+00:00",
         "postings": 111,
@@ -14601,19 +14596,19 @@
         "ts": "2026-07-27T20:07:05+00:00",
         "postings": 109,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:47+00:00",
+        "postings": 109,
+        "matches": 0
       }
     ]
   },
   "Snap": {
-    "last_postings": 173,
+    "last_postings": 175,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:06+00:00",
+    "last_run": "2026-07-27T21:10:48+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:42+00:00",
-        "postings": 177,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:10+00:00",
         "postings": 177,
@@ -14728,19 +14723,19 @@
         "ts": "2026-07-27T20:07:06+00:00",
         "postings": 173,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:48+00:00",
+        "postings": 175,
+        "matches": 0
       }
     ]
   },
   "Snowflake": {
     "last_postings": 401,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:07:07+00:00",
+    "last_run": "2026-07-27T21:10:50+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:44+00:00",
-        "postings": 400,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:12:12+00:00",
         "postings": 400,
@@ -14853,6 +14848,11 @@
       },
       {
         "ts": "2026-07-27T20:07:07+00:00",
+        "postings": 401,
+        "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:10:50+00:00",
         "postings": 401,
         "matches": 2
       }
@@ -14861,13 +14861,8 @@
   "Snyk": {
     "last_postings": 18,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:07+00:00",
+    "last_run": "2026-07-27T21:10:50+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:13:44+00:00",
-        "postings": 19,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:12+00:00",
         "postings": 19,
@@ -14982,19 +14977,19 @@
         "ts": "2026-07-27T20:07:07+00:00",
         "postings": 18,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:10:50+00:00",
+        "postings": 18,
+        "matches": 0
       }
     ]
   },
   "SpaceX": {
     "last_postings": 1200,
     "last_matches": 67,
-    "last_run": "2026-07-27T20:07:23+00:00",
+    "last_run": "2026-07-27T21:11:11+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:05+00:00",
-        "postings": 1200,
-        "matches": 66
-      },
       {
         "ts": "2026-07-26T12:12:33+00:00",
         "postings": 1200,
@@ -15109,19 +15104,19 @@
         "ts": "2026-07-27T20:07:23+00:00",
         "postings": 1200,
         "matches": 67
+      },
+      {
+        "ts": "2026-07-27T21:11:11+00:00",
+        "postings": 1200,
+        "matches": 67
       }
     ]
   },
   "Spotify": {
     "last_postings": 106,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:07:23+00:00",
+    "last_run": "2026-07-27T21:11:11+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:05+00:00",
-        "postings": 108,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:12:33+00:00",
         "postings": 108,
@@ -15236,19 +15231,19 @@
         "ts": "2026-07-27T20:07:23+00:00",
         "postings": 106,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:11:11+00:00",
+        "postings": 106,
+        "matches": 0
       }
     ]
   },
   "Stripe": {
-    "last_postings": 534,
+    "last_postings": 533,
     "last_matches": 4,
-    "last_run": "2026-07-27T20:07:29+00:00",
+    "last_run": "2026-07-27T21:11:19+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:14+00:00",
-        "postings": 536,
-        "matches": 4
-      },
       {
         "ts": "2026-07-26T12:12:41+00:00",
         "postings": 536,
@@ -15363,19 +15358,19 @@
         "ts": "2026-07-27T20:07:29+00:00",
         "postings": 534,
         "matches": 4
+      },
+      {
+        "ts": "2026-07-27T21:11:19+00:00",
+        "postings": 533,
+        "matches": 4
       }
     ]
   },
   "Tempus AI": {
     "last_postings": 144,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:08:03+00:00",
+    "last_run": "2026-07-27T21:11:47+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:28+00:00",
-        "postings": 141,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:13:01+00:00",
         "postings": 141,
@@ -15490,19 +15485,19 @@
         "ts": "2026-07-27T20:08:03+00:00",
         "postings": 144,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:11:47+00:00",
+        "postings": 144,
+        "matches": 2
       }
     ]
   },
   "Tesla": {
     "last_postings": 600,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:05+00:00",
+    "last_run": "2026-07-27T21:11:47+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:30+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:03+00:00",
         "postings": 600,
@@ -15617,19 +15612,19 @@
         "ts": "2026-07-27T20:08:05+00:00",
         "postings": 600,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:11:47+00:00",
+        "postings": 600,
+        "matches": 0
       }
     ]
   },
   "Together AI": {
     "last_postings": 58,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:05+00:00",
+    "last_run": "2026-07-27T21:11:48+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:31+00:00",
-        "postings": 58,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:03+00:00",
         "postings": 58,
@@ -15744,19 +15739,19 @@
         "ts": "2026-07-27T20:08:05+00:00",
         "postings": 58,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:11:48+00:00",
+        "postings": 58,
+        "matches": 0
       }
     ]
   },
   "Uber": {
-    "last_postings": 611,
+    "last_postings": 609,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:05+00:00",
+    "last_run": "2026-07-27T21:11:48+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:31+00:00",
-        "postings": 616,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:03+00:00",
         "postings": 616,
@@ -15871,19 +15866,19 @@
         "ts": "2026-07-27T20:08:05+00:00",
         "postings": 611,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:11:48+00:00",
+        "postings": 609,
+        "matches": 0
       }
     ]
   },
   "Veeva Systems": {
     "last_postings": 821,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:08:07+00:00",
+    "last_run": "2026-07-27T21:11:51+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:34+00:00",
-        "postings": 831,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:13:07+00:00",
         "postings": 831,
@@ -15998,19 +15993,19 @@
         "ts": "2026-07-27T20:08:07+00:00",
         "postings": 821,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:11:51+00:00",
+        "postings": 821,
+        "matches": 1
       }
     ]
   },
   "Vercel": {
-    "last_postings": 78,
+    "last_postings": 79,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:08+00:00",
+    "last_run": "2026-07-27T21:11:52+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:35+00:00",
-        "postings": 78,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:08+00:00",
         "postings": 78,
@@ -16125,19 +16120,19 @@
         "ts": "2026-07-27T20:08:08+00:00",
         "postings": 78,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:11:52+00:00",
+        "postings": 79,
+        "matches": 0
       }
     ]
   },
   "Verily": {
     "last_postings": 69,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:29+00:00",
+    "last_run": "2026-07-27T21:12:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:45+00:00",
-        "postings": 69,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:17+00:00",
         "postings": 69,
@@ -16250,6 +16245,11 @@
       },
       {
         "ts": "2026-07-27T20:08:29+00:00",
+        "postings": 69,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:01+00:00",
         "postings": 69,
         "matches": 0
       }
@@ -16258,13 +16258,8 @@
   "Warp": {
     "last_postings": 18,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:29+00:00",
+    "last_run": "2026-07-27T21:12:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:45+00:00",
-        "postings": 18,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:17+00:00",
         "postings": 18,
@@ -16377,6 +16372,11 @@
       },
       {
         "ts": "2026-07-27T20:08:29+00:00",
+        "postings": 18,
+        "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:01+00:00",
         "postings": 18,
         "matches": 0
       }
@@ -16385,13 +16385,8 @@
   "Waymo": {
     "last_postings": 1,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:29+00:00",
+    "last_run": "2026-07-27T21:12:01+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:45+00:00",
-        "postings": 1,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:17+00:00",
         "postings": 1,
@@ -16506,19 +16501,19 @@
         "ts": "2026-07-27T20:08:29+00:00",
         "postings": 1,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:01+00:00",
+        "postings": 1,
+        "matches": 0
       }
     ]
   },
   "Wiz": {
     "last_postings": 139,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:30+00:00",
+    "last_run": "2026-07-27T21:12:02+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:46+00:00",
-        "postings": 141,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:18+00:00",
         "postings": 141,
@@ -16633,19 +16628,19 @@
         "ts": "2026-07-27T20:08:30+00:00",
         "postings": 139,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:02+00:00",
+        "postings": 139,
+        "matches": 0
       }
     ]
   },
   "World Labs": {
     "last_postings": 8,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:30+00:00",
+    "last_run": "2026-07-27T21:12:02+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:46+00:00",
-        "postings": 8,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:18+00:00",
         "postings": 8,
@@ -16760,19 +16755,19 @@
         "ts": "2026-07-27T20:08:30+00:00",
         "postings": 8,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:02+00:00",
+        "postings": 8,
+        "matches": 0
       }
     ]
   },
   "Xaira Therapeutics": {
     "last_postings": 20,
     "last_matches": 2,
-    "last_run": "2026-07-27T20:08:32+00:00",
+    "last_run": "2026-07-27T21:12:05+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:49+00:00",
-        "postings": 19,
-        "matches": 2
-      },
       {
         "ts": "2026-07-26T12:13:21+00:00",
         "postings": 19,
@@ -16887,19 +16882,19 @@
         "ts": "2026-07-27T20:08:32+00:00",
         "postings": 20,
         "matches": 2
+      },
+      {
+        "ts": "2026-07-27T21:12:05+00:00",
+        "postings": 20,
+        "matches": 2
       }
     ]
   },
   "Zillow": {
     "last_postings": 73,
     "last_matches": 1,
-    "last_run": "2026-07-27T20:08:33+00:00",
+    "last_run": "2026-07-27T21:12:06+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:49+00:00",
-        "postings": 74,
-        "matches": 1
-      },
       {
         "ts": "2026-07-26T12:13:21+00:00",
         "postings": 600,
@@ -17014,19 +17009,19 @@
         "ts": "2026-07-27T20:08:33+00:00",
         "postings": 73,
         "matches": 1
+      },
+      {
+        "ts": "2026-07-27T21:12:06+00:00",
+        "postings": 73,
+        "matches": 1
       }
     ]
   },
   "Zocdoc": {
     "last_postings": 54,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:33+00:00",
+    "last_run": "2026-07-27T21:12:06+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:50+00:00",
-        "postings": 55,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:22+00:00",
         "postings": 55,
@@ -17141,19 +17136,19 @@
         "ts": "2026-07-27T20:08:33+00:00",
         "postings": 54,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:06+00:00",
+        "postings": 54,
+        "matches": 0
       }
     ]
   },
   "Zoox": {
     "last_postings": 271,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:34+00:00",
+    "last_run": "2026-07-27T21:12:08+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:52+00:00",
-        "postings": 600,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:35+00:00",
         "postings": 600,
@@ -17268,19 +17263,19 @@
         "ts": "2026-07-27T20:08:34+00:00",
         "postings": 271,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:08+00:00",
+        "postings": 271,
+        "matches": 0
       }
     ]
   },
   "Zscaler": {
     "last_postings": 300,
     "last_matches": 0,
-    "last_run": "2026-07-27T20:08:36+00:00",
+    "last_run": "2026-07-27T21:12:10+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:54+00:00",
-        "postings": 304,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T12:13:37+00:00",
         "postings": 304,
@@ -17395,19 +17390,19 @@
         "ts": "2026-07-27T20:08:36+00:00",
         "postings": 300,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T21:12:10+00:00",
+        "postings": 300,
+        "matches": 0
       }
     ]
   },
   "dbt Labs": {
     "last_postings": 0,
     "last_matches": 0,
-    "last_run": "2026-07-27T19:34:50+00:00",
+    "last_run": "2026-07-27T20:36:31+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T10:36:46+00:00",
-        "postings": 0,
-        "matches": 0
-      },
       {
         "ts": "2026-07-26T11:31:56+00:00",
         "postings": 0,
@@ -17522,19 +17517,19 @@
         "ts": "2026-07-27T19:34:50+00:00",
         "postings": 0,
         "matches": 0
+      },
+      {
+        "ts": "2026-07-27T20:36:31+00:00",
+        "postings": 0,
+        "matches": 0
       }
     ]
   },
   "xAI": {
     "last_postings": 221,
     "last_matches": 5,
-    "last_run": "2026-07-27T20:08:32+00:00",
+    "last_run": "2026-07-27T21:12:05+00:00",
     "history": [
-      {
-        "ts": "2026-07-26T11:14:49+00:00",
-        "postings": 223,
-        "matches": 5
-      },
       {
         "ts": "2026-07-26T12:13:21+00:00",
         "postings": 223,
@@ -17647,6 +17642,11 @@
       },
       {
         "ts": "2026-07-27T20:08:32+00:00",
+        "postings": 221,
+        "matches": 5
+      },
+      {
+        "ts": "2026-07-27T21:12:05+00:00",
         "postings": 221,
         "matches": 5
       }
