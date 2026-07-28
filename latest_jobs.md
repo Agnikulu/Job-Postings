@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-07-28 11:40 UTC  
+**Run timestamp:** 2026-07-28 12:26 UTC  
 **New matches this run:** 0  
 **Location filter:** US-only
 
