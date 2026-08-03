@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-03 19:13 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-08-03 20:05 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Point72 - 1 new (1 technical)
-
-- **[TECH]** [Fundamental Research Fellow, Canvas](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) - *New York, NY*
