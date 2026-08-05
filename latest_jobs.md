@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-04 23:58 UTC  
+**Run timestamp:** 2026-08-05 01:15 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Qualcomm - 1 new (1 technical)
+## Stripe - 1 new (1 technical)
 
-- **[TECH]** [Embedded Software Engineer - Integration](https://www.linkedin.com/jobs/view/4448571493) - *San Diego, CA*
+- **[TECH]** [Software Engineer, Vulnerability Management](https://stripe.com/jobs/search?gh_jid=8089353) - *US - Remote*
