@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-06 03:45 UTC  
+**Run timestamp:** 2026-08-06 05:41 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Zillow - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Machine Learning Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4449342875) - *United States*
+- **[TECH]** [System Software Engineer, UEFI Firmware](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--UEFI-Firmware_JR2022276) - *2 Locations*
