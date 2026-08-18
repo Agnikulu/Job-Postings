@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-18 22:36 UTC  
+**Run timestamp:** 2026-08-18 23:40 UTC  
 **New matches this run:** 2  
 **Location filter:** US-only
 
@@ -8,10 +8,10 @@
 Grouped by company (sorted by match count):
 
 
+## Microsoft - 1 new (1 technical)
+
+- **[TECH]** [Sourcing Engineer](https://apply.careers.microsoft.com/careers/job/1970393556972462) - *Redmond, WA, US*
+
 ## Qualcomm - 1 new (1 technical)
 
-- **[TECH]** [Camera Low Power Engineer](https://www.linkedin.com/jobs/view/4454912259) - *San Diego, CA*
-
-## xAI - 1 new (1 technical)
-
-- **[TECH]** [OSP Engineer](https://job-boards.greenhouse.io/xai/jobs/5215570007) - *Memphis, Tennessee; Southaven, Mississippi*
+- **[TECH]** [Engineer, Machine Learning (On-Device Software)](https://www.linkedin.com/jobs/view/4454794764) - *San Diego, CA*
