@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-19 18:42 UTC  
+**Run timestamp:** 2026-08-19 19:40 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Microsoft - 1 new (1 technical)
+## Point72 - 1 new (1 technical)
 
-- **[TECH]** [Design Verification Engineer](https://apply.careers.microsoft.com/careers/job/1970393556962661) - *Mountain View, CA, US*
+- **[TECH]** [2027 Cubist Quant Academy ? Developers](https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002) - *New York*
