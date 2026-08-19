@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-19 21:43 UTC  
+**Run timestamp:** 2026-08-19 22:38 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Microsoft - 1 new (1 technical)
+## Mercor - 1 new (1 technical)
 
-- **[TECH]** [Quantum Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556972166) - *Redmond, WA, US*
+- **[TECH]** [Software Engineer, Platform](https://jobs.ashbyhq.com/mercor/cb67851b-0269-4cf5-996c-34c3a88a19c8) - *San Francisco*
