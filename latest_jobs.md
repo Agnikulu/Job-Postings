@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-19 15:49 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-08-19 16:44 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Qualcomm - 1 new (1 technical)
-
-- **[TECH]** [Computer Vision System Engineer](https://www.linkedin.com/jobs/view/4455411653) - *San Diego, CA*
