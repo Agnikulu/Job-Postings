@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-22 21:37 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-08-22 22:35 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Qualcomm - 1 new (1 technical)
-
-- **[TECH]** [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4456679140) - *San Diego, CA*
