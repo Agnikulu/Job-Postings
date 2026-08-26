@@ -3,6 +3,16 @@
 Applies the same criteria used in prior manual Cursor labeling sessions:
   include ONLY if BOTH early-career AND technical (SWE/ML/DS/quant/firmware/embedded/hardware).
 
+NOT GROUND TRUTH: `manual_judge()` below imports and calls regex primitives
+directly from `filters.py` (DOMAIN, TARGET, is_obvious_reject, _MTS_TITLE,
+WEAK_EARLY_CAREER_SIGNALS, etc.) — the same module the classifier under
+test is built from. Scoring the classifier against this judge is circular
+and will overstate agreement. This is a cheap deterministic smoke-test
+fallback only (for quick dry runs with no LLM API key). Never use its
+output to produce or update `testing/eval/eval_gold.jsonl` or
+`testing/eval/eval_baseline.json` — those must come from labeling that is
+independent of filters.py (see `testing/eval/RUBRIC.md`).
+
 Usage:
     python _rigorous_manual_label.py
     python _cursor_manual_eval.py score

@@ -1,9 +1,10 @@
 {
-  "precision": 0.6636,
-  "recall": 0.7933,
-  "tp": 499,
-  "fp": 253,
-  "fn": 130,
-  "tn": 25002,
-  "note": "Floor for regression: neither metric may drop more than 0.005 below these values. Eval uses us_only=True (production-aligned) with drop_interns=False/swe_only=False so it measures raw classifier quality, not scope filtering. Refreshed 2026-06-27: prior baseline (P=0.529, R=0.95) became stale as upstream regex changes tightened the classifier; this snapshot reflects current main."
+  "precision": 0.75,
+  "recall": 0.9524,
+  "tp": 60,
+  "fp": 20,
+  "fn": 3,
+  "tn": 401,
+  "gold_set_size": 484,
+  "note": "Floor for regression against testing/eval/eval_gold.jsonl (484 rows, independently hand-labeled per testing/eval/RUBRIC.md, not derived from filters.py). Eval uses classify_job_fields(us_only=False, drop_interns=False, swe_only=False) so it measures raw classifier quality, not scope filtering (matches tests/test_eval_regression.py). Precision is well-measured: the gold set includes essentially every regex-positive job found while sampling ~6,700 live postings across 128 companies (two fetch rounds). Recall is NOT well-measured in general (sample is stratified toward regex-positive/hard-exclude categories, not random) - the 3 known FNs are all SpaceX mechanical/electrical/automation-controls titles, a genuine rubric-boundary tension over how broadly 'hardware engineering' should be read for physical/mechanical roles vs. chip/software hardware; documented as xfail, not patched (would require a company-specific carve-out). History: round 1 (226 rows) went P=0.5273 -> 0.8056 after a first regex-logic-bug pass. Round 2 expanded to 484 rows (fresh, larger fetch), which re-exposed real gaps: P=0.6250 -> 0.7143 after a second bug pass (design/sales-engineering/support/sales-ops titles, one regex \\b-boundary bug). Round 3 (same day) fixed a further scoped gap: _is_experienced_research_ic() only respected a 3+-year senior-experience bar for research-track titles (Data Scientist/Quantitative Researcher/etc.) - extended it to also respect an explicit 2+-year bar via the existing _BACHELORS_PLUS_YEARS pattern (narrowly scoped to research titles only, not a global threshold change - the global 3+ threshold used elsewhere was deliberately left alone given its broader blast radius), plus added a bare 'Financial Analyst' exclusion - P moved to 0.75. All three rounds' fixes were verified against the full 561-title production corpus after every change with zero unintended side effects. 23 of 484 rows remain xfail: 3 FN (the SpaceX hardware-scope tension above), 20 FP split across genuine rubric-boundary ambiguity, one identified-but-deliberately-unfixed case (a 'recent graduate... minimum of 3 years experience' posting where effective_strong_ec()'s recent-graduate override beats a real detected senior bar - fixing this touches a centrally-used function with meaningfully higher regression risk than the scoped fixes above, left for a dedicated pass), cases needing real NLP (comparative/scoping marketing language, e.g. 'this role will manage entry-level engineers' triggering a bare 'entry-level' keyword match), data-quality artifacts (non-real postings, a concatenated dual-posting description), and a few with no signal in either direction. Prior superseded baselines: P=0.6636/R=0.7933 (2026-06-27, against a now-nonexistent corpus, never actually verified by a running test); round-1's P=0.5273/0.8056 and round-2's P=0.6250/0.7143 (both superseded by this round)."
 }

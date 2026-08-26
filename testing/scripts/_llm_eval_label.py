@@ -6,6 +6,16 @@ early-career technical rubric. Supports:
   - Anthropic API (ANTHROPIC_API_KEY) for claude structured labels
   - Fallback: enhanced deterministic judge (comprehensive_judge)
 
+NOT GROUND TRUTH when no API key is set: the `comprehensive_judge()`
+fallback below calls `manual_judge()` from `_rigorous_manual_label.py`,
+which itself reuses regex primitives from `filters.py` — the module under
+test. Only the OpenAI/Anthropic API path is an independent judge. Neither
+path should be used to update `testing/eval/eval_gold.jsonl` /
+`eval_baseline.json` — those are hand-labeled directly against
+`testing/eval/RUBRIC.md`, independent of both this script and filters.py.
+This script remains useful for the large, non-committed "extended audit"
+corpus (see testing/README.md) and for quick local dry runs.
+
 Usage:
   python testing/scripts/_llm_eval_label.py label
   python testing/scripts/_llm_eval_label.py export-batches --size 50

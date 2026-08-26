@@ -108,7 +108,7 @@ DESC_STRONG_EC = re.compile(
     r"expected\s+graduation|"
     r"class\s+of\s+20[2-9][0-9]|"
     r"graduate\s+20[2-9][0-9]|"
-    r"intern(ship)?(?:\s+experience|\s+program)?|"
+    r"(?<!post-)(?<!post\s)intern(ship)?(?:\s+experience|\s+program)?|"
     r"internship\s+program|"
     r"fellows?\s+program|"
     r"fellowship|"
@@ -202,13 +202,32 @@ _YEAR_RANGE_EC = re.compile(
     re.IGNORECASE,
 )
 
-_EARLY_YEARS_EC = re.compile(
+# Unambiguous entry-level bar (0 or 1 year, bounded) - counts as EC on its
+# own, no further corroboration needed.
+_ZERO_ONE_YEAR_EC = re.compile(
     r"\b("
     r"(?:minimum\s+of\s+)?(?:0|1)\s+years?(?:\s+of)?(?:\s+experience)?|"
-    r"(?:minimum\s+of\s+)?2\s*\+\s*years?(?:['\u2019]s?)?(?:\s+of)?(?:\s+experience)?|"
-    r"2\s*\+\s*years?(?:\s+of)?(?:\s+experience)?|"
     r"1\s*\+\s*years?\s+(?:of\s+)?(?:work\s+)?experience"
     r")\b",
+    re.IGNORECASE,
+)
+
+# Open-ended "2+ years" floor - ambiguous on its own (a bare "2+ years
+# required, no new-grad framing" is, in practice, usually a signal the role
+# is *not* aimed at new grads, even though 2 years is a low bar). Only
+# counts as EC when corroborated elsewhere (ec_friendly_header, a
+# research/mobile title, or the SpaceX-style in-lieu-of-degree pattern) -
+# see qualifying_early_years().
+_TWO_PLUS_YEAR_EC = re.compile(
+    r"\b("
+    r"(?:minimum\s+of\s+)?2\s*\+\s*years?(?:['\u2019]s?)?(?:\s+of)?(?:\s+experience)?|"
+    r"2\s*\+\s*years?(?:\s+of)?(?:\s+experience)?"
+    r")\b",
+    re.IGNORECASE,
+)
+
+_EARLY_YEARS_EC = re.compile(
+    _ZERO_ONE_YEAR_EC.pattern + "|" + _TWO_PLUS_YEAR_EC.pattern,
     re.IGNORECASE,
 )
 
@@ -216,6 +235,18 @@ _EC_FRIENDLY_REQ_HEADER = re.compile(
     r"^(?:(?:your\s+)?ideal\s+\w+(?:\s+\w+){0,4}\s+will\s+have|"
     r"what you should have|what you bring(?: to the team)?|what you have|"
     r"minimum\s+qualifications?)\b",
+    re.IGNORECASE,
+)
+
+# Stricter than _EC_FRIENDLY_REQ_HEADER: excludes "Minimum Qualifications" -
+# that phrase is a near-universal section title on entry-level *and* senior
+# postings alike, so it isn't real evidence of EC-friendliness on its own.
+# Used to gate the ambiguous open-ended "2+ years" bar, where a header this
+# generic would otherwise wave through almost any posting that happens to
+# mention "2+ years" (see qualifying_early_years()).
+_STRONG_EC_FRIENDLY_HEADER = re.compile(
+    r"^(?:(?:your\s+)?ideal\s+\w+(?:\s+\w+){0,4}\s+will\s+have|"
+    r"what you should have|what you bring(?: to the team)?|what you have)\b",
     re.IGNORECASE,
 )
 
@@ -530,16 +561,38 @@ def qualifying_early_years(
 ) -> bool:
     """Low years-of-experience bars that count as EC only in friendly contexts."""
     title_text = title or ""
-    if text and _SOFTWARE_FAMILY_TITLE.search(title_text):
-        if _EARLY_YEARS_EC.search(text) or _SPACEX_CREDENTIAL_BAR.search(text):
+    # Only the "in lieu of a degree" / "including internship" credential-bar
+    # phrasing is unconditionally EC-friendly here (SpaceX-style postings).
+    # A bare "2+ years" mention used to get the same unconditional pass for
+    # *any* "software engineer"-flavored title (the qualifier prefix in
+    # _SOFTWARE_FAMILY_TITLE is optional, so it matches virtually every SWE
+    # title) - that silently treated "2+ years required, no new-grad
+    # framing" as early-career for any company, not just SpaceX's actual
+    # no-degree-alternate-path postings. Real "2+ years, no other EC cue"
+    # postings should fall through to the same header-gated check as
+    # everything else below.
+    if text and _SOFTWARE_FAMILY_TITLE.search(title_text) and _SPACEX_CREDENTIAL_BAR.search(text):
+        return True
+    if not text:
+        return False
+    # 0-1 years is a safer, more clearly entry-level bar - same
+    # research/mobile-title-or-header gating as before this split existed.
+    if _ZERO_ONE_YEAR_EC.search(text):
+        if _RESEARCH_TITLE.search(title_text) or _MOBILE_ENGINEER_TITLE.search(title_text):
             return True
-    if not text or not _EARLY_YEARS_EC.search(text):
+        return ec_friendly_header
+    # A bare "2+ years" floor is ambiguous (see comment above) and, unlike
+    # the 0-1yr case, is *not* granted by a generic requirements header -
+    # "Minimum Qualifications:" is a near-universal section title that
+    # doesn't actually signal early-career on its own; only a
+    # research/mobile-engineer title corroborates it.
+    if not _TWO_PLUS_YEAR_EC.search(text):
         return False
     if _RESEARCH_TITLE.search(title_text):
         return True
     if _MOBILE_ENGINEER_TITLE.search(title_text):
         return True
-    return ec_friendly_header
+    return False
 
 
 def ec_friendly_requirements_header(requirements_text: str | None) -> bool:

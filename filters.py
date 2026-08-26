@@ -35,7 +35,7 @@ ConfidenceLevel = Literal["high_include", "high_exclude", "borderline"]
 
 TARGET = re.compile(
     r"\b("
-    r"intern(ship)?|co-?op|new[\s-]?grad(uate)?|new\s+college\s+grad|"
+    r"(?<!post-)(?<!post\s)intern(ship)?|co-?op|new[\s-]?grad(uate)?|new\s+college\s+grad|"
     r"university\s+graduate|"
     r"early[\s-]career(?:s)?|entry[\s-]level|campus|"
     r"apprentice|trainee|recent\s+graduate|"
@@ -200,6 +200,17 @@ _EXPERT_FELLOWSHIP = re.compile(
     re.IGNORECASE,
 )
 
+# "___ in Residence" / research-residency programs explicitly framed as a
+# postdoc-equivalent - "resident(cy)" alone is an EC-positive title cue
+# elsewhere in this module, but some companies use it for programs that are
+# explicitly *not* aimed at new grads (e.g. "an industry alternative to a
+# traditional postdoctoral position"). Description-level, company-agnostic.
+_POSTDOC_EQUIVALENT_PROGRAM = re.compile(
+    r"\b(?:alternative\s+to\s+a\s+(?:traditional\s+)?postdoc(?:toral)?(?:\s+position)?|"
+    r"industry\s+postdoc(?:toral)?)\b",
+    re.IGNORECASE,
+)
+
 _SENIOR_POST_TRAINING_TITLE = re.compile(
     r"\b(?:research\s+scientist|research\s+engineer|member\s+of\s+technical\s+staff|\bmts\b)\b",
     re.IGNORECASE,
@@ -294,8 +305,8 @@ _AI_RESEARCH_FELLOWSHIP = re.compile(
 _CUSTOMER_FACING_ENG = re.compile(
     r"\b(?:"
     r"field\s+engineer|forward\s+deployed\s+engineer|solutions?\s+engineer|"
-    r"technical\s+support\s+engineer|"
-    r"pre[\s-]?sales\s+engineer|customer\s+success\s+engineer|"
+    r"(?:technical\s+)?support\s+engineer|"
+    r"(?:pre[\s-]?)?sales\s+engineer|customer\s+success\s+engineer|"
     r"implementation\s+lead"
     r")\b",
     re.IGNORECASE,
@@ -309,7 +320,8 @@ _MTS_NON_IC = re.compile(
 _FINANCE_TRADER = re.compile(
     r"\b(?:"
     r"(?:prediction\s+markets|options|equity|fixed\s+income)\s+trader|"
-    r"trader(?!\s+(?:system|engineer|developer|software))"
+    r"trader(?!\s+(?:system|engineer|developer|software))|"
+    r"(?:quantitative\s+)?trading\s+analyst"
     r")\b",
     re.IGNORECASE,
 )
@@ -459,15 +471,24 @@ _OBVIOUS_NON_TECH = re.compile(
     r"(?:marketing|sales|account)\s+(?:intern|manager|director|coordinator|"
     r"representative|specialist)|"
     r"business\s+development\s+representative|"
-    r"(?:strategic\s+)?sales\s+development\s+representative|"
+    r"(?:strategic\s+)?sales\s+development\s+(?:representative|leader|manager)|"
     r"(?:enterprise|commercial|inside|field)\s+sales\s+(?:manager|representative|intern)|"
     r"account\s+executive|solutions\s+consultant|"
     r"customer\s+success\s+(?:manager|associate|specialist)|"
+    r"\b(?:sdr|bdr)\b|"
+    r"account\s+development\s+representative|"
+    r"sales\s+ops(?:erations)?\s+(?:coordinator|associate|specialist)?|"
+    # Design (UX/product design - not software/ML/hardware engineering).
+    r"(?:product|ux|ui)\s+designer|"
+    # Business-track internship functions (strategy, non-eng program mgmt).
+    r"strategy\s+intern|"
+    r"(?:operations|business)\s+program\s+management(?:\s+intern)?|"
     # Legal / finance / admin
     r"legal\s+(?:counsel|intern)|"
     r"(?:corporate|tax|financial)\s+accountant|"
     r"paralegal|"
     r"(?:finance|accounting|treasury)\s+(?:intern|analyst(?!\s+engineer)|associate)|"
+    r"financial\s+analyst|"
     # Project / program management (non-eng)
     r"program\s+manager(?!\s+(?:technical|engineering))|"
     r"project\s+manager|"
@@ -484,6 +505,21 @@ _OBVIOUS_NON_TECH = re.compile(
     r"network\s+operations\s+(?:center\s+)?(?:technician|engineer|specialist)|"
     r"lab\s+technician|laboratory\s+technician|"
     r"manufacturing\s+technician|production\s+technician|quality\s+technician|"
+    # Facilities / building / industrial-process engineering (physical
+    # plant, HVAC, chemical/manufacturing process - not software or chip
+    # hardware, even though the title says "engineer").
+    r"facilities\s+(?:engineer|technician|associate\s+engineer)|"
+    r"(?:hvac|building\s+(?:systems|automation))\s+(?:engineer|technician)|"
+    r"mechanical\s+design\s+engineer|chemical\s+process\s+engineer|"
+    r"industrial\s+process\s+engineer|"
+    r"operations\s+engineer.*(?:physical\s+infrastructure|facility\s+operations)|"
+    # Business rotational / leadership-development programs (non-eng track).
+    r"(?:leadership|rotational)\s+(?:rotation\s+)?(?:program|network)|"
+    # People/HR operations.
+    r"people\s+operations|people\s+ops|"
+    # Tiered product/platform customer support (not build/engineering work).
+    r"(?:product|platform|application)\s+support\s+(?:analyst|specialist)|"
+    r"platform\s+support(?!\s+engineer)|"
     # Legal / admin / sales (unambiguous non-engineering)
     r"\bcounsel\b|"
     r"founder'?s?\s+office|"
@@ -777,12 +813,22 @@ def _title_has_research_ec_marker(title: str) -> bool:
     return bool(_RESEARCH_EC_TITLE_MARKER.search(title))
 
 
-def _is_experienced_research_ic(title: str, desc_sig: DescriptionSignals) -> bool:
+def _is_experienced_research_ic(title: str, desc_sig: DescriptionSignals, positive: str = "") -> bool:
     if not _RESEARCH_EC_TITLE.search(title):
         return False
     if _title_has_research_ec_marker(title):
         return False
-    return bool(desc_sig.has_senior_exp or desc_sig.has_min_years_req)
+    # has_senior_exp/has_min_years_req only trigger at 3+ years. For
+    # research-track titles specifically (already narrowed above - not a
+    # blanket change to every SWE title), also respect an explicit 2+
+    # years bar: finance/quant "Researcher" postings routinely gate on
+    # "2+ years research experience" with no new-grad framing, and that's
+    # a real senior signal this title family shouldn't get a pass on.
+    return bool(
+        desc_sig.has_senior_exp
+        or desc_sig.has_min_years_req
+        or _BACHELORS_PLUS_YEARS.search(positive)
+    )
 
 
 def _is_experienced_physical_design_ic(
@@ -1029,11 +1075,11 @@ def classify_title_confidence(
     if is_hard_experienced_ladder(title_text):
         return TitleConfidence("high_exclude", True, "experienced level title")
 
-    if is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text):
-        return TitleConfidence("high_exclude", True, "experienced level title")
-
     if _is_expert_fellowship(title_text, description):
         return TitleConfidence("high_exclude", False, "expert fellowship")
+
+    if description and _POSTDOC_EQUIVALENT_PROGRAM.search(description):
+        return TitleConfidence("high_exclude", False, "postdoc-equivalent program")
 
     if _OBVIOUS_SENIOR.search(title_text) and not re.search(
         r"\bintern(ship)?\b", title_text, re.IGNORECASE
@@ -1112,7 +1158,7 @@ def classify_title_confidence(
     if _is_experienced_physical_design_ic(title_text, desc_sig, positive_text):
         return TitleConfidence("high_exclude", True, "experienced hardware ic")
 
-    if _is_experienced_research_ic(title_text, desc_sig):
+    if _is_experienced_research_ic(title_text, desc_sig, positive_text):
         return TitleConfidence("high_exclude", True, "experienced research role")
 
     _ec_friendly_header = ec_friendly_requirements_header(desc_sig.requirements_text)
@@ -1128,12 +1174,6 @@ def classify_title_confidence(
         or (_early_years and not _is_open_level_ic_title(title_text))
     )
     has_weak = bool(WEAK_EARLY_CAREER_SIGNALS.search(positive_text))
-
-    if is_hard_experienced_ladder(title_text):
-        return TitleConfidence("high_exclude", True, "experienced level title")
-
-    if is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text):
-        return TitleConfidence("high_exclude", True, "experienced level title")
 
     if _MTS_TITLE.search(title_text) and not re.search(
         r"\bintern(ship)?\b", title_text, re.IGNORECASE
@@ -1184,15 +1224,6 @@ def classify_title_confidence(
         return TitleConfidence("high_exclude", True, "minimum experience required")
 
     if has_target and is_tech:
-        if is_experienced_level_title(title_text) and not has_explicit_ec_title(title_text):
-            if not (_strong_ec(desc_sig) and qualifying_early_years(
-                positive_text,
-                title_text,
-                ec_friendly_header=ec_friendly_requirements_header(
-                    desc_sig.requirements_text
-                ),
-            )):
-                return TitleConfidence("high_exclude", True, "experienced level title")
         if not (
             title_tech
             or _strong_ec(desc_sig)

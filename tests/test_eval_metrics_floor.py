@@ -1,4 +1,13 @@
-"""Ensure full-corpus eval metrics do not regress vs eval_baseline.json."""
+"""Ensure classifier precision/recall on the hand-labeled gold set do not
+regress vs eval_baseline.json.
+
+See testing/eval/RUBRIC.md and testing/README.md for how eval_gold.jsonl is
+produced (independently hand-labeled, not derived from filters.py) and
+eval_baseline.json's `note` field for why recall on this set is a
+regression-only signal, not a true production recall estimate - the gold
+set is stratified toward regex-positive and known-hard-exclude categories,
+not randomly sampled.
+"""
 
 from __future__ import annotations
 
@@ -13,8 +22,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from classifier import classify_job_fields
 
 EVAL = Path(__file__).resolve().parent.parent / "testing" / "eval"
+GOLD_PATH = EVAL / "eval_gold.jsonl"
 BASELINE_PATH = EVAL / "eval_baseline.json"
-FLOOR_DELTA = 0.005
+
+# Gold set is ~226 rows, not ~25k - a single case flipping moves precision/
+# recall by a few points, so the regression floor needs more slack than the
+# old 0.005 delta (tuned for a much larger corpus).
+FLOOR_DELTA = 0.03
 
 
 def _load_baseline() -> dict:
@@ -24,38 +38,28 @@ def _load_baseline() -> dict:
 
 
 def test_eval_metrics_not_below_baseline() -> None:
-    jobs_path = EVAL / "cursor_eval_jobs.jsonl"
-    labels_path = EVAL / "cursor_eval_labels.jsonl"
-    if not jobs_path.exists() or not labels_path.exists():
-        pytest.skip("eval corpus not present")
+    if not GOLD_PATH.exists():
+        pytest.skip("eval gold set not present")
 
-    labels = {
-        json.loads(line)["url"]: json.loads(line)
-        for line in labels_path.read_text(encoding="utf-8").splitlines()
-        if line.strip()
-    }
     tp = fp = fn = 0
-    for line in jobs_path.read_text(encoding="utf-8").splitlines():
+    for line in GOLD_PATH.read_text(encoding="utf-8").splitlines():
         if not line.strip():
             continue
         job = json.loads(line)
-        lab = labels.get(job["url"])
-        if not lab:
-            continue
         result = classify_job_fields(
             company=job.get("company", ""),
             title=job.get("title", ""),
             location=job.get("location"),
             url=job.get("url"),
             description=job.get("description"),
-            us_only=True,
+            us_only=False,
             # Baseline metrics measure raw classifier output; opt out of
-            # the new scope toggles (intern drop, SWE-only narrowing).
+            # the scope toggles (intern drop, SWE-only narrowing).
             drop_interns=False,
             swe_only=False,
         )
         predicted = result.include
-        expected = bool(lab["manual_include"])
+        expected = bool(job["expected_include"])
         if predicted and expected:
             tp += 1
         elif predicted and not expected:

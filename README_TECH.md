@@ -192,23 +192,64 @@ Discord alerts only fire for **new** URLs (not already in `seen_jobs.json`). Aft
 
 ### Manual eval vs regex (`testing/eval/`)
 
-Hand-labeled corpus: `cursor_eval_jobs.jsonl` + `cursor_eval_labels.jsonl` (~25k URLs). Classifier changes are tuned against **precision on regex-positive** rows (TP/(TP+FP)), not accuracy (most rows are true negatives).
+**Authoritative accuracy set:** `testing/eval/eval_gold.jsonl` (484 rows) — independently hand-labeled against `testing/eval/RUBRIC.md`, real postings fetched live across 128 companies and every non-LinkedIn ATS type (two fetch rounds, ~6,700 postings sampled total), stratified toward regex-positive and known-hard-boundary categories (MTS, cohort-branded ladder titles, post-training research, associate titles, forward-deployed engineer, open-level IC, SpaceX-style titles, physical design/network engineer) plus a baseline sample of easy cases. Labeling never imports from `filters.py`/`description_signals.py` — see the **Governance** note below for why that independence matters.
 
-**Production-aligned scoring:** `rescore` and `score` call `classify_job_fields(..., us_only=True)` — same US location gate as live Discord alerts. Eval metrics below use that gate.
+| Metric (`eval_gold.jsonl`, 484 rows) | Value |
+|---------------------------------------|-------|
+| Precision (regex+) | **75.0%** (60 TP / 80 regex-positive) |
+| Recall | **95.2%** (measurement caveat below) |
+| FP / FN | 20 / 3 |
 
-| Metric (full labeled corpus) | Value |
-|------------------------------|-------|
-| Precision (regex+) | **52.9%** (399 TP / 754 includes) |
-| Recall | **95.0%** (399 / 420 manual includes) |
-| FP / FN | 355 / 21 |
+Precision here is well-measured — the gold set includes essentially every regex-positive job found while sampling ~6,700 live postings. **Recall is not well-measured in general** (see caveat below), but this larger round did surface 3 real false negatives — all SpaceX mechanical/electrical/automation-controls titles, a genuine rubric-boundary tension over how broadly "hardware engineering" should be read for physical/mechanical roles vs. chip/software hardware; documented as `xfail`, not patched, since narrowing that call either way risks being a SpaceX-specific overfit rather than a general fix. The sample still deliberately concentrates on regex-positive and known-hard-exclude categories rather than randomly sampling the huge "obvious reject" population, so treat the recall floor as a regression tripwire on this specific set, not a production recall estimate. Full detail in `testing/eval/eval_baseline.json`'s `note` field, including the full history of all three rounds' numbers.
 
-Floors are locked in `testing/eval/eval_baseline.json`; CI-style check:
+Floor + regression checks (both run in CI on every PR/push touching `**.py` — `.github/workflows/tests.yml`):
 
 ```bash
-pytest tests/test_eval_metrics_floor.py -q   # ~2 min, full corpus
+pytest tests/test_eval_metrics_floor.py -q   # aggregate precision/recall vs eval_baseline.json
+pytest tests/test_eval_regression.py -q      # per-case checks against eval_gold.jsonl
 ```
 
-**Regression guards:** `testing/eval/eval_gold.jsonl` (must-keep include/exclude cases) + `pytest tests/test_eval_regression.py -q`.
+27 of the 484 gold cases are marked `xfail` — known, currently-unfixed disagreements between the classifier and the gold label, documented in-line (`xfail_note` field) rather than swept under the rug. Each is one of: a genuine rubric-boundary ambiguity (bounded "1-3 year" ranges, quant-research YOE bars, the SpaceX hardware-scope question above), a case that needs real NLP to fix safely (marketing/comparative language like "most early-career roles do X, but this one..." triggering a bare keyword match), a data-quality artifact (a non-real talent-network signup page; a description that appears to concatenate two unrelated postings), or a case with no signal in either direction.
+
+#### Regex logic review, round 3 (2026-08-26)
+
+A further pass over the round-2 `xfail` list found one more scoped, safe fix and one deliberately-skipped case worth documenting:
+
+- **`_is_experienced_research_ic()` only checked the 3+-year signals** (`has_senior_exp`/`has_min_years_req`). Finance/quant "Researcher" postings (Point72/Cubist-style) routinely gate on "2+ years research experience" with no new-grad framing — extended the check to also respect `_BACHELORS_PLUS_YEARS` (an existing 2-9-year pattern already used elsewhere), scoped narrowly to research-track titles that already lack an explicit EC marker. This is deliberately *not* a change to the general 3+-year threshold used throughout the rest of `classify_title_confidence()` — that threshold gates many other branches and carries more regression risk than this narrow, single-function extension.
+- **Bare "Financial Analyst"** added to `_OBVIOUS_NON_TECH` (finance domain, not technical, even at a low YOE bar).
+- **Deliberately not fixed**: a Broadcom posting phrased "recent graduate with a minimum of 3 years of experience" is correctly detected as having a real 3-year bar (`has_min_years_req=True`), but `effective_strong_ec()`'s design lets a genuine EC keyword ("recent graduate") survive even next to a senior bar, by design — here that override is arguably being gamed rather than serving its purpose, but `effective_strong_ec()` is used broadly enough throughout the classifier that a targeted change carries real risk of unintended side effects elsewhere. Left as a documented gap for a dedicated, carefully-tested pass rather than a same-session patch.
+
+Both fixes verified against the full 561-title production corpus with zero unintended side effects.
+
+#### Regex logic review, round 2 (2026-08-26)
+
+Growing the gold set from 226 to 484 rows (a fresh, larger fetch — per-company cap raised from 20 to 45) surfaced real gaps the smaller set had missed: precision on the combined set started at 62.5% before any fixes. A second pass found and fixed more general, non-eval-specific gaps, again verified against the full 561-title production corpus afterward (7 titles changed, all correct — including 5 previously-mislabeled "Associate Sales Engineer" titles the smaller gold set never happened to sample):
+
+- **Design roles**: `_OBVIOUS_NON_TECH` didn't cover "Product/UX/UI Designer" — UX work, not software/ML/hardware engineering per the rubric, but the generic "Designer" + tech-company DOMAIN context let it through.
+- **Sales-engineering and support titles**: `_CUSTOMER_FACING_ENG` only caught "pre-sales engineer" and "technical support engineer" — broadened to bare "sales engineer" and bare "support engineer" (both customer-facing, not build roles).
+- **Sales-ops/SDR/BDR/account-development titles**: `_OBVIOUS_NON_TECH` had "sales development representative" but not the bare acronyms ("SDR"/"BDR"), "sales ops", or "account development representative".
+- **Non-engineering internship functions**: added "strategy intern" and "(business/operations) program management" — business-track internships that were passing through because "intern" itself is a strong EC signal, regardless of function.
+- **A regex boundary bug**: a new facility-operations exclusion pattern silently never matched anything, because it ended on a literal `)` inside a group wrapped in `\b(...)\b` — a closing paren isn't a word character, so the trailing `\b` failed at end-of-string. Rewrote to end the match on a word character instead. Worth knowing as a general lesson for any future addition to that pattern: don't end an alternative on punctuation.
+
+**Not fixed, deliberately**: the SpaceX mechanical/electrical/automation-controls scope question (3 FN) and several Point72 finance-research roles requiring "2+ years" with no explicit new-grad marker — the latter would need lowering the general senior-experience-detection threshold from 3+ to 2+ years, which gates several other hard-exclude branches throughout `classify_title_confidence()` and carries more regression risk than the narrower, already-applied fix to `qualifying_early_years()`'s specific EC-inclusion path. Worth a dedicated, carefully-tested pass on its own rather than folding into this one.
+
+#### Regex logic review, round 1 (2026-08-26)
+
+A pass over `filters.py`/`description_signals.py` against the 26 initial false positives found several **general, non-eval-specific** bugs — verified by re-running the fix against the full 561-title production corpus (`jobs_archive.json`) afterward, where exactly one title's classification changed (a `Platform Support` role, correctly flipped to excluded) out of 1,683 title+description combinations. Fixed:
+
+- **`_SOFTWARE_FAMILY_TITLE` over-broad bypass**: its qualifier prefix (`application|embedded|ai|backend|...`) was optional, so it matched *any* title containing "software engineer" — combined with `_EARLY_YEARS_EC`, this treated a bare "2+ years required, no new-grad framing" as early-career for any company's SWE posting, not just SpaceX's actual no-degree-alternate-path listings it was written for.
+- **"2+ years" vs "0-1 years" conflation**: both were treated as equally EC-friendly. Split into two tiers — 0-1 years counts on its own; an open-ended "2+ years" floor (as opposed to a bounded "0-2"/"1-3" range) now requires corroboration (a research/mobile-engineer title) and is no longer granted by the generic "Minimum Qualifications:" header, which is a near-universal section title on entry-level *and* senior postings alike and isn't real evidence of anything.
+- **"post-internship" substring bug**: `intern(ship)?` matched as a bare substring inside "post-internship" (meaning *after* an internship, i.e. the opposite signal) in both `DESC_STRONG_EC` and `TARGET`. Fixed with a negative lookbehind.
+- **Non-technical vocabulary gaps**: `_OBVIOUS_NON_TECH` didn't cover facilities/HVAC/building engineering, mechanical-design/chemical-process engineering, business rotational programs, people-ops/HR, or tiered product/platform support — all "Engineer"/"Analyst"-titled roles that pass `DOMAIN`'s generic keyword match but aren't software/hardware build roles.
+- **Finance trading roles**: `_FINANCE_TRADER` caught "trader" but not "(quantitative) trading analyst".
+- **Postdoc-equivalent "in residence" programs**: added a description-level check for "alternative to a...postdoctoral position" phrasing — "resident(cy)" alone is an EC-positive title cue elsewhere in the module, but some companies use "___ in Residence" for programs explicitly *not* aimed at new grads.
+- Also removed genuinely dead code: `is_hard_experienced_ladder()`'s pattern was a bare alias of `is_experienced_level_title()`'s, making three copies of a follow-up guard unreachable (verified via a before/after diff across all 561 production titles — zero behavior change from deleting them).
+
+**Not fixed, deliberately** (the round-1 gold set's 7 remaining `xfail` rows at the time): rubric-boundary judgment calls and cases needing real natural-language understanding weren't patched with narrow regexes, since a fix that only resolves one company's specific wording is overfitting to this eval sample rather than a generalizable improvement.
+
+**Governance — what counts as ground truth:** `testing/scripts/_rigorous_manual_label.py`'s `manual_judge()` (the deterministic fallback used by `_cursor_manual_eval.py`/`_llm_eval_label.py` when no LLM API key is set) imports regex primitives directly from `filters.py`. Scoring the classifier against that fallback is circular — it was inflating apparent agreement for anyone running eval locally without an API key. That fallback remains a fine cheap smoke-test, but its output must never be used to update `eval_gold.jsonl` or `eval_baseline.json`. Only labeling done independently against `RUBRIC.md` (by hand, or a genuine external LLM API pass) may update those files.
+
+The old `~25k-row cursor_eval_jobs.jsonl` corpus is gitignored and doesn't exist in a fresh checkout — `test_eval_metrics_floor.py` used to silently skip against it. That fetch-full/label pipeline (`testing/scripts/_cursor_manual_eval.py fetch-full` + `_llm_eval_label.py label`) still works as an optional, larger, non-committed "extended audit" — useful before a major regex overhaul — but it is no longer the accuracy claim and isn't required for CI.
 
 **Recent safe precision rules** (in `filters.py`, recall-neutral on gold): Cumberland/FICCO quant titles, pre-/post-training research titles, economic-research / FICCO research blocks, non-tech intern patterns (compliance, coordinator, trade compliance), UK generic internship program, veterans tech fellowship.
 
@@ -218,16 +259,6 @@ Two eval modes:
 2. **Discovery** — biased sample (`fetch-discovery`) overweighting regex positives, borderline titles, and new adapters; outputs `eval_recommendations.md` with grouped FP/FN fixes.
 
 ```bash
-# Relabel script-heuristic batches with agent hand-label rubric (US + EC + technical)
-python testing/scripts/_agent_hand_label.py relabel-script --archive
-python testing/scripts/_agent_hand_label.py merge
-
-# Score all agent_batches labels (25,884 jobs; incl. agent_rubric_v2 + legacy Cursor batches)
-python testing/scripts/_cursor_manual_eval.py rescore
-python testing/scripts/_cursor_manual_eval.py score-agent-only
-# Legacy Cursor-only slice (245 batches / ~8.6k jobs): score-agent-only --legacy-cursor-only
-# -> cursor_eval_agent_report.json, eval_agent_recommendations.md
-
 # Full corpus for hand-labeling (all postings, ~8k–25k jobs; 30–90 min)
 python testing/scripts/_cursor_manual_eval.py fetch-full
 
