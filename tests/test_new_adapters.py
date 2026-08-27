@@ -113,27 +113,27 @@ def test_gem_fetch_maps_fields() -> None:
 
 
 def test_uber_fetch_maps_fields() -> None:
-    api_payload = {
-        "status": "success",
-        "data": {
-            "results": [
-                {
-                    "id": 123,
-                    "title": "Software Engineer Intern",
-                    "department": "Engineering",
-                    "creationDate": "2026-03-18T06:01:00.000Z",
-                    "description": "**About the Role**\n\nBuild backend systems.",
-                    "location": {"city": "San Francisco", "region": "CA", "countryName": "United States"},
-                }
-            ]
-        },
-    }
-    company = {"name": "Uber", "locale": "en", "category": "big_tech"}
-    with patch("adapters.uber._fetch_results", return_value=api_payload["data"]["results"]):
+    # Oracle Recruiting Cloud (Fusion HCM) - the list endpoint doesn't
+    # include description text, only a separate per-job detail call does
+    # (fetched via description_fetch.fetch_uber_description, mocked out
+    # here since should_fetch_description() gates it per-title anyway).
+    requisitions = [
+        {
+            "Id": "123",
+            "Title": "Software Engineer Intern",
+            "Organization": "Engineering",
+            "PostedDate": "2026-03-18",
+            "PrimaryLocation": "San Francisco, CA, United States",
+            "secondaryLocations": [],
+        }
+    ]
+    company = {"name": "Uber", "category": "big_tech"}
+    with patch("adapters.uber._fetch_all_requisitions", return_value=requisitions), \
+         patch("adapters.uber.map_descriptions_parallel", return_value={}):
         jobs = fetch_uber(company)
-    assert jobs[0].url == "https://www.uber.com/careers/list/123"
+    assert jobs[0].url == "https://jobs.uber.com/en/jobs/123"
     assert "San Francisco" in jobs[0].location
-    assert jobs[0].description == "**About the Role** Build backend systems."
+    assert jobs[0].department == "Engineering"
 
 
 def test_smartrecruiters_fetch_maps_fields() -> None:

@@ -123,8 +123,8 @@
   category: frontier_ai
 
 - name: Fireworks AI
-  ats: greenhouse
-  slug: fireworksai
+  ats: ashby
+  slug: fireworks
   category: frontier_ai
 
 - name: World Labs
@@ -138,8 +138,8 @@
   category: frontier_ai
 
 - name: Cerebras
-  ats: greenhouse
-  slug: cerebrassystems
+  ats: ashby
+  slug: cerebras
   category: frontier_ai
 
 - name: Crusoe
@@ -254,11 +254,6 @@
   slug: notion
   category: enterprise
 
-- name: Rippling
-  ats: rippling
-  slug: rippling
-  category: enterprise
-
 - name: Ramp
   ats: ashby
   slug: ramp
@@ -364,8 +359,8 @@
   category: robotics
 
 - name: Applied Intuition
-  ats: greenhouse
-  slug: appliedintuition
+  ats: ashby
+  slug: applied
   category: robotics
 
 - name: Apptronik
@@ -728,14 +723,9 @@
   slug: rubrik
   category: big_tech
 
-- name: dbt Labs
-  ats: greenhouse
-  slug: dbtlabsinc
-  category: big_tech
-
 - name: Aurora Innovation
-  ats: greenhouse
-  slug: aurorainnovation
+  ats: ashby
+  slug: aurora-operations-inc
   category: big_tech
 
 - name: Zoox

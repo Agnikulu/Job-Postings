@@ -307,6 +307,35 @@ def fetch_rippling_description(job_url: str) -> str | None:
     return normalize_description(raw, is_html=True)
 
 
+_UBER_DETAIL_URL = (
+    "https://iaziqy.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/"
+    "recruitingCEJobRequisitionDetails"
+)
+
+
+def fetch_uber_description(job_id: str) -> str | None:
+    """Uber's careers backend migrated to Oracle Recruiting Cloud (Fusion
+    HCM); the list endpoint doesn't include description text, only this
+    per-requisition detail call does."""
+    url = (
+        f"{_UBER_DETAIL_URL}?onlyData=true&expand=all"
+        f'&finder=ById;Id="{job_id}",siteNumber=CX_1'
+    )
+    try:
+        payload = _get_json(url, referer="https://jobs.uber.com/")
+    except Exception:
+        return None
+    items = payload.get("items") or []
+    if not items:
+        return None
+    item = items[0]
+    raw = item.get("ExternalDescriptionStr")
+    responsibilities = item.get("ExternalResponsibilitiesStr")
+    parts = [raw, responsibilities]
+    combined = "\n\n".join(p for p in parts if p and str(p).strip())
+    return normalize_description(combined, is_html=True)
+
+
 def _collect_google_html(data: Any) -> str | None:
     parts: list[str] = []
     seen: set[str] = set()
