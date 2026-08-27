@@ -179,7 +179,8 @@ DESC_SENIOR_EXP = re.compile(
     r"proven\s+track\s+record|"
     r"operating\s+as\s+a\s+(?:staff|principal)\s+engineer|"
     r"(?:staff|principal)\s+(?:software\s+)?engineer|"
-    r"significant\s+experience\s+(?:leading|managing)"
+    r"significant\s+experience\s+(?:leading|managing)|"
+    r"mentor(?:ing)?\s+(?:and\s+\w+\s+)?(?:more\s+)?(?:other\s+|junior\s+)(?:\w+\s+){0,3}engineers?"
     r")\b",
     re.IGNORECASE,
 )

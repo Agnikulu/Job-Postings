@@ -51,7 +51,7 @@ TARGET = re.compile(
 
 ANTI = re.compile(
     r"\b("
-    r"senior|sr\.?|lead(?:er)?|postdoctoral|postdoc|"
+    r"senior|sr\.?|snr\.?|lead(?:er)?|postdoctoral|postdoc|"
     r"manager|principal|director|"
     r"head\s+of|staff|"
     r"vp|vice\s+president|president"
@@ -305,6 +305,7 @@ _AI_RESEARCH_FELLOWSHIP = re.compile(
 _CUSTOMER_FACING_ENG = re.compile(
     r"\b(?:"
     r"field\s+engineer|forward\s+deployed\s+engineer|solutions?\s+engineer|"
+    r"solutions?\s+architect|customer\s+engineer|"
     r"(?:technical\s+)?support\s+engineer|"
     r"(?:pre[\s-]?)?sales\s+engineer|customer\s+success\s+engineer|"
     r"implementation\s+lead"
@@ -341,6 +342,7 @@ _EXPERIENCED_LEVEL_TITLE = re.compile(
     r"engineer\s+(?:i{2,4}|ii|iii|iv|v)\b|"
     r"engineer\s+[2-9]\b|"
     r"scientist\s+(?:ii|iii|iv|2|3)\b|"
+    r"analyst\s+(?:ii|iii|iv|2|3)\b|"
     r"(?:software|machine\s+learning|ml|data|security|site\s+reliability|sre|"
     r"backend|frontend|full[\s-]?stack|platform|infrastructure|applied|research|"
     r"quantitative|cloud|mobile|android|ios)\s+engineer\s+(?:i{2,4}|ii|iii|iv)\b|"
@@ -435,7 +437,7 @@ _BACHELORS_PLUS_YEARS = re.compile(
 
 _OBVIOUS_SENIOR = re.compile(
     r"\b("
-    r"senior|sr\.?|principal|director|"
+    r"senior|sr\.?|snr\.?|principal|director|"
     r"manager|head\s+of|"
     r"group\s+leader|team\s+leader|"
     r"postdoc(?:toral)?|"
@@ -478,8 +480,10 @@ _OBVIOUS_NON_TECH = re.compile(
     r"\b(?:sdr|bdr)\b|"
     r"account\s+development\s+representative|"
     r"sales\s+ops(?:erations)?\s+(?:coordinator|associate|specialist)?|"
-    # Design (UX/product design - not software/ML/hardware engineering).
-    r"(?:product|ux|ui)\s+designer|"
+    r"(?:technical\s+)?business\s+develop(?:er|ment)(?!\s+representative)|"
+    # Design (UX/product/brand/graphic design - not software/ML/hardware
+    # engineering, even when self-described as "early-career").
+    r"(?:product|ux|ui|brand|graphic)\s+designer|"
     # Business-track internship functions (strategy, non-eng program mgmt).
     r"strategy\s+intern|"
     r"(?:operations|business)\s+program\s+management(?:\s+intern)?|"
@@ -513,6 +517,23 @@ _OBVIOUS_NON_TECH = re.compile(
     r"mechanical\s+design\s+engineer|chemical\s+process\s+engineer|"
     r"industrial\s+process\s+engineer|"
     r"operations\s+engineer.*(?:physical\s+infrastructure|facility\s+operations)|"
+    # Data-center/colocation physical facilities (electrical, mechanical,
+    # water treatment) - building infrastructure, not compute/chip hardware.
+    r"(?:electrical|mechanical|mech)\s+(?:regional\s+)?engineer.*(?:data\s+cent(?:er|re)|colo(?:cation)?)|"
+    r"(?:data\s+cent(?:er|re)|colo(?:cation)?).*(?:electrical|mechanical|mech)\s+(?:regional\s+)?engineer|"
+    r"critical\s+infrastructure\s+electrical\s+engineer|"
+    r"water\s+treatment\s+technician|"
+    r"data\s+cent(?:er|re)\s+security\s+specialist|"
+    # Physical network build/cabling work at cloud/data-center providers -
+    # a technician role despite a numbered "Engineer I"-style title.
+    r"network\s+infrastructure\s+engineer|"
+    # Career-returner / returnship programs (explicitly not new-grad).
+    r"career\s+(?:enhanced\s+)?re-?start\s+program|returnship|"
+    # Consulting-track internships (implementation/business consulting,
+    # not an engineering-track internship even when "technical" appears
+    # in the title).
+    r"(?:technical|implementation|business)\s+consult(?:ant|ing)\s+intern|"
+    r"intern(?:ship)?\s+(?:technical|business)\s+consult(?:ant|ing)|"
     # Business rotational / leadership-development programs (non-eng track).
     r"(?:leadership|rotational)\s+(?:rotation\s+)?(?:program|network)|"
     # People/HR operations.

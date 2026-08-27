@@ -7,7 +7,7 @@ Production code lives in the repo root. This folder holds eval data and eval hel
 | Path | Contents |
 |------|----------|
 | `eval/RUBRIC.md` | Canonical labeling rubric — the single source of truth for what counts as early-career + technical |
-| `eval/eval_gold.jsonl` | **Authoritative, committed accuracy set** (484 rows) — independently hand-labeled against `RUBRIC.md`. `tests/test_eval_regression.py` and `tests/test_eval_metrics_floor.py` run against this in CI on every PR/push touching `*.py`. |
+| `eval/eval_gold.jsonl` | **Authoritative, committed accuracy set** (1455 rows) — independently hand-labeled against `RUBRIC.md`. `tests/test_eval_regression.py` and `tests/test_eval_metrics_floor.py` run against this in CI on every PR/push touching `*.py`. |
 | `eval/eval_baseline.json` | Pinned precision/recall floor for `eval_gold.jsonl`, with provenance + measurement-caveat notes |
 | `eval/` (other files) | Non-committed, regenerable eval run outputs (`cursor_eval_*.jsonl`, reports) from the optional larger "extended audit" pipeline below |
 | `eval/batches/` | Per-batch manual labels for that extended-audit pipeline |
