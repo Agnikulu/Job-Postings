@@ -23,6 +23,9 @@ from adapters.smartrecruiters import fetch as fetch_smartrecruiters
 from adapters.uber import fetch as fetch_uber
 from adapters.wiz import fetch as fetch_wiz
 from adapters.workable import fetch as fetch_workable
+from adapters.optiver import fetch as fetch_optiver
+from adapters.two_sigma import fetch as fetch_two_sigma
+from adapters.deshaw import fetch as fetch_deshaw
 
 
 def test_workable_fetch_maps_fields() -> None:
@@ -387,3 +390,112 @@ def test_workday_myworkdaysite_host() -> None:
     jobs_url, site_base, cxs_base = _workday_endpoints(company)
     assert "myworkdaysite.com" in jobs_url
     assert site_base.endswith("/recruiting/snapchat/snap")
+
+
+def test_optiver_fetch_paginates_and_maps_fields() -> None:
+    # Optiver's custom Episerver job API returns a fixed 16-item page and
+    # needs `from` offset pagination; description text requires a separate
+    # per-job HTML fetch (mocked out here since should_fetch_description()
+    # gates it per-title anyway).
+    page1 = {
+        "items": [
+            {
+                "title": "Graduate Software Engineer",
+                "location": "Austin",
+                "experience": "Graduate",
+                "domain": "Technology",
+                "href": "/join-us/jobs/technology/austin/graduate-software-engineer/",
+                "componentID": 111,
+            }
+        ],
+        "totalCount": 1,
+    }
+    company = {"name": "Optiver", "category": "quant"}
+    with patch("adapters.optiver._get_page", return_value=page1), \
+         patch("adapters.optiver.map_descriptions_parallel", return_value={}):
+        jobs = fetch_optiver(company)
+    assert len(jobs) == 1
+    assert jobs[0].id == "111"
+    assert jobs[0].url == (
+        "https://www.optiver.com/join-us/jobs/technology/austin/"
+        "graduate-software-engineer/"
+    )
+    assert jobs[0].department == "Technology"
+    assert jobs[0].ats == "optiver"
+
+
+def test_two_sigma_fetch_parses_rss_feed() -> None:
+    # Two Sigma's Avature-backed careers site has no JSON API for the open
+    # roles list, but publishes a plain RSS feed; description text requires
+    # a separate per-job HTML fetch (mocked out here since
+    # should_fetch_description() gates it per-title anyway).
+    feed_xml = """<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"><channel>
+      <item>
+        <title><![CDATA[Quantitative Software Engineer]]></title>
+        <description><![CDATA[United States New York]]></description>
+        <link>https://careers.twosigma.com/careers/JobDetail/New-York-Quantitative-Software-Engineer/13045</link>
+        <guid isPermaLink="true">https://careers.twosigma.com/careers/JobDetail/New-York-Quantitative-Software-Engineer/13045</guid>
+        <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      </item>
+    </channel></rss>
+    """
+    company = {"name": "Two Sigma", "category": "quant"}
+    with patch("adapters.two_sigma._get_feed", return_value=feed_xml), \
+         patch("adapters.two_sigma.map_descriptions_parallel", return_value={}):
+        jobs = fetch_two_sigma(company)
+    assert len(jobs) == 1
+    assert jobs[0].id == "13045"
+    assert jobs[0].title == "Quantitative Software Engineer"
+    assert jobs[0].location == "United States New York"
+    assert jobs[0].ats == "two_sigma"
+
+
+def test_deshaw_fetch_parses_next_data() -> None:
+    # D. E. Shaw's /careers page is server-rendered Next.js that embeds
+    # the full job list AND full description text (intro + HTML
+    # responsibilities + HTML qualifications) directly in __NEXT_DATA__ -
+    # no pagination and no separate per-job description fetch needed.
+    html = """<html><body><script id="__NEXT_DATA__" type="application/json">{
+      "props": {"pageProps": {
+        "regularJobs": [
+          {"data": {
+            "id": 5841,
+            "displayName": "AI Engineer \\u2013 Human Capital",
+            "jobUrl": "AI-Engineer-Human-Capital-5841",
+            "activeOnJobsListing": true,
+            "department": {"name": "Human Capital"},
+            "jobDescription": {
+              "websiteDescription": "Intro paragraph.",
+              "responsibilitiesHtml": "<ul><li>Build things.</li></ul>",
+              "peopleWeAreLookingForHtml": "<ul><li>Bachelor's degree.</li></ul>"
+            },
+            "jobMetadata": {"jobLocations": [{"name": "New York"}]}
+          }},
+          {"data": {
+            "id": 3480,
+            "displayName": "All Positions in Systems",
+            "jobUrl": "All-Positions-in-Systems-3480",
+            "activeOnJobsListing": true,
+            "department": {"name": "Systems"},
+            "jobDescription": {},
+            "jobMetadata": {"jobLocations": []}
+          }}
+        ],
+        "internships": [],
+        "internalJobs": []
+      }}
+    }</script></body></html>"""
+    company = {"name": "D. E. Shaw", "category": "quant"}
+    with patch("adapters.deshaw._get_html", return_value=html):
+        jobs = fetch_deshaw(company)
+    # "All Positions in Systems" is a category stub, not a real posting.
+    assert len(jobs) == 1
+    assert jobs[0].id == "5841"
+    assert jobs[0].title == "AI Engineer – Human Capital"
+    assert jobs[0].location == "New York"
+    assert jobs[0].url == "https://www.deshaw.com/careers/AI-Engineer-Human-Capital-5841"
+    assert jobs[0].description is not None
+    assert "Build things" in jobs[0].description
+    assert "Bachelor's degree" in jobs[0].description
+    assert jobs[0].ats == "deshaw"

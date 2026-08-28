@@ -336,6 +336,62 @@ def fetch_uber_description(job_id: str) -> str | None:
     return normalize_description(combined, is_html=True)
 
 
+def fetch_optiver_description(job_url: str) -> str | None:
+    """Optiver's job detail pages are custom Episerver/Optimizely pages with
+    no separate JSON API for description text - the body is server-rendered
+    HTML inside a single `rich-text-section` block."""
+    try:
+        html = _get_html(job_url, referer="https://www.optiver.com/join-us/jobs/")
+    except Exception:
+        return None
+    marker = html.find("rich-text-section")
+    if marker == -1:
+        return None
+    start = html.rfind("<section", 0, marker)
+    if start == -1:
+        start = marker
+    end = html.find("</section>", marker)
+    if end == -1:
+        end = start + 12000
+    return normalize_description(html[start:end], is_html=True)
+
+
+_TWO_SIGMA_FIELD_MARKER = 'article__content__view__field__value">'
+_EEO_BOILERPLATE = re.compile(r"equal opportunity (?:employ|workplace)", re.IGNORECASE)
+
+
+def fetch_two_sigma_description(job_url: str) -> str | None:
+    """Two Sigma's Avature-backed careers site renders the job body as
+    plain server-side HTML, but the same generic CSS class wraps every
+    field on the page - short one-line metadata (location/department/
+    level) and one or more rich-text body blocks, all split by the same
+    marker string. Metadata blocks have no leading `<div>` (plain text
+    only), so filtering to `<div>`-prefixed blocks isolates the rich-text
+    ones. The trailing EEO-boilerplate-plus-page-chrome that follows the
+    last real block (str.split leaves the final piece unbounded, running
+    to the end of the document) is truncated at the EEO phrase rather
+    than dropping the whole block, since on some postings the real
+    description and the EEO notice end up merged into a single block with
+    no separating marker between them."""
+    try:
+        html = _get_html(job_url, referer="https://careers.twosigma.com/careers/OpenRoles")
+    except Exception:
+        return None
+    parts = html.split(_TWO_SIGMA_FIELD_MARKER)[1:]
+    blocks: list[str] = []
+    for p in parts:
+        if not p.lstrip().startswith("<div>"):
+            continue
+        eeo_match = _EEO_BOILERPLATE.search(p)
+        if eeo_match:
+            p = p[: eeo_match.start()]
+        if len(p.strip()) > 30:
+            blocks.append(p)
+    if not blocks:
+        return None
+    return normalize_description("\n\n".join(blocks), is_html=True)
+
+
 def _collect_google_html(data: Any) -> str | None:
     parts: list[str] = []
     seen: set[str] = set()

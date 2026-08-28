@@ -4,7 +4,7 @@
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
 #                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | snyk |
-#                amazon_jobs | meta | linkedin
+#                amazon_jobs | meta | linkedin | optiver | two_sigma | deshaw
 #     # Workday (myworkdaysite.com hosts, e.g. Snap):
 #     workday_cxs_host, workday_public_base
 #     # amazon_jobs:
@@ -157,7 +157,7 @@
   category: frontier_ai
 
 # =============================================================================
-# Category II: Quantitative Finance (Greenhouse-only)
+# Category II: Quantitative Finance
 # =============================================================================
 
 - name: DRW
@@ -168,6 +168,74 @@
 - name: Point72
   ats: greenhouse
   slug: point72
+  category: quant
+
+- name: Jane Street
+  ats: greenhouse
+  slug: janestreet
+  category: quant
+
+- name: IMC Trading
+  ats: greenhouse
+  slug: imc
+  category: quant
+
+- name: Hudson River Trading
+  ats: greenhouse
+  # Real board slug is hidden behind a WordPress plugin that proxies
+  # job-boards.greenhouse.io/embed/job_board?for=wehrtyou - the visible
+  # "hrttalentcommunity" board on hudsonrivertrading.com is a talent-signup
+  # form, not the live requisition list.
+  slug: wehrtyou
+  category: quant
+
+- name: Optiver
+  ats: optiver
+  category: quant
+
+- name: Two Sigma
+  ats: two_sigma
+  category: quant
+
+- name: SIG
+  ats: linkedin
+  linkedin_company_id: "165964"
+  category: quant
+  note: >
+    careers.sig.com / careers-sig.icims.com are a JS-rendered Angular
+    portal with no server-side job data and no discoverable public API;
+    using LinkedIn as a reliable fallback (same pattern as Zoox/Meta).
+
+- name: Citadel Securities
+  ats: linkedin
+  linkedin_company_id: "15259345"
+  category: quant
+  note: >
+    citadelsecurities.com/careers is behind a Cloudflare JS challenge
+    (no plain HTTP access); using LinkedIn as a reliable fallback.
+
+- name: Jump Trading
+  ats: greenhouse
+  slug: jumptrading
+  category: quant
+
+- name: Akuna Capital
+  ats: greenhouse
+  slug: akunacapital
+  category: quant
+
+- name: Virtu Financial
+  ats: greenhouse
+  slug: virtu
+  category: quant
+
+- name: Five Rings
+  ats: greenhouse
+  slug: fiveringsllc
+  category: quant
+
+- name: D. E. Shaw
+  ats: deshaw
   category: quant
 
 # =============================================================================
@@ -490,6 +558,11 @@
 - name: Meta
   ats: meta
   linkedin_company_id: "10667"
+  category: big_tech
+
+- name: Riot Games
+  ats: greenhouse
+  slug: riotgames
   category: big_tech
 
 - name: Google
