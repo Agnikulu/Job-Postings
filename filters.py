@@ -35,7 +35,11 @@ ConfidenceLevel = Literal["high_include", "high_exclude", "borderline"]
 
 TARGET = re.compile(
     r"\b("
-    r"(?<!post-)(?<!post\s)intern(ship)?|co-?op|new[\s-]?grad(uate)?|new\s+college\s+grad|"
+    r"(?<!post-)(?<!post\s)(?<!non-)(?<!non\s)"
+    r"(?<!does\snot\sinclude\s)(?<!doesn't\sinclude\s)(?<!not\sincluding\s)"
+    r"(?<!excluding\s)(?<!exclude\s)(?<!excludes\s)"
+    r"(?<!does\snot\scount\s)(?<!doesn't\scount\s)"
+    r"intern(ships?)?|co-?op|new[\s-]?grad(uate)?|new\s+college\s+grad|"
     r"university\s+graduate|"
     r"early[\s-]career(?:s)?|entry[\s-]level|campus|"
     r"apprentice|trainee|recent\s+graduate|"
@@ -93,7 +97,7 @@ DOMAIN = re.compile(
 # Early-career cues — if present, never pre-filter.
 _PREFILTER_EARLY_CAREER = re.compile(
     r"\b("
-    r"intern(ship)?|co-?op|new[\s-]?grad(uate)?|university\s+graduate|"
+    r"intern(ships?)?|co-?op|new[\s-]?grad(uate)?|university\s+graduate|"
     r"early[\s-]career|entry[\s-]level|campus|apprentice|trainee|"
     r"202[4-9]"
     r")\b",
@@ -188,7 +192,7 @@ _TECHNICAL_ADVISOR = re.compile(r"\btechnical\s+advisor\b", re.IGNORECASE)
 
 _RESEARCH_EC_TITLE_MARKER = re.compile(
     r"\b(?:"
-    r"intern(ship)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
+    r"intern(ships?)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
     r"university|campus|student\s+researcher|"
     r"phd\s+(?:research\s+)?intern|(?:research\s+)?intern,\s*phd"
     r")\b",
@@ -199,6 +203,22 @@ _EXPERT_FELLOWSHIP = re.compile(
     r"\b(?:human\s+frontier\s+collective|\bhfc\b)\b",
     re.IGNORECASE,
 )
+
+# A PhD is a multi-year credential beyond what "finished undergrad, new
+# grad" targets - a bare "Graduate ___, PhD (2027 Start)"-style title with
+# no other EC marker is a full-time hire only reachable via a doctorate,
+# not by a bachelor's/master's new grad, regardless of a cohort year
+# elsewhere in the title (e.g. Optiver's "Graduate Quantitative
+# Researcher, PhD (2027 Start)"). It's still carved back in when the title
+# also carries one of the already-established EC markers in
+# _RESEARCH_EC_TITLE_MARKER (intern(ship), new grad/new college grad,
+# university, campus, student researcher) - e.g. "Student Researcher,
+# PhD, Fall 2026" or "Research Scientist ... - PhD New College Grad 2026"
+# are legitimately early-career per existing precedent (a current PhD
+# student or an explicit new-grad-cohort hire, just via the doctoral
+# pipeline instead of the bachelor's one) - or self-labeled "___ early
+# career" (see _PHD_EARLY_CAREER_OVERRIDE).
+_PHD_REQUIRED_TITLE = re.compile(r"\bph\.?\s?d\.?\b", re.IGNORECASE)
 
 # "___ in Residence" / research-residency programs explicitly framed as a
 # postdoc-equivalent - "resident(cy)" alone is an EC-positive title cue
@@ -329,7 +349,7 @@ _FINANCE_TRADER = re.compile(
 
 _EXPLICIT_EC_TITLE = re.compile(
     r"\b("
-    r"intern(ship)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
+    r"intern(ships?)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
     r"university\s+graduate|recent\s+graduate|early[\s-]career|"
     r"entry[\s-]level|campus\s+(?:hire|recruiting|program)|"
     r"apprentice|trainee|engineer\s+i\b|engineer\s+1\b|202[4-9]"
@@ -358,7 +378,7 @@ _HARD_EXPERIENCED_LADDER = _EXPERIENCED_LEVEL_TITLE
 
 _OPEN_LEVEL_EXPLICIT_EC = re.compile(
     r"\b("
-    r"intern(ship)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad(?:uate)?|"
+    r"intern(ships?)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad(?:uate)?|"
     r"university\s+graduate|recent\s+graduate|early[\s-]career|"
     r"entry[\s-]level|campus\s+(?:hire|recruiting|program)|"
     r"apprentice|trainee|engineer\s+i\b|engineer\s+1\b"
@@ -533,7 +553,7 @@ _OBVIOUS_NON_TECH = re.compile(
     # not an engineering-track internship even when "technical" appears
     # in the title).
     r"(?:technical|implementation|business)\s+consult(?:ant|ing)\s+intern|"
-    r"intern(?:ship)?\s+(?:technical|business)\s+consult(?:ant|ing)|"
+    r"intern(?:ships?)?\s+(?:technical|business)\s+consult(?:ant|ing)|"
     # Business rotational / leadership-development programs (non-eng track).
     r"(?:leadership|rotational)\s+(?:rotation\s+)?(?:program|network)|"
     # People/HR operations.
@@ -698,7 +718,7 @@ def _title_ec_hint(title: str) -> bool:
         return True
     if _POST_TRAINING.search(title):
         return True
-    if re.search(r"\bintern(ship)?\b", title, re.IGNORECASE):
+    if re.search(r"\bintern(ships?)?\b", title, re.IGNORECASE):
         return True
     if _GENERIC_INTERNSHIP_TITLE.match(title.strip()):
         return True
@@ -747,7 +767,7 @@ def _title_ec_target(title: str) -> bool:
     if not TARGET.search(title):
         return False
     if _MTS_TITLE.search(title) and not re.search(
-        r"\bintern(ship)?\b|co-?op|new[\s-]?grad|202[4-9]|engineer\s+i\b|engineer\s+1\b",
+        r"\bintern(ships?)?\b|co-?op|new[\s-]?grad|202[4-9]|engineer\s+i\b|engineer\s+1\b",
         title,
         re.IGNORECASE,
     ):
@@ -759,7 +779,7 @@ def _title_ec_target(title: str) -> bool:
 
 def _is_hardware_intern_title(title: str) -> bool:
     return bool(
-        re.search(r"\bintern(ship)?\b|co-?op\b", title, re.IGNORECASE)
+        re.search(r"\bintern(ships?)?\b|co-?op\b", title, re.IGNORECASE)
         and _HARDWARE_INTERN.search(title)
     )
 
@@ -860,7 +880,7 @@ def _is_experienced_physical_design_ic(
     if not _PHYSICAL_DESIGN_ENGINEER.search(title):
         return False
     if re.search(
-        r"\bintern(ship)?\b|co-?op\b|new\s+college\s+grad",
+        r"\bintern(ships?)?\b|co-?op\b|new\s+college\s+grad",
         title,
         re.IGNORECASE,
     ):
@@ -891,7 +911,7 @@ def _is_spacex_posting(company: str | None, url: str | None) -> bool:
 def _title_has_spacex_ec_marker(title: str) -> bool:
     return bool(
         re.search(
-            r"\b(?:intern(ship)?|co-?op|new\s+graduate|level\s+i\b|engineer\s+i\b)\b",
+            r"\b(?:intern(ships?)?|co-?op|new\s+graduate|level\s+i\b|engineer\s+i\b)\b",
             title,
             re.IGNORECASE,
         )
@@ -1008,7 +1028,7 @@ def _is_technical_intern(
         body = scan_full_description(description)
         if body.has_tech_field or DOMAIN.search(description):
             if re.search(
-                r"\bintern(ship)?(?:\s+program|\s+experience)?\b",
+                r"\bintern(ships?)?(?:\s+program|\s+experience)?\b",
                 description,
                 re.IGNORECASE,
             ):
@@ -1102,18 +1122,25 @@ def classify_title_confidence(
     if description and _POSTDOC_EQUIVALENT_PROGRAM.search(description):
         return TitleConfidence("high_exclude", False, "postdoc-equivalent program")
 
+    if (
+        _PHD_REQUIRED_TITLE.search(title_text)
+        and not _RESEARCH_EC_TITLE_MARKER.search(title_text)
+        and not _PHD_EARLY_CAREER_OVERRIDE.search(title_text)
+    ):
+        return TitleConfidence("high_exclude", True, "phd-required, no new-grad marker")
+
     if _OBVIOUS_SENIOR.search(title_text) and not re.search(
-        r"\bintern(ship)?\b", title_text, re.IGNORECASE
+        r"\bintern(ships?)?\b", title_text, re.IGNORECASE
     ):
         if not _PHD_EARLY_CAREER_OVERRIDE.search(title_text):
             return TitleConfidence("high_exclude", False, "senior keyword")
 
     if _OBVIOUS_LEAD.search(title_text) and not re.search(
-        r"\bintern(ship)?\b", title_text, re.IGNORECASE
+        r"\bintern(ships?)?\b", title_text, re.IGNORECASE
     ):
         return TitleConfidence("high_exclude", False, "senior keyword")
 
-    if re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
+    if re.search(r"\bintern(ships?)?\b", title_text, re.IGNORECASE):
         if _TECHNICAL_ADVISOR.search(title_text) or _NON_TECH_INTERN.search(title_text):
             return TitleConfidence("high_exclude", False, "non-technical intern")
         if not title_tech:
@@ -1145,11 +1172,11 @@ def classify_title_confidence(
         return TitleConfidence("high_exclude", False, "corporate fellowship program")
 
     if _POST_TRAINING.search(title_text) and is_tech:
-        if not re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
+        if not re.search(r"\bintern(ships?)?\b", title_text, re.IGNORECASE):
             return TitleConfidence("high_exclude", True, "senior post-training role")
 
     if _PRE_TRAINING.search(title_text) and is_tech:
-        if not re.search(r"\bintern(ship)?\b", title_text, re.IGNORECASE):
+        if not re.search(r"\bintern(ships?)?\b", title_text, re.IGNORECASE):
             return TitleConfidence("high_exclude", True, "senior post-training role")
 
     if _NON_ENTRY_RESEARCH_TITLE.search(title_text) and (
@@ -1159,7 +1186,7 @@ def classify_title_confidence(
 
     if (
         _NETWORK_ENGINEER_TITLE.search(title_text)
-        and not re.search(r"\bintern(ship)?\b|co-?op\b", title_text, re.IGNORECASE)
+        and not re.search(r"\bintern(ships?)?\b|co-?op\b", title_text, re.IGNORECASE)
     ):
         return TitleConfidence("high_exclude", True, "non-ec network engineer")
 
@@ -1197,7 +1224,7 @@ def classify_title_confidence(
     has_weak = bool(WEAK_EARLY_CAREER_SIGNALS.search(positive_text))
 
     if _MTS_TITLE.search(title_text) and not re.search(
-        r"\bintern(ship)?\b", title_text, re.IGNORECASE
+        r"\bintern(ships?)?\b", title_text, re.IGNORECASE
     ):
         if _MTS_NON_IC.search(title_text):
             return TitleConfidence("high_exclude", True, "experienced mts title")
@@ -1285,7 +1312,7 @@ def classify_title_confidence(
         ):
             return TitleConfidence("high_exclude", False, "non-tech")
         if _MTS_TITLE.search(title_text) and not re.search(
-            r"\bintern(ship)?\b", title_text, re.IGNORECASE
+            r"\bintern(ships?)?\b", title_text, re.IGNORECASE
         ) and not _strong_ec(desc_sig):
             return TitleConfidence("high_exclude", True, "experienced mts title")
         if re.search(r"\bassociate\b", positive_text, re.IGNORECASE) and not re.search(
@@ -1373,6 +1400,7 @@ _DESCRIPTION_NOT_NEEDED_REASONS = frozenset({
     "non-technical intern",
     "expert fellowship",
     "experienced fellowship",
+    "phd-required, no new-grad marker",
     "experienced mts title",
     "experienced mts role",
     "senior post-training role",
@@ -1447,7 +1475,7 @@ def diagnose_weak_signal(title: str) -> str | None:
 
 # Strong "this is an internship" markers.
 _INTERN_TITLE = re.compile(
-    r"\b(intern(?:ship)?|co-?op)\b",
+    r"\b(intern(?:ships?)?|co-?op)\b",
     re.IGNORECASE,
 )
 

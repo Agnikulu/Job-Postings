@@ -81,6 +81,64 @@ def test_non_internship_years_bar_excludes() -> None:
     assert conf.level == "high_exclude"
 
 
+def test_does_not_include_internships_years_bar_excludes() -> None:
+    """'X+ years ... (does not include internships or co-ops)' is Stripe's
+    real senior bar boilerplate - a phrase-level negation (not just the
+    'non-'/'post-' prefix already guarded against) must not let the bare
+    plural 'internships' substring read as an early-career signal."""
+    desc = """
+    Minimum requirements
+    2-12+ years of industry software engineering experience (does not
+    include internships or co-ops)
+    """
+    conf = classify_title_confidence("Software Engineer, Money Movement", desc)
+    assert conf.level == "high_exclude"
+
+
+def test_plural_internships_recognized_as_intern_title() -> None:
+    """A plural 'Internships' title (e.g. NVIDIA's '2027 Internships: Ph.D.
+    Research Robotics') must still be recognized as an internship, the same
+    as the singular form - a naive \\bintern(ship)?\\b pattern misses the
+    trailing 's'."""
+    conf = classify_title_confidence(
+        "NVIDIA 2027 Internships: Ph.D. Research Robotics", None
+    )
+    assert conf.level == "high_include"
+
+
+def test_phd_required_graduate_title_excluded_without_new_grad_marker() -> None:
+    """A PhD is a credential beyond 'finished undergrad, new grad' - a bare
+    'Graduate ___, PhD (2027 Start)' title (Optiver's phrasing) with no
+    other early-career marker is a full-time hire only reachable via a
+    doctorate, not by a bachelor's/master's new grad."""
+    conf = classify_title_confidence(
+        "Graduate Quantitative Researcher, PhD (2027 Start)", None
+    )
+    assert conf.level == "high_exclude"
+    assert conf.reason == "phd-required, no new-grad marker"
+
+
+def test_phd_internship_still_included() -> None:
+    """PhD *internships* stay included - a current PhD student interning is
+    like any other student intern, per existing precedent (e.g. Google's
+    'Research Scientist PhD Intern, 2027')."""
+    conf = classify_title_confidence(
+        "Quantitative Research Intern, PhD (Summer 2027)", None
+    )
+    assert conf.level == "high_include"
+
+
+def test_phd_new_college_grad_title_still_included() -> None:
+    """A PhD title with an explicit new-grad-cohort marker (matching
+    _RESEARCH_EC_TITLE_MARKER, e.g. 'New College Grad') stays included -
+    the company is branding it the same as its non-PhD new-grad program,
+    just via the doctoral pipeline instead of the bachelor's one."""
+    conf = classify_title_confidence(
+        "Research Scientist, Robotics Research - PhD New College Grad 2026", None
+    )
+    assert conf.level == "high_include"
+
+
 def test_bachelors_only_without_ec_signal_excludes_bare_swe() -> None:
     desc = """
     Qualifications:

@@ -108,7 +108,11 @@ DESC_STRONG_EC = re.compile(
     r"expected\s+graduation|"
     r"class\s+of\s+20[2-9][0-9]|"
     r"graduate\s+20[2-9][0-9]|"
-    r"(?<!post-)(?<!post\s)(?<!non-)(?<!non\s)intern(ship)?(?:\s+experience|\s+program)?|"
+    r"(?<!post-)(?<!post\s)(?<!non-)(?<!non\s)"
+    r"(?<!does\snot\sinclude\s)(?<!doesn't\sinclude\s)(?<!not\sincluding\s)"
+    r"(?<!excluding\s)(?<!exclude\s)(?<!excludes\s)"
+    r"(?<!does\snot\scount\s)(?<!doesn't\scount\s)"
+    r"intern(ships?)?(?:\s+experience|\s+program)?|"
     r"fellows?\s+program|"
     r"fellowship|"
     r"co-?op(?:\s+experience|\s+program)?|"
@@ -610,7 +614,7 @@ def year_range_only_ec(signals: DescriptionSignals) -> bool:
     if not _YEAR_RANGE_EC.search(text):
         return False
     stripped = _YEAR_RANGE_EC.sub(" ", text)
-    stripped = re.sub(r"\bintern(?:ship)?\b", " ", stripped, flags=re.IGNORECASE)
+    stripped = re.sub(r"\bintern(?:ships?)?\b", " ", stripped, flags=re.IGNORECASE)
     return not DESC_STRONG_EC.search(stripped)
 
 

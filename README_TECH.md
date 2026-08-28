@@ -196,9 +196,9 @@ Discord alerts only fire for **new** URLs (not already in `seen_jobs.json`). Aft
 
 | Metric (`eval_gold.jsonl`, 2455 rows) | Value |
 |---------------------------------------|-------|
-| Precision (regex+) | **74.7%** (614 TP / 822 regex-positive) |
-| Recall | **93.0%** (measurement caveat below) |
-| FP / FN | 208 / 46 |
+| Precision (regex+) | **74.7%** (619 TP / 829 regex-positive) |
+| Recall | **93.8%** (measurement caveat below) |
+| FP / FN | 210 / 41 |
 
 Precision here is well-measured — the gold set includes essentially every regex-positive job found while sampling ~86,600 live postings. **Recall is not well-measured in general** (see caveat below); the sample still deliberately concentrates on regex-positive and known-hard-exclude categories rather than randomly sampling the huge "obvious reject" population, so treat the recall floor as a regression tripwire on this specific set, not a production recall estimate. Full detail in `testing/eval/eval_baseline.json`'s `note` field, including the full history of all five rounds' numbers.
 
@@ -209,7 +209,17 @@ pytest tests/test_eval_metrics_floor.py -q   # aggregate precision/recall vs eva
 pytest tests/test_eval_regression.py -q      # per-case checks against eval_gold.jsonl
 ```
 
-259 of the 2455 gold cases are marked `xfail` — known, currently-unfixed disagreements between the classifier and the gold label, documented in-line (`xfail_note` field) rather than swept under the rug. The largest cluster (~85 rows, round 5) is the SpaceX/AWS "Bachelor's degree OR N+ years in lieu of degree" open-level pattern matching regardless of engineering discipline, over-including manufacturing/mechanical/electrical/civil/facilities/data-center-technician/construction roles that aren't software/chip/firmware engineering per the rubric — the same class of gap flagged in round 4, now with far more supporting evidence. Other clusters: the round-4 `effective_strong_ec()` override tension (Broadcom + an Anduril "Manufacturing Test/Software Engineer" cluster); SkillBridge military-transition intern titles and support/services-engineer titles the customer-facing guard doesn't catch; and ~28 round-5 cases grouped as not-yet-individually-triaged (candidates for a future dedicated fix pass rather than patched ad hoc).
+256 of the 2455 gold cases are marked `xfail` — known, currently-unfixed disagreements between the classifier and the gold label, documented in-line (`xfail_note` field) rather than swept under the rug. The largest cluster (~85 rows, round 5) is the SpaceX/AWS "Bachelor's degree OR N+ years in lieu of degree" open-level pattern matching regardless of engineering discipline, over-including manufacturing/mechanical/electrical/civil/facilities/data-center-technician/construction roles that aren't software/chip/firmware engineering per the rubric — the same class of gap flagged in round 4, now with far more supporting evidence. Other clusters: the round-4 `effective_strong_ec()` override tension (Broadcom + an Anduril "Manufacturing Test/Software Engineer" cluster); SkillBridge military-transition intern titles and support/services-engineer titles the customer-facing guard doesn't catch; and ~28 round-5 cases grouped as not-yet-individually-triaged (candidates for a future dedicated fix pass rather than patched ad hoc).
+
+#### Regex logic review, round 6 (2026-08-28)
+
+A user report that Optiver's "Graduate Quantitative Researcher, PhD (2027 Start)" was showing up as included, alongside legitimate "Graduate Software Engineer"/"Graduate FPGA Engineer" postings, led to three related fixes:
+
+- **PhD-required titles with no other early-career marker are now excluded.** A PhD is a multi-year credential beyond "finished undergrad, new grad" - a bare "Graduate ___, PhD (2027 Start)"-style title isn't reachable by a bachelor's/master's new grad regardless of the "Graduate" wording or a cohort year elsewhere in the title. The new check excludes any title containing "PhD" unless it also carries one of the already-established EC markers in `_RESEARCH_EC_TITLE_MARKER` (intern(ship), new grad/new college grad, university, campus, student researcher) or is self-labeled "___ early career" - preserving existing precedent that PhD *internships* (a current PhD student interning, same as any other student intern) and explicit new-grad-cohort PhD hires (e.g. "Research Scientist ... - PhD New College Grad 2026") stay included.
+- **Plural "Internships" wasn't recognized as an internship at all.** The `\bintern(ship)?\b`-style pattern used in ~24 places across `filters.py` and `description_signals.py` (title-EC detection, the post-/non-internship negation guards, etc.) only matched the singular form - "NVIDIA 2027 Internships: Ph.D. Research Robotics" and similar plural-titled postings were silently falling through as non-internships. Broadened to `intern(ships?)?` everywhere.
+- **That broadening exposed a second latent gap.** Once plural "internships" was recognized, Stripe's real boilerplate "2-12+ years ... (does not include internships or co-ops)" started reading as a positive early-career signal, since the existing negation guard only covered the "non-"/"post-" *prefix* form (from round 5's `non-internship` fix), not phrase-level negation like "does not include X". Added lookbehind guards for "does not include/count", "excludes", "not including" phrasing alongside the existing prefix guards.
+
+Verified against the full 2455-row gold set and a live Optiver fetch end-to-end. Net effect: precision 0.747→0.7467, recall 0.9303→0.9379 (both the PhD fix and the plural-intern fix net-improved recall on real internship postings); 2 SpaceX titles ("Supplier Development Engineer, Harnessing" / "PCB Technician") now correctly detect their open-level credential bar via the plural fix, which in turn re-surfaces the same pre-existing, deliberately-unpatched SpaceX/AWS discipline-breadth `xfail` bucket from round 5 - not a new gap, tagged accordingly.
 
 #### Regex logic review, round 5 (2026-08-27)
 
