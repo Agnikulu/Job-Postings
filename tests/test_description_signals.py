@@ -67,6 +67,20 @@ def test_senior_exp_in_requirements_excludes_without_ec() -> None:
     assert conf.level == "high_exclude"
 
 
+def test_non_internship_years_bar_excludes() -> None:
+    """'X+ years of non-internship professional experience' is a real senior
+    bar (common Amazon/Anduril boilerplate) - the bare substring 'internship'
+    inside 'non-internship' must not be read as an early-career signal, the
+    same way 'post-internship' is already guarded against."""
+    desc = """
+    Basic Qualifications:
+    3+ years of non-internship professional software development experience.
+    Bachelor's degree in computer science or equivalent.
+    """
+    conf = classify_title_confidence("Software Development Engineer", desc)
+    assert conf.level == "high_exclude"
+
+
 def test_bachelors_only_without_ec_signal_excludes_bare_swe() -> None:
     desc = """
     Qualifications:

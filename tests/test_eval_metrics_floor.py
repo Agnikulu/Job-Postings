@@ -25,9 +25,10 @@ EVAL = Path(__file__).resolve().parent.parent / "testing" / "eval"
 GOLD_PATH = EVAL / "eval_gold.jsonl"
 BASELINE_PATH = EVAL / "eval_baseline.json"
 
-# Gold set is ~226 rows, not ~25k - a single case flipping moves precision/
-# recall by a few points, so the regression floor needs more slack than the
-# old 0.005 delta (tuned for a much larger corpus).
+# Gold set is ~2455 rows, not ~25k - still small enough that a handful of
+# cases flipping can move precision/recall by a point or two, so the
+# regression floor keeps more slack than the old 0.005 delta (tuned for a
+# much larger corpus).
 FLOOR_DELTA = 0.03
 
 
