@@ -1,9 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-31 20:48 UTC  
-**New matches this run:** 0  
+**Run timestamp:** 2026-08-31 21:49 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
-_No new early-career roles since the last run._
+Grouped by company (sorted by match count):
 
+
+## Nvidia - 1 new (1 technical)
+
+- **[TECH]** [ASIC Floorplan Design Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651) - *US, CA, Santa Clara*
