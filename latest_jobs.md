@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-08-31 23:46 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-09-01 01:28 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Stripe - 1 new (1 technical)
-
-- **[TECH]** [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) - *San Francisco, Seattle, New York*
