@@ -448,11 +448,11 @@
 
 - name: Boston Dynamics
   ats: linkedin
-  linkedin_company_id: "2680699"
+  linkedin_company_id: "45918"
   category: robotics
 
 - name: 1X Technologies
-  ats: recruitee
+  ats: ashby
   slug: 1x
   category: robotics
 
@@ -476,8 +476,8 @@
   category: biotech
 
 - name: Isomorphic Labs
-  ats: google_careers
-  google_company: Isomorphic Labs
+  ats: greenhouse
+  slug: isomorphiclabs
   category: biotech
 
 - name: Pathos AI
@@ -631,10 +631,15 @@
   category: big_tech
 
 - name: Atlassian
-  ats: smartrecruiters
-  slug: Atlassian
+  ats: tier3_todo
   category: big_tech
-
+  note: >-
+    Public SmartRecruiters postings API (slug 'atlassian') now returns
+    totalFound:0 and the hosted careers.smartrecruiters.com/Atlassian page
+    redirects away — Atlassian moved job listings behind their own
+    www.atlassian.com/gateway/api/graphql (internal, persisted-query only,
+    no public schema found). Needs a bespoke adapter or a rediscovered
+    public endpoint before this can be re-enabled.
 
 - name: MongoDB
   ats: greenhouse
