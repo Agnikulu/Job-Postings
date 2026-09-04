@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-04 11:52 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-09-04 13:06 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## DoorDash - 1 new (1 technical)
-
-- **[TECH]** [Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) - *Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA*
