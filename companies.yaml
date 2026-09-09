@@ -708,13 +708,18 @@
   category: big_tech
 
 - name: Zillow
-  ats: linkedin
-  linkedin_company_id: "13990"
+  ats: workday
+  tenant: zillow
+  wd_pod: wd5
+  site: Zillow_Group_External
   category: big_tech
 
 - name: Shopify
   ats: linkedin
   linkedin_company_id: "784652"
+  # Shopify tags postings by region ("NAMER"), not country, so LinkedIn's
+  # "United States" location filter matched exactly 1 of ~134 postings.
+  search_location: Worldwide
   category: big_tech
 
 - name: Broadcom
@@ -807,8 +812,8 @@
   category: big_tech
 
 - name: Zoox
-  ats: linkedin
-  linkedin_company_id: "17998520"
+  ats: lever
+  slug: zoox
   category: big_tech
 
 - name: Chime

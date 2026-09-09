@@ -468,9 +468,30 @@ def test_full_description_domain_does_not_inflate_borderline() -> None:
     ("7 Locations", True),
     ("San Francisco, CA", False),
     ("Remote - United States", False),
+    # Region codes (Shopify posts "NAMER"): North America spans US + Canada,
+    # so eligibility can only come from the description.
+    ("NAMER", True),
+    ("AMER", True),
+    ("Americas", True),
+    ("North America", True),
+    # Non-Americas region codes stay unambiguous (and non-US).
+    ("EMEA", False),
+    ("APAC", False),
 ])
 def test_is_location_ambiguous(location: str, expected: bool) -> None:
     assert is_location_ambiguous(location) is expected
+
+
+def test_region_code_defers_to_description() -> None:
+    """NAMER is not US on its own; the posting body decides."""
+    us_desc = "This role is remote and open to candidates in the United States."
+    ca_desc = "This role is based in Toronto, Canada."
+    assert is_us_location("NAMER") is False
+    assert is_us_location_with_description("NAMER", us_desc) is True
+    assert is_us_location_with_description("NAMER", ca_desc) is False
+    assert is_us_location_with_description("NAMER", None) is False
+    # EMEA never reaches the description check.
+    assert is_us_location_with_description("EMEA", us_desc) is False
 
 
 # --- Eval-driven precision fixes (2026-05) ------------------------------------

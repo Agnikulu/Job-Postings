@@ -1819,6 +1819,13 @@ _REMOTE_US = re.compile(
     re.IGNORECASE,
 )
 _N_LOCATIONS = re.compile(r"^\d+\s+locations?$", re.IGNORECASE)
+# Region codes some boards use instead of a country (Shopify posts "NAMER").
+# North America spans the US and Canada, so these can't be resolved from the
+# location string alone — treat them as ambiguous and let the description decide.
+_REGION_CODE = re.compile(
+    r"^(?:n\.?\s?amer(?:ica)?|namer|amer(?:icas)?|north\s+america)$",
+    re.IGNORECASE,
+)
 
 
 def is_location_ambiguous(location: str | None) -> bool:
@@ -1829,6 +1836,8 @@ def is_location_ambiguous(location: str | None) -> bool:
     if _REMOTE_ONLY.match(text):
         return True
     if _N_LOCATIONS.match(text):
+        return True
+    if _REGION_CODE.match(text):
         return True
     if re.match(r"^remote\b", text, re.IGNORECASE) and not _REMOTE_US.search(text):
         if not (
