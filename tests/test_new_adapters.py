@@ -377,6 +377,89 @@ def test_meta_falls_back_to_linkedin_when_blocked() -> None:
     assert jobs == fake_jobs
 
 
+def test_meta_block_expires_and_retries_metacareers(tmp_path, monkeypatch) -> None:
+    """A stale block must not pin Meta to LinkedIn forever."""
+    import json
+    import time
+
+    from adapters import meta as meta_mod
+
+    state_file = tmp_path / "meta_careers_state.json"
+    state_file.write_text(
+        json.dumps(
+            {
+                "sitemap_blocked": True,
+                "blocked_at": time.time() - meta_mod._BLOCK_TTL_SEC - 1,
+            }
+        ),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(meta_mod, "STATE_PATH", state_file)
+
+    company = {"name": "Meta", "linkedin_company_id": "10667", "category": "big_tech"}
+    with (
+        patch.object(meta_mod, "_fetch_linkedin_fallback") as li,
+        patch.object(meta_mod, "_get_sitemap_entries", return_value=[]),
+    ):
+        meta_mod.fetch(company)
+    li.assert_not_called()
+    assert json.loads(state_file.read_text(encoding="utf-8")) == {}
+
+
+def test_meta_parses_jsonld_detail() -> None:
+    import json
+
+    from adapters import meta as meta_mod
+
+    payload = {
+        "@type": "JobPosting",
+        "title": "Software Engineer, Intern",
+        "datePosted": "2026-01-02T00:00:00-07:00",
+        "jobLocation": [
+            {"@type": "Place", "name": "Seattle, WA"},
+            {
+                "@type": "Place",
+                "address": {"addressLocality": "Austin", "addressRegion": "TX"},
+            },
+            {"@type": "Place", "name": "Seattle, WA"},
+        ],
+    }
+    html = f'<script type="application/ld+json">{json.dumps(payload)}</script>'
+    record = meta_mod._parse_detail(html)
+    assert record["title"] == "Software Engineer, Intern"
+    assert record["location"] == "Seattle, WA; Austin, TX"
+    assert record["posted_at"] == "2026-01-02T00:00:00-07:00"
+
+
+def test_meta_detail_falls_back_to_og_title() -> None:
+    from adapters import meta as meta_mod
+
+    html = '<meta property="og:title" content="Research Scientist"/>'
+    assert meta_mod._parse_detail(html) == {
+        "title": "Research Scientist",
+        "location": "",
+        "posted_at": None,
+    }
+    assert meta_mod._parse_detail("<html>no job here</html>") is None
+
+
+def test_meta_cache_accepts_legacy_title_strings(tmp_path, monkeypatch) -> None:
+    import json
+
+    from adapters import meta as meta_mod
+
+    cache_file = tmp_path / "meta_title_cache.json"
+    cache_file.write_text(
+        json.dumps({"111": "Old Title", "222": {"title": "New", "location": "NY"}}),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(meta_mod, "CACHE_PATH", cache_file)
+
+    cache = meta_mod._load_cache()
+    assert cache["111"] == {"title": "Old Title"}
+    assert cache["222"]["location"] == "NY"
+
+
 def test_workday_myworkdaysite_host() -> None:
     from adapters.workday import _workday_endpoints
 

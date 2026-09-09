@@ -87,7 +87,7 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Wiz | `wiz.py` | 1 | Next.js careers JSON proxy |
 | Coinbase | `coinbase.py` | 1 | Careers REST API + GH fallback |
 | Amazon Jobs | `amazon_jobs.py` | 1 | amazon.jobs search.json |
-| Meta | `meta.py` | 1 | metacareers sitemap + title cache |
+| Meta | `meta.py` | 1 | metacareers sitemap + JSON-LD detail cache |
 | Microsoft | `microsoft.py` | 1 | PCSX search API (50/page) |
 | Apple | `apple.py` | 1 | HTML search pages |
 | Uber | `uber.py` | 1 | Careers search API |
@@ -97,7 +97,7 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | SmartRecruiters | `smartrecruiters.py` | 1 | Offset pagination |
 | Jibe | `jibe.py` | 1 | Paginated JSON |
 
-**Meta** uses the `meta` adapter (metacareers.com jobs sitemap + title cache). Requires browser headers (not `DEFAULT_HEADERS`). Some networks/datacenter IPs get HTTP 400 from metacareers; when that happens and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta). After the first block, `meta_careers_state.json` skips the sitemap probe on later runs.
+**Meta** uses the `meta` adapter (metacareers.com jobs sitemap + per-job `JobPosting` JSON-LD, cached in `meta_title_cache.json`). The Facebook edge rejects `DEFAULT_HEADERS` **and** any request missing the `Sec-Fetch-*` / `sec-ch-ua` client hints a real browser sends, so `_browser_headers()` supplies the full set and clears `Session.headers` first (the default requests UA otherwise leaks through and triggers HTTP 400). Detail pages give real `datePosted` and location lists — sitemap `lastmod` is only a crawl timestamp, identical for every entry, so it is used only as a fallback. Detail fetches run 8-wide (~95s for a cold ~930-job run). When metacareers does return 400/403 and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta) and records the block in `meta_careers_state.json`; that block **expires after 6h** (`_BLOCK_TTL_SEC`) so a transient failure never pins Meta to LinkedIn permanently. If Meta jobs show up with `ats: linkedin`, delete `meta_careers_state.json` and check whether the headers still satisfy the edge.
 
 **HTTP performance:** List/detail adapters reuse `requests.Session` (TCP/TLS). Amazon Jobs fetches search pages in parallel when the API reports `hits`. Workday/LinkedIn detail fetches use per-thread sessions during parallel description enrichment.
 
