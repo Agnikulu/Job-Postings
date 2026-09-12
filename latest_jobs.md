@@ -1,15 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-12 22:40 UTC  
-**New matches this run:** 3  
+**Run timestamp:** 2026-09-12 23:39 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## GitHub - 3 new (3 technical)
+## GitHub - 1 new (1 technical)
 
-- **[TECH]** [Security Engineer](https://www.linkedin.com/jobs/view/4464714036) - *Phoenix, AZ*
-- **[TECH]** [Security Engineer](https://www.linkedin.com/jobs/view/4464729005) - *Austin, TX*
-- **[TECH]** [Security Engineer](https://www.linkedin.com/jobs/view/4464720029) - *Southlake, TX*
+- **[TECH]** [Security Engineer](https://www.linkedin.com/jobs/view/4464712037) - *Omaha, NE*
