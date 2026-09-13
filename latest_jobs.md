@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-12 23:39 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-09-13 01:17 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## GitHub - 1 new (1 technical)
-
-- **[TECH]** [Security Engineer](https://www.linkedin.com/jobs/view/4464712037) - *Omaha, NE*
