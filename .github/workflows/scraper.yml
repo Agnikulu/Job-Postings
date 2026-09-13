@@ -42,6 +42,9 @@ jobs:
       - name: Run scraper
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_SMTP_USER: ${{ secrets.EMAIL_SMTP_USER }}
+          EMAIL_SMTP_PASS: ${{ secrets.EMAIL_SMTP_PASS }}
           PYTHONUNBUFFERED: "1"
           ATS_SNIPER_FETCH_WORKERS: "8"
           # Slower pacing reduces 429 retry storms (often net faster than 0.75s/6s).

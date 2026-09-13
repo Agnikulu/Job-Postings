@@ -36,6 +36,7 @@ from typing import Any
 
 import yaml
 
+import email_notifier
 import notifier
 import render_readme
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
@@ -296,6 +297,7 @@ def run() -> int:
 
     write_latest_jobs_md(new_jobs, us_only=us_only)
     notifier.send_batch(new_jobs)
+    email_notifier.send_batch(new_jobs)
 
     pruned = state.prune(max_age_days=90)
     state.save()
