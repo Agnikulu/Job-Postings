@@ -49,8 +49,14 @@ LI = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 GOOGLE = "https://www.google.com/about/careers/applications/jobs/results/"
 APPLE = "https://jobs.apple.com/en-us/search"
 META_SITEMAP = "https://www.metacareers.com/jobs/sitemap.xml"
-UBER_CAREERS = "https://www.uber.com/us/en/careers/list/"
-UBER_SEARCH = "https://www.uber.com/api/loadSearchJobsResults"
+META_JOBS_PAGE = "https://www.metacareers.com/jobs"
+UBER_ORACLE = (
+    "https://iaziqy.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/"
+    "recruitingCEJobRequisitions"
+)
+OPTIVER_JOBS = "https://www.optiver.com/en/api/v1/jobs"
+TWO_SIGMA_FEED = "https://careers.twosigma.com/careers/OpenRoles/feed/"
+DESHAW_CAREERS = "https://www.deshaw.com/careers/"
 
 
 def _check_get(url: str) -> tuple[int, int]:
@@ -154,32 +160,27 @@ def _check_rippling(slug: str) -> tuple[int, int]:
 
 
 def _check_uber() -> tuple[int, int]:
+    # Uber migrated off www.uber.com's old loadSearchJobsResults API onto
+    # Oracle Recruiting Cloud (see adapters/uber.py) - this checks the same
+    # stateless GET the production adapter uses.
+    finder = "findReqs;siteNumber=CX_1,limit=1,offset=0,sortBy=POSTING_DATES_DESC"
+    url = (
+        f"{UBER_ORACLE}?onlyData=true"
+        "&expand=requisitionList.secondaryLocations"
+        f"&finder={finder}"
+    )
     try:
-        session = requests.Session()
-        session.headers.update(DEFAULT_HEADERS)
-        page = session.get(UBER_CAREERS, timeout=15)
-        csrf = "x"
-        match = re.search(r'"csrfToken"\s*:\s*"([^"]+)"', page.text)
-        if match:
-            csrf = match.group(1)
-        r = session.post(
-            f"{UBER_SEARCH}?localeCode=en",
-            json={},
-            headers={
-                **DEFAULT_HEADERS,
-                "Accept": "application/json",
-                "Content-Type": "application/json",
-                "Origin": "https://www.uber.com",
-                "Referer": UBER_CAREERS,
-                "X-Csrf-Token": csrf,
-                "x-csrf-token": csrf,
-            },
+        r = requests.get(
+            url,
+            headers={**DEFAULT_HEADERS, "Accept": "application/json"},
             timeout=15,
         )
         count = 0
         if r.ok:
             try:
-                count = len(r.json().get("data", {}).get("results") or [])
+                items = r.json().get("items") or []
+                if items:
+                    count = items[0].get("TotalJobsCount") or 0
             except ValueError:
                 count = -1
         return r.status_code, count
@@ -323,16 +324,40 @@ def _check_amazon_jobs(company: dict[str, Any]) -> tuple[int, int]:
 
 
 def _check_meta() -> tuple[int, int]:
+    # The Facebook edge 400s any request missing a full browser client-hint
+    # set (and DEFAULT_HEADERS' bot-flavored UA/Accept trip that filter) -
+    # mirror adapters/meta.py's _browser_headers()/_new_session() exactly,
+    # including the cookie-warming GET, rather than merging DEFAULT_HEADERS.
     headers = {
-        **DEFAULT_HEADERS,
-        "Accept": "application/xml,text/xml,*/*",
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
         ),
+        "Accept": (
+            "text/html,application/xhtml+xml,application/xml;q=0.9,"
+            "image/avif,image/webp,image/apng,*/*;q=0.8"
+        ),
+        "Accept-Language": "en-US,en;q=0.9",
+        "sec-ch-ua": (
+            '"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"'
+        ),
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": '"Windows"',
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
     }
     try:
-        r = requests.get(META_SITEMAP, headers=headers, timeout=15)
+        session = requests.Session()
+        session.headers.clear()
+        session.headers.update(headers)
+        try:
+            session.get(META_JOBS_PAGE, timeout=15)
+        except requests.RequestException:
+            pass
+        r = session.get(META_SITEMAP, timeout=15)
         count = 0
         if r.ok:
             count = r.text.count("<loc>https://www.metacareers.com/profile/job_details/")
@@ -402,6 +427,69 @@ def _check_snyk() -> tuple[int, int]:
                     count = len(body.get("data") or [])
             except ValueError:
                 count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_optiver() -> tuple[int, int]:
+    try:
+        r = requests.get(
+            OPTIVER_JOBS,
+            params={"from": 0},
+            headers={**DEFAULT_HEADERS, "Accept": "application/json"},
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            try:
+                payload = r.json()
+                count = payload.get("totalCount") or len(payload.get("items") or [])
+            except ValueError:
+                count = -1
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_two_sigma() -> tuple[int, int]:
+    try:
+        r = requests.get(TWO_SIGMA_FEED, headers=DEFAULT_HEADERS, timeout=15)
+        count = 0
+        if r.ok:
+            count = r.text.count("<item>")
+        return r.status_code, count
+    except requests.RequestException:
+        return 0, 0
+
+
+def _check_deshaw() -> tuple[int, int]:
+    try:
+        r = requests.get(
+            DESHAW_CAREERS,
+            headers={
+                **DEFAULT_HEADERS,
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                ),
+            },
+            timeout=15,
+        )
+        count = 0
+        if r.ok:
+            match = re.search(
+                r'<script id="__NEXT_DATA__" type="application/json">(.+?)</script>',
+                r.text,
+                re.DOTALL,
+            )
+            if match:
+                try:
+                    payload = json.loads(match.group(1))
+                    props = payload.get("props", {}).get("pageProps", {})
+                    count = len(props.get("regularJobs") or [])
+                except ValueError:
+                    count = -1
         return r.status_code, count
     except requests.RequestException:
         return 0, 0
@@ -523,6 +611,12 @@ def main() -> int:
             status, count = _check_coinbase(company)
         elif ats == "snyk":
             status, count = _check_snyk()
+        elif ats == "optiver":
+            status, count = _check_optiver()
+        elif ats == "two_sigma":
+            status, count = _check_two_sigma()
+        elif ats == "deshaw":
+            status, count = _check_deshaw()
         else:
             print(f"{name:35} {ats:12} UNKNOWN")
             bad.append(name)

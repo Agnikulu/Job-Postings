@@ -128,7 +128,7 @@
   category: frontier_ai
 
 - name: World Labs
-  ats: greenhouse
+  ats: ashby
   slug: worldlabs
   category: frontier_ai
 
@@ -338,7 +338,7 @@
   category: enterprise
 
 - name: ClickHouse
-  ats: greenhouse
+  ats: ashby
   slug: clickhouse
   category: enterprise
 
@@ -631,15 +631,35 @@
   category: big_tech
 
 - name: Atlassian
-  ats: tier3_todo
+  ats: linkedin
+  linkedin_company_id: "22688"
   category: big_tech
-  note: >-
+  note: >
     Public SmartRecruiters postings API (slug 'atlassian') now returns
     totalFound:0 and the hosted careers.smartrecruiters.com/Atlassian page
     redirects away — Atlassian moved job listings behind their own
     www.atlassian.com/gateway/api/graphql (internal, persisted-query only,
-    no public schema found). Needs a bespoke adapter or a rediscovered
-    public endpoint before this can be re-enabled.
+    no public schema found); using LinkedIn as a reliable fallback (same
+    pattern as SIG/Citadel Securities/Boston Dynamics).
+
+- name: Bloomberg LP
+  ats: linkedin
+  linkedin_company_id: "2494"
+  category: big_tech
+  note: >
+    bloomberg.com/careers has no discoverable public job API (JS-rendered,
+    no plain HTTP access); using LinkedIn as a reliable fallback.
+
+- name: Rippling
+  ats: linkedin
+  linkedin_company_id: "17988315"
+  category: big_tech
+  note: >
+    rippling.com/careers/open-roles is a Contentful-driven Next.js page
+    that renders results client-side via an Algolia index; the
+    search-only API key is not present in the SSR payload or any
+    directly-referenced JS chunk, so there's no stable public endpoint
+    to poll. Using LinkedIn as a reliable fallback.
 
 - name: MongoDB
   ats: greenhouse
