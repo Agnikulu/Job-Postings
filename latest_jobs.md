@@ -1,9 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-15 11:47 UTC  
-**New matches this run:** 0  
+**Run timestamp:** 2026-09-15 13:55 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
-_No new early-career roles since the last run._
+Grouped by company (sorted by match count):
 
+
+## SpaceX - 1 new (1 technical)
+
+- **[TECH]** [Fabrication Technician (Panel Systems) - Multiple Shifts](https://boards.greenhouse.io/spacex/jobs/8779919002?gh_jid=8779919002) - *Cape Canaveral, FL*
