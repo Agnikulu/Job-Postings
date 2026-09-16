@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 331
-- **All-time tracked:** 353
+- **Open positions:** 338
+- **All-time tracked:** 354
 - **Active companies:** 152
-- **Last run (raw / matched):** 33849 postings fetched, 331 passed filters
-- **Last updated:** `2026-09-16 19:44 UTC`
+- **Last run (raw / matched):** 34097 postings fetched, 386 passed filters
+- **Last updated:** `2026-09-16 20:47 UTC`
 
 ## Legend
 
@@ -43,8 +43,10 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | Firmware Engineer, Space (Emerging Talent) 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007) | Sep 16, 2026 |
 | SpaceX | Material Flow Engineer 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8784757002?gh_jid=8784757002) | Sep 16, 2026 |
 | Roblox | Software Engineer, Discovery UX 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8168383?gh_jid=8168383) | Sep 16, 2026 |
+| Qualcomm | Software Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4466869270) | Sep 16, 2026 |
 | Intuit | Software Engineer 1 🇺🇸 | Charlotte, NC | linkedin | Early Career | [Apply](https://www.linkedin.com/jobs/view/4467995095) | Sep 16, 2026 |
 | Nvidia | Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749) | Sep 15, 2026 |
+| Qualcomm | Machine Learning Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4466513389) | Sep 15, 2026 |
 | Cerebras | Software Engineer, Kernel Reliability 🇺🇸 | United States and Canada | ashby | - | [Apply](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f) | Sep 15, 2026 |
 | SpaceX | Fabrication Technician (Panel Systems) - Multiple Shifts 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8779919002?gh_jid=8779919002) | Sep 15, 2026 |
 | Atlassian | Software Engineer, 2027 Graduate U.S. 🇺🇸 | Seattle, WA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4467445188) | Sep 15, 2026 |
@@ -85,10 +87,11 @@ how to fork, how to add companies, and how filtering works.
 | Optiver | Graduate FPGA Engineer (2027 Start - Chicago) 🇺🇸 | Chicago | optiver | - | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/graduate-fpga-engineer-2027-start-chicago/) | Sep 13, 2026 |
 | Optiver | Graduate Software Engineer (2027 Start) 🇺🇸 | Chicago | optiver | - | [Apply](https://www.optiver.com/join-us/jobs/technology/chicago/graduate-software-engineer-2027-start/) | Sep 13, 2026 |
 | Luma AI | Software Engineer - Product 🇺🇸 | SF Bay Area, CA | gem | - | [Apply](https://jobs.gem.com/lumalabs-ai/am9icG9zdDodtsh6pWUJjQgE8lXoaEJi) | Sep 13, 2026 |
+| GitHub | Security Engineer 🇺🇸 | Omaha, NE | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4464712037) | Sep 12, 2026 |
 | SIG | Trading System Engineer - New Grad 🇺🇸 | Bala-Cynwyd, PA | linkedin | New Grad | [Apply](https://www.linkedin.com/jobs/view/4454660119) | Sep 12, 2026 |
-| Qualcomm | System Level Test Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4456278241) | Sep 12, 2026 |
-| GitHub | Security Engineer 🇺🇸 | Phoenix, AZ | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4464714036) | Sep 12, 2026 |
+| GitHub | Security Engineer 🇺🇸 | Southlake, TX | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4464720029) | Sep 12, 2026 |
 | GitHub | Security Engineer 🇺🇸 | Austin, TX | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4464729005) | Sep 12, 2026 |
+| Qualcomm | Software Engineer - Modem 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4446767992) | Sep 11, 2026 |
 | SpaceX | New Graduate Engineer, Security Software (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) | Sep 11, 2026 |
 | SpaceX | New Graduate Engineer, Security Software (Starshield) 🇺🇸 | Washington, DC | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002) | Sep 11, 2026 |
 | SpaceX | New Graduate Engineer, Power Generation (Starship) 🇺🇸 | Starbase, TX | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) | Sep 11, 2026 |
@@ -101,6 +104,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | AI GPU Power Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169) | Sep 10, 2026 |
 | Intuit | Software Engineer 1 🇺🇸 | Mountain View, CA | linkedin | Early Career | [Apply](https://www.linkedin.com/jobs/view/4401741037) | Sep 10, 2026 |
 | Crusoe | Associate Construction Engineer - Power Infrastructure 🇺🇸 | Denver, CO - US | ashby | - | [Apply](https://jobs.ashbyhq.com/Crusoe/91475b33-9f0e-4594-a425-cde5c5335cde) | Sep 10, 2026 |
+| Qualcomm | Video Software Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4436814013) | Sep 09, 2026 |
 | SpaceX | Accountant, AI Operations 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8786430002?gh_jid=8786430002) | Sep 09, 2026 |
 | Replit | Software Engineer - New Grad (2027) 🇺🇸 | Foster City, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc) | Sep 09, 2026 |
 | Adobe | Quality Engineering Developer - Mobile 🇺🇸 | San Jose | workday | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Quality-Engineering-Developer---Mobile_R171332) | Sep 09, 2026 |
@@ -115,9 +119,9 @@ how to fork, how to add companies, and how filtering works.
 | SIG | Sell Side Research Associate, Freight Transportation & Rail Equipment 🇺🇸 | New York, NY | linkedin | Bachelors | [Apply](https://www.linkedin.com/jobs/view/4406722221) | Sep 07, 2026 |
 | SIG | Equity Research Sales Associate 🇺🇸 | New York, NY | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4414021921) | Sep 07, 2026 |
 | Qualcomm | Embedded Software Engineer – Device Driver Development 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4425829354) | Sep 06, 2026 |
+| Qualcomm | Digital Hardware Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4461983309) | Sep 06, 2026 |
 | SIG | Quantitative Researcher – Master's: 2027 🇺🇸 | Bala-Cynwyd, PA | linkedin | Masters | [Apply](https://www.linkedin.com/jobs/view/4431533759) | Sep 06, 2026 |
 | SIG | Quantitative Researcher – Master's: 2027 🇺🇸 | New York, NY | linkedin | Masters | [Apply](https://www.linkedin.com/jobs/view/4431540631) | Sep 06, 2026 |
-| Qualcomm | Software Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4461667393) | Sep 06, 2026 |
 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US 🇺🇸 | Los Angeles, CA<br>New York, NY<br>San Francisco, CA<br>Sunnyvale, CA<br>Seattle, WA | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | Sep 04, 2026 |
 | SpaceX | Full Stack Software Engineer, Flight Software 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002) | Sep 04, 2026 |
 | SpaceX | Full Stack Software Engineer 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8784864002?gh_jid=8784864002) | Sep 04, 2026 |
@@ -128,6 +132,7 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | AI Security Software Engineer (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8782397002?gh_jid=8782397002) | Sep 03, 2026 |
 | SpaceX | AI Security Software Engineer (Starshield) 🇺🇸 | Washington, DC | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8782424002?gh_jid=8782424002) | Sep 03, 2026 |
 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning 🇺🇸 | US-WA-Bellevue | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | Sep 03, 2026 |
+| Qualcomm | Systems SoC Test Engineer 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4442639582) | Sep 02, 2026 |
 | Applied Intuition | Forward Deployed Engineer - New Grad (December 2026) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943) | Sep 02, 2026 |
 | Applied Intuition | Cybersecurity Software Engineer - New Grad (December 2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | Sep 02, 2026 |
 | Anduril | 2027 Early Career Flight Software Engineer 🇺🇸 | Costa Mesa, California, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | Sep 02, 2026 |
@@ -143,6 +148,7 @@ how to fork, how to add companies, and how filtering works.
 | Google | Software Engineer 🇺🇸 | Mountain View, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/106684387621249734) | Aug 31, 2026 |
 | Qualcomm | Software Engineer - Edge AI/Gen AI 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4449756259) | Aug 30, 2026 |
 | SpaceX | Full Stack Software Engineer, Developer Systems 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002) | Aug 30, 2026 |
+| Qualcomm | Machine Learning Researcher 🇺🇸 | San Diego, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4429652864) | Aug 30, 2026 |
 | Intuit | Distinguished Engineer - Distinguished Engineer, Data Foundation 🇺🇸 | Mountain View, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4460324436) | Aug 30, 2026 |
 | Together AI | GTM Data Analytics Engineer 🇺🇸 | San Francisco | greenhouse | - | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5223190007) | Aug 28, 2026 |
 | Roblox | Software Engineer, Economy Platform 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8060254?gh_jid=8060254) | Aug 28, 2026 |
@@ -181,6 +187,7 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | New Graduate Engineer, Software (Starship) 🇺🇸 | Starbase, TX | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) | Aug 19, 2026 |
 | SpaceX | New Graduate Engineer, Software (Application Software) 🇺🇸 | Hawthorne, CA | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) | Aug 19, 2026 |
 | Skydio | Lead GTM Platform Engineer 🇺🇸 | San Mateo, California, United States | ashby | - | [Apply](https://jobs.ashbyhq.com/skydio/ca13b237-ff5f-4008-977f-ba8c74b7d6da) | Aug 19, 2026 |
+| Decagon | Member of Technical Staff - New Grad (2027 Start) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f) | Aug 18, 2026 |
 | xAI | OSP Engineer - Memphis 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5215570007) | Aug 18, 2026 |
 | SpaceX | Integration & Test Engineer, AI Satellites (Starmind) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002) | Aug 18, 2026 |
 | SpaceX | Full Stack Software Engineer, Employee Experience 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8726225002?gh_jid=8726225002) | Aug 18, 2026 |
@@ -374,28 +381,22 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (22)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (16)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Adobe~~ | ~~2027 University Graduate - People Data Scientist 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 16, 2026 |
-| ~~Qualcomm~~ | ~~Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 16, 2026 |
-| ~~Qualcomm~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Qualcomm~~ | ~~LLM Serving Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 13, 2026 |
-| ~~GitHub~~ | ~~Security Engineer 🇺🇸~~ | Omaha, NE | linkedin | - | Closed | Sep 12, 2026 |
-| ~~GitHub~~ | ~~Security Engineer 🇺🇸~~ | Southlake, TX | linkedin | - | Closed | Sep 12, 2026 |
-| ~~Qualcomm~~ | ~~Software Engineer - Modem 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 11, 2026 |
+| ~~Qualcomm~~ | ~~System Level Test Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 12, 2026 |
+| ~~GitHub~~ | ~~Security Engineer 🇺🇸~~ | Phoenix, AZ | linkedin | - | Closed | Sep 12, 2026 |
 | ~~Okta~~ | ~~Solutions Engineering Associate, Okta 🇺🇸~~ | Boston, Massachusetts<br>New York, New York<br>Pennsylvania | greenhouse | - | Closed | Sep 10, 2026 |
 | ~~Nvidia~~ | ~~ASIC Design Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 10, 2026 |
-| ~~Qualcomm~~ | ~~Video Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 09, 2026 |
 | ~~Broadcom~~ | ~~Applications Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Sep 09, 2026 |
 | ~~SIG~~ | ~~Compensation Systems Coordinator 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | - | Closed | Sep 08, 2026 |
-| ~~Qualcomm~~ | ~~Digital Hardware Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 06, 2026 |
-| ~~Qualcomm~~ | ~~Systems SoC Test Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 02, 2026 |
+| ~~Qualcomm~~ | ~~Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 06, 2026 |
 | ~~Qualcomm~~ | ~~Video DV Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Aug 30, 2026 |
 | ~~Qualcomm~~ | ~~Software Engineer - WLAN 🇺🇸~~ | Santa Clara, CA | linkedin | - | Closed | Aug 30, 2026 |
-| ~~Qualcomm~~ | ~~Machine Learning Researcher 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Aug 30, 2026 |
 | ~~Nvidia~~ | ~~GPU Verification Engineer - New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Aug 14, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Associate Resident Consultant (Remote) 🇺🇸~~ | 2 Locations | workday | - | Closed | Aug 14, 2026 |
 | ~~Aurora Innovation~~ | ~~Software Engineer I (Data Eng infra) 🇺🇸~~ | San Francisco, CA | ashby | Early Career | Closed | Aug 03, 2026 |
