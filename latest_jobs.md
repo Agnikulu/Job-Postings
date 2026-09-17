@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-16 23:45 UTC  
+**Run timestamp:** 2026-09-17 01:19 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Crusoe - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Software Engineer I, Network](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) - *San Francisco, CA - US*
+- **[TECH]** [GPU Architecture Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615) - *3 Locations*
