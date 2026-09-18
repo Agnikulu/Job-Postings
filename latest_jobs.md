@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-18 22:45 UTC  
+**Run timestamp:** 2026-09-18 23:44 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## GitHub - 1 new (1 technical)
+## Perplexity AI - 1 new (1 technical)
 
-- **[TECH]** [Junior Site Relaibilty Engineer](https://www.linkedin.com/jobs/view/4466922642) - *Austin, TX*
+- **[TECH]** [Member of Technical Staff, AI Products (Early Career)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) - *San Francisco*
