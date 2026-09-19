@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-18 23:44 UTC  
+**Run timestamp:** 2026-09-19 01:13 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Perplexity AI - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [Member of Technical Staff, AI Products (Early Career)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) - *San Francisco*
+- **[TECH]** [Research Scientist, Networking Research - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1) - *US, CA, Santa Clara*
