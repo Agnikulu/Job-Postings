@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-21 22:00 UTC  
+**Run timestamp:** 2026-09-21 22:51 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Warp - 1 new (1 technical)
+## Nvidia - 1 new (1 technical)
 
-- **[TECH]** [GTM Engineer ? Revenue Systems](https://jobs.ashbyhq.com/warp/6b4c450d-ab42-426e-afef-32396b9560a6) - *New York*
+- **[TECH]** [Compiler Engineer, Agentic Compilation Systems - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218) - *US, CA, Santa Clara*
