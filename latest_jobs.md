@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-23 15:49 UTC  
+**Run timestamp:** 2026-09-23 16:58 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Qualcomm - 1 new (1 technical)
+## SpaceX - 1 new (1 technical)
 
-- **[TECH]** [Processor Design Verification Engineer](https://www.linkedin.com/jobs/view/4469465510) - *San Diego, CA*
+- **[TECH]** [Full Stack Software Engineer](https://boards.greenhouse.io/spacex/jobs/8837547002?gh_jid=8837547002) - *Starbase, TX*
