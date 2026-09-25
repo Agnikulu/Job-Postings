@@ -1,15 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-25 16:52 UTC  
-**New matches this run:** 3  
+**Run timestamp:** 2026-09-25 18:53 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## GitHub - 3 new (3 technical)
-
-- **[TECH]** [Java Software Engineer](https://www.linkedin.com/jobs/view/4458014682) - *Jersey City, NJ*
-- **[TECH]** [Java Software Engineer](https://www.linkedin.com/jobs/view/4458017674) - *Austin, TX*
-- **[TECH]** [Java Software Engineer](https://www.linkedin.com/jobs/view/4470172563) - *Southlake, TX*
