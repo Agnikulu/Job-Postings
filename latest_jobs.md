@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-28 20:53 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-09-28 21:45 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## SpaceX - 1 new (1 technical)
-
-- **[TECH]** [Embedded Software Engineer, RF Payloads (Starshield)](https://boards.greenhouse.io/spacex/jobs/8853324002?gh_jid=8853324002) - *Hawthorne, CA*
