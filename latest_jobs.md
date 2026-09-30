@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-09-30 22:49 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-09-30 23:47 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Atlassian - 1 new (1 technical)
-
-- **[TECH]** [Data Scientist, 2027 Graduate U.S.](https://www.linkedin.com/jobs/view/4473967227) - *Seattle, WA*
