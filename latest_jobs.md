@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-02 22:44 UTC  
+**Run timestamp:** 2026-10-02 23:44 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Airbnb - 1 new (1 technical)
+## ServiceNow - 1 new (1 technical)
 
-- **[TECH]** [Data Scientist - Algorithms, Community Support](https://careers.airbnb.com/positions/8031901?gh_jid=8031901) - *Remote - USA*
+- **[TECH]** [Software Engineer, Core Infrastructure - Moveworks (New Grad)](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) - *Mountain View, California, United States*
