@@ -156,6 +156,41 @@
   slug: magic.dev
   category: frontier_ai
 
+- name: Thinking Machines Lab
+  ats: ashby
+  slug: thinkingmachines
+  category: frontier_ai
+
+- name: Reflection AI
+  ats: ashby
+  slug: reflectionai
+  category: frontier_ai
+
+- name: Periodic Labs
+  ats: ashby
+  slug: periodic-labs
+  category: frontier_ai
+
+- name: Character.AI
+  ats: ashby
+  slug: character
+  category: frontier_ai
+
+- name: Midjourney
+  ats: ashby
+  slug: midjourney
+  category: frontier_ai
+
+- name: Goodfire
+  ats: greenhouse
+  slug: goodfire
+  category: frontier_ai
+
+- name: MatX
+  ats: ashby
+  slug: matx
+  category: frontier_ai
+
 # =============================================================================
 # Category II: Quantitative Finance
 # =============================================================================
@@ -236,6 +271,31 @@
 
 - name: D. E. Shaw
   ats: deshaw
+  category: quant
+
+- name: Tower Research Capital
+  ats: greenhouse
+  slug: towerresearchcapital
+  category: quant
+
+- name: XTX Markets
+  ats: greenhouse
+  slug: xtxmarketstechnologies
+  category: quant
+
+- name: Squarepoint Capital
+  ats: greenhouse
+  slug: squarepointcapital
+  category: quant
+
+- name: PDT Partners
+  ats: greenhouse
+  slug: pdtpartners
+  category: quant
+
+- name: Voleon
+  ats: ashby
+  slug: voleon
   category: quant
 
 # =============================================================================
@@ -358,7 +418,7 @@
   category: enterprise
 
 - name: Anyscale
-  ats: lever
+  ats: ashby
   slug: anyscale
   category: enterprise
 
@@ -417,8 +477,8 @@
   category: robotics
 
 - name: Waymo
-  ats: google_careers
-  google_company: Waymo
+  ats: greenhouse
+  slug: waymo
   category: robotics
 
 - name: SpaceX
@@ -454,6 +514,11 @@
 - name: 1X Technologies
   ats: ashby
   slug: 1x
+  category: robotics
+
+- name: Nuro
+  ats: greenhouse
+  slug: nuro
   category: robotics
 
 # =============================================================================
@@ -621,9 +686,12 @@
   category: big_tech
 
 - name: LinkedIn
-  ats: greenhouse
-  slug: linkedin
+  ats: linkedin
+  linkedin_company_id: "1337"
   category: big_tech
+  note: >
+    Greenhouse board is gone (404) and the Lever board only holds test reqs;
+    careers.linkedin.com has no plain HTTP API. Using LinkedIn job search.
 
 - name: Microsoft
   ats: microsoft
@@ -859,5 +927,16 @@
   category: big_tech
 
 - name: Snyk
-  ats: snyk
+  ats: ashby
+  slug: snyk
+  category: big_tech
+
+- name: Block
+  ats: greenhouse
+  slug: block
+  category: big_tech
+
+- name: Dropbox
+  ats: greenhouse
+  slug: dropbox
   category: big_tech

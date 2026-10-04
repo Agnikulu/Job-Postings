@@ -152,8 +152,8 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | `ATS_SNIPER_LINKEDIN_DELAY_SEC` | 10 (CI) / 6 (local default) | Pause between LinkedIn company fetches |
 | `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 1.0 (CI) / 0.75 (local default) | Pause between LinkedIn search pages |
 | `ATS_SNIPER_EVAL_FETCH_WORKERS` | 4 | Parallel workers for eval fetch (non-LinkedIn) |
-| `ATS_SNIPER_MAX_LIST_PAGES` | 60 | Cap Google/Microsoft/Workday/Apple list depth in CI |
-| `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 1200 | Cap single-response megaboards (e.g. Anduril ~1.9k) |
+| `ATS_SNIPER_MAX_LIST_PAGES` | 100 | Cap Google/Microsoft/Workday/Apple list depth in CI |
+| `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 2000 | Cap single-response megaboards (e.g. Anduril ~1.9k) |
 | `ATS_SNIPER_RESET_STATE` | — | Set to `1` (or use workflow **reset_state**) to wipe `seen_jobs.json`, `jobs_archive.json`, and `company_stats.json` before the run |
 
 **LinkedIn HTTP 429:** The guest jobs API rate-limits aggressively when many companies are hit at once. The scraper fetches all `linkedin` registry entries **one at a time** with backoff on 429. If you still see warnings, wait 15–30 minutes, re-run, or raise `ATS_SNIPER_LINKEDIN_DELAY_SEC` (e.g. `10`). For eval LinkedIn backfill only: `python testing/scripts/_retry_linkedin_eval.py` (8s between companies).
@@ -331,9 +331,9 @@ Source of truth: [`companies.yaml`](companies.yaml). Regenerate this table after
 python scripts/company_portal_links.py
 ```
 
-### Active companies (149)
+### Active companies (167)
 
-<!-- 149 active, 1 tier3_todo -->
+<!-- 167 active, 0 tier3_todo -->
 | Company | Category | ATS | Job board |
 |---------|----------|-----|-----------|
 | AMD | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -344,7 +344,10 @@ python scripts/company_portal_links.py
 | Apple | big_tech | `apple` | [Open board](https://jobs.apple.com/en-us/search) |
 | Arista Networks | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/AristaNetworks) |
 | Arm Holdings | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Atlassian | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Aurora Innovation | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/aurora-operations-inc) |
+| Block | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/block) |
+| Bloomberg LP | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Brex | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/brex) |
 | Broadcom | big_tech | `workday` | [Open board](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) |
 | Chime | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/chime) |
@@ -352,6 +355,7 @@ python scripts/company_portal_links.py
 | Datadog | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/datadog) |
 | Discord | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/discord) |
 | DoorDash | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/doordashusa) |
+| Dropbox | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/dropbox) |
 | Duolingo | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/duolingo) |
 | Etsy | big_tech | `workday` | [Open board](https://etsy.wd5.myworkdayjobs.com/en-US/Etsy_Careers) |
 | Fivetran | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/fivetran) |
@@ -359,7 +363,7 @@ python scripts/company_portal_links.py
 | Google | big_tech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&target_level=INTERN_AND_APPRENTICE&sort_by=date) |
 | Instacart | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/instacart) |
 | Intuit | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
-| LinkedIn | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/linkedin) |
+| LinkedIn | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Lyft | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/lyft) |
 | Marvell | big_tech | `workday` | [Open board](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers) |
 | Meta | big_tech | `meta` | [Open board](https://www.metacareers.com/jobs) |
@@ -373,6 +377,7 @@ python scripts/company_portal_links.py
 | Qualcomm | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Reddit | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/reddit) |
 | Riot Games | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/riotgames) |
+| Rippling | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Roblox | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/roblox) |
 | Rubrik | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/rubrik) |
 | Samsara | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/samsara) |
@@ -381,12 +386,12 @@ python scripts/company_portal_links.py
 | Shopify | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Snap | big_tech | `workday` | [Open board](https://wd1.myworkdaysite.com/recruiting/snapchat/snap) |
 | Snowflake | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/snowflake) |
-| Snyk | big_tech | `snyk` | [Open board](https://snyk.io/careers/all-jobs/) |
+| Snyk | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/snyk) |
 | Spotify | big_tech | `lever` | [Open board](https://jobs.lever.co/spotify) |
 | Tesla | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Uber | big_tech | `uber` | [Open board](https://www.uber.com/careers/list/) |
-| Zillow | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
-| Zoox | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Zillow | big_tech | `workday` | [Open board](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External) |
+| Zoox | big_tech | `lever` | [Open board](https://jobs.lever.co/zoox) |
 | Zscaler | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/zscaler) |
 | Benchling | biotech | `ashby` | [Open board](https://jobs.ashbyhq.com/benchling) |
 | Click Therapeutics | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/clicktherapeutics) |
@@ -404,10 +409,10 @@ python scripts/company_portal_links.py
 | Verily | biotech | `workday` | [Open board](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers) |
 | Xaira Therapeutics | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/xairatherapeutics) |
 | Zocdoc | biotech | `greenhouse` | [Open board](https://boards.greenhouse.io/zocdoc) |
-| Anyscale | enterprise | `lever` | [Open board](https://jobs.lever.co/anyscale) |
+| Anyscale | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/anyscale) |
 | Baseten | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/baseten) |
 | Clay | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/claylabs) |
-| ClickHouse | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/clickhouse) |
+| ClickHouse | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/clickhouse) |
 | Cloudflare | enterprise | `greenhouse` | [Open board](https://boards.greenhouse.io/cloudflare) |
 | Cognition AI | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/cognition) |
 | Coinbase | enterprise | `coinbase` | [Open board](https://www.coinbase.com/careers/positions) |
@@ -436,12 +441,14 @@ python scripts/company_portal_links.py
 | Warp | enterprise | `ashby` | [Open board](https://jobs.ashbyhq.com/warp) |
 | Anthropic | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/anthropic) |
 | Cerebras | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/cerebras) |
+| Character.AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/character) |
 | Cohere | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/cohere) |
 | CoreWeave | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/coreweave) |
 | Crusoe | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/Crusoe) |
 | Cursor | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/cursor) |
 | Fireworks AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/fireworks) |
 | Glean | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/gleanwork) |
+| Goodfire | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/goodfire) |
 | Google DeepMind | frontier_ai | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?company=DeepMind) |
 | Groq | frontier_ai | `gem` | [Open board](https://jobs.gem.com/groq) |
 | Harvey | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/harvey) |
@@ -449,15 +456,20 @@ python scripts/company_portal_links.py
 | Lambda Labs | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/lambda) |
 | LangChain | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/langchain) |
 | Magic AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/magic.dev) |
+| MatX | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/matx) |
 | Mercor | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/mercor) |
+| Midjourney | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/midjourney) |
 | Nvidia | frontier_ai | `workday` | [Open board](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite) |
 | OpenAI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/openai) |
+| Periodic Labs | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/periodic-labs) |
 | Perplexity AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/perplexity) |
 | Pinecone | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/pinecone) |
+| Reflection AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/reflectionai) |
 | Reka AI | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/reka) |
 | Scale AI | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/scaleai) |
+| Thinking Machines Lab | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/thinkingmachines) |
 | Wiz | frontier_ai | `wiz` | [Open board](https://www.wiz.io/careers) |
-| World Labs | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/worldlabs) |
+| World Labs | frontier_ai | `ashby` | [Open board](https://jobs.ashbyhq.com/worldlabs) |
 | xAI | frontier_ai | `greenhouse` | [Open board](https://boards.greenhouse.io/xai) |
 | Akuna Capital | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/akunacapital) |
 | Citadel Securities | quant | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -469,10 +481,15 @@ python scripts/company_portal_links.py
 | Jane Street | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/janestreet) |
 | Jump Trading | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/jumptrading) |
 | Optiver | quant | `optiver` | [Open board](—) |
+| PDT Partners | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/pdtpartners) |
 | Point72 | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/point72) |
 | SIG | quant | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Squarepoint Capital | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/squarepointcapital) |
+| Tower Research Capital | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/towerresearchcapital) |
 | Two Sigma | quant | `two_sigma` | [Open board](—) |
 | Virtu Financial | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/virtu) |
+| Voleon | quant | `ashby` | [Open board](https://jobs.ashbyhq.com/voleon) |
+| XTX Markets | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/xtxmarketstechnologies) |
 | 1X Technologies | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/1x) |
 | Anduril | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/andurilindustries) |
 | Applied Intuition | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/applied) |
@@ -480,17 +497,17 @@ python scripts/company_portal_links.py
 | Boston Dynamics | robotics | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Figure AI | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/figureai) |
 | Luma AI | robotics | `gem` | [Open board](https://jobs.gem.com/lumalabs-ai) |
+| Nuro | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/nuro) |
 | Physical Intelligence | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/physicalintelligence) |
 | Shield AI | robotics | `lever` | [Open board](https://jobs.lever.co/shieldai) |
 | Skydio | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/skydio) |
 | SpaceX | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/spacex) |
-| Waymo | robotics | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?company=Waymo) |
+| Waymo | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/waymo) |
 
 ### Tier 3 - tracked, not scraped yet
 
 | Company | Category | Notes |
 |---------|----------|-------|
-| Atlassian | big_tech | Public SmartRecruiters postings API (slug 'atlassian') now returns totalFound:0 and the hosted careers.smartrecruiters.com/Atlassian page redirects away — Atlassian moved job listings behind their own www.atlassian.com/gateway/api/graphql (internal, persisted-query only, no public schema found). Needs a bespoke adapter or a rediscovered public endpoint before this can be re-enabled. |
 
 ---
 

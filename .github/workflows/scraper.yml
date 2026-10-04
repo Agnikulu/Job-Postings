@@ -52,8 +52,8 @@ jobs:
           ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC: "1.0"
           ATS_SNIPER_RESET_STATE: ${{ github.event_name == 'workflow_dispatch' && inputs.reset_state && '1' || '' }}
           # Keep hourly runs inside the job budget (Google can return ~4k jobs at 200 pages).
-          ATS_SNIPER_MAX_LIST_PAGES: "60"
-          ATS_SNIPER_MAX_JOBS_PER_COMPANY: "1200"
+          ATS_SNIPER_MAX_LIST_PAGES: "100"
+          ATS_SNIPER_MAX_JOBS_PER_COMPANY: "2000"
         run: python scraper.py
 
       - name: Commit updated state

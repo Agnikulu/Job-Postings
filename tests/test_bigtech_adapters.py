@@ -123,6 +123,26 @@ def test_apple_fetch_maps_fields() -> None:
     assert jobs[0].location == "Cupertino, CA, US"
 
 
+def test_apple_fetch_handles_location_suffixed_ids() -> None:
+    html = """
+    <a aria-label="Software Engineer, Satellite Operations 200687074"
+       href="/en-us/details/200687074-3543/software-engineer-satellite-operations?team=HRDWR">
+    </a>
+    <div id="search-location-search-job-title-200687074-3543-1"
+         class="column large-4 small-12 text-align-start job-title-location">
+      <span class="table--advanced-search__location-sub">Austin, TX, US</span>
+    </div>
+    """
+    company = {"name": "Apple", "category": "big_tech"}
+    with patch("adapters.apple._get_page", side_effect=[html, ""]):
+        jobs = fetch_apple(company)
+    assert len(jobs) == 1
+    assert jobs[0].id == "200687074-3543"
+    assert jobs[0].title == "Software Engineer, Satellite Operations"
+    assert jobs[0].location == "Austin, TX, US"
+    assert jobs[0].url.endswith("/details/200687074-3543/software-engineer-satellite-operations")
+
+
 def test_linkedin_fetch_maps_fields() -> None:
     html = """
     <div data-entity-urn="urn:li:jobPosting:12345">

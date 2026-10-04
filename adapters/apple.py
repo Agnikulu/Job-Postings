@@ -30,10 +30,10 @@ log = logging.getLogger(__name__)
 SEARCH_URL = "https://jobs.apple.com/en-us/search"
 BASE_URL = "https://jobs.apple.com"
 _LABEL_RE = re.compile(
-    r'aria-label="([^"]+)"[^>]*href="/en-us/details/(\d+)/([^"?]+)',
+    r'aria-label="([^"]+)"[^>]*href="/en-us/details/(\d+(?:-\d+)?)/([^"?]+)',
 )
 _LOCATION_RE = re.compile(
-    r'search-location-search-job-title-PIPE-(\d+)-\d+"[^>]*>.*?'
+    r'search-location-search-job-title-(?:PIPE-)?(\d+(?:-\d+)?)-\d+"[^>]*>.*?'
     r'<span class="table--advanced-search__location-sub"[^>]*>([^<]+)</span>',
     re.DOTALL | re.IGNORECASE,
 )
@@ -78,7 +78,8 @@ def _parse_page(text: str) -> list[dict[str, str]]:
             continue
         clean_label = html.unescape(label)
         match = re.match(r"^(.+?)\s+(\d{6,})$", clean_label)
-        if not match or match.group(2) != job_id or job_id in seen:
+        # Newer postings use "<req>-<location>" ids; the label carries only <req>.
+        if not match or match.group(2) != job_id.split("-")[0] or job_id in seen:
             continue
         seen.add(job_id)
         jobs.append(
