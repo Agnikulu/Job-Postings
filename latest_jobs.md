@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-06 23:00 UTC  
+**Run timestamp:** 2026-10-07 00:00 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Shield AI - 1 new (1 technical)
+## Nuro - 1 new (1 technical)
 
-- **[TECH]** [Software Development Engineer - New Graduate](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583) - *San Diego, California*
+- **[TECH]** [Software Engineer, Performance Tooling and Infrastructure New Grad](https://nuro.ai/careersitem?gh_jid=8227399) - *Mountain View, California (HQ)*
