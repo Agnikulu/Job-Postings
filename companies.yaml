@@ -641,6 +641,8 @@
 
 - name: Apple
   ats: apple
+  # ~6k postings; exempt from the CI per-company cap so none are dropped.
+  max_jobs: 0
   category: big_tech
 
 - name: Roblox

@@ -25,3 +25,13 @@ def test_cap_job_list(monkeypatch):
     capped = cap_job_list("Co", jobs)
     assert len(capped) == 2
     assert capped[0].id == "1"
+
+
+def test_cap_job_list_override(monkeypatch):
+    monkeypatch.setenv("ATS_SNIPER_MAX_JOBS_PER_COMPANY", "1")
+    jobs = [
+        Job("1", "Co", "A", "", "http://a", None, None, "gh", "x"),
+        Job("2", "Co", "B", "", "http://b", None, None, "gh", "x"),
+    ]
+    assert len(cap_job_list("Co", jobs, 0)) == 2
+    assert len(cap_job_list("Co", jobs, 5)) == 2

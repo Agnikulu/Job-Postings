@@ -40,15 +40,21 @@ def linkedin_company_delay_sec() -> float:
         return 6.0
 
 
-def cap_job_list(company: str, jobs: list[Job]) -> list[Job]:
-    """Truncate oversized single-response boards (e.g. huge Greenhouse lists)."""
-    raw = os.environ.get("ATS_SNIPER_MAX_JOBS_PER_COMPANY", "").strip()
-    if not raw:
-        return jobs
-    try:
-        cap = int(raw)
-    except ValueError:
-        return jobs
+def cap_job_list(company: str, jobs: list[Job], override: int | None = None) -> list[Job]:
+    """Truncate oversized single-response boards (e.g. huge Greenhouse lists).
+
+    ``override`` (companies.yaml ``max_jobs``) replaces the env cap; 0 disables it.
+    """
+    if override is not None:
+        cap = override
+    else:
+        raw = os.environ.get("ATS_SNIPER_MAX_JOBS_PER_COMPANY", "").strip()
+        if not raw:
+            return jobs
+        try:
+            cap = int(raw)
+        except ValueError:
+            return jobs
     if cap <= 0 or len(jobs) <= cap:
         return jobs
     log.warning(

@@ -152,8 +152,8 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | `ATS_SNIPER_LINKEDIN_DELAY_SEC` | 10 (CI) / 6 (local default) | Pause between LinkedIn company fetches |
 | `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 1.0 (CI) / 0.75 (local default) | Pause between LinkedIn search pages |
 | `ATS_SNIPER_EVAL_FETCH_WORKERS` | 4 | Parallel workers for eval fetch (non-LinkedIn) |
-| `ATS_SNIPER_MAX_LIST_PAGES` | 100 | Cap Google/Microsoft/Workday/Apple list depth in CI |
-| `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 2000 | Cap single-response megaboards (e.g. Anduril ~1.9k) |
+| `ATS_SNIPER_MAX_LIST_PAGES` | 100 | Cap Google/Microsoft/Workday list depth in CI (Apple always fetches every page) |
+| `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 2000 | Cap single-response megaboards (e.g. Anduril ~1.9k); per-company `max_jobs` in `companies.yaml` overrides it (`0` = uncapped, used for Apple) |
 | `ATS_SNIPER_RESET_STATE` | — | Set to `1` (or use workflow **reset_state**) to wipe `seen_jobs.json`, `jobs_archive.json`, and `company_stats.json` before the run |
 
 **LinkedIn HTTP 429:** The guest jobs API rate-limits aggressively when many companies are hit at once. The scraper fetches all `linkedin` registry entries **one at a time** with backoff on 429. If you still see warnings, wait 15–30 minutes, re-run, or raise `ATS_SNIPER_LINKEDIN_DELAY_SEC` (e.g. `10`). For eval LinkedIn backfill only: `python testing/scripts/_retry_linkedin_eval.py` (8s between companies).

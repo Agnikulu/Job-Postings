@@ -115,7 +115,7 @@ def _fetch_company_jobs(company: dict[str, Any]) -> tuple[str, list[Job] | None,
     if adapter is None:
         return name, None, f"unknown ATS {ats!r}"
     try:
-        jobs = cap_job_list(name, adapter(company))
+        jobs = cap_job_list(name, adapter(company), company.get("max_jobs"))
         return name, jobs, None
     except AdapterError as e:
         return name, None, str(e)

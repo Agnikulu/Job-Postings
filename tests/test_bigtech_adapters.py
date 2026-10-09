@@ -103,44 +103,93 @@ def test_microsoft_fetch_maps_fields() -> None:
     assert jobs[0].url.endswith("/careers/job/1")
 
 
+def _apple_raw(job_id: str, title: str, slug: str, locations: list[dict]) -> dict:
+    return {
+        "id": job_id,
+        "postingTitle": title,
+        "transformedPostingTitle": slug,
+        "locations": locations,
+        "postDateInGMT": "2026-10-01T05:57:40.072Z",
+        "team": {"teamName": "Hardware", "teamCode": "HRDWR"},
+    }
+
+
 def test_apple_fetch_maps_fields() -> None:
-    html = """
-    <a aria-label="Software Engineer 200314033"
-       href="/en-us/details/200314033/software-engineer?team=HRDWR">
-       Software Engineer
-    </a>
-    <div id="search-location-search-job-title-PIPE-200314033-1"
-         class="column large-4 small-12 text-align-start job-title-location">
-      <span class="table--advanced-search__location-sub">Cupertino, CA, US</span>
-    </div>
-    """
+    page = {
+        "totalRecords": 2,
+        "searchResults": [
+            _apple_raw(
+                "PIPE-200314033",
+                "Software Engineer",
+                "software-engineer",
+                [{"name": "Cupertino", "stateProvince": "California",
+                  "countryName": "United States of America"}],
+            ),
+            _apple_raw(
+                "200687074-3543",
+                "Software Engineer, Satellite Operations",
+                "software-engineer-satellite-operations",
+                [{"name": "Austin", "countryName": "United States of America"},
+                 {"name": "Shanghai", "countryName": "China"}],
+            ),
+        ],
+    }
     company = {"name": "Apple", "category": "big_tech"}
-    with patch("adapters.apple._get_page", side_effect=[html, ""]):
+    with patch("adapters.apple._get_page", return_value=page):
         jobs = fetch_apple(company)
-    assert len(jobs) == 1
-    assert jobs[0].title == "Software Engineer"
+    assert len(jobs) == 2
     assert jobs[0].id == "200314033"
-    assert jobs[0].location == "Cupertino, CA, US"
+    assert jobs[0].title == "Software Engineer"
+    assert jobs[0].location == "Cupertino, California, United States of America"
+    assert jobs[0].url.endswith("/details/200314033/software-engineer")
+    assert jobs[0].posted_at == "2026-10-01T05:57:40.072Z"
+    assert jobs[0].department == "Hardware"
+    assert jobs[1].id == "200687074-3543"
+    assert jobs[1].location == "Austin, United States of America; Shanghai, China"
+    assert jobs[1].url.endswith("/details/200687074-3543/software-engineer-satellite-operations")
 
 
-def test_apple_fetch_handles_location_suffixed_ids() -> None:
-    html = """
-    <a aria-label="Software Engineer, Satellite Operations 200687074"
-       href="/en-us/details/200687074-3543/software-engineer-satellite-operations?team=HRDWR">
-    </a>
-    <div id="search-location-search-job-title-200687074-3543-1"
-         class="column large-4 small-12 text-align-start job-title-location">
-      <span class="table--advanced-search__location-sub">Austin, TX, US</span>
-    </div>
-    """
+def test_apple_fetches_every_page_and_dedupes() -> None:
+    def page(n: int) -> dict:
+        # 45 reported -> 3 pages; page 3 repeats a job shifted by a new posting.
+        ids = {1: range(0, 20), 2: range(20, 40), 3: range(39, 45)}[n]
+        return {
+            "totalRecords": 45,
+            "searchResults": [
+                _apple_raw(f"{i}-1", f"Role {i}", f"role-{i}", []) for i in ids
+            ],
+        }
+
     company = {"name": "Apple", "category": "big_tech"}
-    with patch("adapters.apple._get_page", side_effect=[html, ""]):
+    with patch("adapters.apple._get_page", side_effect=page) as get:
         jobs = fetch_apple(company)
-    assert len(jobs) == 1
-    assert jobs[0].id == "200687074-3543"
-    assert jobs[0].title == "Software Engineer, Satellite Operations"
-    assert jobs[0].location == "Austin, TX, US"
-    assert jobs[0].url.endswith("/details/200687074-3543/software-engineer-satellite-operations")
+    assert sorted(c.args[0] for c in get.call_args_list) == [1, 2, 3]
+    assert len(jobs) == 45
+    assert len({j.id for j in jobs}) == 45
+
+
+def test_apple_refetches_pages_with_shuffled_ties() -> None:
+    # Page 2's first slot repeats job 19 instead of job 20 on the first request only.
+    calls = {2: 0}
+
+    def page(n: int) -> dict:
+        ids = list(range(0, 20)) if n == 1 else list(range(20, 25))
+        if n == 2:
+            calls[2] += 1
+            if calls[2] == 1:
+                ids[0] = 19
+        return {
+            "totalRecords": 25,
+            "searchResults": [
+                _apple_raw(f"{i}-1", f"Role {i}", f"role-{i}", []) for i in ids
+            ],
+        }
+
+    company = {"name": "Apple", "category": "big_tech"}
+    with patch("adapters.apple._get_page", side_effect=page):
+        jobs = fetch_apple(company)
+    assert len(jobs) == 25
+    assert "20-1" in {j.id for j in jobs}
 
 
 def test_linkedin_fetch_maps_fields() -> None:
