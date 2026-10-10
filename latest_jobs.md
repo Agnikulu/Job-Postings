@@ -1,17 +1,23 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-09 23:16 UTC  
-**New matches this run:** 2  
+**Run timestamp:** 2026-10-10 03:46 UTC  
+**New matches this run:** 5  
 **Location filter:** US-only
 
 
 Grouped by company (sorted by match count):
 
 
-## Affirm - 1 new (1 technical)
+## Nvidia - 2 new (2 technical)
 
-- **[TECH]** [IT Engineer Intern (Early Careers Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011375003) - *San Francisco, California, United States*
+- **[TECH]** [ASIC Clocks Verification Engineer - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) - *US, CA, Santa Clara*
+- **[TECH]** [C++ Software Engineer, Infrastructure Tools - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) - *US, CA, Santa Clara*
 
-## Shield AI - 1 new (1 technical)
+## Shield AI - 2 new (2 technical)
 
-- **[TECH]** [Engineer I, Software Integration (R6214)](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69) - *Washington, D.C.*
+- **[TECH]** [Engineer I, Software - Factory Team (R6235)](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) - *Washington, D.C.*
+- **[TECH]** [Engineer I, Software Test and Automation (R6216)](https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7) - *Washington, D.C.*
+
+## Roblox - 1 new (1 technical)
+
+- **[TECH]** [Software Engineer, ROS](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) - *San Mateo, CA, United States*
