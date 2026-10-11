@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 565
+- **Open positions:** 566
 - **All-time tracked:** 706
 - **Active companies:** 167
-- **Last run (raw / matched):** 52108 postings fetched, 565 passed filters
-- **Last updated:** `2026-10-11 09:40 UTC`
+- **Last run (raw / matched):** 52828 postings fetched, 566 passed filters
+- **Last updated:** `2026-10-11 13:29 UTC`
 
 ## Legend
 
@@ -447,6 +447,7 @@ how to fork, how to add companies, and how filtering works.
 | Jump Trading | Campus Systems Engineer (Full-Time) 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8008112) | Jul 08, 2026 |
 | Jump Trading | Campus AI Research Engineer (Full-Time) 🇺🇸 | Chicago<br>New York | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) | Jul 08, 2026 |
 | Jump Trading | Campus AI Research Engineer – Deep Learning (Full-Time) 🇺🇸 | Chicago<br>New York | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8052343) | Jul 08, 2026 |
+| Tesla | Engineering Technician, Vehicle Cabin 🇺🇸 | Fremont, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4433886752) | Jul 06, 2026 |
 | SpaceX | Software Engineer, Product Development (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8621621002?gh_jid=8621621002) | Jul 06, 2026 |
 | SpaceX | Software Engineer (Starshield) - Top Secret Clearance 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8621649002?gh_jid=8621649002) | Jul 06, 2026 |
 | SpaceX | Software Engineer, High Performance Computing 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002) | Jul 06, 2026 |
@@ -608,7 +609,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (141)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (140)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -729,7 +730,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Anduril~~ | ~~Android Engineer 🇺🇸~~ | Costa Mesa, California, United States<br>Seattle, Washington, United States<br>Washington, District of Columbia, United States | greenhouse | - | Closed | Jul 21, 2026 |
 | ~~Google~~ | ~~Security Engineer, Detection 🇺🇸~~ | Reston, VA, USA | google_careers | - | Closed | Jul 15, 2026 |
 | ~~DRW~~ | ~~FPGA Developer 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 13, 2026 |
-| ~~Tesla~~ | ~~Engineering Technician, Vehicle Cabin 🇺🇸~~ | Fremont, CA | linkedin | - | Closed | Jul 06, 2026 |
 | ~~Jane Street~~ | ~~Software Engineer 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | Jul 06, 2026 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
