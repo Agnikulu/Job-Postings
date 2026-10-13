@@ -193,7 +193,7 @@ def run() -> int:
     other_active = [c for c in active if c.get("ats") != "linkedin"]
     workers = _fetch_workers()
     log.info(
-        "Fetching %d companies (%d parallel workers; %d LinkedIn serial)",
+        "Fetching %d companies (%d parallel workers; %d LinkedIn serial alongside)",
         len(active),
         workers,
         len(linkedin_active),
@@ -209,26 +209,38 @@ def run() -> int:
         log.info("%s: fetched %d postings", name, len(jobs))
         fetched.append((name, jobs))
 
-    fetched: list[tuple[str, list[Job]]] = []
-    if workers <= 1:
-        for company in other_active:
-            name, jobs, err = _fetch_company_jobs(company)
-            if err == "tier3":
-                continue
-            _record_fetch(name, jobs, err)
-    else:
-        with ThreadPoolExecutor(max_workers=workers) as pool:
-            futs = {pool.submit(_fetch_company_jobs, c): c for c in other_active}
-            for fut in as_completed(futs):
-                name, jobs, err = fut.result()
-                _record_fetch(name, jobs, err)
+    def _fetch_linkedin_serial() -> list[tuple[str, list[Job] | None, str | None]]:
+        # LinkedIn rate-limits hard, so its companies go one at a time — but on
+        # their own thread, alongside the other ATSes rather than after the
+        # slowest of them.
+        results = []
+        li_delay = linkedin_company_delay_sec()
+        for i, company in enumerate(linkedin_active):
+            if i and li_delay:
+                time.sleep(li_delay)
+            results.append(_fetch_company_jobs(company))
+            log.info(
+                "LinkedIn %d/%d done: %s", i + 1, len(linkedin_active), results[-1][0]
+            )
+        return results
 
-    li_delay = linkedin_company_delay_sec()
-    for i, company in enumerate(linkedin_active):
-        if i and li_delay:
-            time.sleep(li_delay)
-        name, jobs, err = _fetch_company_jobs(company)
-        _record_fetch(name, jobs, err)
+    fetched: list[tuple[str, list[Job]]] = []
+    with ThreadPoolExecutor(max_workers=1) as li_pool:
+        li_future = li_pool.submit(_fetch_linkedin_serial)
+        if workers <= 1:
+            for company in other_active:
+                name, jobs, err = _fetch_company_jobs(company)
+                if err == "tier3":
+                    continue
+                _record_fetch(name, jobs, err)
+        else:
+            with ThreadPoolExecutor(max_workers=workers) as pool:
+                futs = {pool.submit(_fetch_company_jobs, c): c for c in other_active}
+                for fut in as_completed(futs):
+                    name, jobs, err = fut.result()
+                    _record_fetch(name, jobs, err)
+        for name, jobs, err in li_future.result():
+            _record_fetch(name, jobs, err)
 
     for name, jobs in sorted(fetched, key=lambda x: x[0].lower()):
         succeeded += 1

@@ -6,6 +6,8 @@ import sys
 from pathlib import Path
 from unittest.mock import patch
 
+import pytest
+
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from adapters.apple import fetch as fetch_apple
@@ -101,6 +103,12 @@ def test_microsoft_fetch_maps_fields() -> None:
         jobs = fetch_microsoft(company)
     assert jobs[0].location == "Redmond, WA, US"
     assert jobs[0].url.endswith("/careers/job/1")
+
+
+@pytest.fixture(autouse=True)
+def _apple_cache(tmp_path, monkeypatch):
+    monkeypatch.setattr("adapters.apple.CACHE_PATH", tmp_path / "apple_description_cache.json")
+    return tmp_path / "apple_description_cache.json"
 
 
 def _apple_raw(job_id: str, title: str, slug: str, locations: list[dict]) -> dict:
@@ -226,6 +234,53 @@ def test_apple_skips_descriptions_for_titles_never_included() -> None:
         jobs = fetch_apple(company)
     assert len(jobs) == len(titles)
     assert descs.call_args.args[0] == ["0-1"]
+
+
+def test_apple_refetches_short_pages() -> None:
+    # Page 2 comes back empty once (API under load), then full.
+    calls = {2: 0}
+
+    def page(n: int, filters: dict) -> dict:
+        ids = {1: range(0, 20), 2: range(20, 40), 3: range(40, 45)}[n]
+        if n == 2:
+            calls[2] += 1
+            if calls[2] == 1:
+                ids = range(0)
+        return {
+            "totalRecords": 45,
+            "searchResults": [_apple_raw(f"{i}-1", f"Role {i}", f"role-{i}", []) for i in ids],
+        }
+
+    company = {"name": "Apple", "category": "big_tech"}
+    with (
+        patch("adapters.apple._get_page", side_effect=page),
+        patch("adapters.apple.time.sleep"),
+    ):
+        jobs = fetch_apple(company)
+    assert len(jobs) == 45
+    assert calls[2] == 2
+
+
+def test_apple_caches_descriptions_between_runs(_apple_cache) -> None:
+    import json
+
+    titles = ["Software Engineer, Growth", "Software Engineer, Ads"]
+    page = {
+        "totalRecords": 2,
+        "searchResults": [_apple_raw(f"{i}-1", t, f"r-{i}", []) for i, t in enumerate(titles)],
+    }
+    _apple_cache.write_text(json.dumps({"0-1": "cached body", "99-1": "closed"}))
+    company = {"name": "Apple", "category": "big_tech"}
+    with (
+        patch("adapters.apple._get_page", return_value=page),
+        patch(
+            "adapters.apple.map_descriptions_parallel", return_value={"1-1": "fresh body"}
+        ) as descs,
+    ):
+        jobs = fetch_apple(company)
+    assert descs.call_args.args[0] == ["1-1"]
+    assert {j.id: j.description for j in jobs} == {"0-1": "cached body", "1-1": "fresh body"}
+    assert json.loads(_apple_cache.read_text()) == {"0-1": "cached body", "1-1": "fresh body"}
 
 
 def test_linkedin_fetch_maps_fields() -> None:

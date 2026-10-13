@@ -7,14 +7,21 @@ remaining pages are fetched in parallel.
 The site's own location filter limits the search to US postings (~70% of the
 board) unless ATS_SNIPER_ALL_LOCATIONS=1. It matches any posting with at least
 one US location, so nothing the US-only pipeline would keep is dropped.
+
+Fetched descriptions are memoized by job id in apple_description_cache.json
+(persisted between CI runs via actions/cache), so hourly runs only open
+detail pages for new postings.
 """
 
 from __future__ import annotations
 
+import json
 import logging
 import math
+import time
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import replace
+from pathlib import Path
 from typing import Any
 
 import requests
@@ -43,6 +50,7 @@ PAGE_WORKERS = 8
 REFETCH_ROUNDS = 5
 DETAIL_WORKERS = 6
 US_FILTER = {"locations": ["postLocation-USA"]}
+CACHE_PATH = Path(__file__).resolve().parent.parent / "apple_description_cache.json"
 
 
 @retry(
@@ -171,10 +179,17 @@ def _fetch_all_raw(name: str, filters: dict[str, Any]) -> list[dict[str, Any]]:
     # Postings sharing one timestamp (multi-location reqs) are ordered differently on
     # each request, so a tie group straddling a page boundary repeats one sibling and
     # skips another. Re-fetching those pages surfaces the skipped siblings.
-    for _ in range(REFETCH_ROUNDS):
-        if not dup_pages or (total and len(merged) >= total):
+    # Under load the API also answers some pages with a 200 and few or no results
+    # (seen in CI: 28 empty pages), so short non-final pages are re-fetched too.
+    for attempt in range(REFETCH_ROUNDS):
+        if total and len(merged) >= total:
             break
-        nums = sorted(dup_pages)
+        short = {n for n in pages if n < last_page and len(pages[n]) < PAGE_SIZE}
+        nums = sorted(dup_pages | short)
+        if not nums:
+            break
+        if short:
+            time.sleep(2**attempt)
         with ThreadPoolExecutor(max_workers=PAGE_WORKERS) as pool:
             for num, res in zip(nums, pool.map(get_page, nums)):
                 pages[num] = list(res.get("searchResults") or [])
@@ -182,6 +197,20 @@ def _fetch_all_raw(name: str, filters: dict[str, Any]) -> list[dict[str, Any]]:
     if total and len(merged) < total:
         log.warning("Apple: got %d of %d reported postings for %s", len(merged), total, name)
     return merged
+
+
+def _load_cache() -> dict[str, str]:
+    try:
+        payload = json.loads(CACHE_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    if not isinstance(payload, dict):
+        return {}
+    return {str(k): v for k, v in payload.items() if isinstance(v, str) and v}
+
+
+def _save_cache(cache: dict[str, str]) -> None:
+    CACHE_PATH.write_text(json.dumps(cache, sort_keys=True), encoding="utf-8")
 
 
 def fetch(company: dict[str, Any]) -> list[Job]:
@@ -212,14 +241,25 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         for j in jobs
         if should_fetch_description(j.title) and could_be_included(j.title)
     ]
-    descs: dict[str, str | None] = {}
-    if fetch_ids:
+    cache = _load_cache()
+    descs: dict[str, str | None] = {
+        job_id: cache[job_id] for job_id in fetch_ids if job_id in cache
+    }
+    missing = [job_id for job_id in fetch_ids if job_id not in cache]
+    if missing:
+        log.info("Apple: fetching %d new descriptions (%d cached)", len(missing), len(descs))
         slug_by_id = {j.id: j.url.rsplit("/", 1)[-1] for j in jobs}
-        descs = map_descriptions_parallel(
-            fetch_ids,
-            lambda job_id: fetch_apple_description(job_id, slug_by_id.get(job_id, "")),
-            max_workers=DETAIL_WORKERS,
+        descs.update(
+            map_descriptions_parallel(
+                missing,
+                lambda job_id: fetch_apple_description(job_id, slug_by_id.get(job_id, "")),
+                max_workers=DETAIL_WORKERS,
+            )
         )
+    # Failed fetches stay out so they are retried; closed postings are dropped.
+    new_cache = {job_id: desc for job_id, desc in descs.items() if desc}
+    if new_cache != cache:
+        _save_cache(new_cache)
     return [
         replace(
             j,
