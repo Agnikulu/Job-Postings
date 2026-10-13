@@ -3,7 +3,7 @@
 Pipeline per run:
     1. Load companies.yaml.
     2. For each company:
-         a. Dispatch to its ATS adapter (skip tier3_todo).
+         a. Dispatch to its ATS adapter (skip tier3_todo and disabled).
          b. Pre-filter obvious non-targets, then regex classify.
          c. Drop non-US locations (unless ATS_SNIPER_ALL_LOCATIONS=1).
          d. Skip if already in seen_jobs.json.
@@ -185,7 +185,9 @@ def run() -> int:
     new_jobs: list[tuple[Job, bool]] = []
     observed_companies: set[str] = set()
 
-    active = [c for c in companies if c.get("ats") != "tier3_todo"]
+    active = [
+        c for c in companies if c.get("ats") != "tier3_todo" and not c.get("disabled")
+    ]
     skipped_tier3 = len(companies) - len(active)
     linkedin_active = [c for c in active if c.get("ats") == "linkedin"]
     other_active = [c for c in active if c.get("ats") != "linkedin"]

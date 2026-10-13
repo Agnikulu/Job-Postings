@@ -21,6 +21,7 @@
 #     google_company, google_location, google_q,
 #     google_target_levels (list), google_sort_by
 #     note:      (optional) Free-form note (used for tier3_todo entries).
+#     disabled:  (optional) true to skip this company without deleting it.
 #
 # All non-tier3 entries below have been verified via discovery.py against the
 # live ATS endpoints. Tier-3 entries (custom careers sites) are tracked for
@@ -472,6 +473,7 @@
   category: robotics
 
 - name: Anduril
+  disabled: true  # paused 2026-10-13
   ats: greenhouse
   slug: andurilindustries
   category: robotics
@@ -482,6 +484,7 @@
   category: robotics
 
 - name: SpaceX
+  disabled: true  # paused 2026-10-13
   ats: greenhouse
   slug: spacex
   category: robotics
@@ -683,6 +686,7 @@
   category: big_tech
 
 - name: Palantir
+  disabled: true  # paused 2026-10-13
   ats: lever
   slug: palantir
   category: big_tech
@@ -783,6 +787,7 @@
   category: big_tech
 
 - name: Amazon Web Services (AWS)
+  disabled: true  # paused 2026-10-13
   ats: amazon_jobs
   amazon_query: Amazon Web Services
   category: big_tech
@@ -793,6 +798,7 @@
   category: big_tech
 
 - name: Tesla
+  disabled: true  # paused 2026-10-13
   ats: linkedin
   linkedin_company_id: "15564"
   category: big_tech

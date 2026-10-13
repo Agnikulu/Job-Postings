@@ -183,7 +183,9 @@ def _count_active_companies() -> int:
     import yaml  # local import to avoid hard dep at module load
     with COMPANIES_PATH.open(encoding="utf-8") as fh:
         data = yaml.safe_load(fh) or []
-    return sum(1 for c in data if c.get("ats") != "tier3_todo")
+    return sum(
+        1 for c in data if c.get("ats") != "tier3_todo" and not c.get("disabled")
+    )
 
 
 def render(archive: JobsArchive) -> str:
