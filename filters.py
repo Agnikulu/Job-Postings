@@ -11,6 +11,7 @@ Also provides US location matching via `is_us_location(loc)`.
 
 from __future__ import annotations
 
+import os
 import re
 from dataclasses import dataclass
 from typing import Literal
@@ -1922,3 +1923,36 @@ def is_us_location_with_description(
     if is_location_ambiguous(location):
         return is_us_location_from_description(description)
     return False
+
+
+def drop_interns_enabled() -> bool:
+    return os.environ.get("ATS_SNIPER_DROP_INTERNS", "1").strip() != "0"
+
+
+def swe_only_enabled() -> bool:
+    return os.environ.get("ATS_SNIPER_SWE_ONLY", "1").strip() != "0"
+
+
+def us_filter_enabled() -> bool:
+    return os.environ.get("ATS_SNIPER_ALL_LOCATIONS", "").strip() != "1"
+
+
+def could_be_included(title: str | None, location: str | None = None) -> bool:
+    """False only when classifier.classify_job_fields() rejects this posting
+    whatever its description says, so adapters can skip detail-page fetches.
+
+    Mirrors the title/location-only gates there; `location=None` skips the
+    location check (for callers that already filtered by location).
+    """
+    if is_obvious_reject(title):
+        return False
+    if drop_interns_enabled() and is_intern_only(title):
+        return False
+    if swe_only_enabled() and not is_software_or_ai_role(title):
+        return False
+    if location is not None and us_filter_enabled():
+        # Description only decides US-ness when the location is ambiguous.
+        return is_location_ambiguous(location) or is_us_location_with_description(
+            location, None
+        )
+    return True

@@ -13,7 +13,6 @@ Environment toggles:
 
 from __future__ import annotations
 
-import os
 from dataclasses import dataclass
 
 from adapters.base import Job
@@ -21,20 +20,14 @@ from education import extract_education_levels
 from description_signals import extract_requirements_text
 from filters import (
     classify_title_confidence,
+    drop_interns_enabled,
     is_intern_only,
     is_obvious_reject,
     is_software_or_ai_role,
     is_us_location_with_description,
+    swe_only_enabled,
 )
 from location_resolver import resolve_job_location
-
-
-def _drop_interns_enabled() -> bool:
-    return os.environ.get("ATS_SNIPER_DROP_INTERNS", "1").strip() != "0"
-
-
-def _swe_only_enabled() -> bool:
-    return os.environ.get("ATS_SNIPER_SWE_ONLY", "1").strip() != "0"
 
 
 @dataclass(frozen=True)
@@ -78,9 +71,9 @@ def classify_job_fields(
         return _prefilter_reject(title or "")
 
     if drop_interns is None:
-        drop_interns = _drop_interns_enabled()
+        drop_interns = drop_interns_enabled()
     if swe_only is None:
-        swe_only = _swe_only_enabled()
+        swe_only = swe_only_enabled()
 
     if drop_interns and is_intern_only(title):
         return JobClassification(

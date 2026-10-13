@@ -10,7 +10,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from adapters.base import Job
+from adapters.base import AdapterError, Job
 
 from adapters.gem import fetch as fetch_gem
 from adapters.jibe import fetch as fetch_jibe
@@ -369,6 +369,7 @@ def test_meta_falls_back_to_linkedin_when_blocked() -> None:
         )
     ]
     with (
+        patch("adapters.meta._search_jobs", side_effect=err),
         patch("adapters.meta._get_sitemap_entries", side_effect=err),
         patch("adapters.meta.linkedin_adapter.fetch", return_value=fake_jobs) as li_fetch,
     ):
@@ -399,11 +400,131 @@ def test_meta_block_expires_and_retries_metacareers(tmp_path, monkeypatch) -> No
     company = {"name": "Meta", "linkedin_company_id": "10667", "category": "big_tech"}
     with (
         patch.object(meta_mod, "_fetch_linkedin_fallback") as li,
+        patch.object(meta_mod, "_search_jobs", return_value=[]),
         patch.object(meta_mod, "_get_sitemap_entries", return_value=[]),
     ):
         meta_mod.fetch(company)
     li.assert_not_called()
     assert json.loads(state_file.read_text(encoding="utf-8")) == {}
+
+
+def _meta_env(tmp_path, monkeypatch, cache: dict | None = None):
+    import json
+
+    from adapters import meta as meta_mod
+
+    cache_file = tmp_path / "meta_title_cache.json"
+    cache_file.write_text(json.dumps(cache or {}), encoding="utf-8")
+    monkeypatch.setattr(meta_mod, "CACHE_PATH", cache_file)
+    monkeypatch.setattr(meta_mod, "STATE_PATH", tmp_path / "meta_careers_state.json")
+    return meta_mod
+
+
+def _meta_url(job_id: str) -> str:
+    return f"https://www.metacareers.com/profile/job_details/{job_id}/"
+
+
+def test_meta_fetches_details_only_for_possible_matches(tmp_path, monkeypatch) -> None:
+    meta_mod = _meta_env(tmp_path, monkeypatch)
+    listings = [
+        {"id": "1", "title": "Software Engineer, Growth ", "locations": ["Menlo Park, CA"]},
+        {"id": "2", "title": "Senior Software Engineer", "locations": ["Menlo Park, CA"]},
+        {"id": "3", "title": "Software Engineer, Growth", "locations": ["London, UK"]},
+        {"id": "4", "title": "Data Center Technician", "locations": ["Remote, US"]},
+    ]
+    sitemap = [(_meta_url(i), "2026-10-13T00:00:00-07:00") for i in ("1", "2", "3", "4", "5")]
+
+    def detail(url: str) -> dict:
+        job_id = url.rstrip("/").rsplit("/", 1)[-1]
+        return {
+            "title": "Unlisted Role" if job_id == "5" else "Software Engineer, Growth",
+            "location": "Austin, TX",
+            "posted_at": f"2026-10-0{job_id}",
+            "description": f"desc {job_id}",
+        }
+
+    company = {"name": "Meta", "category": "big_tech"}
+    with (
+        patch.object(meta_mod, "_search_jobs", return_value=listings),
+        patch.object(meta_mod, "_get_sitemap_entries", return_value=sitemap),
+        patch.object(meta_mod, "_fetch_detail", side_effect=detail) as fetch_detail,
+    ):
+        jobs = meta_mod.fetch(company)
+
+    # Only the US candidate and the posting the search missed hit detail pages.
+    assert sorted(c.args[0] for c in fetch_detail.call_args_list) == [
+        _meta_url("1"),
+        _meta_url("5"),
+    ]
+    by_id = {j.id: j for j in jobs}
+    assert sorted(by_id) == ["1", "2", "3", "4", "5"]
+    assert by_id["1"].title == "Software Engineer, Growth"
+    assert by_id["1"].location == "Menlo Park, CA"
+    assert by_id["1"].posted_at == "2026-10-01"
+    assert by_id["1"].description == "desc 1"
+    assert by_id["1"].url == _meta_url("1")
+    assert by_id["2"].description is None
+    assert by_id["5"].title == "Unlisted Role"
+
+
+def test_meta_refetches_cached_detail_only_when_title_changes(tmp_path, monkeypatch) -> None:
+    meta_mod = _meta_env(
+        tmp_path,
+        monkeypatch,
+        cache={
+            "1": {"title": "SWE (JSON-LD)", "listed_title": "Software Engineer, Ads"},
+            "2": {"title": "SW Specialist", "location": "Menlo Park, CA"},
+            "9": {"title": "Closed Posting"},
+        },
+    )
+    listings = [
+        {"id": "1", "title": "Software Engineer, Ads", "locations": ["Menlo Park, CA"]},
+        {"id": "2", "title": "Software Engineer, Wearables", "locations": ["Menlo Park, CA"]},
+    ]
+    company = {"name": "Meta", "category": "big_tech"}
+    with (
+        patch.object(meta_mod, "_search_jobs", return_value=listings),
+        patch.object(meta_mod, "_get_sitemap_entries", return_value=[]),
+        patch.object(
+            meta_mod, "_fetch_detail", return_value={"title": "Software Engineer, Wearables"}
+        ) as fetch_detail,
+    ):
+        meta_mod.fetch(company)
+    assert [c.args[0] for c in fetch_detail.call_args_list] == [_meta_url("2")]
+    cache = meta_mod._load_cache()
+    assert cache["2"]["listed_title"] == "Software Engineer, Wearables"
+    assert "9" not in cache
+
+
+def test_meta_falls_back_to_sitemap_when_search_fails(tmp_path, monkeypatch) -> None:
+    meta_mod = _meta_env(tmp_path, monkeypatch)
+    company = {"name": "Meta", "category": "big_tech"}
+    with (
+        patch.object(meta_mod, "_search_jobs", side_effect=AdapterError("stale doc id")),
+        patch.object(meta_mod, "_get_sitemap_entries", return_value=[(_meta_url("7"), None)]),
+        patch.object(
+            meta_mod,
+            "_fetch_detail",
+            return_value={"title": "Senior Software Engineer", "location": "NY"},
+        ),
+    ):
+        jobs = meta_mod.fetch(company)
+    assert [(j.id, j.title, j.location) for j in jobs] == [
+        ("7", "Senior Software Engineer", "NY")
+    ]
+
+
+def test_meta_post_search_parses_response_and_flags_stale_doc_id() -> None:
+    from adapters import meta as meta_mod
+
+    def session_returning(text: str):
+        resp = type("R", (), {"text": text, "raise_for_status": lambda self: None})()
+        return type("S", (), {"post": lambda self, *a, **k: resp})()
+
+    ok = 'for (;;);{"data":{"job_search_with_featured_jobs_v2":{"all_jobs":[{"id":"1"}]}}}\n{}'
+    assert meta_mod._post_search(session_returning(ok), "lsd", "doc") == [{"id": "1"}]
+    stale = '{"errors":[{"message":"PersistedQueryNotFound"}]}'
+    assert meta_mod._post_search(session_returning(stale), "lsd", "doc") is None
 
 
 def test_meta_parses_jsonld_detail() -> None:

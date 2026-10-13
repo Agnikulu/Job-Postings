@@ -1,9 +1,17 @@
-"""Meta careers adapter (metacareers.com sitemap + job detail pages).
+"""Meta careers adapter (metacareers.com job search + detail pages).
 
-Uses the public jobs sitemap for IDs/URLs and the JSON-LD ``JobPosting`` block
-on each detail page for title, locations and the real posting date. Detail
-pages are fetched in parallel and memoized in meta_title_cache.json, so hourly
-runs only hit new postings.
+One GraphQL request to the careers site's own search (the query behind the
+/jobs page) returns every open posting with its current title and locations.
+Detail pages — for the real posting date and description — are only fetched
+for postings the classifier could still include (see
+classifier.could_be_included), so senior, non-software and non-US roles cost
+nothing. Detail records are memoized in meta_title_cache.json, so hourly runs
+only hit new candidates.
+
+The jobs sitemap is still read as a cross-check: any posting it lists that the
+search did not return is handled the old way (detail page for every one). If
+the search fails outright (e.g. Meta rotates the query id and rediscovery from
+the JS bundles fails too) the whole board falls back to the sitemap path.
 
 metacareers.com sits behind the Facebook edge, which returns HTTP 400 to
 requests missing the Sec-Fetch-*/sec-ch-ua client hints a real browser sends —
@@ -31,7 +39,7 @@ from tenacity import (
     wait_exponential,
 )
 
-from filters import should_fetch_description
+from filters import could_be_included, should_fetch_description
 from text_util import normalize_description
 
 from . import linkedin as linkedin_adapter
@@ -42,6 +50,12 @@ log = logging.getLogger(__name__)
 
 JOBS_URL = "https://www.metacareers.com/jobs"
 SITEMAP_URL = "https://www.metacareers.com/jobs/sitemap.xml"
+GRAPHQL_URL = "https://www.metacareers.com/graphql"
+DETAIL_URL = "https://www.metacareers.com/profile/job_details/{job_id}/"
+# Persisted query id of CareersJobSearchResultsV2DataQuery; rediscovered from
+# the page's JS bundles when Meta ships a new one.
+SEARCH_DOC_ID = "27129360303422352"
+_SEARCH_QUERY_NAME = "CareersJobSearchResultsV2DataQuery"
 CACHE_PATH = Path(__file__).resolve().parent.parent / "meta_title_cache.json"
 STATE_PATH = Path(__file__).resolve().parent.parent / "meta_careers_state.json"
 
@@ -50,6 +64,14 @@ _LD_JSON_RE = re.compile(
 )
 _OG_TITLE_RE = re.compile(r'<meta property="og:title" content="([^"]+)"')
 _JOB_ID_RE = re.compile(r"/job_details/(\d+)/?")
+_LSD_RE = re.compile(r'"LSD",\[\],\{"token":"([^"]+)"')
+_SCRIPT_SRC_RE = re.compile(
+    r'<script[^>]+src="(https://static\.xx\.fbcdn\.net/rsrc\.php/[^"]+)"'
+)
+_DOC_ID_RE = re.compile(
+    _SEARCH_QUERY_NAME
+    + r'_candidate_portalRelayOperation",\[\],\(function\([^)]*\)\{\w+\.exports="(\d+)"'
+)
 
 _DETAIL_WORKERS = 8
 _MAX_DETAIL_ATTEMPTS = 4
@@ -226,6 +248,102 @@ def _get_sitemap_entries() -> list[tuple[str, str | None]]:
     return entries
 
 
+def _search_variables() -> str:
+    # Mirrors the /jobs page's default (unfiltered) search; results_per_page
+    # null returns every match in one response (paging is client-side).
+    search_input = {
+        "q": None,
+        "divisions": [],
+        "offices": [],
+        "roles": [],
+        "leadership_levels": [],
+        "saved_jobs": [],
+        "saved_searches": [],
+        "sub_teams": [],
+        "teams": [],
+        "is_leadership": False,
+        "is_remote_only": False,
+        "sort_by_new": False,
+        "results_per_page": None,
+    }
+    return json.dumps(
+        {"search_input": search_input, "isLoggedIn": False, "viewasUserID": None}
+    )
+
+
+def _post_search(
+    session: requests.Session, lsd: str, doc_id: str
+) -> list[dict[str, Any]] | None:
+    """Run the search query; None when the response has no job list (stale doc id)."""
+    resp = session.post(
+        GRAPHQL_URL,
+        data={"lsd": lsd, "doc_id": doc_id, "variables": _search_variables()},
+        headers={
+            "X-FB-LSD": lsd,
+            "Origin": "https://www.metacareers.com",
+            "Referer": JOBS_URL,
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "same-origin",
+        },
+        timeout=DEFAULT_TIMEOUT,
+    )
+    resp.raise_for_status()
+    # Body may carry the "for (;;);" XSSI guard and trailing streamed lines.
+    first_line = resp.text.lstrip().removeprefix("for (;;);").split("\n", 1)[0]
+    try:
+        payload = json.loads(first_line)
+    except ValueError:
+        return None
+    data = payload.get("data") if isinstance(payload, dict) else None
+    result = (data or {}).get("job_search_with_featured_jobs_v2") or {}
+    jobs = result.get("all_jobs")
+    return jobs if isinstance(jobs, list) else None
+
+
+def _discover_doc_id(session: requests.Session, page_html: str) -> str | None:
+    for src in dict.fromkeys(_SCRIPT_SRC_RE.findall(page_html)):
+        try:
+            js = session.get(src.replace("&amp;", "&"), timeout=DEFAULT_TIMEOUT).text
+        except requests.RequestException:
+            continue
+        match = _DOC_ID_RE.search(js)
+        if match:
+            return match.group(1)
+    return None
+
+
+@retry(
+    reraise=True,
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=2, min=4, max=30),
+    retry=retry_if_exception(_retryable_request_error),
+)
+def _search_jobs() -> list[dict[str, Any]]:
+    """Every open posting as {id, title, locations, ...} from the careers search."""
+    session = _new_session()
+    page = session.get(JOBS_URL, timeout=DEFAULT_TIMEOUT)
+    page.raise_for_status()
+    lsd_match = _LSD_RE.search(page.text)
+    if not lsd_match:
+        raise AdapterError("Meta: no LSD token on /jobs page")
+    lsd = lsd_match.group(1)
+
+    jobs = _post_search(session, lsd, SEARCH_DOC_ID)
+    if jobs is None:
+        doc_id = _discover_doc_id(session, page.text)
+        if doc_id and doc_id != SEARCH_DOC_ID:
+            log.warning(
+                "Meta: search doc_id %s is stale, using %s (update SEARCH_DOC_ID)",
+                SEARCH_DOC_ID,
+                doc_id,
+            )
+            jobs = _post_search(session, lsd, doc_id)
+    if not jobs:
+        raise AdapterError("Meta: job search returned no postings")
+    return jobs
+
+
 def _extract_job_id(url: str) -> str:
     match = _JOB_ID_RE.search(url)
     return match.group(1) if match else url.rstrip("/").rsplit("/", 1)[-1]
@@ -327,10 +445,9 @@ def _fetch_detail(url: str) -> dict[str, Any] | None:
 def _fetch_missing(
     missing: list[tuple[str, str]],
     cache: dict[str, dict[str, Any]],
+    listed: dict[str, tuple[str, str]],
 ) -> None:
-    if not missing:
-        return
-    log.info("Meta: fetching details for %s uncached jobs", len(missing))
+    log.info("Meta: fetching details for %s jobs", len(missing))
     results = map_descriptions_parallel(
         [url for _job_id, url in missing],
         _fetch_detail,
@@ -339,70 +456,123 @@ def _fetch_missing(
     for job_id, url in missing:
         record = results.get(url)
         if record:
+            if job_id in listed:
+                # Search and JSON-LD titles can differ; remember which search
+                # title this record belongs to so it is not re-fetched hourly.
+                record["listed_title"] = listed[job_id][0]
             cache[job_id] = record
     _save_cache(cache)
+
+
+def _listed_job(raw: dict[str, Any]) -> tuple[str, str, str] | None:
+    job_id = str(raw.get("id") or "").strip()
+    title = str(raw.get("title") or "").strip()
+    if not job_id or not title:
+        return None
+    locations = [
+        str(loc).strip() for loc in raw.get("locations") or [] if str(loc).strip()
+    ]
+    return job_id, title, "; ".join(dict.fromkeys(locations))
 
 
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     if _sitemap_blocked() and company.get("linkedin_company_id"):
         return _fetch_linkedin_fallback(company)
+
+    listed: dict[str, tuple[str, str]] = {}
+    try:
+        for raw in _search_jobs():
+            parsed = _listed_job(raw) if isinstance(raw, dict) else None
+            if parsed:
+                listed[parsed[0]] = (parsed[1], parsed[2])
+    except (requests.RequestException, AdapterError) as e:
+        log.warning("Meta: job search failed (%s); using sitemap only", e)
+
     try:
         entries = _get_sitemap_entries()
-        _clear_sitemap_blocked()
-    except requests.HTTPError as e:
-        if _blocked_status(e) in {400, 403} and company.get("linkedin_company_id"):
-            _mark_sitemap_blocked()
-            return _fetch_linkedin_fallback(company)
-        raise AdapterError(
-            f"Meta HTTP {e.response.status_code} fetching sitemap for {name}"
-        ) from e
-    except requests.RequestException as e:
-        raise AdapterError(f"Meta network error for {name}: {e}") from e
-    except ET.ParseError as e:
-        raise AdapterError(f"Meta sitemap parse error for {name}: {e}") from e
+    except (requests.RequestException, ET.ParseError) as e:
+        if listed:
+            log.warning("Meta: sitemap unavailable (%s); using job search only", e)
+            entries = []
+        elif isinstance(e, requests.HTTPError):
+            if _blocked_status(e) in {400, 403} and company.get("linkedin_company_id"):
+                _mark_sitemap_blocked()
+                return _fetch_linkedin_fallback(company)
+            raise AdapterError(
+                f"Meta HTTP {e.response.status_code} fetching sitemap for {name}"
+            ) from e
+        elif isinstance(e, ET.ParseError):
+            raise AdapterError(f"Meta sitemap parse error for {name}: {e}") from e
+        else:
+            raise AdapterError(f"Meta network error for {name}: {e}") from e
+    _clear_sitemap_blocked()
 
-    cache = _load_cache()
-    missing = [
-        (job_id, url)
-        for url, _lastmod in entries
-        if (job_id := _extract_job_id(url)) not in cache
-    ]
-    _fetch_missing(missing, cache)
-
-    jobs: list[Job] = []
+    url_by_id: dict[str, str] = {}
+    lastmod_by_id: dict[str, str | None] = {}
     for url, lastmod in entries:
         job_id = _extract_job_id(url)
-        record = cache.get(job_id)
-        if not record:
+        url_by_id.setdefault(job_id, url)
+        lastmod_by_id.setdefault(job_id, lastmod)
+    unlisted = [job_id for job_id in url_by_id if job_id not in listed]
+
+    cache = _load_cache()
+    # Detail pages only for listed postings that could still be included
+    # (re-fetched when the title changed since caching), plus every posting
+    # the search missed, whose title is only known from its detail page.
+    missing: list[tuple[str, str]] = []
+    for job_id, (title, location) in listed.items():
+        if not could_be_included(title, location):
             continue
-        jobs.append(
-            Job(
-                id=job_id,
-                company=company["name"],
-                title=record["title"],
-                location=record.get("location") or "",
-                url=url,
-                # Sitemap lastmod is the crawl time (identical for every entry),
-                # so only use it when JSON-LD has no real datePosted.
-                posted_at=record.get("posted_at") or lastmod,
-                department=None,
-                ats="meta",
-                category=company.get("category", "uncategorized"),
-                description=record.get("description"),
-            )
+        record = cache.get(job_id)
+        if not record or record.get("listed_title", record["title"]) != title:
+            url = url_by_id.get(job_id) or DETAIL_URL.format(job_id=job_id)
+            missing.append((job_id, url))
+    missing.extend(
+        (job_id, url_by_id[job_id]) for job_id in unlisted if job_id not in cache
+    )
+    if missing:
+        _fetch_missing(missing, cache, listed)
+    # Drop records for postings that have closed.
+    live = listed.keys() | url_by_id.keys()
+    if live and not live >= cache.keys():
+        cache = {job_id: rec for job_id, rec in cache.items() if job_id in live}
+        _save_cache(cache)
+
+    def to_job(job_id: str, title: str, location: str) -> Job:
+        record = cache.get(job_id) or {}
+        return Job(
+            id=job_id,
+            company=company["name"],
+            title=title,
+            location=location or record.get("location") or "",
+            url=url_by_id.get(job_id) or DETAIL_URL.format(job_id=job_id),
+            # Sitemap lastmod is the crawl time (identical for every entry),
+            # so only use it when JSON-LD has no real datePosted.
+            posted_at=record.get("posted_at") or lastmod_by_id.get(job_id),
+            department=None,
+            ats="meta",
+            category=company.get("category", "uncategorized"),
+            description=record.get("description"),
         )
 
-    if entries and not jobs:
+    jobs = [to_job(job_id, title, loc) for job_id, (title, loc) in listed.items()]
+    for job_id in unlisted:
+        record = cache.get(job_id)
+        if record:
+            jobs.append(to_job(job_id, record["title"], record.get("location") or ""))
+
+    if url_by_id and not jobs:
         raise AdapterError(
             f"Meta returned 0 parsed jobs for {name} "
             f"({len(entries)} in sitemap, {len(cache)} cached)"
         )
-    if len(jobs) < len(entries):
+    unresolved = sum(1 for job_id, _url in missing if job_id not in cache)
+    if unresolved:
         log.warning(
-            "Meta: missing details for %s/%s jobs for %s",
-            len(entries) - len(jobs),
-            len(entries),
+            "Meta: missing details for %s/%s fetched jobs for %s",
+            unresolved,
+            len(missing),
             name,
         )
     return jobs

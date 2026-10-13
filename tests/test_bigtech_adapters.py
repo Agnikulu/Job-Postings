@@ -150,7 +150,7 @@ def test_apple_fetch_maps_fields() -> None:
 
 
 def test_apple_fetches_every_page_and_dedupes() -> None:
-    def page(n: int) -> dict:
+    def page(n: int, filters: dict) -> dict:
         # 45 reported -> 3 pages; page 3 repeats a job shifted by a new posting.
         ids = {1: range(0, 20), 2: range(20, 40), 3: range(39, 45)}[n]
         return {
@@ -172,7 +172,7 @@ def test_apple_refetches_pages_with_shuffled_ties() -> None:
     # Page 2's first slot repeats job 19 instead of job 20 on the first request only.
     calls = {2: 0}
 
-    def page(n: int) -> dict:
+    def page(n: int, filters: dict) -> dict:
         ids = list(range(0, 20)) if n == 1 else list(range(20, 25))
         if n == 2:
             calls[2] += 1
@@ -190,6 +190,42 @@ def test_apple_refetches_pages_with_shuffled_ties() -> None:
         jobs = fetch_apple(company)
     assert len(jobs) == 25
     assert "20-1" in {j.id for j in jobs}
+
+
+def test_apple_uses_site_us_filter_unless_all_locations(monkeypatch) -> None:
+    page = {"totalRecords": 1, "searchResults": [_apple_raw("1-1", "Role", "role", [])]}
+    company = {"name": "Apple", "category": "big_tech"}
+    with patch("adapters.apple._get_page", return_value=page) as get:
+        fetch_apple(company)
+    assert get.call_args.args[1] == {"locations": ["postLocation-USA"]}
+
+    monkeypatch.setenv("ATS_SNIPER_ALL_LOCATIONS", "1")
+    with patch("adapters.apple._get_page", return_value=page) as get:
+        fetch_apple(company)
+    assert get.call_args.args[1] == {}
+
+
+def test_apple_skips_descriptions_for_titles_never_included() -> None:
+    titles = [
+        "Software Engineer, Growth",  # ambiguous -> needs description
+        "Mechanical Design Engineer",  # non-software: rejected regardless
+        "Hardware Engineering Intern",  # intern-only: rejected regardless
+        "Senior Software Engineer",  # obvious reject
+    ]
+    page = {
+        "totalRecords": len(titles),
+        "searchResults": [
+            _apple_raw(f"{i}-1", t, f"role-{i}", []) for i, t in enumerate(titles)
+        ],
+    }
+    company = {"name": "Apple", "category": "big_tech"}
+    with (
+        patch("adapters.apple._get_page", return_value=page),
+        patch("adapters.apple.map_descriptions_parallel", return_value={}) as descs,
+    ):
+        jobs = fetch_apple(company)
+    assert len(jobs) == len(titles)
+    assert descs.call_args.args[0] == ["0-1"]
 
 
 def test_linkedin_fetch_maps_fields() -> None:

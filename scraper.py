@@ -44,6 +44,7 @@ from fetch_limits import cap_job_list, linkedin_company_delay_sec
 from company_stats import CompanyStats
 from date_parser import parse_posted_date
 from classifier import classify_job
+from filters import us_filter_enabled
 from jobs_archive import JobsArchive
 from state import State
 
@@ -69,10 +70,6 @@ def load_registry(path: Path = REGISTRY_PATH) -> list[dict[str, Any]]:
     if not isinstance(data, list):
         raise ValueError(f"{path} must be a YAML list of company entries")
     return data
-
-
-def _us_filter_enabled() -> bool:
-    return os.environ.get("ATS_SNIPER_ALL_LOCATIONS", "").strip() != "1"
 
 
 def _reset_state_requested() -> bool:
@@ -176,7 +173,7 @@ def run() -> int:
     stats = CompanyStats.load(STATS_PATH)
     archive = JobsArchive.load(ARCHIVE_PATH)
     companies = load_registry()
-    us_only = _us_filter_enabled()
+    us_only = us_filter_enabled()
     log.info("Location filter: %s", "US-only" if us_only else "ALL LOCATIONS")
     log.info("Classifier: regex")
 

@@ -3,6 +3,10 @@
 Endpoint: POST https://jobs.apple.com/api/v1/search
 Page size is fixed at 20 server-side; the first page reports totalRecords, so the
 remaining pages are fetched in parallel.
+
+The site's own location filter limits the search to US postings (~70% of the
+board) unless ATS_SNIPER_ALL_LOCATIONS=1. It matches any posting with at least
+one US location, so nothing the US-only pipeline would keep is dropped.
 """
 
 from __future__ import annotations
@@ -22,7 +26,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_apple_description, map_descriptions_parallel
-from filters import should_fetch_description
+from filters import could_be_included, should_fetch_description, us_filter_enabled
 from text_util import normalize_description
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
@@ -38,6 +42,7 @@ MAX_PAGES = 1000
 PAGE_WORKERS = 8
 REFETCH_ROUNDS = 5
 DETAIL_WORKERS = 6
+US_FILTER = {"locations": ["postLocation-USA"]}
 
 
 @retry(
@@ -46,7 +51,7 @@ DETAIL_WORKERS = 6
     wait=wait_exponential(multiplier=1, min=2, max=15),
     retry=retry_if_exception_type(requests.RequestException),
 )
-def _get_page(page: int) -> dict[str, Any]:
+def _get_page(page: int, filters: dict[str, Any]) -> dict[str, Any]:
     headers = {
         **DEFAULT_HEADERS,
         "Accept": "application/json",
@@ -60,7 +65,7 @@ def _get_page(page: int) -> dict[str, Any]:
     }
     body = {
         "query": "",
-        "filters": {},
+        "filters": filters,
         "page": page,
         "locale": "en-us",
         "sort": "newest",
@@ -117,8 +122,11 @@ def _to_job(raw: dict[str, Any], company: dict[str, Any]) -> Job:
     )
 
 
-def _fetch_all_raw(name: str) -> list[dict[str, Any]]:
-    first = _get_page(1)
+def _fetch_all_raw(name: str, filters: dict[str, Any]) -> list[dict[str, Any]]:
+    def get_page(page: int) -> dict[str, Any]:
+        return _get_page(page, filters)
+
+    first = get_page(1)
     results = list(first.get("searchResults") or [])
     if not results:
         return []
@@ -131,14 +139,14 @@ def _fetch_all_raw(name: str) -> list[dict[str, Any]]:
     pages: dict[int, list[dict[str, Any]]] = {1: results}
     with ThreadPoolExecutor(max_workers=PAGE_WORKERS) as pool:
         nums = list(range(2, last_page + 1))
-        for num, res in zip(nums, pool.map(_get_page, nums)):
+        for num, res in zip(nums, pool.map(get_page, nums)):
             pages[num] = list(res.get("searchResults") or [])
 
     # Postings added mid-scrape push older ones past the reported last page.
     page = last_page
     while len(pages[page]) == PAGE_SIZE and page < MAX_PAGES:
         page += 1
-        pages[page] = list(_get_page(page).get("searchResults") or [])
+        pages[page] = list(get_page(page).get("searchResults") or [])
 
     seen: set[str] = set()
     merged: list[dict[str, Any]] = []
@@ -168,7 +176,7 @@ def _fetch_all_raw(name: str) -> list[dict[str, Any]]:
             break
         nums = sorted(dup_pages)
         with ThreadPoolExecutor(max_workers=PAGE_WORKERS) as pool:
-            for num, res in zip(nums, pool.map(_get_page, nums)):
+            for num, res in zip(nums, pool.map(get_page, nums)):
                 pages[num] = list(res.get("searchResults") or [])
         _merge(nums)
     if total and len(merged) < total:
@@ -179,7 +187,7 @@ def _fetch_all_raw(name: str) -> list[dict[str, Any]]:
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     try:
-        all_raw = _fetch_all_raw(name)
+        all_raw = _fetch_all_raw(name, US_FILTER if us_filter_enabled() else {})
     except requests.HTTPError as e:
         raise AdapterError(f"Apple HTTP {e.response.status_code} for {name}") from e
     except requests.RequestException as e:
@@ -197,7 +205,13 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         if raw.get("jobSummary"):
             summaries[job.id] = raw["jobSummary"]
 
-    fetch_ids = [j.id for j in jobs if should_fetch_description(j.title)]
+    # Skip descriptions for titles the classifier rejects regardless of body
+    # (non-software, intern-only), on top of the usual obvious-title skip.
+    fetch_ids = [
+        j.id
+        for j in jobs
+        if should_fetch_description(j.title) and could_be_included(j.title)
+    ]
     descs: dict[str, str | None] = {}
     if fetch_ids:
         slug_by_id = {j.id: j.url.rsplit("/", 1)[-1] for j in jobs}
