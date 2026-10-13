@@ -705,6 +705,7 @@
   category: big_tech
 
 - name: Atlassian
+  disabled: true  # paused 2026-10-13
   ats: linkedin
   linkedin_company_id: "22688"
   category: big_tech
@@ -793,6 +794,7 @@
   category: big_tech
 
 - name: AMD
+  disabled: true  # paused 2026-10-13
   ats: linkedin
   linkedin_company_id: "7550"
   category: big_tech
@@ -861,6 +863,7 @@
   category: big_tech
 
 - name: Qualcomm
+  disabled: true  # paused 2026-10-13
   ats: linkedin
   linkedin_company_id: "2017"
   category: big_tech
@@ -873,6 +876,7 @@
   category: big_tech
 
 - name: Intuit
+  disabled: true  # paused 2026-10-13
   ats: linkedin
   linkedin_company_id: "1666"
   category: big_tech
