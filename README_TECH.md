@@ -155,6 +155,7 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | `ATS_SNIPER_FETCH_WORKERS` | 8 | Parallel company fetch (non-LinkedIn only; LinkedIn is always serial) |
 | `ATS_SNIPER_LINKEDIN_DELAY_SEC` | 10 (CI) / 6 (local default) | Pause between LinkedIn company fetches |
 | `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 1.0 (CI) / 0.75 (local default) | Pause between LinkedIn search pages |
+| `ATS_SNIPER_LINKEDIN_BUDGET_MIN` | 35 (CI) / 0 = none (local) | LinkedIn companies not started within this budget are skipped; least-recently-fetched go first next run |
 | `ATS_SNIPER_EVAL_FETCH_WORKERS` | 4 | Parallel workers for eval fetch (non-LinkedIn) |
 | `ATS_SNIPER_MAX_LIST_PAGES` | 100 | Cap Google/Microsoft/Workday list depth in CI (Apple always fetches every page) |
 | `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 2000 | Cap single-response megaboards (e.g. Anduril ~1.9k); per-company `max_jobs` in `companies.yaml` overrides it (`0` = uncapped, used for Apple) |

@@ -40,7 +40,7 @@ import email_notifier
 import notifier
 import render_readme
 from adapters import ADAPTER_REGISTRY, AdapterError, Job
-from fetch_limits import cap_job_list, linkedin_company_delay_sec
+from fetch_limits import cap_job_list, linkedin_budget_sec, linkedin_company_delay_sec
 from company_stats import CompanyStats
 from date_parser import parse_posted_date
 from classifier import classify_job
@@ -209,19 +209,33 @@ def run() -> int:
         log.info("%s: fetched %d postings", name, len(jobs))
         fetched.append((name, jobs))
 
+    # Ordered before the thread starts; stats is mutated by the main thread.
+    li_queue = sorted(linkedin_active, key=lambda c: stats.last_run(c.get("name", "")))
+
     def _fetch_linkedin_serial() -> list[tuple[str, list[Job] | None, str | None]]:
         # LinkedIn rate-limits hard, so its companies go one at a time — but on
         # their own thread, alongside the other ATSes rather than after the
-        # slowest of them.
+        # slowest of them. Least-recently-fetched go first, and companies not
+        # started within the budget are skipped (not recorded, so they lead
+        # the queue next run and their archive entries are left untouched).
+        budget = linkedin_budget_sec()
+        deadline = time.monotonic() + budget if budget else None
         results = []
         li_delay = linkedin_company_delay_sec()
-        for i, company in enumerate(linkedin_active):
+        for i, company in enumerate(li_queue):
+            if deadline is not None and time.monotonic() >= deadline:
+                skipped = [c.get("name", "?") for c in li_queue[i:]]
+                log.warning(
+                    "LinkedIn budget (%.0f min) used up; skipping %d this run: %s",
+                    budget / 60,
+                    len(skipped),
+                    ", ".join(skipped),
+                )
+                break
             if i and li_delay:
                 time.sleep(li_delay)
             results.append(_fetch_company_jobs(company))
-            log.info(
-                "LinkedIn %d/%d done: %s", i + 1, len(linkedin_active), results[-1][0]
-            )
+            log.info("LinkedIn %d/%d done: %s", i + 1, len(li_queue), results[-1][0])
         return results
 
     fetched: list[tuple[str, list[Job]]] = []

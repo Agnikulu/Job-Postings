@@ -65,6 +65,10 @@ jobs:
           # Slower pacing reduces 429 retry storms (often net faster than 0.75s/6s).
           ATS_SNIPER_LINKEDIN_DELAY_SEC: "10"
           ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC: "1.0"
+          # LinkedIn companies not started within this many minutes are skipped
+          # (least-recently-fetched go first next run). One company can take
+          # ~15 min under 429s, so 35 + 15 stays inside the 55-min step timeout.
+          ATS_SNIPER_LINKEDIN_BUDGET_MIN: "35"
           ATS_SNIPER_RESET_STATE: ${{ github.event_name == 'workflow_dispatch' && inputs.reset_state && '1' || '' }}
           # Keep hourly runs inside the job budget (Google can return ~4k jobs at 200 pages).
           ATS_SNIPER_MAX_LIST_PAGES: "100"

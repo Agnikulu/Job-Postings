@@ -40,6 +40,16 @@ def linkedin_company_delay_sec() -> float:
         return 6.0
 
 
+def linkedin_budget_sec() -> float:
+    """Wall-clock budget for the serial LinkedIn queue; companies not started
+    within it are skipped this run (0 = no budget)."""
+    raw = os.environ.get("ATS_SNIPER_LINKEDIN_BUDGET_MIN", "0").strip()
+    try:
+        return max(0.0, float(raw)) * 60
+    except ValueError:
+        return 0.0
+
+
 def cap_job_list(company: str, jobs: list[Job], override: int | None = None) -> list[Job]:
     """Truncate oversized single-response boards (e.g. huge Greenhouse lists).
 

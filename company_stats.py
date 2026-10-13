@@ -58,6 +58,10 @@ class CompanyStats:
             inst._data = {}
         return inst
 
+    def last_run(self, name: str) -> str:
+        """ISO timestamp of the company's last recorded run ("" if never)."""
+        return str((self._data.get(name) or {}).get("last_run") or "")
+
     def record(self, name: str, postings: int, matches: int) -> list[str]:
         """Record one run for `name` and return list of warnings (if any)."""
         warnings: list[str] = []
