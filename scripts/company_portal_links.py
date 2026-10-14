@@ -62,6 +62,8 @@ def portal_url(entry: dict) -> str:
         return f"https://{entry['careers_host']}"
     if ats == "jibe":
         return f"https://{entry['careers_host']}"
+    if ats == "avature":
+        return f"https://{entry['avature_host']}/{entry.get('avature_portal', 'careers')}/SearchJobs"
     if ats == "microsoft":
         return "https://apply.careers.microsoft.com/careers"
     if ats == "linkedin":

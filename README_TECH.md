@@ -96,6 +96,7 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Rippling | `rippling.py` | 1 | Public jobs API |
 | SmartRecruiters | `smartrecruiters.py` | 1 | Offset pagination |
 | Jibe | `jibe.py` | 1 | Paginated JSON |
+| Avature | `avature.py` | 1 | Server-rendered HTML list (12/page, parallel) + detail pages for candidates only |
 
 **Meta** uses the `meta` adapter. One POST to `metacareers.com/graphql` (the `CareersJobSearchResultsV2DataQuery` behind the /jobs page, persisted id `SEARCH_DOC_ID`, rediscovered from the page's JS bundles if Meta rotates it) returns every open posting with its current title and locations. Per-job `JobPosting` JSON-LD detail pages (cached in `meta_title_cache.json`, keyed by the search title they were fetched for and pruned when postings close) are only fetched where `filters.could_be_included(title, location)` is true — senior, intern-only, non-software and clearly non-US roles are rejected by the classifier whatever their description says, so they skip the detail page. The jobs sitemap is still read: any posting it lists that the search missed gets a detail fetch, and if the search fails entirely the adapter falls back to the old sitemap-only path. The Facebook edge rejects `DEFAULT_HEADERS` **and** any request missing the `Sec-Fetch-*` / `sec-ch-ua` client hints a real browser sends, so `_browser_headers()` supplies the full set and clears `Session.headers` first (the default requests UA otherwise leaks through and triggers HTTP 400). Detail pages give real `datePosted` and location lists — sitemap `lastmod` is only a crawl timestamp, identical for every entry, so it is used only as a fallback. Detail fetches run 8-wide. When metacareers does return 400/403 and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta) and records the block in `meta_careers_state.json`; that block **expires after 6h** (`_BLOCK_TTL_SEC`) so a transient failure never pins Meta to LinkedIn permanently. If Meta jobs show up with `ats: linkedin`, delete `meta_careers_state.json` and check whether the headers still satisfy the edge.
 
@@ -109,7 +110,9 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 
 **Tesla** has no public JSON/Greenhouse board; `tesla.com/careers` returns 403 (Akamai). Stays on LinkedIn (`15564`).
 
-**Wiz** uses a custom adapter against `wiz.io/api/fetch-jobs-data`.
+**Wiz** uses a custom adapter against `wiz.io/api/fetch-jobs-data`, plus `wiz.io/api/fetch-unlisted-jobs-data` for a few unlisted postings (renamed from `fetch-private-jobs-data` in Oct 2026; a failure there only logs a warning).
+
+**Bloomberg** uses the `avature` adapter against `bloomberg.avature.net/careers`. The portal caps list pages at 12 results whatever `jobRecordsPerPage` says, so the first page's `N results` count drives parallel offset fetches. Descriptions come from the "Description & Requirements" section of each JobDetail page, fetched only where `should_fetch_description` and `could_be_included(title, location)` hold.
 
 **Coinbase** uses a custom adapter against `coinbase.com/api/v2/careers` (falls back to private Greenhouse slug `cdpjobs`). Both endpoints are currently returning errors from Coinbase's side; the adapter is wired for when they recover.
 
@@ -352,7 +355,7 @@ python scripts/company_portal_links.py
 | Atlassian | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Aurora Innovation | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/aurora-operations-inc) |
 | Block | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/block) |
-| Bloomberg LP | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Bloomberg LP | big_tech | `avature` | [Open board](https://bloomberg.avature.net/careers/SearchJobs) |
 | Brex | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/brex) |
 | Broadcom | big_tech | `workday` | [Open board](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) |
 | Chime | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/chime) |
@@ -364,7 +367,7 @@ python scripts/company_portal_links.py
 | Duolingo | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/duolingo) |
 | Etsy | big_tech | `workday` | [Open board](https://etsy.wd5.myworkdayjobs.com/en-US/Etsy_Careers) |
 | Fivetran | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/fivetran) |
-| GitHub | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| GitHub | big_tech | `jibe` | [Open board](https://www.github.careers/careers-home/jobs) |
 | Google | big_tech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&target_level=INTERN_AND_APPRENTICE&sort_by=date) |
 | Instacart | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/instacart) |
 | Intuit | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
@@ -382,7 +385,7 @@ python scripts/company_portal_links.py
 | Qualcomm | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Reddit | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/reddit) |
 | Riot Games | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/riotgames) |
-| Rippling | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Rippling | big_tech | `rippling` | [Open board](https://www.rippling.com/careers/open-roles) |
 | Roblox | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/roblox) |
 | Rubrik | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/rubrik) |
 | Samsara | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/samsara) |
@@ -488,7 +491,7 @@ python scripts/company_portal_links.py
 | Optiver | quant | `optiver` | [Open board](—) |
 | PDT Partners | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/pdtpartners) |
 | Point72 | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/point72) |
-| SIG | quant | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| SIG | quant | `jibe` | [Open board](https://careers.sig.com/jobs) |
 | Squarepoint Capital | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/squarepointcapital) |
 | Tower Research Capital | quant | `greenhouse` | [Open board](https://boards.greenhouse.io/towerresearchcapital) |
 | Two Sigma | quant | `two_sigma` | [Open board](—) |

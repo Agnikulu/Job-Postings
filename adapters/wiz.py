@@ -2,7 +2,7 @@
 
 Wiz hosts Greenhouse postings behind a Next.js proxy API:
   GET https://www.wiz.io/api/fetch-jobs-data
-  GET https://www.wiz.io/api/fetch-private-jobs-data (optional extra postings)
+  GET https://www.wiz.io/api/fetch-unlisted-jobs-data (optional extra postings)
 """
 
 from __future__ import annotations
@@ -27,7 +27,7 @@ from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 log = logging.getLogger(__name__)
 
 JOBS_URL = "https://www.wiz.io/api/fetch-jobs-data"
-PRIVATE_JOBS_URL = "https://www.wiz.io/api/fetch-private-jobs-data"
+PRIVATE_JOBS_URL = "https://www.wiz.io/api/fetch-unlisted-jobs-data"
 _TITLE_SLUG_RE = re.compile(r"[^a-z0-9]+")
 
 

@@ -7,6 +7,7 @@ Adding a new ATS is just: write a new module, then add it to ADAPTER_REGISTRY.
 from .amazon_jobs import fetch as fetch_amazon_jobs
 from .apple import fetch as fetch_apple
 from .ashby import fetch as fetch_ashby
+from .avature import fetch as fetch_avature
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 from .coinbase import fetch as fetch_coinbase
 from .deshaw import fetch as fetch_deshaw
@@ -55,6 +56,7 @@ ADAPTER_REGISTRY = {
     "optiver": fetch_optiver,
     "two_sigma": fetch_two_sigma,
     "deshaw": fetch_deshaw,
+    "avature": fetch_avature,
 }
 
 __all__ = [

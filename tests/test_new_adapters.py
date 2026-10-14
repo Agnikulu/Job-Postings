@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import sys
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 
 import requests
 
@@ -91,6 +91,26 @@ def test_rippling_fetch_dedupes_locations() -> None:
         jobs = fetch_rippling(company)
     assert len(jobs) == 1
     assert jobs[0].location == "SF / NY"
+
+
+def test_rippling_falls_back_to_board_api() -> None:
+    rows = [
+        {"uuid": "u1", "name": " Engineer ", "url": "https://ats.rippling.com/x/jobs/u1",
+         "department": {"id": "Eng", "label": "Engineering"}, "workLocation": {"label": "SF"}},
+        {"uuid": "u1", "name": " Engineer ", "url": "https://ats.rippling.com/x/jobs/u1",
+         "department": {"id": "Eng", "label": "Engineering"}, "workLocation": {"label": "NY"}},
+    ]
+    resp = MagicMock()
+    resp.json.return_value = rows
+    company = {"name": "Rippling", "slug": "rippling", "category": "enterprise"}
+    with patch("adapters.rippling._get_html", return_value="<html>redirected</html>"), \
+         patch("adapters.rippling.requests.get", return_value=resp):
+        jobs = fetch_rippling(company)
+    assert len(jobs) == 1
+    assert jobs[0].title == "Engineer"
+    assert jobs[0].location == "SF / NY"
+    assert jobs[0].department == "Engineering"
+    assert jobs[0].url == "https://ats.rippling.com/x/jobs/u1"
 
 
 def test_gem_fetch_maps_fields() -> None:

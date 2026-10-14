@@ -1,7 +1,9 @@
 """Rippling ATS public job-board adapter.
 
 Endpoint: GET https://ats.rippling.com/{slug}/jobs
-Jobs are embedded in the page's __NEXT_DATA__ JSON (SSR).
+Jobs are embedded in the page's __NEXT_DATA__ JSON (SSR). Boards whose page
+has no job data (Rippling's own redirects to rippling.com) fall back to the
+board JSON API, which returns one row per location.
 """
 
 from __future__ import annotations
@@ -28,6 +30,7 @@ from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 log = logging.getLogger(__name__)
 
 BASE_URL = "https://ats.rippling.com/{slug}/jobs"
+API_URL = "https://api.rippling.com/platform/api/ats/v1/board/{slug}/jobs"
 _NEXT_DATA_RE = re.compile(
     r'<script id="__NEXT_DATA__" type="application/json">(.+?)</script>',
     re.DOTALL,
@@ -49,6 +52,53 @@ def _get_html(slug: str) -> str:
     )
     resp.raise_for_status()
     return resp.text
+
+
+def _get_page_items(slug: str) -> list[dict[str, Any]] | None:
+    """Items from the SSR board page, or None when the page has none."""
+    match = _NEXT_DATA_RE.search(_get_html(slug))
+    if not match:
+        return None
+    try:
+        payload = json.loads(match.group(1))
+    except json.JSONDecodeError:
+        return None
+    jobs_blob = payload.get("props", {}).get("pageProps", {}).get("jobs") or {}
+    items = jobs_blob.get("items") if isinstance(jobs_blob, dict) else jobs_blob
+    return items if isinstance(items, list) else None
+
+
+@retry(
+    reraise=True,
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=2, max=10),
+    retry=retry_if_exception_type(requests.RequestException),
+)
+def _get_api_items(slug: str) -> list[dict[str, Any]]:
+    """Board API rows, reshaped to the __NEXT_DATA__ item format."""
+    resp = requests.get(
+        API_URL.format(slug=slug),
+        headers=DEFAULT_HEADERS,
+        timeout=DEFAULT_TIMEOUT,
+    )
+    resp.raise_for_status()
+    rows = resp.json()
+    if not isinstance(rows, list):
+        raise ValueError("unexpected API payload")
+    items = []
+    for row in rows:
+        dept = row.get("department") or {}
+        loc = (row.get("workLocation") or {}).get("label")
+        items.append(
+            {
+                "id": row.get("uuid"),
+                "name": row.get("name"),
+                "url": row.get("url"),
+                "department": {"name": dept.get("label")} if isinstance(dept, dict) else dept,
+                "locations": [{"name": loc}] if loc else [],
+            }
+        )
+    return items
 
 
 def _merge_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -86,27 +136,15 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         raise AdapterError(f"Rippling adapter requires 'slug' for {company.get('name')}")
 
     try:
-        html = _get_html(slug)
+        items = _get_page_items(slug)
+        if items is None:
+            items = _get_api_items(slug)
     except requests.HTTPError as e:
         raise AdapterError(
             f"Rippling HTTP {e.response.status_code} for slug='{slug}'"
         ) from e
-    except requests.RequestException as e:
-        raise AdapterError(f"Rippling network error for slug='{slug}': {e}") from e
-
-    match = _NEXT_DATA_RE.search(html)
-    if not match:
-        raise AdapterError(f"Rippling: no __NEXT_DATA__ found for slug='{slug}'")
-
-    try:
-        payload = json.loads(match.group(1))
-    except json.JSONDecodeError as e:
-        raise AdapterError(f"Rippling returned invalid __NEXT_DATA__ for '{slug}'") from e
-
-    jobs_blob = payload.get("props", {}).get("pageProps", {}).get("jobs") or {}
-    items = jobs_blob.get("items") if isinstance(jobs_blob, dict) else jobs_blob
-    if not isinstance(items, list):
-        raise AdapterError(f"Rippling: unexpected jobs payload for slug='{slug}'")
+    except (requests.RequestException, ValueError) as e:
+        raise AdapterError(f"Rippling error for slug='{slug}': {e}") from e
 
     jobs: list[Job] = []
     for raw in _merge_items(items):

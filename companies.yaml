@@ -4,7 +4,8 @@
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
 #                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | snyk |
-#                amazon_jobs | meta | linkedin | optiver | two_sigma | deshaw
+#                amazon_jobs | meta | linkedin | optiver | two_sigma | deshaw | avature
+#     # avature: avature_host (e.g. bloomberg.avature.net), avature_portal (default: careers)
 #     # Workday (myworkdaysite.com hosts, e.g. Snap):
 #     workday_cxs_host, workday_public_base
 #     # amazon_jobs:
@@ -234,14 +235,12 @@
   category: quant
 
 - name: SIG
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: jibe
+  careers_host: careers.sig.com
   linkedin_company_id: "165964"
   category: quant
   note: >
-    careers.sig.com / careers-sig.icims.com are a JS-rendered Angular
-    portal with no server-side job data and no discoverable public API;
-    using LinkedIn as a reliable fallback (same pattern as Zoox/Meta).
+    careers.sig.com is Jibe-powered; its /api/jobs JSON lists every posting.
 
 - name: Citadel Securities
   ats: linkedin
@@ -722,25 +721,22 @@
     pattern as SIG/Citadel Securities/Boston Dynamics).
 
 - name: Bloomberg LP
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: avature
+  avature_host: bloomberg.avature.net
   linkedin_company_id: "2494"
   category: big_tech
   note: >
-    bloomberg.com/careers has no discoverable public job API (JS-rendered,
-    no plain HTTP access); using LinkedIn as a reliable fallback.
+    bloomberg.com/careers is 403 to plain HTTP, but the Avature portal it
+    links to (bloomberg.avature.net/careers) serves server-rendered HTML.
 
 - name: Rippling
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: rippling
+  slug: rippling
   linkedin_company_id: "17988315"
   category: big_tech
   note: >
-    rippling.com/careers/open-roles is a Contentful-driven Next.js page
-    that renders results client-side via an Algolia index; the
-    search-only API key is not present in the SSR payload or any
-    directly-referenced JS chunk, so there's no stable public endpoint
-    to poll. Using LinkedIn as a reliable fallback.
+    ats.rippling.com/rippling/jobs redirects to rippling.com, so the adapter
+    falls back to the api.rippling.com board JSON.
 
 - name: MongoDB
   ats: greenhouse
@@ -851,8 +847,8 @@
   category: big_tech
 
 - name: GitHub
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: jibe
+  careers_host: www.github.careers
   linkedin_company_id: "1855"
   category: big_tech
 
