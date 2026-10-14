@@ -10,6 +10,9 @@ Notes
   career site. It returns JSON when Accept: application/json is sent.
 - Stops paginating when the page returns fewer than `limit` postings or
   after MAX_PAGES (a hard safety cap).
+- Workday lists at most LIST_CAP (2000) postings per query; past that offset
+  it wraps back to page 1. Boards at the cap are re-fetched one facet value
+  at a time (e.g. per job family) and merged.
 """
 
 from __future__ import annotations
@@ -38,9 +41,11 @@ log = logging.getLogger(__name__)
 DEFAULT_WD_HOST = "myworkdayjobs.com"
 BASE_URL = "https://{tenant}.{wd_pod}.{wd_host}/wday/cxs/{tenant}/{site}/jobs"
 PAGE_SIZE = 20
-# 250 pages × 20 = 5000 postings max per company.
-# Real-world ceiling so far: Nvidia ~2000, Adobe ~1200 — both safely under.
-MAX_PAGES = 250
+# Workday never lists past offset 2000 (it reports total=2000 and wraps).
+LIST_CAP = 2000
+MAX_PAGES = LIST_CAP // PAGE_SIZE
+# Facets tried, in order, to split a board that hits LIST_CAP.
+SPLIT_FACETS = ("jobFamilyGroup", "jobFamily", "workerSubType")
 DETAIL_WORKERS = 6
 DETAIL_DELAY_SEC = 0.02
 
@@ -55,11 +60,12 @@ def _post_page(
     session: requests.Session,
     url: str,
     offset: int,
+    facets: dict[str, list[str]] | None = None,
 ) -> dict[str, Any]:
     resp = session.post(
         url,
         json={
-            "appliedFacets": {},
+            "appliedFacets": facets or {},
             "limit": PAGE_SIZE,
             "offset": offset,
             "searchText": "",
@@ -92,6 +98,77 @@ def _workday_endpoints(company: dict[str, Any]) -> tuple[str, str, str]:
     return jobs_url, site_base, cxs_base
 
 
+def _list_postings(
+    session: requests.Session,
+    url: str,
+    name: str,
+    facets: dict[str, list[str]] | None = None,
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    """Page through one query; return (postings, first page payload)."""
+    all_raw: list[dict[str, Any]] = []
+    first: dict[str, Any] = {}
+    for page in range(max_list_pages(MAX_PAGES)):
+        offset = page * PAGE_SIZE
+        try:
+            payload = _post_page(session, url, offset, facets)
+        except requests.HTTPError as e:
+            raise AdapterError(
+                f"Workday HTTP {e.response.status_code} for {name} at offset {offset}"
+            ) from e
+        except requests.RequestException as e:
+            raise AdapterError(f"Workday network error for {name}: {e}") from e
+        except ValueError as e:
+            raise AdapterError(f"Workday returned invalid JSON for {name}") from e
+
+        if not page:
+            first = payload
+        page_jobs = payload.get("jobPostings") or []
+        all_raw.extend(page_jobs)
+        if len(page_jobs) < PAGE_SIZE:
+            break
+    return all_raw, first
+
+
+def _list_split_by_facet(
+    session: requests.Session,
+    url: str,
+    name: str,
+    first: dict[str, Any],
+    capped: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    """Re-list a board at LIST_CAP one facet value at a time, merged with the
+    capped unfiltered list (which covers postings missing that facet)."""
+    by_param = {f.get("facetParameter"): f for f in first.get("facets") or []}
+    for param in SPLIT_FACETS:
+        values = [
+            v for v in (by_param.get(param) or {}).get("values") or []
+            if v.get("id") and v.get("count")
+        ]
+        if values:
+            break
+    else:
+        log.warning("Workday %s: at the %d listing cap and no facet to split on", name, LIST_CAP)
+        return capped
+
+    merged: dict[str, dict[str, Any]] = {}
+    for raw in capped:
+        merged.setdefault(raw.get("externalPath") or raw.get("title", ""), raw)
+    for value in values:
+        if value["count"] >= LIST_CAP:
+            log.warning(
+                "Workday %s: %s=%s has %d postings; listing capped at %d",
+                name, param, value.get("descriptor"), value["count"], LIST_CAP,
+            )
+        rows, _ = _list_postings(session, url, name, {param: [value["id"]]})
+        for raw in rows:
+            merged.setdefault(raw.get("externalPath") or raw.get("title", ""), raw)
+    log.info(
+        "Workday %s: split by %s into %d queries -> %d postings",
+        name, param, len(values), len(merged),
+    )
+    return list(merged.values())
+
+
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     tenant = company.get("tenant")
@@ -109,26 +186,11 @@ def fetch(company: dict[str, Any]) -> list[Job]:
 
     url, site_base, cxs_base = _workday_endpoints(company)
 
-    all_raw: list[dict[str, Any]] = []
     list_headers = {**DEFAULT_HEADERS, "Content-Type": "application/json"}
     with http_session(list_headers) as session:
-        for page in range(max_list_pages(MAX_PAGES)):
-            offset = page * PAGE_SIZE
-            try:
-                payload = _post_page(session, url, offset)
-            except requests.HTTPError as e:
-                raise AdapterError(
-                    f"Workday HTTP {e.response.status_code} for {name} at offset {offset}"
-                ) from e
-            except requests.RequestException as e:
-                raise AdapterError(f"Workday network error for {name}: {e}") from e
-            except ValueError as e:
-                raise AdapterError(f"Workday returned invalid JSON for {name}") from e
-
-            page_jobs = payload.get("jobPostings") or []
-            all_raw.extend(page_jobs)
-            if len(page_jobs) < PAGE_SIZE:
-                break
+        all_raw, first = _list_postings(session, url, name)
+        if int(first.get("total") or 0) >= LIST_CAP:
+            all_raw = _list_split_by_facet(session, url, name, first, all_raw)
 
     jobs: list[Job] = []
     descriptions: dict[str, str | None] = {}

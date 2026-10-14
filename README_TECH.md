@@ -80,7 +80,7 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Ashby | `ashby.py` | 35 | Single public API |
 | Lever | `lever.py` | 5 | Single JSON list |
 | Google Careers | `google_careers.py` | 4 | Paginated HTML embedded JSON |
-| Workday | `workday.py` | 5 | POST pagination (20/page) |
+| Workday | `workday.py` | 5 | POST pagination (20/page); split per job family past the 2000-posting listing cap |
 | LinkedIn | `linkedin.py` | 10 | Guest search API |
 | Gem | `gem.py` | 3 | GraphQL job board |
 | Recruitee | `recruitee.py` | 1 | Public offers API |
@@ -88,7 +88,7 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Coinbase | `coinbase.py` | 1 | Careers REST API + GH fallback |
 | Amazon Jobs | `amazon_jobs.py` | 1 | amazon.jobs search.json |
 | Meta | `meta.py` | 1 | metacareers GraphQL job search + JSON-LD detail cache (candidates only) |
-| Microsoft | `microsoft.py` | 1 | PCSX search API (50/page) |
+| Microsoft | `microsoft.py` | 1 | PCSX search API (10/page, US location filter, all pages) |
 | Apple | `apple.py` | 1 | JSON search API, site-side US location filter |
 | Uber | `uber.py` | 1 | Careers search API |
 | Eightfold | `eightfold.py` | 1 | Batched JSON (Netflix) |
@@ -160,8 +160,8 @@ Other `google_careers` entries use `google_company` (DeepMind, Waymo, Isomorphic
 | `ATS_SNIPER_LINKEDIN_PAGE_DELAY_SEC` | 1.0 (CI) / 0.75 (local default) | Pause between LinkedIn search pages |
 | `ATS_SNIPER_LINKEDIN_BUDGET_MIN` | 35 (CI) / 0 = none (local) | LinkedIn companies not started within this budget are skipped; least-recently-fetched go first next run |
 | `ATS_SNIPER_EVAL_FETCH_WORKERS` | 4 | Parallel workers for eval fetch (non-LinkedIn) |
-| `ATS_SNIPER_MAX_LIST_PAGES` | 100 | Cap Google/Microsoft/Workday list depth in CI (Apple always fetches every page) |
-| `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 2000 | Cap single-response megaboards (e.g. Anduril ~1.9k); per-company `max_jobs` in `companies.yaml` overrides it (`0` = uncapped, used for Apple) |
+| `ATS_SNIPER_MAX_LIST_PAGES` | 100 | Cap Google/Workday list depth in CI (Apple and Microsoft always fetch every page; Workday boards at its 2000-posting listing cap are split per job family) |
+| `ATS_SNIPER_MAX_JOBS_PER_COMPANY` | 2000 | Cap single-response megaboards (e.g. Anduril ~1.9k); per-company `max_jobs` in `companies.yaml` overrides it (`0` = uncapped, used for Apple and Nvidia) |
 | `ATS_SNIPER_RESET_STATE` | — | Set to `1` (or use workflow **reset_state**) to wipe `seen_jobs.json`, `jobs_archive.json`, and `company_stats.json` before the run |
 
 **LinkedIn HTTP 429:** The guest jobs API rate-limits aggressively when many companies are hit at once. The scraper fetches all `linkedin` registry entries **one at a time** with backoff on 429. If you still see warnings, wait 15–30 minutes, re-run, or raise `ATS_SNIPER_LINKEDIN_DELAY_SEC` (e.g. `10`). For eval LinkedIn backfill only: `python testing/scripts/_retry_linkedin_eval.py` (8s between companies).

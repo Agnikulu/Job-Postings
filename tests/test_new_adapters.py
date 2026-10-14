@@ -616,6 +616,36 @@ def test_workday_myworkdaysite_host() -> None:
     assert site_base.endswith("/recruiting/snapchat/snap")
 
 
+def test_workday_splits_board_at_listing_cap() -> None:
+    from adapters import workday as wd
+
+    def page(paths: list[str], total: int = 0, facets: list | None = None) -> dict:
+        out = {"total": total, "jobPostings": [{"title": p, "externalPath": p} for p in paths]}
+        if facets is not None:
+            out["facets"] = facets
+        return out
+
+    facets = [{
+        "facetParameter": "jobFamilyGroup",
+        "values": [{"id": "eng", "count": 3, "descriptor": "Eng"},
+                   {"id": "ops", "count": 1, "descriptor": "Ops"}],
+    }]
+
+    def fake_post(session, url, offset, facets_arg=None):
+        if not facets_arg:
+            # Capped unfiltered list: one short page, total reported at the cap.
+            return page(["/job/a", "/job/b"], wd.LIST_CAP, facets)
+        if facets_arg == {"jobFamilyGroup": ["eng"]}:
+            return page(["/job/a", "/job/c", "/job/d"])
+        return page(["/job/e"])
+
+    company = {"name": "Big", "tenant": "big", "wd_pod": "wd5", "site": "Ext"}
+    with patch("adapters.workday._post_page", side_effect=fake_post), \
+         patch("adapters.workday.map_descriptions_parallel", return_value={}):
+        jobs = wd.fetch(company)
+    assert sorted(j.id for j in jobs) == ["a", "b", "c", "d", "e"]
+
+
 def test_optiver_fetch_paginates_and_maps_fields() -> None:
     # Optiver's custom Episerver job API returns a fixed 16-item page and
     # needs `from` offset pagination; description text requires a separate

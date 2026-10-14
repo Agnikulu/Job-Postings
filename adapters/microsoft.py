@@ -1,6 +1,10 @@
 """Microsoft careers adapter (apply.careers.microsoft.com PCSX API).
 
 Endpoint: GET https://apply.careers.microsoft.com/api/pcsx/search
+
+The API returns 10 positions per page whatever `count` asks for, so a full
+listing is ~120 pages (US only) or ~240 (worldwide). It is exempt from
+ATS_SNIPER_MAX_LIST_PAGES so the board isn't silently truncated.
 """
 
 from __future__ import annotations
@@ -20,8 +24,7 @@ from tenacity import (
 )
 
 from adapters.description_fetch import fetch_microsoft_description, map_descriptions_parallel
-from fetch_limits import max_list_pages
-from filters import should_fetch_description
+from filters import should_fetch_description, us_filter_enabled
 
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
@@ -29,8 +32,10 @@ log = logging.getLogger(__name__)
 
 SEARCH_URL = "https://apply.careers.microsoft.com/api/pcsx/search"
 BASE_URL = "https://apply.careers.microsoft.com"
-PAGE_SIZE = 50
-MAX_PAGES = 200
+PAGE_SIZE = 10  # server-enforced page size
+# Safety bound only (~2.4k postings worldwide = ~240 pages).
+MAX_PAGES = 600
+US_LOCATION = "United States"
 PAGE_DELAY_SEC = 0.35
 DETAIL_WORKERS = 8
 
@@ -47,7 +52,7 @@ def _retryable_request_error(exc: BaseException) -> bool:
     wait=wait_exponential(multiplier=2, min=4, max=30),
     retry=retry_if_exception(_retryable_request_error),
 )
-def _get_page(domain: str, start: int) -> dict[str, Any]:
+def _get_page(domain: str, start: int, location: str = "") -> dict[str, Any]:
     headers = {
         **DEFAULT_HEADERS,
         "Accept": "application/json, text/plain, */*",
@@ -58,7 +63,7 @@ def _get_page(domain: str, start: int) -> dict[str, Any]:
         params={
             "domain": domain,
             "query": "",
-            "location": "",
+            "location": location,
             "start": start,
             "count": PAGE_SIZE,
         },
@@ -98,11 +103,12 @@ def fetch(company: dict[str, Any]) -> list[Job]:
     all_raw: list[dict[str, Any]] = []
     start = 0
     total: int | None = None
-    for page_num in range(max_list_pages(MAX_PAGES)):
+    location = US_LOCATION if us_filter_enabled() else ""
+    for page_num in range(MAX_PAGES):
         if page_num:
             time.sleep(PAGE_DELAY_SEC)
         try:
-            payload = _get_page(domain, start)
+            payload = _get_page(domain, start, location)
         except requests.HTTPError as e:
             raise AdapterError(
                 f"Microsoft HTTP {e.response.status_code} for {name} start={start}"
