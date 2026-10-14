@@ -10,7 +10,7 @@
     "is_us": true,
     "posted_date": "2026-09-24",
     "first_seen": "2026-10-04T03:33:45+00:00",
-    "last_seen": "2026-10-12T11:24:10+00:00",
+    "last_seen": "2026-10-14T00:55:47+00:00",
     "is_closed": false
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014": {
@@ -68,7 +68,7 @@
     "is_us": true,
     "posted_date": "2026-09-11",
     "first_seen": "2026-09-13T05:19:14+00:00",
-    "last_seen": "2026-10-12T11:21:21+00:00",
+    "last_seen": "2026-10-14T00:54:24+00:00",
     "is_closed": false
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171719": {
@@ -82,7 +82,7 @@
     "is_us": true,
     "posted_date": "2026-09-11",
     "first_seen": "2026-09-13T05:19:14+00:00",
-    "last_seen": "2026-10-12T11:21:21+00:00",
+    "last_seen": "2026-10-14T00:54:24+00:00",
     "is_closed": false
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Quality-Engineering-Developer---Mobile_R171332": {
@@ -126,7 +126,7 @@
     "is_us": true,
     "posted_date": "2026-09-24",
     "first_seen": "2026-09-24T16:37:27+00:00",
-    "last_seen": "2026-10-12T11:21:41+00:00",
+    "last_seen": "2026-10-14T00:54:41+00:00",
     "is_closed": false
   },
   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083": {
@@ -142,7 +142,7 @@
     "is_us": true,
     "posted_date": "2026-09-24",
     "first_seen": "2026-09-24T16:37:27+00:00",
-    "last_seen": "2026-10-12T11:21:42+00:00",
+    "last_seen": "2026-10-14T00:54:41+00:00",
     "is_closed": false
   },
   "https://apply.careers.microsoft.com/careers/job/1970393556937343": {
@@ -157,7 +157,7 @@
     "posted_date": "2026-09-30",
     "first_seen": "2026-09-30T19:41:59+00:00",
     "last_seen": "2026-10-12T11:29:44+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://apply.careers.microsoft.com/careers/job/1970393556962661": {
     "title": "Design Verification Engineer",
@@ -766,7 +766,7 @@
     "is_us": true,
     "posted_date": "2024-08-15",
     "first_seen": "2026-09-13T05:28:44+00:00",
-    "last_seen": "2026-10-12T11:36:25+00:00",
+    "last_seen": "2026-10-14T01:05:34+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002": {
@@ -780,7 +780,7 @@
     "is_us": true,
     "posted_date": "2024-08-15",
     "first_seen": "2026-09-13T05:28:44+00:00",
-    "last_seen": "2026-10-12T11:36:25+00:00",
+    "last_seen": "2026-10-14T01:05:34+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002": {
@@ -808,7 +808,7 @@
     "is_us": true,
     "posted_date": "2025-01-22",
     "first_seen": "2026-09-13T05:28:44+00:00",
-    "last_seen": "2026-10-12T11:36:25+00:00",
+    "last_seen": "2026-10-14T01:05:34+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002": {
@@ -822,7 +822,7 @@
     "is_us": true,
     "posted_date": "2025-01-23",
     "first_seen": "2026-09-13T05:28:42+00:00",
-    "last_seen": "2026-10-12T11:36:23+00:00",
+    "last_seen": "2026-10-14T01:05:33+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/point72/jobs/8170176002?gh_jid=8170176002": {
@@ -852,7 +852,7 @@
     "is_us": true,
     "posted_date": "2026-04-15",
     "first_seen": "2026-09-13T05:28:43+00:00",
-    "last_seen": "2026-10-12T11:36:24+00:00",
+    "last_seen": "2026-10-14T01:05:33+00:00",
     "is_closed": false
   },
   "https://boards.greenhouse.io/spacex/jobs/8377056002?gh_jid=8377056002": {
@@ -4118,7 +4118,7 @@
     "is_us": true,
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-13T05:22:31+00:00",
-    "last_seen": "2026-10-12T11:24:39+00:00",
+    "last_seen": "2026-10-14T00:56:27+00:00",
     "is_closed": false
   },
   "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631": {
@@ -4134,7 +4134,7 @@
     "is_us": true,
     "posted_date": "2026-08-28",
     "first_seen": "2026-09-13T05:22:29+00:00",
-    "last_seen": "2026-10-12T11:24:38+00:00",
+    "last_seen": "2026-10-14T00:56:26+00:00",
     "is_closed": false
   },
   "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Applications-Engineer_R027041": {
@@ -4163,7 +4163,7 @@
     "posted_date": "2026-09-22",
     "first_seen": "2026-09-22T16:37:42+00:00",
     "last_seen": "2026-10-12T11:24:30+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/PCIe-QA-Engineer_R026923": {
     "title": "PCIe QA Engineer",
@@ -4176,7 +4176,7 @@
     "is_us": true,
     "posted_date": "2026-08-24",
     "first_seen": "2026-09-13T05:22:32+00:00",
-    "last_seen": "2026-10-12T11:24:40+00:00",
+    "last_seen": "2026-10-14T00:56:28+00:00",
     "is_closed": false
   },
   "https://careers.airbnb.com/positions/8031901?gh_jid=8031901": {
@@ -4190,7 +4190,7 @@
     "is_us": true,
     "posted_date": "2026-06-28",
     "first_seen": "2026-10-02T22:36:40+00:00",
-    "last_seen": "2026-10-12T11:22:19+00:00",
+    "last_seen": "2026-10-14T00:55:19+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/7350081?gh_jid=7350081": {
@@ -4256,7 +4256,7 @@
     "posted_date": "2026-08-28",
     "first_seen": "2026-09-13T05:28:58+00:00",
     "last_seen": "2026-10-12T11:36:44+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://careers.roblox.com/jobs/8072244?gh_jid=8072244": {
     "title": "[2027] Software Engineer, Early Career",
@@ -4271,7 +4271,7 @@
     "is_us": true,
     "posted_date": "2026-08-05",
     "first_seen": "2026-09-13T05:28:57+00:00",
-    "last_seen": "2026-10-12T11:36:43+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/8097701?gh_jid=8097701": {
@@ -4286,7 +4286,7 @@
     "posted_date": "2026-08-12",
     "first_seen": "2026-09-13T05:28:58+00:00",
     "last_seen": "2026-10-12T11:36:44+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://careers.roblox.com/jobs/8113334?gh_jid=8113334": {
     "title": "Software Engineer, Creator Business",
@@ -4300,7 +4300,7 @@
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:28:58+00:00",
     "last_seen": "2026-10-12T11:36:44+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://careers.roblox.com/jobs/8115917?gh_jid=8115917": {
     "title": "Software Engineer, Creator",
@@ -4313,7 +4313,7 @@
     "is_us": true,
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-13T05:28:58+00:00",
-    "last_seen": "2026-10-12T11:36:44+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
@@ -4327,7 +4327,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-06T18:02:56+00:00",
-    "last_seen": "2026-10-12T11:36:44+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/8168383?gh_jid=8168383": {
@@ -4355,7 +4355,7 @@
     "is_us": true,
     "posted_date": "2026-09-25",
     "first_seen": "2026-09-25T19:47:29+00:00",
-    "last_seen": "2026-10-12T11:36:44+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/8229705?gh_jid=8229705": {
@@ -4369,7 +4369,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T20:00:42+00:00",
-    "last_seen": "2026-10-12T11:36:44+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/8242623?gh_jid=8242623": {
@@ -4386,7 +4386,7 @@
     "is_us": true,
     "posted_date": "2026-10-08",
     "first_seen": "2026-10-08T17:07:08+00:00",
-    "last_seen": "2026-10-12T11:36:43+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.roblox.com/jobs/8262223?gh_jid=8262223": {
@@ -4400,7 +4400,7 @@
     "is_us": true,
     "posted_date": "2026-10-09",
     "first_seen": "2026-10-10T03:45:09+00:00",
-    "last_seen": "2026-10-12T11:36:44+00:00",
+    "last_seen": "2026-10-14T01:05:41+00:00",
     "is_closed": false
   },
   "https://careers.twosigma.com/careers/JobDetail/New-York-City-United-States-Quantitative-Software-Engineer-Techniques-Engineering/13080": {
@@ -4414,7 +4414,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:13+00:00",
-    "last_seen": "2026-10-12T11:38:20+00:00",
+    "last_seen": "2026-10-14T01:06:43+00:00",
     "is_closed": false
   },
   "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671": {
@@ -4430,7 +4430,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:13+00:00",
-    "last_seen": "2026-10-12T11:38:20+00:00",
+    "last_seen": "2026-10-14T01:06:43+00:00",
     "is_closed": false
   },
   "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer-Enterprise-Platform-Engineering/13516": {
@@ -4444,7 +4444,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:13+00:00",
-    "last_seen": "2026-10-12T11:38:20+00:00",
+    "last_seen": "2026-10-14T01:06:43+00:00",
     "is_closed": false
   },
   "https://careers.withwaymo.com/jobs?gh_jid=7309064": {
@@ -4458,7 +4458,7 @@
     "is_us": true,
     "posted_date": "2025-10-08",
     "first_seen": "2026-10-04T03:44:01+00:00",
-    "last_seen": "2026-10-12T11:38:36+00:00",
+    "last_seen": "2026-10-14T01:06:59+00:00",
     "is_closed": false
   },
   "https://careers.withwaymo.com/jobs?gh_jid=7488508": {
@@ -4475,7 +4475,7 @@
     "is_us": true,
     "posted_date": "2025-12-22",
     "first_seen": "2026-10-04T03:44:01+00:00",
-    "last_seen": "2026-10-12T11:38:36+00:00",
+    "last_seen": "2026-10-14T01:06:59+00:00",
     "is_closed": false
   },
   "https://careers.withwaymo.com/jobs?gh_jid=8039191": {
@@ -4489,7 +4489,7 @@
     "is_us": true,
     "posted_date": "2026-06-30",
     "first_seen": "2026-10-04T03:44:01+00:00",
-    "last_seen": "2026-10-12T11:38:36+00:00",
+    "last_seen": "2026-10-14T01:06:59+00:00",
     "is_closed": false
   },
   "https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006": {
@@ -4503,7 +4503,7 @@
     "is_us": true,
     "posted_date": "2025-10-24",
     "first_seen": "2026-09-13T05:23:15+00:00",
-    "last_seen": "2026-10-12T11:25:10+00:00",
+    "last_seen": "2026-10-14T00:56:48+00:00",
     "is_closed": false
   },
   "https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006": {
@@ -4517,7 +4517,21 @@
     "is_us": true,
     "posted_date": "2026-09-11",
     "first_seen": "2026-09-13T05:23:15+00:00",
-    "last_seen": "2026-10-12T11:25:10+00:00",
+    "last_seen": "2026-10-14T00:56:48+00:00",
+    "is_closed": false
+  },
+  "https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006": {
+    "title": "Software and AI Engineer",
+    "company": "CoreWeave",
+    "location": "Sunnyvale, CA / Bellevue, WA / Dallas, TX",
+    "department": "Information Technology",
+    "category": "frontier_ai",
+    "ats": "greenhouse",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-10-12",
+    "first_seen": "2026-10-14T00:56:48+00:00",
+    "last_seen": "2026-10-14T00:56:48+00:00",
     "is_closed": false
   },
   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874": {
@@ -4531,7 +4545,7 @@
     "is_us": true,
     "posted_date": "2026-08-28",
     "first_seen": "2026-09-13T05:23:27+00:00",
-    "last_seen": "2026-10-12T11:25:29+00:00",
+    "last_seen": "2026-10-14T00:57:10+00:00",
     "is_closed": false
   },
   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R29426": {
@@ -4573,7 +4587,7 @@
     "is_us": true,
     "posted_date": "2026-09-28",
     "first_seen": "2026-09-28T05:42:03+00:00",
-    "last_seen": "2026-10-12T11:25:21+00:00",
+    "last_seen": "2026-10-14T00:57:01+00:00",
     "is_closed": false
   },
   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Associate-Resident-Consultant--Remote-_R30265": {
@@ -4601,7 +4615,7 @@
     "is_us": true,
     "posted_date": "2026-09-28",
     "first_seen": "2026-09-28T05:42:03+00:00",
-    "last_seen": "2026-10-12T11:25:21+00:00",
+    "last_seen": "2026-10-14T00:57:01+00:00",
     "is_closed": false
   },
   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant--Remote-_R30266-1": {
@@ -4644,7 +4658,7 @@
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-02T20:40:02+00:00",
     "last_seen": "2026-10-12T11:26:30+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101": {
     "title": "Software Engineer, Early Career",
@@ -4689,13 +4703,13 @@
     "is_us": true,
     "posted_date": "2026-09-30",
     "first_seen": "2026-09-30T19:41:18+00:00",
-    "last_seen": "2026-10-12T11:26:29+00:00",
+    "last_seen": "2026-10-14T00:57:48+00:00",
     "is_closed": false
   },
   "https://job-boards.eu.greenhouse.io/imc/jobs/4907416101": {
-    "title": "Graduate Deep Learning Researcher - Chicago, New York",
+    "title": "Graduate Deep Learning Researcher - New York",
     "company": "IMC Trading",
-    "location": "Chicago, United States; New York, United States",
+    "location": "New York, United States",
     "department": "Machine Learning Engineering",
     "category": "quant",
     "ats": "greenhouse",
@@ -4703,7 +4717,7 @@
     "is_us": true,
     "posted_date": "2026-07-01",
     "first_seen": "2026-10-01T22:38:22+00:00",
-    "last_seen": "2026-10-12T11:26:28+00:00",
+    "last_seen": "2026-10-14T00:57:47+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/affirm/jobs/8008649003": {
@@ -4719,7 +4733,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T19:49:23+00:00",
-    "last_seen": "2026-10-12T11:22:18+00:00",
+    "last_seen": "2026-10-14T00:55:18+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/affirm/jobs/8010617003": {
@@ -4735,7 +4749,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T20:49:17+00:00",
-    "last_seen": "2026-10-12T11:22:18+00:00",
+    "last_seen": "2026-10-14T00:55:18+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/affirm/jobs/8011375003": {
@@ -4751,7 +4765,7 @@
     "is_us": true,
     "posted_date": "2026-10-09",
     "first_seen": "2026-10-09T23:01:10+00:00",
-    "last_seen": "2026-10-12T11:22:17+00:00",
+    "last_seen": "2026-10-14T00:55:18+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/anthropic/jobs/5415930008": {
@@ -4765,7 +4779,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-09-13T05:22:02+00:00",
-    "last_seen": "2026-10-12T11:23:12+00:00",
+    "last_seen": "2026-10-14T00:55:24+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/discord/jobs/8840756002": {
@@ -4779,7 +4793,7 @@
     "is_us": true,
     "posted_date": "2026-09-24",
     "first_seen": "2026-09-24T22:38:40+00:00",
-    "last_seen": "2026-10-12T11:25:53+00:00",
+    "last_seen": "2026-10-14T00:57:29+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/7848317": {
@@ -4793,7 +4807,7 @@
     "is_us": true,
     "posted_date": "2026-04-29",
     "first_seen": "2026-09-13T05:24:02+00:00",
-    "last_seen": "2026-10-12T11:25:54+00:00",
+    "last_seen": "2026-10-14T00:57:29+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/8044370": {
@@ -4808,7 +4822,7 @@
     "posted_date": "2026-07-02",
     "first_seen": "2026-09-13T05:24:11+00:00",
     "last_seen": "2026-10-12T11:26:03+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/8163709": {
     "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
@@ -4823,7 +4837,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-09-14T23:41:49+00:00",
-    "last_seen": "2026-10-12T11:26:03+00:00",
+    "last_seen": "2026-10-14T00:57:34+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/8236946": {
@@ -4851,7 +4865,7 @@
     "is_us": true,
     "posted_date": "2025-06-16",
     "first_seen": "2026-09-13T05:24:13+00:00",
-    "last_seen": "2026-10-12T11:26:05+00:00",
+    "last_seen": "2026-10-14T00:57:35+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/drweng/jobs/7377915": {
@@ -4865,7 +4879,7 @@
     "is_us": true,
     "posted_date": "2025-11-05",
     "first_seen": "2026-09-30T16:46:06+00:00",
-    "last_seen": "2026-10-12T11:26:05+00:00",
+    "last_seen": "2026-10-14T00:57:35+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/drweng/jobs/7650182": {
@@ -4879,7 +4893,7 @@
     "is_us": true,
     "posted_date": "2026-02-25",
     "first_seen": "2026-09-13T05:24:13+00:00",
-    "last_seen": "2026-10-12T11:26:05+00:00",
+    "last_seen": "2026-10-14T00:57:35+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/drweng/jobs/7980165": {
@@ -4893,7 +4907,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:24:13+00:00",
-    "last_seen": "2026-10-12T11:26:05+00:00",
+    "last_seen": "2026-10-14T00:57:35+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/drweng/jobs/8039110": {
@@ -4921,7 +4935,7 @@
     "is_us": true,
     "posted_date": "2025-12-23",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:15+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008": {
@@ -4937,7 +4951,7 @@
     "is_us": true,
     "posted_date": "2026-07-14",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:15+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008": {
@@ -4951,7 +4965,7 @@
     "is_us": true,
     "posted_date": "2026-08-18",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:15+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/goodfire/jobs/4499053008": {
@@ -4965,7 +4979,7 @@
     "is_us": true,
     "posted_date": "2025-01-17",
     "first_seen": "2026-10-07T18:51:51+00:00",
-    "last_seen": "2026-10-12T11:26:20+00:00",
+    "last_seen": "2026-10-14T00:57:43+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/purestorage/jobs/8060240": {
@@ -4979,7 +4993,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-10-07T22:00:04+00:00",
-    "last_seen": "2026-10-12T11:36:26+00:00",
+    "last_seen": "2026-10-14T01:05:35+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/purestorage/jobs/8211954": {
@@ -5023,7 +5037,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T17:04:17+00:00",
-    "last_seen": "2026-10-12T11:36:30+00:00",
+    "last_seen": "2026-10-14T01:05:36+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4625344005": {
@@ -5053,7 +5067,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-09-13T05:29:07+00:00",
-    "last_seen": "2026-10-12T11:36:53+00:00",
+    "last_seen": "2026-10-14T01:05:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/scaleai/jobs/4736426005": {
@@ -5069,7 +5083,7 @@
     "is_us": true,
     "posted_date": "2026-09-23",
     "first_seen": "2026-09-23T18:48:57+00:00",
-    "last_seen": "2026-10-12T11:36:53+00:00",
+    "last_seen": "2026-10-14T01:05:46+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/togetherai/jobs/5211582007": {
@@ -5086,7 +5100,7 @@
     "posted_date": "2026-09-18",
     "first_seen": "2026-09-18T16:46:50+00:00",
     "last_seen": "2026-10-12T11:38:18+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://job-boards.greenhouse.io/togetherai/jobs/5223190007": {
     "title": "GTM Data Analytics Engineer",
@@ -5113,7 +5127,7 @@
     "is_us": true,
     "posted_date": "2026-06-01",
     "first_seen": "2026-09-13T05:30:31+00:00",
-    "last_seen": "2026-10-12T11:38:41+00:00",
+    "last_seen": "2026-10-14T01:07:02+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/xai/jobs/5179367007": {
@@ -5127,7 +5141,7 @@
     "is_us": true,
     "posted_date": "2026-07-02",
     "first_seen": "2026-09-13T05:30:31+00:00",
-    "last_seen": "2026-10-12T11:38:41+00:00",
+    "last_seen": "2026-10-14T01:07:02+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/xai/jobs/5215570007": {
@@ -5141,7 +5155,7 @@
     "is_us": true,
     "posted_date": "2026-08-18",
     "first_seen": "2026-09-13T05:30:31+00:00",
-    "last_seen": "2026-10-12T11:38:41+00:00",
+    "last_seen": "2026-10-14T01:07:02+00:00",
     "is_closed": false
   },
   "https://job-boards.greenhouse.io/xai/jobs/5255858007": {
@@ -5155,7 +5169,7 @@
     "is_us": true,
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-02T21:44:42+00:00",
-    "last_seen": "2026-10-12T11:38:41+00:00",
+    "last_seen": "2026-10-14T01:07:02+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200600679-0836/component-engineer": {
@@ -5169,7 +5183,7 @@
     "is_us": true,
     "posted_date": "2026-05-19",
     "first_seen": "2026-10-09T07:13:26+00:00",
-    "last_seen": "2026-10-12T11:23:45+00:00",
+    "last_seen": "2026-10-14T00:55:36+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200628300-0157/cpu-design-verification-engineer": {
@@ -5183,7 +5197,7 @@
     "is_us": true,
     "posted_date": "2025-10-27",
     "first_seen": "2026-10-09T07:13:35+00:00",
-    "last_seen": "2026-10-12T11:23:56+00:00",
+    "last_seen": "2026-10-14T00:55:40+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200628815-3760/asic-design-engineer": {
@@ -5197,7 +5211,7 @@
     "is_us": true,
     "posted_date": "2025-10-29",
     "first_seen": "2026-10-09T07:13:34+00:00",
-    "last_seen": "2026-10-12T11:23:56+00:00",
+    "last_seen": "2026-10-14T00:55:40+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200644614-0836/wi-fi-software-engineer-wireless-technologies-ecosystems": {
@@ -5211,8 +5225,8 @@
     "is_us": true,
     "posted_date": "2026-08-05",
     "first_seen": "2026-10-09T07:13:19+00:00",
-    "last_seen": "2026-10-12T08:29:48+00:00",
-    "is_closed": true
+    "last_seen": "2026-10-14T00:55:33+00:00",
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200644619-0836/wi-fi-software-engineer-wireless-technologies-ecosystems": {
     "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
@@ -5225,7 +5239,7 @@
     "is_us": true,
     "posted_date": "2026-08-05",
     "first_seen": "2026-10-09T07:13:19+00:00",
-    "last_seen": "2026-10-12T11:23:37+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200657280-3760/integration-engineer": {
@@ -5239,7 +5253,7 @@
     "is_us": true,
     "posted_date": "2026-07-30",
     "first_seen": "2026-10-09T07:13:19+00:00",
-    "last_seen": "2026-10-12T11:23:38+00:00",
+    "last_seen": "2026-10-14T00:55:34+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200657911-0836/machine-learning-engineer-visual-agents-special-projects": {
@@ -5253,7 +5267,7 @@
     "is_us": true,
     "posted_date": "2026-04-17",
     "first_seen": "2026-10-09T07:13:28+00:00",
-    "last_seen": "2026-10-12T11:23:48+00:00",
+    "last_seen": "2026-10-14T00:55:37+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200657922-0157/cpu-design-verification-engineer": {
@@ -5267,7 +5281,7 @@
     "is_us": true,
     "posted_date": "2026-04-14",
     "first_seen": "2026-10-09T07:13:28+00:00",
-    "last_seen": "2026-10-12T11:23:49+00:00",
+    "last_seen": "2026-10-14T00:55:37+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200658138-0240/gate-level-sigem-seb-fit-cad-engineer": {
@@ -5281,7 +5295,7 @@
     "is_us": true,
     "posted_date": "2026-04-15",
     "first_seen": "2026-10-09T07:13:28+00:00",
-    "last_seen": "2026-10-12T11:23:48+00:00",
+    "last_seen": "2026-10-14T00:55:37+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200658138-3401/gate-level-sigem-seb-fit-cad-engineer": {
@@ -5295,7 +5309,7 @@
     "is_us": true,
     "posted_date": "2026-04-15",
     "first_seen": "2026-10-09T07:13:28+00:00",
-    "last_seen": "2026-10-12T11:23:48+00:00",
+    "last_seen": "2026-10-14T00:55:37+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200662455-1242/cpu-design-verification-engineer": {
@@ -5309,7 +5323,7 @@
     "is_us": true,
     "posted_date": "2026-05-11",
     "first_seen": "2026-10-09T07:13:26+00:00",
-    "last_seen": "2026-10-12T11:23:46+00:00",
+    "last_seen": "2026-10-14T00:55:36+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200662702-3760/asic-design-engineer": {
@@ -5323,7 +5337,7 @@
     "is_us": true,
     "posted_date": "2026-05-14",
     "first_seen": "2026-10-09T07:13:26+00:00",
-    "last_seen": "2026-10-12T11:23:46+00:00",
+    "last_seen": "2026-10-14T00:55:36+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200669990-0157/custom-timing-and-verification-cad-engineer": {
@@ -5337,7 +5351,7 @@
     "is_us": true,
     "posted_date": "2026-06-25",
     "first_seen": "2026-10-09T07:13:23+00:00",
-    "last_seen": "2026-10-12T11:23:41+00:00",
+    "last_seen": "2026-10-14T00:55:35+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200669990-3956/custom-timing-and-verification-cad-engineer": {
@@ -5351,7 +5365,7 @@
     "is_us": true,
     "posted_date": "2026-06-25",
     "first_seen": "2026-10-09T07:13:23+00:00",
-    "last_seen": "2026-10-12T11:23:41+00:00",
+    "last_seen": "2026-10-14T00:55:35+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200674176-3350/software-engineer-productivity-apps": {
@@ -5379,7 +5393,7 @@
     "is_us": true,
     "posted_date": "2026-07-29",
     "first_seen": "2026-10-09T07:13:20+00:00",
-    "last_seen": "2026-10-12T11:23:38+00:00",
+    "last_seen": "2026-10-14T00:55:34+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career": {
@@ -5395,7 +5409,7 @@
     "is_us": true,
     "posted_date": "2026-08-10",
     "first_seen": "2026-10-09T07:13:18+00:00",
-    "last_seen": "2026-10-12T11:23:36+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities": {
@@ -5411,7 +5425,7 @@
     "is_us": true,
     "posted_date": "2026-08-12",
     "first_seen": "2026-10-09T07:13:18+00:00",
-    "last_seen": "2026-10-12T11:23:35+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-0836/ios-engineer-creator-studio": {
@@ -5425,7 +5439,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
-    "last_seen": "2026-10-12T11:23:34+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-1435/ios-engineer-creator-studio": {
@@ -5439,7 +5453,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
-    "last_seen": "2026-10-12T11:23:34+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-2926/ios-engineer-creator-studio": {
@@ -5453,7 +5467,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
-    "last_seen": "2026-10-12T11:23:34+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-3337/ios-engineer-creator-studio": {
@@ -5467,7 +5481,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
-    "last_seen": "2026-10-12T11:23:34+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-3543/ios-engineer-creator-studio": {
@@ -5481,7 +5495,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
-    "last_seen": "2026-10-12T11:23:35+00:00",
+    "last_seen": "2026-10-14T00:55:33+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200681256-0836/software-engineer-commerce-segments-and-platform-ase": {
@@ -5495,7 +5509,7 @@
     "is_us": true,
     "posted_date": "2026-09-01",
     "first_seen": "2026-10-09T07:13:14+00:00",
-    "last_seen": "2026-10-12T11:23:31+00:00",
+    "last_seen": "2026-10-14T00:55:31+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200682312-0321/junior-software-development-engineer-in-test-retail-engineering-is-t": {
@@ -5523,7 +5537,7 @@
     "is_us": true,
     "posted_date": "2026-09-11",
     "first_seen": "2026-10-05T13:55:48+00:00",
-    "last_seen": "2026-10-12T11:23:29+00:00",
+    "last_seen": "2026-10-14T00:55:31+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684056-1418/test-engineer-product-operations-graduate-programme": {
@@ -5567,7 +5581,7 @@
     "is_us": true,
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
-    "last_seen": "2026-10-12T11:23:26+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684837-3543/physical-design-methodology-cad-engineer": {
@@ -5581,7 +5595,7 @@
     "is_us": true,
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
-    "last_seen": "2026-10-12T11:23:26+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684837-3749/physical-design-methodology-cad-engineer": {
@@ -5595,7 +5609,7 @@
     "is_us": true,
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
-    "last_seen": "2026-10-12T11:23:26+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684837-3760/physical-design-methodology-cad-engineer": {
@@ -5609,7 +5623,7 @@
     "is_us": true,
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
-    "last_seen": "2026-10-12T11:23:26+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685186-3956/software-engineer-information-systems-technology": {
@@ -5623,7 +5637,7 @@
     "is_us": true,
     "posted_date": "2026-09-29",
     "first_seen": "2026-10-05T01:32:30+00:00",
-    "last_seen": "2026-10-12T11:23:24+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685188-0157/software-engineer-information-systems-technology": {
@@ -5637,7 +5651,7 @@
     "is_us": true,
     "posted_date": "2026-09-29",
     "first_seen": "2026-10-07T04:53:31+00:00",
-    "last_seen": "2026-10-12T11:23:24+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685871-0157/cad-engineer-signoff-infrastructure": {
@@ -5651,7 +5665,7 @@
     "is_us": true,
     "posted_date": "2026-09-25",
     "first_seen": "2026-10-09T07:13:09+00:00",
-    "last_seen": "2026-10-12T11:23:25+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685871-3749/cad-engineer-signoff-infrastructure": {
@@ -5665,7 +5679,7 @@
     "is_us": true,
     "posted_date": "2026-09-25",
     "first_seen": "2026-10-09T07:13:09+00:00",
-    "last_seen": "2026-10-12T11:23:25+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685964-0836/%EF%A3%BF-acoustics-associate-lab-engineer": {
@@ -5679,7 +5693,7 @@
     "is_us": true,
     "posted_date": "2026-09-28",
     "first_seen": "2026-10-09T07:13:09+00:00",
-    "last_seen": "2026-10-12T11:23:25+00:00",
+    "last_seen": "2026-10-14T00:55:30+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200686380-3337/ai-software-engineer-apple-cloud-ai-platform": {
@@ -5693,7 +5707,7 @@
     "is_us": true,
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-09T07:13:07+00:00",
-    "last_seen": "2026-10-12T11:23:23+00:00",
+    "last_seen": "2026-10-14T00:55:29+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt": {
@@ -5707,7 +5721,7 @@
     "is_us": true,
     "posted_date": "2026-10-07",
     "first_seen": "2026-10-09T07:13:06+00:00",
-    "last_seen": "2026-10-12T11:23:21+00:00",
+    "last_seen": "2026-10-14T00:55:28+00:00",
     "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200687375-0836/software-engineer-siri-user-experiences": {
@@ -5722,7 +5736,7 @@
     "posted_date": "2026-10-07",
     "first_seen": "2026-10-09T07:13:06+00:00",
     "last_seen": "2026-10-12T11:23:21+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://jobs.apple.com/en-us/details/200687414-1731/early-career-analog-mixed-signal-modeling-software-engineer-m-f-d": {
     "title": "Early Career Analog Mixed-Signal Modeling Software Engineer (m/f/d)",
@@ -5766,6 +5780,34 @@
     "posted_date": "2026-10-08",
     "first_seen": "2026-10-09T07:13:05+00:00",
     "last_seen": "2026-10-12T11:23:20+00:00",
+    "is_closed": true
+  },
+  "https://jobs.apple.com/en-us/details/200688542-0836/platform-data-engineer": {
+    "title": "Platform & Data Engineer",
+    "company": "Apple",
+    "location": "Cupertino, United States of America",
+    "department": "Software and Services",
+    "category": "big_tech",
+    "ats": "apple",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-10-12",
+    "first_seen": "2026-10-14T00:55:28+00:00",
+    "last_seen": "2026-10-14T00:55:28+00:00",
+    "is_closed": false
+  },
+  "https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation": {
+    "title": "OS Software Engineer, Evaluation",
+    "company": "Apple",
+    "location": "Cupertino, United States of America",
+    "department": "Software and Services",
+    "category": "big_tech",
+    "ats": "apple",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-10-12",
+    "first_seen": "2026-10-14T00:55:28+00:00",
+    "last_seen": "2026-10-14T00:55:28+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57": {
@@ -5779,7 +5821,7 @@
     "is_us": true,
     "posted_date": "2026-06-17",
     "first_seen": "2026-09-13T05:19:13+00:00",
-    "last_seen": "2026-10-12T11:21:18+00:00",
+    "last_seen": "2026-10-14T00:54:20+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02": {
@@ -5809,7 +5851,7 @@
     "is_us": true,
     "posted_date": "2026-09-10",
     "first_seen": "2026-09-13T05:23:51+00:00",
-    "last_seen": "2026-10-12T11:25:42+00:00",
+    "last_seen": "2026-10-14T00:57:23+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed": {
@@ -5825,7 +5867,7 @@
     "is_us": true,
     "posted_date": "2026-09-16",
     "first_seen": "2026-09-16T23:37:16+00:00",
-    "last_seen": "2026-10-12T11:25:41+00:00",
+    "last_seen": "2026-10-14T00:57:23+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c": {
@@ -5841,7 +5883,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:22:13+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/091ed808-95c9-420b-8061-0ff2eb9342bc": {
@@ -5855,7 +5897,7 @@
     "is_us": true,
     "posted_date": "2024-09-17",
     "first_seen": "2026-09-25T21:36:02+00:00",
-    "last_seen": "2026-10-12T11:24:00+00:00",
+    "last_seen": "2026-10-14T00:55:42+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19": {
@@ -5871,7 +5913,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943": {
@@ -5887,7 +5929,7 @@
     "is_us": true,
     "posted_date": "2026-09-02",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:02+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/32e39ce9-9c09-4dd9-9ad1-4ee0b0cf7907": {
@@ -5901,7 +5943,7 @@
     "is_us": true,
     "posted_date": "2026-03-18",
     "first_seen": "2026-09-13T05:22:10+00:00",
-    "last_seen": "2026-10-12T11:24:00+00:00",
+    "last_seen": "2026-10-14T00:55:42+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/36a49d01-e60f-4c01-8c8c-5a7f79347f51": {
@@ -5915,7 +5957,7 @@
     "is_us": true,
     "posted_date": "2026-02-13",
     "first_seen": "2026-09-25T21:36:02+00:00",
-    "last_seen": "2026-10-12T11:24:00+00:00",
+    "last_seen": "2026-10-14T00:55:42+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39": {
@@ -5931,7 +5973,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/4cb44794-7b3b-46fc-9408-104a6d0f379e": {
@@ -5945,7 +5987,7 @@
     "is_us": true,
     "posted_date": "2025-08-19",
     "first_seen": "2026-09-25T21:36:02+00:00",
-    "last_seen": "2026-10-12T11:23:59+00:00",
+    "last_seen": "2026-10-14T00:55:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1": {
@@ -5961,7 +6003,7 @@
     "is_us": true,
     "posted_date": "2026-08-22",
     "first_seen": "2026-09-13T05:22:13+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/567062a4-578e-4d05-a175-4fff84dd07b5": {
@@ -5975,7 +6017,7 @@
     "is_us": true,
     "posted_date": "2026-07-09",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:02+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44": {
@@ -5991,7 +6033,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/8da87c90-49ff-4b75-97c5-337882f63a00": {
@@ -6005,7 +6047,7 @@
     "is_us": true,
     "posted_date": "2026-02-13",
     "first_seen": "2026-09-25T21:36:02+00:00",
-    "last_seen": "2026-10-12T11:24:00+00:00",
+    "last_seen": "2026-10-14T00:55:42+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352": {
@@ -6021,7 +6063,7 @@
     "is_us": true,
     "posted_date": "2026-08-25",
     "first_seen": "2026-09-13T05:22:13+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": {
@@ -6037,7 +6079,7 @@
     "is_us": true,
     "posted_date": "2026-09-02",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:02+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
@@ -6053,7 +6095,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4": {
@@ -6069,7 +6111,7 @@
     "is_us": true,
     "posted_date": "2026-08-25",
     "first_seen": "2026-09-13T05:22:13+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/c9473dcb-f651-47bb-9a59-4150bddcdaa8": {
@@ -6083,7 +6125,7 @@
     "is_us": true,
     "posted_date": "2026-03-04",
     "first_seen": "2026-09-13T05:22:10+00:00",
-    "last_seen": "2026-10-12T11:24:00+00:00",
+    "last_seen": "2026-10-14T00:55:42+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95": {
@@ -6099,7 +6141,7 @@
     "is_us": true,
     "posted_date": "2026-08-25",
     "first_seen": "2026-09-13T05:22:13+00:00",
-    "last_seen": "2026-10-12T11:24:03+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/e725018e-2577-4ff6-8dbd-69206272d9af": {
@@ -6113,7 +6155,7 @@
     "is_us": true,
     "posted_date": "2025-08-19",
     "first_seen": "2026-09-25T21:36:02+00:00",
-    "last_seen": "2026-10-12T11:23:59+00:00",
+    "last_seen": "2026-10-14T00:55:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf": {
@@ -6129,7 +6171,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:02+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a": {
@@ -6143,7 +6185,7 @@
     "is_us": true,
     "posted_date": "2026-08-05",
     "first_seen": "2026-09-13T05:22:12+00:00",
-    "last_seen": "2026-10-12T11:24:02+00:00",
+    "last_seen": "2026-10-14T00:55:43+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/aurora-operations-inc/8624caf6-91c7-4f27-a979-c3cab7877bca": {
@@ -6174,7 +6216,7 @@
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T16:53:27+00:00",
     "last_seen": "2026-10-12T11:24:07+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e": {
     "title": "Research Engineer, Model Evaluation and Improvement",
@@ -6187,7 +6229,7 @@
     "is_us": true,
     "posted_date": "2026-08-24",
     "first_seen": "2026-09-13T05:22:17+00:00",
-    "last_seen": "2026-10-12T11:24:09+00:00",
+    "last_seen": "2026-10-14T00:55:46+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/cerebras/24e42002-7f6d-4769-9ce0-0d844757cc0e": {
@@ -6201,7 +6243,7 @@
     "is_us": true,
     "posted_date": "2026-05-08",
     "first_seen": "2026-09-13T05:23:02+00:00",
-    "last_seen": "2026-10-12T11:24:56+00:00",
+    "last_seen": "2026-10-14T00:56:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/cerebras/79eec4ee-8c02-407a-899c-3848f7c2a8b8": {
@@ -6215,7 +6257,7 @@
     "is_us": true,
     "posted_date": "2026-07-17",
     "first_seen": "2026-09-13T05:23:03+00:00",
-    "last_seen": "2026-10-12T11:24:57+00:00",
+    "last_seen": "2026-10-14T00:56:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f": {
@@ -6229,7 +6271,7 @@
     "is_us": true,
     "posted_date": "2026-09-15",
     "first_seen": "2026-09-15T15:44:55+00:00",
-    "last_seen": "2026-10-12T11:24:56+00:00",
+    "last_seen": "2026-10-14T00:56:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887": {
@@ -6243,7 +6285,7 @@
     "is_us": true,
     "posted_date": "2026-02-05",
     "first_seen": "2026-09-13T05:23:02+00:00",
-    "last_seen": "2026-10-12T11:24:56+00:00",
+    "last_seen": "2026-10-14T00:56:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e": {
@@ -6259,7 +6301,7 @@
     "is_us": true,
     "posted_date": "2026-07-23",
     "first_seen": "2026-09-13T05:23:03+00:00",
-    "last_seen": "2026-10-12T11:24:57+00:00",
+    "last_seen": "2026-10-14T00:56:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273": {
@@ -6291,7 +6333,7 @@
     "is_us": true,
     "posted_date": "2026-09-08",
     "first_seen": "2026-09-13T05:23:52+00:00",
-    "last_seen": "2026-10-12T11:25:43+00:00",
+    "last_seen": "2026-10-14T00:57:24+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f": {
@@ -6307,7 +6349,7 @@
     "is_us": true,
     "posted_date": "2026-08-18",
     "first_seen": "2026-09-16T20:39:21+00:00",
-    "last_seen": "2026-10-12T11:25:53+00:00",
+    "last_seen": "2026-10-14T00:57:29+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e": {
@@ -6324,7 +6366,7 @@
     "is_us": true,
     "posted_date": "2026-09-08",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:15+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58": {
@@ -6341,7 +6383,7 @@
     "is_us": true,
     "posted_date": "2026-09-08",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:15+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef": {
@@ -6358,7 +6400,7 @@
     "is_us": true,
     "posted_date": "2026-09-08",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:15+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/fireworks/ee35bd97-43f9-4574-8ab7-81debd5d3d1a": {
@@ -6372,7 +6414,7 @@
     "is_us": true,
     "posted_date": "2026-08-04",
     "first_seen": "2026-09-13T05:24:24+00:00",
-    "last_seen": "2026-10-12T11:26:14+00:00",
+    "last_seen": "2026-10-14T00:57:40+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": {
@@ -6388,7 +6430,7 @@
     "is_us": true,
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-02T20:39:59+00:00",
-    "last_seen": "2026-10-12T11:26:24+00:00",
+    "last_seen": "2026-10-14T00:57:45+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5": {
@@ -6404,7 +6446,7 @@
     "is_us": true,
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-02T20:39:58+00:00",
-    "last_seen": "2026-10-12T11:26:23+00:00",
+    "last_seen": "2026-10-14T00:57:45+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522": {
@@ -6420,7 +6462,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-09-13T05:24:43+00:00",
-    "last_seen": "2026-10-12T11:26:37+00:00",
+    "last_seen": "2026-10-14T00:57:51+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134": {
@@ -6436,7 +6478,7 @@
     "is_us": true,
     "posted_date": "2026-08-17",
     "first_seen": "2026-09-13T05:24:43+00:00",
-    "last_seen": "2026-10-12T11:26:37+00:00",
+    "last_seen": "2026-10-14T00:57:51+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152": {
@@ -6466,7 +6508,7 @@
     "is_us": true,
     "posted_date": "2026-07-06",
     "first_seen": "2026-09-13T05:25:12+00:00",
-    "last_seen": "2026-10-12T11:29:49+00:00",
+    "last_seen": "2026-10-14T00:58:24+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28": {
@@ -6482,7 +6524,7 @@
     "is_us": true,
     "posted_date": "2026-07-06",
     "first_seen": "2026-09-13T05:25:12+00:00",
-    "last_seen": "2026-10-12T11:29:48+00:00",
+    "last_seen": "2026-10-14T00:58:24+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c": {
@@ -6496,7 +6538,7 @@
     "is_us": true,
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-01T19:41:21+00:00",
-    "last_seen": "2026-10-12T11:29:50+00:00",
+    "last_seen": "2026-10-14T00:58:25+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816": {
@@ -6512,7 +6554,7 @@
     "is_us": true,
     "posted_date": "2026-08-14",
     "first_seen": "2026-09-13T05:25:13+00:00",
-    "last_seen": "2026-10-12T11:29:49+00:00",
+    "last_seen": "2026-10-14T00:58:25+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/openai/467cbfac-3e7d-4cc6-a131-2b26617afa02": {
@@ -6527,7 +6569,7 @@
     "posted_date": "2026-03-02",
     "first_seen": "2026-09-13T05:28:22+00:00",
     "last_seen": "2026-10-12T11:36:00+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://jobs.ashbyhq.com/openai/4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb": {
     "title": "Performance Modeling Engineer ~2",
@@ -6540,7 +6582,7 @@
     "is_us": true,
     "posted_date": "2026-04-20",
     "first_seen": "2026-09-13T05:28:23+00:00",
-    "last_seen": "2026-10-12T11:36:01+00:00",
+    "last_seen": "2026-10-14T01:05:23+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511": {
@@ -6554,7 +6596,7 @@
     "is_us": true,
     "posted_date": "2026-09-14",
     "first_seen": "2026-09-14T23:46:08+00:00",
-    "last_seen": "2026-10-12T11:36:10+00:00",
+    "last_seen": "2026-10-14T01:05:28+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480": {
@@ -6568,7 +6610,7 @@
     "is_us": true,
     "posted_date": "2026-07-22",
     "first_seen": "2026-09-13T05:28:28+00:00",
-    "last_seen": "2026-10-12T11:36:05+00:00",
+    "last_seen": "2026-10-14T01:05:26+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/openai/f6b9903c-9034-436b-a4ec-4c8643a6d0dd": {
@@ -6582,7 +6624,7 @@
     "is_us": true,
     "posted_date": "2026-05-06",
     "first_seen": "2026-09-13T05:28:24+00:00",
-    "last_seen": "2026-10-12T11:36:01+00:00",
+    "last_seen": "2026-10-14T01:05:24+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/periodic-labs/01d2c4b2-d848-4426-ad5f-7f1052db3a63": {
@@ -6598,7 +6640,7 @@
     "is_us": true,
     "posted_date": "2025-11-12",
     "first_seen": "2026-10-04T03:41:57+00:00",
-    "last_seen": "2026-10-12T11:36:18+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/periodic-labs/168dbf20-2230-49a0-9f00-f2ff58dad5c8": {
@@ -6614,7 +6656,7 @@
     "is_us": true,
     "posted_date": "2026-09-30",
     "first_seen": "2026-10-04T03:41:57+00:00",
-    "last_seen": "2026-10-12T11:36:19+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0": {
@@ -6630,7 +6672,7 @@
     "is_us": true,
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-04T03:41:57+00:00",
-    "last_seen": "2026-10-12T11:36:19+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/periodic-labs/7f36ea6e-3e67-40df-82c6-5540859a2ac5": {
@@ -6646,7 +6688,7 @@
     "is_us": true,
     "posted_date": "2026-07-09",
     "first_seen": "2026-10-04T03:41:57+00:00",
-    "last_seen": "2026-10-12T11:36:18+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77": {
@@ -6662,7 +6704,7 @@
     "is_us": true,
     "posted_date": "2026-07-25",
     "first_seen": "2026-10-04T03:41:57+00:00",
-    "last_seen": "2026-10-12T11:36:19+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/periodic-labs/e90c6050-e544-4a2b-ae30-7c41e5eb4f16": {
@@ -6678,7 +6720,7 @@
     "is_us": true,
     "posted_date": "2026-07-09",
     "first_seen": "2026-10-04T03:41:57+00:00",
-    "last_seen": "2026-10-12T11:36:18+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511": {
@@ -6694,7 +6736,7 @@
     "is_us": true,
     "posted_date": "2026-09-29",
     "first_seen": "2026-09-29T04:49:57+00:00",
-    "last_seen": "2026-10-12T11:36:20+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523": {
@@ -6742,7 +6784,7 @@
     "is_us": true,
     "posted_date": "2026-09-18",
     "first_seen": "2026-09-18T23:42:53+00:00",
-    "last_seen": "2026-10-12T11:36:20+00:00",
+    "last_seen": "2026-10-14T01:05:31+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f": {
@@ -6756,7 +6798,7 @@
     "is_us": true,
     "posted_date": "2025-07-31",
     "first_seen": "2026-09-13T05:28:52+00:00",
-    "last_seen": "2026-10-12T11:36:35+00:00",
+    "last_seen": "2026-10-14T01:05:37+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040": {
@@ -6770,7 +6812,21 @@
     "is_us": true,
     "posted_date": "2025-07-31",
     "first_seen": "2026-09-13T05:28:51+00:00",
-    "last_seen": "2026-10-12T11:36:35+00:00",
+    "last_seen": "2026-10-14T01:05:37+00:00",
+    "is_closed": false
+  },
+  "https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f": {
+    "title": "Data Scientist, Growth",
+    "company": "Replit",
+    "location": "Foster City, CA",
+    "department": "Engineering",
+    "category": "enterprise",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-10-13",
+    "first_seen": "2026-10-14T01:05:39+00:00",
+    "last_seen": "2026-10-14T01:05:39+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc": {
@@ -6786,7 +6842,7 @@
     "is_us": true,
     "posted_date": "2026-09-09",
     "first_seen": "2026-09-13T05:28:55+00:00",
-    "last_seen": "2026-10-12T11:36:40+00:00",
+    "last_seen": "2026-10-14T01:05:39+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00": {
@@ -6802,7 +6858,7 @@
     "is_us": true,
     "posted_date": "2026-08-31",
     "first_seen": "2026-09-13T05:29:16+00:00",
-    "last_seen": "2026-10-12T11:37:01+00:00",
+    "last_seen": "2026-10-14T01:05:50+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/skydio/ca13b237-ff5f-4008-977f-ba8c74b7d6da": {
@@ -6816,7 +6872,7 @@
     "is_us": true,
     "posted_date": "2026-08-19",
     "first_seen": "2026-09-13T05:29:19+00:00",
-    "last_seen": "2026-10-12T11:37:05+00:00",
+    "last_seen": "2026-10-14T01:05:51+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698": {
@@ -6832,7 +6888,7 @@
     "is_us": true,
     "posted_date": "2026-09-03",
     "first_seen": "2026-09-13T05:29:20+00:00",
-    "last_seen": "2026-10-12T11:37:12+00:00",
+    "last_seen": "2026-10-14T01:05:52+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62": {
@@ -6846,7 +6902,7 @@
     "is_us": true,
     "posted_date": "2026-08-21",
     "first_seen": "2026-09-13T05:29:21+00:00",
-    "last_seen": "2026-10-12T11:37:12+00:00",
+    "last_seen": "2026-10-14T01:05:52+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec": {
@@ -6863,6 +6919,20 @@
     "last_seen": "2026-10-09T14:17:02+00:00",
     "is_closed": true
   },
+  "https://jobs.ashbyhq.com/snowflake/88348d29-0ec4-475f-a54e-c6b247cbc6a8": {
+    "title": "AI Associate, Office of the CEO",
+    "company": "Snowflake",
+    "location": "US-CA-Menlo Park",
+    "department": "Office of the CEO",
+    "category": "big_tech",
+    "ats": "ashby",
+    "education_levels": [],
+    "is_us": true,
+    "posted_date": "2026-10-12",
+    "first_seen": "2026-10-14T01:05:52+00:00",
+    "last_seen": "2026-10-14T01:05:52+00:00",
+    "is_closed": false
+  },
   "https://jobs.ashbyhq.com/thinkingmachines/2d7a9e99-836a-475b-9ae3-b6b1df8baa6d": {
     "title": "Research Engineer, Infrastructure, Kernels",
     "company": "Thinking Machines Lab",
@@ -6874,7 +6944,7 @@
     "is_us": true,
     "posted_date": "2026-08-04",
     "first_seen": "2026-10-04T03:43:47+00:00",
-    "last_seen": "2026-10-12T11:38:17+00:00",
+    "last_seen": "2026-10-14T01:06:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/thinkingmachines/4087e0f6-4295-419a-ba02-08e95a74ceea": {
@@ -6888,7 +6958,7 @@
     "is_us": true,
     "posted_date": "2026-08-04",
     "first_seen": "2026-10-04T03:43:47+00:00",
-    "last_seen": "2026-10-12T11:38:17+00:00",
+    "last_seen": "2026-10-14T01:06:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/thinkingmachines/72fe46e4-a772-4ebb-a413-53e4f1a8273e": {
@@ -6902,7 +6972,7 @@
     "is_us": true,
     "posted_date": "2026-08-31",
     "first_seen": "2026-10-04T03:43:48+00:00",
-    "last_seen": "2026-10-12T11:38:18+00:00",
+    "last_seen": "2026-10-14T01:06:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/thinkingmachines/93855db2-9a80-421d-9e80-ace9eca24650": {
@@ -6916,7 +6986,7 @@
     "is_us": true,
     "posted_date": "2026-08-04",
     "first_seen": "2026-10-04T03:43:47+00:00",
-    "last_seen": "2026-10-12T11:38:17+00:00",
+    "last_seen": "2026-10-14T01:06:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/thinkingmachines/9d863c78-80c0-44cd-a574-d1330e125398": {
@@ -6930,7 +7000,7 @@
     "is_us": true,
     "posted_date": "2026-08-31",
     "first_seen": "2026-10-04T03:43:48+00:00",
-    "last_seen": "2026-10-12T11:38:18+00:00",
+    "last_seen": "2026-10-14T01:06:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/thinkingmachines/9dabecde-1bdb-47c6-b943-ff7b0526657c": {
@@ -6944,7 +7014,7 @@
     "is_us": true,
     "posted_date": "2026-08-04",
     "first_seen": "2026-10-04T03:43:47+00:00",
-    "last_seen": "2026-10-12T11:38:17+00:00",
+    "last_seen": "2026-10-14T01:06:41+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/voleon/397d52ad-d965-4475-b869-a8de53600d9a": {
@@ -6958,7 +7028,7 @@
     "is_us": true,
     "posted_date": "2026-04-17",
     "first_seen": "2026-10-04T03:44:00+00:00",
-    "last_seen": "2026-10-12T11:38:34+00:00",
+    "last_seen": "2026-10-14T01:06:59+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/voleon/5f2b24fd-f819-455e-877b-2c6241555a6e": {
@@ -6972,7 +7042,7 @@
     "is_us": true,
     "posted_date": "2026-04-17",
     "first_seen": "2026-10-04T03:44:00+00:00",
-    "last_seen": "2026-10-12T11:38:34+00:00",
+    "last_seen": "2026-10-14T01:06:59+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c": {
@@ -6988,7 +7058,7 @@
     "is_us": true,
     "posted_date": "2026-08-25",
     "first_seen": "2026-10-04T03:44:00+00:00",
-    "last_seen": "2026-10-12T11:38:35+00:00",
+    "last_seen": "2026-10-14T01:06:59+00:00",
     "is_closed": false
   },
   "https://jobs.ashbyhq.com/warp/6b4c450d-ab42-426e-afef-32396b9560a6": {
@@ -7016,7 +7086,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:24:44+00:00",
-    "last_seen": "2026-10-12T11:26:38+00:00",
+    "last_seen": "2026-10-14T00:57:52+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278": {
@@ -7364,7 +7434,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-10-10T03:45:18+00:00",
-    "last_seen": "2026-10-12T11:36:55+00:00",
+    "last_seen": "2026-10-14T01:05:47+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583": {
@@ -7380,7 +7450,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-10-06T22:59:43+00:00",
-    "last_seen": "2026-10-12T11:36:56+00:00",
+    "last_seen": "2026-10-14T01:05:47+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69": {
@@ -7396,7 +7466,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-10-09T23:14:50+00:00",
-    "last_seen": "2026-10-12T11:36:55+00:00",
+    "last_seen": "2026-10-14T01:05:47+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7": {
@@ -7412,7 +7482,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-10-10T03:45:18+00:00",
-    "last_seen": "2026-10-12T11:36:56+00:00",
+    "last_seen": "2026-10-14T01:05:47+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea": {
@@ -7426,7 +7496,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:16+00:00",
-    "last_seen": "2026-10-12T11:38:23+00:00",
+    "last_seen": "2026-10-14T01:06:44+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd": {
@@ -7440,7 +7510,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:14+00:00",
-    "last_seen": "2026-10-12T11:38:22+00:00",
+    "last_seen": "2026-10-14T01:06:43+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6": {
@@ -7454,7 +7524,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:14+00:00",
-    "last_seen": "2026-10-12T11:38:22+00:00",
+    "last_seen": "2026-10-14T01:06:43+00:00",
     "is_closed": false
   },
   "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9": {
@@ -7468,7 +7538,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:30:14+00:00",
-    "last_seen": "2026-10-12T11:38:22+00:00",
+    "last_seen": "2026-10-14T01:06:43+00:00",
     "is_closed": false
   },
   "https://jobs.smartrecruiters.com/AristaNetworks/744000101072105": {
@@ -7482,7 +7552,7 @@
     "is_us": true,
     "posted_date": "2025-12-30",
     "first_seen": "2026-09-13T05:22:14+00:00",
-    "last_seen": "2026-10-12T11:24:05+00:00",
+    "last_seen": "2026-10-14T00:55:45+00:00",
     "is_closed": false
   },
   "https://jobs.smartrecruiters.com/AristaNetworks/744000127345398": {
@@ -7496,7 +7566,7 @@
     "is_us": true,
     "posted_date": "2026-05-20",
     "first_seen": "2026-09-13T05:22:14+00:00",
-    "last_seen": "2026-10-12T11:24:05+00:00",
+    "last_seen": "2026-10-14T00:55:45+00:00",
     "is_closed": false
   },
   "https://jobs.smartrecruiters.com/AristaNetworks/744000130221863": {
@@ -7510,7 +7580,7 @@
     "is_us": true,
     "posted_date": "2026-06-04",
     "first_seen": "2026-09-13T05:22:14+00:00",
-    "last_seen": "2026-10-12T11:24:05+00:00",
+    "last_seen": "2026-10-14T00:55:45+00:00",
     "is_closed": false
   },
   "https://jobs.smartrecruiters.com/ServiceNow/744000107369741": {
@@ -7524,7 +7594,7 @@
     "is_us": true,
     "posted_date": "2026-02-04",
     "first_seen": "2026-09-13T05:29:09+00:00",
-    "last_seen": "2026-10-12T11:36:55+00:00",
+    "last_seen": "2026-10-14T01:05:47+00:00",
     "is_closed": false
   },
   "https://jobs.smartrecruiters.com/ServiceNow/744000153279380": {
@@ -7540,7 +7610,7 @@
     "is_us": true,
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-02T23:43:06+00:00",
-    "last_seen": "2026-10-12T11:36:55+00:00",
+    "last_seen": "2026-10-14T01:05:47+00:00",
     "is_closed": false
   },
   "https://jobs.smartrecruiters.com/ServiceNow/744000154515244": {
@@ -7570,7 +7640,7 @@
     "is_us": true,
     "posted_date": "2025-10-22",
     "first_seen": "2026-10-04T03:36:32+00:00",
-    "last_seen": "2026-10-12T11:29:51+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nuro.ai/careersitem?gh_jid=8122537": {
@@ -7584,7 +7654,7 @@
     "is_us": true,
     "posted_date": "2026-08-11",
     "first_seen": "2026-10-04T03:36:32+00:00",
-    "last_seen": "2026-10-12T11:29:51+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nuro.ai/careersitem?gh_jid=8227399": {
@@ -7600,7 +7670,7 @@
     "is_us": true,
     "posted_date": "2026-09-23",
     "first_seen": "2026-10-06T23:51:43+00:00",
-    "last_seen": "2026-10-12T11:29:51+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nuro.ai/careersitem?gh_jid=8248317": {
@@ -7616,7 +7686,7 @@
     "is_us": true,
     "posted_date": "2026-10-05",
     "first_seen": "2026-10-05T19:53:50+00:00",
-    "last_seen": "2026-10-12T11:29:51+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011": {
@@ -7648,7 +7718,7 @@
     "is_us": true,
     "posted_date": "2026-10-09",
     "first_seen": "2026-10-10T03:38:27+00:00",
-    "last_seen": "2026-10-12T11:30:18+00:00",
+    "last_seen": "2026-10-14T00:59:10+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581": {
@@ -7712,7 +7782,7 @@
     "is_us": true,
     "posted_date": "2026-09-28",
     "first_seen": "2026-09-28T19:00:23+00:00",
-    "last_seen": "2026-10-12T11:31:48+00:00",
+    "last_seen": "2026-10-14T01:00:33+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651": {
@@ -7728,7 +7798,7 @@
     "is_us": true,
     "posted_date": "2026-08-31",
     "first_seen": "2026-09-13T05:26:51+00:00",
-    "last_seen": "2026-10-12T11:34:03+00:00",
+    "last_seen": "2026-10-14T01:03:14+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Timing-Engineer---New-College-Grad-2026_JR2013177": {
@@ -7744,7 +7814,23 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-10-04T03:41:08+00:00",
-    "last_seen": "2026-10-12T11:35:41+00:00",
+    "last_seen": "2026-10-14T01:05:13+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719": {
+    "title": "ASIC Verification Engineer - New College Grad 2027",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-14T00:58:26+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576": {
@@ -7760,7 +7846,7 @@
     "is_us": true,
     "posted_date": "2026-09-29",
     "first_seen": "2026-09-29T21:41:09+00:00",
-    "last_seen": "2026-10-12T11:31:37+00:00",
+    "last_seen": "2026-10-14T01:00:18+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713": {
@@ -7776,7 +7862,7 @@
     "is_us": true,
     "posted_date": "2026-09-01",
     "first_seen": "2026-09-13T05:26:38+00:00",
-    "last_seen": "2026-10-12T11:33:51+00:00",
+    "last_seen": "2026-10-14T01:03:04+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398": {
@@ -7792,7 +7878,7 @@
     "is_us": true,
     "posted_date": "2026-08-21",
     "first_seen": "2026-09-13T05:27:33+00:00",
-    "last_seen": "2026-10-12T11:34:41+00:00",
+    "last_seen": "2026-10-14T01:03:48+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431": {
@@ -7808,7 +7894,7 @@
     "is_us": true,
     "posted_date": "2026-10-09",
     "first_seen": "2026-10-10T03:38:27+00:00",
-    "last_seen": "2026-10-12T11:30:18+00:00",
+    "last_seen": "2026-10-14T00:59:10+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631": {
@@ -7824,7 +7910,7 @@
     "is_us": true,
     "posted_date": "2026-08-25",
     "first_seen": "2026-09-13T05:27:24+00:00",
-    "last_seen": "2026-10-12T11:34:38+00:00",
+    "last_seen": "2026-10-14T01:03:42+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218": {
@@ -7843,6 +7929,54 @@
     "last_seen": "2026-09-22T19:38:31+00:00",
     "is_closed": true
   },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083": {
+    "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
+    "company": "Nvidia",
+    "location": "2 Locations",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-13",
+    "first_seen": "2026-10-14T00:58:50+00:00",
+    "last_seen": "2026-10-14T00:58:50+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990": {
+    "title": "Developer Technology Engineer, Public Sector - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-13",
+    "first_seen": "2026-10-14T00:58:44+00:00",
+    "last_seen": "2026-10-14T00:58:44+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627": {
+    "title": "Formal Verification Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-14T00:58:32+00:00",
+    "last_seen": "2026-10-14T00:58:32+00:00",
+    "is_closed": false
+  },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837": {
     "title": "Formal Verification Engineer - New College Grad 2026",
     "company": "Nvidia",
@@ -7856,7 +7990,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T17:54:26+00:00",
-    "last_seen": "2026-10-12T11:30:53+00:00",
+    "last_seen": "2026-10-14T00:59:36+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615": {
@@ -7904,7 +8038,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T20:52:37+00:00",
-    "last_seen": "2026-10-12T11:30:53+00:00",
+    "last_seen": "2026-10-14T00:59:36+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169": {
@@ -7920,7 +8054,7 @@
     "is_us": true,
     "posted_date": "2026-09-10",
     "first_seen": "2026-09-13T05:25:27+00:00",
-    "last_seen": "2026-10-12T11:33:16+00:00",
+    "last_seen": "2026-10-14T01:02:19+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800": {
@@ -7936,7 +8070,23 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T20:52:37+00:00",
-    "last_seen": "2026-10-12T11:30:52+00:00",
+    "last_seen": "2026-10-14T00:59:35+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850": {
+    "title": "Low Power ASIC Engineer - New College Grad 2027",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-14T00:58:26+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/RTL-Power-Optimization-Engineer---New-College-Grad-2026_JR2021841": {
@@ -7952,7 +8102,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-10-04T03:41:11+00:00",
-    "last_seen": "2026-10-12T11:35:46+00:00",
+    "last_seen": "2026-10-14T01:05:16+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551": {
@@ -7969,7 +8119,7 @@
     "is_us": true,
     "posted_date": "2026-10-07",
     "first_seen": "2026-10-07T20:56:16+00:00",
-    "last_seen": "2026-10-12T11:30:43+00:00",
+    "last_seen": "2026-10-14T00:59:27+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698": {
@@ -7985,7 +8135,7 @@
     "is_us": true,
     "posted_date": "2026-10-02",
     "first_seen": "2026-10-02T16:47:21+00:00",
-    "last_seen": "2026-10-12T11:31:21+00:00",
+    "last_seen": "2026-10-14T01:00:02+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739": {
@@ -8001,7 +8151,7 @@
     "is_us": true,
     "posted_date": "2026-09-29",
     "first_seen": "2026-09-29T22:40:42+00:00",
-    "last_seen": "2026-10-12T11:31:35+00:00",
+    "last_seen": "2026-10-14T01:00:15+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032": {
@@ -8018,7 +8168,7 @@
     "is_us": true,
     "posted_date": "2026-09-23",
     "first_seen": "2026-09-23T21:39:51+00:00",
-    "last_seen": "2026-10-12T11:31:54+00:00",
+    "last_seen": "2026-10-14T01:00:41+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1": {
@@ -8036,6 +8186,22 @@
     "posted_date": "2026-09-18",
     "first_seen": "2026-09-19T01:08:26+00:00",
     "last_seen": "2026-10-12T11:32:34+00:00",
+    "is_closed": true
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839": {
+    "title": "SRAM Circuit Design Engineer - New College Grad 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-14T00:58:26+00:00",
+    "last_seen": "2026-10-14T00:58:26+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1": {
@@ -8051,7 +8217,39 @@
     "is_us": true,
     "posted_date": "2026-09-23",
     "first_seen": "2026-09-23T21:39:51+00:00",
-    "last_seen": "2026-10-12T11:31:54+00:00",
+    "last_seen": "2026-10-14T01:00:41+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744": {
+    "title": "SoC Software Engineer - New College Grad 2027",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-14T00:58:28+00:00",
+    "last_seen": "2026-10-14T00:58:28+00:00",
+    "is_closed": false
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1": {
+    "title": "SoC Software Engineer – New College Graduate 2026",
+    "company": "Nvidia",
+    "location": "US, CA, Santa Clara",
+    "department": null,
+    "category": "frontier_ai",
+    "ats": "workday",
+    "education_levels": [
+      "New Grad"
+    ],
+    "is_us": true,
+    "posted_date": "2026-10-14",
+    "first_seen": "2026-10-14T00:58:28+00:00",
+    "last_seen": "2026-10-14T00:58:28+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749": {
@@ -8099,7 +8297,7 @@
     "is_us": true,
     "posted_date": "2026-10-11",
     "first_seen": "2026-10-12T01:41:42+00:00",
-    "last_seen": "2026-10-12T11:30:01+00:00",
+    "last_seen": "2026-10-14T00:58:59+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2025900": {
@@ -8131,7 +8329,7 @@
     "is_us": true,
     "posted_date": "2026-09-30",
     "first_seen": "2026-09-30T17:40:02+00:00",
-    "last_seen": "2026-10-12T11:30:47+00:00",
+    "last_seen": "2026-10-14T00:59:30+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026396": {
@@ -8145,7 +8343,7 @@
     "is_us": true,
     "posted_date": "2026-09-29",
     "first_seen": "2026-09-29T22:40:43+00:00",
-    "last_seen": "2026-10-12T11:31:35+00:00",
+    "last_seen": "2026-10-14T01:00:16+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458": {
@@ -8162,7 +8360,7 @@
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-07T09:09:17+00:00",
     "last_seen": "2026-10-12T11:30:47+00:00",
-    "is_closed": false
+    "is_closed": true
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102": {
     "title": "GPU Verification Engineer - New College Grad 2026",
@@ -8177,7 +8375,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-10-04T03:41:00+00:00",
-    "last_seen": "2026-10-12T11:35:31+00:00",
+    "last_seen": "2026-10-14T01:05:03+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187": {
@@ -8209,7 +8407,7 @@
     "is_us": true,
     "posted_date": "2026-09-28",
     "first_seen": "2026-09-28T16:45:48+00:00",
-    "last_seen": "2026-10-12T11:31:48+00:00",
+    "last_seen": "2026-10-14T01:00:34+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083": {
@@ -8241,7 +8439,7 @@
     "is_us": true,
     "posted_date": "2026-09-28",
     "first_seen": "2026-09-28T16:45:51+00:00",
-    "last_seen": "2026-10-12T11:31:49+00:00",
+    "last_seen": "2026-10-14T01:00:35+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330": {
@@ -8257,7 +8455,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-10-04T03:41:10+00:00",
-    "last_seen": "2026-10-12T11:35:43+00:00",
+    "last_seen": "2026-10-14T01:05:14+00:00",
     "is_closed": false
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473": {
@@ -8274,7 +8472,7 @@
     "is_us": true,
     "posted_date": "2026-09-04",
     "first_seen": "2026-10-04T03:41:03+00:00",
-    "last_seen": "2026-10-12T11:35:34+00:00",
+    "last_seen": "2026-10-14T01:05:08+00:00",
     "is_closed": false
   },
   "https://stripe.com/jobs/search?gh_jid=5601881": {
@@ -8304,7 +8502,7 @@
     "is_us": true,
     "posted_date": "2026-08-31",
     "first_seen": "2026-09-13T05:29:50+00:00",
-    "last_seen": "2026-10-12T11:37:53+00:00",
+    "last_seen": "2026-10-14T01:05:57+00:00",
     "is_closed": false
   },
   "https://stripe.com/jobs/search?gh_jid=8212508": {
@@ -8320,7 +8518,7 @@
     "is_us": true,
     "posted_date": "2026-09-17",
     "first_seen": "2026-09-18T01:15:44+00:00",
-    "last_seen": "2026-10-12T11:37:53+00:00",
+    "last_seen": "2026-10-14T01:05:57+00:00",
     "is_closed": false
   },
   "https://stripe.com/jobs/search?gh_jid=8267736": {
@@ -8334,7 +8532,7 @@
     "is_us": true,
     "posted_date": "2026-10-09",
     "first_seen": "2026-10-09T21:15:07+00:00",
-    "last_seen": "2026-10-12T11:37:53+00:00",
+    "last_seen": "2026-10-14T01:05:57+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397": {
@@ -8350,7 +8548,7 @@
     "is_us": true,
     "posted_date": "2026-01-02",
     "first_seen": "2026-09-13T05:21:20+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:20+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/7846695/?gh_jid=7846695": {
@@ -8364,7 +8562,7 @@
     "is_us": true,
     "posted_date": "2026-04-28",
     "first_seen": "2026-09-13T05:21:20+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:20+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085": {
@@ -8380,7 +8578,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:21:20+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:20+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230": {
@@ -8396,7 +8594,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:21:20+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:20+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687": {
@@ -8410,7 +8608,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:21:20+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:19+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/8035515/?gh_jid=8035515": {
@@ -8424,7 +8622,7 @@
     "is_us": true,
     "posted_date": "2026-07-06",
     "first_seen": "2026-09-13T05:21:20+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:19+00:00",
     "is_closed": false
   },
   "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541": {
@@ -8438,7 +8636,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-18T10:37:32+00:00",
-    "last_seen": "2026-10-12T11:22:21+00:00",
+    "last_seen": "2026-10-14T00:55:19+00:00",
     "is_closed": false
   },
   "https://www.amazon.jobs/en/jobs/10488714/sde-cpld-fpga": {
@@ -8652,7 +8850,7 @@
     "is_us": true,
     "posted_date": "2026-10-08",
     "first_seen": "2026-10-08T14:54:27+00:00",
-    "last_seen": "2026-10-12T11:26:20+00:00",
+    "last_seen": "2026-10-14T00:57:43+00:00",
     "is_closed": false
   },
   "https://www.google.com/about/careers/applications/jobs/results/93340518011806406": {
@@ -8666,7 +8864,7 @@
     "is_us": true,
     "posted_date": "2026-10-05",
     "first_seen": "2026-10-05T17:58:52+00:00",
-    "last_seen": "2026-10-12T11:26:21+00:00",
+    "last_seen": "2026-10-14T00:57:44+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7364943": {
@@ -8680,7 +8878,7 @@
     "is_us": true,
     "posted_date": "2026-06-24",
     "first_seen": "2026-09-13T05:24:33+00:00",
-    "last_seen": "2026-10-12T11:26:26+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013": {
@@ -8697,7 +8895,7 @@
     "is_us": true,
     "posted_date": "2026-02-02",
     "first_seen": "2026-09-13T05:24:34+00:00",
-    "last_seen": "2026-10-12T11:26:27+00:00",
+    "last_seen": "2026-10-14T00:57:47+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922": {
@@ -8714,7 +8912,7 @@
     "is_us": true,
     "posted_date": "2026-02-02",
     "first_seen": "2026-09-13T05:24:33+00:00",
-    "last_seen": "2026-10-12T11:26:27+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583953": {
@@ -8731,7 +8929,7 @@
     "is_us": true,
     "posted_date": "2026-02-02",
     "first_seen": "2026-09-13T05:24:34+00:00",
-    "last_seen": "2026-10-12T11:26:27+00:00",
+    "last_seen": "2026-10-14T00:57:47+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583957": {
@@ -8754,7 +8952,7 @@
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074": {
     "title": "Junior Trading Systems Engineer",
     "company": "Hudson River Trading",
-    "location": "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",
+    "location": "Chicago, Illinois, United States; Dublin, Ireland; London, United Kingdom; New York, NY, United States",
     "department": "Trading Tech",
     "category": "quant",
     "ats": "greenhouse",
@@ -8762,7 +8960,7 @@
     "is_us": true,
     "posted_date": "2026-07-06",
     "first_seen": "2026-09-13T05:24:33+00:00",
-    "last_seen": "2026-10-12T11:26:26+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050": {
@@ -8779,7 +8977,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:24:33+00:00",
-    "last_seen": "2026-10-12T11:26:25+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122": {
@@ -8796,7 +8994,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:24:34+00:00",
-    "last_seen": "2026-10-12T11:26:27+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845": {
@@ -8812,7 +9010,7 @@
     "is_us": true,
     "posted_date": "2026-07-13",
     "first_seen": "2026-09-13T05:24:33+00:00",
-    "last_seen": "2026-10-12T11:26:26+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806": {
@@ -8828,7 +9026,7 @@
     "is_us": true,
     "posted_date": "2026-08-31",
     "first_seen": "2026-09-13T05:24:33+00:00",
-    "last_seen": "2026-10-12T11:26:26+00:00",
+    "last_seen": "2026-10-14T00:57:46+00:00",
     "is_closed": false
   },
   "https://www.janestreet.com/join-jane-street/apply/7449077002?gh_jid=7449077002": {
@@ -8842,7 +9040,7 @@
     "is_us": true,
     "posted_date": "2024-05-20",
     "first_seen": "2026-09-13T05:24:39+00:00",
-    "last_seen": "2026-10-12T11:26:33+00:00",
+    "last_seen": "2026-10-14T00:57:49+00:00",
     "is_closed": false
   },
   "https://www.janestreet.com/join-jane-street/apply/7449190002?gh_jid=7449190002": {
@@ -8872,7 +9070,7 @@
     "is_us": true,
     "posted_date": "2026-07-06",
     "first_seen": "2026-09-13T05:24:39+00:00",
-    "last_seen": "2026-10-12T11:26:33+00:00",
+    "last_seen": "2026-10-14T00:57:49+00:00",
     "is_closed": false
   },
   "https://www.janestreet.com/join-jane-street/apply/8419303002?gh_jid=8419303002": {
@@ -8900,7 +9098,7 @@
     "is_us": true,
     "posted_date": "2026-07-06",
     "first_seen": "2026-09-13T05:24:40+00:00",
-    "last_seen": "2026-10-12T11:26:33+00:00",
+    "last_seen": "2026-10-14T00:57:50+00:00",
     "is_closed": false
   },
   "https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002": {
@@ -8914,7 +9112,7 @@
     "is_us": true,
     "posted_date": "2026-07-10",
     "first_seen": "2026-09-13T05:24:38+00:00",
-    "last_seen": "2026-10-12T11:26:32+00:00",
+    "last_seen": "2026-10-14T00:57:49+00:00",
     "is_closed": false
   },
   "https://www.janestreet.com/join-jane-street/apply/8626260002?gh_jid=8626260002": {
@@ -8928,7 +9126,7 @@
     "is_us": true,
     "posted_date": "2026-07-15",
     "first_seen": "2026-09-13T05:24:39+00:00",
-    "last_seen": "2026-10-12T11:26:33+00:00",
+    "last_seen": "2026-10-14T00:57:49+00:00",
     "is_closed": false
   },
   "https://www.janestreet.com/join-jane-street/apply/8635672002?gh_jid=8635672002": {
@@ -8942,7 +9140,7 @@
     "is_us": true,
     "posted_date": "2026-07-22",
     "first_seen": "2026-09-13T05:24:39+00:00",
-    "last_seen": "2026-10-12T11:26:32+00:00",
+    "last_seen": "2026-10-14T00:57:49+00:00",
     "is_closed": false
   },
   "https://www.jumptrading.com/hr/job?gh_jid=5500453": {
@@ -8958,7 +9156,7 @@
     "is_us": true,
     "posted_date": "2023-12-05",
     "first_seen": "2026-09-13T05:24:41+00:00",
-    "last_seen": "2026-10-12T11:26:35+00:00",
+    "last_seen": "2026-10-14T00:57:51+00:00",
     "is_closed": false
   },
   "https://www.jumptrading.com/hr/job?gh_jid=5752845": {
@@ -8974,7 +9172,7 @@
     "is_us": true,
     "posted_date": "2024-03-08",
     "first_seen": "2026-09-13T05:24:41+00:00",
-    "last_seen": "2026-10-12T11:26:34+00:00",
+    "last_seen": "2026-10-14T00:57:50+00:00",
     "is_closed": false
   },
   "https://www.jumptrading.com/hr/job?gh_jid=7951911": {
@@ -8990,7 +9188,7 @@
     "is_us": true,
     "posted_date": "2026-05-27",
     "first_seen": "2026-09-13T05:24:41+00:00",
-    "last_seen": "2026-10-12T11:26:34+00:00",
+    "last_seen": "2026-10-14T00:57:50+00:00",
     "is_closed": false
   },
   "https://www.jumptrading.com/hr/job?gh_jid=8008112": {
@@ -9006,7 +9204,7 @@
     "is_us": true,
     "posted_date": "2026-07-08",
     "first_seen": "2026-09-13T05:24:40+00:00",
-    "last_seen": "2026-10-12T11:26:34+00:00",
+    "last_seen": "2026-10-14T00:57:50+00:00",
     "is_closed": false
   },
   "https://www.jumptrading.com/hr/job?gh_jid=8052313": {
@@ -9022,7 +9220,7 @@
     "is_us": true,
     "posted_date": "2026-07-08",
     "first_seen": "2026-09-13T05:24:40+00:00",
-    "last_seen": "2026-10-12T11:26:34+00:00",
+    "last_seen": "2026-10-14T00:57:50+00:00",
     "is_closed": false
   },
   "https://www.jumptrading.com/hr/job?gh_jid=8052343": {
@@ -9038,7 +9236,7 @@
     "is_us": true,
     "posted_date": "2026-07-08",
     "first_seen": "2026-09-13T05:24:40+00:00",
-    "last_seen": "2026-10-12T11:26:34+00:00",
+    "last_seen": "2026-10-14T00:57:50+00:00",
     "is_closed": false
   },
   "https://www.linkedin.com/jobs/view/4280393005": {
@@ -10154,7 +10352,7 @@
     "is_us": true,
     "posted_date": null,
     "first_seen": "2026-09-13T05:28:34+00:00",
-    "last_seen": "2026-10-12T11:36:14+00:00",
+    "last_seen": "2026-10-14T01:05:30+00:00",
     "is_closed": false
   },
   "https://www.optiver.com/join-us/jobs/technology/chicago/graduate-software-engineer-2027-start/": {
@@ -10182,7 +10380,7 @@
     "is_us": true,
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-01T17:44:10+00:00",
-    "last_seen": "2026-10-12T11:36:22+00:00",
+    "last_seen": "2026-10-14T01:05:32+00:00",
     "is_closed": false
   },
   "https://www.pinterestcareers.com/jobs/?gh_jid=8140219": {
@@ -10198,7 +10396,7 @@
     "is_us": true,
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-01T17:44:10+00:00",
-    "last_seen": "2026-10-12T11:36:21+00:00",
+    "last_seen": "2026-10-14T01:05:32+00:00",
     "is_closed": false
   },
   "https://www.pinterestcareers.com/jobs/?gh_jid=8157351": {
@@ -10242,7 +10440,7 @@
     "is_us": true,
     "posted_date": "2026-10-06",
     "first_seen": "2026-10-06T20:00:43+00:00",
-    "last_seen": "2026-10-12T11:36:45+00:00",
+    "last_seen": "2026-10-14T01:05:42+00:00",
     "is_closed": false
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376": {
@@ -10256,7 +10454,7 @@
     "is_us": true,
     "posted_date": "2019-04-03",
     "first_seen": "2026-10-04T03:43:14+00:00",
-    "last_seen": "2026-10-12T11:37:45+00:00",
+    "last_seen": "2026-10-14T01:05:53+00:00",
     "is_closed": false
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464": {
@@ -10270,7 +10468,7 @@
     "is_us": true,
     "posted_date": "2024-07-11",
     "first_seen": "2026-10-04T03:43:14+00:00",
-    "last_seen": "2026-10-12T11:37:45+00:00",
+    "last_seen": "2026-10-14T01:05:53+00:00",
     "is_closed": false
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=6099903&gh_jid=6099903": {
@@ -10284,7 +10482,7 @@
     "is_us": true,
     "posted_date": "2024-08-08",
     "first_seen": "2026-10-04T03:43:14+00:00",
-    "last_seen": "2026-10-12T11:37:45+00:00",
+    "last_seen": "2026-10-14T01:05:53+00:00",
     "is_closed": false
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423": {
@@ -10298,7 +10496,7 @@
     "is_us": true,
     "posted_date": "2026-09-17",
     "first_seen": "2026-10-04T03:43:14+00:00",
-    "last_seen": "2026-10-12T11:37:45+00:00",
+    "last_seen": "2026-10-14T01:05:53+00:00",
     "is_closed": false
   },
   "https://www.squarepoint-capital.com/open-opportunities?id=8257346&gh_jid=8257346": {
@@ -10312,7 +10510,7 @@
     "is_us": true,
     "posted_date": "2026-10-09",
     "first_seen": "2026-10-09T21:15:00+00:00",
-    "last_seen": "2026-10-12T11:37:45+00:00",
+    "last_seen": "2026-10-14T01:05:53+00:00",
     "is_closed": false
   },
   "https://www.tower-research.com/open-positions/?gh_jid=8167234": {
@@ -10326,7 +10524,7 @@
     "is_us": true,
     "posted_date": "2026-09-16",
     "first_seen": "2026-10-04T03:43:49+00:00",
-    "last_seen": "2026-10-12T11:38:19+00:00",
+    "last_seen": "2026-10-14T01:06:42+00:00",
     "is_closed": false
   },
   "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1": {
@@ -10340,7 +10538,7 @@
     "is_us": true,
     "posted_date": "2026-10-07",
     "first_seen": "2026-10-07T23:57:54+00:00",
-    "last_seen": "2026-10-12T11:38:43+00:00",
+    "last_seen": "2026-10-14T01:07:02+00:00",
     "is_closed": false
   }
 }
