@@ -258,7 +258,15 @@ def run() -> int:
 
     for name, jobs in sorted(fetched, key=lambda x: x[0].lower()):
         succeeded += 1
-        observed_companies.add(name)
+        # A plunge vs. the recent peak is usually throttling or a partial
+        # fetch; don't let it close that company's archived roles.
+        if stats.is_plunge(name, len(jobs)):
+            log.warning(
+                "%s: %d postings vs recent peak %d; not closing archived roles",
+                name, len(jobs), stats.recent_max_postings(name),
+            )
+        else:
+            observed_companies.add(name)
         total_fetched += len(jobs)
 
         company_new = 0

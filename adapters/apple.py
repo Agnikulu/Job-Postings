@@ -137,7 +137,9 @@ def _fetch_all_raw(name: str, filters: dict[str, Any]) -> list[dict[str, Any]]:
     first = get_page(1)
     results = list(first.get("searchResults") or [])
     if not results:
-        return []
+        # Apple always has thousands of postings; an empty first page means
+        # we were throttled. Raising keeps the archive from closing them all.
+        raise AdapterError(f"Apple search returned no results for {name}")
     try:
         total = int(first.get("totalRecords") or 0)
     except (TypeError, ValueError):

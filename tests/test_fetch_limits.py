@@ -35,3 +35,18 @@ def test_cap_job_list_override(monkeypatch):
     ]
     assert len(cap_job_list("Co", jobs, 0)) == 2
     assert len(cap_job_list("Co", jobs, 5)) == 2
+
+
+def test_plunge_vs_recent_peak_blocks_archive_close(tmp_path):
+    from company_stats import CompanyStats
+
+    stats = CompanyStats(tmp_path / "stats.json")
+    assert not stats.is_plunge("Apple", 0)  # no history yet
+    stats.record("Apple", postings=6100, matches=37)
+    stats.record("Apple", postings=4354, matches=37)
+    assert stats.recent_max_postings("Apple") == 6100
+    assert stats.is_plunge("Apple", 0)
+    assert stats.is_plunge("Apple", 3000)
+    assert not stats.is_plunge("Apple", 4354)
+    stats.record("Tiny", postings=10, matches=1)
+    assert not stats.is_plunge("Tiny", 0)  # too small to judge

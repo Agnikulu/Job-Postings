@@ -62,6 +62,17 @@ class CompanyStats:
         """ISO timestamp of the company's last recorded run ("" if never)."""
         return str((self._data.get(name) or {}).get("last_run") or "")
 
+    def recent_max_postings(self, name: str) -> int:
+        """Highest posting count in the company's recorded history (0 if none)."""
+        prev = self._data.get(name) or {}
+        counts = [int(h.get("postings") or 0) for h in prev.get("history") or []]
+        return max(counts, default=int(prev.get("last_postings") or 0))
+
+    def is_plunge(self, name: str, postings: int) -> bool:
+        """True if `postings` is under half the recent peak (likely a bad fetch)."""
+        peak = self.recent_max_postings(name)
+        return peak >= 50 and postings < peak * POSTING_PLUNGE_RATIO
+
     def record(self, name: str, postings: int, matches: int) -> list[str]:
         """Record one run for `name` and return list of warnings (if any)."""
         warnings: list[str] = []

@@ -5184,7 +5184,7 @@
     "posted_date": "2026-05-19",
     "first_seen": "2026-10-09T07:13:26+00:00",
     "last_seen": "2026-10-14T02:28:01+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200628300-0157/cpu-design-verification-engineer": {
     "title": "CPU Design Verification Engineer",
@@ -5198,7 +5198,7 @@
     "posted_date": "2025-10-27",
     "first_seen": "2026-10-09T07:13:35+00:00",
     "last_seen": "2026-10-14T02:27:58+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200628815-3760/asic-design-engineer": {
     "title": "ASIC Design Engineer",
@@ -5212,7 +5212,7 @@
     "posted_date": "2025-10-29",
     "first_seen": "2026-10-09T07:13:34+00:00",
     "last_seen": "2026-10-14T02:27:58+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200644614-0836/wi-fi-software-engineer-wireless-technologies-ecosystems": {
     "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
@@ -5226,7 +5226,7 @@
     "posted_date": "2026-08-05",
     "first_seen": "2026-10-09T07:13:19+00:00",
     "last_seen": "2026-10-14T02:27:47+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200644619-0836/wi-fi-software-engineer-wireless-technologies-ecosystems": {
     "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
@@ -5240,7 +5240,7 @@
     "posted_date": "2026-08-05",
     "first_seen": "2026-10-09T07:13:19+00:00",
     "last_seen": "2026-10-14T02:27:47+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200657280-3760/integration-engineer": {
     "title": "Integration Engineer",
@@ -5254,7 +5254,7 @@
     "posted_date": "2026-07-30",
     "first_seen": "2026-10-09T07:13:19+00:00",
     "last_seen": "2026-10-14T02:27:47+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200657911-0836/machine-learning-engineer-visual-agents-special-projects": {
     "title": "Machine Learning Engineer - Visual Agents - Special Projects",
@@ -5268,7 +5268,7 @@
     "posted_date": "2026-04-17",
     "first_seen": "2026-10-09T07:13:28+00:00",
     "last_seen": "2026-10-14T02:28:01+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200657922-0157/cpu-design-verification-engineer": {
     "title": "CPU Design Verification Engineer",
@@ -5282,7 +5282,7 @@
     "posted_date": "2026-04-14",
     "first_seen": "2026-10-09T07:13:28+00:00",
     "last_seen": "2026-10-14T02:27:53+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200658138-0240/gate-level-sigem-seb-fit-cad-engineer": {
     "title": "Gate-level SigEM/SEB/FIT CAD Engineer",
@@ -5296,7 +5296,7 @@
     "posted_date": "2026-04-15",
     "first_seen": "2026-10-09T07:13:28+00:00",
     "last_seen": "2026-10-14T02:27:53+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200658138-3401/gate-level-sigem-seb-fit-cad-engineer": {
     "title": "Gate-level SigEM/SEB/FIT CAD Engineer",
@@ -5310,7 +5310,7 @@
     "posted_date": "2026-04-15",
     "first_seen": "2026-10-09T07:13:28+00:00",
     "last_seen": "2026-10-14T02:27:53+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200662455-1242/cpu-design-verification-engineer": {
     "title": "CPU Design Verification Engineer",
@@ -5324,7 +5324,7 @@
     "posted_date": "2026-05-11",
     "first_seen": "2026-10-09T07:13:26+00:00",
     "last_seen": "2026-10-14T02:27:51+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200662702-3760/asic-design-engineer": {
     "title": "ASIC Design Engineer",
@@ -5338,7 +5338,7 @@
     "posted_date": "2026-05-14",
     "first_seen": "2026-10-09T07:13:26+00:00",
     "last_seen": "2026-10-14T02:27:51+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200669990-0157/custom-timing-and-verification-cad-engineer": {
     "title": "Custom Timing and Verification CAD Engineer",
@@ -5352,7 +5352,7 @@
     "posted_date": "2026-06-25",
     "first_seen": "2026-10-09T07:13:23+00:00",
     "last_seen": "2026-10-14T02:27:49+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200669990-3956/custom-timing-and-verification-cad-engineer": {
     "title": "Custom Timing and Verification CAD Engineer",
@@ -5366,7 +5366,7 @@
     "posted_date": "2026-06-25",
     "first_seen": "2026-10-09T07:13:23+00:00",
     "last_seen": "2026-10-14T02:27:49+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200674176-3350/software-engineer-productivity-apps": {
     "title": "Software Engineer, Productivity Apps",
@@ -5394,7 +5394,7 @@
     "posted_date": "2026-07-29",
     "first_seen": "2026-10-09T07:13:20+00:00",
     "last_seen": "2026-10-14T02:28:00+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career": {
     "title": "Frontend Engineer, EE&P - IS&T Early Career",
@@ -5410,7 +5410,7 @@
     "posted_date": "2026-08-10",
     "first_seen": "2026-10-09T07:13:18+00:00",
     "last_seen": "2026-10-14T02:27:47+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities": {
     "title": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
@@ -5426,7 +5426,7 @@
     "posted_date": "2026-08-12",
     "first_seen": "2026-10-09T07:13:18+00:00",
     "last_seen": "2026-10-14T02:27:46+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-0836/ios-engineer-creator-studio": {
     "title": "iOS Engineer - Creator Studio",
@@ -5440,7 +5440,7 @@
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
     "last_seen": "2026-10-14T02:27:46+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-1435/ios-engineer-creator-studio": {
     "title": "iOS Engineer - Creator Studio",
@@ -5454,7 +5454,7 @@
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
     "last_seen": "2026-10-14T02:27:46+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-2926/ios-engineer-creator-studio": {
     "title": "iOS Engineer - Creator Studio",
@@ -5468,7 +5468,7 @@
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
     "last_seen": "2026-10-14T02:27:46+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-3337/ios-engineer-creator-studio": {
     "title": "iOS Engineer - Creator Studio",
@@ -5482,7 +5482,7 @@
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
     "last_seen": "2026-10-14T02:27:46+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200678174-3543/ios-engineer-creator-studio": {
     "title": "iOS Engineer - Creator Studio",
@@ -5496,7 +5496,7 @@
     "posted_date": "2026-08-17",
     "first_seen": "2026-10-09T07:13:17+00:00",
     "last_seen": "2026-10-14T02:27:46+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200681256-0836/software-engineer-commerce-segments-and-platform-ase": {
     "title": "Software Engineer, Commerce Segments and Platform, ASE",
@@ -5510,7 +5510,7 @@
     "posted_date": "2026-09-01",
     "first_seen": "2026-10-09T07:13:14+00:00",
     "last_seen": "2026-10-14T02:27:44+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200682312-0321/junior-software-development-engineer-in-test-retail-engineering-is-t": {
     "title": "Junior Software Development Engineer in Test, Retail Engineering - IS&T",
@@ -5538,7 +5538,7 @@
     "posted_date": "2026-09-11",
     "first_seen": "2026-10-05T13:55:48+00:00",
     "last_seen": "2026-10-14T02:27:43+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684056-1418/test-engineer-product-operations-graduate-programme": {
     "title": "Test Engineer - Product Operations Graduate Programme",
@@ -5582,7 +5582,7 @@
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
     "last_seen": "2026-10-14T02:27:59+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684837-3543/physical-design-methodology-cad-engineer": {
     "title": "Physical Design Methodology CAD Engineer",
@@ -5596,7 +5596,7 @@
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
     "last_seen": "2026-10-14T02:27:59+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684837-3749/physical-design-methodology-cad-engineer": {
     "title": "Physical Design Methodology CAD Engineer",
@@ -5610,7 +5610,7 @@
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
     "last_seen": "2026-10-14T02:27:59+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200684837-3760/physical-design-methodology-cad-engineer": {
     "title": "Physical Design Methodology CAD Engineer",
@@ -5624,7 +5624,7 @@
     "posted_date": "2026-09-21",
     "first_seen": "2026-10-09T07:13:10+00:00",
     "last_seen": "2026-10-14T02:27:59+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685186-3956/software-engineer-information-systems-technology": {
     "title": "Software Engineer, Information Systems & Technology",
@@ -5638,7 +5638,7 @@
     "posted_date": "2026-09-29",
     "first_seen": "2026-10-05T01:32:30+00:00",
     "last_seen": "2026-10-14T02:27:41+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685188-0157/software-engineer-information-systems-technology": {
     "title": "Software Engineer, Information Systems & Technology",
@@ -5652,7 +5652,7 @@
     "posted_date": "2026-09-29",
     "first_seen": "2026-10-07T04:53:31+00:00",
     "last_seen": "2026-10-14T02:27:41+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685871-0157/cad-engineer-signoff-infrastructure": {
     "title": "CAD Engineer - Signoff Infrastructure",
@@ -5666,7 +5666,7 @@
     "posted_date": "2026-09-25",
     "first_seen": "2026-10-09T07:13:09+00:00",
     "last_seen": "2026-10-14T02:27:41+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685871-3749/cad-engineer-signoff-infrastructure": {
     "title": "CAD Engineer - Signoff Infrastructure",
@@ -5680,7 +5680,7 @@
     "posted_date": "2026-09-25",
     "first_seen": "2026-10-09T07:13:09+00:00",
     "last_seen": "2026-10-14T02:27:41+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200685964-0836/%EF%A3%BF-acoustics-associate-lab-engineer": {
     "title": " Acoustics Associate Lab Engineer",
@@ -5694,7 +5694,7 @@
     "posted_date": "2026-09-28",
     "first_seen": "2026-10-09T07:13:09+00:00",
     "last_seen": "2026-10-14T02:27:41+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200686380-3337/ai-software-engineer-apple-cloud-ai-platform": {
     "title": "AI Software Engineer, Apple Cloud AI Platform",
@@ -5708,7 +5708,7 @@
     "posted_date": "2026-10-01",
     "first_seen": "2026-10-09T07:13:07+00:00",
     "last_seen": "2026-10-14T02:27:40+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt": {
     "title": "Core OS Software Engineer - USB4/Thunderbolt",
@@ -5722,7 +5722,7 @@
     "posted_date": "2026-10-07",
     "first_seen": "2026-10-09T07:13:06+00:00",
     "last_seen": "2026-10-14T02:27:39+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200687375-0836/software-engineer-siri-user-experiences": {
     "title": "Software Engineer, Siri User Experiences",
@@ -5794,7 +5794,7 @@
     "posted_date": "2026-10-12",
     "first_seen": "2026-10-14T00:55:28+00:00",
     "last_seen": "2026-10-14T02:27:39+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation": {
     "title": "OS Software Engineer, Evaluation",
@@ -5808,7 +5808,7 @@
     "posted_date": "2026-10-12",
     "first_seen": "2026-10-14T00:55:28+00:00",
     "last_seen": "2026-10-14T02:28:02+00:00",
-    "is_closed": true
+    "is_closed": false
   },
   "https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57": {
     "title": "AI Residency",
