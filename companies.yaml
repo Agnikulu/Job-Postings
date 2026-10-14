@@ -235,6 +235,7 @@
 
 - name: SIG
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "165964"
   category: quant
   note: >
@@ -244,6 +245,7 @@
 
 - name: Citadel Securities
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "15259345"
   category: quant
   note: >
@@ -511,6 +513,7 @@
 
 - name: Boston Dynamics
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "45918"
   category: robotics
 
@@ -693,6 +696,7 @@
 
 - name: LinkedIn
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "1337"
   category: big_tech
   note: >
@@ -719,6 +723,7 @@
 
 - name: Bloomberg LP
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "2494"
   category: big_tech
   note: >
@@ -727,6 +732,7 @@
 
 - name: Rippling
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "17988315"
   category: big_tech
   note: >
@@ -784,6 +790,7 @@
 
 - name: Palo Alto Networks
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "30086"
   category: big_tech
 
@@ -814,6 +821,7 @@
 
 - name: Shopify
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "784652"
   # Shopify tags postings by region ("NAMER"), not country, so LinkedIn's
   # "United States" location filter matched exactly 1 of ~134 postings.
@@ -844,6 +852,7 @@
 
 - name: GitHub
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "1855"
   category: big_tech
 
@@ -859,6 +868,7 @@
 
 - name: Arm Holdings
   ats: linkedin
+  disabled: true  # paused 2026-10-13 (LinkedIn)
   linkedin_company_id: "4472"
   category: big_tech
 
