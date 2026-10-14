@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
+- **Open positions:** 592
 - **All-time tracked:** 782
 - **Active companies:** 159
-- **Last run (raw / matched):** 49442 postings fetched, 591 passed filters
-- **Last updated:** `2026-10-14 18:50 UTC`
+- **Last run (raw / matched):** 42156 postings fetched, 554 passed filters
+- **Last updated:** `2026-10-14 19:38 UTC`
 
 ## Legend
 
@@ -98,6 +98,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Formal Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837) | Oct 06, 2026 |
 | SpaceX | Embedded Software Engineer, Data Center Engineering (Starmind) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002) | Oct 06, 2026 |
 | Pure Storage | Software Engineer Grad 2027 🇺🇸 | Santa Clara, California | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249851) | Oct 06, 2026 |
+| Aurora Innovation | Software Engineer, Performance Engineering Optimization 🇺🇸 | Mountain View, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553) | Oct 06, 2026 |
 | AMD | SW Engineer 🇺🇸 | GB,Cambridge | jibe | New Grad | [Apply](https://careers.amd.com/careers-home/jobs/79898) | Oct 05, 2026 |
 | SpaceX | Dynamics Engineer (Starship) 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8869718002?gh_jid=8869718002) | Oct 05, 2026 |
 | SpaceX | IT Network Infrastructure Technician (Night Shift) 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8869126002?gh_jid=8869126002) | Oct 05, 2026 |
@@ -634,7 +635,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (191)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (190)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -656,7 +657,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~Early Career Analog Mixed-Signal Modeling Software Engineer (m/f/d) 🇺🇸~~ | Various Locations within Austin Metro Area | apple | New Grad | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 07, 2026 |
 | ~~Nvidia~~ | ~~Systems Software Engineer,  AI and Cloud - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 06, 2026 |
-| ~~Aurora Innovation~~ | ~~Software Engineer, Performance Engineering Optimization 🇺🇸~~ | Mountain View, CA | ashby | - | Closed | Oct 06, 2026 |
 | ~~Atlassian~~ | ~~Data Engineer, 2027 Graduate U.S 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Oct 05, 2026 |
 | ~~Apple~~ | ~~Early Career - 5G/4G Physical Layer Firmware Verification and Integration Engineer (m/f/d) 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | New Grad | Closed | Oct 05, 2026 |
 | ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 04, 2026 |
