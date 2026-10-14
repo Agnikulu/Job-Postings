@@ -22,8 +22,10 @@ from .linkedin import fetch as fetch_linkedin
 from .meta import fetch as fetch_meta
 from .microsoft import fetch as fetch_microsoft
 from .optiver import fetch as fetch_optiver
+from .radancy import fetch as fetch_radancy
 from .recruitee import fetch as fetch_recruitee
 from .rippling import fetch as fetch_rippling
+from .shopify import fetch as fetch_shopify
 from .smartrecruiters import fetch as fetch_smartrecruiters
 from .two_sigma import fetch as fetch_two_sigma
 from .uber import fetch as fetch_uber
@@ -57,6 +59,8 @@ ADAPTER_REGISTRY = {
     "two_sigma": fetch_two_sigma,
     "deshaw": fetch_deshaw,
     "avature": fetch_avature,
+    "radancy": fetch_radancy,
+    "shopify": fetch_shopify,
 }
 
 __all__ = [

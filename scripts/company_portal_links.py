@@ -64,6 +64,10 @@ def portal_url(entry: dict) -> str:
         return f"https://{entry['careers_host']}"
     if ats == "avature":
         return f"https://{entry['avature_host']}/{entry.get('avature_portal', 'careers')}/SearchJobs"
+    if ats == "radancy":
+        return f"https://{entry['careers_host']}/search-jobs"
+    if ats == "shopify":
+        return "https://www.shopify.com/careers/search"
     if ats == "microsoft":
         return "https://apply.careers.microsoft.com/careers"
     if ats == "linkedin":

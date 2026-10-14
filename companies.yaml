@@ -4,8 +4,10 @@
 #   - name:      Display name shown in Discord notifications.
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
 #                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | snyk |
-#                amazon_jobs | meta | linkedin | optiver | two_sigma | deshaw | avature
+#                amazon_jobs | meta | linkedin | optiver | two_sigma | deshaw | avature |
+#                radancy | shopify
 #     # avature: avature_host (e.g. bloomberg.avature.net), avature_portal (default: careers)
+#     # radancy: careers_host (Radancy/TalentBrew site, e.g. careers.arm.com)
 #     # Workday (myworkdaysite.com hosts, e.g. Snap):
 #     workday_cxs_host, workday_public_base
 #     # amazon_jobs:
@@ -395,6 +397,7 @@
 - name: Confluent
   ats: ashby
   slug: confluent
+  disabled: true  # paused 2026-10-14: Ashby board empty, careers.confluent.io 429s
   category: enterprise
 
 - name: Plaid
@@ -514,8 +517,10 @@
   category: robotics
 
 - name: Boston Dynamics
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: workday
+  tenant: bostondynamics
+  wd_pod: wd1
+  site: Boston_Dynamics
   linkedin_company_id: "45918"
   category: robotics
 
@@ -788,8 +793,10 @@
   category: big_tech
 
 - name: Palo Alto Networks
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: workday
+  tenant: paloaltonetworks
+  wd_pod: wd5
+  site: panwexternalcareers
   linkedin_company_id: "30086"
   category: big_tech
 
@@ -819,13 +826,12 @@
   category: big_tech
 
 - name: Shopify
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: shopify
   linkedin_company_id: "784652"
-  # Shopify tags postings by region ("NAMER"), not country, so LinkedIn's
-  # "United States" location filter matched exactly 1 of ~134 postings.
-  search_location: Worldwide
   category: big_tech
+  note: >
+    No public Ashby board; shopify.com/careers/search inlines every posting
+    in its React Router loader data, which the adapter decodes.
 
 - name: Broadcom
   ats: workday
@@ -866,8 +872,8 @@
   category: big_tech
 
 - name: Arm Holdings
-  ats: linkedin
-  disabled: true  # paused 2026-10-13 (LinkedIn)
+  ats: radancy
+  careers_host: careers.arm.com
   linkedin_company_id: "4472"
   category: big_tech
 

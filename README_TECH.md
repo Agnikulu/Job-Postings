@@ -97,6 +97,8 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | SmartRecruiters | `smartrecruiters.py` | 1 | Offset pagination |
 | Jibe | `jibe.py` | 1 | Paginated JSON |
 | Avature | `avature.py` | 1 | Server-rendered HTML list (12/page, parallel) + detail pages for candidates only |
+| Radancy | `radancy.py` | 1 | TalentBrew results AJAX (100/page) + JSON-LD detail pages for candidates and "Multiple locations" |
+| Shopify | `shopify.py` | 1 | Decodes the careers page's React Router loader data |
 
 **Meta** uses the `meta` adapter. One POST to `metacareers.com/graphql` (the `CareersJobSearchResultsV2DataQuery` behind the /jobs page, persisted id `SEARCH_DOC_ID`, rediscovered from the page's JS bundles if Meta rotates it) returns every open posting with its current title and locations. Per-job `JobPosting` JSON-LD detail pages (cached in `meta_title_cache.json`, keyed by the search title they were fetched for and pruned when postings close) are only fetched where `filters.could_be_included(title, location)` is true — senior, intern-only, non-software and clearly non-US roles are rejected by the classifier whatever their description says, so they skip the detail page. The jobs sitemap is still read: any posting it lists that the search missed gets a detail fetch, and if the search fails entirely the adapter falls back to the old sitemap-only path. The Facebook edge rejects `DEFAULT_HEADERS` **and** any request missing the `Sec-Fetch-*` / `sec-ch-ua` client hints a real browser sends, so `_browser_headers()` supplies the full set and clears `Session.headers` first (the default requests UA otherwise leaks through and triggers HTTP 400). Detail pages give real `datePosted` and location lists — sitemap `lastmod` is only a crawl timestamp, identical for every entry, so it is used only as a fallback. Detail fetches run 8-wide. When metacareers does return 400/403 and `linkedin_company_id` is set, fetch falls back to LinkedIn (`10667` for Meta) and records the block in `meta_careers_state.json`; that block **expires after 6h** (`_BLOCK_TTL_SEC`) so a transient failure never pins Meta to LinkedIn permanently. If Meta jobs show up with `ats: linkedin`, delete `meta_careers_state.json` and check whether the headers still satisfy the edge.
 
@@ -113,6 +115,12 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 **Wiz** uses a custom adapter against `wiz.io/api/fetch-jobs-data`, plus `wiz.io/api/fetch-unlisted-jobs-data` for a few unlisted postings (renamed from `fetch-private-jobs-data` in Oct 2026; a failure there only logs a warning).
 
 **Bloomberg** uses the `avature` adapter against `bloomberg.avature.net/careers`. The portal caps list pages at 12 results whatever `jobRecordsPerPage` says, so the first page's `N results` count drives parallel offset fetches. Descriptions come from the "Description & Requirements" section of each JobDetail page, fetched only where `should_fetch_description` and `could_be_included(title, location)` hold.
+
+**Arm** uses the `radancy` adapter against `careers.arm.com/search-jobs/results` (TalentBrew; the AJAX endpoint returns the result-list HTML in JSON). `data-total-results` counts job × location pairs, so it is larger than the unique postings and isn't compared. Cards saying "Multiple locations" always get a detail fetch (when the title could be included) so the JSON-LD `jobLocation` list replaces it.
+
+**Shopify** has no public Ashby board. `shopify.com/careers/search` inlines every posting (`jobPostingsWithJobs`) and the location table (`atsLocations`) in its React Router turbo-stream loader data, which `shopify.decode_turbo_stream` flattens; descriptions come from each posting page's loader data. Most postings are in the remote "Americas" region, whose descriptions never mention a country, so it is labelled "Americas (Remote: United States, Canada)".
+
+**Boston Dynamics** and **Palo Alto Networks** use their Workday boards. **Citadel Securities** (Cloudflare challenge on every careers URL, no Workday/Greenhouse/Lever/Ashby board found) and **LinkedIn** (jobs only on linkedin.com) stay paused on LinkedIn.
 
 **Coinbase** uses a custom adapter against `coinbase.com/api/v2/careers` (falls back to private Greenhouse slug `cdpjobs`). Both endpoints are currently returning errors from Coinbase's side; the adapter is wired for when they recover.
 
@@ -351,7 +359,7 @@ python scripts/company_portal_links.py
 | Amazon Web Services (AWS) | big_tech | `amazon_jobs` | [Open board](https://www.amazon.jobs/en/search) |
 | Apple | big_tech | `apple` | [Open board](https://jobs.apple.com/en-us/search) |
 | Arista Networks | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/AristaNetworks) |
-| Arm Holdings | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Arm Holdings | big_tech | `radancy` | [Open board](https://careers.arm.com/search-jobs) |
 | Atlassian | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Aurora Innovation | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/aurora-operations-inc) |
 | Block | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/block) |
@@ -380,7 +388,7 @@ python scripts/company_portal_links.py
 | Netflix | big_tech | `eightfold` | [Open board](https://explore.jobs.netflix.net) |
 | Okta | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/okta) |
 | Palantir | big_tech | `lever` | [Open board](https://jobs.lever.co/palantir) |
-| Palo Alto Networks | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Palo Alto Networks | big_tech | `workday` | [Open board](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers) |
 | Pinterest | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/pinterest) |
 | Qualcomm | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Reddit | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/reddit) |
@@ -391,7 +399,7 @@ python scripts/company_portal_links.py
 | Samsara | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/samsara) |
 | SentinelOne | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/sentinellabs) |
 | ServiceNow | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/ServiceNow) |
-| Shopify | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Shopify | big_tech | `shopify` | [Open board](https://www.shopify.com/careers/search) |
 | Snap | big_tech | `workday` | [Open board](https://wd1.myworkdaysite.com/recruiting/snapchat/snap) |
 | Snowflake | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/snowflake) |
 | Snyk | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/snyk) |
@@ -502,7 +510,7 @@ python scripts/company_portal_links.py
 | Anduril | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/andurilindustries) |
 | Applied Intuition | robotics | `ashby` | [Open board](https://jobs.ashbyhq.com/applied) |
 | Apptronik | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/apptronik) |
-| Boston Dynamics | robotics | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Boston Dynamics | robotics | `workday` | [Open board](https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics) |
 | Figure AI | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/figureai) |
 | Luma AI | robotics | `gem` | [Open board](https://jobs.gem.com/lumalabs-ai) |
 | Nuro | robotics | `greenhouse` | [Open board](https://boards.greenhouse.io/nuro) |
