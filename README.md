@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
-- **All-time tracked:** 782
+- **Open positions:** 592
+- **All-time tracked:** 783
 - **Active companies:** 159
-- **Last run (raw / matched):** 49524 postings fetched, 591 passed filters
-- **Last updated:** `2026-10-14 21:43 UTC`
+- **Last run (raw / matched):** 48400 postings fetched, 591 passed filters
+- **Last updated:** `2026-10-14 22:40 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | Hardware Products Early Career Rotation Program 🇺🇸 | Cupertino, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200688889-0836/hardware-products-early-career-rotation-program) | Oct 14, 2026 |
 | Veeva Systems | Associate DevOps Engineer 🇺🇸 | Massachusetts - Boston | lever | - | [Apply](https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2) | Oct 14, 2026 |
 | Veeva Systems | Associate QA Engineer 🇺🇸 | Massachusetts - Boston | lever | - | [Apply](https://jobs.lever.co/veeva/a35bb73f-41fb-4a2d-be86-bba12a7d74d8) | Oct 14, 2026 |
 | Bloomberg LP | Bloomberg Intelligence - Credit Strategy Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Credit-Strategy-Research-Associate/21020) | Oct 14, 2026 |
