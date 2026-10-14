@@ -88,7 +88,8 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 | Coinbase | `coinbase.py` | 1 | Careers REST API + GH fallback |
 | Amazon Jobs | `amazon_jobs.py` | 1 | amazon.jobs search.json |
 | Meta | `meta.py` | 1 | metacareers GraphQL job search + JSON-LD detail cache (candidates only) |
-| Microsoft | `microsoft.py` | 1 | PCSX search API (10/page, US location filter, all pages) |
+| Microsoft / Eightfold PCSX | `microsoft.py` | 2 | PCSX search API (10/page, US location filter, all pages); `eightfold_pcsx` + `careers_host` for Qualcomm |
+| Atlassian | `atlassian.py` | 1 | Single JSON listings array with inline descriptions |
 | Apple | `apple.py` | 1 | JSON search API, site-side US location filter |
 | Uber | `uber.py` | 1 | Careers search API |
 | Eightfold | `eightfold.py` | 1 | Batched JSON (Netflix) |
@@ -119,6 +120,8 @@ Per-company failures are isolated (logged + skipped); one broken slug does not a
 **Arm** uses the `radancy` adapter against `careers.arm.com/search-jobs/results` (TalentBrew; the AJAX endpoint returns the result-list HTML in JSON). `data-total-results` counts job × location pairs, so it is larger than the unique postings and isn't compared. Cards saying "Multiple locations" always get a detail fetch (when the title could be included) so the JSON-LD `jobLocation` list replaces it.
 
 **Shopify** has no public Ashby board. `shopify.com/careers/search` inlines every posting (`jobPostingsWithJobs`) and the location table (`atsLocations`) in its React Router turbo-stream loader data, which `shopify.decode_turbo_stream` flattens; descriptions come from each posting page's loader data. Most postings are in the remote "Americas" region, whose descriptions never mention a country, so it is labelled "Americas (Remote: United States, Canada)".
+
+**Intuit** also uses the `radancy` adapter (`jobs.intuit.com`, location span inside the card link). **AMD** uses its Jibe site (`careers.amd.com`). **Qualcomm** runs the same Eightfold PCSX API as Microsoft on `careers.qualcomm.com` (`ats: eightfold_pcsx`). **Atlassian** uses `atlassian.com/endpoint/careers/listings`, the JSON behind its careers page.
 
 **Boston Dynamics** and **Palo Alto Networks** use their Workday boards. **Citadel Securities** (Cloudflare challenge on every careers URL, no Workday/Greenhouse/Lever/Ashby board found) and **LinkedIn** (jobs only on linkedin.com) stay paused on LinkedIn.
 
@@ -352,7 +355,7 @@ python scripts/company_portal_links.py
 <!-- 167 active, 0 tier3_todo -->
 | Company | Category | ATS | Job board |
 |---------|----------|-----|-----------|
-| AMD | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| AMD | big_tech | `jibe` | [Open board](https://careers.amd.com) |
 | Adobe | big_tech | `workday` | [Open board](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced) |
 | Affirm | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/affirm) |
 | Airbnb | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/airbnb) |
@@ -360,7 +363,7 @@ python scripts/company_portal_links.py
 | Apple | big_tech | `apple` | [Open board](https://jobs.apple.com/en-us/search) |
 | Arista Networks | big_tech | `smartrecruiters` | [Open board](https://careers.smartrecruiters.com/AristaNetworks) |
 | Arm Holdings | big_tech | `radancy` | [Open board](https://careers.arm.com/search-jobs) |
-| Atlassian | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Atlassian | big_tech | `atlassian` | [Open board](https://www.atlassian.com/company/careers/all-jobs) |
 | Aurora Innovation | big_tech | `ashby` | [Open board](https://jobs.ashbyhq.com/aurora-operations-inc) |
 | Block | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/block) |
 | Bloomberg LP | big_tech | `avature` | [Open board](https://bloomberg.avature.net/careers/SearchJobs) |
@@ -378,7 +381,7 @@ python scripts/company_portal_links.py
 | GitHub | big_tech | `jibe` | [Open board](https://www.github.careers/careers-home/jobs) |
 | Google | big_tech | `google_careers` | [Open board](https://www.google.com/about/careers/applications/jobs/results?target_level=EARLY&target_level=INTERN_AND_APPRENTICE&sort_by=date) |
 | Instacart | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/instacart) |
-| Intuit | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Intuit | big_tech | `radancy` | [Open board](https://jobs.intuit.com/search-jobs) |
 | LinkedIn | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
 | Lyft | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/lyft) |
 | Marvell | big_tech | `workday` | [Open board](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers) |
@@ -390,7 +393,7 @@ python scripts/company_portal_links.py
 | Palantir | big_tech | `lever` | [Open board](https://jobs.lever.co/palantir) |
 | Palo Alto Networks | big_tech | `workday` | [Open board](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers) |
 | Pinterest | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/pinterest) |
-| Qualcomm | big_tech | `linkedin` | [Open board](https://www.linkedin.com/jobs/search/) |
+| Qualcomm | big_tech | `eightfold_pcsx` | [Open board](https://careers.qualcomm.com/careers) |
 | Reddit | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/reddit) |
 | Riot Games | big_tech | `greenhouse` | [Open board](https://boards.greenhouse.io/riotgames) |
 | Rippling | big_tech | `rippling` | [Open board](https://www.rippling.com/careers/open-roles) |

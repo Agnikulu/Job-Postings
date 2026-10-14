@@ -1,4 +1,4 @@
-"""Radancy (TalentBrew) and Shopify adapters: list parsing and detail gating."""
+"""Radancy, Shopify, Atlassian and Eightfold PCSX adapters."""
 
 from __future__ import annotations
 
@@ -116,3 +116,56 @@ def test_shopify_decodes_postings_and_labels_americas() -> None:
     assert by_id["a1"].posted_at == "2026-09-01"
     assert by_id["b2"].location == "Ireland; United Kingdom"
     assert "Ship Shopify" in (by_id["a1"].description or "")
+
+
+def test_radancy_location_inside_link_and_data_title() -> None:
+    # Intuit-style card: location span inside the link, title in data-title.
+    page = """<ul><li>
+      <a href="/job/mv/software-engineer-1/27595/111" data-job-id="23563" data-title="Software Engineer 1">
+        <h2>Software Engineer 1</h2><span class="job-location">Mountain View, California</span>
+      </a></li></ul>"""
+    rows = radancy._parse_list(page)
+    assert rows == [{
+        "path": "/job/mv/software-engineer-1/27595/111", "id": "23563",
+        "title": "Software Engineer 1", "location": "Mountain View, California", "category": "",
+    }]
+
+
+def test_atlassian_listings_map_fields() -> None:
+    from adapters import atlassian
+
+    listings = [{
+        "id": "25480", "title": "Software Engineer, 2027 Graduate",
+        "locations": ["Remote - Remote", "Seattle - United States -   Seattle, Washington  United States"],
+        "category": "Engineering", "overview": "<p>Work anywhere.</p>",
+        "qualifications": "<ul><li>BS in CS</li></ul>",
+        "portalJobPost": {"id": 25480, "updatedDate": "2026-09-24 03:33 PM"},
+    }]
+    with patch("adapters.atlassian._get_listings", return_value=listings):
+        jobs = atlassian.fetch({"name": "Atlassian", "category": "big_tech"})
+    job = jobs[0]
+    assert job.location == "Seattle - United States - Seattle, Washington United States"
+    assert job.url == "https://www.atlassian.com/company/careers/details/25480"
+    assert job.posted_at == "2026-09-24T15:33:00"
+    assert "BS in CS" in (job.description or "")
+
+
+def test_pcsx_uses_careers_host() -> None:
+    from adapters import microsoft
+
+    calls = []
+
+    def fake_page(base_url, domain, start, location=""):
+        calls.append((base_url, domain))
+        return {"data": {"positions": [{"id": 7, "name": "Modem Firmware Engineer",
+                                         "standardizedLocations": ["San Diego, CA, US"],
+                                         "positionUrl": "/careers/job/7"}], "count": 1}}
+
+    company = {"name": "Qualcomm", "ats": "eightfold_pcsx",
+               "careers_host": "careers.qualcomm.com", "domain": "qualcomm.com"}
+    with patch("adapters.microsoft._get_page", side_effect=fake_page), \
+         patch("adapters.microsoft.map_descriptions_parallel", return_value={}):
+        jobs = microsoft.fetch(company)
+    assert calls == [("https://careers.qualcomm.com", "qualcomm.com")]
+    assert jobs[0].url == "https://careers.qualcomm.com/careers/job/7"
+    assert jobs[0].ats == "eightfold_pcsx"

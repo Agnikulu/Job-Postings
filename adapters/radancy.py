@@ -43,10 +43,13 @@ DETAIL_WORKERS = 6
 MULTIPLE_LOCATIONS = "multiple locations"
 
 _TOTAL_PAGES_RE = re.compile(r'data-total-pages="(\d+)"')
+# Card link: attributes (href, data-job-id, maybe data-title), inner HTML,
+# then the rest of the card up to the next card link.
 _CARD_RE = re.compile(
-    r'<a\b[^>]*href="(/job/[^"]+)"[^>]*data-job-id="(\d+)"[^>]*>(.*?)</a>(.*?)(?=<a\b[^>]*data-job-id=|</ul>|$)',
+    r'<a\b([^>]*\bhref="/job/[^"]+"[^>]*\bdata-job-id="\d+"[^>]*)>(.*?)</a>(.*?)(?=<a\b[^>]*data-job-id=|</ul>|$)',
     re.DOTALL,
 )
+_ATTR_RE = re.compile(r'\b(href|data-job-id|data-title)="([^"]*)"')
 _LOCATION_RE = re.compile(r'<span class="[^"]*\blocation\b[^"]*">(.*?)</span>', re.DOTALL)
 _CATEGORY_RE = re.compile(r'<span class="[^"]*\bcategory\b[^"]*">(.*?)</span>', re.DOTALL)
 _LD_JSON_RE = re.compile(
@@ -95,14 +98,17 @@ def _get_page(host: str, page: int) -> str:
 
 def _parse_list(page_html: str) -> list[dict[str, str]]:
     rows = []
-    for path, job_id, title, rest in _CARD_RE.findall(page_html):
-        loc = _LOCATION_RE.search(rest)
+    for attrs_html, inner, rest in _CARD_RE.findall(page_html):
+        attrs = dict(_ATTR_RE.findall(attrs_html))
+        # Some sites (Intuit) put the location span inside the link.
+        loc = _LOCATION_RE.search(inner) or _LOCATION_RE.search(rest)
         cat = _CATEGORY_RE.search(rest)
+        title = attrs.get("data-title") or _text(_LOCATION_RE.sub(" ", inner))
         rows.append(
             {
-                "path": html.unescape(path),
-                "id": job_id,
-                "title": _text(title),
+                "path": html.unescape(attrs["href"]),
+                "id": attrs["data-job-id"],
+                "title": html.unescape(title).strip(),
                 "location": _text(loc.group(1)) if loc else "",
                 "category": _text(cat.group(1)) if cat else "",
             }

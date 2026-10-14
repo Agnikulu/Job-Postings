@@ -1,6 +1,7 @@
-"""Microsoft careers adapter (apply.careers.microsoft.com PCSX API).
+"""Eightfold PCSX careers adapter (Microsoft, Qualcomm).
 
-Endpoint: GET https://apply.careers.microsoft.com/api/pcsx/search
+Endpoint: GET https://{careers_host}/api/pcsx/search
+(careers_host defaults to apply.careers.microsoft.com)
 
 The API returns 10 positions per page whatever `count` asks for, so a full
 listing is ~120 pages (US only) or ~240 (worldwide). It is exempt from
@@ -30,8 +31,7 @@ from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 
 log = logging.getLogger(__name__)
 
-SEARCH_URL = "https://apply.careers.microsoft.com/api/pcsx/search"
-BASE_URL = "https://apply.careers.microsoft.com"
+DEFAULT_HOST = "apply.careers.microsoft.com"
 PAGE_SIZE = 10  # server-enforced page size
 # Safety bound only (~2.4k postings worldwide = ~240 pages).
 MAX_PAGES = 600
@@ -52,14 +52,14 @@ def _retryable_request_error(exc: BaseException) -> bool:
     wait=wait_exponential(multiplier=2, min=4, max=30),
     retry=retry_if_exception(_retryable_request_error),
 )
-def _get_page(domain: str, start: int, location: str = "") -> dict[str, Any]:
+def _get_page(base_url: str, domain: str, start: int, location: str = "") -> dict[str, Any]:
     headers = {
         **DEFAULT_HEADERS,
         "Accept": "application/json, text/plain, */*",
-        "Referer": f"{BASE_URL}/careers",
+        "Referer": f"{base_url}/careers",
     }
     resp = requests.get(
-        SEARCH_URL,
+        f"{base_url}/api/pcsx/search",
         params={
             "domain": domain,
             "query": "",
@@ -99,6 +99,7 @@ def _epoch_to_iso(value: int | None) -> str | None:
 def fetch(company: dict[str, Any]) -> list[Job]:
     name = company.get("name", "?")
     domain = company.get("domain") or company.get("slug") or "microsoft.com"
+    base_url = f"https://{company.get('careers_host') or DEFAULT_HOST}"
 
     all_raw: list[dict[str, Any]] = []
     start = 0
@@ -108,15 +109,15 @@ def fetch(company: dict[str, Any]) -> list[Job]:
         if page_num:
             time.sleep(PAGE_DELAY_SEC)
         try:
-            payload = _get_page(domain, start, location)
+            payload = _get_page(base_url, domain, start, location)
         except requests.HTTPError as e:
             raise AdapterError(
-                f"Microsoft HTTP {e.response.status_code} for {name} start={start}"
+                f"PCSX HTTP {e.response.status_code} for {name} start={start}"
             ) from e
         except requests.RequestException as e:
-            raise AdapterError(f"Microsoft network error for {name}: {e}") from e
+            raise AdapterError(f"PCSX network error for {name}: {e}") from e
         except ValueError as e:
-            raise AdapterError(f"Microsoft returned invalid JSON for {name}") from e
+            raise AdapterError(f"PCSX returned invalid JSON for {name}") from e
 
         page_jobs, page_total = _extract_positions(payload)
         if page_total is not None:
@@ -138,7 +139,7 @@ def fetch(company: dict[str, Any]) -> list[Job]:
             locs = raw.get("standardizedLocations") or raw.get("locations") or []
             location = " / ".join(str(x) for x in locs if x)
             path = raw.get("positionUrl") or f"/careers/job/{job_id}"
-            url = path if str(path).startswith("http") else f"{BASE_URL}{path}"
+            url = path if str(path).startswith("http") else f"{base_url}{path}"
             job_ids.append(job_id)
             jobs.append(
                 Job(
@@ -149,19 +150,19 @@ def fetch(company: dict[str, Any]) -> list[Job]:
                     url=url,
                     posted_at=_epoch_to_iso(raw.get("postedTs") or raw.get("creationTs")),
                     department=raw.get("department"),
-                    ats="microsoft",
+                    ats=company.get("ats") or "microsoft",
                     category=company.get("category", "uncategorized"),
                 )
             )
         except (KeyError, TypeError) as e:
-            log.warning("Microsoft: skipping malformed job for %s: %s", name, e)
+            log.warning("PCSX: skipping malformed job for %s: %s", name, e)
             continue
 
     fetch_ids = [j.id for j in jobs if should_fetch_description(j.title)]
     if fetch_ids:
         descriptions = map_descriptions_parallel(
             fetch_ids,
-            lambda job_id: fetch_microsoft_description(job_id, base_url=BASE_URL),
+            lambda job_id: fetch_microsoft_description(job_id, base_url=base_url),
             max_workers=DETAIL_WORKERS,
         )
         enriched: list[Job] = []

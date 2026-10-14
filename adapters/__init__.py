@@ -7,6 +7,7 @@ Adding a new ATS is just: write a new module, then add it to ADAPTER_REGISTRY.
 from .amazon_jobs import fetch as fetch_amazon_jobs
 from .apple import fetch as fetch_apple
 from .ashby import fetch as fetch_ashby
+from .atlassian import fetch as fetch_atlassian
 from .avature import fetch as fetch_avature
 from .base import DEFAULT_HEADERS, DEFAULT_TIMEOUT, AdapterError, Job
 from .coinbase import fetch as fetch_coinbase
@@ -47,6 +48,8 @@ ADAPTER_REGISTRY = {
     "eightfold": fetch_eightfold,
     "google_careers": fetch_google_careers,
     "microsoft": fetch_microsoft,
+    # Same Eightfold PCSX API as Microsoft, on another careers_host.
+    "eightfold_pcsx": fetch_microsoft,
     "apple": fetch_apple,
     "meta": fetch_meta,
     "linkedin": fetch_linkedin,
@@ -61,6 +64,7 @@ ADAPTER_REGISTRY = {
     "avature": fetch_avature,
     "radancy": fetch_radancy,
     "shopify": fetch_shopify,
+    "atlassian": fetch_atlassian,
 }
 
 __all__ = [

@@ -5,7 +5,8 @@
 #     ats:       greenhouse | lever | ashby | workday | workable | jibe |
 #                rippling | gem | uber | smartrecruiters | recruitee | wiz | coinbase | snyk |
 #                amazon_jobs | meta | linkedin | optiver | two_sigma | deshaw | avature |
-#                radancy | shopify
+#                radancy | shopify | atlassian | eightfold_pcsx
+#     # eightfold_pcsx: careers_host + domain (same API as Microsoft)
 #     # avature: avature_host (e.g. bloomberg.avature.net), avature_portal (default: careers)
 #     # radancy: careers_host (Radancy/TalentBrew site, e.g. careers.arm.com)
 #     # Workday (myworkdaysite.com hosts, e.g. Snap):
@@ -716,17 +717,12 @@
   category: big_tech
 
 - name: Atlassian
-  disabled: true  # paused 2026-10-13
-  ats: linkedin
+  ats: atlassian
   linkedin_company_id: "22688"
   category: big_tech
   note: >
-    Public SmartRecruiters postings API (slug 'atlassian') now returns
-    totalFound:0 and the hosted careers.smartrecruiters.com/Atlassian page
-    redirects away — Atlassian moved job listings behind their own
-    www.atlassian.com/gateway/api/graphql (internal, persisted-query only,
-    no public schema found); using LinkedIn as a reliable fallback (same
-    pattern as SIG/Citadel Securities/Boston Dynamics).
+    SmartRecruiters board is dead; atlassian.com/endpoint/careers/listings
+    (behind the careers page) returns every posting with descriptions.
 
 - name: Bloomberg LP
   ats: avature
@@ -807,8 +803,8 @@
   category: big_tech
 
 - name: AMD
-  disabled: true  # paused 2026-10-13
-  ats: linkedin
+  ats: jibe
+  careers_host: careers.amd.com
   linkedin_company_id: "7550"
   category: big_tech
 
@@ -878,8 +874,9 @@
   category: big_tech
 
 - name: Qualcomm
-  disabled: true  # paused 2026-10-13
-  ats: linkedin
+  ats: eightfold_pcsx
+  careers_host: careers.qualcomm.com
+  domain: qualcomm.com
   linkedin_company_id: "2017"
   category: big_tech
 
@@ -891,8 +888,8 @@
   category: big_tech
 
 - name: Intuit
-  disabled: true  # paused 2026-10-13
-  ats: linkedin
+  ats: radancy
+  careers_host: jobs.intuit.com
   linkedin_company_id: "1666"
   category: big_tech
 
