@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 598
-- **All-time tracked:** 791
+- **Open positions:** 599
+- **All-time tracked:** 792
 - **Active companies:** 159
-- **Last run (raw / matched):** 49495 postings fetched, 598 passed filters
-- **Last updated:** `2026-10-15 20:40 UTC`
+- **Last run (raw / matched):** 49896 postings fetched, 765 passed filters
+- **Last updated:** `2026-10-15 21:41 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | Machine Learning Engineer, Creative Intelligence Systems 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems) | Oct 15, 2026 |
 | Microsoft | Design Verification Engineer - Fabric Interconnect 🇺🇸 | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557039427) | Oct 15, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722249006) | Oct 15, 2026 |
 | Skydio | Product Design Engineer (Early Career) 🇺🇸 | San Mateo, California, United States | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | Oct 15, 2026 |
