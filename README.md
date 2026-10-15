@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 599
-- **All-time tracked:** 792
+- **All-time tracked:** 793
 - **Active companies:** 159
-- **Last run (raw / matched):** 49896 postings fetched, 765 passed filters
-- **Last updated:** `2026-10-15 21:41 UTC`
+- **Last run (raw / matched):** 45199 postings fetched, 559 passed filters
+- **Last updated:** `2026-10-15 22:40 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Affirm | Software Engineer I, Fullstack (Search) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Oct 15, 2026 |
 | Apple | Machine Learning Engineer, Creative Intelligence Systems 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems) | Oct 15, 2026 |
 | Microsoft | Design Verification Engineer - Fabric Interconnect 🇺🇸 | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557039427) | Oct 15, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722249006) | Oct 15, 2026 |
@@ -114,7 +115,6 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Silicon Design Engineer 🇺🇸 | GB,Cambridge | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/89974) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Washington, DC | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002) | Oct 02, 2026 |
-| ServiceNow | Software Engineer, Core Infrastructure - Moveworks (New Grad) 🇺🇸 | Mountain View, California, United States | smartrecruiters | New Grad | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000153279380) | Oct 02, 2026 |
 | xAI | Rack Design Engineer (Data Center) 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255858007) | Oct 02, 2026 |
 | Harvey | Software Engineer, New Grad (2027) 🇺🇸 | New York | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | Oct 02, 2026 |
 | Harvey | Software Engineer, New Grad (2027) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | Oct 02, 2026 |
@@ -642,7 +642,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (193)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (194)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -672,6 +672,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~Junior Software Development Engineer in Test, Retail Engineering - IS&T 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 04, 2026 |
 | ~~Apple~~ | ~~Software Engineer, Productivity Apps 🇺🇸~~ | Various Locations within Austin Metro Area | apple | - | Closed | Oct 04, 2026 |
 | ~~Qualcomm~~ | ~~Modem Systems Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 03, 2026 |
+| ~~ServiceNow~~ | ~~Software Engineer, Core Infrastructure - Moveworks (New Grad) 🇺🇸~~ | Mountain View, California, United States | smartrecruiters | New Grad | Closed | Oct 02, 2026 |
 | ~~Instacart~~ | ~~Data Analyst, Platform Excellence Ops Analytics 🇺🇸~~ | United States - Remote | greenhouse | - | Closed | Oct 02, 2026 |
 | ~~Qualcomm~~ | ~~Modem Firmware Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 01, 2026 |
 | ~~Amazon Web Services (AWS)~~ | ~~Applied Scientist, Quantum error correction team, Amazon Center for Quantum Computing 🇺🇸~~ | Pasadena, CA, USA | amazon_jobs | - | Closed | Oct 01, 2026 |
