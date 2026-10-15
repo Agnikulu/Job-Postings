@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 596
-- **All-time tracked:** 789
+- **Open positions:** 597
+- **All-time tracked:** 790
 - **Active companies:** 159
-- **Last run (raw / matched):** 49418 postings fetched, 764 passed filters
-- **Last updated:** `2026-10-15 17:51 UTC`
+- **Last run (raw / matched):** 43855 postings fetched, 725 passed filters
+- **Last updated:** `2026-10-15 18:49 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722249006) | Oct 15, 2026 |
 | Skydio | Product Design Engineer (Early Career) 🇺🇸 | San Mateo, California, United States | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | Oct 15, 2026 |
 | Apple | Gate-level SigEM/SEB/FIT CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200689481-0157/gate-level-sigem-seb-fit-cad-engineer) | Oct 15, 2026 |
 | Apple | Gate-level SigEM/SEB/FIT CAD Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200689481-3956/gate-level-sigem-seb-fit-cad-engineer) | Oct 15, 2026 |
