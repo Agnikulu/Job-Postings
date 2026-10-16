@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 599
-- **All-time tracked:** 793
+- **All-time tracked:** 794
 - **Active companies:** 159
-- **Last run (raw / matched):** 45199 postings fetched, 559 passed filters
-- **Last updated:** `2026-10-15 22:40 UTC`
+- **Last run (raw / matched):** 49525 postings fetched, 599 passed filters
+- **Last updated:** `2026-10-16 01:05 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Intuit | Software Engineer 1 🇺🇸 | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536) | Oct 15, 2026 |
 | Affirm | Software Engineer I, Fullstack (Search) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Oct 15, 2026 |
 | Apple | Machine Learning Engineer, Creative Intelligence Systems 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems) | Oct 15, 2026 |
 | Microsoft | Design Verification Engineer - Fabric Interconnect 🇺🇸 | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557039427) | Oct 15, 2026 |
@@ -622,7 +623,6 @@ how to fork, how to add companies, and how filtering works.
 | Anduril | GNC Engineer, Space 🇺🇸 | Washington, District of Columbia, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007) | Sep 11, 2025 |
 | Applied Intuition | Research Engineer - Robotic Hardware, Simulation and Data 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/4cb44794-7b3b-46fc-9408-104a6d0f379e) | Aug 19, 2025 |
 | Applied Intuition | Research Engineer - Robot Learning 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/e725018e-2577-4ff6-8dbd-69206272d9af) | Aug 19, 2025 |
-| Intuit | Software Engineer 1 🇺🇸 | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720) | Aug 14, 2025 |
 | Anduril | 2026 Early Career Software Engineer 🇺🇸 | Atlanta, Georgia, United States<br>Colorado Springs, Colorado, United States<br>Costa Mesa, California, United States<br>Fort Collins, Colorado, United States<br>Seattle, Washington, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Aug 11, 2025 |
 | Ramp | Mobile Engineer, iOS 🇺🇸 | New York, NY (HQ) | ashby | - | [Apply](https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f) | Jul 31, 2025 |
 | Ramp | Mobile Engineer, Android 🇺🇸 | New York, NY (HQ) | ashby | - | [Apply](https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040) | Jul 31, 2025 |
@@ -642,7 +642,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (194)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (195)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -837,6 +837,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 27, 2025 |
 | ~~Point72~~ | ~~Machine Learning Engineer 🇺🇸~~ | New York | greenhouse | PhD Student | Closed | Sep 15, 2025 |
 | ~~Mercor~~ | ~~Data Scientist 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 30, 2025 |
+| ~~Intuit~~ | ~~Software Engineer 1 🇺🇸~~ | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | Closed | Aug 14, 2025 |
 | ~~IMC Trading~~ | ~~Software Engineer, Early Career 🇺🇸~~ | Chicago, United States | greenhouse | New Grad | Closed | Apr 17, 2025 |
 | ~~Point72~~ | ~~2027 Cubist Quant Academy – Developers 🇺🇸~~ | New York | greenhouse | - | Closed | Sep 09, 2024 |
 | ~~Jane Street~~ | ~~Machine Learning Performance Engineer 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | May 20, 2024 |
