@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
-- **All-time tracked:** 794
+- **Open positions:** 600
+- **All-time tracked:** 795
 - **Active companies:** 159
-- **Last run (raw / matched):** 46833 postings fetched, 559 passed filters
-- **Last updated:** `2026-10-16 04:47 UTC`
+- **Last run (raw / matched):** 49534 postings fetched, 600 passed filters
+- **Last updated:** `2026-10-16 05:40 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Together AI | Hardware Security Engineer, New Grad (2027) 🇺🇸 | San Francisco | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | Oct 16, 2026 |
 | Intuit | Software Engineer 1 🇺🇸 | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536) | Oct 15, 2026 |
 | Affirm | Software Engineer I, Fullstack (Search) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Oct 15, 2026 |
 | Apple | Machine Learning Engineer, Creative Intelligence Systems 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems) | Oct 15, 2026 |
