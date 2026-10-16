@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-16 05:40 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-10-16 06:52 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Together AI - 1 new (1 technical)
-
-- **[TECH]** [Hardware Security Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) - *San Francisco*
