@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 604
+- **Open positions:** 603
 - **All-time tracked:** 800
 - **Active companies:** 159
-- **Last run (raw / matched):** 47952 postings fetched, 604 passed filters
-- **Last updated:** `2026-10-18 17:33 UTC`
+- **Last run (raw / matched):** 47949 postings fetched, 603 passed filters
+- **Last updated:** `2026-10-18 18:37 UTC`
 
 ## Legend
 
@@ -77,7 +77,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Software Engineer, DL Kernel Libraries - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | Oct 11, 2026 |
 | Shield AI | Engineer I, Software - Factory Team (R6235) 🇺🇸 | Washington, D.C. | lever | Early Career | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | Oct 10, 2026 |
 | Shield AI | Engineer I, Software Test and Automation (R6216) 🇺🇸 | Washington, D.C. | lever | Early Career | [Apply](https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7) | Oct 10, 2026 |
-| Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446720708572) | Oct 09, 2026 |
 | Qualcomm | Camera DE Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721490310) | Oct 09, 2026 |
 | Roblox | Software Engineer, ROS 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) | Oct 09, 2026 |
 | Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) | Oct 09, 2026 |
@@ -647,13 +646,14 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (196)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (197)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
+| ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 09, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
 | ~~Apple~~ | ~~Custom ERC/Power-Intent Automation CAD Engineer 🇺🇸~~ | Sunnyvale, United States of America | apple | - | Closed | Oct 08, 2026 |
 | ~~Snowflake~~ | ~~Software Engineer - Customer Experience Engineering 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 08, 2026 |
