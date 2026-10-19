@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 604
+- **Open positions:** 601
 - **All-time tracked:** 803
 - **Active companies:** 159
-- **Last run (raw / matched):** 47881 postings fetched, 604 passed filters
-- **Last updated:** `2026-10-19 18:48 UTC`
+- **Last run (raw / matched):** 42324 postings fetched, 560 passed filters
+- **Last updated:** `2026-10-19 19:37 UTC`
 
 ## Legend
 
@@ -69,7 +69,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | SRAM Circuit Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | Oct 13, 2026 |
 | AMD | Forward Deployed AI Research Scientist 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/87744) | Oct 12, 2026 |
 | AMD | ML Systems Research Engineer, RL / Inference / Agent Systems 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/92704) | Oct 12, 2026 |
-| Snowflake | AI Associate, Office of the CEO 🇺🇸 | US-CA-Menlo Park | ashby | - | [Apply](https://jobs.ashbyhq.com/snowflake/88348d29-0ec4-475f-a54e-c6b247cbc6a8) | Oct 12, 2026 |
 | Nvidia | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) | Oct 12, 2026 |
 | Nvidia | Developer Technology Engineer, Public Sector - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) | Oct 12, 2026 |
 | CoreWeave | Software and AI Engineer 🇺🇸 | Sunnyvale, CA / Bellevue, WA / Dallas, TX | greenhouse | - | [Apply](https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006) | Oct 12, 2026 |
@@ -181,7 +180,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Security Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1) | Sep 23, 2026 |
 | Scale AI | Software Engineer, Public Sector - New Grad 🇺🇸 | San Francisco, CA | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | Sep 23, 2026 |
 | SpaceX | Full Stack Software Engineer 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8837547002?gh_jid=8837547002) | Sep 23, 2026 |
-| Qualcomm | Modem Systems Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721016647) | Sep 22, 2026 |
 | Qualcomm | Processor Design Verification Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721219398) | Sep 22, 2026 |
 | Anduril | 2027 Early Career Firmware Engineer 🇺🇸 | Costa Mesa, California, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Sep 22, 2026 |
 | Qualcomm | #Backend Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721162271) | Sep 21, 2026 |
@@ -392,7 +390,6 @@ how to fork, how to add companies, and how filtering works.
 | Applied Intuition | Research Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39) | Aug 14, 2026 |
 | Applied Intuition | Embedded Software Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | Aug 14, 2026 |
 | Applied Intuition | Software Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | Aug 14, 2026 |
-| Applied Intuition | Scenario Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf) | Aug 14, 2026 |
 | Anduril | Embedded Software Engineer, Manufacturing Test, Intelligence Systems 🇺🇸 | Santa Ana, California, United States | greenhouse | MS Student | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5212828007?gh_jid=5212828007) | Aug 14, 2026 |
 | SpaceX | Software Engineer (Starlink) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002) | Aug 13, 2026 |
 | Apple | Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities 🇺🇸 | Austin, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities) | Aug 12, 2026 |
@@ -647,13 +644,14 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (199)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (202)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
+| ~~Snowflake~~ | ~~AI Associate, Office of the CEO 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 12, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
 | ~~Apple~~ | ~~Custom ERC/Power-Intent Automation CAD Engineer 🇺🇸~~ | Sunnyvale, United States of America | apple | - | Closed | Oct 08, 2026 |
@@ -705,6 +703,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Perplexity AI~~ | ~~Member of Technical Staff (New Grad) 🇺🇸~~ | San Francisco | ashby | New Grad | Closed | Sep 24, 2026 |
 | ~~Apptronik~~ | ~~IROS 2026 - Robotics & AI Talent 🇺🇸~~ | Austin, Texas & Sunnyvale, California | greenhouse | - | Closed | Sep 23, 2026 |
 | ~~Qualcomm~~ | ~~Processor Design Verification Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 23, 2026 |
+| ~~Qualcomm~~ | ~~Modem Systems Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 22, 2026 |
 | ~~Broadcom~~ | ~~Emulation Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Sep 22, 2026 |
 | ~~Qualcomm~~ | ~~Backend Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 22, 2026 |
 | ~~Microsoft~~ | ~~Design Verification Engineer 🇺🇸~~ | Mountain View, CA, US | microsoft | - | Closed | Sep 22, 2026 |
@@ -803,6 +802,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Roblox~~ | ~~Software Engineer, Creator Business 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Aug 14, 2026 |
 | ~~Nvidia~~ | ~~GPU Verification Engineer - New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Aug 14, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Associate Resident Consultant (Remote) 🇺🇸~~ | 2 Locations | workday | - | Closed | Aug 14, 2026 |
+| ~~Applied Intuition~~ | ~~Scenario Engineer - New Grad (2027) 🇺🇸~~ | Sunnyvale | ashby | New Grad | Closed | Aug 14, 2026 |
 | ~~Adobe~~ | ~~Software Development Engineer 🇺🇸~~ | San Jose | workday | - | Closed | Aug 14, 2026 |
 | ~~Adobe~~ | ~~Photoshop Developer, GPU/Imaging 🇺🇸~~ | 4 Locations | workday | - | Closed | Aug 14, 2026 |
 | ~~Adobe~~ | ~~Software Development Engineer - Front End 🇺🇸~~ | San Francisco | workday | - | Closed | Aug 14, 2026 |
