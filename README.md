@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 601
-- **All-time tracked:** 803
+- **Open positions:** 599
+- **All-time tracked:** 805
 - **Active companies:** 159
-- **Last run (raw / matched):** 42324 postings fetched, 560 passed filters
-- **Last updated:** `2026-10-19 19:37 UTC`
+- **Last run (raw / matched):** 46661 postings fetched, 597 passed filters
+- **Last updated:** `2026-10-19 20:39 UTC`
 
 ## Legend
 
@@ -40,7 +40,9 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Austin, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200688599-0157/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
 | Broadcom | Field Applications Engineer 🇺🇸 | USA-CA San Jose Innovation Drive | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Field-Applications-Engineer_R027179) | Oct 19, 2026 |
+| Scale AI | Safety Research Scholar - Human Frontier Labs 🇺🇸 | Canada<br>United Kingdom<br>United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Oct 16, 2026 |
 | Lyft | Software Engineer 🇺🇸 | San Francisco, CA | greenhouse | - | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002) | Oct 16, 2026 |
 | Apptronik | CoRL 2026 - Robotics & AI Talent 🇺🇸 | Austin, Texas & Sunnyvale, California | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Wisconsin - Madison | lever | New Grad | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | Oct 16, 2026 |
@@ -180,6 +182,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Security Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1) | Sep 23, 2026 |
 | Scale AI | Software Engineer, Public Sector - New Grad 🇺🇸 | San Francisco, CA | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | Sep 23, 2026 |
 | SpaceX | Full Stack Software Engineer 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8837547002?gh_jid=8837547002) | Sep 23, 2026 |
+| Qualcomm | Modem Systems Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721016647) | Sep 22, 2026 |
 | Qualcomm | Processor Design Verification Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721219398) | Sep 22, 2026 |
 | Anduril | 2027 Early Career Firmware Engineer 🇺🇸 | Costa Mesa, California, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) | Sep 22, 2026 |
 | Qualcomm | #Backend Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721162271) | Sep 21, 2026 |
@@ -363,11 +366,6 @@ how to fork, how to add companies, and how filtering works.
 | xAI | OSP Engineer 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5215570007) | Aug 18, 2026 |
 | SpaceX | Integration & Test Engineer, AI Satellites (Starmind) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002) | Aug 18, 2026 |
 | Five Rings | LINK 2027: Software Development Intensive Program 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008) | Aug 18, 2026 |
-| Apple | iOS Engineer - Creator Studio 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200678174-0836/ios-engineer-creator-studio) | Aug 17, 2026 |
-| Apple | iOS Engineer - Creator Studio 🇺🇸 | Cary, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200678174-1435/ios-engineer-creator-studio) | Aug 17, 2026 |
-| Apple | iOS Engineer - Creator Studio 🇺🇸 | Pittsburgh, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200678174-2926/ios-engineer-creator-studio) | Aug 17, 2026 |
-| Apple | iOS Engineer - Creator Studio 🇺🇸 | Seattle, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200678174-3337/ios-engineer-creator-studio) | Aug 17, 2026 |
-| Apple | iOS Engineer - Creator Studio 🇺🇸 | San Diego, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200678174-3543/ios-engineer-creator-studio) | Aug 17, 2026 |
 | Roblox | Software Engineer, Foundation AI 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) | Aug 17, 2026 |
 | SpaceX | Security Software Engineer (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002) | Aug 17, 2026 |
 | SpaceX | Security Software Engineer (Starlink) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002) | Aug 17, 2026 |
@@ -644,7 +642,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (202)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (206)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -703,7 +701,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Perplexity AI~~ | ~~Member of Technical Staff (New Grad) 🇺🇸~~ | San Francisco | ashby | New Grad | Closed | Sep 24, 2026 |
 | ~~Apptronik~~ | ~~IROS 2026 - Robotics & AI Talent 🇺🇸~~ | Austin, Texas & Sunnyvale, California | greenhouse | - | Closed | Sep 23, 2026 |
 | ~~Qualcomm~~ | ~~Processor Design Verification Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 23, 2026 |
-| ~~Qualcomm~~ | ~~Modem Systems Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 22, 2026 |
 | ~~Broadcom~~ | ~~Emulation Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Sep 22, 2026 |
 | ~~Qualcomm~~ | ~~Backend Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 22, 2026 |
 | ~~Microsoft~~ | ~~Design Verification Engineer 🇺🇸~~ | Mountain View, CA, US | microsoft | - | Closed | Sep 22, 2026 |
@@ -796,6 +793,11 @@ how to fork, how to add companies, and how filtering works.
 | ~~Intuit~~ | ~~Software Engineer 1 🇺🇸~~ | New York, NY | linkedin | Early Career | Closed | Aug 23, 2026 |
 | ~~Google~~ | ~~Data Engineer, Google Maps 🇺🇸~~ | Mountain View, CA, USA | google_careers | - | Closed | Aug 20, 2026 |
 | ~~SpaceX~~ | ~~Full Stack Software Engineer, Employee Experience 🇺🇸~~ | Hawthorne, CA | greenhouse | - | Closed | Aug 18, 2026 |
+| ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Aug 17, 2026 |
+| ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | Cary, United States of America | apple | - | Closed | Aug 17, 2026 |
+| ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | Pittsburgh, United States of America | apple | - | Closed | Aug 17, 2026 |
+| ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | Seattle, United States of America | apple | - | Closed | Aug 17, 2026 |
+| ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | San Diego, United States of America | apple | - | Closed | Aug 17, 2026 |
 | ~~SpaceX~~ | ~~New Graduate Engineer, Silicon Engineering 🇺🇸~~ | Palo Alto, CA | greenhouse | New Grad | Closed | Aug 14, 2026 |
 | ~~SpaceX~~ | ~~New Graduate Engineer, Silicon Engineering 🇺🇸~~ | Irvine, CA | greenhouse | New Grad | Closed | Aug 14, 2026 |
 | ~~SpaceX~~ | ~~New Graduate Engineer, Silicon Engineering 🇺🇸~~ | Redmond, WA | greenhouse | New Grad | Closed | Aug 14, 2026 |
