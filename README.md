@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 604
+- **Open positions:** 602
 - **All-time tracked:** 802
 - **Active companies:** 159
-- **Last run (raw / matched):** 47881 postings fetched, 604 passed filters
-- **Last updated:** `2026-10-19 16:41 UTC`
+- **Last run (raw / matched):** 47869 postings fetched, 602 passed filters
+- **Last updated:** `2026-10-19 17:38 UTC`
 
 ## Legend
 
@@ -41,7 +41,6 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | Broadcom | Field Applications Engineer 🇺🇸 | USA-CA San Jose Innovation Drive | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Field-Applications-Engineer_R027179) | Oct 19, 2026 |
-| Anthropic | Software Engineer, Memory & Search 🇺🇸 | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5456453008) | Oct 19, 2026 |
 | Lyft | Software Engineer 🇺🇸 | San Francisco, CA | greenhouse | - | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002) | Oct 16, 2026 |
 | Apptronik | CoRL 2026 - Robotics & AI Talent 🇺🇸 | Austin, Texas & Sunnyvale, California | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Wisconsin - Madison | lever | New Grad | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | Oct 16, 2026 |
@@ -608,7 +607,6 @@ how to fork, how to add companies, and how filtering works.
 | Cerebras | AI Inference Core - Software Integration Engineer 🇺🇸 | United States and Canada | ashby | - | [Apply](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887) | Feb 05, 2026 |
 | ServiceNow | Associate Software Engineer, Core Infrastructure - Moveworks 🇺🇸 | Mountain View, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000107369741) | Feb 04, 2026 |
 | Hudson River Trading | Software Engineer - Python 🇺🇸 | Chicago, Illinois, United States<br>London, United Kingdom<br>New York, NY, United States | greenhouse | BS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013) | Feb 02, 2026 |
-| Hudson River Trading | Software Engineer - Treasury Infrastructure 🇺🇸 | New York, NY, United States | greenhouse | BS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583953) | Feb 02, 2026 |
 | Hudson River Trading | Research Engineer 🇺🇸 | London, United Kingdom<br>New York, NY, United States | greenhouse | BS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922) | Feb 02, 2026 |
 | SpaceX | Software Engineer, C++ - Top Secret Clearance 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8377056002?gh_jid=8377056002) | Jan 19, 2026 |
 | Anduril | Computer Vision Engineer, Space 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) | Jan 06, 2026 |
@@ -647,11 +645,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (198)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (200)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
@@ -839,6 +838,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~SpaceX~~ | ~~Application Software Engineer 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Apr 06, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Intelligence Systems 🇺🇸~~ | Reston, Virginia, United States | greenhouse | - | Closed | Mar 11, 2026 |
 | ~~OpenAI~~ | ~~Hardware Tools Engineer 🇺🇸~~ | San Francisco | ashby | - | Closed | Mar 02, 2026 |
+| ~~Hudson River Trading~~ | ~~Software Engineer - Treasury Infrastructure 🇺🇸~~ | New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Hudson River Trading~~ | ~~Software Engineer - AI Tools 🇺🇸~~ | Chicago, Illinois, United States<br>New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Scale AI~~ | ~~Machine Learning Research Scientist Agents - Enterprise GenAI 🇺🇸~~ | San Francisco, CA<br>New York, NY | greenhouse | - | Closed | Oct 31, 2025 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 27, 2025 |
