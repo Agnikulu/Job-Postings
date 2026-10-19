@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 605
+- **Open positions:** 604
 - **All-time tracked:** 802
 - **Active companies:** 159
-- **Last run (raw / matched):** 47887 postings fetched, 605 passed filters
-- **Last updated:** `2026-10-19 15:42 UTC`
+- **Last run (raw / matched):** 47881 postings fetched, 604 passed filters
+- **Last updated:** `2026-10-19 16:41 UTC`
 
 ## Legend
 
@@ -624,7 +624,6 @@ how to fork, how to add companies, and how filtering works.
 | CoreWeave | Software Engineer, Inference AI/ML 🇺🇸 | Sunnyvale, CA / Bellevue, WA | greenhouse | - | [Apply](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) | Oct 24, 2025 |
 | Nuro | Software Engineer, AI Platform - New Grad 🇺🇸 | Mountain View, California (HQ) | greenhouse | New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) | Oct 22, 2025 |
 | Waymo | Machine Learning Engineer / Applied Scientist, Prediction & Planning 🇺🇸 | Mountain View, CA USA<br>San Francisco, CA USA | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7309064) | Oct 08, 2025 |
-| Robinhood | Software Engineer 1, Backend 🇺🇸 | Menlo Park, CA<br>New York, NY | greenhouse | Early Career | [Apply](https://boards.greenhouse.io/robinhood/jobs/7263578?t=gh_src=&gh_jid=7263578) | Sep 27, 2025 |
 | Anduril | GNC Engineer, Space 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007) | Sep 11, 2025 |
 | Anduril | GNC Engineer, Space 🇺🇸 | Washington, District of Columbia, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4870871007?gh_jid=4870871007) | Sep 11, 2025 |
 | Applied Intuition | Research Engineer - Robotic Hardware, Simulation and Data 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/4cb44794-7b3b-46fc-9408-104a6d0f379e) | Aug 19, 2025 |
@@ -648,7 +647,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (197)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (198)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -843,6 +842,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Hudson River Trading~~ | ~~Software Engineer - AI Tools 🇺🇸~~ | Chicago, Illinois, United States<br>New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Scale AI~~ | ~~Machine Learning Research Scientist Agents - Enterprise GenAI 🇺🇸~~ | San Francisco, CA<br>New York, NY | greenhouse | - | Closed | Oct 31, 2025 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 27, 2025 |
+| ~~Robinhood~~ | ~~Software Engineer 1, Backend 🇺🇸~~ | Menlo Park, CA<br>New York, NY | greenhouse | Early Career | Closed | Sep 27, 2025 |
 | ~~Point72~~ | ~~Machine Learning Engineer 🇺🇸~~ | New York | greenhouse | PhD Student | Closed | Sep 15, 2025 |
 | ~~Mercor~~ | ~~Data Scientist 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 30, 2025 |
 | ~~Intuit~~ | ~~Software Engineer 1 🇺🇸~~ | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | Closed | Aug 14, 2025 |
