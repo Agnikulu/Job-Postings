@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 604
-- **All-time tracked:** 801
+- **Open positions:** 605
+- **All-time tracked:** 802
 - **Active companies:** 159
-- **Last run (raw / matched):** 47880 postings fetched, 604 passed filters
-- **Last updated:** `2026-10-19 14:41 UTC`
+- **Last run (raw / matched):** 47887 postings fetched, 605 passed filters
+- **Last updated:** `2026-10-19 15:42 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Broadcom | Field Applications Engineer 🇺🇸 | USA-CA San Jose Innovation Drive | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Field-Applications-Engineer_R027179) | Oct 19, 2026 |
 | Anthropic | Software Engineer, Memory & Search 🇺🇸 | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5456453008) | Oct 19, 2026 |
 | Lyft | Software Engineer 🇺🇸 | San Francisco, CA | greenhouse | - | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002) | Oct 16, 2026 |
 | Apptronik | CoRL 2026 - Robotics & AI Talent 🇺🇸 | Austin, Texas & Sunnyvale, California | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004) | Oct 16, 2026 |
