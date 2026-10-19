@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
-- **All-time tracked:** 805
+- **Open positions:** 600
+- **All-time tracked:** 807
 - **Active companies:** 159
-- **Last run (raw / matched):** 46661 postings fetched, 597 passed filters
-- **Last updated:** `2026-10-19 20:39 UTC`
+- **Last run (raw / matched):** 47903 postings fetched, 600 passed filters
+- **Last updated:** `2026-10-19 21:40 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Cupertino, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
+| Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Sunnyvale, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-3956/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
 | Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Austin, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200688599-0157/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
 | Broadcom | Field Applications Engineer 🇺🇸 | USA-CA San Jose Innovation Drive | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Field-Applications-Engineer_R027179) | Oct 19, 2026 |
 | Scale AI | Safety Research Scholar - Human Frontier Labs 🇺🇸 | Canada<br>United Kingdom<br>United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Oct 16, 2026 |
@@ -492,7 +494,6 @@ how to fork, how to add companies, and how filtering works.
 | IMC Trading | Graduate Deep Learning Researcher - New York 🇺🇸 | New York, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Jul 01, 2026 |
 | Anduril | Mission Software Engineer, EW 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007) | Jul 01, 2026 |
 | Waymo | Machine Learning Engineer, Maneuvering Tech 🇺🇸 | Mountain View, CA, USA<br>San Francisco, CA, USA<br>Pittsburgh, PA, USA | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8039191) | Jun 30, 2026 |
-| Airbnb | Data Scientist - Algorithms, Community Support 🇺🇸 | Remote - USA | greenhouse | - | [Apply](https://careers.airbnb.com/positions/8031901?gh_jid=8031901) | Jun 28, 2026 |
 | SpaceX | Software Engineer (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002) | Jun 26, 2026 |
 | SpaceX | Software Engineer, Vehicle Operations (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002) | Jun 26, 2026 |
 | SpaceX | Full Stack Software Engineer (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002) | Jun 26, 2026 |
@@ -642,7 +643,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (206)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (207)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -828,6 +829,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~DoorDash~~ | ~~Software Engineer, Spark Platform 🇺🇸~~ | San Francisco, CA<br>Seattle, WA<br>Sunnyvale, CA<br>New York, NY | greenhouse | - | Closed | Jul 02, 2026 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
+| ~~Airbnb~~ | ~~Data Scientist - Algorithms, Community Support 🇺🇸~~ | Remote - USA | greenhouse | - | Closed | Jun 28, 2026 |
 | ~~SpaceX~~ | ~~Application Software Engineer, Manufacturing Systems 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Jun 18, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Manufacturing Test 🇺🇸~~ | Costa Mesa, California, United States | greenhouse | MS Student | Closed | Jun 10, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Manufacturing Test 🇺🇸~~ | Mountain View, California, United States | greenhouse | MS Student | Closed | Jun 10, 2026 |
