@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 600
-- **All-time tracked:** 808
+- **Open positions:** 601
+- **All-time tracked:** 809
 - **Active companies:** 159
-- **Last run (raw / matched):** 47931 postings fetched, 600 passed filters
-- **Last updated:** `2026-10-19 22:38 UTC`
+- **Last run (raw / matched):** 47966 postings fetched, 601 passed filters
+- **Last updated:** `2026-10-19 23:38 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Qualcomm | Engineer – AI Model Enablement & Software Tools 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721638546) | Oct 19, 2026 |
 | Nvidia | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) | Oct 19, 2026 |
 | Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Cupertino, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
 | Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Sunnyvale, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-3956/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
