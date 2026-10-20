@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
+- **Open positions:** 598
 - **All-time tracked:** 812
 - **Active companies:** 159
-- **Last run (raw / matched):** 48051 postings fetched, 599 passed filters
-- **Last updated:** `2026-10-20 18:51 UTC`
+- **Last run (raw / matched):** 48058 postings fetched, 598 passed filters
+- **Last updated:** `2026-10-20 19:38 UTC`
 
 ## Legend
 
@@ -571,7 +571,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | RF Software Engineer (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8517637002?gh_jid=8517637002) | Apr 22, 2026 |
 | SpaceX | Embedded Software Engineer, OS/Platform (Starlink) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8511391002?gh_jid=8511391002) | Apr 21, 2026 |
 | OpenAI | Performance Modeling Engineer ~2 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb) | Apr 20, 2026 |
-| Apple | Machine Learning Engineer - Visual Agents - Special Projects 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200657911-0836/machine-learning-engineer-visual-agents-special-projects) | Apr 17, 2026 |
 | Voleon | Data Scientist 🇺🇸 | Berkeley, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/voleon/397d52ad-d965-4475-b869-a8de53600d9a) | Apr 17, 2026 |
 | Voleon | Systems Administrator (Corporate IT) 🇺🇸 | New York City, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/voleon/5f2b24fd-f819-455e-877b-2c6241555a6e) | Apr 17, 2026 |
 | Apple | Gate-level SigEM/SEB/FIT CAD Engineer 🇺🇸 | Austin Metro Area, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658138-0240/gate-level-sigem-seb-fit-cad-engineer) | Apr 15, 2026 |
@@ -642,7 +641,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (213)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (214)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -844,6 +843,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Cerebras~~ | ~~Member of Technical Staff (Software Engineer) 🇺🇸~~ | Sunnyvale, CA | ashby | - | Closed | May 08, 2026 |
 | ~~SpaceX~~ | ~~Embedded Software Engineer, OS/Platform (Starshield) 🇺🇸~~ | Hawthorne, CA | greenhouse | - | Closed | May 05, 2026 |
 | ~~Apptronik~~ | ~~Robotics Test Engineer 🇺🇸~~ | Onsite - Austin, TX | greenhouse | - | Closed | May 05, 2026 |
+| ~~Apple~~ | ~~Machine Learning Engineer - Visual Agents - Special Projects 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Apr 17, 2026 |
 | ~~SpaceX~~ | ~~Full Stack Software Engineer (Application Software) 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Apr 06, 2026 |
 | ~~SpaceX~~ | ~~Application Software Engineer 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Apr 06, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Intelligence Systems 🇺🇸~~ | Reston, Virginia, United States | greenhouse | - | Closed | Mar 11, 2026 |
