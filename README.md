@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 600
+- **Open positions:** 597
 - **All-time tracked:** 809
 - **Active companies:** 159
-- **Last run (raw / matched):** 48484 postings fetched, 598 passed filters
-- **Last updated:** `2026-10-20 06:53 UTC`
+- **Last run (raw / matched):** 47910 postings fetched, 597 passed filters
+- **Last updated:** `2026-10-20 07:43 UTC`
 
 ## Legend
 
@@ -99,8 +99,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2027] Senior Machine Learning Engineer - PhD Early Career 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) | Oct 08, 2026 |
 | Anduril | Project Engineer, AD&S 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261162007?gh_jid=5261162007) | Oct 08, 2026 |
 | Google | Security Engineer, Platforms and Devices 🇺🇸 | Mountain View, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/87326868012704454) | Oct 08, 2026 |
-| Qualcomm | Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721410827) | Oct 07, 2026 |
-| Qualcomm | Next-Gen System Cache ASIC Digital Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721413542) | Oct 07, 2026 |
 | Apple | Core OS Software Engineer - USB4/Thunderbolt 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt) | Oct 07, 2026 |
 | Zillow | Applied Scientist 🇺🇸 | Remote-USA | workday | - | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1) | Oct 07, 2026 |
 | Nvidia | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Oct 07, 2026 |
@@ -206,7 +204,6 @@ how to fork, how to add companies, and how filtering works.
 | Qualcomm | Engineering Technician 🇺🇸 | Boxborough, MA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446707211359) | Sep 17, 2026 |
 | Qualcomm | #Embedded Software Engineer – Device Driver Development 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446718891829) | Sep 17, 2026 |
 | Qualcomm | Machine Learning Researcher 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719107884) | Sep 17, 2026 |
-| Qualcomm | #Systems SoC Test Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719874307) | Sep 17, 2026 |
 | Qualcomm | Modem Integration & Test Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719948366) | Sep 17, 2026 |
 | Squarepoint Capital | Quantitative Researcher - Discretionary Oil 🇺🇸 | Houston | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423) | Sep 17, 2026 |
 | Stripe | Software Engineer, Early Career — Immediate Start 🇺🇸 | San Francisco, Seattle, New York | greenhouse | New Grad | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | Sep 17, 2026 |
@@ -643,7 +640,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (209)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (212)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -661,6 +658,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 08, 2026 |
 | ~~Intuit~~ | ~~OpenSource MTV - AI & Platform Engineering Developer Meetup - Fall 2026 🇺🇸~~ | Mountain View, CA | linkedin | - | Closed | Oct 08, 2026 |
 | ~~Apple~~ | ~~Test Engineer - Product Operations Graduate Programme 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 08, 2026 |
+| ~~Qualcomm~~ | ~~Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 07, 2026 |
+| ~~Qualcomm~~ | ~~Next-Gen System Cache ASIC Digital Design Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~Software Engineer, Siri User Experiences 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 07, 2026 |
 | ~~Riot Games~~ | ~~Software Engineer - Central Technology, Infrastructure (Optimize & Protect) 🇺🇸~~ | Los Angeles, USA | greenhouse | - | Closed | Oct 07, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Associate Resident Consultant (Remote) 🇺🇸~~ | USA - Remote | workday | - | Closed | Oct 07, 2026 |
@@ -720,6 +719,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Together AI~~ | ~~Software Engineer, New Grad (2027) 🇺🇸~~ | San Francisco | greenhouse | New Grad | Closed | Sep 18, 2026 |
 | ~~Qualcomm~~ | ~~Camera Power Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 18, 2026 |
 | ~~Qualcomm~~ | ~~Video DV Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
+| ~~Qualcomm~~ | ~~#Systems SoC Test Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Pure Storage~~ | ~~Associate Security Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Sep 17, 2026 |
 | ~~Pure Storage~~ | ~~Associate Security Engineer 🇺🇸~~ | Lehi, Utah | greenhouse | - | Closed | Sep 17, 2026 |
 | ~~Nvidia~~ | ~~AI Compiler Engineer- New College Grad 2027 🇺🇸~~ | 3 Locations | workday | New Grad | Closed | Sep 17, 2026 |
