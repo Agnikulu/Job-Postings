@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 601
+- **Open positions:** 600
 - **All-time tracked:** 809
 - **Active companies:** 159
-- **Last run (raw / matched):** 47966 postings fetched, 601 passed filters
-- **Last updated:** `2026-10-19 23:38 UTC`
+- **Last run (raw / matched):** 48470 postings fetched, 598 passed filters
+- **Last updated:** `2026-10-20 01:07 UTC`
 
 ## Legend
 
@@ -40,7 +40,6 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
-| Qualcomm | Engineer – AI Model Enablement & Software Tools 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721638546) | Oct 19, 2026 |
 | Nvidia | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) | Oct 19, 2026 |
 | Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Cupertino, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
 | Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Sunnyvale, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-3956/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
@@ -644,11 +643,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (208)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (209)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Qualcomm~~ | ~~Engineer – AI Model Enablement & Software Tools 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 19, 2026 |
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
 | ~~Snowflake~~ | ~~AI Associate, Office of the CEO 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 12, 2026 |
