@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 598
+- **Open positions:** 594
 - **All-time tracked:** 812
 - **Active companies:** 159
-- **Last run (raw / matched):** 46838 postings fetched, 596 passed filters
-- **Last updated:** `2026-10-20 21:44 UTC`
+- **Last run (raw / matched):** 46816 postings fetched, 592 passed filters
+- **Last updated:** `2026-10-20 22:40 UTC`
 
 ## Legend
 
@@ -41,7 +41,6 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | Broadcom | Field Applications Engineer 🇺🇸 | USA-NC-Remote Location | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Remote-Location/Field-Applications-Engineer_R027179) | Oct 20, 2026 |
-| Waymo | Product Data Scientist - Marketplace Logistics 🇺🇸 | Mountain View, CA, USA, San Francisco, CA, USA | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8286842) | Oct 20, 2026 |
 | Verily | Cloud Engineer - NCG 🇺🇸 | Raleigh, North Carolina | workday | - | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330) | Oct 20, 2026 |
 | Nvidia | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) | Oct 19, 2026 |
 | Apple | Software Engineer, IS&T Early Career Opportunities 🇺🇸 | Cupertino, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities) | Oct 19, 2026 |
@@ -75,11 +74,8 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | SRAM Circuit Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | Oct 13, 2026 |
 | AMD | Forward Deployed AI Research Scientist 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/87744) | Oct 12, 2026 |
 | AMD | ML Systems Research Engineer, RL / Inference / Agent Systems 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/92704) | Oct 12, 2026 |
-| Nvidia | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) | Oct 12, 2026 |
-| Nvidia | Developer Technology Engineer, Public Sector - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) | Oct 12, 2026 |
 | CoreWeave | Software and AI Engineer 🇺🇸 | Sunnyvale, CA / Bellevue, WA / Dallas, TX | greenhouse | - | [Apply](https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006) | Oct 12, 2026 |
 | Apple | OS Software Engineer, Evaluation 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation) | Oct 12, 2026 |
-| Nvidia | Software Engineer, DL Kernel Libraries - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | Oct 11, 2026 |
 | Shield AI | Engineer I, Software - Factory Team (R6235) 🇺🇸 | Washington, D.C. | lever | Early Career | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | Oct 10, 2026 |
 | Shield AI | Engineer I, Software Test and Automation (R6216) 🇺🇸 | Washington, D.C. | lever | Early Career | [Apply](https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7) | Oct 10, 2026 |
 | Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446720708572) | Oct 09, 2026 |
@@ -641,18 +637,22 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (214)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (218)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Waymo~~ | ~~Product Data Scientist - Marketplace Logistics 🇺🇸~~ | Mountain View, CA, USA, San Francisco, CA, USA | greenhouse | - | Closed | Oct 20, 2026 |
 | ~~Qualcomm~~ | ~~Engineer – AI Model Enablement & Software Tools 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 19, 2026 |
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Oct 19, 2026 |
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
 | ~~Snowflake~~ | ~~AI Associate, Office of the CEO 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 12, 2026 |
+| ~~Nvidia~~ | ~~Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Oct 12, 2026 |
+| ~~Nvidia~~ | ~~Developer Technology Engineer, Public Sector - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 12, 2026 |
 | ~~Apple~~ | ~~Platform & Data Engineer 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 12, 2026 |
+| ~~Nvidia~~ | ~~Software Engineer, DL Kernel Libraries - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 11, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
 | ~~Apple~~ | ~~Custom ERC/Power-Intent Automation CAD Engineer 🇺🇸~~ | Sunnyvale, United States of America | apple | - | Closed | Oct 08, 2026 |
