@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 596
 - **All-time tracked:** 814
 - **Active companies:** 159
-- **Last run (raw / matched):** 47333 postings fetched, 581 passed filters
-- **Last updated:** `2026-10-21 06:49 UTC`
+- **Last run (raw / matched):** 48133 postings fetched, 596 passed filters
+- **Last updated:** `2026-10-21 07:41 UTC`
 
 ## Legend
 
@@ -40,8 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
-| Nvidia | Power Architect - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | Oct 21, 2026 |
-| Nvidia | Software Engineer, Agent Performance Modeling - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) | Oct 21, 2026 |
+| Nvidia | Power Architect - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | Oct 20, 2026 |
+| Nvidia | Software Engineer, Agent Performance Modeling - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) | Oct 20, 2026 |
 | Broadcom | Field Applications Engineer 🇺🇸 | USA-NC-Remote Location | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Remote-Location/Field-Applications-Engineer_R027179) | Oct 20, 2026 |
 | Verily | Cloud Engineer - NCG 🇺🇸 | Raleigh, North Carolina | workday | - | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330) | Oct 20, 2026 |
 | Nvidia | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) | Oct 19, 2026 |
