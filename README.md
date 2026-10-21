@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 600
 - **All-time tracked:** 819
 - **Active companies:** 159
-- **Last run (raw / matched):** 46875 postings fetched, 598 passed filters
-- **Last updated:** `2026-10-21 20:41 UTC`
+- **Last run (raw / matched):** 47356 postings fetched, 585 passed filters
+- **Last updated:** `2026-10-21 21:37 UTC`
 
 ## Legend
 
@@ -40,7 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
-| Xaira Therapeutics | Lab Automation - Robotics Systems & Simulation Engineer 🇺🇸 | South San Francisco, California, United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007) | Oct 21, 2026 |
+| Xaira Therapeutics | Robotics Systems & Simulation Engineer 🇺🇸 | South San Francisco, California, United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007) | Oct 21, 2026 |
 | Nvidia | High-Performance LLM Training Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237) | Oct 21, 2026 |
 | Etsy | Software Engineer I, Marketplace Makers 🇺🇸 | Brooklyn, New York | workday | Early Career | [Apply](https://etsy.wd5.myworkdayjobs.com/en-US/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1) | Oct 21, 2026 |
 | IMC Trading | CHI - 2026 - Systems Engineer 🇺🇸 | Chicago, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/5004989101) | Oct 21, 2026 |
