@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 597
-- **All-time tracked:** 828
+- **Open positions:** 598
+- **All-time tracked:** 829
 - **Active companies:** 159
-- **Last run (raw / matched):** 47359 postings fetched, 551 passed filters
-- **Last updated:** `2026-10-22 21:33 UTC`
+- **Last run (raw / matched):** 50081 postings fetched, 598 passed filters
+- **Last updated:** `2026-10-22 22:38 UTC`
 
 ## Legend
 
@@ -40,8 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Waymo | Machine Learning Engineer, Scenes 🇺🇸 | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8212626) | Oct 22, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
-| Okta | Solutions Engineering Associate, Auth0 🇺🇸 | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | [Apply](https://www.okta.com/company/careers/opportunity/8314196?gh_jid=8314196) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
@@ -106,6 +106,7 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2027] Senior Machine Learning Engineer - PhD Early Career 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) | Oct 08, 2026 |
 | Anduril | Project Engineer, AD&S 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261162007?gh_jid=5261162007) | Oct 08, 2026 |
 | Google | Security Engineer, Platforms and Devices 🇺🇸 | Mountain View, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/87326868012704454) | Oct 08, 2026 |
+| Qualcomm | Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721410827) | Oct 07, 2026 |
 | Qualcomm | Next-Gen System Cache ASIC Digital Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721413542) | Oct 07, 2026 |
 | Apple | Core OS Software Engineer - USB4/Thunderbolt 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt) | Oct 07, 2026 |
 | Zillow | Applied Scientist 🇺🇸 | Remote-USA | workday | - | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1) | Oct 07, 2026 |
@@ -645,6 +646,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Okta~~ | ~~Solutions Engineering Associate, Auth0 🇺🇸~~ | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | New York City, New York | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Waymo~~ | ~~Product Data Scientist - Marketplace Logistics 🇺🇸~~ | Mountain View, CA, USA, San Francisco, CA, USA | greenhouse | - | Closed | Oct 20, 2026 |
 | ~~Qualcomm~~ | ~~Engineer – AI Model Enablement & Software Tools 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 19, 2026 |
@@ -669,7 +671,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 08, 2026 |
 | ~~Intuit~~ | ~~OpenSource MTV - AI & Platform Engineering Developer Meetup - Fall 2026 🇺🇸~~ | Mountain View, CA | linkedin | - | Closed | Oct 08, 2026 |
 | ~~Apple~~ | ~~Test Engineer - Product Operations Graduate Programme 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 08, 2026 |
-| ~~Qualcomm~~ | ~~Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~Software Engineer, Siri User Experiences 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 07, 2026 |
 | ~~Riot Games~~ | ~~Software Engineer - Central Technology, Infrastructure (Optimize & Protect) 🇺🇸~~ | Los Angeles, USA | greenhouse | - | Closed | Oct 07, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Associate Resident Consultant (Remote) 🇺🇸~~ | USA - Remote | workday | - | Closed | Oct 07, 2026 |
