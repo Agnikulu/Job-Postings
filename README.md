@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 603
+- **Open positions:** 601
 - **All-time tracked:** 822
 - **Active companies:** 159
-- **Last run (raw / matched):** 45929 postings fetched, 567 passed filters
-- **Last updated:** `2026-10-21 23:38 UTC`
+- **Last run (raw / matched):** 49930 postings fetched, 604 passed filters
+- **Last updated:** `2026-10-22 01:06 UTC`
 
 ## Legend
 
@@ -64,7 +64,6 @@ how to fork, how to add companies, and how filtering works.
 | Together AI | Hardware Security Engineer, New Grad (2027) 🇺🇸 | San Francisco | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | Oct 16, 2026 |
 | Intuit | Software Engineer 1 🇺🇸 | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536) | Oct 15, 2026 |
 | Affirm | Software Engineer I, Fullstack (Search) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Oct 15, 2026 |
-| Apple | Machine Learning Engineer, Creative Intelligence Systems 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems) | Oct 15, 2026 |
 | Microsoft | Design Verification Engineer - Fabric Interconnect 🇺🇸 | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557039427) | Oct 15, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722249006) | Oct 15, 2026 |
 | Skydio | Product Design Engineer (Early Career) 🇺🇸 | San Mateo, California, United States | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | Oct 15, 2026 |
@@ -75,7 +74,6 @@ how to fork, how to add companies, and how filtering works.
 | Veeva Systems | Associate QA Engineer 🇺🇸 | Massachusetts - Boston | lever | - | [Apply](https://jobs.lever.co/veeva/a35bb73f-41fb-4a2d-be86-bba12a7d74d8) | Oct 14, 2026 |
 | Bloomberg LP | Bloomberg Intelligence - Credit Strategy Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Credit-Strategy-Research-Associate/21020) | Oct 14, 2026 |
 | Replit | Data Scientist, Growth 🇺🇸 | Foster City, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f) | Oct 13, 2026 |
-| Nvidia | Formal Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627) | Oct 13, 2026 |
 | Nvidia | SoC Software Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) | Oct 13, 2026 |
 | Nvidia | SoC Software Engineer – New College Graduate 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | Oct 13, 2026 |
 | Nvidia | ASIC Verification Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | Oct 13, 2026 |
@@ -646,7 +644,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (219)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (221)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -655,8 +653,10 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Engineer – AI Model Enablement & Software Tools 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 19, 2026 |
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Oct 19, 2026 |
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
+| ~~Apple~~ | ~~Machine Learning Engineer, Creative Intelligence Systems 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 15, 2026 |
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
+| ~~Nvidia~~ | ~~Formal Verification Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 13, 2026 |
 | ~~Snowflake~~ | ~~AI Associate, Office of the CEO 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 12, 2026 |
 | ~~Nvidia~~ | ~~Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Oct 12, 2026 |
 | ~~Nvidia~~ | ~~Developer Technology Engineer, Public Sector - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 12, 2026 |
