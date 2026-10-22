@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 600
-- **All-time tracked:** 826
+- **Open positions:** 601
+- **All-time tracked:** 827
 - **Active companies:** 159
-- **Last run (raw / matched):** 48172 postings fetched, 600 passed filters
-- **Last updated:** `2026-10-22 18:45 UTC`
+- **Last run (raw / matched):** 45993 postings fetched, 552 passed filters
+- **Last updated:** `2026-10-22 19:29 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Okta | Solutions Engineering Associate, Auth0 🇺🇸 | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | [Apply](https://www.okta.com/company/careers/opportunity/8314196?gh_jid=8314196) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
