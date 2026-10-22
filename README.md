@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 600
-- **All-time tracked:** 822
+- **Open positions:** 602
+- **All-time tracked:** 824
 - **Active companies:** 159
-- **Last run (raw / matched):** 46943 postings fetched, 598 passed filters
-- **Last updated:** `2026-10-22 05:39 UTC`
+- **Last run (raw / matched):** 48586 postings fetched, 600 passed filters
+- **Last updated:** `2026-10-22 06:51 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
+| Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
 | Pure Storage | Junior DevOps Engineer 🇺🇸 | Santa Clara, California | greenhouse | - | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8282746) | Oct 21, 2026 |
 | Affirm | Analyst, Early Career (Full Stack) 🇺🇸 | New York, New York, United States<br>San Francisco, California, United States | greenhouse | BS Student, New Grad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | Oct 21, 2026 |
 | Xaira Therapeutics | Robotics Systems & Simulation Engineer 🇺🇸 | South San Francisco, California, United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5255784007) | Oct 21, 2026 |
