@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 601
+- **Open positions:** 600
 - **All-time tracked:** 825
 - **Active companies:** 159
-- **Last run (raw / matched):** 49854 postings fetched, 601 passed filters
-- **Last updated:** `2026-10-22 08:45 UTC`
+- **Last run (raw / matched):** 48189 postings fetched, 600 passed filters
+- **Last updated:** `2026-10-22 09:38 UTC`
 
 ## Legend
 
@@ -129,7 +129,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Dynamics Engineer (Starship) 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8869718002?gh_jid=8869718002) | Oct 05, 2026 |
 | SpaceX | IT Network Infrastructure Technician (Night Shift) 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8869126002?gh_jid=8869126002) | Oct 05, 2026 |
 | Nuro | New Grad Software Engineer, Product Engineering 🇺🇸 | Mountain View, California (HQ) | greenhouse | New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8248317) | Oct 05, 2026 |
-| Google DeepMind | Robotics Engineer, Health and Calibration, DeepMind 🇺🇸 | Cambridge, MA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/93340518011806406) | Oct 05, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | GB,Cambridge | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/89974) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Washington, DC | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002) | Oct 02, 2026 |
@@ -644,7 +643,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (224)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (225)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -681,6 +680,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 07, 2026 |
 | ~~Nvidia~~ | ~~Systems Software Engineer,  AI and Cloud - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 06, 2026 |
 | ~~Atlassian~~ | ~~Data Engineer, 2027 Graduate U.S 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Oct 05, 2026 |
+| ~~Google DeepMind~~ | ~~Robotics Engineer, Health and Calibration, DeepMind 🇺🇸~~ | Cambridge, MA, USA | google_careers | - | Closed | Oct 05, 2026 |
 | ~~Apple~~ | ~~Early Career - 5G/4G Physical Layer Firmware Verification and Integration Engineer (m/f/d) 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | New Grad | Closed | Oct 05, 2026 |
 | ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 04, 2026 |
 | ~~Apple~~ | ~~Junior Software Development Engineer in Test, Retail Engineering - IS&T 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 04, 2026 |
