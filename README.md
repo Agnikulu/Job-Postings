@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 602
-- **All-time tracked:** 824
+- **Open positions:** 601
+- **All-time tracked:** 825
 - **Active companies:** 159
-- **Last run (raw / matched):** 49862 postings fetched, 602 passed filters
-- **Last updated:** `2026-10-22 07:46 UTC`
+- **Last run (raw / matched):** 49854 postings fetched, 601 passed filters
+- **Last updated:** `2026-10-22 08:45 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
 | Pure Storage | Junior DevOps Engineer 🇺🇸 | Santa Clara, California | greenhouse | - | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8282746) | Oct 21, 2026 |
@@ -182,8 +183,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Integration & Test Engineer (Falcon & Dragon) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8843919002?gh_jid=8843919002) | Sep 24, 2026 |
 | Discord | Data Scientist - Client Platform 🇺🇸 | San Francisco Bay Area | greenhouse | - | [Apply](https://job-boards.greenhouse.io/discord/jobs/8840756002) | Sep 24, 2026 |
 | SpaceX | Construction Supervisor, Power Systems 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8843098002?gh_jid=8843098002) | Sep 24, 2026 |
-| Adobe | 2027 University Graduate - Machine Learning Engineer 🇺🇸 | 7 Locations | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) | Sep 24, 2026 |
-| Adobe | 2027 University Graduate - Software Engineer 🇺🇸 | 6 Locations | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) | Sep 24, 2026 |
 | SpaceX | Full Stack Software Engineer (Components) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002) | Sep 23, 2026 |
 | Nvidia | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | Sep 23, 2026 |
 | Nvidia | Security Architect - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1) | Sep 23, 2026 |
@@ -645,7 +644,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (222)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (224)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -711,6 +710,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Microsoft~~ | ~~Software Engineer I - CTJ - Poly 🇺🇸~~ | Reston, VA, US | microsoft | Early Career | Closed | Sep 25, 2026 |
 | ~~GitHub~~ | ~~Java Software Engineer 🇺🇸~~ | Southlake, TX | linkedin | - | Closed | Sep 25, 2026 |
 | ~~Atlassian~~ | ~~Machine Learning Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 25, 2026 |
+| ~~Adobe~~ | ~~2027 University Graduate - Machine Learning Engineer 🇺🇸~~ | 7 Locations | workday | New Grad | Closed | Sep 24, 2026 |
+| ~~Adobe~~ | ~~2027 University Graduate - Software Engineer 🇺🇸~~ | 6 Locations | workday | New Grad | Closed | Sep 24, 2026 |
 | ~~Perplexity AI~~ | ~~Member of Technical Staff (New Grad) 🇺🇸~~ | San Francisco | ashby | New Grad | Closed | Sep 24, 2026 |
 | ~~Nuro~~ | ~~Software Engineer, Performance Tooling and Infrastructure New Grad 🇺🇸~~ | Mountain View, California (HQ) | greenhouse | New Grad | Closed | Sep 23, 2026 |
 | ~~Apptronik~~ | ~~IROS 2026 - Robotics & AI Talent 🇺🇸~~ | Austin, Texas & Sunnyvale, California | greenhouse | - | Closed | Sep 23, 2026 |
