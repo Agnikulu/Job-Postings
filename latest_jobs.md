@@ -1,6 +1,6 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-22 19:29 UTC  
+**Run timestamp:** 2026-10-22 20:38 UTC  
 **New matches this run:** 1  
 **Location filter:** US-only
 
@@ -8,6 +8,6 @@
 Grouped by company (sorted by match count):
 
 
-## Okta - 1 new (1 technical)
+## Cursor - 1 new (1 technical)
 
-- **[TECH]** [Solutions Engineering Associate, Auth0](https://www.okta.com/company/careers/opportunity/8314196?gh_jid=8314196) - *Florida; New York, New York; Pennsylvania; Washington, DC*
+- **[TECH]** [Software Engineer, Compute Infra](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) - *San Francisco*
