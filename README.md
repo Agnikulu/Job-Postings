@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
-- **All-time tracked:** 831
+- **Open positions:** 600
+- **All-time tracked:** 832
 - **Active companies:** 159
-- **Last run (raw / matched):** 48814 postings fetched, 597 passed filters
-- **Last updated:** `2026-10-23 15:41 UTC`
+- **Last run (raw / matched):** 44377 postings fetched, 566 passed filters
+- **Last updated:** `2026-10-23 16:44 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Databricks | Associate Forward Deployed Engineer 🇺🇸 | Mountain View, California | greenhouse | - | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) | Oct 23, 2026 |
 | Shield AI | Software Engineer I - New Grad (R6052) 🇺🇸 | Seattle, Washington | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
 | Waymo | Machine Learning Engineer, Scenes 🇺🇸 | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8212626) | Oct 22, 2026 |
