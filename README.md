@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 598
-- **All-time tracked:** 829
+- **Open positions:** 599
+- **All-time tracked:** 830
 - **Active companies:** 159
-- **Last run (raw / matched):** 50097 postings fetched, 598 passed filters
-- **Last updated:** `2026-10-22 23:37 UTC`
+- **Last run (raw / matched):** 48256 postings fetched, 599 passed filters
+- **Last updated:** `2026-10-23 01:05 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 23, 2026 |
 | Waymo | Machine Learning Engineer, Scenes 🇺🇸 | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8212626) | Oct 22, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
