@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
+- **Open positions:** 598
 - **All-time tracked:** 830
 - **Active companies:** 159
-- **Last run (raw / matched):** 48269 postings fetched, 599 passed filters
-- **Last updated:** `2026-10-23 06:49 UTC`
+- **Last run (raw / matched):** 48257 postings fetched, 599 passed filters
+- **Last updated:** `2026-10-23 07:43 UTC`
 
 ## Legend
 
@@ -40,7 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
-| Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 23, 2026 |
+| Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
 | Waymo | Machine Learning Engineer, Scenes 🇺🇸 | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8212626) | Oct 22, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
@@ -281,7 +281,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | New Graduate Engineer, Power Generation (Starship) 🇺🇸 | Starbase, TX | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) | Sep 11, 2026 |
 | CoreWeave | Software Engineer 🇺🇸 | Bellevue, WA / Sunnyvale, CA / San Francisco, CA / Livingston, NJ / Manhattan, NY / Philadelphia, PA / Dallas, TX | greenhouse | - | [Apply](https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006) | Sep 11, 2026 |
 | Adobe | Machine Learning Engineer 🇺🇸 | San Jose | workday | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171718) | Sep 11, 2026 |
-| Adobe | Machine Learning Engineer 🇺🇸 | San Jose | workday | - | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171719) | Sep 11, 2026 |
 | SpaceX | Software Engineer, Test Engineering and Operations 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002) | Sep 10, 2026 |
 | SpaceX | Security Software Engineer (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8795658002?gh_jid=8795658002) | Sep 10, 2026 |
 | SpaceX | Security Software Engineer (Starshield) 🇺🇸 | Washington, DC | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8795665002?gh_jid=8795665002) | Sep 10, 2026 |
@@ -642,7 +641,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (231)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (232)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -763,6 +762,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Software Engineer - Modem 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 11, 2026 |
 | ~~Intuit~~ | ~~Software Engineer 1 🇺🇸~~ | Atlanta, GA | linkedin | Early Career | Closed | Sep 11, 2026 |
 | ~~Intuit~~ | ~~Software Engineer 1 🇺🇸~~ | San Diego, CA | linkedin | Early Career | Closed | Sep 11, 2026 |
+| ~~Adobe~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Jose | workday | - | Closed | Sep 11, 2026 |
 | ~~SIG~~ | ~~Quantitative Strategy Developer - New Grad 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | New Grad | Closed | Sep 10, 2026 |
 | ~~Okta~~ | ~~Solutions Engineering Associate, Okta 🇺🇸~~ | Boston, Massachusetts<br>New York, New York<br>Pennsylvania | greenhouse | - | Closed | Sep 10, 2026 |
 | ~~Nvidia~~ | ~~ASIC Design Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 10, 2026 |
