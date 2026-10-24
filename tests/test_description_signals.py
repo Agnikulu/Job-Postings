@@ -410,10 +410,13 @@ def test_senior_skips_description_fetch() -> None:
     assert should_fetch_description("Senior Software Engineer") is False
 
 
-def test_perplexity_mts_policy_excluded() -> None:
+def test_perplexity_mts_new_grads_welcome_rescued() -> None:
+    # A bare MTS title is experienced by default, but this body explicitly
+    # invites new grads, so the description rescue lets it through (recall
+    # over precision: a missed new-grad posting costs more than a noisy one).
     conf = classify_title_confidence(
         "Member of Technical Staff (AI Policy and Strategic Initiatives)",
         "Exceptionally talented early-career engineers (new grads welcome).",
     )
-    assert conf.level == "high_exclude"
-    assert conf.reason == "experienced mts title"
+    assert conf.level == "high_include"
+    assert conf.reason == "description invites early career"

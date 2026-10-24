@@ -41,7 +41,7 @@ TARGET = re.compile(
     r"(?<!excluding\s)(?<!exclude\s)(?<!excludes\s)"
     r"(?<!does\snot\scount\s)(?<!doesn't\scount\s)"
     r"intern(ships?)?|co-?op|new[\s-]?grad(uate)?|new\s+college\s+grad|"
-    r"university\s+graduate|"
+    r"new\s+ph\.?\s?d\.?\s+grad(?:uate)?|university\s+grad(?:uate)?|university\s+hire|college\s+grad(?:uate)?|graduate\s+(?:hire|program(?:me)?)|"
     r"early[\s-]career(?:s)?|entry[\s-]level|campus|"
     r"apprentice|trainee|recent\s+graduate|"
     r"member\s+of\s+technical\s+staff|\bmts\b|"
@@ -98,7 +98,7 @@ DOMAIN = re.compile(
 # Early-career cues — if present, never pre-filter.
 _PREFILTER_EARLY_CAREER = re.compile(
     r"\b("
-    r"intern(ships?)?|co-?op|new[\s-]?grad(uate)?|university\s+graduate|"
+    r"intern(ships?)?|co-?op|new[\s-]?grad(uate)?|university\s+grad(?:uate)?|university\s+hire|college\s+grad(?:uate)?|graduate\s+(?:hire|program(?:me)?)|"
     r"early[\s-]career|entry[\s-]level|campus|apprentice|trainee|"
     r"202[4-9]"
     r")\b",
@@ -194,7 +194,8 @@ _TECHNICAL_ADVISOR = re.compile(r"\btechnical\s+advisor\b", re.IGNORECASE)
 _RESEARCH_EC_TITLE_MARKER = re.compile(
     r"\b(?:"
     r"intern(ships?)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
-    r"university|campus|student\s+researcher|"
+    r"university|campus|student\s+researcher|college\s+grad(?:uate)?|"
+    r"new\s+ph\.?\s?d\.?\s+grad(?:uate)?|"
     r"phd\s+(?:research\s+)?intern|(?:research\s+)?intern,\s*phd"
     r")\b",
     re.IGNORECASE,
@@ -351,7 +352,7 @@ _FINANCE_TRADER = re.compile(
 _EXPLICIT_EC_TITLE = re.compile(
     r"\b("
     r"intern(ships?)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad|"
-    r"university\s+graduate|recent\s+graduate|early[\s-]career|"
+    r"new\s+ph\.?\s?d\.?\s+grad(?:uate)?|university\s+grad(?:uate)?|university\s+hire|college\s+grad(?:uate)?|graduate\s+(?:hire|program(?:me)?)|recent\s+graduate|early[\s-]career|"
     r"entry[\s-]level|campus\s+(?:hire|recruiting|program)|"
     r"apprentice|trainee|engineer\s+i\b|engineer\s+1\b|202[4-9]"
     r")\b",
@@ -380,7 +381,7 @@ _HARD_EXPERIENCED_LADDER = _EXPERIENCED_LEVEL_TITLE
 _OPEN_LEVEL_EXPLICIT_EC = re.compile(
     r"\b("
     r"intern(ships?)?|co-?op|new[\s-]?grad(?:uate)?|new\s+college\s+grad(?:uate)?|"
-    r"university\s+graduate|recent\s+graduate|early[\s-]career|"
+    r"university\s+grad(?:uate)?|university\s+hire|college\s+grad(?:uate)?|graduate\s+(?:hire|program(?:me)?)|recent\s+graduate|early[\s-]career|"
     r"entry[\s-]level|campus\s+(?:hire|recruiting|program)|"
     r"apprentice|trainee|engineer\s+i\b|engineer\s+1\b"
     r")\b",
@@ -458,7 +459,8 @@ _BACHELORS_PLUS_YEARS = re.compile(
 
 _OBVIOUS_SENIOR = re.compile(
     r"\b("
-    r"senior|sr\.?|snr\.?|principal|director|"
+    r"senior|sr\.?|snr\.?|principal|director|distinguished|"
+    r"experienced(?:\s*/\s*lateral)?|lateral\s+hire|"
     r"manager|head\s+of|"
     r"group\s+leader|team\s+leader|"
     r"postdoc(?:toral)?|"
@@ -482,6 +484,58 @@ _OBVIOUS_LEAD = re.compile(
     r")\b",
     re.IGNORECASE,
 )
+
+# One req opened to several levels at once ("Entry Level & Senior Software
+# Engineer", "[Junior / Senior / Staff] Software Engineer") is still open to
+# new grads, so the senior word must not veto it.
+_MULTI_LEVEL_EC_TITLE = re.compile(
+    r"\b(?:entry[\s-]level|junior|jr\.?|new[\s-]?grad(?:uate)?|early[\s-]career|"
+    r"university\s+grad(?:uate)?|college\s+grad(?:uate)?)\b"
+    # ...but not when it names who the senior hire works with ("New Grad Team Lead")
+    r"(?!\s+(?:team|program(?:s|me)?|hiring|recruit\w*|lead|manager|talent))",
+    re.IGNORECASE,
+)
+
+# "Fellow" as a job rank (AMD Fellow, Senior Fellow) rather than a fellowship
+# program. Only treated as senior when the posting also states a senior bar.
+_FELLOW_RANK_TITLE = re.compile(r"\bfellow\b", re.IGNORECASE)
+_FELLOW_PROGRAM_TITLE = re.compile(
+    r"\b(?:research|student|graduate|summer|ai\s+research)\s+fellow\b|\bfellowship\b|202[4-9]",
+    re.IGNORECASE,
+)
+
+# Context words that make an early-career keyword in the requirements text
+# describe someone else ("mentor junior engineers", "hire and manage two
+# entry-level engineers") rather than the applicant.
+_ABOUT_OTHERS_BEFORE = re.compile(
+    r"\b(?:mentor(?:ing|ship)?|manag(?:e|ing)|hir(?:e|ing)|lead(?:ing|ership)?|"
+    r"coach(?:ing)?|grow(?:ing)?|develop(?:ing)?|train(?:ing)?|support(?:ing)?|"
+    r"onboard(?:ing)?)\s+(?:of\s+)?(?:\w+\s+){0,3}$",
+    re.IGNORECASE,
+)
+
+
+def _req_has_target(req_text: str | None) -> bool:
+    """TARGET match in the requirements that actually describes the applicant.
+
+    Bare "fellow" / "resident" / "campus" in a requirements block are almost
+    never cohort markers ("prior work as a Distinguished Engineer, Fellow",
+    "US residents", "expanding to a campus"), so they don't count there.
+    """
+    if not req_text:
+        return False
+    for m in TARGET.finditer(req_text):
+        word = m.group(0).lower()
+        if word in {"fellow", "resident", "residency"}:
+            continue
+        if word == "campus" and not re.match(
+            r"\s+(?:hire|recruit|program)", req_text[m.end():], re.IGNORECASE
+        ):
+            continue
+        if _ABOUT_OTHERS_BEFORE.search(req_text[max(0, m.start() - 60):m.start()]):
+            continue
+        return True
+    return False
 
 # Unmistakably non-technical — never SWE/DS/AI-ML intern or new grad targets.
 _OBVIOUS_NON_TECH = re.compile(
@@ -1044,7 +1098,7 @@ class TitleConfidence:
     reason: str | None = None
 
 
-def classify_title_confidence(
+def _classify_title_confidence_core(
     title: str | None,
     description: str | None = None,
     *,
@@ -1130,13 +1184,23 @@ def classify_title_confidence(
     ):
         return TitleConfidence("high_exclude", True, "phd-required, no new-grad marker")
 
-    if _OBVIOUS_SENIOR.search(title_text) and not re.search(
+    multi_level = bool(_MULTI_LEVEL_EC_TITLE.search(title_text))
+
+    if (
+        _FELLOW_RANK_TITLE.search(title_text)
+        and not _FELLOW_PROGRAM_TITLE.search(title_text)
+        and not multi_level
+        and (desc_sig.has_senior_exp or scan_full_description(description).has_senior_exp)
+    ):
+        return TitleConfidence("high_exclude", True, "senior fellow rank")
+
+    if _OBVIOUS_SENIOR.search(title_text) and not multi_level and not re.search(
         r"\bintern(ships?)?\b", title_text, re.IGNORECASE
     ):
         if not _PHD_EARLY_CAREER_OVERRIDE.search(title_text):
             return TitleConfidence("high_exclude", False, "senior keyword")
 
-    if _OBVIOUS_LEAD.search(title_text) and not re.search(
+    if _OBVIOUS_LEAD.search(title_text) and not multi_level and not re.search(
         r"\bintern(ships?)?\b", title_text, re.IGNORECASE
     ):
         return TitleConfidence("high_exclude", False, "senior keyword")
@@ -1218,7 +1282,7 @@ def classify_title_confidence(
     )
     has_target = bool(
         _title_ec_target(title_text)
-        or (req_text and TARGET.search(req_text))
+        or _req_has_target(req_text)
         or _strong_ec(desc_sig)
         or (_early_years and not _is_open_level_ic_title(title_text))
     )
@@ -1242,7 +1306,9 @@ def classify_title_confidence(
             return TitleConfidence("high_exclude", True, "experienced mts title")
 
     if _has_anti(title_text) and not (
-        _PREFILTER_EARLY_CAREER.search(positive_text) or _strong_ec(desc_sig)
+        multi_level
+        or _PREFILTER_EARLY_CAREER.search(positive_text)
+        or _strong_ec(desc_sig)
     ):
         return TitleConfidence("high_exclude", False, "senior keyword")
 
@@ -1302,7 +1368,11 @@ def classify_title_confidence(
     if has_target and not is_tech:
         return TitleConfidence("borderline", False, "ec but non-technical title")
 
-    if is_tech and has_weak:
+    # The weak cues here (associate, L1-3, trainee) say nothing about the
+    # discipline, so the title itself has to read as technical - otherwise
+    # "AV Technician" or "Production Coordinator" passes on a technical word
+    # somewhere in the requirements.
+    if is_tech and has_weak and (title_tech or SOFTWARE_DOMAIN.search(title_text)):
         if (
             not _ENTRY_SUPPORT_ENGINEER.search(title_text)
             and not (
@@ -1390,7 +1460,109 @@ def classify_title_confidence(
     return TitleConfidence("high_exclude", False, "no ec or technical signal")
 
 
+# Description rescue
+# ------------------
+# The rules above reject a technical posting whenever its parsed requirements
+# section shows no early-career cue. That section is often the wrong slice of
+# the page (boilerplate "Minimum education" blocks, unlabeled headers), so a
+# posting that plainly invites new grads elsewhere in its body gets dropped.
+# Missing a real new-grad posting costs more than an extra alert, so these
+# rejections get a second look at the whole description.
+_RESCUABLE_REASONS = frozenset({
+    "no ec in requirements",
+    "unparsed requirements",
+    "bare technical title",
+    "senior experience required",
+    "minimum experience required",
+    "experienced research role",
+    "experienced mts role",
+    "experienced mts title",
+    "senior post-training role",
+    "experienced hardware ic",
+    "non-ec network engineer",
+    "corporate fellowship program",
+    "associate title",
+})
+
+_DESC_EC_INVITE = re.compile(
+    r"\b(?:"
+    # "new college graduates and experienced engineers", "recent graduates may apply"
+    r"(?:new|recent)\s+(?:college\s+|university\s+)?grad(?:uate)?s?\b"
+    r"(?=\s*(?:\(|,|and|or|are|may|can|with|welcome|encouraged|to\s+(?:apply|join)|who|from|in\s+computer))|"
+    r"fresh\s+grad(?:uate)?s?|"
+    r"open\s+to\s+(?:all\s+levels|candidates)\s+(?:from|including)\s+new\s+grad|"
+    r"welcome\s+(?:applications\s+from\s+)?(?:early[\s-]career|entry[\s-]level|new[\s-]grad|recent\s+grad)|"
+    # "Entry-Level Quantitative Researchers are responsible", "best early-career STEM talent"
+    r"(?:entry[\s-]level|early[\s-]career)\s+(?:\w+\s+){0,2}"
+    r"(?:candidates?|applicants?|engineers?|researchers?|developers?|scientists?|talent|hires?|roles?|positions?)|"
+    r"(?:current\s+(?:university\s+)?students?\s+)?graduating\s+(?:between|in|by|from)\s+(?:\w+\s+){0,2}20[2-9]\d|"
+    r"(?:degree|graduation)\s+(?:conferred|expected|completed)\s+(?:by|between|in)\s+(?:\w+\s+){0,2}20[2-9]\d|"
+    r"(?:undergraduate|bachelor'?s|master'?s)\s+degree\s+conferred\s+in\s+20[2-9]\d|"
+    r"(?:0|zero)\s*[-–—]\s*[12]\+?\s*years?|"
+    r"no\s+(?:prior\s+|professional\s+|industry\s+)?experience\s+(?:is\s+)?(?:required|necessary|needed)|"
+    # Compensation table with an explicit early-career band (MatX-style)
+    r"early[\s-]career\s*[-–—:]\s*\$\s?\d"
+    r")",
+    re.IGNORECASE,
+)
+
+# Negations near an invite: "This is NOT a New/Recent College Grad-level
+# position", "if you are a recent graduate, please look at our Entry Level
+# roles", "not intended for internship, new graduate, or entry-level".
+_DESC_EC_NEGATION_BEFORE = re.compile(
+    r"(?:\bnot\b|n't|\bno\b|\bnever\b|\bif\s+you\s+are\b|\bexcluding\b|\bunlike\b)[^.;]{0,50}$|"
+    r"\b(?:look\s+at|see|visit|check\s+out|refer\s+to|apply\s+to)\s+(?:our|the)\s+$",
+    re.IGNORECASE,
+)
+_DESC_EC_NEGATION_AFTER = re.compile(
+    r"^[^.;]{0,80}(?:please\s+(?:take\s+a\s+look|see|visit|refer|do\s+not|don't)|"
+    r"do\s+not\s+apply|should\s+not\s+apply|other\s+(?:roles|positions|postings))",
+    re.IGNORECASE,
+)
+
+
+def description_invites_early_career(description: str | None) -> bool:
+    """True when the posting body directly invites new-grad / entry-level applicants."""
+    if not description:
+        return False
+    text = re.sub(r"<[^>]+>", " ", description)
+    text = re.sub(r"\s+", " ", text)
+    for m in _DESC_EC_INVITE.finditer(text):
+        before = text[max(0, m.start() - 60):m.start()]
+        if _DESC_EC_NEGATION_BEFORE.search(before) or _ABOUT_OTHERS_BEFORE.search(before):
+            continue
+        if _DESC_EC_NEGATION_AFTER.search(text[m.end():m.end() + 120]):
+            continue
+        return True
+    return False
+
+
+def classify_title_confidence(
+    title: str | None,
+    description: str | None = None,
+    *,
+    company: str | None = None,
+    url: str | None = None,
+) -> TitleConfidence:
+    """Classify title confidence for hybrid regex + LLM routing.
+
+    Runs the title/requirements rules, then gives technical postings they
+    rejected for lack of an early-career cue a second look at the full
+    description (see "Description rescue" above).
+    """
+    conf = _classify_title_confidence_core(title, description, company=company, url=url)
+    if conf.level == "high_include" or conf.reason not in _RESCUABLE_REASONS:
+        return conf
+    if not description or not DOMAIN.search(title or ""):
+        return conf
+    if description_invites_early_career(description):
+        return TitleConfidence("high_include", True, "description invites early career")
+    return conf
+
+
 # Title-only excludes — no per-job description HTTP needed.
+# Reasons in _RESCUABLE_REASONS are left out on purpose: the description
+# rescue needs the body to give those postings a second look.
 _DESCRIPTION_NOT_NEEDED_REASONS = frozenset({
     "empty title",
     "non-tech",
@@ -1402,13 +1574,6 @@ _DESCRIPTION_NOT_NEEDED_REASONS = frozenset({
     "expert fellowship",
     "experienced fellowship",
     "phd-required, no new-grad marker",
-    "experienced mts title",
-    "experienced mts role",
-    "senior post-training role",
-    "corporate fellowship program",
-    "non-ec network engineer",
-    "experienced hardware ic",
-    "experienced research role",
     "spacex non-swe role",
     "spacex early swe credential",
     "entry-level research or ds",
@@ -1487,7 +1652,7 @@ _FULLTIME_EC_MARKER = re.compile(
     r"\b("
     r"new[\s-]?grad(?:uate)?|"
     r"new\s+college\s+grad(?:uate)?|\bncg\b|"
-    r"university\s+graduate|university\s+hire|"
+    r"university\s+grad(?:uate)?|university\s+hire|college\s+grad(?:uate)?|graduate\s+(?:hire|program(?:me)?)|"
     r"recent\s+graduate|"
     r"early[\s-]career(?:s)?|"
     r"entry[\s-]level|"
@@ -1515,7 +1680,7 @@ SOFTWARE_DOMAIN = re.compile(
     r"\b("
     # Core software
     r"software|swe|sde|sdet|developer|"
-    r"backend|front[\s-]?end|frontend|full[\s-]?stack|"
+    r"back[\s-]?end|front[\s-]?end|frontend|full[\s-]?stack|"
     r"mobile\s+(?:engineer|developer)|android\s+(?:engineer|developer)|"
     r"ios\s+(?:engineer|developer)|web\s+(?:engineer|developer)|"
     # Infrastructure / platform / systems-software
@@ -1542,7 +1707,7 @@ SOFTWARE_DOMAIN = re.compile(
     r"gpu\s+(?:software|architecture|scheduling|kernel)|cuda|"
     # SW-style flavors of "Engineer"
     r"systems\s+software|application\s+software|flight\s+software|"
-    r"network\s+software|product\s+engineer|"
+    r"network\s+software|product\s+engineer|production\s+engineer|"
     r"forward\s+deployed\s+(?:software\s+)?engineer|"
     r"solutions?\s+(?:software\s+)?engineer|"
     r"support\s+engineer|"
@@ -1568,7 +1733,7 @@ NON_SOFTWARE_DOMAIN = re.compile(
     r"mechanical|civil|structural|geotechnical|aerodynamic(?:s)?|aerospace|"
     r"propulsion|combustion|fluid(?:s)?|hydraulic|thermal|optical|laser|"
     r"chemical|polymer|metallurg(?:ical|y)|materials\s+(?:engineer|scientist)|"
-    r"manufacturing|production|industrial|process\s+(?:engineer|engineering)|"
+    r"manufacturing|production(?!\s+engineer)|industrial|process\s+(?:engineer|engineering)|"
     r"facilities|fire\s+protection|launch|recovery|spaceport|"
     r"avionics|antenna|microwave|\brf\b|"
     r"electrical(?:\s+engineer|\s+engineering|\s+on-orbit)?|"
@@ -1613,7 +1778,7 @@ NON_SOFTWARE_DOMAIN = re.compile(
     r"failure\s+analysis|"
     r"power\s+(?:electronics|systems?)\s+(?:engineer|specialist)|"
     r"chassis|powertrain|drivetrain|"
-    r"reliability\s+engineer(?:\s+\([^)]*hardware[^)]*\))?|"
+    r"(?<!site\s)reliability\s+engineer(?:\s+\([^)]*hardware[^)]*\))?|"
     r"flight\s+test|"
     r"critical\s+lift|"
     r"layout\s+(?:engineer|design)|analog|mixed[\s-]?signal\s+(?:engineer|design)|"
@@ -1681,7 +1846,8 @@ def is_software_or_ai_role(title: str | None) -> bool:
             r"\b("
             r"software\s+(?:engineer|developer|engineering)|"
             r"\bsde\b|\bswe\b|\bsdet\b|"
-            r"backend\s+engineer|frontend\s+engineer|full[\s-]?stack\s+engineer|"
+            r"back[\s-]?end\s+engineer|frontend\s+engineer|full[\s-]?stack\s+engineer|"
+            r"site\s+reliability|production\s+engineer|"
             r"machine\s+learning\s+engineer|\bml\s+engineer|\bmle\b|"
             r"data\s+(?:scientist|engineer|analyst)|"
             r"applied\s+scientist|research\s+(?:scientist|engineer)|"
@@ -1741,7 +1907,7 @@ _US_STATE_CODES = (
     "SC SD TN TX UT VT VA WA WV WI WY DC"
 ).split()
 US_STATE_CODE = re.compile(
-    r",\s*(" + "|".join(_US_STATE_CODES) + r")(?=[,\s]|$)",
+    r"[,(]\s*(" + "|".join(_US_STATE_CODES) + r")(?=[,\s)]|$)",
 )
 
 # Common US cities — catches plain "San Francisco" or "Seattle" with no state.
@@ -1753,7 +1919,13 @@ US_CITY = re.compile(
     r"sunnyvale|cupertino|redwood\s+city|santa\s+monica|santa\s+clara|"
     r"durham|raleigh|cambridge|brooklyn|philadelphia|phoenix|"
     r"hillsboro|westford|salt\s+lake\s+city|bellevue|kirkland|"
-    r"san\s+mateo|costa\s+mesa|sunnyvale|santa\s+ana"
+    r"san\s+mateo|costa\s+mesa|sunnyvale|santa\s+ana|"
+    r"nyc|bay\s+area|silicon\s+valley|ann\s+arbor|pittsburgh|waltham|billerica|"
+    r"wichita|san\s+bruno|fremont|irvine|boulder|princeton|reston|herndon|"
+    r"columbus|minneapolis|detroit|nashville|charlotte|sacramento|oakland|"
+    r"berkeley|burlingame|foster\s+city|emeryville|somerville|bala\s+cynwyd|"
+    # Stripe-style office codes ("SF, SEA, NYC, CHI, ATL"), uppercase only
+    r"(?-i:SF|SEA|CHI|ATL)"
     r")\b",
     re.IGNORECASE,
 )
@@ -1762,10 +1934,10 @@ US_CITY = re.compile(
 # location wins over a "Remote, Canada" if both appear (mixed posting).
 NON_US_INDICATOR = re.compile(
     r"\b("
-    r"canada|toronto|montreal|vancouver|ottawa|"
-    r"united\s+kingdom|uk\b|england|scotland|wales|london|edinburgh|manchester|"
+    r"canada|toronto|montreal|vancouver|ottawa|markham|kitchener|"
+    r"united\s+kingdom|uk\b|gb\b|england|scotland|wales|london|edinburgh|manchester|"
     r"ireland|dublin|"
-    r"germany|berlin|munich|hamburg|frankfurt|"
+    r"germany|berlin|munich|hamburg|frankfurt|walldorf|"
     r"france|paris|lyon|"
     r"netherlands|amsterdam|"
     r"spain|madrid|barcelona|"
@@ -1782,8 +1954,8 @@ NON_US_INDICATOR = re.compile(
     r"czech\s+republic|prague|"
     r"romania|bucharest|"
     r"serbia|belgrade|"
-    r"israel|tel\s+aviv|jerusalem|"
-    r"india|bangalore|bengaluru|hyderabad|mumbai|delhi|noida|pune|chennai|"
+    r"israel|tel\s+aviv|jerusalem|haifa|herzliya|yokneam|petah\s+tikva|"
+    r"india|bangalore|bengaluru|hyderabad|mumbai|delhi|noida|pune|chennai|gurugram|gurgaon|"
     r"china|beijing|shanghai|shenzhen|hong\s+kong|"
     r"japan|tokyo|osaka|"
     r"south\s+korea|korea|seoul|"
@@ -1883,18 +2055,32 @@ def is_us_location(location: str | None) -> bool:
     return False
 
 
+# Prose versions of the US patterns: in a posting body a lowercase "us" is the
+# pronoun ("join us", "tell us"), so only uppercase US / U.S. counts there.
+def _prose_us(pattern: str) -> str:
+    return (
+        pattern.replace(r"u\.?\s?s\.?\s?a\.?", r"(?-i:U\.?\s?S\.?\s?A\.?)")
+        .replace(r"u\.?s\.?(?!\w)", r"(?-i:U\.?S\.?)(?!\w)")
+        .replace(r"\bus\b", r"(?-i:\bUS\b)")
+    )
+
+
+_US_INDICATOR_PROSE = re.compile(_prose_us(US_INDICATOR.pattern), re.IGNORECASE)
+_REMOTE_US_PROSE = re.compile(_prose_us(_REMOTE_US.pattern), re.IGNORECASE)
+
+
 def is_us_location_from_description(description: str | None) -> bool:
     """Infer US eligibility from remote/location language in the posting body."""
     if not description or not description.strip():
         return False
     snippet = description[:4000]
-    if _REMOTE_US.search(snippet):
+    if _REMOTE_US_PROSE.search(snippet):
         return True
     if re.search(r"\bremote\b", snippet, re.IGNORECASE) and (
-        US_INDICATOR.search(snippet) or US_CITY.search(snippet)
+        _US_INDICATOR_PROSE.search(snippet) or US_CITY.search(snippet)
     ):
         return True
-    if US_INDICATOR.search(snippet) and re.search(
+    if _US_INDICATOR_PROSE.search(snippet) and re.search(
         r"\b(?:work\s+from|based\s+in|located\s+in)\b",
         snippet,
         re.IGNORECASE,
@@ -1911,9 +2097,12 @@ def is_us_location_with_description(
     if location and location.strip():
         text = location.strip()
         if NON_US_INDICATOR.search(text):
+            # "Cambridge" alone is a US city to US_CITY, but next to a UK
+            # marker it is Cambridge, England.
+            city_text = re.sub(r"\bcambridge\b", " ", text, flags=re.IGNORECASE)
             has_us_strong = bool(
                 US_INDICATOR.search(text)
-                or US_CITY.search(text)
+                or US_CITY.search(city_text)
                 or _REMOTE_US.search(text)
             )
             if not has_us_strong:

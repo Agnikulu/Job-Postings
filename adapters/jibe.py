@@ -58,10 +58,18 @@ def _get_page(host: str, page: int) -> dict[str, Any]:
 
 
 def _format_location(data: dict[str, Any]) -> str:
-    if data.get("location_name"):
-        return str(data["location_name"])
-    bits = [data.get("city"), data.get("state"), data.get("country")]
-    return ", ".join(b for b in bits if b)
+    name = str(data.get("location_name") or "").strip()
+    place = str(data.get("full_location") or "").strip() or ", ".join(
+        b for b in (data.get("city"), data.get("state")) if b
+    )
+    country = str(data.get("country") or "").strip()
+    if place and country and country.lower() not in place.lower():
+        place = f"{place}, {country}"
+    # AMD-style names ("US,TX,Austin") are already a place. Others are just a
+    # label (SIG names every posting "SIG"), so the structured fields win.
+    if name and ("," in name or not place):
+        return name
+    return place or name
 
 
 def fetch(company: dict[str, Any]) -> list[Job]:

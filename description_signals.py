@@ -119,7 +119,8 @@ DESC_STRONG_EC = re.compile(
     r"previous\s+internship|"
     r"new[\s-]?grad(uate)?|"
     r"new\s+college\s+grad|"
-    r"university\s+graduate|"
+    r"university\s+grad(?:uate)?|"
+    r"(?:new\s+|recent\s+)?college\s+grad(?:uate)?|"
     r"recent\s+graduate|"
     r"early[\s-]career|"
     r"entry[\s-]level|"
@@ -129,8 +130,8 @@ DESC_STRONG_EC = re.compile(
     r"master'?s\s+student|"
     r"graduate\s+student|"
     r"(?:0|zero|no|less\s+than|up\s+to)\s*[-–—]?\s*[12]\s+years?(?:\s+of)?(?:\s+experience)?|"
-    r"0\s*[-–—]\s*2\s+years?|"
-    r"[01]\s*[-–—]\s*3\s+years?(?:\s+of)?(?:\s+experience)?"
+    r"0\s*[-–—]\s*2\+?\s*years?|"
+    r"[01]\s*[-–—]\s*3\+?\s*years?(?:\s+of)?(?:\s+experience)?"
     r")\b",
     re.IGNORECASE,
 )
@@ -170,11 +171,11 @@ DESC_TECH_FIELD = re.compile(
 DESC_SENIOR_EXP = re.compile(
     r"\b("
     r"(?<![0-9\-–—])[1-9]\s*[-–—]\s*(?:[5-9]|10)\+?\s*years?|"
-    r"(?:minimum|at\s+least)\s+(?:of\s+)?(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?|"
-    r"(?<![0-9\-–—])(?:[3-9]|10)\+\s*years?|"
-    r"(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?\s+(?:of\s+)?(?:[\w/-]+\s+){0,8}experience|"
-    r"(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?(?:\s+of)?(?:\s+professional|\s+industry|\s+relevant|\s+software)?\s+experience(?:\s+required|\s+in\s+the\s+job\s+offered)?|"
-    r"(?:employer will accept|will accept).{0,200}?\b(?:and\s+)?(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?\s+of\s+experience|"
+    r"(?:minimum|at\s+least)\s+(?:of\s+)?(?<![0-9\-–—])(?:[3-9]|[12]\d)\+?\s*years?|"
+    r"(?<![0-9\-–—])(?:[3-9]|[12]\d)\+\s*years?|"
+    r"(?<![0-9\-–—])(?:[3-9]|[12]\d)\+?\s*years?\s+(?:of\s+)?(?:[\w/-]+\s+){0,8}experience|"
+    r"(?<![0-9\-–—])(?:[3-9]|[12]\d)\+?\s*years?(?:\s+of)?(?:\s+professional|\s+industry|\s+relevant|\s+software)?\s+experience(?:\s+required|\s+in\s+the\s+job\s+offered)?|"
+    r"(?:employer will accept|will accept).{0,200}?\b(?:and\s+)?(?<![0-9\-–—])(?:[3-9]|[12]\d)\+?\s*years?\s+of\s+experience|"
     r"(?:employer will accept|will accept).{0,200}?\b(?:and\s+)?three\s+years\s+of\s+experience|"
     r"significant\s+experience|"
     r"experienced\s+(?:backend|software|engineer)|"
@@ -191,7 +192,7 @@ DESC_SENIOR_EXP = re.compile(
 # Minimum experience bars in qualification blocks (3+ years — 0–2 yr roles stay EC).
 DESC_MIN_YEARS_REQ = re.compile(
     r"\b("
-    r"(?:minimum\s+of\s+)?(?<![0-9\-–—])(?:[3-9]|10)\+?\s*years?(?:['\u2019]s?)?(?:\s+of)?(?:\s+\w+\s+){0,4}experience|"
+    r"(?:minimum\s+of\s+)?(?<![0-9\-–—])(?:[3-9]|[12]\d)\+?\s*years?(?:['\u2019]s?)?(?:\s+of)?(?:\s+\w+\s+){0,4}experience|"
     r"(?<![0-9\-–—])[3-9]\s*[-–—]\s*12\+?\s*years?(?:\s+of)?(?:\w+\s+){0,4}experience"
     r")\b",
     re.IGNORECASE,
@@ -199,9 +200,9 @@ DESC_MIN_YEARS_REQ = re.compile(
 
 _YEAR_RANGE_EC = re.compile(
     r"\b("
-    r"[01]\s*[-–—]\s*3\s*years?|"
-    r"0\s*[-–—]\s*2\s*years?|"
-    r"1[\s–—-]+3\s+years?"
+    r"[01]\s*[-–—]\s*3\+?\s*years?|"
+    r"0\s*[-–—]\s*2\+?\s*years?|"
+    r"1[\s–—-]+3\+?\s*years?"
     r")\b",
     re.IGNORECASE,
 )
