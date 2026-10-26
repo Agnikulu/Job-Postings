@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 596
-- **All-time tracked:** 836
+- **Open positions:** 597
+- **All-time tracked:** 837
 - **Active companies:** 159
-- **Last run (raw / matched):** 48370 postings fetched, 596 passed filters
-- **Last updated:** `2026-10-26 03:43 UTC`
+- **Last run (raw / matched):** 48349 postings fetched, 597 passed filters
+- **Last updated:** `2026-10-26 04:52 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Nvidia | Software Verification Engineer - Networking 🇺🇸 | US, TX, Austin | workday | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Verification-Engineer_JR2022759) | Oct 26, 2026 |
 | ServiceNow | Associate Software Engineer 🇺🇸 | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) | Oct 23, 2026 |
 | Roblox | Software Engineer, Notifications 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8261393?gh_jid=8261393) | Oct 23, 2026 |
 | Roblox | Software Engineer, Reliability 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | Oct 23, 2026 |
