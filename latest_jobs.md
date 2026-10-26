@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-26 04:52 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-10-26 05:38 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Nvidia - 1 new (1 technical)
-
-- **[TECH]** [Software Verification Engineer - Networking](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Verification-Engineer_JR2022759) - *US, TX, Austin*
