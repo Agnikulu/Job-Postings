@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 590
-- **All-time tracked:** 849
+- **All-time tracked:** 850
 - **Active companies:** 159
-- **Last run (raw / matched):** 48797 postings fetched, 675 passed filters
-- **Last updated:** `2026-10-28 16:52 UTC`
+- **Last run (raw / matched):** 45572 postings fetched, 647 passed filters
+- **Last updated:** `2026-10-28 17:48 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| AMD | Fellow, AI Workload Optimization 🇺🇸 | US,WA,Bellevue | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94502) | Oct 28, 2026 |
 | Nvidia | Deep Learning Performance Architect - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | Oct 27, 2026 |
 | Nvidia | Formal Verification Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554) | Oct 27, 2026 |
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
@@ -232,7 +233,6 @@ how to fork, how to add companies, and how filtering works.
 | Palo Alto Networks | Associate Systems Engineer 🇺🇸 | Office - USA - TX | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---TX/Associate-Systems-Engineer_JR-011810) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Systems Engineer 🇺🇸 | Office - USA - TX | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---TX/Associate-Systems-Engineer_JR-011817) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Systems Engineer 🇺🇸 | Office - USA - TX | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---TX/Associate-Systems-Engineer_JR-011823) | Sep 14, 2026 |
-| Nvidia | Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644) | Sep 14, 2026 |
 | Nvidia | Research Scientist, AI for Graphics and Gaming - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Sep 14, 2026 |
 | Nvidia | Research Scientist, ML Systems - PhD New College Grad 2026 🇺🇸 | 4 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Sep 14, 2026 |
 | Nvidia | Research Scientist, Electronic Design Automation - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) | Sep 14, 2026 |
@@ -633,7 +633,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (259)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (260)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -756,6 +756,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 15, 2026 |
 | ~~Qualcomm~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Atlassian~~ | ~~Software Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 15, 2026 |
+| ~~Nvidia~~ | ~~Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, Circuits - PhD New College Grad 2026 🇺🇸~~ | 2 Locations | workday | PhD, New Grad | Closed | Sep 14, 2026 |
 | ~~AMD~~ | ~~Software Quality Assurance Engineer 🇺🇸~~ | Liberty Lake, WA | linkedin | - | Closed | Sep 14, 2026 |
 | ~~Okta~~ | ~~Developer Support Associate (New Grad) 🇺🇸~~ | Chicago, Illinois | greenhouse | New Grad | Closed | Sep 14, 2026 |
