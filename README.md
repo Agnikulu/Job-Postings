@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 592
-- **All-time tracked:** 851
+- **Open positions:** 596
+- **All-time tracked:** 856
 - **Active companies:** 159
-- **Last run (raw / matched):** 48375 postings fetched, 592 passed filters
-- **Last updated:** `2026-10-28 18:44 UTC`
+- **Last run (raw / matched):** 48934 postings fetched, 595 passed filters
+- **Last updated:** `2026-10-28 19:41 UTC`
 
 ## Legend
 
@@ -40,6 +40,11 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Qualcomm | Automation Developer Engineer 🇺🇸 | San Diego, CA, US / Boulder, CO, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721803210) | Oct 28, 2026 |
+| Apple | Physical Design Methodology CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692170-0157/physical-design-methodology-cad-engineer) | Oct 28, 2026 |
+| Apple | Physical Design Methodology CAD Engineer 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692170-0836/physical-design-methodology-cad-engineer) | Oct 28, 2026 |
+| Apple | Physical Design Methodology CAD Engineer 🇺🇸 | Santa Clara, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692170-3760/physical-design-methodology-cad-engineer) | Oct 28, 2026 |
+| Anthropic | Anthropic Research Resident 🇺🇸 | San Francisco, CA \| New York City, NY | greenhouse | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | Oct 28, 2026 |
 | Apple | Design Verification Engineer 🇺🇸 | Beaverton, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692085-0505/design-verification-engineer) | Oct 28, 2026 |
 | AMD | Fellow, AI Workload Optimization 🇺🇸 | US,WA,Bellevue | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94502) | Oct 28, 2026 |
 | Nvidia | Deep Learning Performance Architect - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | Oct 27, 2026 |
@@ -241,7 +246,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | ASIC Design Verification Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391) | Sep 14, 2026 |
 | Nvidia | Power Methodology and Modeling Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1) | Sep 14, 2026 |
 | Nvidia | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) | Sep 14, 2026 |
-| Nvidia | ASIC Verification Engineer - New College Grad 2026 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573) | Sep 14, 2026 |
 | Nvidia | DFT Engineer - New College Grad 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DFT-Engineer---New-College-Grad_JR2016865) | Sep 14, 2026 |
 | SpaceX | Material Flow Engineer 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8807509002?gh_jid=8807509002) | Sep 14, 2026 |
 | OpenAI | Software Engineer, Applied Emerging Talent (2027) 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | Sep 14, 2026 |
@@ -635,7 +639,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (259)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (260)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -759,6 +763,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Atlassian~~ | ~~Software Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, Circuits - PhD New College Grad 2026 🇺🇸~~ | 2 Locations | workday | PhD, New Grad | Closed | Sep 14, 2026 |
+| ~~Nvidia~~ | ~~ASIC Verification Engineer - New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~AMD~~ | ~~Software Quality Assurance Engineer 🇺🇸~~ | Liberty Lake, WA | linkedin | - | Closed | Sep 14, 2026 |
 | ~~Okta~~ | ~~Developer Support Associate (New Grad) 🇺🇸~~ | Chicago, Illinois | greenhouse | New Grad | Closed | Sep 14, 2026 |
 | ~~Qualcomm~~ | ~~LLM Serving Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 13, 2026 |
