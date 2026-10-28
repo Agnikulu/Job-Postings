@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 590
+- **Open positions:** 591
 - **All-time tracked:** 849
 - **Active companies:** 159
-- **Last run (raw / matched):** 50132 postings fetched, 676 passed filters
-- **Last updated:** `2026-10-27 23:35 UTC`
+- **Last run (raw / matched):** 48824 postings fetched, 676 passed filters
+- **Last updated:** `2026-10-28 01:01 UTC`
 
 ## Legend
 
@@ -236,6 +236,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644) | Sep 14, 2026 |
 | Nvidia | Research Scientist, AI for Graphics and Gaming - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) | Sep 14, 2026 |
 | Nvidia | Research Scientist, ML Systems - PhD New College Grad 2026 🇺🇸 | 4 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) | Sep 14, 2026 |
+| Nvidia | Research Scientist, Electronic Design Automation - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) | Sep 14, 2026 |
 | Nvidia | ASIC Design Verification Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391) | Sep 14, 2026 |
 | Nvidia | Power Methodology and Modeling Engineer - New College Grad 2026 🇺🇸 | US, TX, Austin | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1) | Sep 14, 2026 |
 | Nvidia | Software Engineer, Hardware Tools and Methodology - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) | Sep 14, 2026 |
@@ -633,7 +634,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (259)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (258)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -756,7 +757,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Atlassian~~ | ~~Software Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, Circuits - PhD New College Grad 2026 🇺🇸~~ | 2 Locations | workday | PhD, New Grad | Closed | Sep 14, 2026 |
-| ~~Nvidia~~ | ~~Research Scientist, Electronic Design Automation - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~AMD~~ | ~~Software Quality Assurance Engineer 🇺🇸~~ | Liberty Lake, WA | linkedin | - | Closed | Sep 14, 2026 |
 | ~~Okta~~ | ~~Developer Support Associate (New Grad) 🇺🇸~~ | Chicago, Illinois | greenhouse | New Grad | Closed | Sep 14, 2026 |
 | ~~Qualcomm~~ | ~~LLM Serving Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 13, 2026 |
