@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 593
 - **All-time tracked:** 859
 - **Active companies:** 159
-- **Last run (raw / matched):** 47192 postings fetched, 591 passed filters
-- **Last updated:** `2026-10-29 19:33 UTC`
+- **Last run (raw / matched):** 48500 postings fetched, 592 passed filters
+- **Last updated:** `2026-10-29 20:32 UTC`
 
 ## Legend
 
@@ -141,7 +141,7 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Silicon Design Engineer 🇺🇸 | GB,Cambridge | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/89974) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Washington, DC | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002) | Oct 02, 2026 |
-| xAI | Rack Design Engineer (Data Center) 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255858007) | Oct 02, 2026 |
+| xAI | Rack Design Engineer, Data Center - Memphis 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255858007) | Oct 02, 2026 |
 | Harvey | Software Engineer, New Grad (2027) 🇺🇸 | New York | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | Oct 02, 2026 |
 | Harvey | Software Engineer, New Grad (2027) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | Oct 02, 2026 |
 | Nvidia | Research Scientist, Fundamental Generative AI - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | Oct 02, 2026 |
