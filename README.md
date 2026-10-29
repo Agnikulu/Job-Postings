@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 593
-- **All-time tracked:** 859
+- **Open positions:** 594
+- **All-time tracked:** 860
 - **Active companies:** 159
-- **Last run (raw / matched):** 48500 postings fetched, 592 passed filters
-- **Last updated:** `2026-10-29 20:32 UTC`
+- **Last run (raw / matched):** 42718 postings fetched, 559 passed filters
+- **Last updated:** `2026-10-29 21:34 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Point72 | Systems Engineer, Collaboration Technology 🇺🇸 | New York, NY | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/8923153002?gh_jid=8923153002) | Oct 29, 2026 |
 | Bloomberg LP | Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Semiconductors-Equity-Research-Associate/45869) | Oct 29, 2026 |
 | Glean | Software Engineer, University Grad 🇺🇸 | Mountain View, CA | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) | Oct 28, 2026 |
 | Apple | FE Engineer 🇺🇸 | Beaverton, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692085-0505/fe-engineer) | Oct 28, 2026 |
