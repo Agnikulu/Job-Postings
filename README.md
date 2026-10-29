@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 593
-- **All-time tracked:** 858
+- **All-time tracked:** 859
 - **Active companies:** 159
-- **Last run (raw / matched):** 47156 postings fetched, 591 passed filters
-- **Last updated:** `2026-10-29 18:44 UTC`
+- **Last run (raw / matched):** 47192 postings fetched, 591 passed filters
+- **Last updated:** `2026-10-29 19:33 UTC`
 
 ## Legend
 
@@ -41,13 +41,13 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | Bloomberg LP | Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Semiconductors-Equity-Research-Associate/45869) | Oct 29, 2026 |
+| Glean | Software Engineer, University Grad 🇺🇸 | Mountain View, CA | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) | Oct 28, 2026 |
 | Apple | FE Engineer 🇺🇸 | Beaverton, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692085-0505/fe-engineer) | Oct 28, 2026 |
 | Qualcomm | Automation Developer Engineer 🇺🇸 | San Diego, CA, US / Boulder, CO, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721803210) | Oct 28, 2026 |
 | Apple | Physical Design Methodology CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692170-0157/physical-design-methodology-cad-engineer) | Oct 28, 2026 |
 | Apple | Physical Design Methodology CAD Engineer 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692170-0836/physical-design-methodology-cad-engineer) | Oct 28, 2026 |
 | Apple | Physical Design Methodology CAD Engineer 🇺🇸 | Santa Clara, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692170-3760/physical-design-methodology-cad-engineer) | Oct 28, 2026 |
 | Anthropic | Anthropic Research Resident 🇺🇸 | San Francisco, CA \| New York City, NY | greenhouse | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | Oct 28, 2026 |
-| AMD | Fellow, AI Workload Optimization 🇺🇸 | US,WA,Bellevue | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94502) | Oct 28, 2026 |
 | Nvidia | Deep Learning Performance Architect - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | Oct 27, 2026 |
 | Nvidia | Formal Verification Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554) | Oct 27, 2026 |
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
@@ -636,12 +636,13 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (265)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (266)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Apple~~ | ~~Design Verification Engineer 🇺🇸~~ | Beaverton, United States of America | apple | - | Closed | Oct 28, 2026 |
+| ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,WA,Bellevue | jibe | - | Closed | Oct 28, 2026 |
 | ~~MatX~~ | ~~Member of Technical Staff, ML 🇺🇸~~ | Mountain View (HQ) or Remote | ashby | - | Closed | Oct 26, 2026 |
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | Closed | Oct 23, 2026 |
 | ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | Mountain View, California | greenhouse | - | Closed | Oct 23, 2026 |
