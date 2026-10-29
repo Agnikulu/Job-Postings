@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 594
 - **All-time tracked:** 857
 - **Active companies:** 159
-- **Last run (raw / matched):** 50552 postings fetched, 593 passed filters
-- **Last updated:** `2026-10-29 08:42 UTC`
+- **Last run (raw / matched):** 50537 postings fetched, 593 passed filters
+- **Last updated:** `2026-10-29 09:38 UTC`
 
 ## Legend
 
@@ -367,7 +367,7 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer, Starlink Enterprise Products (Space Lasers) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8715839002?gh_jid=8715839002) | Aug 18, 2026 |
 | SpaceX | Software Engineer 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8726545002?gh_jid=8726545002) | Aug 18, 2026 |
 | Decagon | Member of Technical Staff - New Grad (2027 Start) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f) | Aug 18, 2026 |
-| xAI | OSP Engineer 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5215570007) | Aug 18, 2026 |
+| xAI | OSP Engineer - Memphis 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5215570007) | Aug 18, 2026 |
 | SpaceX | Integration & Test Engineer, AI Satellites (Starmind) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002) | Aug 18, 2026 |
 | Five Rings | LINK 2027: Software Development Intensive Program 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008) | Aug 18, 2026 |
 | Roblox | Software Engineer, Foundation AI 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) | Aug 17, 2026 |
