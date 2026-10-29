@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 594
 - **All-time tracked:** 857
 - **Active companies:** 159
-- **Last run (raw / matched):** 51824 postings fetched, 594 passed filters
-- **Last updated:** `2026-10-29 07:37 UTC`
+- **Last run (raw / matched):** 50552 postings fetched, 593 passed filters
+- **Last updated:** `2026-10-29 08:42 UTC`
 
 ## Legend
 
@@ -488,7 +488,7 @@ how to fork, how to add companies, and how filtering works.
 | Jane Street | Machine Learning Researcher 🇺🇸 | New York, New York, United States | greenhouse | PhD Student | [Apply](https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002) | Jul 06, 2026 |
 | Hudson River Trading | Junior Trading Systems Engineer 🇺🇸 | Chicago, Illinois, United States<br>Dublin, Ireland<br>London, United Kingdom<br>New York, NY, United States | greenhouse | - | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074) | Jul 06, 2026 |
 | Akuna Capital | Junior Quantitative Risk Analyst 🇺🇸 | Chicago | greenhouse | - | [Apply](https://www.akunacapital.com/careers/job/8035515/?gh_jid=8035515) | Jul 06, 2026 |
-| xAI | Software Engineer - Network (C++) 🇺🇸 | Palo Alto, CA<br>Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5179367007) | Jul 02, 2026 |
+| xAI | Software Engineer, Network (C++) 🇺🇸 | Palo Alto, CA<br>Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5179367007) | Jul 02, 2026 |
 | IMC Trading | Graduate Deep Learning Researcher - New York 🇺🇸 | New York, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Jul 01, 2026 |
 | Anduril | Mission Software Engineer, EW 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007) | Jul 01, 2026 |
 | SpaceX | Software Engineer (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002) | Jun 26, 2026 |
