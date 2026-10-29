@@ -1,9 +1,13 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-10-29 02:44 UTC  
-**New matches this run:** 0  
+**Run timestamp:** 2026-10-29 03:36 UTC  
+**New matches this run:** 1  
 **Location filter:** US-only
 
 
-_No new early-career roles since the last run._
+Grouped by company (sorted by match count):
 
+
+## Apple - 1 new (1 technical)
+
+- **[TECH]** [FE Engineer](https://jobs.apple.com/en-us/details/200692085-0505/fe-engineer) - *Beaverton, United States of America*
