@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 589
 - **All-time tracked:** 863
 - **Active companies:** 159
-- **Last run (raw / matched):** 47079 postings fetched, 588 passed filters
-- **Last updated:** `2026-10-30 18:34 UTC`
+- **Last run (raw / matched):** 47979 postings fetched, 589 passed filters
+- **Last updated:** `2026-10-30 19:32 UTC`
 
 ## Legend
 
@@ -101,7 +101,6 @@ how to fork, how to add companies, and how filtering works.
 | CoreWeave | Software and AI Engineer 🇺🇸 | Sunnyvale, CA / Bellevue, WA / Dallas, TX | greenhouse | - | [Apply](https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006) | Oct 12, 2026 |
 | Apple | OS Software Engineer, Evaluation 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation) | Oct 12, 2026 |
 | Shield AI | Engineer I, Software - Factory Team (R6235) 🇺🇸 | Washington, D.C. | lever | Early Career | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | Oct 10, 2026 |
-| Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446720708572) | Oct 09, 2026 |
 | Roblox | Software Engineer, ROS 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) | Oct 09, 2026 |
 | Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) | Oct 09, 2026 |
 | Shield AI | Engineer I, Software Integration (R6214) - New Grad 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69) | Oct 09, 2026 |
@@ -287,6 +286,7 @@ how to fork, how to add companies, and how filtering works.
 | Crusoe | Associate Construction Engineer - Power Infrastructure 🇺🇸 | Denver, CO - US | ashby | - | [Apply](https://jobs.ashbyhq.com/Crusoe/91475b33-9f0e-4594-a425-cde5c5335cde) | Sep 10, 2026 |
 | SpaceX | New Graduate Engineer, Software (Starship) 🇺🇸 | Hawthorne, CA | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) | Sep 08, 2026 |
 | Fireworks AI | Member of Technical Staff, New Grad (BS/MS) 🇺🇸 | San Mateo | ashby | Masters, New Grad | [Apply](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) | Sep 08, 2026 |
+| Fireworks AI | Member of Technical Staff, Research (2026 PhD New Grad) - Seattle 🇺🇸 | Greater Seattle Area | ashby | PhD, New Grad | [Apply](https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58) | Sep 08, 2026 |
 | Fireworks AI | Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad) 🇺🇸 | San Mateo | ashby | PhD, New Grad | [Apply](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | Sep 08, 2026 |
 | Cursor | Software Engineer, New Grad 2027 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) | Sep 08, 2026 |
 | SpaceX | Full Stack Software Engineer, Internal Systems 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8785502002?gh_jid=8785502002) | Sep 07, 2026 |
@@ -672,6 +672,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, DL Kernel Libraries - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 11, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software Test and Automation (R6216) - New Grad 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Oct 10, 2026 |
+| ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 09, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 09, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
 | ~~Apple~~ | ~~Custom ERC/Power-Intent Automation CAD Engineer 🇺🇸~~ | Sunnyvale, United States of America | apple | - | Closed | Oct 08, 2026 |
@@ -796,7 +797,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Adobe~~ | ~~Quality Engineering Developer - Mobile 🇺🇸~~ | San Jose | workday | - | Closed | Sep 09, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Manufacturing Test 🇺🇸~~ | Atlanta, Georgia, United States | greenhouse | MS Student | Closed | Sep 08, 2026 |
 | ~~SIG~~ | ~~Compensation Systems Coordinator 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | - | Closed | Sep 08, 2026 |
-| ~~Fireworks AI~~ | ~~Member of Technical Staff, Research (2026 PhD New Grad) 🇺🇸~~ | San Mateo | ashby | PhD, New Grad | Closed | Sep 08, 2026 |
 | ~~SpaceX~~ | ~~Full Stack Software Engineer 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Sep 07, 2026 |
 | ~~SIG~~ | ~~Sell Side Research Associate, Freight Transportation & Rail Equipment 🇺🇸~~ | New York, NY | linkedin | Bachelors | Closed | Sep 07, 2026 |
 | ~~SIG~~ | ~~Equity Research Sales Associate 🇺🇸~~ | New York, NY | linkedin | - | Closed | Sep 07, 2026 |
