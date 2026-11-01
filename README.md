@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 589
+- **Open positions:** 588
 - **All-time tracked:** 865
 - **Active companies:** 159
-- **Last run (raw / matched):** 48297 postings fetched, 589 passed filters
-- **Last updated:** `2026-10-31 23:27 UTC`
+- **Last run (raw / matched):** 48299 postings fetched, 588 passed filters
+- **Last updated:** `2026-11-01 00:54 UTC`
 
 ## Legend
 
@@ -123,7 +123,6 @@ how to fork, how to add companies, and how filtering works.
 | Apple | Core OS Software Engineer - USB4/Thunderbolt 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt) | Oct 07, 2026 |
 | Zillow | Applied Scientist 🇺🇸 | Remote-USA | workday | - | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1) | Oct 07, 2026 |
 | Nvidia | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Oct 07, 2026 |
-| Qualcomm | #Digital Hardware Engineer 🇺🇸 | Boulder, CO, US / San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721161154) | Oct 06, 2026 |
 | Atlassian | Data Engineer, 2027 Graduate U.S 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | BS Student | [Apply](https://www.atlassian.com/company/careers/details/25998) | Oct 06, 2026 |
 | AMD | Storage & Virtualization Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93046) | Oct 06, 2026 |
 | SpaceX | Application Software Engineer, Employee Experience 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002) | Oct 06, 2026 |
@@ -632,7 +631,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (276)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (277)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -690,6 +689,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Video DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~Early Career Analog Mixed-Signal Modeling Software Engineer (m/f/d) 🇺🇸~~ | Various Locations within Austin Metro Area | apple | New Grad | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 07, 2026 |
+| ~~Qualcomm~~ | ~~#Digital Hardware Engineer 🇺🇸~~ | Boulder, CO, US / San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 06, 2026 |
 | ~~Nvidia~~ | ~~Systems Software Engineer,  AI and Cloud - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 06, 2026 |
 | ~~Atlassian~~ | ~~Data Engineer, 2027 Graduate U.S 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Oct 05, 2026 |
 | ~~Nuro~~ | ~~New Grad Software Engineer, Product Engineering 🇺🇸~~ | Mountain View, California (HQ) | greenhouse | New Grad | Closed | Oct 05, 2026 |
