@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 589
+- **Open positions:** 588
 - **All-time tracked:** 868
 - **Active companies:** 159
-- **Last run (raw / matched):** 48217 postings fetched, 588 passed filters
-- **Last updated:** `2026-11-02 20:33 UTC`
+- **Last run (raw / matched):** 48237 postings fetched, 587 passed filters
+- **Last updated:** `2026-11-02 21:33 UTC`
 
 ## Legend
 
@@ -582,7 +582,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer, Embedded Software (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) | Mar 11, 2026 |
 | SpaceX | Software Engineer, C++ (Starlink) 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) | Mar 11, 2026 |
 | Applied Intuition | Software Engineer - C++ 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/c9473dcb-f651-47bb-9a59-4150bddcdaa8) | Mar 04, 2026 |
-| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/79514) | Mar 02, 2026 |
 | Okta | Splunk Infrastructure Engineer 🇺🇸 | Bellevue, Washington<br>Chicago, Illinois<br>New York, New York<br>San Francisco, California<br>Washington, DC | greenhouse | - | [Apply](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254) | Feb 26, 2026 |
 | DRW | Quantitative Researcher 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7650182) | Feb 25, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer Apprentice - Military Veterans 🇺🇸 | Seattle, WA, USA | amazon_jobs | - | [Apply](https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans) | Feb 24, 2026 |
@@ -632,7 +631,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (279)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (280)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -903,6 +902,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~AMD~~ | ~~Fellow GPU Performance Optimization Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Mar 27, 2026 |
 | ~~AMD~~ | ~~Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Mar 11, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Intelligence Systems 🇺🇸~~ | Reston, Virginia, United States | greenhouse | - | Closed | Mar 11, 2026 |
+| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Mar 02, 2026 |
 | ~~OpenAI~~ | ~~Hardware Tools Engineer 🇺🇸~~ | San Francisco | ashby | - | Closed | Mar 02, 2026 |
 | ~~Hudson River Trading~~ | ~~Software Engineer - Treasury Infrastructure 🇺🇸~~ | New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Hudson River Trading~~ | ~~Software Engineer - AI Tools 🇺🇸~~ | Chicago, Illinois, United States<br>New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
