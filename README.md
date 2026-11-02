@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 588
-- **All-time tracked:** 865
+- **Open positions:** 589
+- **All-time tracked:** 866
 - **Active companies:** 159
-- **Last run (raw / matched):** 48211 postings fetched, 588 passed filters
-- **Last updated:** `2026-11-02 04:34 UTC`
+- **Last run (raw / matched):** 48207 postings fetched, 589 passed filters
+- **Last updated:** `2026-11-02 05:32 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| CrowdStrike | CrowdStrike Platform Resident Consultant - Government (Remote) 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant---Government--Remote-_R30684) | Nov 02, 2026 |
 | Roblox | Software Engineer, Discovery UX 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8304210?gh_jid=8304210) | Oct 30, 2026 |
 | Roblox | [2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) | Oct 30, 2026 |
 | Point72 | Systems Engineer, Collaboration Technology 🇺🇸 | New York, NY | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/8923153002?gh_jid=8923153002) | Oct 29, 2026 |
