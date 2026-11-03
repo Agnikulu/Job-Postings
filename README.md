@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 594
+- **Open positions:** 593
 - **All-time tracked:** 874
 - **Active companies:** 159
-- **Last run (raw / matched):** 47079 postings fetched, 592 passed filters
-- **Last updated:** `2026-11-03 07:32 UTC`
+- **Last run (raw / matched):** 49794 postings fetched, 593 passed filters
+- **Last updated:** `2026-11-03 08:40 UTC`
 
 ## Legend
 
@@ -46,7 +46,6 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Software Engineer - Networking, firmware and C++ 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/92603) | Nov 02, 2026 |
 | AMD | Software Development Engineer - Networking 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/92604) | Nov 02, 2026 |
 | AMD | Software Development Engineer - GPU Interconnects and Ethernet AI 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/92605) | Nov 02, 2026 |
-| CrowdStrike | CrowdStrike Platform Resident Consultant- Government 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant--Government_R30685) | Nov 02, 2026 |
 | CrowdStrike | CrowdStrike Platform Resident Consultant - Government (Remote) 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant---Government--Remote-_R30684) | Nov 02, 2026 |
 | Qualcomm | Calibration Engineer, Associate 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721831785) | Nov 01, 2026 |
 | Roblox | Software Engineer, Discovery UX 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8304210?gh_jid=8304210) | Oct 30, 2026 |
@@ -637,11 +636,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (280)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (281)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~CrowdStrike~~ | ~~CrowdStrike Platform Resident Consultant- Government 🇺🇸~~ | USA - Remote | workday | - | Closed | Nov 02, 2026 |
 | ~~Roblox~~ | ~~[2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 30, 2026 |
 | ~~Glean~~ | ~~Software Engineer, University Grad 🇺🇸~~ | Mountain View, CA | greenhouse | New Grad | Closed | Oct 28, 2026 |
 | ~~Apple~~ | ~~FE Engineer 🇺🇸~~ | Beaverton, United States of America | apple | - | Closed | Oct 28, 2026 |
