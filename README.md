@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 593
 - **All-time tracked:** 879
 - **Active companies:** 159
-- **Last run (raw / matched):** 47079 postings fetched, 631 passed filters
-- **Last updated:** `2026-11-03 20:37 UTC`
+- **Last run (raw / matched):** 48304 postings fetched, 632 passed filters
+- **Last updated:** `2026-11-03 21:33 UTC`
 
 ## Legend
 
@@ -41,8 +41,8 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
-| Nvidia | PCIe Post-Silicon Validation Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108) | Nov 03, 2026 |
 | Nvidia | GPU System and Scheduling Architect – New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2028824) | Nov 03, 2026 |
+| Nvidia | PCIe Post-Silicon Validation Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108) | Nov 03, 2026 |
 | Apple | Software Engineer - VE 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200693002-0836/software-engineer-ve) | Nov 03, 2026 |
 | Netflix | Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸 | Los Gatos,California,United States of America | eightfold | - | [Apply](https://explore.jobs.netflix.net/careers/job/790319328210) | Nov 03, 2026 |
 | Applied Intuition | Software Engineer (Sunnyvale, CA) 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3) | Nov 02, 2026 |
