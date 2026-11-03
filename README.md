@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 595
+- **Open positions:** 593
 - **All-time tracked:** 874
 - **Active companies:** 159
-- **Last run (raw / matched):** 48290 postings fetched, 594 passed filters
-- **Last updated:** `2026-11-03 00:49 UTC`
+- **Last run (raw / matched):** 47041 postings fetched, 591 passed filters
+- **Last updated:** `2026-11-03 01:36 UTC`
 
 ## Legend
 
@@ -50,7 +50,6 @@ how to fork, how to add companies, and how filtering works.
 | CrowdStrike | CrowdStrike Platform Resident Consultant - Government (Remote) 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant---Government--Remote-_R30684) | Nov 02, 2026 |
 | Qualcomm | Calibration Engineer, Associate 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721831785) | Nov 01, 2026 |
 | Roblox | Software Engineer, Discovery UX 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8304210?gh_jid=8304210) | Oct 30, 2026 |
-| Roblox | [2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) | Oct 30, 2026 |
 | Point72 | Systems Engineer, Collaboration Technology 🇺🇸 | New York, NY | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/8923153002?gh_jid=8923153002) | Oct 29, 2026 |
 | Bloomberg LP | Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Semiconductors-Equity-Research-Associate/45869) | Oct 29, 2026 |
 | Qualcomm | Automation Developer Engineer 🇺🇸 | San Diego, CA, US / Boulder, CO, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721803210) | Oct 28, 2026 |
@@ -169,7 +168,6 @@ how to fork, how to add companies, and how filtering works.
 | Atlassian | Software Engineer, 2027 Graduate U.S. 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | - | [Apply](https://www.atlassian.com/company/careers/details/25813) | Sep 29, 2026 |
 | Apple | Software Engineer, Information Systems & Technology 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200685188-0157/software-engineer-information-systems-technology) | Sep 29, 2026 |
 | Apple | Software Engineer, Information Systems & Technology 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200685186-3956/software-engineer-information-systems-technology) | Sep 29, 2026 |
-| Nvidia | System Software Engineer - GPU Power and Performance Management 🇺🇸 | US, CA, Santa Clara | workday | - | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026396) | Sep 29, 2026 |
 | Nvidia | Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) | Sep 29, 2026 |
 | Perplexity AI | Member of Technical Staff (New Grad) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511) | Sep 29, 2026 |
 | Apple |  Acoustics Associate Lab Engineer 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200685964-0836/%EF%A3%BF-acoustics-associate-lab-engineer) | Sep 28, 2026 |
@@ -638,11 +636,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (279)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (281)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Roblox~~ | ~~[2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 30, 2026 |
 | ~~Glean~~ | ~~Software Engineer, University Grad 🇺🇸~~ | Mountain View, CA | greenhouse | New Grad | Closed | Oct 28, 2026 |
 | ~~Apple~~ | ~~FE Engineer 🇺🇸~~ | Beaverton, United States of America | apple | - | Closed | Oct 28, 2026 |
 | ~~Apple~~ | ~~Physical Design Methodology CAD Engineer 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Oct 28, 2026 |
@@ -722,6 +721,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Microsoft~~ | ~~Design Verification Engineer 🇺🇸~~ | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US / Redmond, WA, US | microsoft | - | Closed | Sep 30, 2026 |
 | ~~GitHub~~ | ~~Associate - Software Development & Engineering 🇺🇸~~ | Austin, TX | linkedin | - | Closed | Sep 30, 2026 |
 | ~~Nvidia~~ | ~~Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026 🇺🇸~~ | 5 Locations | workday | New Grad | Closed | Sep 29, 2026 |
+| ~~Nvidia~~ | ~~System Software Engineer - GPU Power and Performance Management 🇺🇸~~ | US, CA, Santa Clara | workday | - | Closed | Sep 29, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, Fundamental Generative AI - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 29, 2026 |
 | ~~Qualcomm~~ | ~~Modem Integration & Test Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 28, 2026 |
 | ~~Anduril~~ | ~~Data Analyst, Quality 🇺🇸~~ | Ashville, Ohio, United States | greenhouse | - | Closed | Sep 28, 2026 |
