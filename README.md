@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 595
+- **Open positions:** 594
 - **All-time tracked:** 884
 - **Active companies:** 159
-- **Last run (raw / matched):** 47229 postings fetched, 633 passed filters
-- **Last updated:** `2026-11-04 22:35 UTC`
+- **Last run (raw / matched):** 48479 postings fetched, 633 passed filters
+- **Last updated:** `2026-11-04 23:32 UTC`
 
 ## Legend
 
@@ -108,7 +108,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | SRAM Circuit Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | Oct 13, 2026 |
 | AMD | Forward Deployed AI Research Scientist 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/87744) | Oct 12, 2026 |
 | AMD | ML Systems Research Engineer, RL / Inference / Agent Systems 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/92704) | Oct 12, 2026 |
-| CoreWeave | Software and AI Engineer 🇺🇸 | Sunnyvale, CA / Bellevue, WA / Dallas, TX | greenhouse | - | [Apply](https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006) | Oct 12, 2026 |
 | Apple | OS Software Engineer, Evaluation 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation) | Oct 12, 2026 |
 | Shield AI | Engineer I, Software - Factory Team - New Grad - 6235 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) | Oct 10, 2026 |
 | Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446720708572) | Oct 09, 2026 |
@@ -638,7 +637,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (289)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (290)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -683,6 +682,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Snowflake~~ | ~~AI Associate, Office of the CEO 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 12, 2026 |
 | ~~Nvidia~~ | ~~Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Oct 12, 2026 |
 | ~~Nvidia~~ | ~~Developer Technology Engineer, Public Sector - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 12, 2026 |
+| ~~CoreWeave~~ | ~~Software and AI Engineer 🇺🇸~~ | Sunnyvale, CA / Bellevue, WA / Dallas, TX | greenhouse | - | Closed | Oct 12, 2026 |
 | ~~Apple~~ | ~~Platform & Data Engineer 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 12, 2026 |
 | ~~Nvidia~~ | ~~Software Engineer, DL Kernel Libraries - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 11, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
