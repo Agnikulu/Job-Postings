@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 593
-- **All-time tracked:** 882
+- **Open positions:** 595
+- **All-time tracked:** 884
 - **Active companies:** 159
-- **Last run (raw / matched):** 47218 postings fetched, 631 passed filters
-- **Last updated:** `2026-11-04 21:33 UTC`
+- **Last run (raw / matched):** 47229 postings fetched, 633 passed filters
+- **Last updated:** `2026-11-04 22:35 UTC`
 
 ## Legend
 
@@ -586,6 +586,7 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer, Starlink Network 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8458001002?gh_jid=8458001002) | Mar 11, 2026 |
 | SpaceX | Software Engineer, Embedded Software (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8436708002?gh_jid=8436708002) | Mar 11, 2026 |
 | SpaceX | Software Engineer, C++ (Starlink) 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) | Mar 11, 2026 |
+| xAI | Software Engineer, Kernels/CUDA (C++) 🇺🇸 | Palo Alto, CA<br>Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5052040007) | Mar 06, 2026 |
 | Applied Intuition | Software Engineer - C++ 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/c9473dcb-f651-47bb-9a59-4150bddcdaa8) | Mar 04, 2026 |
 | Okta | Splunk Infrastructure Engineer 🇺🇸 | Bellevue, Washington<br>Chicago, Illinois<br>New York, New York<br>San Francisco, California<br>Washington, DC | greenhouse | - | [Apply](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254) | Feb 26, 2026 |
 | DRW | Quantitative Researcher 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7650182) | Feb 25, 2026 |
@@ -622,6 +623,7 @@ how to fork, how to add companies, and how filtering works.
 | Point72 | Data Engineer 🇺🇸 | New York | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) | Jan 23, 2025 |
 | Point72 | Quantitative Software Developer 🇺🇸 | New York | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) | Jan 22, 2025 |
 | Goodfire | Research Fellow 🇺🇸 | San Francisco, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/goodfire/jobs/4499053008) | Jan 17, 2025 |
+| xAI | Software Engineer, Training/Inference (C++) 🇺🇸 | Palo Alto, CA<br>Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/4533894007) | Oct 04, 2024 |
 | Applied Intuition | Research Engineer - AI/RL Infrastructure 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/091ed808-95c9-420b-8061-0ff2eb9342bc) | Sep 17, 2024 |
 | Point72 | Quantitative Researcher - Machine Learning 🇺🇸 | New York | greenhouse | PhD Student | [Apply](https://boards.greenhouse.io/point72/jobs/7297513002?gh_jid=7297513002) | Aug 15, 2024 |
 | Point72 | Quantitative Analyst / Software Developer 🇺🇸 | New York | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) | Aug 15, 2024 |
