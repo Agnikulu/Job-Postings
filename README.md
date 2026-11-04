@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 594
+- **Open positions:** 595
 - **All-time tracked:** 882
 - **Active companies:** 159
-- **Last run (raw / matched):** 47186 postings fetched, 632 passed filters
-- **Last updated:** `2026-11-04 16:36 UTC`
+- **Last run (raw / matched):** 47200 postings fetched, 633 passed filters
+- **Last updated:** `2026-11-04 17:37 UTC`
 
 ## Legend
 
@@ -134,6 +134,7 @@ how to fork, how to add companies, and how filtering works.
 | Zillow | Applied Scientist 🇺🇸 | Remote-USA | workday | - | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1) | Oct 07, 2026 |
 | Nvidia | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Oct 07, 2026 |
 | CrowdStrike | CrowdStrike Platform Resident Consultant (Remote) 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant--Remote-_R30267) | Oct 07, 2026 |
+| Qualcomm | #Digital Hardware Engineer 🇺🇸 | Boulder, CO, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721161154) | Oct 06, 2026 |
 | Atlassian | Data Engineer, 2027 Graduate U.S 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | BS Student | [Apply](https://www.atlassian.com/company/careers/details/25998) | Oct 06, 2026 |
 | AMD | Storage & Virtualization Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93046) | Oct 06, 2026 |
 | SpaceX | Application Software Engineer, Employee Experience 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002) | Oct 06, 2026 |
@@ -637,7 +638,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (288)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (287)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -701,7 +702,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Video DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~Early Career Analog Mixed-Signal Modeling Software Engineer (m/f/d) 🇺🇸~~ | Various Locations within Austin Metro Area | apple | New Grad | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 07, 2026 |
-| ~~Qualcomm~~ | ~~#Digital Hardware Engineer 🇺🇸~~ | Boulder, CO, US / San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 06, 2026 |
 | ~~Nvidia~~ | ~~Systems Software Engineer,  AI and Cloud - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 06, 2026 |
 | ~~AMD~~ | ~~SW Engineer 🇺🇸~~ | GB,Cambridge | jibe | New Grad | Closed | Oct 05, 2026 |
 | ~~Atlassian~~ | ~~Data Engineer, 2027 Graduate U.S 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Oct 05, 2026 |
