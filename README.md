@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 595
 - **All-time tracked:** 882
 - **Active companies:** 159
-- **Last run (raw / matched):** 47221 postings fetched, 633 passed filters
-- **Last updated:** `2026-11-04 19:34 UTC`
+- **Last run (raw / matched):** 47219 postings fetched, 633 passed filters
+- **Last updated:** `2026-11-04 20:30 UTC`
 
 ## Legend
 
@@ -72,7 +72,7 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | Software Engineer, Reliability 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | Oct 23, 2026 |
 | Shield AI | Software Engineer I - New Grad (R6052) 🇺🇸 | Seattle, Washington | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
-| Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
+| Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
@@ -298,7 +298,7 @@ how to fork, how to add companies, and how filtering works.
 | Fireworks AI | Member of Technical Staff, New Grad (BS/MS) 🇺🇸 | San Mateo | ashby | Masters, New Grad | [Apply](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e) | Sep 08, 2026 |
 | Fireworks AI | Member of Technical Staff, Research (2026 PhD New Grad) - Seattle 🇺🇸 | Greater Seattle Area | ashby | PhD, New Grad | [Apply](https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58) | Sep 08, 2026 |
 | Fireworks AI | Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad) 🇺🇸 | San Mateo | ashby | PhD, New Grad | [Apply](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef) | Sep 08, 2026 |
-| Cursor | Software Engineer, New Grad 2027 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) | Sep 08, 2026 |
+| Cursor | Software Engineer, New Grad 2027 🇺🇸 | San Francisco, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) | Sep 08, 2026 |
 | SpaceX | Full Stack Software Engineer, Internal Systems 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8785502002?gh_jid=8785502002) | Sep 07, 2026 |
 | SpaceX | Application Software Engineer, Internal Systems 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8785507002?gh_jid=8785507002) | Sep 07, 2026 |
 | Nvidia | ASIC Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309) | Sep 04, 2026 |
