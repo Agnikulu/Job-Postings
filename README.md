@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 596
+- **Open positions:** 595
 - **All-time tracked:** 882
 - **Active companies:** 159
-- **Last run (raw / matched):** 48342 postings fetched, 635 passed filters
-- **Last updated:** `2026-11-03 23:33 UTC`
+- **Last run (raw / matched):** 48394 postings fetched, 635 passed filters
+- **Last updated:** `2026-11-04 00:52 UTC`
 
 ## Legend
 
@@ -398,7 +398,6 @@ how to fork, how to add companies, and how filtering works.
 | Applied Intuition | Software Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694) | Aug 14, 2026 |
 | Anduril | Embedded Software Engineer, Manufacturing Test, Intelligence Systems 🇺🇸 | Santa Ana, California, United States | greenhouse | MS Student | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5212828007?gh_jid=5212828007) | Aug 14, 2026 |
 | SpaceX | Software Engineer (Starlink) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002) | Aug 13, 2026 |
-| Apple | Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities 🇺🇸 | Austin, United States of America | apple | New Grad | [Apply](https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities) | Aug 12, 2026 |
 | SpaceX | Signal Integrity Engineer - Serdes, Satellites (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002) | Aug 12, 2026 |
 | SpaceX | Signal Integrity Engineer - Serdes, Satellites (Starlink) 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8698740002?gh_jid=8698740002) | Aug 12, 2026 |
 | SpaceX | Full Stack Software Engineer, Manufacturing Systems 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8703540002?gh_jid=8703540002) | Aug 12, 2026 |
@@ -639,7 +638,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (286)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (287)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -872,6 +871,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Adobe~~ | ~~Photoshop Developer, GPU/Imaging 🇺🇸~~ | 4 Locations | workday | - | Closed | Aug 14, 2026 |
 | ~~Adobe~~ | ~~Software Development Engineer - Front End 🇺🇸~~ | San Francisco | workday | - | Closed | Aug 14, 2026 |
 | ~~SpaceX~~ | ~~IT Network Infrastructure Technician 🇺🇸~~ | Cape Canaveral, FL | greenhouse | - | Closed | Aug 13, 2026 |
+| ~~Apple~~ | ~~Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities 🇺🇸~~ | Austin, United States of America | apple | New Grad | Closed | Aug 12, 2026 |
 | ~~Roblox~~ | ~~Software Engineer, Account Authentication 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Aug 12, 2026 |
 | ~~SpaceX~~ | ~~Full Stack Software Engineer, MES (Manufacturing Execution System) 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Aug 11, 2026 |
 | ~~Google~~ | ~~Software Engineer, Early Career, Campus 🇺🇸~~ | Mountain View, CA, USA / Cambridge, MA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / New York, NY, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Jose, CA, USA / Sunnyvale, CA, USA | google_careers | New Grad | Closed | Aug 07, 2026 |
