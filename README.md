@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 595
+- **Open positions:** 593
 - **All-time tracked:** 882
 - **Active companies:** 159
-- **Last run (raw / matched):** 47219 postings fetched, 633 passed filters
-- **Last updated:** `2026-11-04 20:30 UTC`
+- **Last run (raw / matched):** 47218 postings fetched, 631 passed filters
+- **Last updated:** `2026-11-04 21:33 UTC`
 
 ## Legend
 
@@ -41,7 +41,6 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | Qualcomm | M/L Compiler 🇺🇸 | New York, NY, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446716318710) | Nov 03, 2026 |
-| Qualcomm | Modem Machine Learning Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721916659) | Nov 03, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
 | Nvidia | GPU System and Scheduling Architect – New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2028824) | Nov 03, 2026 |
@@ -91,7 +90,6 @@ how to fork, how to add companies, and how filtering works.
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Wisconsin - Madison | lever | New Grad | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | New York - New York City | lever | New Grad | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Massachusetts - Boston | lever | New Grad | [Apply](https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5) | Oct 16, 2026 |
-| Together AI | Hardware Security Engineer, New Grad (2027) 🇺🇸 | San Francisco | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) | Oct 16, 2026 |
 | Intuit | Software Engineer 1 🇺🇸 | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536) | Oct 15, 2026 |
 | Affirm | Software Engineer I, Fullstack (Search) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Oct 15, 2026 |
 | Microsoft | Design Verification Engineer - Fabric Interconnect 🇺🇸 | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557039427) | Oct 15, 2026 |
@@ -631,18 +629,19 @@ how to fork, how to add companies, and how filtering works.
 | Squarepoint Capital | Junior Quant Researcher - ML Alpha Research 🇺🇸 | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464) | Jul 11, 2024 |
 | Jane Street | Machine Learning Performance Engineer 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/7449077002?gh_jid=7449077002) | May 20, 2024 |
 | Jump Trading | HPC Systems Engineer 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=5752845) | Mar 08, 2024 |
-| Jump Trading | UI Developer 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=5500453) | Dec 05, 2023 |
+| Jump Trading | Software Engineer (UI) 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=5500453) | Dec 05, 2023 |
 | Databricks | Software Engineer - New Grad, Distributed Data Systems (2027 Start) 🇺🇸 | Bellevue, Washington<br>Mountain View, California | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | Aug 04, 2023 |
 | Databricks | Software Engineer - New Grad (2027 Start) 🇺🇸 | Bellevue, Washington<br>Mountain View, California<br>San Francisco, California<br>Vancouver, Canada | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Aug 04, 2023 |
 | Squarepoint Capital | Junior Quant Researcher 🇺🇸 | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376) | Apr 03, 2019 |
 
 
 <details>
-<summary><b>Closed positions (287)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (289)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Resident Consultant- Government 🇺🇸~~ | USA - Remote | workday | - | Closed | Nov 02, 2026 |
 | ~~Roblox~~ | ~~[2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 30, 2026 |
 | ~~Glean~~ | ~~Software Engineer, University Grad 🇺🇸~~ | Mountain View, CA | greenhouse | New Grad | Closed | Oct 28, 2026 |
@@ -672,6 +671,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Oct 19, 2026 |
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
 | ~~Lyft~~ | ~~Software Engineer 🇺🇸~~ | San Francisco, CA | greenhouse | - | Closed | Oct 16, 2026 |
+| ~~Together AI~~ | ~~Hardware Security Engineer, New Grad (2027) 🇺🇸~~ | San Francisco | greenhouse | New Grad | Closed | Oct 16, 2026 |
 | ~~Apple~~ | ~~Machine Learning Engineer, Creative Intelligence Systems 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 15, 2026 |
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
