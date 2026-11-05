@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 590
+- **Open positions:** 589
 - **All-time tracked:** 887
 - **Active companies:** 159
-- **Last run (raw / matched):** 47273 postings fetched, 628 passed filters
-- **Last updated:** `2026-11-05 22:34 UTC`
+- **Last run (raw / matched):** 47270 postings fetched, 627 passed filters
+- **Last updated:** `2026-11-05 23:32 UTC`
 
 ## Legend
 
@@ -369,7 +369,6 @@ how to fork, how to add companies, and how filtering works.
 | xAI | OSP Engineer - Memphis 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5215570007) | Aug 18, 2026 |
 | SpaceX | Integration & Test Engineer, AI Satellites (Starmind) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002) | Aug 18, 2026 |
 | Five Rings | LINK 2027: Software Development Intensive Program 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008) | Aug 18, 2026 |
-| Roblox | Software Engineer, Foundation AI 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) | Aug 17, 2026 |
 | SpaceX | Security Software Engineer (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002) | Aug 17, 2026 |
 | SpaceX | Security Software Engineer (Starlink) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002) | Aug 17, 2026 |
 | SpaceX | Security Software Engineer (Starlink) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002) | Aug 17, 2026 |
@@ -633,7 +632,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (297)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (298)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -863,6 +862,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | Pittsburgh, United States of America | apple | - | Closed | Aug 17, 2026 |
 | ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | Seattle, United States of America | apple | - | Closed | Aug 17, 2026 |
 | ~~Apple~~ | ~~iOS Engineer - Creator Studio 🇺🇸~~ | San Diego, United States of America | apple | - | Closed | Aug 17, 2026 |
+| ~~Roblox~~ | ~~Software Engineer, Foundation AI 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Aug 17, 2026 |
 | ~~LangChain~~ | ~~Deployed Engineer (Early Career-NYC) 🇺🇸~~ | New York, NY | ashby | New Grad | Closed | Aug 17, 2026 |
 | ~~SpaceX~~ | ~~New Graduate Engineer, Silicon Engineering 🇺🇸~~ | Palo Alto, CA | greenhouse | New Grad | Closed | Aug 14, 2026 |
 | ~~SpaceX~~ | ~~New Graduate Engineer, Silicon Engineering 🇺🇸~~ | Irvine, CA | greenhouse | New Grad | Closed | Aug 14, 2026 |
