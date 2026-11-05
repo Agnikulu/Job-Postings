@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 591
-- **All-time tracked:** 886
+- **All-time tracked:** 887
 - **Active companies:** 159
-- **Last run (raw / matched):** 46474 postings fetched, 613 passed filters
-- **Last updated:** `2026-11-05 19:31 UTC`
+- **Last run (raw / matched):** 50239 postings fetched, 630 passed filters
+- **Last updated:** `2026-11-05 20:41 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
 | AMD | Fellow, AI Workload Optimization 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/79010) | Nov 05, 2026 |
 | Qualcomm | M/L Compiler 🇺🇸 | New York, NY, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446716318710) | Nov 03, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
@@ -352,7 +353,6 @@ how to fork, how to add companies, and how filtering works.
 | Applied Intuition | UX Test Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | Aug 25, 2026 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | Aug 25, 2026 |
 | Broadcom | PCIe QA Engineer 🇺🇸 | USA-California-San Jose-1320 Ridder Park Drive | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/PCIe-QA-Engineer_R026923) | Aug 24, 2026 |
-| Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e) | Aug 24, 2026 |
 | SpaceX | Full Stack Software Engineer, Internal Systems 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002) | Aug 23, 2026 |
 | Applied Intuition | Research Scientist - Humanoid Robotics 🇺🇸 | Sunnyvale | ashby | PhD | [Apply](https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1) | Aug 22, 2026 |
 | SpaceX | Electromagnetic Effects Engineer (Starlink Aviation) 🇺🇸 | Woodinville, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8731514002?gh_jid=8731514002) | Aug 21, 2026 |
@@ -634,7 +634,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (295)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (296)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -850,6 +850,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Roblox~~ | ~~Software Engineer, Creator 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Aug 26, 2026 |
 | ~~CrowdStrike~~ | ~~Associate Security Engineer (Remote) 🇺🇸~~ | USA - Remote, TX | workday | - | Closed | Aug 25, 2026 |
 | ~~Qualcomm~~ | ~~Embedded NPU Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Aug 24, 2026 |
+| ~~Benchling~~ | ~~Research Engineer, Model Evaluation and Improvement 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Aug 24, 2026 |
 | ~~SIG~~ | ~~Associate Linux/Window Engineer \| Platform Services \| Experienced Hire 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | - | Closed | Aug 23, 2026 |
 | ~~SIG~~ | ~~Associate Linux/Windows Engineer  - New Grad 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | New Grad | Closed | Aug 23, 2026 |
 | ~~SIG~~ | ~~Sell Side Research Associate, Technology 🇺🇸~~ | New York, NY | linkedin | - | Closed | Aug 23, 2026 |
