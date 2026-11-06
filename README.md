@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 588
-- **All-time tracked:** 888
+- **Open positions:** 598
+- **All-time tracked:** 899
 - **Active companies:** 159
-- **Last run (raw / matched):** 48579 postings fetched, 627 passed filters
-- **Last updated:** `2026-11-06 15:37 UTC`
+- **Last run (raw / matched):** 47321 postings fetched, 636 passed filters
+- **Last updated:** `2026-11-06 16:40 UTC`
 
 ## Legend
 
@@ -40,6 +40,17 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93949) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93943) | Nov 06, 2026 |
+| AMD | MTS Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93939) | Nov 06, 2026 |
+| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93936) | Nov 06, 2026 |
+| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93935) | Nov 06, 2026 |
+| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93927) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93925) | Nov 06, 2026 |
+| AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93887) | Nov 06, 2026 |
+| AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93883) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93868) | Nov 06, 2026 |
+| AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93862) | Nov 06, 2026 |
 | AMD | Test Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93857) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
 | AMD | Fellow, AI Workload Optimization 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/79010) | Nov 05, 2026 |
@@ -483,7 +494,6 @@ how to fork, how to add companies, and how filtering works.
 | Jane Street | Quantitative Researcher 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/8498547002?gh_jid=8498547002) | Jul 06, 2026 |
 | Jane Street | Machine Learning Researcher 🇺🇸 | New York, New York, United States | greenhouse | PhD Student | [Apply](https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002) | Jul 06, 2026 |
 | Hudson River Trading | Junior Trading Systems Engineer 🇺🇸 | Chicago, Illinois, United States<br>Dublin, Ireland<br>London, United Kingdom<br>New York, NY, United States | greenhouse | - | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074) | Jul 06, 2026 |
-| Akuna Capital | Junior Quantitative Risk Analyst 🇺🇸 | Chicago | greenhouse | - | [Apply](https://www.akunacapital.com/careers/job/8035515/?gh_jid=8035515) | Jul 06, 2026 |
 | xAI | Software Engineer, Network (C++) 🇺🇸 | Palo Alto, CA<br>Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5179367007) | Jul 02, 2026 |
 | IMC Trading | Graduate Deep Learning Researcher - New York 🇺🇸 | New York, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) | Jul 01, 2026 |
 | Anduril | Mission Software Engineer, EW 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007) | Jul 01, 2026 |
@@ -631,7 +641,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (300)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (301)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -896,6 +906,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - C++ 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - Python 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
 | ~~Jane Street~~ | ~~Software Engineer 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | Jul 06, 2026 |
+| ~~Akuna Capital~~ | ~~Junior Quantitative Risk Analyst 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 06, 2026 |
 | ~~DoorDash~~ | ~~Software Engineer, Spark Platform 🇺🇸~~ | San Francisco, CA<br>Seattle, WA<br>Sunnyvale, CA<br>New York, NY | greenhouse | - | Closed | Jul 02, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Maneuvering Tech 🇺🇸~~ | Mountain View, CA, USA<br>San Francisco, CA, USA<br>Pittsburgh, PA, USA | greenhouse | - | Closed | Jun 30, 2026 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
