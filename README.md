@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 607
+- **Open positions:** 605
 - **All-time tracked:** 918
 - **Active companies:** 159
-- **Last run (raw / matched):** 48356 postings fetched, 683 passed filters
-- **Last updated:** `2026-11-06 21:33 UTC`
+- **Last run (raw / matched):** 47365 postings fetched, 682 passed filters
+- **Last updated:** `2026-11-06 22:36 UTC`
 
 ## Legend
 
@@ -95,7 +95,6 @@ how to fork, how to add companies, and how filtering works.
 | Shield AI | Software Engineer I - New Grad (R6052) 🇺🇸 | Seattle, Washington | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
-| Databricks | Associate Forward Deployed Engineer 🇺🇸 | New York City, New York | greenhouse | - | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
@@ -370,7 +369,6 @@ how to fork, how to add companies, and how filtering works.
 | Applied Intuition | Build & Release Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352) | Aug 25, 2026 |
 | Applied Intuition | UX Test Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4) | Aug 25, 2026 |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95) | Aug 25, 2026 |
-| Broadcom | PCIe QA Engineer 🇺🇸 | USA-California-San Jose-1320 Ridder Park Drive | workday | - | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/PCIe-QA-Engineer_R026923) | Aug 24, 2026 |
 | SpaceX | Full Stack Software Engineer, Internal Systems 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002) | Aug 23, 2026 |
 | Applied Intuition | Research Scientist - Humanoid Robotics 🇺🇸 | Sunnyvale | ashby | PhD | [Apply](https://jobs.ashbyhq.com/applied/4cd7cf1d-717c-4887-93b4-520a40a906b1) | Aug 22, 2026 |
 | SpaceX | Electromagnetic Effects Engineer (Starlink Aviation) 🇺🇸 | Woodinville, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8731514002?gh_jid=8731514002) | Aug 21, 2026 |
@@ -650,7 +648,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (311)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (313)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -671,6 +669,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | Mountain View, California | greenhouse | - | Closed | Oct 23, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Scenes 🇺🇸~~ | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Okta~~ | ~~Solutions Engineering Associate, Auth0 🇺🇸~~ | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | Closed | Oct 22, 2026 |
+| ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | New York City, New York | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Pure Storage~~ | ~~Junior DevOps Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Oct 21, 2026 |
 | ~~Nvidia~~ | ~~High-Performance LLM Training Engineer - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 21, 2026 |
 | ~~Etsy~~ | ~~Software Engineer I, Marketplace Makers 🇺🇸~~ | Brooklyn, New York | workday | Early Career | Closed | Oct 21, 2026 |
@@ -874,6 +873,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Roblox~~ | ~~Software Engineer, Creator 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Aug 26, 2026 |
 | ~~CrowdStrike~~ | ~~Associate Security Engineer (Remote) 🇺🇸~~ | USA - Remote, TX | workday | - | Closed | Aug 25, 2026 |
 | ~~Qualcomm~~ | ~~Embedded NPU Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Aug 24, 2026 |
+| ~~Broadcom~~ | ~~PCIe QA Engineer 🇺🇸~~ | USA-California-San Jose-1320 Ridder Park Drive | workday | - | Closed | Aug 24, 2026 |
 | ~~Benchling~~ | ~~Research Engineer, Model Evaluation and Improvement 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Aug 24, 2026 |
 | ~~SIG~~ | ~~Associate Linux/Window Engineer \| Platform Services \| Experienced Hire 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | - | Closed | Aug 23, 2026 |
 | ~~SIG~~ | ~~Associate Linux/Windows Engineer  - New Grad 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | New Grad | Closed | Aug 23, 2026 |
