@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 586
-- **All-time tracked:** 887
+- **Open positions:** 588
+- **All-time tracked:** 888
 - **Active companies:** 159
-- **Last run (raw / matched):** 47273 postings fetched, 625 passed filters
-- **Last updated:** `2026-11-06 14:35 UTC`
+- **Last run (raw / matched):** 48579 postings fetched, 627 passed filters
+- **Last updated:** `2026-11-06 15:37 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| AMD | Test Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93857) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
 | AMD | Fellow, AI Workload Optimization 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/79010) | Nov 05, 2026 |
 | Qualcomm | M/L Compiler 🇺🇸 | New York, NY, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446716318710) | Nov 03, 2026 |
@@ -92,6 +93,7 @@ how to fork, how to add companies, and how filtering works.
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Massachusetts - Boston | lever | New Grad | [Apply](https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5) | Oct 16, 2026 |
 | Intuit | Software Engineer 1 🇺🇸 | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | [Apply](https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536) | Oct 15, 2026 |
 | Affirm | Software Engineer I, Fullstack (Search) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Oct 15, 2026 |
+| Microsoft | Design Verification Engineer - Fabric Interconnect 🇺🇸 | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557039427) | Oct 15, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722249006) | Oct 15, 2026 |
 | Skydio | Product Design Engineer (Early Career) 🇺🇸 | San Mateo, California, United States | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1) | Oct 15, 2026 |
 | Apple | Gate-level SigEM/SEB/FIT CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200689481-0157/gate-level-sigem-seb-fit-cad-engineer) | Oct 15, 2026 |
@@ -629,7 +631,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (301)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (300)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -668,7 +670,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Lyft~~ | ~~Software Engineer 🇺🇸~~ | San Francisco, CA | greenhouse | - | Closed | Oct 16, 2026 |
 | ~~Together AI~~ | ~~Hardware Security Engineer, New Grad (2027) 🇺🇸~~ | San Francisco | greenhouse | New Grad | Closed | Oct 16, 2026 |
 | ~~Apple~~ | ~~Machine Learning Engineer, Creative Intelligence Systems 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 15, 2026 |
-| ~~Microsoft~~ | ~~Design Verification Engineer - Fabric Interconnect 🇺🇸~~ | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US | microsoft | - | Closed | Oct 15, 2026 |
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
 | ~~Replit~~ | ~~Data Scientist, Growth 🇺🇸~~ | Foster City, CA | ashby | - | Closed | Oct 13, 2026 |
