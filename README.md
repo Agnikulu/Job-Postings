@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 604
-- **All-time tracked:** 916
+- **Open positions:** 607
+- **All-time tracked:** 918
 - **Active companies:** 159
-- **Last run (raw / matched):** 47033 postings fetched, 642 passed filters
-- **Last updated:** `2026-11-06 20:36 UTC`
+- **Last run (raw / matched):** 48356 postings fetched, 683 passed filters
+- **Last updated:** `2026-11-06 21:33 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Netflix | Software Engineer in Test 5 - Android Player 🇺🇸 | Los Gatos,California,United States of America | eightfold | - | [Apply](https://explore.jobs.netflix.net/careers/job/790319386317) | Nov 06, 2026 |
+| AMD | Fellow, Agentic AI Software 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96895) | Nov 06, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94365) | Nov 06, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94401) | Nov 06, 2026 |
 | AMD | Software Development Engineer 🇺🇸 | US,DC,Washington | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94445) | Nov 06, 2026 |
@@ -93,6 +95,7 @@ how to fork, how to add companies, and how filtering works.
 | Shield AI | Software Engineer I - New Grad (R6052) 🇺🇸 | Seattle, Washington | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | Oct 22, 2026 |
+| Databricks | Associate Forward Deployed Engineer 🇺🇸 | New York City, New York | greenhouse | - | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) | Oct 22, 2026 |
 | Google | UX Engineer, HUE Futures 🇺🇸 | San Francisco, CA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/131685895836181190) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
@@ -647,7 +650,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (312)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (311)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -668,7 +671,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | Mountain View, California | greenhouse | - | Closed | Oct 23, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Scenes 🇺🇸~~ | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Okta~~ | ~~Solutions Engineering Associate, Auth0 🇺🇸~~ | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | Closed | Oct 22, 2026 |
-| ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | New York City, New York | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Pure Storage~~ | ~~Junior DevOps Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Oct 21, 2026 |
 | ~~Nvidia~~ | ~~High-Performance LLM Training Engineer - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 21, 2026 |
 | ~~Etsy~~ | ~~Software Engineer I, Marketplace Makers 🇺🇸~~ | Brooklyn, New York | workday | Early Career | Closed | Oct 21, 2026 |
