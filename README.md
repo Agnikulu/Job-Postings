@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 604
-- **All-time tracked:** 919
+- **Open positions:** 606
+- **All-time tracked:** 921
 - **Active companies:** 159
-- **Last run (raw / matched):** 47419 postings fetched, 680 passed filters
-- **Last updated:** `2026-11-07 18:31 UTC`
+- **Last run (raw / matched):** 47416 postings fetched, 683 passed filters
+- **Last updated:** `2026-11-07 19:33 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Harvey | Associate Legal Engineer 🇺🇸 | New York | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | Nov 07, 2026 |
+| Harvey | Associate Legal Engineer 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | Nov 07, 2026 |
 | Nvidia | Research Scientist, AI and Systems Security - PhD New College Grad 2026 🇺🇸 | 2 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Nov 06, 2026 |
 | Netflix | Software Engineer in Test 5 - Android Player 🇺🇸 | Los Gatos,California,United States of America | eightfold | - | [Apply](https://explore.jobs.netflix.net/careers/job/790319386317) | Nov 06, 2026 |
 | AMD | Fellow, Agentic AI Software 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96895) | Nov 06, 2026 |
