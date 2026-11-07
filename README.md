@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 605
+- **Open positions:** 604
 - **All-time tracked:** 919
 - **Active companies:** 159
-- **Last run (raw / matched):** 48696 postings fetched, 681 passed filters
-- **Last updated:** `2026-11-07 16:30 UTC`
+- **Last run (raw / matched):** 47920 postings fetched, 665 passed filters
+- **Last updated:** `2026-11-07 17:30 UTC`
 
 ## Legend
 
@@ -427,7 +427,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Full Stack Software Engineer, Internal Systems - Memphis 🇺🇸 | Memphis, TN | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002) | Aug 05, 2026 |
 | Roblox | [2027] Software Engineer, Early Career 🇺🇸 | San Mateo, CA, United States | greenhouse | New Grad | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | Aug 05, 2026 |
 | Apptronik | Software Engineer - Dexterous Manipulation 🇺🇸 | Austin, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6135687004?gh_jid=6135687004) | Aug 05, 2026 |
-| Applied Intuition | Android Software Engineer - Applications 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a) | Aug 05, 2026 |
 | Thinking Machines Lab | Research Engineer, Infrastructure, Kernels 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/ThinkingMachines/2d7a9e99-836a-475b-9ae3-b6b1df8baa6d) | Aug 04, 2026 |
 | Thinking Machines Lab | Research Engineer, Infrastructure, Inference 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/ThinkingMachines/4087e0f6-4295-419a-ba02-08e95a74ceea) | Aug 04, 2026 |
 | Thinking Machines Lab | Research Engineer, Infrastructure, Numerics 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/ThinkingMachines/93855db2-9a80-421d-9e80-ace9eca24650) | Aug 04, 2026 |
@@ -648,7 +647,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (314)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (315)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -906,6 +905,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~SpaceX~~ | ~~Full Stack Software Engineer, MES (Manufacturing Execution System) 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Aug 11, 2026 |
 | ~~Google~~ | ~~Software Engineer, Early Career, Campus 🇺🇸~~ | Mountain View, CA, USA / Cambridge, MA, USA / Kirkland, WA, USA / Los Angeles, CA, USA / New York, NY, USA / Pittsburgh, PA, USA / San Bruno, CA, USA / Seattle, WA, USA / San Jose, CA, USA / Sunnyvale, CA, USA | google_careers | New Grad | Closed | Aug 07, 2026 |
 | ~~Apple~~ | ~~Wi-Fi Software Engineer, Wireless Technologies & Ecosystems 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Aug 05, 2026 |
+| ~~Applied Intuition~~ | ~~Android Software Engineer - Applications 🇺🇸~~ | Sunnyvale | ashby | - | Closed | Aug 05, 2026 |
 | ~~Thinking Machines Lab~~ | ~~Research Engineer, Infrastructure, Kernels 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 04, 2026 |
 | ~~Thinking Machines Lab~~ | ~~Research Engineer, Infrastructure, Inference 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 04, 2026 |
 | ~~Thinking Machines Lab~~ | ~~Research Engineer, Infrastructure, Numerics 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 04, 2026 |
