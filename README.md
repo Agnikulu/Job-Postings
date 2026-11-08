@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 608
+- **Open positions:** 607
 - **All-time tracked:** 924
 - **Active companies:** 159
-- **Last run (raw / matched):** 46602 postings fetched, 631 passed filters
-- **Last updated:** `2026-11-08 14:29 UTC`
+- **Last run (raw / matched):** 47395 postings fetched, 645 passed filters
+- **Last updated:** `2026-11-08 15:28 UTC`
 
 ## Legend
 
@@ -460,7 +460,6 @@ how to fork, how to add companies, and how filtering works.
 | Periodic Labs | Research Scientist, Data 🇺🇸 | Menlo Park, CA | ashby | Bachelors | [Apply](https://jobs.ashbyhq.com/periodic-labs/d039ec58-a97d-47e1-b1e5-db003d772f77) | Jul 25, 2026 |
 | SpaceX | Full Stack Software Engineer, Application Software - Memphis 🇺🇸 | Memphis, TN | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002) | Jul 23, 2026 |
 | Cerebras | Kernel Engineer - New Grad 🇺🇸 | Sunnyvale, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e) | Jul 23, 2026 |
-| OpenAI | Data Center Compute, OpenHouse Savannah 2026 🇺🇸 | US - Remote | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | Jul 22, 2026 |
 | Jane Street | Linux Engineer 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/8635672002?gh_jid=8635672002) | Jul 22, 2026 |
 | SpaceX | Application Software Engineer 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8643772002?gh_jid=8643772002) | Jul 21, 2026 |
 | SpaceX | Software Engineer (Starfall) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002) | Jul 20, 2026 |
@@ -651,7 +650,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (316)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (317)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -923,6 +922,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Crusoe~~ | ~~Software Engineer I, Storage 🇺🇸~~ | San Francisco, CA - US | ashby | Early Career | Closed | Jul 28, 2026 |
 | ~~SpaceX~~ | ~~Full Stack Software Engineer, Manufacturing 🇺🇸~~ | Starbase, TX | greenhouse | - | Closed | Jul 26, 2026 |
 | ~~SpaceX~~ | ~~Full Stack Software Engineer, Manufacturing Systems 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Jul 22, 2026 |
+| ~~OpenAI~~ | ~~Data Center Compute, OpenHouse Savannah 2026 🇺🇸~~ | US - Remote | ashby | - | Closed | Jul 22, 2026 |
 | ~~MongoDB~~ | ~~Technical Services Engineer 🇺🇸~~ | Palo Alto | greenhouse | - | Closed | Jul 22, 2026 |
 | ~~Anduril~~ | ~~Android Engineer 🇺🇸~~ | Costa Mesa, California, United States<br>Seattle, Washington, United States<br>Washington, District of Columbia, United States | greenhouse | - | Closed | Jul 21, 2026 |
 | ~~Cerebras~~ | ~~Full Stack Engineer - Console Team 🇺🇸~~ | Sunnyvale, CA | ashby | - | Closed | Jul 17, 2026 |
