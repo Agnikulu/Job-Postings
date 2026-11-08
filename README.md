@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 610
+- **Open positions:** 608
 - **All-time tracked:** 927
 - **Active companies:** 159
-- **Last run (raw / matched):** 47398 postings fetched, 648 passed filters
-- **Last updated:** `2026-11-08 18:35 UTC`
+- **Last run (raw / matched):** 47393 postings fetched, 646 passed filters
+- **Last updated:** `2026-11-08 19:29 UTC`
 
 ## Legend
 
@@ -41,8 +41,8 @@ how to fork, how to add companies, and how filtering works.
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Nov 08, 2026 |
-| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 | United States | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Nov 08, 2026 |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 | United States | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | Nov 08, 2026 |
 | Harvey | Associate Legal Engineer 🇺🇸 | Dallas | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2) | Nov 08, 2026 |
 | Harvey | Associate Legal Engineer 🇺🇸 | Chicago | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/e2613ef0-b37c-42ab-aae2-3b47162a9401) | Nov 08, 2026 |
 | Harvey | Associate Legal Engineer 🇺🇸 | Boston | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/eb6318f2-957c-4d2b-8c44-054a0ef049a3) | Nov 08, 2026 |
@@ -221,8 +221,6 @@ how to fork, how to add companies, and how filtering works.
 | LinkedIn | Associate Engineer, Data Center 🇺🇸 | Manassas, VA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4471608011) | Sep 24, 2026 |
 | SpaceX | Integration & Test Engineer (Falcon & Dragon) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8843919002?gh_jid=8843919002) | Sep 24, 2026 |
 | SpaceX | Construction Supervisor, Power Systems 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8843098002?gh_jid=8843098002) | Sep 24, 2026 |
-| Adobe | 2027 University Graduate - Machine Learning Engineer 🇺🇸 | 7 Locations | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) | Sep 24, 2026 |
-| Adobe | 2027 University Graduate - Software Engineer 🇺🇸 | 6 Locations | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) | Sep 24, 2026 |
 | Perplexity AI | Member of Technical Staff, AI Products (Early Career - Industry) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) | Sep 23, 2026 |
 | SpaceX | Full Stack Software Engineer (Components) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002) | Sep 23, 2026 |
 | Nvidia | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | Sep 23, 2026 |
@@ -653,7 +651,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (317)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (319)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -768,6 +766,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Atlassian~~ | ~~Machine Learning Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 25, 2026 |
 | ~~Block~~ | ~~Data Scientist, Payments 🇺🇸~~ | Bay Area, CA, United States of America | greenhouse | - | Closed | Sep 24, 2026 |
 | ~~Discord~~ | ~~Data Scientist - Client Platform 🇺🇸~~ | San Francisco Bay Area | greenhouse | - | Closed | Sep 24, 2026 |
+| ~~Adobe~~ | ~~2027 University Graduate - Machine Learning Engineer 🇺🇸~~ | 7 Locations | workday | New Grad | Closed | Sep 24, 2026 |
+| ~~Adobe~~ | ~~2027 University Graduate - Software Engineer 🇺🇸~~ | 6 Locations | workday | New Grad | Closed | Sep 24, 2026 |
 | ~~Perplexity AI~~ | ~~Member of Technical Staff (New Grad) 🇺🇸~~ | San Francisco | ashby | New Grad | Closed | Sep 24, 2026 |
 | ~~Nuro~~ | ~~Software Engineer, Performance Tooling and Infrastructure New Grad 🇺🇸~~ | Mountain View, California (HQ) | greenhouse | New Grad | Closed | Sep 23, 2026 |
 | ~~Apptronik~~ | ~~IROS 2026 - Robotics & AI Talent 🇺🇸~~ | Austin, Texas & Sunnyvale, California | greenhouse | - | Closed | Sep 23, 2026 |
