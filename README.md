@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 606
-- **All-time tracked:** 921
+- **Open positions:** 609
+- **All-time tracked:** 924
 - **Active companies:** 159
-- **Last run (raw / matched):** 48699 postings fetched, 684 passed filters
-- **Last updated:** `2026-11-08 05:30 UTC`
+- **Last run (raw / matched):** 47405 postings fetched, 686 passed filters
+- **Last updated:** `2026-11-08 06:39 UTC`
 
 ## Legend
 
@@ -40,6 +40,9 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Harvey | Associate Legal Engineer 🇺🇸 | Chicago | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/e2613ef0-b37c-42ab-aae2-3b47162a9401) | Nov 08, 2026 |
+| Harvey | Associate Legal Engineer 🇺🇸 | Boston | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/eb6318f2-957c-4d2b-8c44-054a0ef049a3) | Nov 08, 2026 |
+| Harvey | Associate Legal Engineer 🇺🇸 | Dallas | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2) | Nov 08, 2026 |
 | Harvey | Associate Legal Engineer 🇺🇸 | New York | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | Nov 07, 2026 |
 | Harvey | Associate Legal Engineer 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | Nov 07, 2026 |
 | Nvidia | Research Scientist, AI and Systems Security - PhD New College Grad 2026 🇺🇸 | 2 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Nov 06, 2026 |
