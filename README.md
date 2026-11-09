@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 614
+- **Open positions:** 612
 - **All-time tracked:** 929
 - **Active companies:** 159
-- **Last run (raw / matched):** 47285 postings fetched, 652 passed filters
-- **Last updated:** `2026-11-09 19:35 UTC`
+- **Last run (raw / matched):** 48544 postings fetched, 651 passed filters
+- **Last updated:** `2026-11-09 20:40 UTC`
 
 ## Legend
 
@@ -636,8 +636,6 @@ how to fork, how to add companies, and how filtering works.
 | Applied Intuition | Research Engineer - Robotic Hardware, Simulation and Data 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/4cb44794-7b3b-46fc-9408-104a6d0f379e) | Aug 19, 2025 |
 | Applied Intuition | Research Engineer - Robot Learning 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/e725018e-2577-4ff6-8dbd-69206272d9af) | Aug 19, 2025 |
 | Anduril | 2026 Early Career Software Engineer 🇺🇸 | Atlanta, Georgia, United States<br>Colorado Springs, Colorado, United States<br>Costa Mesa, California, United States<br>Fort Collins, Colorado, United States<br>Seattle, Washington, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) | Aug 11, 2025 |
-| Ramp | Mobile Engineer, iOS 🇺🇸 | New York, NY (HQ) | ashby | - | [Apply](https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f) | Jul 31, 2025 |
-| Ramp | Mobile Engineer, Android 🇺🇸 | New York, NY (HQ) | ashby | - | [Apply](https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040) | Jul 31, 2025 |
 | DRW | Research Engineer 🇺🇸 | New York City | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) | Jun 16, 2025 |
 | Point72 | Data Engineer 🇺🇸 | New York | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) | Jan 23, 2025 |
 | Point72 | Quantitative Software Developer 🇺🇸 | New York | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/7825863002?gh_jid=7825863002) | Jan 22, 2025 |
@@ -657,7 +655,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (315)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (317)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -973,6 +971,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Point72~~ | ~~Machine Learning Engineer 🇺🇸~~ | New York | greenhouse | PhD Student | Closed | Sep 15, 2025 |
 | ~~Mercor~~ | ~~Data Scientist 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 30, 2025 |
 | ~~Intuit~~ | ~~Software Engineer 1 🇺🇸~~ | Mountain View, California, United States<br>San Diego, California, United States<br>New York, New York, United States<br>Charlotte, North Carolina, United States<br>Atlanta, Georgia, United States | radancy | Early Career | Closed | Aug 14, 2025 |
+| ~~Ramp~~ | ~~Mobile Engineer, iOS 🇺🇸~~ | New York, NY (HQ) | ashby | - | Closed | Jul 31, 2025 |
+| ~~Ramp~~ | ~~Mobile Engineer, Android 🇺🇸~~ | New York, NY (HQ) | ashby | - | Closed | Jul 31, 2025 |
 | ~~IMC Trading~~ | ~~Software Engineer, Early Career 🇺🇸~~ | Chicago, United States | greenhouse | New Grad | Closed | Apr 17, 2025 |
 | ~~Point72~~ | ~~2027 Cubist Quant Academy – Developers 🇺🇸~~ | New York | greenhouse | - | Closed | Sep 09, 2024 |
 | ~~Jane Street~~ | ~~Machine Learning Performance Engineer 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | May 20, 2024 |
