@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 611
+- **Open positions:** 610
 - **All-time tracked:** 927
 - **Active companies:** 159
-- **Last run (raw / matched):** 47351 postings fetched, 688 passed filters
-- **Last updated:** `2026-11-09 12:40 UTC`
+- **Last run (raw / matched):** 47360 postings fetched, 648 passed filters
+- **Last updated:** `2026-11-09 13:36 UTC`
 
 ## Legend
 
@@ -77,7 +77,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | GPU System and Scheduling Architect – New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2028824) | Nov 03, 2026 |
 | Nvidia | PCIe Post-Silicon Validation Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108) | Nov 03, 2026 |
 | Apple | Software Engineer - VE 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200693002-0836/software-engineer-ve) | Nov 03, 2026 |
-| Netflix | Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸 | Los Gatos,California,United States of America | eightfold | - | [Apply](https://explore.jobs.netflix.net/careers/job/790319328210) | Nov 03, 2026 |
 | Applied Intuition | Software Engineer (Sunnyvale, CA) 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3) | Nov 02, 2026 |
 | Apple | Gate-level Noise (Signal Integrity) / STA CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692988-0157/gate-level-noise-signal-integrity-sta-cad-engineer) | Nov 02, 2026 |
 | Apple | Gate-level Noise (Signal Integrity) / STA CAD Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692988-3956/gate-level-noise-signal-integrity-sta-cad-engineer) | Nov 02, 2026 |
@@ -654,13 +653,14 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (316)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (317)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
+| ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Resident Consultant- Government 🇺🇸~~ | USA - Remote | workday | - | Closed | Nov 02, 2026 |
 | ~~Roblox~~ | ~~[2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 30, 2026 |
 | ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Oct 29, 2026 |
