@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 610
+- **Open positions:** 608
 - **All-time tracked:** 940
 - **Active companies:** 159
-- **Last run (raw / matched):** 47344 postings fetched, 649 passed filters
-- **Last updated:** `2026-11-10 19:36 UTC`
+- **Last run (raw / matched):** 48652 postings fetched, 648 passed filters
+- **Last updated:** `2026-11-10 20:37 UTC`
 
 ## Legend
 
@@ -65,7 +65,6 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94451) | Nov 06, 2026 |
 | AMD | MTS Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94460) | Nov 06, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Diego | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94258) | Nov 06, 2026 |
-| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94301) | Nov 06, 2026 |
 | AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93862) | Nov 06, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93868) | Nov 06, 2026 |
 | AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93883) | Nov 06, 2026 |
@@ -185,7 +184,6 @@ how to fork, how to add companies, and how filtering works.
 | Harvey | Software Engineer, New Grad (2027) 🇺🇸 | New York | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | Oct 02, 2026 |
 | Harvey | Software Engineer, New Grad (2027) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | Oct 02, 2026 |
 | Nvidia | Research Scientist, Fundamental Generative AI - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | Oct 02, 2026 |
-| AMD | RTL Tools & Methodology Engineer 🇺🇸 | US,CA,San Jose | jibe | PhD | [Apply](https://careers.amd.com/careers-home/jobs/85806) | Oct 01, 2026 |
 | Periodic Labs | Research Scientist, Scaling RL 🇺🇸 | Menlo Park, CA<br>Montreal, Canada | ashby | Bachelors | [Apply](https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0) | Oct 01, 2026 |
 | SpaceX | Application Software Engineer, Manufacturing Systems 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8861910002?gh_jid=8861910002) | Oct 01, 2026 |
 | Notion | Software Engineer, Mobile Core (Android) 🇺🇸 | San Francisco, California | ashby | - | [Apply](https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c) | Oct 01, 2026 |
@@ -653,12 +651,13 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (330)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (332)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Adobe~~ | ~~2027 University Graduate - Data Engineer 🇺🇸~~ | San Jose | workday | New Grad | Closed | Nov 09, 2026 |
+| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
@@ -743,6 +742,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | GB,Cambridge | jibe | - | Closed | Oct 02, 2026 |
 | ~~ServiceNow~~ | ~~Software Engineer, Core Infrastructure - Moveworks (New Grad) 🇺🇸~~ | Mountain View, California, United States | smartrecruiters | New Grad | Closed | Oct 02, 2026 |
 | ~~Instacart~~ | ~~Data Analyst, Platform Excellence Ops Analytics 🇺🇸~~ | United States - Remote | greenhouse | - | Closed | Oct 02, 2026 |
+| ~~AMD~~ | ~~RTL Tools & Methodology Engineer 🇺🇸~~ | US,CA,San Jose | jibe | PhD | Closed | Oct 01, 2026 |
 | ~~Apple~~ | ~~AI Software Engineer, Apple Cloud AI Platform 🇺🇸~~ | Seattle, United States of America | apple | - | Closed | Oct 01, 2026 |
 | ~~Qualcomm~~ | ~~Modem Firmware Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 01, 2026 |
 | ~~Amazon Web Services (AWS)~~ | ~~Applied Scientist, Quantum error correction team, Amazon Center for Quantum Computing 🇺🇸~~ | Pasadena, CA, USA | amazon_jobs | - | Closed | Oct 01, 2026 |
