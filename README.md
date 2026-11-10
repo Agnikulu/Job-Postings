@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 606
-- **All-time tracked:** 933
+- **Open positions:** 612
+- **All-time tracked:** 939
 - **Active companies:** 159
-- **Last run (raw / matched):** 47310 postings fetched, 645 passed filters
-- **Last updated:** `2026-11-10 07:33 UTC`
+- **Last run (raw / matched):** 47343 postings fetched, 651 passed filters
+- **Last updated:** `2026-11-10 08:42 UTC`
 
 ## Legend
 
@@ -40,6 +40,12 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Cursor | Software Engineer, Client Infrastructure 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa) | Nov 10, 2026 |
+| Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462) | Nov 10, 2026 |
+| Cursor | Software Engineer, Model Lifecycle and Signals 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17) | Nov 10, 2026 |
+| Cursor | Software Engineer, Model Routing & Inference 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c) | Nov 10, 2026 |
+| Cursor | Software Engineer, New Grad 2027 🇺🇸 | San Francisco, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6) | Nov 10, 2026 |
+| Cursor | Software Engineer, Research Tooling 🇺🇸 | Palo Alto, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4) | Nov 10, 2026 |
 | Adobe | 2027 University Graduate - Data Engineer 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | Nov 09, 2026 |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Nov 08, 2026 |
