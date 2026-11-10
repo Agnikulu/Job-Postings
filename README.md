@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 613
+- **Open positions:** 610
 - **All-time tracked:** 940
 - **Active companies:** 159
-- **Last run (raw / matched):** 47343 postings fetched, 652 passed filters
-- **Last updated:** `2026-11-10 18:41 UTC`
+- **Last run (raw / matched):** 47344 postings fetched, 649 passed filters
+- **Last updated:** `2026-11-10 19:36 UTC`
 
 ## Legend
 
@@ -47,7 +47,6 @@ how to fork, how to add companies, and how filtering works.
 | Cursor | Software Engineer, Client Infrastructure 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa) | Nov 10, 2026 |
 | Cursor | Software Engineer, Model Lifecycle and Signals 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17) | Nov 10, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462) | Nov 10, 2026 |
-| Adobe | 2027 University Graduate - Data Engineer 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | Nov 09, 2026 |
 | Bloomberg LP | Bloomberg Intelligence - Banks Equity Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Banks-Equity-Research-Associate/46004) | Nov 09, 2026 |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Nov 08, 2026 |
@@ -216,8 +215,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer, Manufacturing Infrastructure 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002) | Sep 26, 2026 |
 | SpaceX | Full Stack Software Engineer, Manufacturing Systems 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8848609002?gh_jid=8848609002) | Sep 26, 2026 |
 | CoreWeave | Software Engineer, Inference 🇺🇸 | Sunnyvale, CA / Bellevue, WA | greenhouse | - | [Apply](https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006) | Sep 25, 2026 |
-| Apple | CAD Engineer - Signoff Infrastructure 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200685871-0157/cad-engineer-signoff-infrastructure) | Sep 25, 2026 |
-| Apple | CAD Engineer - Signoff Infrastructure 🇺🇸 | San Jose, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200685871-3749/cad-engineer-signoff-infrastructure) | Sep 25, 2026 |
 | SpaceX | Software Engineer (Starlink Ground Network) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002) | Sep 25, 2026 |
 | SpaceX | Software Engineer, Backend (Python/C++) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8845089002?gh_jid=8845089002) | Sep 25, 2026 |
 | SpaceX | Construction Technician, Starbase Infrastructure 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8846172002?gh_jid=8846172002) | Sep 25, 2026 |
@@ -656,11 +653,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (327)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (330)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Adobe~~ | ~~2027 University Graduate - Data Engineer 🇺🇸~~ | San Jose | workday | New Grad | Closed | Nov 09, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
@@ -768,6 +766,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~GitHub~~ | ~~Associate - Software Development & Engineering 🇺🇸~~ | Southlake, TX | linkedin | - | Closed | Sep 26, 2026 |
 | ~~GitHub~~ | ~~Associate - Software Development & Engineering 🇺🇸~~ | Austin, TX | linkedin | - | Closed | Sep 26, 2026 |
 | ~~Atlassian~~ | ~~Machine Learning Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 26, 2026 |
+| ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Sep 25, 2026 |
+| ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | San Jose, United States of America | apple | - | Closed | Sep 25, 2026 |
 | ~~Microsoft~~ | ~~Software Engineer I - CTJ - Poly 🇺🇸~~ | Reston, VA, US | microsoft | Early Career | Closed | Sep 25, 2026 |
 | ~~GitHub~~ | ~~Java Software Engineer 🇺🇸~~ | Southlake, TX | linkedin | - | Closed | Sep 25, 2026 |
 | ~~Atlassian~~ | ~~Machine Learning Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 25, 2026 |
