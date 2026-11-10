@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 612
+- **Open positions:** 613
 - **All-time tracked:** 939
 - **Active companies:** 159
-- **Last run (raw / matched):** 48614 postings fetched, 652 passed filters
-- **Last updated:** `2026-11-10 09:32 UTC`
+- **Last run (raw / matched):** 48623 postings fetched, 653 passed filters
+- **Last updated:** `2026-11-10 10:31 UTC`
 
 ## Legend
 
@@ -47,6 +47,7 @@ how to fork, how to add companies, and how filtering works.
 | Cursor | Software Engineer, Model Lifecycle and Signals 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17) | Nov 10, 2026 |
 | Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462) | Nov 10, 2026 |
 | Adobe | 2027 University Graduate - Data Engineer 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | Nov 09, 2026 |
+| Bloomberg LP | Bloomberg Intelligence - Banks Equity Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Banks-Equity-Research-Associate/46004) | Nov 09, 2026 |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 | United States | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | Nov 08, 2026 |
@@ -655,12 +656,11 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (327)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (326)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
-| ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Banks Equity Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Nov 09, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
