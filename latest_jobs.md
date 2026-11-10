@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-11-10 16:38 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-11-10 17:37 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## AMD - 1 new (1 technical)
-
-- **[TECH]** [FPGA Design and Timing Modeling Engineer](https://careers.amd.com/careers-home/jobs/97781) - *US,CA,Home Office_Area1*
