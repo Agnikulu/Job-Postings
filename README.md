@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 612
-- **All-time tracked:** 939
+- **Open positions:** 613
+- **All-time tracked:** 940
 - **Active companies:** 159
-- **Last run (raw / matched):** 48582 postings fetched, 654 passed filters
-- **Last updated:** `2026-11-10 15:34 UTC`
+- **Last run (raw / matched):** 48612 postings fetched, 655 passed filters
+- **Last updated:** `2026-11-10 16:38 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| AMD | FPGA Design and Timing Modeling Engineer 🇺🇸 | US,CA,Home Office_Area1 | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97781) | Nov 10, 2026 |
 | Cursor | Software Engineer, Research Tooling 🇺🇸 | Palo Alto, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4) | Nov 10, 2026 |
 | Cursor | Software Engineer, New Grad 2027 🇺🇸 | San Francisco, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6) | Nov 10, 2026 |
 | Cursor | Software Engineer, Model Routing & Inference 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c) | Nov 10, 2026 |
