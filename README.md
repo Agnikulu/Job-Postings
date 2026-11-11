@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 598
-- **All-time tracked:** 943
+- **All-time tracked:** 944
 - **Active companies:** 159
-- **Last run (raw / matched):** 47234 postings fetched, 597 passed filters
-- **Last updated:** `2026-11-11 20:36 UTC`
+- **Last run (raw / matched):** 47216 postings fetched, 597 passed filters
+- **Last updated:** `2026-11-11 21:34 UTC`
 
 ## Legend
 
@@ -40,8 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Adobe | 2027 University Graduate - Data Scientist 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | Nov 11, 2026 |
 | OpenAI | Partner Applied AI Engineer, Oracle and Cloud ISV 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871) | Nov 11, 2026 |
-| Qualcomm | Engineer, Automotive Reliability 🇺🇸 | San Diego, CA, US | eightfold_pcsx | Masters | [Apply](https://careers.qualcomm.com/careers/job/446722062471) | Nov 10, 2026 |
 | Roblox | Software Engineer, ROS Open Platform & AI Enablement 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) | Nov 10, 2026 |
 | AMD | FPGA Design and Timing Modeling Engineer 🇺🇸 | US,CA,Home Office_Area1 | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97781) | Nov 10, 2026 |
 | Cursor | Software Engineer, Research Tooling 🇺🇸 | Palo Alto, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4) | Nov 10, 2026 |
@@ -641,11 +641,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (345)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (346)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Qualcomm~~ | ~~Engineer, Automotive Reliability 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | Masters | Closed | Nov 10, 2026 |
 | ~~Adobe~~ | ~~2027 University Graduate - Data Engineer 🇺🇸~~ | San Jose | workday | New Grad | Closed | Nov 09, 2026 |
 | ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Banks Equity Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Nov 09, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
