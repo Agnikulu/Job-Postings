@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
+- **Open positions:** 595
 - **All-time tracked:** 942
 - **Active companies:** 159
-- **Last run (raw / matched):** 48559 postings fetched, 600 passed filters
-- **Last updated:** `2026-11-11 16:38 UTC`
+- **Last run (raw / matched):** 48995 postings fetched, 596 passed filters
+- **Last updated:** `2026-11-11 17:37 UTC`
 
 ## Legend
 
@@ -95,12 +95,10 @@ how to fork, how to add companies, and how filtering works.
 | Qualcomm | Calibration Engineer, Associate 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721831785) | Nov 01, 2026 |
 | Roblox | Software Engineer, Discovery UX 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8304210?gh_jid=8304210) | Oct 30, 2026 |
 | Point72 | Systems Engineer, Collaboration Technology 🇺🇸 | New York, NY | greenhouse | - | [Apply](https://boards.greenhouse.io/point72/jobs/8923153002?gh_jid=8923153002) | Oct 29, 2026 |
-| Bloomberg LP | Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Semiconductors-Equity-Research-Associate/45869) | Oct 29, 2026 |
 | Qualcomm | Automation Developer Engineer 🇺🇸 | San Diego, CA, US / Boulder, CO, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721803210) | Oct 28, 2026 |
 | Anthropic | Anthropic Research Resident 🇺🇸 | San Francisco, CA \| New York City, NY | greenhouse | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | Oct 28, 2026 |
 | Nvidia | Formal Verification Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554) | Oct 27, 2026 |
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
-| Bloomberg LP | Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸 | San Francisco, California, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Semiconductors-Equity-Research-Associate/45832) | Oct 27, 2026 |
 | Roblox | Software Engineer, Frontend - Economy 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | Oct 26, 2026 |
 | ServiceNow | Associate Software Engineer 🇺🇸 | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) | Oct 23, 2026 |
 | Roblox | Software Engineer, Notifications 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8261393?gh_jid=8261393) | Oct 23, 2026 |
@@ -131,13 +129,13 @@ how to fork, how to add companies, and how filtering works.
 | Apple | Gate-level SigEM/SEB/FIT CAD Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200689481-3956/gate-level-sigem-seb-fit-cad-engineer) | Oct 15, 2026 |
 | Veeva Systems | Associate DevOps Engineer 🇺🇸 | Massachusetts - Boston | lever | - | [Apply](https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2) | Oct 14, 2026 |
 | Veeva Systems | Associate QA Engineer 🇺🇸 | Massachusetts - Boston | lever | - | [Apply](https://jobs.lever.co/veeva/a35bb73f-41fb-4a2d-be86-bba12a7d74d8) | Oct 14, 2026 |
-| Bloomberg LP | Bloomberg Intelligence - Credit Strategy Research Associate 🇺🇸 | New York, New York, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Credit-Strategy-Research-Associate/21020) | Oct 14, 2026 |
 | xAI | Data Visualization Engineer 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5265194007) | Oct 13, 2026 |
 | Nvidia | SoC Software Engineer – New College Graduate 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | Oct 13, 2026 |
 | Nvidia | Low Power ASIC Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850) | Oct 13, 2026 |
 | Nvidia | SRAM Circuit Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839) | Oct 13, 2026 |
 | AMD | ML Systems Research Engineer, RL / Inference / Agent Systems 🇺🇸 | US,CA,Santa Clara | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/92704) | Oct 12, 2026 |
 | Apple | OS Software Engineer, Evaluation 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation) | Oct 12, 2026 |
+| Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446720708572) | Oct 09, 2026 |
 | Roblox | Software Engineer, ROS 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) | Oct 09, 2026 |
 | Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) | Oct 09, 2026 |
 | Affirm | IT Engineer Intern (Early Careers Summer 2027) 🇺🇸 | San Francisco, California, United States | greenhouse | Intern | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | Oct 09, 2026 |
@@ -242,7 +240,6 @@ how to fork, how to add companies, and how filtering works.
 | LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4393214814) | Sep 20, 2026 |
 | Qualcomm | #Wireless S/w Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721159541) | Sep 18, 2026 |
 | SpaceX | Software Engineer (Controls Software) 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002) | Sep 18, 2026 |
-| Qualcomm | Machine Learning Researcher 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719107884) | Sep 17, 2026 |
 | Qualcomm | #Systems SoC Test Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719874307) | Sep 17, 2026 |
 | Squarepoint Capital | Quantitative Researcher - Discretionary Oil 🇺🇸 | Houston | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423) | Sep 17, 2026 |
 | Stripe | Software Engineer, Early Career — Immediate Start 🇺🇸 | San Francisco, Seattle, New York | greenhouse | New Grad | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) | Sep 17, 2026 |
@@ -468,7 +465,6 @@ how to fork, how to add companies, and how filtering works.
 | Akuna Capital | Junior Quantitative Researcher 🇺🇸 | Chicago, IL | greenhouse | - | [Apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) | Jul 13, 2026 |
 | SpaceX | Application Software Engineer, Spaceport Experience 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002) | Jul 13, 2026 |
 | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads 🇺🇸 | Austin, TX, United States<br>Chicago, Illinois, United States<br>London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | MS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Jul 13, 2026 |
-| Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 Grads 🇺🇸 | London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | MS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) | Jul 13, 2026 |
 | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs 🇺🇸 | London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | PhD Student | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Jul 13, 2026 |
 | DRW | Software Developer 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7980165) | Jul 13, 2026 |
 | Akuna Capital | Junior Quantitative Developer & Strategist 🇺🇸 | Chicago, IL | greenhouse | - | [Apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) | Jul 13, 2026 |
@@ -642,7 +638,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (343)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (347)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -655,6 +651,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Resident Consultant- Government 🇺🇸~~ | USA - Remote | workday | - | Closed | Nov 02, 2026 |
 | ~~Roblox~~ | ~~[2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 30, 2026 |
+| ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Oct 29, 2026 |
 | ~~Glean~~ | ~~Software Engineer, University Grad 🇺🇸~~ | Mountain View, CA | greenhouse | New Grad | Closed | Oct 28, 2026 |
 | ~~Apple~~ | ~~FE Engineer 🇺🇸~~ | Beaverton, United States of America | apple | - | Closed | Oct 28, 2026 |
 | ~~Apple~~ | ~~Physical Design Methodology CAD Engineer 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Oct 28, 2026 |
@@ -663,6 +660,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~Design Verification Engineer 🇺🇸~~ | Beaverton, United States of America | apple | - | Closed | Oct 28, 2026 |
 | ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,WA,Bellevue | jibe | - | Closed | Oct 28, 2026 |
 | ~~Nvidia~~ | ~~Deep Learning Performance Architect - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 27, 2026 |
+| ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸~~ | San Francisco, California, United States of America | avature | - | Closed | Oct 27, 2026 |
 | ~~MatX~~ | ~~Member of Technical Staff, ML 🇺🇸~~ | Mountain View (HQ) or Remote | ashby | - | Closed | Oct 26, 2026 |
 | ~~Atlassian~~ | ~~AI Researcher, 2027 Graduate U.S. 🇺🇸~~ | San Francisco - United States - San Francisco, California 94104 United States | atlassian | PhD Student | Closed | Oct 26, 2026 |
 | ~~Nvidia~~ | ~~Software Verification Engineer - Networking 🇺🇸~~ | US, TX, Austin | workday | - | Closed | Oct 25, 2026 |
@@ -693,6 +691,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
 | ~~Apple~~ | ~~Hardware Products Early Career Rotation Program 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 14, 2026 |
+| ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Credit Strategy Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Oct 14, 2026 |
 | ~~Replit~~ | ~~Data Scientist, Growth 🇺🇸~~ | Foster City, CA | ashby | - | Closed | Oct 13, 2026 |
 | ~~Nvidia~~ | ~~Formal Verification Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 13, 2026 |
 | ~~Nvidia~~ | ~~SoC Software Engineer - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 13, 2026 |
@@ -707,7 +706,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 10, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - Factory Team - New Grad - 6235 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Oct 10, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software Test and Automation (R6216) - New Grad 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Oct 10, 2026 |
-| ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 09, 2026 |
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 09, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software Integration - New Grad - 6214 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Oct 09, 2026 |
@@ -795,6 +793,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Camera Power Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 18, 2026 |
 | ~~Qualcomm~~ | ~~Engineering Technician 🇺🇸~~ | Boxborough, MA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Qualcomm~~ | ~~#Embedded Software Engineer – Device Driver Development 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
+| ~~Qualcomm~~ | ~~Machine Learning Researcher 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Qualcomm~~ | ~~Video DV Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Qualcomm~~ | ~~Modem Integration & Test Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Pure Storage~~ | ~~Associate Security Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Sep 17, 2026 |
@@ -943,6 +942,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Cerebras~~ | ~~Full Stack Engineer - Console Team 🇺🇸~~ | Sunnyvale, CA | ashby | - | Closed | Jul 17, 2026 |
 | ~~Google~~ | ~~Security Engineer, Detection 🇺🇸~~ | Reston, VA, USA | google_careers | - | Closed | Jul 15, 2026 |
 | ~~Pure Storage~~ | ~~AI Transformation Coordinator 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Jul 13, 2026 |
+| ~~Hudson River Trading~~ | ~~Algorithm Developer (Quant Research & Trading) – 2027 Grads 🇺🇸~~ | London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | MS Student, New Grad | Closed | Jul 13, 2026 |
 | ~~DRW~~ | ~~FPGA Developer 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - C++ 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - Python 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
