@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 602
+- **Open positions:** 603
 - **All-time tracked:** 942
 - **Active companies:** 159
-- **Last run (raw / matched):** 48900 postings fetched, 601 passed filters
-- **Last updated:** `2026-11-11 02:42 UTC`
+- **Last run (raw / matched):** 50219 postings fetched, 603 passed filters
+- **Last updated:** `2026-11-11 03:39 UTC`
 
 ## Legend
 
@@ -101,6 +101,7 @@ how to fork, how to add companies, and how filtering works.
 | Anthropic | Anthropic Research Resident 🇺🇸 | San Francisco, CA \| New York City, NY | greenhouse | - | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) | Oct 28, 2026 |
 | Nvidia | Formal Verification Engineer - New College Grad 2027 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554) | Oct 27, 2026 |
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
+| Bloomberg LP | Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸 | San Francisco, California, United States of America | avature | - | [Apply](https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Semiconductors-Equity-Research-Associate/45832) | Oct 27, 2026 |
 | Roblox | Software Engineer, Frontend - Economy 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | Oct 26, 2026 |
 | ServiceNow | Associate Software Engineer 🇺🇸 | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) | Oct 23, 2026 |
 | Roblox | Software Engineer, Notifications 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8261393?gh_jid=8261393) | Oct 23, 2026 |
@@ -645,7 +646,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (340)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (339)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -665,7 +666,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~Design Verification Engineer 🇺🇸~~ | Beaverton, United States of America | apple | - | Closed | Oct 28, 2026 |
 | ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,WA,Bellevue | jibe | - | Closed | Oct 28, 2026 |
 | ~~Nvidia~~ | ~~Deep Learning Performance Architect - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 27, 2026 |
-| ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸~~ | San Francisco, California, United States of America | avature | - | Closed | Oct 27, 2026 |
 | ~~MatX~~ | ~~Member of Technical Staff, ML 🇺🇸~~ | Mountain View (HQ) or Remote | ashby | - | Closed | Oct 26, 2026 |
 | ~~Atlassian~~ | ~~AI Researcher, 2027 Graduate U.S. 🇺🇸~~ | San Francisco - United States - San Francisco, California 94104 United States | atlassian | PhD Student | Closed | Oct 26, 2026 |
 | ~~Nvidia~~ | ~~Software Verification Engineer - Networking 🇺🇸~~ | US, TX, Austin | workday | - | Closed | Oct 25, 2026 |
