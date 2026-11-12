@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 601
+- **Open positions:** 600
 - **All-time tracked:** 947
 - **Active companies:** 159
-- **Last run (raw / matched):** 47211 postings fetched, 599 passed filters
-- **Last updated:** `2026-11-11 23:31 UTC`
+- **Last run (raw / matched):** 46418 postings fetched, 582 passed filters
+- **Last updated:** `2026-11-12 00:51 UTC`
 
 ## Legend
 
@@ -169,7 +169,6 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | High Speed SerDes Validation Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800) | Oct 06, 2026 |
 | Affirm | Software Engineer, Early Career (SF) 🇺🇸 | San Francisco, California, United States | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) | Oct 06, 2026 |
 | Rubrik | Software Engineer - Product Platform Security 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737) | Oct 06, 2026 |
-| Roblox | Software Engineer, Test Frameworks & Tooling 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8229705?gh_jid=8229705) | Oct 06, 2026 |
 | Affirm | Software Engineer, Early Career (NYC) 🇺🇸 | New York, New York, United States | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | Oct 06, 2026 |
 | Nvidia | Formal Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837) | Oct 06, 2026 |
 | SpaceX | Embedded Software Engineer, Data Center Engineering (Starmind) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002) | Oct 06, 2026 |
@@ -644,7 +643,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (346)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (347)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -731,6 +730,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~Early Career Analog Mixed-Signal Modeling Software Engineer (m/f/d) 🇺🇸~~ | Various Locations within Austin Metro Area | apple | New Grad | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 07, 2026 |
 | ~~Nvidia~~ | ~~Systems Software Engineer,  AI and Cloud - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 06, 2026 |
+| ~~Roblox~~ | ~~Software Engineer, Test Frameworks & Tooling 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Oct 06, 2026 |
 | ~~AMD~~ | ~~SW Engineer 🇺🇸~~ | GB,Cambridge | jibe | New Grad | Closed | Oct 05, 2026 |
 | ~~Atlassian~~ | ~~Data Engineer, 2027 Graduate U.S 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Oct 05, 2026 |
 | ~~Nuro~~ | ~~New Grad Software Engineer, Product Engineering 🇺🇸~~ | Mountain View, California (HQ) | greenhouse | New Grad | Closed | Oct 05, 2026 |
