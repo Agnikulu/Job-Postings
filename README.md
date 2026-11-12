@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 600
-- **All-time tracked:** 947
+- **All-time tracked:** 948
 - **Active companies:** 159
-- **Last run (raw / matched):** 46418 postings fetched, 582 passed filters
-- **Last updated:** `2026-11-12 00:51 UTC`
+- **Last run (raw / matched):** 47214 postings fetched, 598 passed filters
+- **Last updated:** `2026-11-12 01:31 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| 1X Technologies | Software Engineer - Applied AI 🇺🇸 | San Carlos, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996) | Nov 12, 2026 |
 | Microsoft | Software Development Engineer 🇺🇸 | Redmond, WA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050698) | Nov 11, 2026 |
 | AMD | Fellow, AI-Native Networking Silicon Systems 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96890) | Nov 11, 2026 |
 | Adobe | 2027 University Graduate - Data Scientist 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | Nov 11, 2026 |
@@ -187,7 +188,6 @@ how to fork, how to add companies, and how filtering works.
 | Notion | Software Engineer, Mobile Core (Android) 🇺🇸 | San Francisco, California | ashby | - | [Apply](https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c) | Oct 01, 2026 |
 | Pinterest | University Grad Software Engineer 2027 (USA) 🇺🇸 | San Francisco, CA, US<br>Remote, US | greenhouse | - | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) | Oct 01, 2026 |
 | Pinterest | Master's University Grad Machine Learning Engineer 2027 (USA) 🇺🇸 | San Francisco, CA, US<br>Palo Alto, CA, US<br>Seattle, WA, US<br>New York, NY, US | greenhouse | Masters | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) | Oct 01, 2026 |
-| Qualcomm | Modem Firmware Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721301032) | Sep 30, 2026 |
 | Atlassian | Data Scientist, 2027 Graduate U.S. 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | - | [Apply](https://www.atlassian.com/company/careers/details/26000) | Sep 30, 2026 |
 | SpaceX | RF Silicon Software Engineer (RFIC Engineering) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002) | Sep 30, 2026 |
 | Periodic Labs | Research Scientist/Research Engineer, Midtraining 🇺🇸 | Menlo Park, CA | ashby | Bachelors | [Apply](https://jobs.ashbyhq.com/periodic-labs/168dbf20-2230-49a0-9f00-f2ff58dad5c8) | Sep 30, 2026 |
@@ -643,7 +643,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (347)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (348)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -751,6 +751,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Clay~~ | ~~Early Career Software Engineer 🇺🇸~~ | New York | ashby | New Grad | Closed | Oct 01, 2026 |
 | ~~Pinterest~~ | ~~PhD University Grad Data Scientist 2027 (USA) 🇺🇸~~ | San Francisco, CA, US<br>Palo Alto, CA, US<br>Seattle, WA, US<br>New York, NY, US | greenhouse | PhD | Closed | Oct 01, 2026 |
 | ~~GitHub~~ | ~~Associate - Software Development & Engineering 🇺🇸~~ | Southlake, TX | linkedin | - | Closed | Oct 01, 2026 |
+| ~~Qualcomm~~ | ~~Modem Firmware Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 30, 2026 |
 | ~~Atlassian~~ | ~~Data Scientist, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 30, 2026 |
 | ~~Microsoft~~ | ~~Design Verification Engineer 🇺🇸~~ | Raleigh, NC, US / Hillsboro, OR, US / Austin, TX, US / Mountain View, CA, US / Redmond, WA, US | microsoft | - | Closed | Sep 30, 2026 |
 | ~~Nvidia~~ | ~~System Design Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 30, 2026 |
