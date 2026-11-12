@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 600
-- **All-time tracked:** 948
+- **All-time tracked:** 949
 - **Active companies:** 159
-- **Last run (raw / matched):** 48538 postings fetched, 600 passed filters
-- **Last updated:** `2026-11-12 15:41 UTC`
+- **Last run (raw / matched):** 47229 postings fetched, 598 passed filters
+- **Last updated:** `2026-11-12 17:36 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ServiceNow | Associate Agentic Search Infrastructure Engineer - Moveworks 🇺🇸 | Mountain View, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161349929) | Nov 12, 2026 |
 | 1X Technologies | Software Engineer - Applied AI 🇺🇸 | San Carlos, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996) | Nov 12, 2026 |
 | Microsoft | Software Development Engineer 🇺🇸 | Redmond, WA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050698) | Nov 11, 2026 |
 | AMD | Fellow, AI-Native Networking Silicon Systems 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96890) | Nov 11, 2026 |
@@ -275,7 +276,6 @@ how to fork, how to add companies, and how filtering works.
 | Veeva Systems | Marketing Analytics - Data Analyst - July 2027 Start Date - ADP 🇺🇸 | New York - New York City | lever | - | [Apply](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea) | Sep 13, 2026 |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates 🇺🇸 | Massachusetts - Boston | lever | - | [Apply](https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd) | Sep 13, 2026 |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates 🇺🇸 | California - Pleasanton | lever | - | [Apply](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6) | Sep 13, 2026 |
-| Veeva Systems | Associate Software Engineer - 2027 Start Dates 🇺🇸 | Ohio - Columbus | lever | - | [Apply](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9) | Sep 13, 2026 |
 | Two Sigma | Quantitative Software Engineer: Techniques Engineering 🇺🇸 | United States New York City | two_sigma | - | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-City-United-States-Quantitative-Software-Engineer-Techniques-Engineering/13080) | Sep 13, 2026 |
 | Two Sigma | AI Research Scientist - Campus Full-Time 🇺🇸 | United States New York New York | two_sigma | New Grad | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671) | Sep 13, 2026 |
 | Two Sigma | Software Engineer, Enterprise Platform Engineering 🇺🇸 | United States New York New York | two_sigma | - | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer-Enterprise-Platform-Engineering/13516) | Sep 13, 2026 |
@@ -643,7 +643,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (348)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (349)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -824,6 +824,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~ASIC Verification Engineer - New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~AMD~~ | ~~Software Quality Assurance Engineer 🇺🇸~~ | Liberty Lake, WA | linkedin | - | Closed | Sep 14, 2026 |
 | ~~Okta~~ | ~~Developer Support Associate (New Grad) 🇺🇸~~ | Chicago, Illinois | greenhouse | New Grad | Closed | Sep 14, 2026 |
+| ~~Veeva Systems~~ | ~~Associate Software Engineer - 2027 Start Dates 🇺🇸~~ | Ohio - Columbus | lever | - | Closed | Sep 13, 2026 |
 | ~~Qualcomm~~ | ~~LLM Serving Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 13, 2026 |
 | ~~Optiver~~ | ~~Graduate Software Engineer (2027 Start) 🇺🇸~~ | Austin | optiver | - | Closed | Sep 13, 2026 |
 | ~~Optiver~~ | ~~Graduate Software Engineer (2027 Start) 🇺🇸~~ | Chicago | optiver | - | Closed | Sep 13, 2026 |
