@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 600
-- **All-time tracked:** 949
+- **Open positions:** 603
+- **All-time tracked:** 952
 - **Active companies:** 159
-- **Last run (raw / matched):** 48547 postings fetched, 600 passed filters
-- **Last updated:** `2026-11-12 19:31 UTC`
+- **Last run (raw / matched):** 47214 postings fetched, 601 passed filters
+- **Last updated:** `2026-11-12 20:35 UTC`
 
 ## Legend
 
@@ -40,6 +40,9 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Qualcomm | Multiple roles in Machine Learning & Deep Learning NeurIPS 2026 🇺🇸 | San Diego, CA, US / Amsterdam, NH, NL / Austin, TX, US / Folsom, CA, US / Hillsboro, OR, US / KR / Markham, ON, CA / Santa Clara, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722098332) | Nov 12, 2026 |
+| Nuro | Systems Engineering, New Grad 2027 🇺🇸 | Mountain View, California (HQ) | greenhouse | PhD Student, New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8360415) | Nov 12, 2026 |
+| AMD | Fellow Firmware Engineering 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96388) | Nov 12, 2026 |
 | ServiceNow | Associate Agentic Search Infrastructure Engineer - Moveworks 🇺🇸 | Mountain View, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000161349929) | Nov 12, 2026 |
 | 1X Technologies | Software Engineer - Applied AI 🇺🇸 | San Carlos, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/1x/0ac33259-1b12-447c-95a3-d2d0c6b1a996) | Nov 12, 2026 |
 | Microsoft | Software Development Engineer 🇺🇸 | Redmond, WA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050698) | Nov 11, 2026 |
