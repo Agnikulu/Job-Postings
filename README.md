@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 602
-- **All-time tracked:** 953
+- **Open positions:** 603
+- **All-time tracked:** 954
 - **Active companies:** 159
-- **Last run (raw / matched):** 47291 postings fetched, 600 passed filters
-- **Last updated:** `2026-11-13 07:34 UTC`
+- **Last run (raw / matched):** 47287 postings fetched, 601 passed filters
+- **Last updated:** `2026-11-13 08:37 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Shield AI | Engineer I, Software - New Grad - 6531 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b) | Nov 13, 2026 |
 | Affirm | Software Engineer I, Backend (Continuous Delivery) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Nov 12, 2026 |
 | Qualcomm | Multiple roles in Machine Learning & Deep Learning NeurIPS 2026 🇺🇸 | San Diego, CA, US / Amsterdam, NH, NL / Austin, TX, US / Folsom, CA, US / Hillsboro, OR, US / KR / Markham, ON, CA / Santa Clara, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722098332) | Nov 12, 2026 |
 | Nuro | Systems Engineering, New Grad 2027 🇺🇸 | Mountain View, California (HQ) | greenhouse | PhD Student, New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8360415) | Nov 12, 2026 |
