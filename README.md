@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 603
 - **All-time tracked:** 954
 - **Active companies:** 159
-- **Last run (raw / matched):** 47287 postings fetched, 601 passed filters
-- **Last updated:** `2026-11-13 08:37 UTC`
+- **Last run (raw / matched):** 48616 postings fetched, 603 passed filters
+- **Last updated:** `2026-11-13 09:37 UTC`
 
 ## Legend
 
