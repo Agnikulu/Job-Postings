@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 605
+- **Open positions:** 597
 - **All-time tracked:** 956
 - **Active companies:** 159
-- **Last run (raw / matched):** 43844 postings fetched, 561 passed filters
-- **Last updated:** `2026-11-13 22:22 UTC`
+- **Last run (raw / matched):** 43044 postings fetched, 549 passed filters
+- **Last updated:** `2026-11-13 23:19 UTC`
 
 ## Legend
 
@@ -56,11 +56,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | Software Engineer, ROS Open Platform & AI Enablement 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) | Nov 10, 2026 |
 | AMD | FPGA Design and Timing Modeling Engineer 🇺🇸 | US,CA,Home Office_Area1 | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97781) | Nov 10, 2026 |
 | Cursor | Software Engineer, Research Tooling 🇺🇸 | Palo Alto, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4) | Nov 10, 2026 |
-| Cursor | Software Engineer, New Grad 2027 🇺🇸 | San Francisco, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6) | Nov 10, 2026 |
-| Cursor | Software Engineer, Model Routing & Inference 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c) | Nov 10, 2026 |
-| Cursor | Software Engineer, Client Infrastructure 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa) | Nov 10, 2026 |
-| Cursor | Software Engineer, Model Lifecycle and Signals 🇺🇸 | New York, NY | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17) | Nov 10, 2026 |
-| Cursor | Software Engineer, Compute Infra 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462) | Nov 10, 2026 |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) | Nov 08, 2026 |
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸 | United States | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) | Nov 08, 2026 |
@@ -226,8 +221,6 @@ how to fork, how to add companies, and how filtering works.
 | LinkedIn | Associate Engineer, Data Center 🇺🇸 | Manassas, VA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4471608011) | Sep 24, 2026 |
 | SpaceX | Integration & Test Engineer (Falcon & Dragon) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8843919002?gh_jid=8843919002) | Sep 24, 2026 |
 | SpaceX | Construction Supervisor, Power Systems 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8843098002?gh_jid=8843098002) | Sep 24, 2026 |
-| Adobe | 2027 University Graduate - Machine Learning Engineer 🇺🇸 | 7 Locations | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) | Sep 24, 2026 |
-| Adobe | 2027 University Graduate - Software Engineer 🇺🇸 | 6 Locations | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) | Sep 24, 2026 |
 | Perplexity AI | Member of Technical Staff, AI Products (Early Career - Industry) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409) | Sep 23, 2026 |
 | SpaceX | Full Stack Software Engineer (Components) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002) | Sep 23, 2026 |
 | Nvidia | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | Sep 23, 2026 |
@@ -262,7 +255,6 @@ how to fork, how to add companies, and how filtering works.
 | Cerebras | Software Engineer, Kernel Reliability 🇺🇸 | Sunnyvale, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f) | Sep 15, 2026 |
 | SpaceX | Fabrication Technician (Panel Systems) - Multiple Shifts 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8779919002?gh_jid=8779919002) | Sep 15, 2026 |
 | Amazon Web Services (AWS) | MLA Design Verification Engineer I, Annapurna Labs 🇺🇸 | Austin, TX, USA | amazon_jobs | Early Career | [Apply](https://www.amazon.jobs/en/jobs/10541170/mla-design-verification-engineer-i-annapurna-labs) | Sep 15, 2026 |
-| Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011532) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Technical Marketing Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285) | Sep 14, 2026 |
 | Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011515) | Sep 14, 2026 |
 | Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-013389) | Sep 14, 2026 |
@@ -648,13 +640,18 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (351)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (359)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~1X Technologies~~ | ~~Software Engineer - Applied AI 🇺🇸~~ | San Carlos, CA | ashby | - | Closed | Nov 12, 2026 |
 | ~~Veeva Systems~~ | ~~Associate Release Engineer 🇺🇸~~ | California - Pleasanton | lever | - | Closed | Nov 11, 2026 |
+| ~~Cursor~~ | ~~Software Engineer, New Grad 2027 🇺🇸~~ | San Francisco, CA | ashby | New Grad | Closed | Nov 10, 2026 |
+| ~~Cursor~~ | ~~Software Engineer, Model Routing & Inference 🇺🇸~~ | New York, NY | ashby | - | Closed | Nov 10, 2026 |
+| ~~Cursor~~ | ~~Software Engineer, Client Infrastructure 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 10, 2026 |
+| ~~Cursor~~ | ~~Software Engineer, Model Lifecycle and Signals 🇺🇸~~ | New York, NY | ashby | - | Closed | Nov 10, 2026 |
+| ~~Cursor~~ | ~~Software Engineer, Compute Infra 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 10, 2026 |
 | ~~Adobe~~ | ~~2027 University Graduate - Data Engineer 🇺🇸~~ | San Jose | workday | New Grad | Closed | Nov 09, 2026 |
 | ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Banks Equity Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Nov 09, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
@@ -783,6 +780,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Atlassian~~ | ~~Machine Learning Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 25, 2026 |
 | ~~Block~~ | ~~Data Scientist, Payments 🇺🇸~~ | Bay Area, CA, United States of America | greenhouse | - | Closed | Sep 24, 2026 |
 | ~~Discord~~ | ~~Data Scientist - Client Platform 🇺🇸~~ | San Francisco Bay Area | greenhouse | - | Closed | Sep 24, 2026 |
+| ~~Adobe~~ | ~~2027 University Graduate - Machine Learning Engineer 🇺🇸~~ | 7 Locations | workday | New Grad | Closed | Sep 24, 2026 |
+| ~~Adobe~~ | ~~2027 University Graduate - Software Engineer 🇺🇸~~ | 6 Locations | workday | New Grad | Closed | Sep 24, 2026 |
 | ~~Perplexity AI~~ | ~~Member of Technical Staff (New Grad) 🇺🇸~~ | San Francisco | ashby | New Grad | Closed | Sep 24, 2026 |
 | ~~Nuro~~ | ~~Software Engineer, Performance Tooling and Infrastructure New Grad 🇺🇸~~ | Mountain View, California (HQ) | greenhouse | New Grad | Closed | Sep 23, 2026 |
 | ~~Nvidia~~ | ~~Security Architect - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 23, 2026 |
@@ -824,6 +823,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 15, 2026 |
 | ~~Qualcomm~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Atlassian~~ | ~~Software Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 15, 2026 |
+| ~~Palo Alto Networks~~ | ~~Software Engineer 🇺🇸~~ | Office - USA - CA - Headquarters | workday | - | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, AI for Graphics and Gaming - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, Circuits - PhD New College Grad 2026 🇺🇸~~ | 2 Locations | workday | PhD, New Grad | Closed | Sep 14, 2026 |
