@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 603
-- **All-time tracked:** 955
+- **Open positions:** 604
+- **All-time tracked:** 956
 - **Active companies:** 159
-- **Last run (raw / matched):** 46590 postings fetched, 600 passed filters
-- **Last updated:** `2026-11-13 19:51 UTC`
+- **Last run (raw / matched):** 43914 postings fetched, 563 passed filters
+- **Last updated:** `2026-11-13 20:34 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | CAD Automation and ML Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200694953-3956/cad-automation-and-ml-engineer) | Nov 13, 2026 |
 | Apple | CAD Automation and ML Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200694953-0157/cad-automation-and-ml-engineer) | Nov 13, 2026 |
 | Shield AI | Engineer I, Software - New Grad - 6531 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b) | Nov 13, 2026 |
 | Affirm | Software Engineer I, Backend (Continuous Delivery) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Nov 12, 2026 |
