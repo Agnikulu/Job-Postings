@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 602
-- **All-time tracked:** 954
+- **Open positions:** 603
+- **All-time tracked:** 955
 - **Active companies:** 159
-- **Last run (raw / matched):** 46582 postings fetched, 595 passed filters
-- **Last updated:** `2026-11-13 18:37 UTC`
+- **Last run (raw / matched):** 46590 postings fetched, 600 passed filters
+- **Last updated:** `2026-11-13 19:51 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | CAD Automation and ML Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200694953-0157/cad-automation-and-ml-engineer) | Nov 13, 2026 |
 | Shield AI | Engineer I, Software - New Grad - 6531 🇺🇸 | Washington, D.C. | lever | New Grad | [Apply](https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b) | Nov 13, 2026 |
 | Affirm | Software Engineer I, Backend (Continuous Delivery) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Nov 12, 2026 |
 | Qualcomm | Multiple roles in Machine Learning & Deep Learning NeurIPS 2026 🇺🇸 | San Diego, CA, US / Amsterdam, NH, NL / Austin, TX, US / Folsom, CA, US / Hillsboro, OR, US / KR / Markham, ON, CA / Santa Clara, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722098332) | Nov 12, 2026 |
