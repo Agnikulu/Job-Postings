@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 600
+- **Open positions:** 599
 - **All-time tracked:** 957
 - **Active companies:** 159
-- **Last run (raw / matched):** 42336 postings fetched, 544 passed filters
-- **Last updated:** `2026-11-14 00:38 UTC`
+- **Last run (raw / matched):** 40945 postings fetched, 541 passed filters
+- **Last updated:** `2026-11-14 01:18 UTC`
 
 ## Legend
 
@@ -362,7 +362,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Embedded Software Engineer, OS/Platform  (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8752935002?gh_jid=8752935002) | Aug 27, 2026 |
 | SpaceX | Software Engineer, Flight Software (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002) | Aug 26, 2026 |
 | SpaceX | Software Engineer, Embedded Software (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002) | Aug 26, 2026 |
-| Broadcom | ASIC Verification Engineer 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/ASIC-Verification-Engineer_R026559) | Aug 26, 2026 |
 | Anduril | Agentic AI Engineer, Automation 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5219383007?gh_jid=5219383007) | Aug 26, 2026 |
 | Voleon | Software Engineer - University Hire 2027 🇺🇸 | Berkeley, CA | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c) | Aug 25, 2026 |
 | SpaceX | Full Stack Software Engineer, Data Platform (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002) | Aug 25, 2026 |
@@ -643,7 +642,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (357)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (358)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -902,6 +901,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Warp~~ | ~~GTM Engineer – Revenue Systems 🇺🇸~~ | New York | ashby | - | Closed | Aug 27, 2026 |
 | ~~Qualcomm~~ | ~~Video DV Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Aug 27, 2026 |
 | ~~Roblox~~ | ~~Software Engineer, Creator 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Aug 26, 2026 |
+| ~~Broadcom~~ | ~~ASIC Verification Engineer 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Aug 26, 2026 |
 | ~~CrowdStrike~~ | ~~Associate Security Engineer (Remote) 🇺🇸~~ | USA - Remote, TX | workday | - | Closed | Aug 25, 2026 |
 | ~~Qualcomm~~ | ~~Embedded NPU Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Aug 24, 2026 |
 | ~~Broadcom~~ | ~~PCIe QA Engineer 🇺🇸~~ | USA-California-San Jose-1320 Ridder Park Drive | workday | - | Closed | Aug 24, 2026 |
