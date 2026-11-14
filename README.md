@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 597
+- **Open positions:** 596
 - **All-time tracked:** 957
 - **Active companies:** 159
-- **Last run (raw / matched):** 47917 postings fetched, 597 passed filters
-- **Last updated:** `2026-11-14 22:30 UTC`
+- **Last run (raw / matched):** 47953 postings fetched, 596 passed filters
+- **Last updated:** `2026-11-14 23:29 UTC`
 
 ## Legend
 
@@ -611,7 +611,6 @@ how to fork, how to add companies, and how filtering works.
 | Periodic Labs | Research Scientist, Condensed Matter Theory 🇺🇸 | Menlo Park, CA<br>Montreal, Canada | ashby | Bachelors | [Apply](https://jobs.ashbyhq.com/periodic-labs/01d2c4b2-d848-4426-ad5f-7f1052db3a63) | Nov 12, 2025 |
 | DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) | Nov 05, 2025 |
 | Apple | ASIC Design Engineer 🇺🇸 | Santa Clara, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200628815-3760/asic-design-engineer) | Oct 29, 2025 |
-| CoreWeave | Software Engineer, Inference AI/ML 🇺🇸 | Sunnyvale, CA / Bellevue, WA | greenhouse | - | [Apply](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) | Oct 24, 2025 |
 | Nuro | Software Engineer, AI Platform - New Grad 🇺🇸 | Mountain View, California (HQ) | greenhouse | New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) | Oct 22, 2025 |
 | Waymo | Machine Learning Engineer / Applied Scientist, Prediction & Planning 🇺🇸 | Mountain View, CA USA<br>San Francisco, CA USA | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7309064) | Oct 08, 2025 |
 | Anduril | GNC Engineer, Space 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4870847007?gh_jid=4870847007) | Sep 11, 2025 |
@@ -640,7 +639,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (360)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (361)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -997,6 +996,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Scale AI~~ | ~~Machine Learning Research Scientist Agents - Enterprise GenAI 🇺🇸~~ | San Francisco, CA<br>New York, NY | greenhouse | - | Closed | Oct 31, 2025 |
 | ~~Apple~~ | ~~CPU Design Verification Engineer 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Oct 27, 2025 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 27, 2025 |
+| ~~CoreWeave~~ | ~~Software Engineer, Inference AI/ML 🇺🇸~~ | Sunnyvale, CA / Bellevue, WA | greenhouse | - | Closed | Oct 24, 2025 |
 | ~~Robinhood~~ | ~~Software Engineer 1, Backend 🇺🇸~~ | Menlo Park, CA<br>New York, NY | greenhouse | Early Career | Closed | Sep 27, 2025 |
 | ~~Point72~~ | ~~Machine Learning Engineer 🇺🇸~~ | New York | greenhouse | PhD Student | Closed | Sep 15, 2025 |
 | ~~Mercor~~ | ~~Data Scientist 🇺🇸~~ | San Francisco | ashby | - | Closed | Aug 30, 2025 |
