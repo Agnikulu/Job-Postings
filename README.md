@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 599
+- **Open positions:** 600
 - **All-time tracked:** 957
 - **Active companies:** 159
-- **Last run (raw / matched):** 39886 postings fetched, 541 passed filters
-- **Last updated:** `2026-11-14 14:14 UTC`
+- **Last run (raw / matched):** 44008 postings fetched, 558 passed filters
+- **Last updated:** `2026-11-14 15:20 UTC`
 
 ## Legend
 
@@ -258,6 +258,7 @@ how to fork, how to add companies, and how filtering works.
 | Cerebras | Software Engineer, Kernel Reliability 🇺🇸 | Sunnyvale, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f) | Sep 15, 2026 |
 | SpaceX | Fabrication Technician (Panel Systems) - Multiple Shifts 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8779919002?gh_jid=8779919002) | Sep 15, 2026 |
 | Amazon Web Services (AWS) | MLA Design Verification Engineer I, Annapurna Labs 🇺🇸 | Austin, TX, USA | amazon_jobs | Early Career | [Apply](https://www.amazon.jobs/en/jobs/10541170/mla-design-verification-engineer-i-annapurna-labs) | Sep 15, 2026 |
+| Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011532) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Technical Marketing Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285) | Sep 14, 2026 |
 | Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011515) | Sep 14, 2026 |
 | Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-013389) | Sep 14, 2026 |
@@ -642,7 +643,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (358)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (357)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -823,7 +824,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 15, 2026 |
 | ~~Qualcomm~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Atlassian~~ | ~~Software Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 15, 2026 |
-| ~~Palo Alto Networks~~ | ~~Software Engineer 🇺🇸~~ | Office - USA - CA - Headquarters | workday | - | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, AI for Graphics and Gaming - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 14, 2026 |
 | ~~Nvidia~~ | ~~Research Scientist, Circuits - PhD New College Grad 2026 🇺🇸~~ | 2 Locations | workday | PhD, New Grad | Closed | Sep 14, 2026 |
