@@ -23,7 +23,7 @@ how to fork, how to add companies, and how filtering works.
 - **All-time tracked:** 957
 - **Active companies:** 159
 - **Last run (raw / matched):** 40304 postings fetched, 541 passed filters
-- **Last updated:** `2026-11-14 10:16 UTC`
+- **Last updated:** `2026-11-14 11:15 UTC`
 
 ## Legend
 
