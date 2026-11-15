@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 596
 - **All-time tracked:** 958
 - **Active companies:** 159
-- **Last run (raw / matched):** 46623 postings fetched, 597 passed filters
-- **Last updated:** `2026-11-15 13:28 UTC`
+- **Last run (raw / matched):** 46618 postings fetched, 594 passed filters
+- **Last updated:** `2026-11-15 14:27 UTC`
 
 ## Legend
 
@@ -53,6 +53,7 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Fellow, AI-Native Networking Silicon Systems 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96890) | Nov 11, 2026 |
 | Adobe | 2027 University Graduate - Data Scientist 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | Nov 11, 2026 |
 | OpenAI | Partner Applied AI Engineer, Oracle and Cloud ISV 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871) | Nov 11, 2026 |
+| Qualcomm | Engineer, Automotive Reliability 🇺🇸 | San Diego, CA, US | eightfold_pcsx | Masters | [Apply](https://careers.qualcomm.com/careers/job/446722062471) | Nov 10, 2026 |
 | Roblox | Software Engineer, ROS Open Platform & AI Enablement 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) | Nov 10, 2026 |
 | AMD | FPGA Design and Timing Modeling Engineer 🇺🇸 | US,CA,Home Office_Area1 | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97781) | Nov 10, 2026 |
 | Cursor | Software Engineer, Research Tooling 🇺🇸 | Palo Alto, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4) | Nov 10, 2026 |
@@ -155,7 +156,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2027] Senior Machine Learning Engineer - PhD Early Career 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) | Oct 08, 2026 |
 | Anduril | Project Engineer, AD&S 🇺🇸 | Costa Mesa, California, United States | greenhouse | - | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5261162007?gh_jid=5261162007) | Oct 08, 2026 |
 | Qualcomm | Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721410827) | Oct 07, 2026 |
-| Qualcomm | Next-Gen System Cache ASIC Digital Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721413542) | Oct 07, 2026 |
 | Apple | Core OS Software Engineer - USB4/Thunderbolt 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt) | Oct 07, 2026 |
 | Zillow | Applied Scientist 🇺🇸 | Remote-USA | workday | - | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1) | Oct 07, 2026 |
 | Nvidia | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Oct 07, 2026 |
@@ -647,7 +647,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Shield AI~~ | ~~Engineer I, Software - New Grad - 6531 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 13, 2026 |
 | ~~1X Technologies~~ | ~~Software Engineer - Applied AI 🇺🇸~~ | San Carlos, CA | ashby | - | Closed | Nov 12, 2026 |
 | ~~Veeva Systems~~ | ~~Associate Release Engineer 🇺🇸~~ | California - Pleasanton | lever | - | Closed | Nov 11, 2026 |
-| ~~Qualcomm~~ | ~~Engineer, Automotive Reliability 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | Masters | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, New Grad 2027 🇺🇸~~ | San Francisco, CA | ashby | New Grad | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Model Routing & Inference 🇺🇸~~ | New York, NY | ashby | - | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Client Infrastructure 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 10, 2026 |
@@ -729,6 +728,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Intuit~~ | ~~OpenSource MTV - AI & Platform Engineering Developer Meetup - Fall 2026 🇺🇸~~ | Mountain View, CA | linkedin | - | Closed | Oct 08, 2026 |
 | ~~Google~~ | ~~Security Engineer, Platforms and Devices 🇺🇸~~ | Mountain View, CA, USA | google_careers | - | Closed | Oct 08, 2026 |
 | ~~Apple~~ | ~~Test Engineer - Product Operations Graduate Programme 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 08, 2026 |
+| ~~Qualcomm~~ | ~~Next-Gen System Cache ASIC Digital Design Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 07, 2026 |
 | ~~Apple~~ | ~~Software Engineer, Siri User Experiences 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 07, 2026 |
 | ~~Riot Games~~ | ~~Software Engineer - Central Technology, Infrastructure (Optimize & Protect) 🇺🇸~~ | Los Angeles, USA | greenhouse | - | Closed | Oct 07, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Associate Resident Consultant (Remote) 🇺🇸~~ | USA - Remote | workday | - | Closed | Oct 07, 2026 |
