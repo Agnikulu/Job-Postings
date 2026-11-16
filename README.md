@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 594
+- **Open positions:** 593
 - **All-time tracked:** 960
 - **Active companies:** 159
-- **Last run (raw / matched):** 40433 postings fetched, 537 passed filters
-- **Last updated:** `2026-11-16 22:15 UTC`
+- **Last run (raw / matched):** 40448 postings fetched, 536 passed filters
+- **Last updated:** `2026-11-16 23:13 UTC`
 
 ## Legend
 
@@ -466,7 +466,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Application Software Engineer, Spaceport Experience 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002) | Jul 13, 2026 |
 | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads 🇺🇸 | Austin, TX, United States<br>Chicago, Illinois, United States<br>London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | MS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Jul 13, 2026 |
 | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs 🇺🇸 | London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | PhD Student | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Jul 13, 2026 |
-| DRW | Software Developer 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7980165) | Jul 13, 2026 |
 | Akuna Capital | Junior Quantitative Developer & Strategist 🇺🇸 | Chicago, IL | greenhouse | - | [Apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) | Jul 13, 2026 |
 | Jane Street | Hardware Engineer (FPGA/ASIC) 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002) | Jul 10, 2026 |
 | SpaceX | Software Engineer, Components Test (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002) | Jul 09, 2026 |
@@ -637,7 +636,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (366)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (367)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -960,6 +959,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Google~~ | ~~Security Engineer, Detection 🇺🇸~~ | Reston, VA, USA | google_careers | - | Closed | Jul 15, 2026 |
 | ~~Pure Storage~~ | ~~AI Transformation Coordinator 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Jul 13, 2026 |
 | ~~Hudson River Trading~~ | ~~Algorithm Developer (Quant Research & Trading) – 2027 Grads 🇺🇸~~ | London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | MS Student, New Grad | Closed | Jul 13, 2026 |
+| ~~DRW~~ | ~~Software Developer 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 13, 2026 |
 | ~~DRW~~ | ~~FPGA Developer 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - C++ 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - Python 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
