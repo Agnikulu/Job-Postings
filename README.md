@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
+- **Open positions:** 589
 - **All-time tracked:** 962
 - **Active companies:** 159
-- **Last run (raw / matched):** 41888 postings fetched, 536 passed filters
-- **Last updated:** `2026-11-17 00:39 UTC`
+- **Last run (raw / matched):** 41829 postings fetched, 534 passed filters
+- **Last updated:** `2026-11-17 01:24 UTC`
 
 ## Legend
 
@@ -177,8 +177,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002) | Oct 02, 2026 |
 | SpaceX | Software Engineer (Starshield Products) 🇺🇸 | Washington, DC | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002) | Oct 02, 2026 |
 | xAI | Rack Design Engineer, Data Center - Memphis 🇺🇸 | Southaven, MS<br>Memphis, TN | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255858007) | Oct 02, 2026 |
-| Harvey | Software Engineer, New Grad (2027) 🇺🇸 | New York | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | Oct 02, 2026 |
-| Harvey | Software Engineer, New Grad (2027) 🇺🇸 | San Francisco | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | Oct 02, 2026 |
 | Nvidia | Research Scientist, Fundamental Generative AI - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) | Oct 02, 2026 |
 | Periodic Labs | Research Scientist, Scaling RL 🇺🇸 | Menlo Park, CA<br>Montreal, Canada | ashby | Bachelors | [Apply](https://jobs.ashbyhq.com/periodic-labs/20b122c9-b8ec-4fb0-aaf4-9b45902affe0) | Oct 01, 2026 |
 | SpaceX | Application Software Engineer, Manufacturing Systems 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8861910002?gh_jid=8861910002) | Oct 01, 2026 |
@@ -634,7 +632,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (371)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (373)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -751,6 +749,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | GB,Cambridge | jibe | - | Closed | Oct 02, 2026 |
 | ~~ServiceNow~~ | ~~Software Engineer, Core Infrastructure - Moveworks (New Grad) 🇺🇸~~ | Mountain View, California, United States | smartrecruiters | New Grad | Closed | Oct 02, 2026 |
 | ~~Instacart~~ | ~~Data Analyst, Platform Excellence Ops Analytics 🇺🇸~~ | United States - Remote | greenhouse | - | Closed | Oct 02, 2026 |
+| ~~Harvey~~ | ~~Software Engineer, New Grad (2027) 🇺🇸~~ | New York | ashby | New Grad | Closed | Oct 02, 2026 |
+| ~~Harvey~~ | ~~Software Engineer, New Grad (2027) 🇺🇸~~ | San Francisco | ashby | New Grad | Closed | Oct 02, 2026 |
 | ~~AMD~~ | ~~RTL Tools & Methodology Engineer 🇺🇸~~ | US,CA,San Jose | jibe | PhD | Closed | Oct 01, 2026 |
 | ~~Apple~~ | ~~AI Software Engineer, Apple Cloud AI Platform 🇺🇸~~ | Seattle, United States of America | apple | - | Closed | Oct 01, 2026 |
 | ~~Qualcomm~~ | ~~Modem Firmware Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Oct 01, 2026 |
