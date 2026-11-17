@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 589
+- **Open positions:** 588
 - **All-time tracked:** 962
 - **Active companies:** 159
-- **Last run (raw / matched):** 40495 postings fetched, 532 passed filters
-- **Last updated:** `2026-11-17 02:22 UTC`
+- **Last run (raw / matched):** 40678 postings fetched, 532 passed filters
+- **Last updated:** `2026-11-17 03:20 UTC`
 
 ## Legend
 
@@ -157,7 +157,6 @@ how to fork, how to add companies, and how filtering works.
 | Qualcomm | Next Gen, High-Speed, Memory and Cache Controller Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721410827) | Oct 07, 2026 |
 | Qualcomm | Next-Gen System Cache ASIC Digital Design Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721413542) | Oct 07, 2026 |
 | Apple | Core OS Software Engineer - USB4/Thunderbolt 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt) | Oct 07, 2026 |
-| Zillow | Applied Scientist 🇺🇸 | Remote-USA | workday | - | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P751481-1) | Oct 07, 2026 |
 | Nvidia | Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551) | Oct 07, 2026 |
 | CrowdStrike | CrowdStrike Platform Resident Consultant (Remote) 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant--Remote-_R30267) | Oct 07, 2026 |
 | Atlassian | Data Engineer, 2027 Graduate U.S 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | BS Student | [Apply](https://www.atlassian.com/company/careers/details/25998) | Oct 06, 2026 |
@@ -632,7 +631,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (373)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (374)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -727,6 +726,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Google~~ | ~~Security Engineer, Platforms and Devices 🇺🇸~~ | Mountain View, CA, USA | google_careers | - | Closed | Oct 08, 2026 |
 | ~~Apple~~ | ~~Test Engineer - Product Operations Graduate Programme 🇺🇸~~ | Various Locations within San Francisco Bay Area | apple | - | Closed | Oct 08, 2026 |
 | ~~Apple~~ | ~~Software Engineer, Siri User Experiences 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 07, 2026 |
+| ~~Zillow~~ | ~~Applied Scientist 🇺🇸~~ | Remote-USA | workday | - | Closed | Oct 07, 2026 |
 | ~~Riot Games~~ | ~~Software Engineer - Central Technology, Infrastructure (Optimize & Protect) 🇺🇸~~ | Los Angeles, USA | greenhouse | - | Closed | Oct 07, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Associate Resident Consultant (Remote) 🇺🇸~~ | USA - Remote | workday | - | Closed | Oct 07, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Resident Consultant (Remote) 🇺🇸~~ | USA - Remote | workday | - | Closed | Oct 07, 2026 |
