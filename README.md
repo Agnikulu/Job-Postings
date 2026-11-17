@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 589
-- **All-time tracked:** 963
+- **Open positions:** 590
+- **All-time tracked:** 964
 - **Active companies:** 159
-- **Last run (raw / matched):** 40991 postings fetched, 520 passed filters
-- **Last updated:** `2026-11-17 08:25 UTC`
+- **Last run (raw / matched):** 40518 postings fetched, 534 passed filters
+- **Last updated:** `2026-11-17 09:19 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Google | UX Researcher, Enterprise Platform, Google Ads 🇺🇸 | Seattle, WA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Nov 17, 2026 |
 | xAI | Software Engineer, Ads Serving 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297311007) | Nov 16, 2026 |
 | Roblox | [2027] Data Scientist - PhD Early Career - Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 16, 2026 |
 | Jump Trading | HPC Systems Engineer 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8394510) | Nov 16, 2026 |
