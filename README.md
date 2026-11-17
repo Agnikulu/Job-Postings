@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 588
-- **All-time tracked:** 966
+- **Open positions:** 591
+- **All-time tracked:** 969
 - **Active companies:** 159
-- **Last run (raw / matched):** 40170 postings fetched, 534 passed filters
-- **Last updated:** `2026-11-17 19:15 UTC`
+- **Last run (raw / matched):** 41836 postings fetched, 538 passed filters
+- **Last updated:** `2026-11-17 20:18 UTC`
 
 ## Legend
 
@@ -40,6 +40,9 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Benchling | Software Engineer, CDC 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | Nov 17, 2026 |
+| Benchling | Software Engineer, Big Data Infrastructure 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Nov 17, 2026 |
+| Benchling | Software Engineer, CDC 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862) | Nov 17, 2026 |
 | Akuna Capital | Software Engineer - Python, Post Trade 🇺🇸 | Chicago, IL | greenhouse | New Grad | [Apply](https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204) | Nov 17, 2026 |
 | Roblox | Software Engineer, Communication Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8386848?gh_jid=8386848) | Nov 17, 2026 |
 | Google | UX Researcher, Enterprise Platform, Google Ads 🇺🇸 | Seattle, WA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Nov 17, 2026 |
