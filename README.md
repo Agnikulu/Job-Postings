@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 589
+- **Open positions:** 588
 - **All-time tracked:** 964
 - **Active companies:** 159
-- **Last run (raw / matched):** 40543 postings fetched, 533 passed filters
-- **Last updated:** `2026-11-17 15:18 UTC`
+- **Last run (raw / matched):** 41797 postings fetched, 534 passed filters
+- **Last updated:** `2026-11-17 16:24 UTC`
 
 ## Legend
 
@@ -54,7 +54,6 @@ how to fork, how to add companies, and how filtering works.
 | Qualcomm | Multiple roles in Machine Learning & Deep Learning NeurIPS 2026 🇺🇸 | San Diego, CA, US / Amsterdam, NH, NL / Austin, TX, US / Folsom, CA, US / Hillsboro, OR, US / KR / Markham, ON, CA / Santa Clara, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722098332) | Nov 12, 2026 |
 | Nuro | Systems Engineering, New Grad 2027 🇺🇸 | Mountain View, California (HQ) | greenhouse | PhD Student, New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8360415) | Nov 12, 2026 |
 | AMD | Fellow Firmware Engineering 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96388) | Nov 12, 2026 |
-| Microsoft | Software Development Engineer 🇺🇸 | Redmond, WA, US | microsoft | - | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557050698) | Nov 11, 2026 |
 | AMD | Fellow, AI-Native Networking Silicon Systems 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96890) | Nov 11, 2026 |
 | Adobe | 2027 University Graduate - Data Scientist 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | Nov 11, 2026 |
 | OpenAI | Partner Applied AI Engineer, Oracle and Cloud ISV 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871) | Nov 11, 2026 |
@@ -632,7 +631,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (375)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (376)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -641,6 +640,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~ServiceNow~~ | ~~Associate Agentic Search Infrastructure Engineer - Moveworks 🇺🇸~~ | Mountain View, CALIFORNIA, United States | smartrecruiters | - | Closed | Nov 12, 2026 |
 | ~~1X Technologies~~ | ~~Software Engineer - Applied AI 🇺🇸~~ | San Carlos, CA | ashby | - | Closed | Nov 12, 2026 |
 | ~~Veeva Systems~~ | ~~Associate Release Engineer 🇺🇸~~ | California - Pleasanton | lever | - | Closed | Nov 11, 2026 |
+| ~~Microsoft~~ | ~~Software Development Engineer 🇺🇸~~ | Redmond, WA, US | microsoft | - | Closed | Nov 11, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Research Tooling 🇺🇸~~ | Palo Alto, CA | ashby | - | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, New Grad 2027 🇺🇸~~ | San Francisco, CA | ashby | New Grad | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Model Routing & Inference 🇺🇸~~ | New York, NY | ashby | - | Closed | Nov 10, 2026 |
