@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 588
-- **All-time tracked:** 962
+- **Open positions:** 589
+- **All-time tracked:** 963
 - **Active companies:** 159
-- **Last run (raw / matched):** 40678 postings fetched, 532 passed filters
-- **Last updated:** `2026-11-17 03:20 UTC`
+- **Last run (raw / matched):** 40503 postings fetched, 533 passed filters
+- **Last updated:** `2026-11-17 04:19 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| xAI | Software Engineer, Ads Serving 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297311007) | Nov 16, 2026 |
 | Roblox | [2027] Data Scientist - PhD Early Career - Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 16, 2026 |
 | Jump Trading | HPC Systems Engineer 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8394510) | Nov 16, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722250006) | Nov 16, 2026 |
