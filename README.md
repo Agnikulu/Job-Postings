@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 587
-- **All-time tracked:** 964
+- **Open positions:** 588
+- **All-time tracked:** 965
 - **Active companies:** 159
-- **Last run (raw / matched):** 40506 postings fetched, 532 passed filters
-- **Last updated:** `2026-11-17 17:18 UTC`
+- **Last run (raw / matched):** 41811 postings fetched, 534 passed filters
+- **Last updated:** `2026-11-17 18:25 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Roblox | Software Engineer, Communication Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8386848?gh_jid=8386848) | Nov 17, 2026 |
 | Google | UX Researcher, Enterprise Platform, Google Ads 🇺🇸 | Seattle, WA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Nov 17, 2026 |
 | xAI | Software Engineer, Ads Serving 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297311007) | Nov 16, 2026 |
 | Roblox | [2027] Data Scientist - PhD Early Career - Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 16, 2026 |
