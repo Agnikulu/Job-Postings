@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 591
-- **All-time tracked:** 969
+- **All-time tracked:** 971
 - **Active companies:** 159
-- **Last run (raw / matched):** 41795 postings fetched, 538 passed filters
-- **Last updated:** `2026-11-18 17:21 UTC`
+- **Last run (raw / matched):** 41777 postings fetched, 538 passed filters
+- **Last updated:** `2026-11-18 18:23 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Snowflake | Software Engineer - Customer Experience Engineering 🇺🇸 | US-WA-Bellevue | ashby | - | [Apply](https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae) | Nov 18, 2026 |
+| Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722197459) | Nov 18, 2026 |
 | Benchling | Software Engineer, Big Data Infrastructure 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Nov 17, 2026 |
 | Benchling | Software Engineer, CDC 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862) | Nov 17, 2026 |
 | Benchling | Software Engineer, CDC 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | Nov 17, 2026 |
@@ -628,13 +630,11 @@ how to fork, how to add companies, and how filtering works.
 | Squarepoint Capital | Junior Quant Researcher - ML Alpha Research 🇺🇸 | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464) | Jul 11, 2024 |
 | Jane Street | Machine Learning Performance Engineer 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/7449077002?gh_jid=7449077002) | May 20, 2024 |
 | Stripe | Data Analyst 🇺🇸 | US | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=5601881) | Jan 09, 2024 |
-| Databricks | Software Engineer - New Grad, Distributed Data Systems (2027 Start) 🇺🇸 | Bellevue, Washington<br>Mountain View, California | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | Aug 04, 2023 |
-| Databricks | Software Engineer - New Grad (2027 Start) 🇺🇸 | Bellevue, Washington<br>Mountain View, California<br>San Francisco, California<br>Vancouver, Canada | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | Aug 04, 2023 |
 | Squarepoint Capital | Junior Quant Researcher 🇺🇸 | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376) | Apr 03, 2019 |
 
 
 <details>
-<summary><b>Closed positions (378)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (380)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -1017,6 +1017,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Jane Street~~ | ~~Machine Learning Performance Engineer 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | May 20, 2024 |
 | ~~Jump Trading~~ | ~~HPC Systems Engineer 🇺🇸~~ | Chicago | greenhouse | New Grad | Closed | Mar 08, 2024 |
 | ~~Jump Trading~~ | ~~Software Engineer (UI) 🇺🇸~~ | Chicago | greenhouse | New Grad | Closed | Dec 05, 2023 |
+| ~~Databricks~~ | ~~Software Engineer - New Grad, Distributed Data Systems (2027 Start) 🇺🇸~~ | Bellevue, Washington<br>Mountain View, California | greenhouse | New Grad | Closed | Aug 04, 2023 |
+| ~~Databricks~~ | ~~Software Engineer - New Grad (2027 Start) 🇺🇸~~ | Bellevue, Washington<br>Mountain View, California<br>San Francisco, California<br>Vancouver, Canada | greenhouse | New Grad | Closed | Aug 04, 2023 |
 
 </details>
 
