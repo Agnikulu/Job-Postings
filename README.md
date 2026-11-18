@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 590
-- **All-time tracked:** 972
+- **Open positions:** 591
+- **All-time tracked:** 973
 - **Active companies:** 159
-- **Last run (raw / matched):** 41824 postings fetched, 537 passed filters
-- **Last updated:** `2026-11-18 21:16 UTC`
+- **Last run (raw / matched):** 40516 postings fetched, 537 passed filters
+- **Last updated:** `2026-11-18 22:15 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | GPU Silicon Triage Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200695767-0157/gpu-silicon-triage-engineer) | Nov 18, 2026 |
 | xAI | AI Tutor, Medicine - Temporary 🇺🇸 | Remote US<br>Remote, International | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298893007) | Nov 18, 2026 |
 | Snowflake | Software Engineer - Customer Experience Engineering 🇺🇸 | US-WA-Bellevue | ashby | - | [Apply](https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae) | Nov 18, 2026 |
 | Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722197459) | Nov 18, 2026 |
