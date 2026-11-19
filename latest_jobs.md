@@ -1,13 +1,9 @@
 # Latest Job Sniper Run
 
-**Run timestamp:** 2026-11-19 20:19 UTC  
-**New matches this run:** 1  
+**Run timestamp:** 2026-11-19 21:14 UTC  
+**New matches this run:** 0  
 **Location filter:** US-only
 
 
-Grouped by company (sorted by match count):
+_No new early-career roles since the last run._
 
-
-## Apple - 1 new (1 technical)
-
-- **[TECH]** [Backend Software Engineer - Developer Publications](https://jobs.apple.com/en-us/details/200695937-3543/backend-software-engineer-developer-publications) - *San Diego, United States of America*
