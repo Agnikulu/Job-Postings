@@ -22,8 +22,8 @@ how to fork, how to add companies, and how filtering works.
 - **Open positions:** 589
 - **All-time tracked:** 975
 - **Active companies:** 159
-- **Last run (raw / matched):** 40561 postings fetched, 535 passed filters
-- **Last updated:** `2026-11-19 17:16 UTC`
+- **Last run (raw / matched):** 40763 postings fetched, 535 passed filters
+- **Last updated:** `2026-11-19 18:20 UTC`
 
 ## Legend
 
@@ -96,7 +96,6 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93949) | Nov 06, 2026 |
 | AMD | Test Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93857) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
-| AMD | Fellow, AI Workload Optimization 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/79010) | Nov 05, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
 | Nvidia | GPU System and Scheduling Architect – New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2028824) | Nov 03, 2026 |
@@ -126,6 +125,7 @@ how to fork, how to add companies, and how filtering works.
 | IMC Trading | Systems Engineer - Global Development Platform 🇺🇸 | Chicago, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/5004989101) | Oct 21, 2026 |
 | Atlassian | Security Engineer, 2027 Graduate U.S. 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | BS Student | [Apply](https://www.atlassian.com/company/careers/details/25997) | Oct 20, 2026 |
 | Nvidia | Power Architect - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | Oct 20, 2026 |
+| Verily | Cloud Engineer - NCG 🇺🇸 | Raleigh, North Carolina | workday | - | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330) | Oct 20, 2026 |
 | Apple | Platform Engineer, Privacy Preserving ML 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658504-0836/platform-engineer-privacy-preserving-ml) | Oct 16, 2026 |
 | Apple | Platform Engineer, Privacy Preserving ML 🇺🇸 | Seattle, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658504-3337/platform-engineer-privacy-preserving-ml) | Oct 16, 2026 |
 | Scale AI | AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP) 🇺🇸 | Canada<br>United Kingdom<br>United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Oct 16, 2026 |
@@ -656,6 +656,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Shield AI~~ | ~~Engineer I, Software - Perception - New Grad - 6135 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸~~ | United States | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 05, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
@@ -691,7 +692,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, Agent Performance Modeling - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 20, 2026 |
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-NC-Remote Location | workday | - | Closed | Oct 20, 2026 |
 | ~~Waymo~~ | ~~Product Data Scientist - Marketplace Logistics 🇺🇸~~ | Mountain View, CA, USA, San Francisco, CA, USA | greenhouse | - | Closed | Oct 20, 2026 |
-| ~~Verily~~ | ~~Cloud Engineer - NCG 🇺🇸~~ | Raleigh, North Carolina | workday | - | Closed | Oct 20, 2026 |
 | ~~Qualcomm~~ | ~~Engineer – AI Model Enablement & Software Tools 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 19, 2026 |
 | ~~Nvidia~~ | ~~Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 19, 2026 |
 | ~~Apple~~ | ~~Software Engineer, IS&T Early Career Opportunities 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 19, 2026 |
