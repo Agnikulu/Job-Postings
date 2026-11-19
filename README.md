@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
+- **Open positions:** 590
 - **All-time tracked:** 977
 - **Active companies:** 159
-- **Last run (raw / matched):** 41901 postings fetched, 537 passed filters
-- **Last updated:** `2026-11-19 22:20 UTC`
+- **Last run (raw / matched):** 39757 postings fetched, 518 passed filters
+- **Last updated:** `2026-11-19 23:15 UTC`
 
 ## Legend
 
@@ -153,7 +153,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | Software Engineer, ROS 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) | Oct 09, 2026 |
 | Nvidia | ASIC Clocks Verification Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579) | Oct 09, 2026 |
 | Affirm | IT Engineer Intern (Early Careers Summer 2027) 🇺🇸 | San Francisco, California, United States | greenhouse | Intern | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | Oct 09, 2026 |
-| Stripe | Software Engineer 🇺🇸 | Seattle, WA | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=8267736) | Oct 09, 2026 |
 | Squarepoint Capital | Quantitative Researcher, Volatility - Medium-Frequency 🇺🇸 | New York | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8257346&gh_jid=8257346) | Oct 09, 2026 |
 | SpaceX | New Graduate Engineer, Automation - '26/'27 (Starlink) 🇺🇸 | Bastrop, TX | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002) | Oct 09, 2026 |
 | Anduril | 2027 Early Career Systems Engineer 🇺🇸 | Boston, Massachusetts, United States<br>Boulder, Colorado, United States<br>Costa Mesa, California, United States<br>Foothill Ranch, California, United States<br>Huntsville, Alabama, United States<br>Reston, Virginia, United States<br>Seattle, Washington, United States<br>Washington, District of Columbia, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) | Oct 09, 2026 |
@@ -634,7 +633,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (386)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (387)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -726,6 +725,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Camera DE Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 09, 2026 |
 | ~~Nvidia~~ | ~~C++ Software Engineer, Infrastructure Tools - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 09, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software Integration - New Grad - 6214 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Oct 09, 2026 |
+| ~~Stripe~~ | ~~Software Engineer 🇺🇸~~ | Seattle, WA | greenhouse | - | Closed | Oct 09, 2026 |
 | ~~Apple~~ | ~~Custom ERC/Power-Intent Automation CAD Engineer 🇺🇸~~ | Sunnyvale, United States of America | apple | - | Closed | Oct 08, 2026 |
 | ~~Snowflake~~ | ~~Software Engineer - Customer Experience Engineering 🇺🇸~~ | US-CA-Menlo Park | ashby | - | Closed | Oct 08, 2026 |
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Kirkland, Washington, United States | smartrecruiters | - | Closed | Oct 08, 2026 |
