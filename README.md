@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
+- **Open positions:** 589
 - **All-time tracked:** 975
 - **Active companies:** 159
-- **Last run (raw / matched):** 40556 postings fetched, 538 passed filters
-- **Last updated:** `2026-11-19 16:20 UTC`
+- **Last run (raw / matched):** 40561 postings fetched, 535 passed filters
+- **Last updated:** `2026-11-19 17:16 UTC`
 
 ## Legend
 
@@ -468,7 +468,6 @@ how to fork, how to add companies, and how filtering works.
 | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads 🇺🇸 | Austin, TX, United States<br>Chicago, Illinois, United States<br>London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | MS Student, New Grad | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) | Jul 13, 2026 |
 | Hudson River Trading | Algorithm Developer (Quant Research & Trading) – 2027 PhDs 🇺🇸 | London, United Kingdom<br>New York, NY, United States<br>Singapore | greenhouse | PhD Student | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) | Jul 13, 2026 |
 | Akuna Capital | Junior Quantitative Developer & Strategist 🇺🇸 | Chicago, IL | greenhouse | - | [Apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) | Jul 13, 2026 |
-| Jane Street | Hardware Engineer (FPGA/ASIC) 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002) | Jul 10, 2026 |
 | SpaceX | Software Engineer, Components Test (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8625615002?gh_jid=8625615002) | Jul 09, 2026 |
 | SpaceX | Software Engineer, Components (Starshield) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002) | Jul 09, 2026 |
 | SpaceX | RF Software Engineer (Starlink) 🇺🇸 | Bastrop, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002) | Jul 09, 2026 |
@@ -590,7 +589,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Software Engineer, C++ (Starlink) 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8451960002?gh_jid=8451960002) | Mar 11, 2026 |
 | xAI | Software Engineer, Kernels/CUDA (C++) 🇺🇸 | Palo Alto, CA<br>Seattle, WA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5052040007) | Mar 06, 2026 |
 | Applied Intuition | Software Engineer - C++ 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/c9473dcb-f651-47bb-9a59-4150bddcdaa8) | Mar 04, 2026 |
-| Okta | Splunk Infrastructure Engineer 🇺🇸 | Bellevue, Washington<br>Chicago, Illinois<br>New York, New York<br>San Francisco, California<br>Washington, DC | greenhouse | - | [Apply](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254) | Feb 26, 2026 |
 | DRW | Quantitative Researcher 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7650182) | Feb 25, 2026 |
 | Amazon Web Services (AWS) | Software Development Engineer Apprentice - Military Veterans 🇺🇸 | Seattle, WA, USA | amazon_jobs | - | [Apply](https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans) | Feb 24, 2026 |
 | Applied Intuition | Research Engineer - Reinforcement Learning, Self-Driving 🇺🇸 | Sunnyvale | ashby | - | [Apply](https://jobs.ashbyhq.com/applied/36a49d01-e60f-4c01-8c8c-5a7f79347f51) | Feb 13, 2026 |
@@ -634,7 +632,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (384)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (386)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -975,6 +973,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~DRW~~ | ~~FPGA Developer 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - C++ 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
 | ~~Akuna Capital~~ | ~~Software Engineer (Entry-Level) - Python 🇺🇸~~ | Chicago, IL | greenhouse | New Grad | Closed | Jul 13, 2026 |
+| ~~Jane Street~~ | ~~Hardware Engineer (FPGA/ASIC) 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | Jul 10, 2026 |
 | ~~Jane Street~~ | ~~Software Engineer 🇺🇸~~ | New York, New York, United States | greenhouse | - | Closed | Jul 06, 2026 |
 | ~~Akuna Capital~~ | ~~Junior Quantitative Risk Analyst 🇺🇸~~ | Chicago | greenhouse | - | Closed | Jul 06, 2026 |
 | ~~DoorDash~~ | ~~Software Engineer, Spark Platform 🇺🇸~~ | San Francisco, CA<br>Seattle, WA<br>Sunnyvale, CA<br>New York, NY | greenhouse | - | Closed | Jul 02, 2026 |
@@ -1005,6 +1004,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Anduril~~ | ~~Software Engineer, Intelligence Systems 🇺🇸~~ | Reston, Virginia, United States | greenhouse | - | Closed | Mar 11, 2026 |
 | ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Mar 02, 2026 |
 | ~~OpenAI~~ | ~~Hardware Tools Engineer 🇺🇸~~ | San Francisco | ashby | - | Closed | Mar 02, 2026 |
+| ~~Okta~~ | ~~Splunk Infrastructure Engineer 🇺🇸~~ | Bellevue, Washington<br>Chicago, Illinois<br>New York, New York<br>San Francisco, California<br>Washington, DC | greenhouse | - | Closed | Feb 26, 2026 |
 | ~~Hudson River Trading~~ | ~~Software Engineer - Treasury Infrastructure 🇺🇸~~ | New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Hudson River Trading~~ | ~~Software Engineer - AI Tools 🇺🇸~~ | Chicago, Illinois, United States<br>New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad) 🇺🇸~~ | Mountain View, CA USA<br> San Francisco, CA USA<br> | greenhouse | PhD, New Grad | Closed | Dec 22, 2025 |
