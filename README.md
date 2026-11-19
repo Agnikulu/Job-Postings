@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 589
-- **All-time tracked:** 973
+- **All-time tracked:** 974
 - **Active companies:** 159
-- **Last run (raw / matched):** 40499 postings fetched, 535 passed filters
-- **Last updated:** `2026-11-19 00:34 UTC`
+- **Last run (raw / matched):** 40506 postings fetched, 536 passed filters
+- **Last updated:** `2026-11-19 01:15 UTC`
 
 ## Legend
 
@@ -40,8 +40,9 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Qualcomm | #Embedded Audio Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722197774) | Nov 18, 2026 |
 | Apple | GPU Silicon Triage Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200695767-0157/gpu-silicon-triage-engineer) | Nov 18, 2026 |
-| xAI | AI Tutor, Medicine - Temporary 🇺🇸 | Remote US<br>Remote, International | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298893007) | Nov 18, 2026 |
+| xAI | AI Tutor, Medicine - Temporary 🇺🇸 | Remote, International | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298893007) | Nov 18, 2026 |
 | Snowflake | Software Engineer - Customer Experience Engineering 🇺🇸 | US-WA-Bellevue | ashby | - | [Apply](https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae) | Nov 18, 2026 |
 | Qualcomm | Embedded Systems Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722197459) | Nov 18, 2026 |
 | Benchling | Software Engineer, Big Data Infrastructure 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Nov 17, 2026 |
@@ -64,7 +65,6 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Fellow, AI-Native Networking Silicon Systems 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96890) | Nov 11, 2026 |
 | Adobe | 2027 University Graduate - Data Scientist 🇺🇸 | San Jose | workday | New Grad | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) | Nov 11, 2026 |
 | OpenAI | Partner Applied AI Engineer, Oracle and Cloud ISV 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871) | Nov 11, 2026 |
-| Qualcomm | Engineer, Automotive Reliability 🇺🇸 | San Diego, CA, US | eightfold_pcsx | Masters | [Apply](https://careers.qualcomm.com/careers/job/446722062471) | Nov 10, 2026 |
 | Roblox | Software Engineer, ROS Open Platform & AI Enablement 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) | Nov 10, 2026 |
 | AMD | FPGA Design and Timing Modeling Engineer 🇺🇸 | US,CA,Home Office_Area1 | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97781) | Nov 10, 2026 |
 | Harvey | Associate Legal Engineer 🇺🇸 | Dallas | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2) | Nov 08, 2026 |
@@ -632,7 +632,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (384)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (385)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -644,6 +644,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~1X Technologies~~ | ~~Software Engineer - Applied AI 🇺🇸~~ | San Carlos, CA | ashby | - | Closed | Nov 12, 2026 |
 | ~~Veeva Systems~~ | ~~Associate Release Engineer 🇺🇸~~ | California - Pleasanton | lever | - | Closed | Nov 11, 2026 |
 | ~~Microsoft~~ | ~~Software Development Engineer 🇺🇸~~ | Redmond, WA, US | microsoft | - | Closed | Nov 11, 2026 |
+| ~~Qualcomm~~ | ~~Engineer, Automotive Reliability 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | Masters | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Research Tooling 🇺🇸~~ | Palo Alto, CA | ashby | - | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, New Grad 2027 🇺🇸~~ | San Francisco, CA | ashby | New Grad | Closed | Nov 10, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Model Routing & Inference 🇺🇸~~ | New York, NY | ashby | - | Closed | Nov 10, 2026 |
