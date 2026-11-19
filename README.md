@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
+- **Open positions:** 589
 - **All-time tracked:** 973
 - **Active companies:** 159
-- **Last run (raw / matched):** 40587 postings fetched, 537 passed filters
-- **Last updated:** `2026-11-18 23:17 UTC`
+- **Last run (raw / matched):** 40499 postings fetched, 535 passed filters
+- **Last updated:** `2026-11-19 00:34 UTC`
 
 ## Legend
 
@@ -115,7 +115,6 @@ how to fork, how to add companies, and how filtering works.
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
 | Roblox | Software Engineer, Frontend - Economy 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | Oct 26, 2026 |
 | ServiceNow | Associate Software Engineer 🇺🇸 | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) | Oct 23, 2026 |
-| Roblox | Software Engineer, Notifications 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8261393?gh_jid=8261393) | Oct 23, 2026 |
 | Roblox | Software Engineer, Reliability 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
@@ -128,7 +127,6 @@ how to fork, how to add companies, and how filtering works.
 | Apple | Platform Engineer, Privacy Preserving ML 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658504-0836/platform-engineer-privacy-preserving-ml) | Oct 16, 2026 |
 | Apple | Platform Engineer, Privacy Preserving ML 🇺🇸 | Seattle, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658504-3337/platform-engineer-privacy-preserving-ml) | Oct 16, 2026 |
 | Scale AI | AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP) 🇺🇸 | Canada<br>United Kingdom<br>United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Oct 16, 2026 |
-| Apptronik | CoRL 2026 - Robotics & AI Talent 🇺🇸 | Austin, Texas & Sunnyvale, California | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Wisconsin - Madison | lever | New Grad | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | New York - New York City | lever | New Grad | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Massachusetts - Boston | lever | New Grad | [Apply](https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5) | Oct 16, 2026 |
@@ -634,7 +632,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (382)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (384)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -678,6 +676,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Atlassian~~ | ~~AI Researcher, 2027 Graduate U.S. 🇺🇸~~ | San Francisco - United States - San Francisco, California 94104 United States | atlassian | PhD Student | Closed | Oct 26, 2026 |
 | ~~Nvidia~~ | ~~Software Verification Engineer - Networking 🇺🇸~~ | US, TX, Austin | workday | - | Closed | Oct 25, 2026 |
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | Closed | Oct 23, 2026 |
+| ~~Roblox~~ | ~~Software Engineer, Notifications 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Oct 23, 2026 |
 | ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | Mountain View, California | greenhouse | New Grad | Closed | Oct 23, 2026 |
 | ~~Shield AI~~ | ~~Software Engineer I - Internal Tools (New Grad) - R6052 🇺🇸~~ | Seattle, Washington | lever | New Grad | Closed | Oct 23, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Scenes 🇺🇸~~ | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | Closed | Oct 22, 2026 |
@@ -701,6 +700,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Oct 19, 2026 |
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
 | ~~Lyft~~ | ~~Software Engineer 🇺🇸~~ | San Francisco, CA | greenhouse | - | Closed | Oct 16, 2026 |
+| ~~Apptronik~~ | ~~CoRL 2026 - Robotics & AI Talent 🇺🇸~~ | Austin, Texas & Sunnyvale, California | greenhouse | - | Closed | Oct 16, 2026 |
 | ~~Together AI~~ | ~~Hardware Security Engineer, New Grad (2027) 🇺🇸~~ | San Francisco | greenhouse | New Grad | Closed | Oct 16, 2026 |
 | ~~Apple~~ | ~~Machine Learning Engineer, Creative Intelligence Systems 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 15, 2026 |
 | ~~AMD~~ | ~~Datacenter Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Oct 15, 2026 |
