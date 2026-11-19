@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 590
-- **All-time tracked:** 974
+- **Open positions:** 591
+- **All-time tracked:** 975
 - **Active companies:** 159
-- **Last run (raw / matched):** 41894 postings fetched, 537 passed filters
-- **Last updated:** `2026-11-19 14:23 UTC`
+- **Last run (raw / matched):** 40545 postings fetched, 538 passed filters
+- **Last updated:** `2026-11-19 15:16 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Pure Storage | Associate Systems Engineer 🇺🇸 | Chicago, Illinois<br>Lehi, Utah<br>Raleigh, North Carolina | greenhouse | - | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8393948) | Nov 19, 2026 |
 | Qualcomm | #Embedded Audio Software Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446722197774) | Nov 18, 2026 |
 | Apple | GPU Silicon Triage Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200695767-0157/gpu-silicon-triage-engineer) | Nov 18, 2026 |
 | xAI | AI Tutor, Medicine - Temporary 🇺🇸 | Remote, International | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5298893007) | Nov 18, 2026 |
