@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 589
-- **All-time tracked:** 978
+- **Open positions:** 591
+- **All-time tracked:** 980
 - **Active companies:** 159
-- **Last run (raw / matched):** 41930 postings fetched, 536 passed filters
-- **Last updated:** `2026-11-20 04:22 UTC`
+- **Last run (raw / matched):** 40576 postings fetched, 537 passed filters
+- **Last updated:** `2026-11-20 05:18 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Boulder, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-0365/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
+| Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-3956/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
 | Apple | Software Engineer - Machine Learning and Intelligent Engineering Workflows 🇺🇸 | San Diego, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696049-3543/software-engineer-machine-learning-and-intelligent-engineering-workflows) | Nov 19, 2026 |
 | Apple | Backend Software Engineer - Developer Publications 🇺🇸 | San Diego, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200695937-3543/backend-software-engineer-developer-publications) | Nov 19, 2026 |
 | Pure Storage | Associate Systems Engineer 🇺🇸 | Chicago, Illinois<br>Lehi, Utah<br>Raleigh, North Carolina | greenhouse | - | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8393948) | Nov 19, 2026 |
