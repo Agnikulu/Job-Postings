@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 591
+- **Open positions:** 590
 - **All-time tracked:** 980
 - **Active companies:** 159
-- **Last run (raw / matched):** 41899 postings fetched, 538 passed filters
-- **Last updated:** `2026-11-20 12:25 UTC`
+- **Last run (raw / matched):** 41910 postings fetched, 537 passed filters
+- **Last updated:** `2026-11-20 13:21 UTC`
 
 ## Legend
 
@@ -57,7 +57,6 @@ how to fork, how to add companies, and how filtering works.
 | Google | UX Researcher, Enterprise Platform, Google Ads 🇺🇸 | Seattle, WA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Nov 17, 2026 |
 | xAI | Software Engineer, Ads Serving 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297311007) | Nov 16, 2026 |
 | Roblox | [2027] Data Scientist - PhD Early Career - Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 16, 2026 |
-| Jump Trading | HPC Systems Engineer 🇺🇸 | Chicago | greenhouse | New Grad | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8394510) | Nov 16, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722250006) | Nov 16, 2026 |
 | Nvidia | Deep Learning Framework Communications Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Nov 14, 2026 |
 | AMD | Fellow Engineering 🇺🇸 | US,MA,Boxborough | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/97995) | Nov 13, 2026 |
@@ -634,12 +633,13 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (389)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (390)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Benchling~~ | ~~Software Engineer, CDC 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 17, 2026 |
+| ~~Jump Trading~~ | ~~HPC Systems Engineer 🇺🇸~~ | Chicago | greenhouse | New Grad | Closed | Nov 16, 2026 |
 | ~~Pure Storage~~ | ~~Associate Detection Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Nov 16, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - New Grad - 6531 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 13, 2026 |
 | ~~ServiceNow~~ | ~~Associate Agentic Search Infrastructure Engineer - Moveworks 🇺🇸~~ | Mountain View, CALIFORNIA, United States | smartrecruiters | - | Closed | Nov 12, 2026 |
