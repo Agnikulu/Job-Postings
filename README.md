@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 587
+- **Open positions:** 581
 - **All-time tracked:** 980
 - **Active companies:** 159
-- **Last run (raw / matched):** 42118 postings fetched, 534 passed filters
-- **Last updated:** `2026-11-20 18:24 UTC`
+- **Last run (raw / matched):** 40621 postings fetched, 527 passed filters
+- **Last updated:** `2026-11-20 19:16 UTC`
 
 ## Legend
 
@@ -86,10 +86,6 @@ how to fork, how to add companies, and how filtering works.
 | AMD | MTS Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94460) | Nov 06, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Diego | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94258) | Nov 06, 2026 |
 | AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94301) | Nov 06, 2026 |
-| AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93883) | Nov 06, 2026 |
-| AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93887) | Nov 06, 2026 |
-| AMD | Silicon Design Engineer 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93925) | Nov 06, 2026 |
-| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93927) | Nov 06, 2026 |
 | AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93935) | Nov 06, 2026 |
 | AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93936) | Nov 06, 2026 |
 | AMD | MTS Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93939) | Nov 06, 2026 |
@@ -125,8 +121,6 @@ how to fork, how to add companies, and how filtering works.
 | IMC Trading | Systems Engineer - Global Development Platform 🇺🇸 | Chicago, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/5004989101) | Oct 21, 2026 |
 | Atlassian | Security Engineer, 2027 Graduate U.S. 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | BS Student | [Apply](https://www.atlassian.com/company/careers/details/25997) | Oct 20, 2026 |
 | Nvidia | Power Architect - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | Oct 20, 2026 |
-| Apple | Platform Engineer, Privacy Preserving ML 🇺🇸 | Cupertino, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658504-0836/platform-engineer-privacy-preserving-ml) | Oct 16, 2026 |
-| Apple | Platform Engineer, Privacy Preserving ML 🇺🇸 | Seattle, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200658504-3337/platform-engineer-privacy-preserving-ml) | Oct 16, 2026 |
 | Scale AI | AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP) 🇺🇸 | Canada<br>United Kingdom<br>United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Wisconsin - Madison | lever | New Grad | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | New York - New York City | lever | New Grad | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | Oct 16, 2026 |
@@ -630,7 +624,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (393)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (399)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -657,6 +651,10 @@ how to fork, how to add companies, and how filtering works.
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,Santa Clara | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Test Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 05, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
@@ -703,6 +701,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Apple~~ | ~~Software Engineer, IS&T Early Career Opportunities 🇺🇸~~ | Austin, United States of America | apple | New Grad | Closed | Oct 19, 2026 |
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-CA San Jose Innovation Drive | workday | - | Closed | Oct 19, 2026 |
 | ~~Anthropic~~ | ~~Software Engineer, Memory & Search 🇺🇸~~ | New York City, NY<br>New York City, NY \| Seattle, WA<br>Remote-Friendly, United States<br>San Francisco, CA \| New York City, NY \| Seattle, WA | greenhouse | - | Closed | Oct 19, 2026 |
+| ~~Apple~~ | ~~Platform Engineer, Privacy Preserving ML 🇺🇸~~ | Cupertino, United States of America | apple | - | Closed | Oct 16, 2026 |
+| ~~Apple~~ | ~~Platform Engineer, Privacy Preserving ML 🇺🇸~~ | Seattle, United States of America | apple | - | Closed | Oct 16, 2026 |
 | ~~Lyft~~ | ~~Software Engineer 🇺🇸~~ | San Francisco, CA | greenhouse | - | Closed | Oct 16, 2026 |
 | ~~Apptronik~~ | ~~CoRL 2026 - Robotics & AI Talent 🇺🇸~~ | Austin, Texas & Sunnyvale, California | greenhouse | - | Closed | Oct 16, 2026 |
 | ~~Together AI~~ | ~~Hardware Security Engineer, New Grad (2027) 🇺🇸~~ | San Francisco | greenhouse | New Grad | Closed | Oct 16, 2026 |
