@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 576
+- **Open positions:** 571
 - **All-time tracked:** 983
 - **Active companies:** 159
-- **Last run (raw / matched):** 40637 postings fetched, 524 passed filters
-- **Last updated:** `2026-11-20 21:15 UTC`
+- **Last run (raw / matched):** 40630 postings fetched, 517 passed filters
+- **Last updated:** `2026-11-20 22:16 UTC`
 
 ## Legend
 
@@ -81,11 +81,6 @@ how to fork, how to add companies, and how filtering works.
 | Harvey | Associate Legal Engineer 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | Nov 07, 2026 |
 | Nvidia | Research Scientist, AI and Systems Security - PhD New College Grad 2026 🇺🇸 | 2 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Nov 06, 2026 |
 | AMD | Fellow, Agentic AI Software 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96895) | Nov 06, 2026 |
-| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94365) | Nov 06, 2026 |
-| AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94401) | Nov 06, 2026 |
-| AMD | Software Development Engineer 🇺🇸 | US,DC,Washington | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94445) | Nov 06, 2026 |
-| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94451) | Nov 06, 2026 |
-| AMD | MTS Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94460) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
@@ -619,7 +614,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (407)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (412)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -645,6 +640,11 @@ how to fork, how to add companies, and how filtering works.
 | ~~Shield AI~~ | ~~Engineer I, Software - Perception - New Grad - 6135 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸~~ | United States | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,DC,Washington | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~MTS Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,San Diego | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
