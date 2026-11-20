@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 581
-- **All-time tracked:** 980
+- **Open positions:** 577
+- **All-time tracked:** 982
 - **Active companies:** 159
-- **Last run (raw / matched):** 40621 postings fetched, 527 passed filters
-- **Last updated:** `2026-11-20 19:16 UTC`
+- **Last run (raw / matched):** 41968 postings fetched, 524 passed filters
+- **Last updated:** `2026-11-20 20:19 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Zscaler | Software Development Engineer 🇺🇸 | Santa Clara, California, USA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5283494007) | Nov 20, 2026 |
+| Optiver | FutureFocus: Quants (Trading & Research) 2027 🇺🇸 | Chicago | optiver | - | [Apply](https://www.optiver.com/join-us/jobs/events/chicago/futurefocus-quants-trading-and-research-2027/) | Nov 20, 2026 |
 | Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Boulder, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-0365/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
 | Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-3956/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
 | Apple | Software Engineer - Machine Learning and Intelligent Engineering Workflows 🇺🇸 | San Diego, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696049-3543/software-engineer-machine-learning-and-intelligent-engineering-workflows) | Nov 19, 2026 |
@@ -84,13 +86,7 @@ how to fork, how to add companies, and how filtering works.
 | AMD | Software Development Engineer 🇺🇸 | US,DC,Washington | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94445) | Nov 06, 2026 |
 | AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94451) | Nov 06, 2026 |
 | AMD | MTS Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94460) | Nov 06, 2026 |
-| AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Diego | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94258) | Nov 06, 2026 |
 | AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94301) | Nov 06, 2026 |
-| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93935) | Nov 06, 2026 |
-| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93936) | Nov 06, 2026 |
-| AMD | MTS Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93939) | Nov 06, 2026 |
-| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93943) | Nov 06, 2026 |
-| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93949) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
@@ -624,7 +620,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (399)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (405)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -649,12 +645,18 @@ how to fork, how to add companies, and how filtering works.
 | ~~Shield AI~~ | ~~Engineer I, Software - Perception - New Grad - 6135 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸~~ | United States | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,San Diego | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,Santa Clara | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~MTS Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Test Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 05, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
