@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 578
+- **Open positions:** 587
 - **All-time tracked:** 980
 - **Active companies:** 159
-- **Last run (raw / matched):** 40554 postings fetched, 524 passed filters
-- **Last updated:** `2026-11-20 17:16 UTC`
+- **Last run (raw / matched):** 42118 postings fetched, 534 passed filters
+- **Last updated:** `2026-11-20 18:24 UTC`
 
 ## Legend
 
@@ -79,14 +79,22 @@ how to fork, how to add companies, and how filtering works.
 | Harvey | Associate Legal Engineer 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | Nov 07, 2026 |
 | Nvidia | Research Scientist, AI and Systems Security - PhD New College Grad 2026 🇺🇸 | 2 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Nov 06, 2026 |
 | AMD | Fellow, Agentic AI Software 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96895) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94365) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94401) | Nov 06, 2026 |
 | AMD | Software Development Engineer 🇺🇸 | US,DC,Washington | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94445) | Nov 06, 2026 |
-| AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93862) | Nov 06, 2026 |
-| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93868) | Nov 06, 2026 |
+| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94451) | Nov 06, 2026 |
+| AMD | MTS Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94460) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,CA,San Diego | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94258) | Nov 06, 2026 |
+| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/94301) | Nov 06, 2026 |
 | AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93883) | Nov 06, 2026 |
 | AMD | Systems Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93887) | Nov 06, 2026 |
 | AMD | Silicon Design Engineer 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93925) | Nov 06, 2026 |
 | AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93927) | Nov 06, 2026 |
-| AMD | Test Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93857) | Nov 06, 2026 |
+| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93935) | Nov 06, 2026 |
+| AMD | Software Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93936) | Nov 06, 2026 |
+| AMD | MTS Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93939) | Nov 06, 2026 |
+| AMD | Silicon Design Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93943) | Nov 06, 2026 |
+| AMD | Product Development Engineer 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/93949) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
@@ -98,6 +106,7 @@ how to fork, how to add companies, and how filtering works.
 | Apple | Gate-level Noise (Signal Integrity) / STA CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692988-0157/gate-level-noise-signal-integrity-sta-cad-engineer) | Nov 02, 2026 |
 | Apple | Gate-level Noise (Signal Integrity) / STA CAD Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200692988-3956/gate-level-noise-signal-integrity-sta-cad-engineer) | Nov 02, 2026 |
 | AMD | Software Engineer - Networking, firmware and C++ 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/92603) | Nov 02, 2026 |
+| AMD | Software Development Engineer - GPU Interconnects and Ethernet AI 🇺🇸 | US,CA,Santa Clara | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/92605) | Nov 02, 2026 |
 | CrowdStrike | CrowdStrike Platform Resident Consultant - Government (Remote) 🇺🇸 | USA - Remote | workday | - | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/CrowdStrike-Platform-Resident-Consultant---Government--Remote-_R30684) | Nov 02, 2026 |
 | Qualcomm | Calibration Engineer, Associate 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721831785) | Nov 01, 2026 |
 | Roblox | Software Engineer, Discovery UX 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8304210?gh_jid=8304210) | Oct 30, 2026 |
@@ -621,7 +630,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (402)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (393)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -646,23 +655,14 @@ how to fork, how to add companies, and how filtering works.
 | ~~Shield AI~~ | ~~Engineer I, Software - Perception - New Grad - 6135 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🇺🇸~~ | United States | lever | New Grad | Closed | Nov 08, 2026 |
 | ~~Netflix~~ | ~~Software Engineer in Test 5 - Android Player 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Systems Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~MTS Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,CA,San Diego | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Software Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~MTS Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Silicon Design Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
-| ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
+| ~~AMD~~ | ~~Test Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 05, 2026 |
 | ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
 | ~~AMD~~ | ~~Software Development Engineer - Networking 🇺🇸~~ | US,CA,Santa Clara | jibe | - | Closed | Nov 02, 2026 |
-| ~~AMD~~ | ~~Software Development Engineer - GPU Interconnects and Ethernet AI 🇺🇸~~ | US,CA,Santa Clara | jibe | - | Closed | Nov 02, 2026 |
 | ~~CrowdStrike~~ | ~~CrowdStrike Platform Resident Consultant- Government 🇺🇸~~ | USA - Remote | workday | - | Closed | Nov 02, 2026 |
 | ~~Roblox~~ | ~~[2027] Senior Software Engineer - Data Acquisition PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 30, 2026 |
 | ~~Bloomberg LP~~ | ~~Bloomberg Intelligence - Semiconductors Equity Research Associate 🇺🇸~~ | New York, New York, United States of America | avature | - | Closed | Oct 29, 2026 |
