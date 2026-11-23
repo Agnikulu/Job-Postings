@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 571
-- **All-time tracked:** 984
+- **Open positions:** 572
+- **All-time tracked:** 986
 - **Active companies:** 159
-- **Last run (raw / matched):** 40746 postings fetched, 516 passed filters
-- **Last updated:** `2026-11-23 17:17 UTC`
+- **Last run (raw / matched):** 40583 postings fetched, 517 passed filters
+- **Last updated:** `2026-11-23 18:21 UTC`
 
 ## Legend
 
@@ -40,6 +40,8 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Stripe | Software Engineer, Core Technology 🇺🇸 | South San Francisco, CA | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=8411988) | Nov 23, 2026 |
+| Roblox | Software Engineer, Data Tooling 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8395051?gh_jid=8395051) | Nov 23, 2026 |
 | Affirm | Software Engineer I, Backend (Streaming Infra) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Nov 20, 2026 |
 | Optiver | FutureFocus: Quants (Trading & Research) 2027 🇺🇸 | Chicago | optiver | - | [Apply](https://www.optiver.com/join-us/jobs/trading/chicago/futurefocus-quants-trading-and-research-2027/) | Nov 20, 2026 |
 | Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Boulder, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-0365/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
@@ -587,7 +589,6 @@ how to fork, how to add companies, and how filtering works.
 | Five Rings | Experienced/Lateral - Quantitative Researcher 🇺🇸 | New York | greenhouse | - | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5046298008) | Dec 23, 2025 |
 | Jane Street | Fundamental Research Analyst 🇺🇸 | New York, New York, United States | greenhouse | - | [Apply](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | Dec 19, 2025 |
 | Periodic Labs | Research Scientist, Condensed Matter Theory 🇺🇸 | Menlo Park, CA<br>Montreal, Canada | ashby | Bachelors | [Apply](https://jobs.ashbyhq.com/periodic-labs/01d2c4b2-d848-4426-ad5f-7f1052db3a63) | Nov 12, 2025 |
-| DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) | Nov 05, 2025 |
 | Apple | ASIC Design Engineer 🇺🇸 | Santa Clara, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200628815-3760/asic-design-engineer) | Oct 29, 2025 |
 | Nuro | Software Engineer, AI Platform - New Grad 🇺🇸 | Mountain View, California (HQ) | greenhouse | New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) | Oct 22, 2025 |
 | Waymo | Machine Learning Engineer / Applied Scientist, Prediction & Planning 🇺🇸 | Mountain View, CA USA<br>San Francisco, CA USA | greenhouse | - | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7309064) | Oct 08, 2025 |
@@ -614,7 +615,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (413)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (414)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -1017,6 +1018,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Hudson River Trading~~ | ~~Software Engineer - Treasury Infrastructure 🇺🇸~~ | New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Hudson River Trading~~ | ~~Software Engineer - AI Tools 🇺🇸~~ | Chicago, Illinois, United States<br>New York, NY, United States | greenhouse | BS Student, New Grad | Closed | Feb 02, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad) 🇺🇸~~ | Mountain View, CA USA<br> San Francisco, CA USA<br> | greenhouse | PhD, New Grad | Closed | Dec 22, 2025 |
+| ~~DRW~~ | ~~Research Engineer (Options) 🇺🇸~~ | Chicago | greenhouse | - | Closed | Nov 05, 2025 |
 | ~~Scale AI~~ | ~~Machine Learning Research Scientist Agents - Enterprise GenAI 🇺🇸~~ | San Francisco, CA<br>New York, NY | greenhouse | - | Closed | Oct 31, 2025 |
 | ~~Apple~~ | ~~CPU Design Verification Engineer 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Oct 27, 2025 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Oct 27, 2025 |
