@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 574
+- **Open positions:** 573
 - **All-time tracked:** 984
 - **Active companies:** 159
-- **Last run (raw / matched):** 40603 postings fetched, 519 passed filters
-- **Last updated:** `2026-11-23 14:16 UTC`
+- **Last run (raw / matched):** 40603 postings fetched, 518 passed filters
+- **Last updated:** `2026-11-23 15:17 UTC`
 
 ## Legend
 
@@ -62,7 +62,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | [2027] Data Scientist - PhD Early Career - Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 16, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722250006) | Nov 16, 2026 |
 | Nvidia | Deep Learning Framework Communications Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | Nov 14, 2026 |
-| AMD | Fellow Engineering 🇺🇸 | US,MA,Boxborough | jibe | Masters | [Apply](https://careers.amd.com/careers-home/jobs/97995) | Nov 13, 2026 |
 | Apple | CAD Automation and ML Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200694953-3956/cad-automation-and-ml-engineer) | Nov 13, 2026 |
 | Apple | CAD Automation and ML Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200694953-0157/cad-automation-and-ml-engineer) | Nov 13, 2026 |
 | Affirm | Software Engineer I, Backend (Continuous Delivery) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Nov 12, 2026 |
@@ -617,7 +616,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (410)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (411)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -626,6 +625,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~Benchling~~ | ~~Software Engineer, CDC 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 17, 2026 |
 | ~~Jump Trading~~ | ~~HPC Systems Engineer 🇺🇸~~ | Chicago | greenhouse | New Grad | Closed | Nov 16, 2026 |
 | ~~Pure Storage~~ | ~~Associate Detection Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Nov 16, 2026 |
+| ~~AMD~~ | ~~Fellow Engineering 🇺🇸~~ | US,MA,Boxborough | jibe | Masters | Closed | Nov 13, 2026 |
 | ~~Shield AI~~ | ~~Engineer I, Software - New Grad - 6531 🇺🇸~~ | Washington, D.C. | lever | New Grad | Closed | Nov 13, 2026 |
 | ~~ServiceNow~~ | ~~Associate Agentic Search Infrastructure Engineer - Moveworks 🇺🇸~~ | Mountain View, CALIFORNIA, United States | smartrecruiters | - | Closed | Nov 12, 2026 |
 | ~~1X Technologies~~ | ~~Software Engineer - Applied AI 🇺🇸~~ | San Carlos, CA | ashby | - | Closed | Nov 12, 2026 |
