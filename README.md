@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 572
+- **Open positions:** 574
 - **All-time tracked:** 984
 - **Active companies:** 159
-- **Last run (raw / matched):** 42032 postings fetched, 519 passed filters
-- **Last updated:** `2026-11-23 00:38 UTC`
+- **Last run (raw / matched):** 40637 postings fetched, 519 passed filters
+- **Last updated:** `2026-11-23 01:21 UTC`
 
 ## Legend
 
@@ -103,7 +103,9 @@ how to fork, how to add companies, and how filtering works.
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
 | Roblox | Software Engineer, Frontend - Economy 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | Oct 26, 2026 |
 | Roblox | Software Engineer, Reliability 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | Oct 23, 2026 |
+| Databricks | Associate Forward Deployed Engineer 🇺🇸 | Mountain View, California | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
+| Databricks | Associate Forward Deployed Engineer 🇺🇸 | New York City, New York | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
 | Affirm | Analyst, Early Career (Full Stack) 🇺🇸 | New York, New York, United States<br>San Francisco, California, United States | greenhouse | BS Student, New Grad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | Oct 21, 2026 |
@@ -615,7 +617,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (412)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (410)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -684,12 +686,10 @@ how to fork, how to add companies, and how filtering works.
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | Closed | Oct 23, 2026 |
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | Closed | Oct 23, 2026 |
 | ~~Roblox~~ | ~~Software Engineer, Notifications 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Oct 23, 2026 |
-| ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | Mountain View, California | greenhouse | New Grad | Closed | Oct 23, 2026 |
 | ~~Shield AI~~ | ~~Software Engineer I - Internal Tools (New Grad) - R6052 🇺🇸~~ | Seattle, Washington | lever | New Grad | Closed | Oct 23, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Scenes 🇺🇸~~ | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Compute Infra 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Oct 22, 2026 |
 | ~~Okta~~ | ~~Solutions Engineering Associate, Auth0 🇺🇸~~ | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | Closed | Oct 22, 2026 |
-| ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | New York City, New York | greenhouse | New Grad | Closed | Oct 22, 2026 |
 | ~~Google~~ | ~~UX Engineer, HUE Futures 🇺🇸~~ | San Francisco, CA, USA | google_careers | - | Closed | Oct 22, 2026 |
 | ~~Pure Storage~~ | ~~Junior DevOps Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Oct 21, 2026 |
 | ~~Nvidia~~ | ~~High-Performance LLM Training Engineer - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 21, 2026 |
