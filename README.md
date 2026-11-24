@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 567
-- **All-time tracked:** 987
+- **Open positions:** 568
+- **All-time tracked:** 988
 - **Active companies:** 159
-- **Last run (raw / matched):** 40589 postings fetched, 513 passed filters
-- **Last updated:** `2026-11-24 21:18 UTC`
+- **Last run (raw / matched):** 40586 postings fetched, 514 passed filters
+- **Last updated:** `2026-11-24 22:16 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Rubrik | Software Engineer - Data Protection 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) | Nov 24, 2026 |
 | DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8414528) | Nov 24, 2026 |
 | Stripe | Software Engineer, Core Technology 🇺🇸 | South San Francisco, CA | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=8411988) | Nov 23, 2026 |
 | Roblox | Software Engineer, Data Tooling 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8395051?gh_jid=8395051) | Nov 23, 2026 |
