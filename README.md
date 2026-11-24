@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 570
+- **Open positions:** 569
 - **All-time tracked:** 987
 - **Active companies:** 159
-- **Last run (raw / matched):** 40661 postings fetched, 516 passed filters
-- **Last updated:** `2026-11-24 19:13 UTC`
+- **Last run (raw / matched):** 40587 postings fetched, 515 passed filters
+- **Last updated:** `2026-11-24 20:14 UTC`
 
 ## Legend
 
@@ -60,7 +60,6 @@ how to fork, how to add companies, and how filtering works.
 | Benchling | Software Engineer, CDC 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | Nov 17, 2026 |
 | Akuna Capital | Software Engineer - Python, Post Trade 🇺🇸 | Chicago, IL | greenhouse | New Grad | [Apply](https://www.akunacapital.com/careers/job/8359204/?gh_jid=8359204) | Nov 17, 2026 |
 | Roblox | Software Engineer, Communication Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8386848?gh_jid=8386848) | Nov 17, 2026 |
-| Google | UX Researcher, Enterprise Platform, Google Ads 🇺🇸 | Seattle, WA, USA | google_careers | - | [Apply](https://www.google.com/about/careers/applications/jobs/results/86277138008679110) | Nov 17, 2026 |
 | xAI | Software Engineer, Ads Serving 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/xai/jobs/5297311007) | Nov 16, 2026 |
 | Roblox | [2027] Data Scientist - PhD Early Career - Safety 🇺🇸 | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) | Nov 16, 2026 |
 | Generate Biomedicines | Scientist I, Synthetic Biology 🇺🇸 | Somerville, MA | greenhouse | - | [Apply](https://generatebiomedicines.com/open-positions?gh_jid=4722250006) | Nov 16, 2026 |
@@ -613,13 +612,14 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (417)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (418)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
 | ~~Optiver~~ | ~~FutureFocus: Quants (Trading & Research) 2027 🇺🇸~~ | Chicago | optiver | - | Closed | Nov 20, 2026 |
 | ~~Benchling~~ | ~~Software Engineer, CDC 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 17, 2026 |
+| ~~Google~~ | ~~UX Researcher, Enterprise Platform, Google Ads 🇺🇸~~ | Seattle, WA, USA | google_careers | - | Closed | Nov 17, 2026 |
 | ~~Jump Trading~~ | ~~HPC Systems Engineer 🇺🇸~~ | Chicago | greenhouse | New Grad | Closed | Nov 16, 2026 |
 | ~~Pure Storage~~ | ~~Associate Detection Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Nov 16, 2026 |
 | ~~AMD~~ | ~~Fellow Engineering 🇺🇸~~ | US,MA,Boxborough | jibe | Masters | Closed | Nov 13, 2026 |
