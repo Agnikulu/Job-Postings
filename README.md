@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 569
+- **Open positions:** 570
 - **All-time tracked:** 987
 - **Active companies:** 159
-- **Last run (raw / matched):** 40580 postings fetched, 515 passed filters
-- **Last updated:** `2026-11-24 18:17 UTC`
+- **Last run (raw / matched):** 40661 postings fetched, 516 passed filters
+- **Last updated:** `2026-11-24 19:13 UTC`
 
 ## Legend
 
@@ -106,6 +106,7 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | Software Engineer, Frontend - Economy 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | Oct 26, 2026 |
 | Roblox | Software Engineer, Reliability 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
+| Databricks | Associate Forward Deployed Engineer 🇺🇸 | New York City, New York | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
 | Affirm | Analyst, Early Career (Full Stack) 🇺🇸 | New York, New York, United States<br>San Francisco, California, United States | greenhouse | BS Student, New Grad | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | Oct 21, 2026 |
@@ -612,7 +613,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (418)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (417)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -687,7 +688,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Waymo~~ | ~~Machine Learning Engineer, Scenes 🇺🇸~~ | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Compute Infra 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Oct 22, 2026 |
 | ~~Okta~~ | ~~Solutions Engineering Associate, Auth0 🇺🇸~~ | Florida<br>New York, New York<br>Pennsylvania<br>Washington, DC | greenhouse | - | Closed | Oct 22, 2026 |
-| ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | New York City, New York | greenhouse | New Grad | Closed | Oct 22, 2026 |
 | ~~Google~~ | ~~UX Engineer, HUE Futures 🇺🇸~~ | San Francisco, CA, USA | google_careers | - | Closed | Oct 22, 2026 |
 | ~~Pure Storage~~ | ~~Junior DevOps Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Oct 21, 2026 |
 | ~~Nvidia~~ | ~~High-Performance LLM Training Engineer - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 21, 2026 |
