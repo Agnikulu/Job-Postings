@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 569
+- **Open positions:** 567
 - **All-time tracked:** 987
 - **Active companies:** 159
-- **Last run (raw / matched):** 40587 postings fetched, 515 passed filters
-- **Last updated:** `2026-11-24 20:14 UTC`
+- **Last run (raw / matched):** 40589 postings fetched, 513 passed filters
+- **Last updated:** `2026-11-24 21:18 UTC`
 
 ## Legend
 
@@ -480,8 +480,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Application Software Engineer 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002) | Jun 26, 2026 |
 | SpaceX | Application Software Engineer 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8611189002?gh_jid=8611189002) | Jun 26, 2026 |
 | SpaceX | Application Software Engineer - Memphis 🇺🇸 | Memphis, TN | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002) | Jun 26, 2026 |
-| Apple | Custom Timing and Verification CAD Engineer 🇺🇸 | Austin, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200669990-0157/custom-timing-and-verification-cad-engineer) | Jun 25, 2026 |
-| Apple | Custom Timing and Verification CAD Engineer 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200669990-3956/custom-timing-and-verification-cad-engineer) | Jun 25, 2026 |
 | Anduril | Mission Engineer, Air Dominance & Strike, Early Career 🇺🇸 | Costa Mesa, California, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007) | Jun 25, 2026 |
 | SpaceX | Network Software Integration Engineer (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8599648002?gh_jid=8599648002) | Jun 23, 2026 |
 | SpaceX | Embedded Software Engineer, Satellite Antenna (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8603628002?gh_jid=8603628002) | Jun 23, 2026 |
@@ -612,7 +610,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (418)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (420)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -991,6 +989,8 @@ how to fork, how to add companies, and how filtering works.
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
 | ~~Roblox~~ | ~~[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career 🇺🇸~~ | San Mateo, CA, United States | greenhouse | PhD Student, New Grad | Closed | Jun 30, 2026 |
 | ~~Airbnb~~ | ~~Data Scientist - Algorithms, Community Support 🇺🇸~~ | Remote - USA | greenhouse | - | Closed | Jun 28, 2026 |
+| ~~Apple~~ | ~~Custom Timing and Verification CAD Engineer 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Jun 25, 2026 |
+| ~~Apple~~ | ~~Custom Timing and Verification CAD Engineer 🇺🇸~~ | Sunnyvale, United States of America | apple | - | Closed | Jun 25, 2026 |
 | ~~Hudson River Trading~~ | ~~Junior Treasury Quant Researcher 🇺🇸~~ | New York, NY, United States | greenhouse | - | Closed | Jun 24, 2026 |
 | ~~SpaceX~~ | ~~Application Software Engineer, Manufacturing Systems 🇺🇸~~ | Bastrop, TX | greenhouse | - | Closed | Jun 18, 2026 |
 | ~~Anduril~~ | ~~Software Engineer, Manufacturing Test 🇺🇸~~ | Costa Mesa, California, United States | greenhouse | MS Student | Closed | Jun 10, 2026 |
