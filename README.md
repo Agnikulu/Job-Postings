@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 570
-- **All-time tracked:** 986
+- **Open positions:** 569
+- **All-time tracked:** 987
 - **Active companies:** 159
-- **Last run (raw / matched):** 41863 postings fetched, 517 passed filters
-- **Last updated:** `2026-11-24 17:17 UTC`
+- **Last run (raw / matched):** 40580 postings fetched, 515 passed filters
+- **Last updated:** `2026-11-24 18:17 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8414528) | Nov 24, 2026 |
 | Stripe | Software Engineer, Core Technology 🇺🇸 | South San Francisco, CA | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=8411988) | Nov 23, 2026 |
 | Roblox | Software Engineer, Data Tooling 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8395051?gh_jid=8395051) | Nov 23, 2026 |
 | Affirm | Software Engineer I, Backend (Streaming Infra) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Nov 20, 2026 |
@@ -104,7 +105,6 @@ how to fork, how to add companies, and how filtering works.
 | Apptronik | Software Engineer - Manipulation 🇺🇸 | Sunnyvale, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/apptronik/jobs/6236582004?gh_jid=6236582004) | Oct 27, 2026 |
 | Roblox | Software Engineer, Frontend - Economy 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) | Oct 26, 2026 |
 | Roblox | Software Engineer, Reliability 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | Oct 23, 2026 |
-| Databricks | Associate Forward Deployed Engineer 🇺🇸 | Mountain View, California | greenhouse | New Grad | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) | Oct 23, 2026 |
 | Nvidia | Silicon Co-Design Engineer - New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335) | Oct 22, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645804) | Oct 21, 2026 |
 | Qualcomm | RTL core/processor Microarchitecture Engineer 🇺🇸 | Austin, TX, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721645906) | Oct 21, 2026 |
@@ -192,7 +192,6 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Full Stack Software Engineer, Launch Software 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8849598002?gh_jid=8849598002) | Sep 27, 2026 |
 | SpaceX | Software Engineer, Manufacturing Infrastructure 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002) | Sep 26, 2026 |
 | SpaceX | Full Stack Software Engineer, Manufacturing Systems 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8848609002?gh_jid=8848609002) | Sep 26, 2026 |
-| CoreWeave | Software Engineer, Inference 🇺🇸 | Sunnyvale, CA / Bellevue, WA | greenhouse | - | [Apply](https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006) | Sep 25, 2026 |
 | SpaceX | Software Engineer (Starlink Ground Network) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002) | Sep 25, 2026 |
 | SpaceX | Software Engineer, Backend (Python/C++) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8845089002?gh_jid=8845089002) | Sep 25, 2026 |
 | SpaceX | Construction Technician, Starbase Infrastructure 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8846172002?gh_jid=8846172002) | Sep 25, 2026 |
@@ -613,7 +612,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (416)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (418)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -683,6 +682,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | Closed | Oct 23, 2026 |
 | ~~ServiceNow~~ | ~~Associate Software Engineer 🇺🇸~~ | Santa Clara, CALIFORNIA, United States | smartrecruiters | - | Closed | Oct 23, 2026 |
 | ~~Roblox~~ | ~~Software Engineer, Notifications 🇺🇸~~ | San Mateo, CA, United States | greenhouse | - | Closed | Oct 23, 2026 |
+| ~~Databricks~~ | ~~Associate Forward Deployed Engineer 🇺🇸~~ | Mountain View, California | greenhouse | New Grad | Closed | Oct 23, 2026 |
 | ~~Shield AI~~ | ~~Software Engineer I - Internal Tools (New Grad) - R6052 🇺🇸~~ | Seattle, Washington | lever | New Grad | Closed | Oct 23, 2026 |
 | ~~Waymo~~ | ~~Machine Learning Engineer, Scenes 🇺🇸~~ | Mountain View, California, United States, San Francisco, California, United States | greenhouse | - | Closed | Oct 22, 2026 |
 | ~~Cursor~~ | ~~Software Engineer, Compute Infra 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Oct 22, 2026 |
@@ -794,6 +794,7 @@ how to fork, how to add companies, and how filtering works.
 | ~~GitHub~~ | ~~Associate - Software Development & Engineering 🇺🇸~~ | Southlake, TX | linkedin | - | Closed | Sep 26, 2026 |
 | ~~GitHub~~ | ~~Associate - Software Development & Engineering 🇺🇸~~ | Austin, TX | linkedin | - | Closed | Sep 26, 2026 |
 | ~~Atlassian~~ | ~~Machine Learning Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 26, 2026 |
+| ~~CoreWeave~~ | ~~Software Engineer, Inference 🇺🇸~~ | Sunnyvale, CA / Bellevue, WA | greenhouse | - | Closed | Sep 25, 2026 |
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | Austin, United States of America | apple | - | Closed | Sep 25, 2026 |
 | ~~Apple~~ | ~~CAD Engineer - Signoff Infrastructure 🇺🇸~~ | San Jose, United States of America | apple | - | Closed | Sep 25, 2026 |
 | ~~Microsoft~~ | ~~Software Engineer I - CTJ - Poly 🇺🇸~~ | Reston, VA, US | microsoft | Early Career | Closed | Sep 25, 2026 |
