@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 568
-- **All-time tracked:** 988
+- **Open positions:** 569
+- **All-time tracked:** 989
 - **Active companies:** 159
-- **Last run (raw / matched):** 40586 postings fetched, 514 passed filters
-- **Last updated:** `2026-11-24 22:16 UTC`
+- **Last run (raw / matched):** 40598 postings fetched, 515 passed filters
+- **Last updated:** `2026-11-24 23:17 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Veeva Systems | Associate Software Engineer - 2027 Start Dates 🇺🇸 | North Carolina - Raleigh | lever | - | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f) | Nov 24, 2026 |
 | Rubrik | Software Engineer - Data Protection 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) | Nov 24, 2026 |
 | DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8414528) | Nov 24, 2026 |
 | Stripe | Software Engineer, Core Technology 🇺🇸 | South San Francisco, CA | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=8411988) | Nov 23, 2026 |
