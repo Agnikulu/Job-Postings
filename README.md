@@ -20,10 +20,10 @@ how to fork, how to add companies, and how filtering works.
 ## Stats
 
 - **Open positions:** 569
-- **All-time tracked:** 989
+- **All-time tracked:** 990
 - **Active companies:** 159
-- **Last run (raw / matched):** 41922 postings fetched, 515 passed filters
-- **Last updated:** `2026-11-25 22:17 UTC`
+- **Last run (raw / matched):** 39799 postings fetched, 497 passed filters
+- **Last updated:** `2026-11-25 23:13 UTC`
 
 ## Legend
 
@@ -40,6 +40,7 @@ how to fork, how to add companies, and how filtering works.
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| Thinking Machines Lab | Research Engineer, Infrastructure, RL Infra / Systems 🇺🇸 | San Francisco | ashby | - | [Apply](https://jobs.ashbyhq.com/ThinkingMachines/c09f086c-b34b-4d34-b1fb-e5672c666dd8) | Nov 25, 2026 |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates 🇺🇸 | North Carolina - Raleigh | lever | - | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f) | Nov 24, 2026 |
 | Rubrik | Software Engineer - Data Protection 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) | Nov 24, 2026 |
 | DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8414528) | Nov 24, 2026 |
@@ -47,7 +48,6 @@ how to fork, how to add companies, and how filtering works.
 | Roblox | Software Engineer, Data Tooling 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8395051?gh_jid=8395051) | Nov 23, 2026 |
 | Affirm | Software Engineer I, Backend (Streaming Infra) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Nov 20, 2026 |
 | Optiver | FutureFocus: Quants (Trading & Research) 2027 🇺🇸 | Chicago | optiver | - | [Apply](https://www.optiver.com/join-us/jobs/trading/chicago/futurefocus-quants-trading-and-research-2027/) | Nov 20, 2026 |
-| Zscaler | Software Development Engineer 🇺🇸 | Santa Clara, California, USA | greenhouse | - | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/5283494007) | Nov 20, 2026 |
 | Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Boulder, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-0365/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
 | Apple | AR/VR Software Engineer - Spatial System UI, Vision Products Software 🇺🇸 | Sunnyvale, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696147-3956/ar-vr-software-engineer-spatial-system-ui-vision-products-software) | Nov 20, 2026 |
 | Apple | Software Engineer - Machine Learning and Intelligent Engineering Workflows 🇺🇸 | San Diego, United States of America | apple | - | [Apply](https://jobs.apple.com/en-us/details/200696049-3543/software-engineer-machine-learning-and-intelligent-engineering-workflows) | Nov 19, 2026 |
@@ -612,11 +612,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (420)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (421)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Zscaler~~ | ~~Software Development Engineer 🇺🇸~~ | Santa Clara, California, USA | greenhouse | - | Closed | Nov 20, 2026 |
 | ~~Optiver~~ | ~~FutureFocus: Quants (Trading & Research) 2027 🇺🇸~~ | Chicago | optiver | - | Closed | Nov 20, 2026 |
 | ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 18, 2026 |
 | ~~Benchling~~ | ~~Software Engineer, CDC 🇺🇸~~ | San Francisco, CA | ashby | - | Closed | Nov 17, 2026 |
