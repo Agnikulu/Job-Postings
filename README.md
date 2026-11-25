@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 568
+- **Open positions:** 569
 - **All-time tracked:** 989
 - **Active companies:** 159
-- **Last run (raw / matched):** 40558 postings fetched, 513 passed filters
-- **Last updated:** `2026-11-25 17:15 UTC`
+- **Last run (raw / matched):** 40563 postings fetched, 514 passed filters
+- **Last updated:** `2026-11-25 18:22 UTC`
 
 ## Legend
 
@@ -84,6 +84,7 @@ how to fork, how to add companies, and how filtering works.
 | Nvidia | Research Scientist, AI and Systems Security - PhD New College Grad 2026 🇺🇸 | 2 Locations | workday | PhD, New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Research-Scientist--AI-and-Systems-Security---PhD-New-College-Grad-2026_JR2025894) | Nov 06, 2026 |
 | AMD | Fellow, Agentic AI Software 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/96895) | Nov 06, 2026 |
 | Benchling | Research Engineer, Model Evaluation and Improvement 🇺🇸 | San Francisco, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13) | Nov 05, 2026 |
+| Qualcomm | M/L Compiler 🇺🇸 | New York, NY, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446716318710) | Nov 03, 2026 |
 | AMD | Advanced AI Workloads - Performance and Scalability Engineer 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/97094) | Nov 03, 2026 |
 | Roblox | Software Engineer, Engine Productivity 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | Nov 03, 2026 |
 | Nvidia | GPU System and Scheduling Architect – New College Grad 2026 🇺🇸 | US, CA, Santa Clara | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2028824) | Nov 03, 2026 |
@@ -611,7 +612,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (421)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (420)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -661,7 +662,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~AMD~~ | ~~Product Development Engineer 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Test Engineer 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 06, 2026 |
 | ~~AMD~~ | ~~Fellow, AI Workload Optimization 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Nov 05, 2026 |
-| ~~Qualcomm~~ | ~~M/L Compiler 🇺🇸~~ | New York, NY, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Qualcomm~~ | ~~Modem Machine Learning Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 03, 2026 |
 | ~~Netflix~~ | ~~Software Development Engineer in Test 5, TV & Web Player - Developer Experience & Release Quality 🇺🇸~~ | Los Gatos,California,United States of America | eightfold | - | Closed | Nov 03, 2026 |
 | ~~AMD~~ | ~~Software Development Engineer - Networking 🇺🇸~~ | US,CA,Santa Clara | jibe | - | Closed | Nov 02, 2026 |
