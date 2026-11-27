@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 563
+- **Open positions:** 561
 - **All-time tracked:** 990
 - **Active companies:** 159
-- **Last run (raw / matched):** 40739 postings fetched, 514 passed filters
-- **Last updated:** `2026-11-27 15:16 UTC`
+- **Last run (raw / matched):** 40620 postings fetched, 512 passed filters
+- **Last updated:** `2026-11-27 16:19 UTC`
 
 ## Legend
 
@@ -303,14 +303,12 @@ how to fork, how to add companies, and how filtering works.
 | SpaceX | Data Scientist (Starlink) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8783265002?gh_jid=8783265002) | Sep 04, 2026 |
 | Scale AI | Software Engineer - New Grad 🇺🇸 | San Francisco, CA | greenhouse | New Grad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | Sep 04, 2026 |
 | AMD | Field Applications Engineer, AI Infrastructure 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/91746) | Sep 03, 2026 |
-| AMD | GPU Kernel Development Engineer - Fellow 🇺🇸 | US,TX,Austin | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/91618) | Sep 03, 2026 |
 | SpaceX | Software Engineer (Flight Reliability) 🇺🇸 | Hawthorne, CA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8783243002?gh_jid=8783243002) | Sep 03, 2026 |
 | SpaceX | Software Engineer (Flight Reliability) 🇺🇸 | Redmond, WA | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8783281002?gh_jid=8783281002) | Sep 03, 2026 |
 | SpaceX | Software Engineer (Flight Reliability) 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002) | Sep 03, 2026 |
 | SpaceX | New Graduate Engineer, Starship Components 🇺🇸 | Hawthorne, CA | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) | Sep 03, 2026 |
 | Snowflake | AI Research Scientist, New Grad – Agents & Reinforcement Learning 🇺🇸 | US-WA-Bellevue | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698) | Sep 03, 2026 |
 | AMD | Fellow Software Development Engineer, GEMM Optimization 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/91509) | Sep 02, 2026 |
-| AMD | GPU Runtime and System Software Engineer - Fellow 🇺🇸 | US,CA,San Jose | jibe | - | [Apply](https://careers.amd.com/careers-home/jobs/91572) | Sep 02, 2026 |
 | Applied Intuition | Forward Deployed Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943) | Sep 02, 2026 |
 | Applied Intuition | Cybersecurity Software Engineer - New Grad (2027) 🇺🇸 | Sunnyvale | ashby | New Grad | [Apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e) | Sep 02, 2026 |
 | Anduril | 2027 Early Career Flight Software Engineer 🇺🇸 | Costa Mesa, California, United States | greenhouse | New Grad | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | Sep 02, 2026 |
@@ -606,7 +604,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (427)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (429)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -892,12 +890,14 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~ASIC Design Engineer - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Sep 04, 2026 |
 | ~~Nvidia~~ | ~~Software R&D Engineer, VLSI Physical Design - New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 04, 2026 |
 | ~~Anthropic~~ | ~~Research & Education Sales Lead, Beneficial Deployments 🇺🇸~~ | San Francisco, CA \| New York City, NY | greenhouse | - | Closed | Sep 04, 2026 |
+| ~~AMD~~ | ~~GPU Kernel Development Engineer - Fellow 🇺🇸~~ | US,TX,Austin | jibe | - | Closed | Sep 03, 2026 |
 | ~~Qualcomm~~ | ~~Embedded Software Engineer – Device Driver Development 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 03, 2026 |
 | ~~SpaceX~~ | ~~AI Security Software Engineer (Starshield) 🇺🇸~~ | Hawthorne, CA | greenhouse | - | Closed | Sep 03, 2026 |
 | ~~SpaceX~~ | ~~AI Security Software Engineer (Starshield) 🇺🇸~~ | Washington, DC | greenhouse | - | Closed | Sep 03, 2026 |
 | ~~SIG~~ | ~~Quantitative Researcher – Master's: 2027 🇺🇸~~ | Bala-Cynwyd, PA | linkedin | Masters | Closed | Sep 03, 2026 |
 | ~~SIG~~ | ~~Quantitative Researcher – Master's: 2027 🇺🇸~~ | New York, NY | linkedin | Masters | Closed | Sep 03, 2026 |
 | ~~Qualcomm~~ | ~~Software Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 03, 2026 |
+| ~~AMD~~ | ~~GPU Runtime and System Software Engineer - Fellow 🇺🇸~~ | US,CA,San Jose | jibe | - | Closed | Sep 02, 2026 |
 | ~~Qualcomm~~ | ~~Systems SoC Test Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 02, 2026 |
 | ~~SpaceX~~ | ~~IT Network Infrastructure Technician (Weekend Shift) 🇺🇸~~ | Cape Canaveral, FL | greenhouse | - | Closed | Sep 01, 2026 |
 | ~~SIG~~ | ~~Software Developer \| Core Order Management System \| C++ \| Experienced Hire 🇺🇸~~ | Chicago, IL | linkedin | - | Closed | Sep 01, 2026 |
