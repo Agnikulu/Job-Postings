@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 563
+- **Open positions:** 561
 - **All-time tracked:** 990
 - **Active companies:** 159
-- **Last run (raw / matched):** 40579 postings fetched, 514 passed filters
-- **Last updated:** `2026-11-27 03:23 UTC`
+- **Last run (raw / matched):** 40583 postings fetched, 512 passed filters
+- **Last updated:** `2026-11-27 04:19 UTC`
 
 ## Legend
 
@@ -227,8 +227,6 @@ how to fork, how to add companies, and how filtering works.
 | LinkedIn | Fellow, Software Engineering- Infrastructure 🇺🇸 | Mountain View, CA | linkedin | - | [Apply](https://www.linkedin.com/jobs/view/4393214814) | Sep 20, 2026 |
 | Qualcomm | #Wireless S/w Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446721159541) | Sep 18, 2026 |
 | SpaceX | Software Engineer (Controls Software) 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002) | Sep 18, 2026 |
-| Qualcomm | Machine Learning Researcher 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719107884) | Sep 17, 2026 |
-| Qualcomm | #Systems SoC Test Engineer 🇺🇸 | San Diego, CA, US | eightfold_pcsx | - | [Apply](https://careers.qualcomm.com/careers/job/446719874307) | Sep 17, 2026 |
 | Squarepoint Capital | Quantitative Researcher - Discretionary Oil 🇺🇸 | Houston | greenhouse | - | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8209423&gh_jid=8209423) | Sep 17, 2026 |
 | Tower Research Capital | Data Analyst 🇺🇸 | New York | greenhouse | - | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8167234) | Sep 16, 2026 |
 | SpaceX | Material Flow Engineer 🇺🇸 | Starbase, TX | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8784757002?gh_jid=8784757002) | Sep 16, 2026 |
@@ -606,7 +604,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (427)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (429)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -822,7 +820,9 @@ how to fork, how to add companies, and how filtering works.
 | ~~Qualcomm~~ | ~~Camera Power Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 18, 2026 |
 | ~~Qualcomm~~ | ~~Engineering Technician 🇺🇸~~ | Boxborough, MA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Qualcomm~~ | ~~#Embedded Software Engineer – Device Driver Development 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
+| ~~Qualcomm~~ | ~~Machine Learning Researcher 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Qualcomm~~ | ~~Video DV Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
+| ~~Qualcomm~~ | ~~#Systems SoC Test Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Qualcomm~~ | ~~Modem Integration & Test Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Sep 17, 2026 |
 | ~~Stripe~~ | ~~Software Engineer, Early Career — Immediate Start 🇺🇸~~ | San Francisco, Seattle, New York | greenhouse | New Grad | Closed | Sep 17, 2026 |
 | ~~Pure Storage~~ | ~~Associate Security Engineer 🇺🇸~~ | Santa Clara, California | greenhouse | - | Closed | Sep 17, 2026 |
