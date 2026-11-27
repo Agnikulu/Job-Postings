@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 562
+- **Open positions:** 561
 - **All-time tracked:** 990
 - **Active companies:** 159
-- **Last run (raw / matched):** 40562 postings fetched, 513 passed filters
-- **Last updated:** `2026-11-27 21:15 UTC`
+- **Last run (raw / matched):** 41862 postings fetched, 513 passed filters
+- **Last updated:** `2026-11-27 22:17 UTC`
 
 ## Legend
 
@@ -44,7 +44,6 @@ how to fork, how to add companies, and how filtering works.
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates 🇺🇸 | North Carolina - Raleigh | lever | - | [Apply](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f) | Nov 24, 2026 |
 | Rubrik | Software Engineer - Data Protection 🇺🇸 | Palo Alto, CA | greenhouse | - | [Apply](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) | Nov 24, 2026 |
 | DRW | Research Engineer (Options) 🇺🇸 | Chicago | greenhouse | - | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8414528) | Nov 24, 2026 |
-| Stripe | Software Engineer, Core Technology 🇺🇸 | South San Francisco, CA | greenhouse | - | [Apply](https://stripe.com/jobs/search?gh_jid=8411988) | Nov 23, 2026 |
 | Roblox | Software Engineer, Data Tooling 🇺🇸 | San Mateo, CA, United States | greenhouse | - | [Apply](https://careers.roblox.com/jobs/8395051?gh_jid=8395051) | Nov 23, 2026 |
 | Affirm | Software Engineer I, Backend (Streaming Infra) 🇺🇸 | Remote US | greenhouse | Early Career | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Nov 20, 2026 |
 | Optiver | FutureFocus: Quants (Trading & Research) 2027 🇺🇸 | Chicago | optiver | - | [Apply](https://www.optiver.com/join-us/jobs/trading/chicago/futurefocus-quants-trading-and-research-2027/) | Nov 20, 2026 |
@@ -605,11 +604,12 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (428)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (429)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
 |---------|------|----------|--------|-----------|-------|-------------|
+| ~~Stripe~~ | ~~Software Engineer, Core Technology 🇺🇸~~ | South San Francisco, CA | greenhouse | - | Closed | Nov 23, 2026 |
 | ~~Zscaler~~ | ~~Software Development Engineer 🇺🇸~~ | Santa Clara, California, USA | greenhouse | - | Closed | Nov 20, 2026 |
 | ~~Optiver~~ | ~~FutureFocus: Quants (Trading & Research) 2027 🇺🇸~~ | Chicago | optiver | - | Closed | Nov 20, 2026 |
 | ~~Qualcomm~~ | ~~Embedded Systems Software Engineer 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Nov 18, 2026 |
