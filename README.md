@@ -19,11 +19,11 @@ how to fork, how to add companies, and how filtering works.
 
 ## Stats
 
-- **Open positions:** 561
+- **Open positions:** 563
 - **All-time tracked:** 990
 - **Active companies:** 159
-- **Last run (raw / matched):** 40560 postings fetched, 512 passed filters
-- **Last updated:** `2026-11-28 05:17 UTC`
+- **Last run (raw / matched):** 43247 postings fetched, 519 passed filters
+- **Last updated:** `2026-11-28 06:27 UTC`
 
 ## Legend
 
@@ -114,6 +114,7 @@ how to fork, how to add companies, and how filtering works.
 | IMC Trading | Systems Engineer - Global Development Platform 🇺🇸 | Chicago, United States | greenhouse | - | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/5004989101) | Oct 21, 2026 |
 | Atlassian | Security Engineer, 2027 Graduate U.S. 🇺🇸 | Seattle - United States - Seattle, Washington United States | atlassian | BS Student | [Apply](https://www.atlassian.com/company/careers/details/25997) | Oct 20, 2026 |
 | Nvidia | Power Architect - New College Grad 2027 🇺🇸 | 2 Locations | workday | New Grad | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718) | Oct 20, 2026 |
+| Verily | Cloud Engineer - NCG 🇺🇸 | Raleigh, North Carolina | workday | - | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/ATLAS-Software-Engineer_REQ-330) | Oct 20, 2026 |
 | Scale AI | AI Safety Residency — Scale Labs Preparedness & Policy (SLPreP) 🇺🇸 | United States | greenhouse | - | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | Wisconsin - Madison | lever | New Grad | [Apply](https://jobs.lever.co/veeva/34e52048-35af-413c-a230-4f1957f175d3) | Oct 16, 2026 |
 | Veeva Systems | Associate Consultant - Entry-Level Clinical Data Technology Consulting 🇺🇸 | New York - New York City | lever | New Grad | [Apply](https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac) | Oct 16, 2026 |
@@ -238,6 +239,7 @@ how to fork, how to add companies, and how filtering works.
 | Cerebras | Software Engineer, Kernel Reliability 🇺🇸 | Sunnyvale, CA | ashby | - | [Apply](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f) | Sep 15, 2026 |
 | SpaceX | Fabrication Technician (Panel Systems) - Multiple Shifts 🇺🇸 | Cape Canaveral, FL | greenhouse | - | [Apply](https://boards.greenhouse.io/spacex/jobs/8779919002?gh_jid=8779919002) | Sep 15, 2026 |
 | Amazon Web Services (AWS) | MLA Design Verification Engineer I, Annapurna Labs 🇺🇸 | Austin, TX, USA | amazon_jobs | Early Career | [Apply](https://www.amazon.jobs/en/jobs/10541170/mla-design-verification-engineer-i-annapurna-labs) | Sep 15, 2026 |
+| Palo Alto Networks | Software Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011532) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Technical Marketing Engineer 🇺🇸 | Office - USA - CA - Headquarters | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Systems Engineer 🇺🇸 | Office - USA - TX | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---TX/Associate-Systems-Engineer_JR-011810) | Sep 14, 2026 |
 | Palo Alto Networks | Associate Systems Engineer 🇺🇸 | Office - USA - TX | workday | - | [Apply](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---USA---TX/Associate-Systems-Engineer_JR-011817) | Sep 14, 2026 |
@@ -604,7 +606,7 @@ how to fork, how to add companies, and how filtering works.
 
 
 <details>
-<summary><b>Closed positions (429)</b> &mdash; click to expand</summary>
+<summary><b>Closed positions (427)</b> &mdash; click to expand</summary>
 
 
 | Company | Role | Location | Source | Education | Apply | Date Posted |
@@ -690,7 +692,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, Agent Performance Modeling - New College Grad 2026 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 20, 2026 |
 | ~~Broadcom~~ | ~~Field Applications Engineer 🇺🇸~~ | USA-NC-Remote Location | workday | - | Closed | Oct 20, 2026 |
 | ~~Waymo~~ | ~~Product Data Scientist - Marketplace Logistics 🇺🇸~~ | Mountain View, CA, USA, San Francisco, CA, USA | greenhouse | - | Closed | Oct 20, 2026 |
-| ~~Verily~~ | ~~Cloud Engineer - NCG 🇺🇸~~ | Raleigh, North Carolina | workday | - | Closed | Oct 20, 2026 |
 | ~~Qualcomm~~ | ~~Engineer – AI Model Enablement & Software Tools 🇺🇸~~ | San Diego, CA, US | eightfold_pcsx | - | Closed | Oct 19, 2026 |
 | ~~Nvidia~~ | ~~Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 🇺🇸~~ | US, CA, Santa Clara | workday | New Grad | Closed | Oct 19, 2026 |
 | ~~Apple~~ | ~~Software Engineer, IS&T Early Career Opportunities 🇺🇸~~ | Cupertino, United States of America | apple | New Grad | Closed | Oct 19, 2026 |
@@ -838,7 +839,6 @@ how to fork, how to add companies, and how filtering works.
 | ~~Nvidia~~ | ~~Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 🇺🇸~~ | 2 Locations | workday | New Grad | Closed | Sep 15, 2026 |
 | ~~Qualcomm~~ | ~~Machine Learning Engineer 🇺🇸~~ | San Diego, CA | linkedin | - | Closed | Sep 15, 2026 |
 | ~~Atlassian~~ | ~~Software Engineer, 2027 Graduate U.S. 🇺🇸~~ | Seattle, WA | linkedin | - | Closed | Sep 15, 2026 |
-| ~~Palo Alto Networks~~ | ~~Software Engineer 🇺🇸~~ | Office - USA - CA - Headquarters | workday | - | Closed | Sep 14, 2026 |
 | ~~Palo Alto Networks~~ | ~~Software Engineer 🇺🇸~~ | Office - USA - CA - Headquarters | workday | - | Closed | Sep 14, 2026 |
 | ~~Palo Alto Networks~~ | ~~Software Engineer 🇺🇸~~ | Office - USA - CA - Headquarters | workday | - | Closed | Sep 14, 2026 |
 | ~~Palo Alto Networks~~ | ~~Software Engineer 🇺🇸~~ | Office - USA - CA - Headquarters | workday | - | Closed | Sep 14, 2026 |
